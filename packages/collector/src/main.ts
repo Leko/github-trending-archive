@@ -7,6 +7,27 @@ import { format } from "@fast-csv/format";
 import { TrendingPage } from "./pageObjects/TrendingPage";
 
 const CONCURRENCY = 12;
+const ALLOW_LANGUAGES = [
+  "Go",
+  "JavaScript",
+  "TypeScript",
+  "Rust",
+  "Python",
+  "CSS",
+  "Elixir",
+  "Haskell",
+  "HTML",
+  "Kotlin",
+  "Lua",
+  "Markdown",
+  "Perl",
+  "PHP",
+  "R",
+  "Scala",
+  "Shell",
+  "Svelte",
+  "Vue",
+];
 
 function getToday() {
   const now = new Date();
@@ -56,18 +77,21 @@ async function main() {
     const entry = await TrendingPage.from(await browser.newPage());
     const languages = await entry.getLanguages().finally(() => entry.close());
     const result = await Promise.all(
-      languages.map((lang) => {
-        return limiter.schedule(async () => {
-          const page = await TrendingPage.from(
-            await browser.newPage(),
-            lang.url
-          );
-          return {
-            ...lang,
-            items: await page.getRepositories().finally(() => page.close()),
-          };
-        });
-      })
+      languages
+        .filter((l) => ALLOW_LANGUAGES.includes(l.label))
+        .map((lang) => {
+          return limiter.schedule(async () => {
+            await new Promise((resolve) => setTimeout(resolve, 1000 * 10));
+            const page = await TrendingPage.from(
+              await browser.newPage(),
+              lang.url
+            );
+            return {
+              ...lang,
+              items: await page.getRepositories().finally(() => page.close()),
+            };
+          });
+        })
     );
     await exportTo(result, process.argv[2]);
   } finally {
