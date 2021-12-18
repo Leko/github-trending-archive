@@ -1,0 +1,29 @@
+enum Language {
+  javascript
+  typescript
+}
+
+type Repository {
+  stargazers: Int!
+  starsToday: Int!
+  description: String!
+  owner: String!
+  name: String!
+  url: String!
+}
+
+type RepositoryEdge {
+  node: Repository!
+}
+type RepositoryConnection {
+  totalCount: Int!
+  edges: [RepositoryEdge!]!
+}
+
+type Trending {
+  repositories: RepositoryConnection!
+}
+
+type Query {
+  trending(date: String!, language: Language): Trending!
+}
