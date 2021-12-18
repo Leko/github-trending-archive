@@ -1,0 +1,15 @@
+{
+  "name": "@lekoleko/github-trending-archive",
+  "private": true,
+  "version": "0.0.0",
+  "description": "The hiistory of GitHub trending",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "Leko/github-trending-archive",
+  "author": "Leko <leko.noor@gmail.com>",
+  "license": "MIT"
+}

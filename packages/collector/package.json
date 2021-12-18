@@ -1,0 +1,24 @@
+{
+  "name": "collector",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "author": "Leko <leko.noor@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fast-csv/format": "^4.3.5",
+    "bottleneck": "^2.19.5",
+    "puppeteer": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.0",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
