@@ -1,26 +1,26 @@
 date,stargazers,starsToday,description,owner,name,url
-2021-12-19,137,35,,proferosec,log4jScanner,https://github.com/proferosec/log4jScanner
-2021-12-19,29,21,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
-2021-12-19,13,13,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
-2021-12-19,30,14,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
-2021-12-19,114,7,,jvns,mess-with-dns-backend,https://github.com/jvns/mess-with-dns-backend
+2021-12-19,141,35,,proferosec,log4jScanner,https://github.com/proferosec/log4jScanner
+2021-12-19,29,18,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
+2021-12-19,13,11,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2021-12-19,30,7,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
+2021-12-19,114,6,,jvns,mess-with-dns-backend,https://github.com/jvns/mess-with-dns-backend
 2021-12-19,4,9,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
-2021-12-19,30,9,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2021-12-19,30,8,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
 2021-12-19,9,2,An open-source vector database for embedding similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
-2021-12-19,15,10,A modular-designed and easy-to-use microservices framework in Go.,go-kratos,kratos,https://github.com/go-kratos/kratos
-2021-12-19,11,16,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
-2021-12-19,17,22,Easily and securely send things from one computer to another 🐊 📦,schollz,croc,https://github.com/schollz/croc
-2021-12-19,9,5,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
-2021-12-19,9,26,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2021-12-19,15,11,A modular-designed and easy-to-use microservices framework in Go.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2021-12-19,11,11,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2021-12-19,17,18,Easily and securely send things from one computer to another,schollz,croc,https://github.com/schollz/croc
+2021-12-19,9,6,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2021-12-19,9,17,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
 2021-12-19,3,5,Build and deploy Go applications on Kubernetes,google,ko,https://github.com/google/ko
-2021-12-19,9,19,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",geektutu,7days-golang,https://github.com/geektutu/7days-golang
-2021-12-19,15,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
-2021-12-19,14,15,🐶 Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
-2021-12-19,7,4,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
-2021-12-19,3,3,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
-2021-12-19,5,4,DNS library in Go,miekg,dns,https://github.com/miekg/dns
+2021-12-19,9,18,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",geektutu,7days-golang,https://github.com/geektutu/7days-golang
+2021-12-19,15,3,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2021-12-19,14,7,Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2021-12-19,7,5,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2021-12-19,3,2,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
+2021-12-19,5,3,DNS library in Go,miekg,dns,https://github.com/miekg/dns
 2021-12-19,22,7,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
-2021-12-19,53,31,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
-2021-12-19,13,24,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
-2021-12-19,2,3,"Open Source (Go) implementation of ""Zanzibar: Google's Consistent, Global Authorization System"". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.",ory,keto,https://github.com/ory/keto
-2021-12-19,17,3,A pluggable Go framework for distributed systems development,asim,go-micro,https://github.com/asim/go-micro
+2021-12-19,53,27,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2021-12-19,13,21,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2021-12-19,2,4,"Open Source (Go) implementation of ""Zanzibar: Google's Consistent, Global Authorization System"". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.",ory,keto,https://github.com/ory/keto
+2021-12-19,17,4,A pluggable Go framework for distributed systems development,asim,go-micro,https://github.com/asim/go-micro

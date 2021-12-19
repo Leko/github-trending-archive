@@ -1,26 +1,26 @@
 date,stargazers,starsToday,description,owner,name,url
-2021-12-19,2,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
-2021-12-19,24,9,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
-2021-12-19,18,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
-2021-12-19,308,1,🚀 SimpleX - decentralized chat with a focus on users’ privacy - doesn't use global user identities - now with groups and sending files!,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
-2021-12-19,27,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2021-12-19,2,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2021-12-19,24,7,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2021-12-19,18,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2021-12-19,310,3,SimpleX - decentralized chat with a focus on users’ privacy - doesn't use global user identities - now with groups and sending files!,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2021-12-19,27,9,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
 2021-12-19,1,2,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
 2021-12-19,74,2,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
 2021-12-19,135,1,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
-2021-12-19,77,2,Proof of concept for the Hydra Head protocol 👷,input-output-hk,hydra-poc,https://github.com/input-output-hk/hydra-poc
-2021-12-19,1,4,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
+2021-12-19,77,2,Proof of concept for the Hydra Head protocol,input-output-hk,hydra-poc,https://github.com/input-output-hk/hydra-poc
+2021-12-19,1,6,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
 2021-12-19,6,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
-2021-12-19,24,8,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
-2021-12-19,123,1,🍰🔪 Architecture of Haskell backend applications,kowainik,cake-slayer,https://github.com/kowainik/cake-slayer
-2021-12-19,1,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
-2021-12-19,2,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2021-12-19,24,9,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2021-12-19,123,1,Architecture of Haskell backend applications,kowainik,cake-slayer,https://github.com/kowainik/cake-slayer
+2021-12-19,1,2,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2021-12-19,2,3,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
 2021-12-19,155,0,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
 2021-12-19,1,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
 2021-12-19,,,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
 2021-12-19,585,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
-2021-12-19,6,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
-2021-12-19,13,1,🍰🍴Template project based on the cake-slayer architecture library,kowainik,piece-of-cake-slayer,https://github.com/kowainik/piece-of-cake-slayer
+2021-12-19,6,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2021-12-19,13,1,Template project based on the cake-slayer architecture library,kowainik,piece-of-cake-slayer,https://github.com/kowainik/piece-of-cake-slayer
 2021-12-19,3,0,"metamorphisms (aka playing with: (fold, (.), unfold)",technogeeky,metamorphic,https://github.com/technogeeky/metamorphic
 2021-12-19,1,0,,imsut,starthaskell,https://github.com/imsut/starthaskell
-2021-12-19,159,1,,nasa,ogma,https://github.com/nasa/ogma
+2021-12-19,159,0,,nasa,ogma,https://github.com/nasa/ogma
 2021-12-19,881,0,How to learn front-end or back-end development,fullstack-development,developers-roadmap,https://github.com/fullstack-development/developers-roadmap

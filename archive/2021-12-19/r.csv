@@ -1,11 +1,11 @@
 date,stargazers,starsToday,description,owner,name,url
 2021-12-19,1,0,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
-2021-12-19,4,1,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
-2021-12-19,173,0,Plots and analysis relating to the pandemic,VictimOfMaths,COVID-19,https://github.com/VictimOfMaths/COVID-19
+2021-12-19,4,3,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2021-12-19,175,2,Plots and analysis relating to the pandemic,VictimOfMaths,COVID-19,https://github.com/VictimOfMaths/COVID-19
 2021-12-19,651,3,Organize your project into a research website,jdblischak,workflowr,https://github.com/jdblischak/workflowr
-2021-12-19,583,0,🎄Visualization and annotation of phylogenetic trees,YuLab-SMU,ggtree,https://github.com/YuLab-SMU/ggtree
+2021-12-19,583,0,Visualization and annotation of phylogenetic trees,YuLab-SMU,ggtree,https://github.com/YuLab-SMU/ggtree
 2021-12-19,2,1,A general-purpose tool for dynamic report generation in R,yihui,knitr,https://github.com/yihui/knitr
-2021-12-19,308,1,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define m…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2021-12-19,308,0,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define m…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
 2021-12-19,417,0,igraph R package,igraph,rigraph,https://github.com/igraph/rigraph
 2021-12-19,33,0,"Data Analysis and Statistical Inference, Duke University",guindilla,coursera-statistics-002,https://github.com/guindilla/coursera-statistics-002
 2021-12-19,562,1,Building R packages,hadley,r-pkgs,https://github.com/hadley/r-pkgs
@@ -22,5 +22,5 @@ date,stargazers,starsToday,description,owner,name,url
 2021-12-19,213,1,"Pin, Discover and Share Resources",rstudio,pins,https://github.com/rstudio/pins
 2021-12-19,302,0,RStudio hex stickers,rstudio,hex-stickers,https://github.com/rstudio/hex-stickers
 2021-12-19,13,0,Run the PACTA analysis on EQ & CB portfolios,2DegreesInvesting,PACTA_analysis,https://github.com/2DegreesInvesting/PACTA_analysis
-2021-12-19,5,1,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2021-12-19,5,2,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
 2021-12-19,4,0,Functions and workflows to run financial stress tests on climate change related risk types,2DegreesInvesting,r2dii.climate.stress.test,https://github.com/2DegreesInvesting/r2dii.climate.stress.test

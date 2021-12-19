@@ -1,26 +1,26 @@
 date,stargazers,starsToday,description,owner,name,url
 2021-12-19,32,6,,intezer,log4jscan,https://github.com/intezer/log4jscan
 2021-12-19,14,1,,ChristmasHater31,ChristBASHTree,https://github.com/ChristmasHater31/ChristBASHTree
-2021-12-19,2,7,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
-2021-12-19,1,6,TiDB/TiKV/PD documentation in Chinese.,pingcap,docs-cn,https://github.com/pingcap/docs-cn
-2021-12-19,4,0,"Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",toniblyx,prowler,https://github.com/toniblyx/prowler
-2021-12-19,136,60,PCRE RegEx matching Log4Shell CVE-2021-44228 IOC in your logs,back2root,log4shell-rex,https://github.com/back2root/log4shell-rex
-2021-12-19,8,3,The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).,OWASP,owasp-mstg,https://github.com/OWASP/owasp-mstg
-2021-12-19,3,0,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
-2021-12-19,34,15,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
-2021-12-19,6,8,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
-2021-12-19,53,29,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
-2021-12-19,66,8,,aws-samples,kubernetes-log4j-cve-2021-44228-node-agent,https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent
-2021-12-19,862,3,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2021-12-19,3,4,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2021-12-19,1,1,TiDB/TiKV/PD documentation in Chinese.,pingcap,docs-cn,https://github.com/pingcap/docs-cn
+2021-12-19,4,1,"Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",toniblyx,prowler,https://github.com/toniblyx/prowler
+2021-12-19,147,65,PCRE RegEx matching Log4Shell CVE-2021-44228 IOC in your logs,back2root,log4shell-rex,https://github.com/back2root/log4shell-rex
+2021-12-19,8,2,The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).,OWASP,owasp-mstg,https://github.com/OWASP/owasp-mstg
+2021-12-19,3,1,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2021-12-19,34,20,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2021-12-19,6,13,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2021-12-19,53,24,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2021-12-19,66,6,,aws-samples,kubernetes-log4j-cve-2021-44228-node-agent,https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent
+2021-12-19,862,1,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
 2021-12-19,1,2,Official Zabbix Dockerfiles,zabbix,zabbix-docker,https://github.com/zabbix/zabbix-docker
-2021-12-19,9,3,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
-2021-12-19,7,5,The Fish Shell Framework,oh-my-fish,oh-my-fish,https://github.com/oh-my-fish/oh-my-fish
-2021-12-19,419,2,"A Docker build for Solr, to manage the official Docker hub solr image",docker-solr,docker-solr,https://github.com/docker-solr/docker-solr
-2021-12-19,28,2,📖 A collection of pure bash alternatives to external processes.,dylanaraps,pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible
+2021-12-19,9,1,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
+2021-12-19,7,4,The Fish Shell Framework,oh-my-fish,oh-my-fish,https://github.com/oh-my-fish/oh-my-fish
+2021-12-19,419,1,"A Docker build for Solr, to manage the official Docker hub solr image",docker-solr,docker-solr,https://github.com/docker-solr/docker-solr
+2021-12-19,28,3,A collection of pure bash alternatives to external processes.,dylanaraps,pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible
 2021-12-19,5,1,Docker images for the Selenium Grid Server,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
-2021-12-19,169,26,"a fast check, if your server could be vulnerable to CVE-2021-44228",rubo77,log4j_checker_beta,https://github.com/rubo77/log4j_checker_beta
-2021-12-19,17,14,The user-friendly command line shell.,fish-shell,fish-shell,https://github.com/fish-shell/fish-shell
-2021-12-19,355,4,基于 Lean&Lienol 源码的 NanoPi R2S 的 OpenWrt 固件。每天自动更新插件和内核，Fusion编译法,DHDAXCW,NanoPi-R2S,https://github.com/DHDAXCW/NanoPi-R2S
-2021-12-19,1,0,"An open-source, next-generation ""runc"" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",nestybox,sysbox,https://github.com/nestybox/sysbox
-2021-12-19,5,2,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2021-12-19,171,19,"a fast check, if your server could be vulnerable to CVE-2021-44228",rubo77,log4j_checker_beta,https://github.com/rubo77/log4j_checker_beta
+2021-12-19,17,9,The user-friendly command line shell.,fish-shell,fish-shell,https://github.com/fish-shell/fish-shell
+2021-12-19,355,3,基于 Lean&Lienol 源码的 NanoPi R2S 的 OpenWrt 固件。每天自动更新插件和内核，Fusion编译法,DHDAXCW,NanoPi-R2S,https://github.com/DHDAXCW/NanoPi-R2S
+2021-12-19,1,1,"An open-source, next-generation ""runc"" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",nestybox,sysbox,https://github.com/nestybox/sysbox
+2021-12-19,5,3,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
 2021-12-19,3,5,Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩,klever1988,nanopi-openwrt,https://github.com/klever1988/nanopi-openwrt
