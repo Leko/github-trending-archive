@@ -22,6 +22,13 @@ export class TrendingPage {
 
   static async from(page: Page, url = ENDPOINT) {
     await page.goto(url, { waitUntil: "domcontentloaded" });
+    try {
+      await page.waitForSelector('article', { timeout: 5000 })
+    } catch {
+      // To slip pass the abuse detection
+      await new Promise(resolve => setTimeout(resolve, 10000))
+      return TrendingPage.from(page, url)
+    }
     return new TrendingPage(page);
   }
 
