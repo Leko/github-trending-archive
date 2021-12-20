@@ -1,6 +1,9 @@
 name: CI
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *"
 
@@ -19,5 +22,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add archive
-          git commit -m "chore: update $(date +'%Y-%m-%d')"
+          git commit -m "[skip ci] chore: update $(date +'%Y-%m-%d')"
           git push origin main

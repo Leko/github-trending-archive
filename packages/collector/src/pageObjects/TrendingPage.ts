@@ -20,7 +20,7 @@ const ENDPOINT = "https://github.com/trending?since=daily";
 export class TrendingPage {
   private constructor(private page: Page) {}
 
-  static async from(page: Page, url = ENDPOINT) {
+  static async from(page: Page, url = ENDPOINT): Promise<TrendingPage> {
     await page.goto(url, { waitUntil: "domcontentloaded" });
     try {
       await page.waitForSelector('article', { timeout: 5000 })
