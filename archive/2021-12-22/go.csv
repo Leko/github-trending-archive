@@ -1,0 +1,26 @@
+date,stargazers,starsToday,description,owner,name,url
+2021-12-22,324,36,,proferosec,log4jScanner,https://github.com/proferosec/log4jScanner
+2021-12-22,4,385,"immudb - world’s fastest immutable database, built on a zero trust model",codenotary,immudb,https://github.com/codenotary/immudb
+2021-12-22,177,24,An experimental collection of generic data structures written in Go.,zyedidia,generic,https://github.com/zyedidia/generic
+2021-12-22,137,21,A tool that scans archives to check for vulnerable log4j versions,palantir,log4j-sniffer,https://github.com/palantir/log4j-sniffer
+2021-12-22,4,30,Create desktop apps using Go and Web Technologies.,wailsapp,wails,https://github.com/wailsapp/wails
+2021-12-22,6,2,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2021-12-22,13,23,Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2021-12-22,13,23,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",chrislusf,seaweedfs,https://github.com/chrislusf/seaweedfs
+2021-12-22,1,10,哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。,naiba,nezha,https://github.com/naiba/nezha
+2021-12-22,27,31,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2021-12-22,22,27,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2021-12-22,9,12,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2021-12-22,25,35,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2021-12-22,44,2,IoT worm written in pure golang.,Its-Vichy,GoriaNet,https://github.com/Its-Vichy/GoriaNet
+2021-12-22,26,11,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2021-12-22,216,15,A curated list of awesome articles and resources for learning and practicing Go and its related technologies.,mehdihadeli,awesome-go-education,https://github.com/mehdihadeli/awesome-go-education
+2021-12-22,7,4,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2021-12-22,34,30,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2021-12-22,4,6,A tool that facilitates building OCI images.,containers,buildah,https://github.com/containers/buildah
+2021-12-22,3,0,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2021-12-22,1,15,Pure Go Redis server for Go unittests,alicebob,miniredis,https://github.com/alicebob/miniredis
+2021-12-22,83,36,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2021-12-22,11,10,NGINX Ingress Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2021-12-22,6,12,A QUIC implementation in pure go,lucas-clemente,quic-go,https://github.com/lucas-clemente/quic-go
+2021-12-22,4,9,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
