@@ -1,0 +1,26 @@
+date,stargazers,starsToday,description,owner,name,url
+2021-12-24,5,291,"immudb - world’s fastest immutable database, built on a zero trust model",codenotary,immudb,https://github.com/codenotary/immudb
+2021-12-24,4,47,"A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.",yedf,dtm,https://github.com/yedf/dtm
+2021-12-24,54,39,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2021-12-24,72,63,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2021-12-24,5,30,一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗,fanux,sealos,https://github.com/fanux/sealos
+2021-12-24,7,6,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2021-12-24,10,7,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2021-12-24,9,27,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2021-12-24,3,20,「自选优选 IP / 过滤假墙」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2021-12-24,592,18,An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses,wallarm,gotestwaf,https://github.com/wallarm/gotestwaf
+2021-12-24,11,8,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2021-12-24,26,12,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2021-12-24,2,13,基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。,xinliangnote,go-gin-api,https://github.com/xinliangnote/go-gin-api
+2021-12-24,4,9,A Chaos Engineering Platform for Kubernetes.,chaos-mesh,chaos-mesh,https://github.com/chaos-mesh/chaos-mesh
+2021-12-24,269,16,A curated list of awesome articles and resources for learning and practicing Go and its related technologies.,mehdihadeli,awesome-go-education,https://github.com/mehdihadeli/awesome-go-education
+2021-12-24,30,22,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
+2021-12-24,16,26,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2021-12-24,19,8,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2021-12-24,5,32,"Manage your dotfiles across multiple diverse machines, securely.",twpayne,chezmoi,https://github.com/twpayne/chezmoi
+2021-12-24,5,2,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2021-12-24,10,5,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2021-12-24,604,6,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2021-12-24,5,20,OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2021-12-24,4,5,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2021-12-24,11,4,NGINX Ingress Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
