@@ -24,3 +24,7 @@ jobs:
           git add archive
           git commit -m "[skip ci] chore: update $(date +'%Y-%m-%d')"
           git push origin main
+      - uses: actions/upload-artifact@v2
+        with:
+          name: screenshots
+          path: "*.png"
