@@ -29,6 +29,10 @@ export class TrendingPage {
     try {
       await page.waitForSelector("article", { timeout: 5000 });
     } catch {
+      // No items
+      if (await page.$(".blankslate")) {
+        return new TrendingPage(page);
+      }
       // To slip pass the abuse detection
       await new Promise((resolve) => setTimeout(resolve, 10000));
       await page.screenshot({
