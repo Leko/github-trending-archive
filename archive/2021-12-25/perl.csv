@@ -1,5 +1,5 @@
 date,stargazers,starsToday,description,owner,name,url
-2021-12-25,12,4,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2021-12-25,12,2,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
 2021-12-25,13,2,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
 2021-12-25,14,1,Good-lookin' diffs. Actually… nah… The best-lookin' diffs.,so-fancy,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy
 2021-12-25,,,,manakai,perl-web-resource,https://github.com/manakai/perl-web-resource
@@ -9,18 +9,18 @@ date,stargazers,starsToday,description,owner,name,url
 2021-12-25,1,0,ExifTool meta information reader/writer,exiftool,exiftool,https://github.com/exiftool/exiftool
 2021-12-25,101,2,"Dockside is a tool for provisioning lightweight access-controlled IDEs, staging environments and sandboxes - aka 'devtainers' - on local machine, on-premises raw metal or VM, or in the cloud",newsnowlabs,dockside,https://github.com/newsnowlabs/dockside
 2021-12-25,4,0,JSON::Functions::XS,wakaba,perl-json-functions-xs,https://github.com/wakaba/perl-json-functions-xs
-2021-12-25,707,1,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2021-12-25,707,0,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
 2021-12-25,514,0,LCOV,linux-test-project,lcov,https://github.com/linux-test-project/lcov
 2021-12-25,205,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
 2021-12-25,375,0,Movable Type,movabletype,movabletype,https://github.com/movabletype/movabletype
-2021-12-25,569,3,一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）,Oreomeow,checkinpanel,https://github.com/Oreomeow/checkinpanel
-2021-12-25,171,2,KH Coder: for Quantitative Content Analysis or Text Mining,ko-ichi-h,khcoder,https://github.com/ko-ichi-h/khcoder
-2021-12-25,589,1,lm-sensors repository,lm-sensors,lm-sensors,https://github.com/lm-sensors/lm-sensors
+2021-12-25,572,5,一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）,Oreomeow,checkinpanel,https://github.com/Oreomeow/checkinpanel
+2021-12-25,171,0,KH Coder: for Quantitative Content Analysis or Text Mining,ko-ichi-h,khcoder,https://github.com/ko-ichi-h/khcoder
+2021-12-25,589,0,lm-sensors repository,lm-sensors,lm-sensors,https://github.com/lm-sensors/lm-sensors
 2021-12-25,723,0,Server for Logitech Squeezebox players. This server is also called Logitech Media Server,Logitech,slimserver,https://github.com/Logitech/slimserver
 2021-12-25,212,0,FusionInventory Agent,fusioninventory,fusioninventory-agent,https://github.com/fusioninventory/fusioninventory-agent
 2021-12-25,,,check code for FIXMEs.,uperl,Test-Fixme,https://github.com/uperl/Test-Fixme
 2021-12-25,940,1,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
-2021-12-25,995,1,"BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.",backuppc,backuppc,https://github.com/backuppc/backuppc
+2021-12-25,996,2,"BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.",backuppc,backuppc,https://github.com/backuppc/backuppc
 2021-12-25,261,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
 2021-12-25,5,3,Nikto web server scanner,sullo,nikto,https://github.com/sullo/nikto
 2021-12-25,731,0,Image Payload Creating/Injecting tools,chinarulezzz,pixload,https://github.com/chinarulezzz/pixload
