@@ -27,7 +27,6 @@ const ALLOW_LANGUAGES = [
   "Shell",
   "Svelte",
   "Vue",
-  "Astro",
 ];
 
 function getToday() {
