@@ -1,26 +1,26 @@
 date,stargazers,starsToday,description,owner,name,url
-2021-12-25,1,4,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
-2021-12-25,1,4,Haskell 101 and 102: slides and codelabs,google,haskell-trainings,https://github.com/google/haskell-trainings
+2021-12-25,1,3,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2021-12-25,2,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2021-12-25,24,7,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2021-12-25,6,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2021-12-25,24,6,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2021-12-25,880,0,How to learn front-end or back-end development,fullstack-development,developers-roadmap,https://github.com/fullstack-development/developers-roadmap
+2021-12-25,895,1,Ethereum smart contract fuzzer,crytic,echidna,https://github.com/crytic/echidna
+2021-12-25,157,1,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
+2021-12-25,50,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2021-12-25,,,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2021-12-25,1,4,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2021-12-25,7,3,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2021-12-25,27,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2021-12-25,660,2,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2021-12-25,250,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2021-12-25,18,1,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2021-12-25,249,1,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
+2021-12-25,694,1,Functional programming with fewer indirections,ollef,sixten,https://github.com/ollef/sixten
+2021-12-25,1,1,Haskell 101 and 102: slides and codelabs,google,haskell-trainings,https://github.com/google/haskell-trainings
 2021-12-25,1,2,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
-2021-12-25,24,10,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
-2021-12-25,957,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
-2021-12-25,27,14,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
-2021-12-25,157,2,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
-2021-12-25,134,2,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
-2021-12-25,3,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
-2021-12-25,76,1,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
-2021-12-25,2,4,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
-2021-12-25,1,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
-2021-12-25,2,6,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
-2021-12-25,909,1,"higher-order, no-boilerplate monads",polysemy-research,polysemy,https://github.com/polysemy-research/polysemy
-2021-12-25,1,3,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
-2021-12-25,249,3,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
-2021-12-25,18,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
-2021-12-25,6,2,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
-2021-12-25,207,1,"Spiritual successor to neuron, based on Ema.",srid,emanote,https://github.com/srid/emanote
-2021-12-25,880,1,How to learn front-end or back-end development,fullstack-development,developers-roadmap,https://github.com/fullstack-development/developers-roadmap
-2021-12-25,6,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
-2021-12-25,696,2,A minimalistic status bar,jaor,xmobar,https://github.com/jaor/xmobar
-2021-12-25,1,6,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
-2021-12-25,1,8,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
-2021-12-25,222,2,"An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.",haskell,bytestring,https://github.com/haskell/bytestring
+2021-12-25,1,4,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2021-12-25,498,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2021-12-25,60,1,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2021-12-25,1,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2021-12-25,1,0,,imsut,starthaskell,https://github.com/imsut/starthaskell
