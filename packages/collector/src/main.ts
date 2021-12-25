@@ -27,6 +27,7 @@ const ALLOW_LANGUAGES = [
   "Shell",
   "Svelte",
   "Vue",
+  "Astro",
 ];
 
 function getToday() {
@@ -59,6 +60,7 @@ async function exportTo(
         csv.once("error", reject);
         out.once("finish", resolve);
         csv.pipe(out);
+        console.log(ret.slug, ret.items.length);
         for (const item of ret.items) {
           csv.write({ ...item, date: getToday() });
         }
@@ -81,7 +83,6 @@ async function main() {
         .filter((l) => ALLOW_LANGUAGES.includes(l.label))
         .map((lang) => {
           return limiter.schedule(async () => {
-            await new Promise((resolve) => setTimeout(resolve, 1000 * 10));
             const page = await TrendingPage.from(
               await browser.newPage(),
               lang.url

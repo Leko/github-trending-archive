@@ -31,6 +31,9 @@ export class TrendingPage {
     } catch {
       // To slip pass the abuse detection
       await new Promise((resolve) => setTimeout(resolve, 10000));
+      await page.screenshot({
+        path: `${new URL(url).pathname.split("/").at(-1)}-retry-${retry}.png"`,
+      });
       if (retry > 2) {
         throw new Error("Retry limit exceeded");
       }
