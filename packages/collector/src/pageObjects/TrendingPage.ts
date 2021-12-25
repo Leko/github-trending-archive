@@ -20,14 +20,21 @@ const ENDPOINT = "https://github.com/trending?since=daily";
 export class TrendingPage {
   private constructor(private page: Page) {}
 
-  static async from(page: Page, url = ENDPOINT): Promise<TrendingPage> {
+  static async from(
+    page: Page,
+    url = ENDPOINT,
+    retry = 0
+  ): Promise<TrendingPage> {
     await page.goto(url, { waitUntil: "domcontentloaded" });
     try {
-      await page.waitForSelector('article', { timeout: 5000 })
+      await page.waitForSelector("article", { timeout: 5000 });
     } catch {
       // To slip pass the abuse detection
-      await new Promise(resolve => setTimeout(resolve, 10000))
-      return TrendingPage.from(page, url)
+      await new Promise((resolve) => setTimeout(resolve, 10000));
+      if (retry > 2) {
+        throw new Error("Retry limit exceeded");
+      }
+      return TrendingPage.from(page, url, retry + 1);
     }
     return new TrendingPage(page);
   }
