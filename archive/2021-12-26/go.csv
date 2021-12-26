@@ -1,0 +1,26 @@
+date,stargazers,starsToday,description,owner,name,url
+2021-12-26,430,95,A curated list of awesome articles and resources for learning and practicing Go and its related technologies.,mehdihadeli,awesome-go-education,https://github.com/mehdihadeli/awesome-go-education
+2021-12-26,5,66,一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗,fanux,sealos,https://github.com/fanux/sealos
+2021-12-26,5,165,Create desktop apps using Go and Web Technologies.,wailsapp,wails,https://github.com/wailsapp/wails
+2021-12-26,2,266,jq for binary formats,wader,fq,https://github.com/wader/fq
+2021-12-26,8,14,Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架,crawlab-team,crawlab,https://github.com/crawlab-team/crawlab
+2021-12-26,5,5,A dead simple 2D game library for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2021-12-26,1,13,A UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML,casdoor,casdoor,https://github.com/casdoor/casdoor
+2021-12-26,10,3,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2021-12-26,12,16,"支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2021-12-26,17,12,Delve is a debugger for the Go programming language.,go-delve,delve,https://github.com/go-delve/delve
+2021-12-26,54,28,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2021-12-26,5,32,"gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",panjf2000,gnet,https://github.com/panjf2000/gnet
+2021-12-26,13,40,go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2021-12-26,16,5,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2021-12-26,2,2,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2021-12-26,8,2,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2021-12-26,3,9,A truly Open Source MongoDB alternative,FerretDB,FerretDB,https://github.com/FerretDB/FerretDB
+2021-12-26,13,10,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2021-12-26,7,9,"ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。",panjf2000,ants,https://github.com/panjf2000/ants
+2021-12-26,5,1,Information gathering & OSINT framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2021-12-26,7,10,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2021-12-26,5,9,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2021-12-26,646,2,"Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA  ⎈",kubesphere,kubekey,https://github.com/kubesphere/kubekey
+2021-12-26,3,5,A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.,cloudwego,kitex,https://github.com/cloudwego/kitex
+2021-12-26,22,30,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
