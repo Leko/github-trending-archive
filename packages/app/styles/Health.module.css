@@ -1,0 +1,10 @@
+.root {
+  padding: 2em 1em;
+}
+.foldable {
+  padding-left: 1em;
+}
+.icon {
+  display: inline-block;
+  margin-right: 4px;
+}
