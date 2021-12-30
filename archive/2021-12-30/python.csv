@@ -1,18 +1,20 @@
 date,stargazers,starsToday,description,owner,name,url
-2021-12-30,156,563,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer
-2021-12-30,111,199,"A curated list of awesome Python frameworks, libraries, software and resources",vinta,awesome-python,https://github.com/vinta/awesome-python
-2021-12-30,20,199,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.,google,python-fire,https://github.com/google/python-fire
-2021-12-30,318,30,一个漏洞扫描器粘合剂；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。,78778443,QingScan,https://github.com/78778443/QingScan
-2021-12-30,3,23,Python Classes Without Boilerplate,python-attrs,attrs,https://github.com/python-attrs/attrs
-2021-12-30,22,37,PyTorch Tutorial for Deep Learning Researchers,yunjey,pytorch-tutorial,https://github.com/yunjey/pytorch-tutorial
-2021-12-30,1,8,Free trading strategies for Freqtrade bot,freqtrade,freqtrade-strategies,https://github.com/freqtrade/freqtrade-strategies
-2021-12-30,8,26,A collection of simple python mini projects to enhance your python skills,Python-World,python-mini-projects,https://github.com/Python-World/python-mini-projects
-2021-12-30,3,31,NanoDet-PlusSuper fast and lightweight anchor-free object detection model. Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone,RangiLyu,nanodet,https://github.com/RangiLyu/nanodet
-2021-12-30,1,8,Systematic Trading in python,robcarver17,pysystemtrade,https://github.com/robcarver17/pysystemtrade
-2021-12-30,15,22,"PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",rwightman,pytorch-image-models,https://github.com/rwightman/pytorch-image-models
-2021-12-30,14,3,Zulip server and web app—powerful open source team chat,zulip,zulip,https://github.com/zulip/zulip
+2021-12-30,156,522,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer
+2021-12-30,21,305,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.,google,python-fire,https://github.com/google/python-fire
+2021-12-30,7,30,"Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",lucidrains,vit-pytorch,https://github.com/lucidrains/vit-pytorch
+2021-12-30,8,10,The easiest way to automate your data,PrefectHQ,prefect,https://github.com/PrefectHQ/prefect
+2021-12-30,33,28,A list of useful payloads and bypass for Web Application Security and Pentest/CTF,swisskyrepo,PayloadsAllTheThings,https://github.com/swisskyrepo/PayloadsAllTheThings
+2021-12-30,172,98,A collective list of free APIs,public-apis,public-apis,https://github.com/public-apis/public-apis
+2021-12-30,2,7,Feature Store for Machine Learning,feast-dev,feast,https://github.com/feast-dev/feast
+2021-12-30,20,48,YOLOv5  in PyTorch > ONNX > CoreML > TFLite,ultralytics,yolov5,https://github.com/ultralytics/yolov5
+2021-12-30,19,21,"Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",StevenBlack,hosts,https://github.com/StevenBlack/hosts
+2021-12-30,40,37,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",tiangolo,fastapi,https://github.com/tiangolo/fastapi
+2021-12-30,668,15,量化交易：python3,Jack-Cherish,quantitative,https://github.com/Jack-Cherish/quantitative
+2021-12-30,5,2,Electrum Bitcoin Wallet,spesmilo,electrum,https://github.com/spesmilo/electrum
 2021-12-30,3,13,Community curated list of templates for the nuclei engine to find security vulnerabilities.,projectdiscovery,nuclei-templates,https://github.com/projectdiscovery/nuclei-templates
-2021-12-30,2,38,"Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",PaddlePaddle,PaddleNLP,https://github.com/PaddlePaddle/PaddleNLP
-2021-12-30,89,6,BurpSuite Extension: Log4j2 RCE Scanner,gh0stkey,Log4j2-RCE-Scanner,https://github.com/gh0stkey/Log4j2-RCE-Scanner
-2021-12-30,4,29,Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。,Jack-Cherish,PythonPark,https://github.com/Jack-Cherish/PythonPark
-2021-12-30,5,20,"OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",ocrmypdf,OCRmyPDF,https://github.com/ocrmypdf/OCRmyPDF
+2021-12-30,5,26,"OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",ocrmypdf,OCRmyPDF,https://github.com/ocrmypdf/OCRmyPDF
+2021-12-30,31,8,Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!,floodsung,Deep-Learning-Papers-Reading-Roadmap,https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+2021-12-30,946,21,,openai,guided-diffusion,https://github.com/openai/guided-diffusion
+2021-12-30,4,5,A Python utility / library to sort imports.,PyCQA,isort,https://github.com/PyCQA/isort
+2021-12-30,25,15,An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.,mitmproxy,mitmproxy,https://github.com/mitmproxy/mitmproxy
+2021-12-30,3,9,"Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks from research to industrial applications.",PaddlePaddle,PaddleSeg,https://github.com/PaddlePaddle/PaddleSeg

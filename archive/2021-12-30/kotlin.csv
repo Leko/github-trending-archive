@@ -1,26 +1,26 @@
 date,stargazers,starsToday,description,owner,name,url
-2021-12-30,1,1,android-kotlin-fundamentals-apps,google-developer-training,android-kotlin-fundamentals-apps,https://github.com/google-developer-training/android-kotlin-fundamentals-apps
-2021-12-30,147,18,Personal time tracking app,artnc,chronofile,https://github.com/artnc/chronofile
-2021-12-30,1,2,蓝鲸CI平台(BlueKing CI),Tencent,bk-ci,https://github.com/Tencent/bk-ci
-2021-12-30,2,2,Open-source Android/Desktop remake of Civ V,yairm210,Unciv,https://github.com/yairm210/Unciv
-2021-12-30,1,7,An Android app to watch anime on your phone without ads.,mukul500,AnimeXStream,https://github.com/mukul500/AnimeXStream
-2021-12-30,773,1,android-kotlin-fundamentals-starter-apps,google-developer-training,android-kotlin-fundamentals-starter-apps,https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps
-2021-12-30,5,5,Kotlin SQL Framework,JetBrains,Exposed,https://github.com/JetBrains/Exposed
-2021-12-30,7,4,Koin - a pragmatic lightweight dependency injection framework for Kotlin,InsertKoinIO,koin,https://github.com/InsertKoinIO/koin
-2021-12-30,4,6,Static code analysis for Kotlin,detekt,detekt,https://github.com/detekt/detekt
-2021-12-30,523,8,"Android app for streaming and downloading Movies, TV-Series and Anime.",LagradOst,CloudStream-3,https://github.com/LagradOst/CloudStream-3
 2021-12-30,8,10,Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.,YiiGuxing,TranslationPlugin,https://github.com/YiiGuxing/TranslationPlugin
-2021-12-30,166,8,"Supports loading profile images with fractional styles, shapes, borders, indicators, and initials for Android.",GetStream,avatarview-android,https://github.com/GetStream/avatarview-android
-2021-12-30,3,1,"This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.",android10,Android-CleanArchitecture-Kotlin,https://github.com/android10/Android-CleanArchitecture-Kotlin
-2021-12-30,26,3,Alibaba Java Coding Guidelines pmd implements and IDE plugin,alibaba,p3c,https://github.com/alibaba/p3c
-2021-12-30,10,11,Official Jetpack Compose samples.,android,compose-samples,https://github.com/android/compose-samples
-2021-12-30,519,17,吾爱破解第三方安卓应用,fabricezhang,lcg,https://github.com/fabricezhang/lcg
-2021-12-30,41,3,Retos semanales de la comunidad MoureDev para practicar Kotlin & Android,mouredev,Weekly-Challenge-2022-Kotlin,https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
-2021-12-30,3,2,Kotlin multiplatform / multi-format serialization,Kotlin,kotlinx.serialization,https://github.com/Kotlin/kotlinx.serialization
-2021-12-30,39,10,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,android,architecture-samples,https://github.com/android/architecture-samples
-2021-12-30,830,0,Linphone.org mirror for linphone-android (https://gitlab.linphone.org/BC/public/linphone-android),BelledonneCommunications,linphone-android,https://github.com/BelledonneCommunications/linphone-android
-2021-12-30,39,12,The Kotlin Programming Language.,JetBrains,kotlin,https://github.com/JetBrains/kotlin
-2021-12-30,3,2,Multiple samples showing the best practices in camera APIs on Android.,android,camera-samples,https://github.com/android/camera-samples
-2021-12-30,1,5,Template repository for creating plugins for IntelliJ Platform,JetBrains,intellij-platform-plugin-template,https://github.com/JetBrains/intellij-platform-plugin-template
-2021-12-30,2,3,"This project contains various examples that show how you would do things the ""Jetpack Compose"" way",vinaygaba,Learn-Jetpack-Compose-By-Example,https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example
-2021-12-30,7,7,Image loading for Android backed by Kotlin Coroutines.,coil-kt,coil,https://github.com/coil-kt/coil
+2021-12-30,27,8,A memory leak detection library for Android.,square,leakcanary,https://github.com/square/leakcanary
+2021-12-30,144,13,Android 技术中台 Kotlin 版本，但愿人长久，搬砖不再有,getActivity,AndroidProject-Kotlin,https://github.com/getActivity/AndroidProject-Kotlin
+2021-12-30,21,6,Samples for Android Architecture Components.,android,architecture-components-samples,https://github.com/android/architecture-components-samples
+2021-12-30,1,6,Template repository for creating plugins for IntelliJ Platform,JetBrains,intellij-platform-plugin-template,https://github.com/JetBrains/intellij-platform-plugin-template
+2021-12-30,5,4,Kotlin SQL Framework,JetBrains,Exposed,https://github.com/JetBrains/Exposed
+2021-12-30,1,0,Multiple samples showing the best practices in storage APIs on Android.,android,storage-samples,https://github.com/android/storage-samples
+2021-12-30,134,5,,LawnchairLauncher,lawnicons,https://github.com/LawnchairLauncher/lawnicons
+2021-12-30,1,1,android-kotlin-fundamentals-apps,google-developer-training,android-kotlin-fundamentals-apps,https://github.com/google-developer-training/android-kotlin-fundamentals-apps
+2021-12-30,528,13,吾爱破解第三方安卓应用,fabricezhang,lcg,https://github.com/fabricezhang/lcg
+2021-12-30,10,22,A rule-based tunnel for Android.,Kr328,ClashForAndroid,https://github.com/Kr328/ClashForAndroid
+2021-12-30,4,5,Static code analysis for Kotlin,detekt,detekt,https://github.com/detekt/detekt
+2021-12-30,526,9,"Android app for streaming and downloading Movies, TV-Series and Anime.",LagradOst,CloudStream-3,https://github.com/LagradOst/CloudStream-3
+2021-12-30,9,5,Framework for quickly creating connected applications in Kotlin with minimal effort,ktorio,ktor,https://github.com/ktorio/ktor
+2021-12-30,742,1,Best present for 316 and 423.,ejiaogl,FuckCoolapk,https://github.com/ejiaogl/FuckCoolapk
+2021-12-30,58,4,Ivy Wallet is an Open Source money manager app for android that you can either build or download from Google Play.,ILIYANGERMANOV,ivy-wallet,https://github.com/ILIYANGERMANOV/ivy-wallet
+2021-12-30,1,7,Media server for comics/mangas/BDs with API and OPDS support,gotson,komga,https://github.com/gotson/komga
+2021-12-30,729,1,,grpc,grpc-kotlin,https://github.com/grpc/grpc-kotlin
+2021-12-30,1,5,Best Material You Design music player for Android,RetroMusicPlayer,RetroMusicPlayer,https://github.com/RetroMusicPlayer/RetroMusicPlayer
+2021-12-30,153,20,Personal time tracking app,artnc,chronofile,https://github.com/artnc/chronofile
+2021-12-30,23,17,翻墙-科学上网,bannedbook,fanqiang,https://github.com/bannedbook/fanqiang
+2021-12-30,17,3,Flexbox for Android,google,flexbox-layout,https://github.com/google/flexbox-layout
+2021-12-30,2,12,Celebrate more with this lightweight confetti particle system,DanielMartinus,Konfetti,https://github.com/DanielMartinus/Konfetti
+2021-12-30,2,6,The universal proxy toolchain for Android,SagerNet,SagerNet,https://github.com/SagerNet/SagerNet
+2021-12-30,2,4,"Modernized and sophisticated tooltips, fully customizable with an arrow and animations on Android.",skydoves,Balloon,https://github.com/skydoves/Balloon
