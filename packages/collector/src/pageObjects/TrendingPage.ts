@@ -68,7 +68,10 @@ export class TrendingPage {
         const url = (el.querySelector("h1 a") as HTMLAnchorElement)!.href;
         const description = el.querySelector("p")?.textContent?.trim() ?? "";
         const stargazers = parseInt(
-          el.querySelector('[href$="/stargazers"]')?.textContent?.trim() ?? "",
+          el
+            .querySelector('[href$="/stargazers"]')
+            ?.textContent?.trim()
+            .replace(/,/g, "") ?? "",
           10
         );
         const starsToday = parseInt(
