@@ -10,12 +10,12 @@ import * as entitiesMap from "../../src/entity";
 console.log("cwd:", process.cwd());
 console.log("ls:", fs.readdirSync(process.cwd()));
 console.log(
-  "ls node_modules:",
-  fs.readdirSync(path.join(process.cwd(), "node_modules"))
-);
-console.log(
   "ls node_modules/sql.js:",
   fs.readdirSync(path.join(process.cwd(), "node_modules", "sql.js"))
+);
+console.log(
+  "ls node_modules/sql.js/dist:",
+  fs.readdirSync(path.join(process.cwd(), "node_modules", "sql.js", "dist"))
 );
 
 export const config = {
