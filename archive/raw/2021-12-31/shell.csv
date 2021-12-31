@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2021-12-31,shell,30604,10,Amazon Web Services — a practical guide,open-guides,og-aws,/open-guides/og-aws
-2021-12-31,shell,593,3,"Crack Interface lockscreen, Metasploit and More Android/IOS Hacking",tegal1337,CiLocks,/tegal1337/CiLocks
-2021-12-31,shell,19517,14,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,sickcodes,Docker-OSX,/sickcodes/Docker-OSX
-2021-12-31,shell,11171,6,Azure Quickstart Templates,Azure,azure-quickstart-templates,/Azure/azure-quickstart-templates
-2021-12-31,shell,1941,3,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,/six2dez/reconftw
-2021-12-31,shell,54217,40,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,/nvm-sh/nvm
-2021-12-31,shell,25163,31,Official electron build of diagrams.net,jgraph,drawio-desktop,/jgraph/drawio-desktop
-2021-12-31,shell,62809,17,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,/gothinkster/realworld
-2021-12-31,shell,3060,7,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,/kodekloudhub/certified-kubernetes-administrator-course
-2021-12-31,shell,1417,2,A versatile (cross-)toolchain generator.,crosstool-ng,crosstool-ng,/crosstool-ng/crosstool-ng
-2021-12-31,shell,27301,5,".files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,/mathiasbynens/dotfiles
-2021-12-31,shell,1334,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,/bioconda/bioconda-recipes
-2021-12-31,shell,515,32,Use any linux distribution inside your terminal.,89luca89,distrobox,/89luca89/distrobox
-2021-12-31,shell,1626,5,"Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B",kiddin9,OpenWrt_x86-r2s-r4s,/kiddin9/OpenWrt_x86-r2s-r4s
-2021-12-31,shell,59,0,Command-line program to boot directly into Windows from a Linux terminal (in grub2 dual-boot setups).,semiismaili,winboot,/semiismaili/winboot
-2021-12-31,shell,51256,268,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,/papers-we-love/papers-we-love
-2021-12-31,shell,297,4,Cloudflare WARP 多功能一键脚本，支持纯IPV4/纯IPV6/双栈V4V6的VPS共9种情况随意切换安装，screen一键手动/自动刷支持Netflix奈飞的IP（自动识别WGCF与SOCKS5环境），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…,kkkyg,CFwarp,/kkkyg/CFwarp
-2021-12-31,shell,1580,3,Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.,davestephens,ansible-nas,/davestephens/ansible-nas
-2021-12-31,shell,11189,4,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,/kaldi-asr/kaldi
-2021-12-31,shell,864,1,Guia rápido do WSL2 + Docker,codeedu,wsl2-docker-quickstart,/codeedu/wsl2-docker-quickstart
-2021-12-31,shell,493,5,"uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, and so on.",m3n0sd0n4ld,uDork,/m3n0sd0n4ld/uDork
-2021-12-31,shell,542,4,Flexible and fast ZSH plugin manager,zdharma-continuum,zinit,/zdharma-continuum/zinit
-2021-12-31,shell,34291,13,A black hole for Internet advertisements,pi-hole,pi-hole,/pi-hole/pi-hole
-2021-12-31,shell,4082,6,Android in docker solution with noVNC supported and video recording,budtmo,docker-android,/budtmo/docker-android
-2021-12-31,shell,1469,1,To fix the Docker and UFW security flaw without disabling iptables,chaifeng,ufw-docker,/chaifeng/ufw-docker
+2021-12-31,shell,51316,275,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2021-12-31,shell,22179,7,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2021-12-31,shell,19522,13,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2021-12-31,shell,15302,1,"GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",tj,git-extras,https://github.com/tj/git-extras
+2021-12-31,shell,54231,37,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2021-12-31,shell,4590,2,"Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",toniblyx,prowler,https://github.com/toniblyx/prowler
+2021-12-31,shell,521,23,Use any linux distribution inside your terminal.,89luca89,distrobox,https://github.com/89luca89/distrobox
+2021-12-31,shell,62817,16,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
+2021-12-31,shell,299,6,Cloudflare WARP 多功能一键脚本，支持纯IPV4/纯IPV6/双栈V4V6的VPS共9种情况随意切换安装，screen一键手动/自动刷支持Netflix奈飞的IP（自动识别WGCF与SOCKS5环境），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…,kkkyg,CFwarp,https://github.com/kkkyg/CFwarp
+2021-12-31,shell,11172,4,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2021-12-31,shell,5905,2,Dockerfile for Apache Kafka,wurstmeister,kafka-docker,https://github.com/wurstmeister/kafka-docker
+2021-12-31,shell,147,62,老炮抽水。一键+自启动+守护+稳定。ETH以太坊矿池、中转、代理、redir，支持TCP和SSL协议，支持自定义抽水，高性能高并发，web界面管理。ETH pool proxy Pumping,nicococococ,MinerProxyLite,https://github.com/nicococococ/MinerProxyLite
+2021-12-31,shell,3895,2,The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.,OWASP,wstg,https://github.com/OWASP/wstg
+2021-12-31,shell,1942,3,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,https://github.com/six2dez/reconftw
+2021-12-31,shell,1334,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2021-12-31,shell,3522,8,A curated list of amazingly awesome Home Assistant resources.,frenck,awesome-home-assistant,https://github.com/frenck/awesome-home-assistant
+2021-12-31,shell,3158,5,"A development tool for all your projects that is fast, easy, powerful and liberating",lando,lando,https://github.com/lando/lando
+2021-12-31,shell,14558,1,关于Python的面试题,taizilongxu,interview_python,https://github.com/taizilongxu/interview_python
+2021-12-31,shell,9470,6,Kubernetes中文指南/云原生应用架构实践手册 - https://jimmysong.io/kubernetes-handbook,rootsongjc,kubernetes-handbook,https://github.com/rootsongjc/kubernetes-handbook
+2021-12-31,shell,135,0,,denysvitali,covid-cert-analysis,https://github.com/denysvitali/covid-cert-analysis
+2021-12-31,shell,1536,2,The Void source packages collection,void-linux,void-packages,https://github.com/void-linux/void-packages
+2021-12-31,shell,2865,10,"Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)",yeszao,dnmp,https://github.com/yeszao/dnmp
+2021-12-31,shell,397,1,Unofficial installation scripts for Pterodactyl Panel,vilhelmprytz,pterodactyl-installer,https://github.com/vilhelmprytz/pterodactyl-installer
+2021-12-31,shell,1421,4,Get started with your own dotfiles.,driesvints,dotfiles,https://github.com/driesvints/dotfiles
+2021-12-31,shell,131,19,最稳定的ETH以太坊代理中转矿池程序，MinerProxy/矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理，包含自启动和进程守护，重启后可以自动运行，会放开防火墙和连接数限制，一键搞定。,MinerPr0xy,MinerProxy,https://github.com/MinerPr0xy/MinerProxy

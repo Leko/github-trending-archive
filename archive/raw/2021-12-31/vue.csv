@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2021-12-31,vue,34988,190,Open source API development ecosystem https://hoppscotch.io,hoppscotch,hoppscotch,/hoppscotch/hoppscotch
-2021-12-31,vue,13272,89,A Vue.js 3 UI Library made by Element team,element-plus,element-plus,/element-plus/element-plus
-2021-12-31,vue,8216,15,"A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",vbenjs,vue-vben-admin,/vbenjs/vue-vben-admin
-2021-12-31,vue,1722,31,基于Vue3的Material design风格移动端组件库 Material design mobile component library for Vue3,haoziqaq,varlet,/haoziqaq/varlet
-2021-12-31,vue,629,39,低代码平台，H5商城可视化搭建平台,wangyuan389,mall-cook,/wangyuan389/mall-cook
-2021-12-31,vue,3632,33,A very simple static homepage for your server.,bastienwirtz,homer,/bastienwirtz/homer
-2021-12-31,vue,15833,14,An enterprise-class UI components based on Ant Design and Vue.,vueComponent,ant-design-vue,/vueComponent/ant-design-vue
-2021-12-31,vue,8198,17,"Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",beekeeper-studio,beekeeper-studio,/beekeeper-studio/beekeeper-studio
-2021-12-31,vue,344,6,A note-taking chrome extension: taking notes on the web with their context.,betterRunner,context-note,/betterRunner/context-note
-2021-12-31,vue,1385,6,Vue 3.0 + Vite 2.0 + Vue-Router 4.0 + Element-Plus + Echarts 5.0 + Axios 开发的后台管理系统,newbee-ltd,vue3-admin,/newbee-ltd/vue3-admin
-2021-12-31,vue,51469,9,A Vue.js 2.0 UI Toolkit for Web,ElemeFE,element,/ElemeFE/element
-2021-12-31,vue,11075,9,"vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)",chuzhixin,vue-admin-better,/chuzhixin/vue-admin-better
-2021-12-31,vue,1794,11,Vue + SpringBoot + MyBatis 音乐网站,Yin-Hongwei,music-website,/Yin-Hongwei/music-website
-2021-12-31,vue,167,5,Colorui先行版本,weilanwl,coloruiBeta,/weilanwl/coloruiBeta
-2021-12-31,vue,3065,6,Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。,newbee-ltd,newbee-mall-vue3-app,/newbee-ltd/newbee-mall-vue3-app
-2021-12-31,vue,73271,28,A magical vue admin https://panjiachen.github.io/vue-element-admin,PanJiaChen,vue-element-admin,/PanJiaChen/vue-element-admin
-2021-12-31,vue,240,5,uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水,umicro,uView2.0,/umicro/uView2.0
-2021-12-31,vue,10018,22,A curated list of awesome GitHub Profile READMEs,abhisheknaiidu,awesome-github-profile-readme,/abhisheknaiidu/awesome-github-profile-readme
-2021-12-31,vue,844,2,Chinese translation for v3.vuejs.org,vuejs,docs-next-zh-cn,/vuejs/docs-next-zh-cn
-2021-12-31,vue,1066,4,基于vue3 的管理端模板(Vue3 TS Vuex4 element-plus vue-i18n-next composition-api) vue3-admin vue3-ts-admin,RainManGO,vue3-composition-admin,/RainManGO/vue3-composition-admin
-2021-12-31,vue,9007,8,👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!,vueComponent,ant-design-vue-pro,/vueComponent/ant-design-vue-pro
-2021-12-31,vue,2019,7,一个低代码（可视化拖拽）教学项目,woai3c,visual-drag-demo,/woai3c/visual-drag-demo
-2021-12-31,vue,6346,5,Blazing fast scrolling for any amount of data,Akryum,vue-virtual-scroller,/Akryum/vue-virtual-scroller
-2021-12-31,vue,9043,1,Lightweight UI components for Vue.js based on Bulma,buefy,buefy,/buefy/buefy
-2021-12-31,vue,1425,3,"Web-based image segmentation tool for object detection, localization, and keypoints",jsbroks,coco-annotator,/jsbroks/coco-annotator
+2021-12-31,vue,13294,86,A Vue.js 3 UI Library made by Element team,element-plus,element-plus,https://github.com/element-plus/element-plus
+2021-12-31,vue,638,37,低代码平台，H5商城可视化搭建平台,wangyuan389,mall-cook,https://github.com/wangyuan389/mall-cook
+2021-12-31,vue,1728,21,基于Vue3的Material design风格移动端组件库 Material design mobile component library for Vue3,haoziqaq,varlet,https://github.com/haoziqaq/varlet
+2021-12-31,vue,8221,16,"A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",vbenjs,vue-vben-admin,https://github.com/vbenjs/vue-vben-admin
+2021-12-31,vue,1642,6,一款简洁高效的VuePress知识管理&博客(blog)主题,xugaoyi,vuepress-theme-vdoing,https://github.com/xugaoyi/vuepress-theme-vdoing
+2021-12-31,vue,35010,149,Open source API development ecosystem https://hoppscotch.io,hoppscotch,hoppscotch,https://github.com/hoppscotch/hoppscotch
+2021-12-31,vue,3452,3,eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由,elunez,eladmin-web,https://github.com/elunez/eladmin-web
+2021-12-31,vue,15046,6,"Wiki.js | A modern and powerful wiki app built on Node.js",Requarks,wiki,https://github.com/Requarks/wiki
+2021-12-31,vue,5598,10,Element UI表单设计及代码生成器,JakHuang,form-generator,https://github.com/JakHuang/form-generator
+2021-12-31,vue,3643,28,A very simple static homepage for your server.,bastienwirtz,homer,https://github.com/bastienwirtz/homer
+2021-12-31,vue,15835,13,An enterprise-class UI components based on Ant Design and Vue.,vueComponent,ant-design-vue,https://github.com/vueComponent/ant-design-vue
+2021-12-31,vue,1434,7,"Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。",jekip,naive-ui-admin,https://github.com/jekip/naive-ui-admin
+2021-12-31,vue,1176,6,"基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面",buqiyuan,vue3-antd-admin,https://github.com/buqiyuan/vue3-antd-admin
+2021-12-31,vue,73274,23,A magical vue admin https://panjiachen.github.io/vue-element-admin,PanJiaChen,vue-element-admin,https://github.com/PanJiaChen/vue-element-admin
+2021-12-31,vue,6266,3,"一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档",chaitin,xray,https://github.com/chaitin/xray
+2021-12-31,vue,51469,7,A Vue.js 2.0 UI Toolkit for Web,ElemeFE,element,https://github.com/ElemeFE/element
+2021-12-31,vue,37382,6,基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用,bailicangdu,vue2-elm,https://github.com/bailicangdu/vue2-elm
+2021-12-31,vue,6346,2,Blazing fast scrolling for any amount of data,Akryum,vue-virtual-scroller,https://github.com/Akryum/vue-virtual-scroller
+2021-12-31,vue,15978,2,Vue 2.0 admin management system template based on iView,iview,iview-admin,https://github.com/iview/iview-admin
+2021-12-31,vue,1794,7,Vue + SpringBoot + MyBatis 音乐网站,Yin-Hongwei,music-website,https://github.com/Yin-Hongwei/music-website
+2021-12-31,vue,5974,6,Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布),DataV-Team,DataV,https://github.com/DataV-Team/DataV
+2021-12-31,vue,9008,6,👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!,vueComponent,ant-design-vue-pro,https://github.com/vueComponent/ant-design-vue-pro
+2021-12-31,vue,2020,7,一个低代码（可视化拖拽）教学项目,woai3c,visual-drag-demo,https://github.com/woai3c/visual-drag-demo
+2021-12-31,vue,168,3,Colorui先行版本,weilanwl,coloruiBeta,https://github.com/weilanwl/coloruiBeta
+2021-12-31,vue,4655,13,讨论如何构建一套可靠的大型分布式系统,fenixsoft,awesome-fenix,https://github.com/fenixsoft/awesome-fenix
