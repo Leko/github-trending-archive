@@ -78,7 +78,7 @@ export class TrendingPage {
         return el?.textContent?.trim();
       }
       function getAsInt(el: HTMLElement | null) {
-        return parseInt(getText(el)?.replace(/,/g, "") ?? "", 10);
+        return parseInt(getText(el)?.replace(/,/g, "") ?? "0", 10);
       }
       return elements.map((el) => {
         const url =
