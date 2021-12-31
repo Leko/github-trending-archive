@@ -25,7 +25,7 @@ export class TrendingPage {
     url = ENDPOINT,
     retry = 0
   ): Promise<TrendingPage> {
-    await page.goto(url, { waitUntil: "networkidle0" });
+    await page.goto(url, { waitUntil: "networkidle2" });
     try {
       await page.waitForSelector("article", { timeout: 5000 });
     } catch {
