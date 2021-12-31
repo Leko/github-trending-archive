@@ -64,18 +64,18 @@ export class TrendingPage {
 
   async getRepositories(): Promise<Repository[]> {
     return this.page.$$eval("article", (elements) => {
+      function getText(el: HTMLElement | null) {
+        return el?.textContent?.trim();
+      }
+      function getAsInt(el: HTMLElement | null) {
+        return parseInt(getText(el)?.replace(/,/g, "") ?? "", 10);
+      }
       return elements.map((el) => {
         const url = (el.querySelector("h1 a") as HTMLAnchorElement)!.href;
-        const description = el.querySelector("p")?.textContent?.trim() ?? "";
-        const stargazers = parseInt(
-          el.querySelector('[href$="/stargazers"]')?.textContent?.trim() ?? "",
-          10
-        );
-        const starsToday = parseInt(
-          el
-            .querySelector("span .octicon-star")
-            ?.parentElement?.textContent?.trim() ?? "",
-          10
+        const description = getText(el.querySelector("p")) ?? "";
+        const stargazers = getAsInt(el.querySelector('[href$="/stargazers"]'));
+        const starsToday = getAsInt(
+          el.querySelector("span .octicon-star")?.parentElement ?? null
         );
         const [owner, name] = url.split("/").slice(-2);
         return {
