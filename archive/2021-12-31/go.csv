@@ -1,0 +1,26 @@
+date,stargazers,starsToday,description,owner,name,url
+2021-12-31,6,182,一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗 ⎈,fanux,sealos,https://github.com/fanux/sealos
+2021-12-31,389,147,Source code of the 100 Go Mistakes book,teivah,100-go-mistakes,https://github.com/teivah/100-go-mistakes
+2021-12-31,681,7,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2021-12-31,5,38,Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2021-12-31,8,11,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2021-12-31,9,12,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
+2021-12-31,864,119,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2021-12-31,1,8,A stricter gofmt,mvdan,gofumpt,https://github.com/mvdan/gofumpt
+2021-12-31,369,64,Distributed tracing using OpenTelemetry and ClickHouse,uptrace,uptrace,https://github.com/uptrace/uptrace
+2021-12-31,5,24,A dead simple 2D game library for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2021-12-31,2,27,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2021-12-31,14,18,Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2021-12-31,12,65,Application Kernel for Containers,google,gvisor,https://github.com/google/gvisor
+2021-12-31,18,36,Photos App powered by Go and Google TensorFlow,photoprism,photoprism,https://github.com/photoprism/photoprism
+2021-12-31,4,2,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2021-12-31,168,18,"fofaX is a command line query tool based on the API of https://fofa.so/, simple is the best!",xiecat,fofax,https://github.com/xiecat/fofax
+2021-12-31,17,19,A framework for distributed systems development,asim,go-micro,https://github.com/asim/go-micro
+2021-12-31,22,18,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2021-12-31,4,18,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2021-12-31,5,2,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2021-12-31,12,11,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2021-12-31,6,9,A most popular sql audit platform for mysql,cookieY,Yearning,https://github.com/cookieY/Yearning
+2021-12-31,11,17,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2021-12-31,4,9,UUID package for Go,satori,go.uuid,https://github.com/satori/go.uuid
+2021-12-31,29,22,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
