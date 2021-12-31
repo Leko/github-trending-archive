@@ -1,10 +1,15 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2021-12-31,svelte,302,0,IOTA's New Wallet,iotaledger,firefly,/iotaledger/firefly
-2021-12-31,svelte,132,6,"cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.",cupcakearmy,cryptgeon,/cupcakearmy/cryptgeon
-2021-12-31,svelte,1196,0,UI framework with material components built with Svelte and Tailwind CSS,matyunya,smelte,/matyunya/smelte
-2021-12-31,svelte,1262,1,Svelte implementation of the Carbon Design System,carbon-design-system,carbon-components-svelte,/carbon-design-system/carbon-components-svelte
-2021-12-31,svelte,1243,2,SvelteKit implementation of the RealWorld app,sveltejs,realworld,/sveltejs/realworld
-2021-12-31,svelte,27,0,"The source code for the ""Full Stack Web Development in the Cloud"" course.",gitpod-io,full-stack-web-development,/gitpod-io/full-stack-web-development
-2021-12-31,svelte,433,2,What's really in your Discord Data package?,Androz2091,discord-data-package-explorer,/Androz2091/discord-data-package-explorer
-2021-12-31,svelte,487,2,A pretty cool UI kit for Svelte,illright,attractions,/illright/attractions
-2021-12-31,svelte,1034,0,,PuruVJ,macos-web,/PuruVJ/macos-web
+2021-12-31,svelte,132,1,"cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.",cupcakearmy,cryptgeon,https://github.com/cupcakearmy/cryptgeon
+2021-12-31,svelte,1243,1,SvelteKit implementation of the RealWorld app,sveltejs,realworld,https://github.com/sveltejs/realworld
+2021-12-31,svelte,1263,2,Svelte implementation of the Carbon Design System,carbon-design-system,carbon-components-svelte,https://github.com/carbon-design-system/carbon-components-svelte
+2021-12-31,svelte,29,1,A lightDM webkit2 theme for linux,gitneeraj,lightdm-webkit2-theme-reactive,https://github.com/gitneeraj/lightdm-webkit2-theme-reactive
+2021-12-31,svelte,825,0,Bootstrap 4 & 5 components for Svelte,bestguy,sveltestrap,https://github.com/bestguy/sveltestrap
+2021-12-31,svelte,487,1,A pretty cool UI kit for Svelte,illright,attractions,https://github.com/illright/attractions
+2021-12-31,svelte,1262,0,"A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.",BetterDiscord,Installer,https://github.com/BetterDiscord/Installer
+2021-12-31,svelte,2117,1,Svelte Material UI Components,hperrin,svelte-material-ui,https://github.com/hperrin/svelte-material-ui
+2021-12-31,svelte,434,1,What's really in your Discord Data package?,Androz2091,discord-data-package-explorer,https://github.com/Androz2091/discord-data-package-explorer
+2021-12-31,svelte,1167,1,"Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",dbgate,dbgate,https://github.com/dbgate/dbgate
+2021-12-31,svelte,75,0,Feedback app built with Svelte,bradtraversy,svelte-feedback-app,https://github.com/bradtraversy/svelte-feedback-app
+2021-12-31,svelte,763,4,Svelte  Three,Rich-Harris,svelte-cubed,https://github.com/Rich-Harris/svelte-cubed
+2021-12-31,svelte,541,0,"Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Faceted Filters, Typescript, Open Source, MIT license. 1 command deploy to your own server, 1 click deploy to netlify.",itswadesh,svelte-commerce,https://github.com/itswadesh/svelte-commerce
+2021-12-31,svelte,12,0,lod-explorativ is a prototype of a Svelte webapp which let you explore bibliographic resources from a topic's point of view.,slub,lod-explorativ,https://github.com/slub/lod-explorativ

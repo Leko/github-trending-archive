@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2021-12-31,rust,805,15,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,/AleoHQ/snarkOS
-2021-12-31,rust,10467,3,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,/tikv/tikv
-2021-12-31,rust,9387,19,"A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.",analysis-tools-dev,static-analysis,/analysis-tools-dev/static-analysis
-2021-12-31,rust,6187,45,egui: an easy-to-use immediate mode GUI in pure Rust,emilk,egui,/emilk/egui
-2021-12-31,rust,8807,11,"A reliable, high-performance tool for building observability data pipelines.",vectordotdev,vector,/vectordotdev/vector
-2021-12-31,rust,36630,47,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,/alacritty/alacritty
-2021-12-31,rust,1494,7,Apache Arrow DataFusion and Ballista query engines,apache,arrow-datafusion,/apache/arrow-datafusion
-2021-12-31,rust,1323,4,Solana Sealevel Framework,project-serum,anchor,/project-serum/anchor
-2021-12-31,rust,2677,12,"SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.",sixtyfpsui,sixtyfps,/sixtyfpsui/sixtyfps
-2021-12-31,rust,21011,26,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,/rust-lang/rustlings
-2021-12-31,rust,61892,36,Empowering everyone to build reliable and efficient software.,rust-lang,rust,/rust-lang/rust
-2021-12-31,rust,8954,6,An HTTP library for Rust,hyperium,hyper,/hyperium/hyper
-2021-12-31,rust,867,24,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",gakonst,foundry,/gakonst/foundry
-2021-12-31,rust,6793,2,A bunch of lints to catch common mistakes and improve your Rust code,rust-lang,rust-clippy,/rust-lang/rust-clippy
-2021-12-31,rust,5435,10,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,/qarmin/czkawka
-2021-12-31,rust,12566,15,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,/bevyengine/bevy
-2021-12-31,rust,2575,8,Strongly typed JSON library for Rust,serde-rs,json,/serde-rs/json
-2021-12-31,rust,12072,4,Cube — Open-Source Analytics API for Building Data Apps,cube-js,cube.js,/cube-js/cube.js
-2021-12-31,rust,16879,9,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,/firecracker-microvm/firecracker
-2021-12-31,rust,1169,9,A collection of Solana-maintained on-chain programs,solana-labs,solana-program-library,/solana-labs/solana-program-library
-2021-12-31,rust,7265,23,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,/clap-rs/clap
-2021-12-31,rust,2714,3,Open Source Spotify client library,librespot-org,librespot,/librespot-org/librespot
-2021-12-31,rust,9853,33,A command-line benchmarking tool,sharkdp,hyperfine,/sharkdp/hyperfine
-2021-12-31,rust,963,21,An async & dynamic ORM for Rust,SeaQL,sea-orm,/SeaQL/sea-orm
-2021-12-31,rust,1740,23,A framework for building compiled Node.js add-ons in Rust via Node-API,napi-rs,napi-rs,/napi-rs/napi-rs
+2021-12-31,rust,9389,19,"A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.",analysis-tools-dev,static-analysis,https://github.com/analysis-tools-dev/static-analysis
+2021-12-31,rust,5100,10,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2021-12-31,rust,8282,2,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2021-12-31,rust,971,18,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2021-12-31,rust,7272,23,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2021-12-31,rust,6793,2,A bunch of lints to catch common mistakes and improve your Rust code,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2021-12-31,rust,1174,10,A collection of Solana-maintained on-chain programs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2021-12-31,rust,6154,10,Build terminal user interfaces and dashboards using Rust,fdehau,tui-rs,https://github.com/fdehau/tui-rs
+2021-12-31,rust,6445,16,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2021-12-31,rust,14433,11,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2021-12-31,rust,6193,51,egui: an easy-to-use immediate mode GUI in pure Rust,emilk,egui,https://github.com/emilk/egui
+2021-12-31,rust,2720,9,Safe OpenGL wrapper for the Rust language.,glium,glium,https://github.com/glium/glium
+2021-12-31,rust,450,25,<<Rust语言圣经(Rust Course)>>，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。 这既是一本厚重的书籍，也是一门全面的课程，希望读者朋友能喜欢。,sunface,rust-course,https://github.com/sunface/rust-course
+2021-12-31,rust,1272,3,AWS SDK for the Rust Programming Language,awslabs,aws-sdk-rust,https://github.com/awslabs/aws-sdk-rust
+2021-12-31,rust,6894,58,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2021-12-31,rust,25681,39,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2021-12-31,rust,16278,1,Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.,diem,diem,https://github.com/diem/diem
+2021-12-31,rust,48,7,rust raft with improvements,datafuselabs,openraft,https://github.com/datafuselabs/openraft
+2021-12-31,rust,1495,7,Apache Arrow DataFusion and Ballista query engines,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2021-12-31,rust,806,9,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2021-12-31,rust,8122,26,A Rust compiler front-end for IDEs,rust-analyzer,rust-analyzer,https://github.com/rust-analyzer/rust-analyzer
+2021-12-31,rust,1744,17,A framework for building compiled Node.js add-ons in Rust via Node-API,napi-rs,napi-rs,https://github.com/napi-rs/napi-rs
+2021-12-31,rust,2577,8,Strongly typed JSON library for Rust,serde-rs,json,https://github.com/serde-rs/json
+2021-12-31,rust,12570,17,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2021-12-31,rust,3442,15,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
