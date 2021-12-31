@@ -33,6 +33,7 @@ export type QueryTrendingArgs = {
 export type Repository = {
   __typename?: 'Repository';
   description: Scalars['String'];
+  language: Scalars['String'];
   name: Scalars['String'];
   owner: Scalars['String'];
   stargazers: Scalars['Int'];
@@ -154,6 +155,7 @@ export type QueryResolvers<ContextType = any, ParentType extends ResolversParent
 
 export type RepositoryResolvers<ContextType = any, ParentType extends ResolversParentTypes['Repository'] = ResolversParentTypes['Repository']> = {
   description?: Resolver<ResolversTypes['String'], ParentType, ContextType>;
+  language?: Resolver<ResolversTypes['String'], ParentType, ContextType>;
   name?: Resolver<ResolversTypes['String'], ParentType, ContextType>;
   owner?: Resolver<ResolversTypes['String'], ParentType, ContextType>;
   stargazers?: Resolver<ResolversTypes['Int'], ParentType, ContextType>;
