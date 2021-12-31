@@ -41,10 +41,8 @@ function getToday() {
 }
 
 async function exportHTML(slug: string, content: string) {
-  await fs.writeFile(
-    path.join(process.argv[2].replace("/raw/", "/html/"), `${slug}.html`),
-    content
-  );
+  await fs.mkdir(HTML_PATH, { recursive: true });
+  await fs.writeFile(path.join(HTML_PATH, `${slug}.html`), content);
 }
 async function exportTo(
   result: { slug: string; items: Record<string, any>[] }[],
