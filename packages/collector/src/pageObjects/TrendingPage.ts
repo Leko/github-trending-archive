@@ -99,7 +99,7 @@ export class TrendingPage {
           description,
           owner,
           name,
-          url,
+          url: `https://github.com/${owner}/${name}`,
         };
       });
     });
