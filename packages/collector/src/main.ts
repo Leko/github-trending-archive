@@ -30,6 +30,9 @@ const ALLOW_LANGUAGES = [
   "Astro",
 ];
 
+const RAW_PATH = process.argv[2];
+const HTML_PATH = process.argv[2].replace("/raw/", "/html/");
+
 function getToday() {
   const now = new Date();
   return [now.getFullYear(), now.getMonth() + 1, now.getDate()]
@@ -37,6 +40,12 @@ function getToday() {
     .join("-");
 }
 
+async function exportHTML(slug: string, content: string) {
+  await fs.writeFile(
+    path.join(process.argv[2].replace("/raw/", "/html/"), `${slug}.html`),
+    content
+  );
+}
 async function exportTo(
   result: { slug: string; items: Record<string, any>[] }[],
   dir: string
@@ -78,23 +87,33 @@ async function main() {
     });
     const entry = await TrendingPage.from(await browser.newPage());
     const languages = await entry.getLanguages().finally(() => entry.close());
-    const result = await Promise.all(
+    const contents = await Promise.all(
       languages
         .filter((l) => ALLOW_LANGUAGES.includes(l.label))
         .map((lang) => {
           return limiter.schedule(async () => {
-            const page = await TrendingPage.from(
-              await browser.newPage(),
-              lang.url
-            );
+            const page = await browser.newPage();
+            const fetcher = await TrendingPage.from(page, lang.url);
+            const html = await fetcher.getOuterHTML();
+            await exportHTML(lang.slug, html);
             return {
-              ...lang,
-              items: await page.getRepositories().finally(() => page.close()),
+              lang,
+              html,
             };
           });
         })
     );
-    await exportTo(result, process.argv[2]);
+    const result = await Promise.all(
+      contents.map(async (content) => {
+        const page = await browser.newPage();
+        const parser = await TrendingPage.fromHTML(page, content.html);
+        return {
+          ...content.lang,
+          items: await parser.getRepositories().finally(() => parser.close()),
+        };
+      })
+    );
+    await exportTo(result, RAW_PATH);
   } finally {
     await browser.close();
   }

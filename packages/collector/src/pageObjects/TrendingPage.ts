@@ -25,7 +25,7 @@ export class TrendingPage {
     url = ENDPOINT,
     retry = 0
   ): Promise<TrendingPage> {
-    await page.goto(url, { waitUntil: "domcontentloaded" });
+    await page.goto(url, { waitUntil: "networkidle0" });
     try {
       await page.waitForSelector("article", { timeout: 5000 });
     } catch {
@@ -46,6 +46,12 @@ export class TrendingPage {
     return new TrendingPage(page);
   }
 
+  static async fromHTML(page: Page, html: string): Promise<TrendingPage> {
+    await page.goto("about:blank");
+    await page.setContent(html);
+    return new TrendingPage(page);
+  }
+
   async getLanguages(): Promise<Language[]> {
     return this.page
       .$$eval('#languages-menuitems [role="menuitemradio"]', (elements) =>
@@ -60,6 +66,10 @@ export class TrendingPage {
         })
       )
       .then((ret) => [{ url: ENDPOINT, label: "", slug: "" }].concat(ret));
+  }
+
+  async getOuterHTML(): Promise<string> {
+    return this.page.$eval("body", (body) => body.outerHTML);
   }
 
   async getRepositories(): Promise<Repository[]> {
