@@ -1,9 +1,13 @@
 import "reflect-metadata";
 
-import { createConnection, getConnection } from "typeorm";
+import fs from "fs";
+import { createConnection } from "typeorm";
 import { NextApiHandler } from "next";
 import { apolloServer } from "../../src/app";
 import * as entitiesMap from "../../src/entity";
+
+console.log("cwd:", process.cwd());
+console.log("ls:", fs.readdirSync(process.cwd()));
 
 export const config = {
   api: {
