@@ -4,7 +4,7 @@
   "scripts": {
     "predev": "run-s codegen 'typeorm schema:sync' init:db",
     "dev": "next dev",
-    "build": "next build && npm run predev",
+    "build": "next build && npm run predev && curl -o ./node_modules/sql.js/dist/sql-wasm.wasm https://unpkg.com/sql.js@1.6.2/dist/sql-wasm.wasm",
     "start": "next start",
     "lint": "next lint",
     "codegen": "graphql-codegen --config codegen.yml",
