@@ -14,7 +14,9 @@ jobs:
       - run: npm ci
       - run: npm --workspace=collector run start $(pwd)/archive/raw/$(date +'%Y-%m-%d')
       - run: git status
+        if: always()
       - uses: actions/upload-artifact@v2
+        if: always()
         with:
           name: screenshots
           path: "packages/collector/*.png"
