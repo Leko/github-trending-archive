@@ -2,7 +2,7 @@ import { parseFile } from "@fast-csv/parse";
 import fs from "fs/promises";
 import path from "path";
 
-const BASE = path.join(process.cwd(), "..", "..", "archive");
+const BASE = path.join(process.cwd(), "..", "..", "archive", "raw");
 
 export type Item = {
   lang: string;

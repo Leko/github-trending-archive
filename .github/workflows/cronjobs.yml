@@ -17,7 +17,7 @@ jobs:
           node-version: "16"
           cache: "npm"
       - run: npm ci
-      - run: npm --workspace=collector run start $(pwd)/archive/$(date +'%Y-%m-%d')
+      - run: npm --workspace=collector run start $(pwd)/archive/raw/$(date +'%Y-%m-%d')
       - run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
