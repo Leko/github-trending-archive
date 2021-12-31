@@ -1,16 +1,16 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2021-12-31,shell,51316,275,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2021-12-31,shell,51318,275,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
 2021-12-31,shell,22179,7,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
 2021-12-31,shell,19522,13,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
 2021-12-31,shell,15302,1,"GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",tj,git-extras,https://github.com/tj/git-extras
 2021-12-31,shell,54231,37,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
 2021-12-31,shell,4590,2,"Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",toniblyx,prowler,https://github.com/toniblyx/prowler
-2021-12-31,shell,521,23,Use any linux distribution inside your terminal.,89luca89,distrobox,https://github.com/89luca89/distrobox
+2021-12-31,shell,521,22,Use any linux distribution inside your terminal.,89luca89,distrobox,https://github.com/89luca89/distrobox
 2021-12-31,shell,62817,16,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
 2021-12-31,shell,299,6,Cloudflare WARP 多功能一键脚本，支持纯IPV4/纯IPV6/双栈V4V6的VPS共9种情况随意切换安装，screen一键手动/自动刷支持Netflix奈飞的IP（自动识别WGCF与SOCKS5环境），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…,kkkyg,CFwarp,https://github.com/kkkyg/CFwarp
 2021-12-31,shell,11172,4,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
 2021-12-31,shell,5905,2,Dockerfile for Apache Kafka,wurstmeister,kafka-docker,https://github.com/wurstmeister/kafka-docker
-2021-12-31,shell,147,62,老炮抽水。一键+自启动+守护+稳定。ETH以太坊矿池、中转、代理、redir，支持TCP和SSL协议，支持自定义抽水，高性能高并发，web界面管理。ETH pool proxy Pumping,nicococococ,MinerProxyLite,https://github.com/nicococococ/MinerProxyLite
+2021-12-31,shell,147,61,老炮抽水。一键+自启动+守护+稳定。ETH以太坊矿池、中转、代理、redir，支持TCP和SSL协议，支持自定义抽水，高性能高并发，web界面管理。ETH pool proxy Pumping,nicococococ,MinerProxyLite,https://github.com/nicococococ/MinerProxyLite
 2021-12-31,shell,3895,2,The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.,OWASP,wstg,https://github.com/OWASP/wstg
 2021-12-31,shell,1942,3,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,https://github.com/six2dez/reconftw
 2021-12-31,shell,1334,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
