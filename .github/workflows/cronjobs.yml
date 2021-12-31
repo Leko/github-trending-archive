@@ -18,6 +18,8 @@ jobs:
           cache: "npm"
       - run: npm ci
       - run: npm --workspace=collector run start $(pwd)/archive/raw/$(date +'%Y-%m-%d')
+      - run: git status
+        if: always()
       - run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -25,6 +27,7 @@ jobs:
           git commit -m "[skip ci] chore: update $(date +'%Y-%m-%d')"
           git push origin main
       - uses: actions/upload-artifact@v2
+        if: always()
         with:
           name: screenshots
           path: "packages/collector/*.png"
