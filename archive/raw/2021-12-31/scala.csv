@@ -1,26 +1,26 @@
 date,stargazers,starsToday,description,owner,name,url
-2021-12-31,873,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",,,
-2021-12-31,2928,7,Simple and Distributed Machine Learning,,,
-2021-12-31,31702,10,Apache Spark - A unified analytics engine for large-scale data processing,,,
-2021-12-31,3920,2,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",,,
-2021-12-31,11960,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",,,
-2021-12-31,2316,2,Chisel 3: A Modern Hardware Design Language,,,
-2021-12-31,4443,0,"sbt, the interactive build tool",,,
-2021-12-31,12047,0,Play Framework,,,
-2021-12-31,8130,1,"A fault tolerant, protocol-agnostic RPC system",,,
-2021-12-31,354,2,Ergo protocol description & reference client implementation,,,
-2021-12-31,271,0,A Spark plugin for reading Excel files via Apache POI,,,
-2021-12-31,746,0,A Thrift parser/generator,,,
-2021-12-31,58,0,Mockup/testing JDBC & MongoDB driver (or Chmeee's son on the Ringworld).,,,
-2021-12-31,63,0,FEEL parser and interpreter written in Scala,,,
-2021-12-31,1819,0,DataStax Spark Cassandra Connector,,,
-2021-12-31,5387,1,Modern Load Testing as Code,,,
-2021-12-31,178,0,Apache Spark Connector for Azure Cosmos DB,,,
-2021-12-31,2491,1,Wonderful reusable code from Twitter,,,
-2021-12-31,175,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,,,
-2021-12-31,117,0,"Open, Modular, Deep Learning Accelerator",,,
-2021-12-31,2369,2,Open-source high-performance RISC-V processor,,,
-2021-12-31,650,1,The Daml smart contract language,,,
-2021-12-31,1482,0,sbt Native Packager,,,
-2021-12-31,1674,0,Your shiny new Java/Scala build tool!,,,
-2021-12-31,1402,2,The pure asynchronous runtime for Scala,,,
+2021-12-31,873,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,/apache/incubator-kyuubi
+2021-12-31,2928,7,Simple and Distributed Machine Learning,microsoft,SynapseML,/microsoft/SynapseML
+2021-12-31,31702,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,/apache/spark
+2021-12-31,3920,2,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,/delta-io/delta
+2021-12-31,11961,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,/akka/akka
+2021-12-31,2316,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,/chipsalliance/chisel3
+2021-12-31,4443,0,"sbt, the interactive build tool",sbt,sbt,/sbt/sbt
+2021-12-31,12047,0,Play Framework,playframework,playframework,/playframework/playframework
+2021-12-31,8130,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,/twitter/finagle
+2021-12-31,354,2,Ergo protocol description & reference client implementation,ergoplatform,ergo,/ergoplatform/ergo
+2021-12-31,271,0,A Spark plugin for reading Excel files via Apache POI,crealytics,spark-excel,/crealytics/spark-excel
+2021-12-31,746,0,A Thrift parser/generator,twitter,scrooge,/twitter/scrooge
+2021-12-31,58,0,Mockup/testing JDBC & MongoDB driver (or Chmeee's son on the Ringworld).,cchantep,acolyte,/cchantep/acolyte
+2021-12-31,63,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,/camunda/feel-scala
+2021-12-31,1819,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,/datastax/spark-cassandra-connector
+2021-12-31,5388,2,Modern Load Testing as Code,gatling,gatling,/gatling/gatling
+2021-12-31,178,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,/Azure/azure-cosmosdb-spark
+2021-12-31,2491,1,Wonderful reusable code from Twitter,twitter,util,/twitter/util
+2021-12-31,175,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,/Azure/azure-event-hubs-spark
+2021-12-31,117,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,/apache/tvm-vta
+2021-12-31,2369,2,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,/OpenXiangShan/XiangShan
+2021-12-31,650,1,The Daml smart contract language,digital-asset,daml,/digital-asset/daml
+2021-12-31,1482,0,sbt Native Packager,sbt,sbt-native-packager,/sbt/sbt-native-packager
+2021-12-31,1674,0,Your shiny new Java/Scala build tool!,com-lihaoyi,mill,/com-lihaoyi/mill
+2021-12-31,1402,2,The pure asynchronous runtime for Scala,typelevel,cats-effect,/typelevel/cats-effect

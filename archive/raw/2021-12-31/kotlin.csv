@@ -1,26 +1,26 @@
 date,stargazers,starsToday,description,owner,name,url
-2021-12-31,8151,6,Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.,,,
-2021-12-31,27068,8,A memory leak detection library for Android.,,,
-2021-12-31,148,5,Android 技术中台 Kotlin 版本，但愿人长久，搬砖不再有,,,
-2021-12-31,21326,11,Samples for Android Architecture Components.,,,
-2021-12-31,1224,0,Template repository for creating plugins for IntelliJ Platform,,,
-2021-12-31,5794,4,Kotlin SQL Framework,,,
-2021-12-31,1030,1,Multiple samples showing the best practices in storage APIs on Android.,,,
-2021-12-31,136,4,,,,
-2021-12-31,1195,2,android-kotlin-fundamentals-apps,,,
-2021-12-31,538,9,吾爱破解第三方安卓应用,,,
-2021-12-31,10830,17,A rule-based tunnel for Android.,,,
-2021-12-31,4198,4,Static code analysis for Kotlin,,,
-2021-12-31,531,7,"Android app for streaming and downloading Movies, TV-Series and Anime.",,,
-2021-12-31,9246,5,Framework for quickly creating connected applications in Kotlin with minimal effort,,,
-2021-12-31,744,1,Best present for 316 and 423.,,,
-2021-12-31,63,6,Ivy Wallet is an Open Source money manager app for android that you can either build or download from Google Play.,,,
-2021-12-31,1073,1,Media server for comics/mangas/BDs with API and OPDS support,,,
-2021-12-31,729,0,,,,
-2021-12-31,1673,1,Best Material You Design music player for Android,,,
-2021-12-31,159,6,Personal time tracking app,,,
-2021-12-31,23518,15,翻墙-科学上网,,,
-2021-12-31,17191,2,Flexbox for Android,,,
-2021-12-31,2304,17,Celebrate more with this lightweight confetti particle system,,,
-2021-12-31,2760,5,The universal proxy toolchain for Android,,,
-2021-12-31,2273,3,"Modernized and sophisticated tooltips, fully customizable with an arrow and animations on Android.",,,
+2021-12-31,8152,5,Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.,YiiGuxing,TranslationPlugin,/YiiGuxing/TranslationPlugin
+2021-12-31,27068,8,A memory leak detection library for Android.,square,leakcanary,/square/leakcanary
+2021-12-31,148,4,Android 技术中台 Kotlin 版本，但愿人长久，搬砖不再有,getActivity,AndroidProject-Kotlin,/getActivity/AndroidProject-Kotlin
+2021-12-31,21326,10,Samples for Android Architecture Components.,android,architecture-components-samples,/android/architecture-components-samples
+2021-12-31,1224,0,Template repository for creating plugins for IntelliJ Platform,JetBrains,intellij-platform-plugin-template,/JetBrains/intellij-platform-plugin-template
+2021-12-31,5795,6,Kotlin SQL Framework,JetBrains,Exposed,/JetBrains/Exposed
+2021-12-31,1030,1,Multiple samples showing the best practices in storage APIs on Android.,android,storage-samples,/android/storage-samples
+2021-12-31,136,3,,LawnchairLauncher,lawnicons,/LawnchairLauncher/lawnicons
+2021-12-31,1195,2,android-kotlin-fundamentals-apps,google-developer-training,android-kotlin-fundamentals-apps,/google-developer-training/android-kotlin-fundamentals-apps
+2021-12-31,538,11,吾爱破解第三方安卓应用,fabricezhang,lcg,/fabricezhang/lcg
+2021-12-31,10830,17,A rule-based tunnel for Android.,Kr328,ClashForAndroid,/Kr328/ClashForAndroid
+2021-12-31,4198,4,Static code analysis for Kotlin,detekt,detekt,/detekt/detekt
+2021-12-31,531,7,"Android app for streaming and downloading Movies, TV-Series and Anime.",LagradOst,CloudStream-3,/LagradOst/CloudStream-3
+2021-12-31,9246,5,Framework for quickly creating connected applications in Kotlin with minimal effort,ktorio,ktor,/ktorio/ktor
+2021-12-31,744,1,Best present for 316 and 423.,ejiaogl,FuckCoolapk,/ejiaogl/FuckCoolapk
+2021-12-31,63,6,Ivy Wallet is an Open Source money manager app for android that you can either build or download from Google Play.,ILIYANGERMANOV,ivy-wallet,/ILIYANGERMANOV/ivy-wallet
+2021-12-31,1073,0,Media server for comics/mangas/BDs with API and OPDS support,gotson,komga,/gotson/komga
+2021-12-31,729,0,,grpc,grpc-kotlin,/grpc/grpc-kotlin
+2021-12-31,1673,1,Best Material You Design music player for Android,RetroMusicPlayer,RetroMusicPlayer,/RetroMusicPlayer/RetroMusicPlayer
+2021-12-31,159,6,Personal time tracking app,artnc,chronofile,/artnc/chronofile
+2021-12-31,23520,14,翻墙-科学上网,bannedbook,fanqiang,/bannedbook/fanqiang
+2021-12-31,17191,1,Flexbox for Android,google,flexbox-layout,/google/flexbox-layout
+2021-12-31,2304,15,Celebrate more with this lightweight confetti particle system,DanielMartinus,Konfetti,/DanielMartinus/Konfetti
+2021-12-31,2760,3,The universal proxy toolchain for Android,SagerNet,SagerNet,/SagerNet/SagerNet
+2021-12-31,2273,3,"Modernized and sophisticated tooltips, fully customizable with an arrow and animations on Android.",skydoves,Balloon,/skydoves/Balloon
