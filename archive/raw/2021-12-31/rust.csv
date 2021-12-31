@@ -1,26 +1,26 @@
 date,stargazers,starsToday,description,owner,name,url
-2021-12-31,803,14,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
-2021-12-31,10467,4,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
-2021-12-31,9385,19,"A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.",analysis-tools-dev,static-analysis,https://github.com/analysis-tools-dev/static-analysis
-2021-12-31,6183,47,egui: an easy-to-use immediate mode GUI in pure Rust,emilk,egui,https://github.com/emilk/egui
-2021-12-31,8804,9,"A reliable, high-performance tool for building observability data pipelines.",vectordotdev,vector,https://github.com/vectordotdev/vector
-2021-12-31,36623,29,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
-2021-12-31,1493,7,Apache Arrow DataFusion and Ballista query engines,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
-2021-12-31,1322,4,Solana Sealevel Framework,project-serum,anchor,https://github.com/project-serum/anchor
-2021-12-31,2675,13,"SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.",sixtyfpsui,sixtyfps,https://github.com/sixtyfpsui/sixtyfps
-2021-12-31,21011,27,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
-2021-12-31,61886,37,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
-2021-12-31,8953,7,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
-2021-12-31,865,23,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",gakonst,foundry,https://github.com/gakonst/foundry
-2021-12-31,6792,2,A bunch of lints to catch common mistakes and improve your Rust code,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
-2021-12-31,5433,10,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
-2021-12-31,12564,16,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
-2021-12-31,2573,7,Strongly typed JSON library for Rust,serde-rs,json,https://github.com/serde-rs/json
-2021-12-31,12068,4,Cube — Open-Source Analytics API for Building Data Apps,cube-js,cube.js,https://github.com/cube-js/cube.js
-2021-12-31,16879,10,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
-2021-12-31,1169,9,A collection of Solana-maintained on-chain programs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
-2021-12-31,7263,17,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
-2021-12-31,2713,2,Open Source Spotify client library,librespot-org,librespot,https://github.com/librespot-org/librespot
-2021-12-31,9847,28,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
-2021-12-31,960,21,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
-2021-12-31,1736,21,A framework for building compiled Node.js add-ons in Rust via Node-API,napi-rs,napi-rs,https://github.com/napi-rs/napi-rs
+2021-12-31,804,13,A Decentralized Operating System for Zero-Knowledge Applications,,,
+2021-12-31,10467,4,"Distributed transactional key-value database, originally created to complement TiDB",,,
+2021-12-31,9385,19,"A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.",,,
+2021-12-31,6184,51,egui: an easy-to-use immediate mode GUI in pure Rust,,,
+2021-12-31,8805,10,"A reliable, high-performance tool for building observability data pipelines.",,,
+2021-12-31,36627,42,"A cross-platform, OpenGL terminal emulator.",,,
+2021-12-31,1494,7,Apache Arrow DataFusion and Ballista query engines,,,
+2021-12-31,1322,4,Solana Sealevel Framework,,,
+2021-12-31,2677,13,"SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.",,,
+2021-12-31,21011,27,Small exercises to get you used to reading and writing Rust code!,,,
+2021-12-31,61889,36,Empowering everyone to build reliable and efficient software.,,,
+2021-12-31,8954,7,An HTTP library for Rust,,,
+2021-12-31,865,23,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",,,
+2021-12-31,6792,2,A bunch of lints to catch common mistakes and improve your Rust code,,,
+2021-12-31,5434,9,"Multi functional app to find duplicates, empty folders, similar images etc.",,,
+2021-12-31,12566,17,A refreshingly simple data-driven game engine built in Rust,,,
+2021-12-31,2573,8,Strongly typed JSON library for Rust,,,
+2021-12-31,12068,4,Cube — Open-Source Analytics API for Building Data Apps,,,
+2021-12-31,16879,10,Secure and fast microVMs for serverless computing.,,,
+2021-12-31,1169,9,A collection of Solana-maintained on-chain programs,,,
+2021-12-31,7264,23,"A full featured, fast Command Line Argument Parser for Rust",,,
+2021-12-31,2714,2,Open Source Spotify client library,,,
+2021-12-31,9851,32,A command-line benchmarking tool,,,
+2021-12-31,960,21,An async & dynamic ORM for Rust,,,
+2021-12-31,1739,22,A framework for building compiled Node.js add-ons in Rust via Node-API,,,

@@ -1,26 +1,26 @@
 date,stargazers,starsToday,description,owner,name,url
-2021-12-31,30604,13,Amazon Web Services — a practical guide,open-guides,og-aws,https://github.com/open-guides/og-aws
-2021-12-31,593,4,"Crack Interface lockscreen, Metasploit and More Android/IOS Hacking",tegal1337,CiLocks,https://github.com/tegal1337/CiLocks
-2021-12-31,19516,19,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
-2021-12-31,11171,7,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
-2021-12-31,1940,3,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,https://github.com/six2dez/reconftw
-2021-12-31,54212,38,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
-2021-12-31,25156,27,Official electron build of diagrams.net,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
-2021-12-31,62807,19,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
-2021-12-31,3060,7,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
-2021-12-31,1417,2,A versatile (cross-)toolchain generator.,crosstool-ng,crosstool-ng,https://github.com/crosstool-ng/crosstool-ng
-2021-12-31,27301,5,".files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles
-2021-12-31,1334,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
-2021-12-31,513,36,Use any linux distribution inside your terminal.,89luca89,distrobox,https://github.com/89luca89/distrobox
-2021-12-31,1623,3,"Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B",kiddin9,OpenWrt_x86-r2s-r4s,https://github.com/kiddin9/OpenWrt_x86-r2s-r4s
-2021-12-31,59,0,Command-line program to boot directly into Windows from a Linux terminal (in grub2 dual-boot setups).,semiismaili,winboot,https://github.com/semiismaili/winboot
-2021-12-31,51240,254,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
-2021-12-31,296,3,Cloudflare WARP 多功能一键脚本，支持纯IPV4/纯IPV6/双栈V4V6的VPS共9种情况随意切换安装，screen一键手动/自动刷支持Netflix奈飞的IP（自动识别WGCF与SOCKS5环境），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…,kkkyg,CFwarp,https://github.com/kkkyg/CFwarp
-2021-12-31,1580,3,Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.,davestephens,ansible-nas,https://github.com/davestephens/ansible-nas
-2021-12-31,11189,5,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
-2021-12-31,864,1,Guia rápido do WSL2 + Docker,codeedu,wsl2-docker-quickstart,https://github.com/codeedu/wsl2-docker-quickstart
-2021-12-31,493,5,"uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, and so on.",m3n0sd0n4ld,uDork,https://github.com/m3n0sd0n4ld/uDork
-2021-12-31,542,6,Flexible and fast ZSH plugin manager,zdharma-continuum,zinit,https://github.com/zdharma-continuum/zinit
-2021-12-31,34289,13,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
-2021-12-31,4082,6,Android in docker solution with noVNC supported and video recording,budtmo,docker-android,https://github.com/budtmo/docker-android
-2021-12-31,1468,1,To fix the Docker and UFW security flaw without disabling iptables,chaifeng,ufw-docker,https://github.com/chaifeng/ufw-docker
+2021-12-31,30604,12,Amazon Web Services — a practical guide,,,
+2021-12-31,593,3,"Crack Interface lockscreen, Metasploit and More Android/IOS Hacking",,,
+2021-12-31,19516,17,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,,,
+2021-12-31,11171,7,Azure Quickstart Templates,,,
+2021-12-31,1941,3,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,,,
+2021-12-31,54214,40,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,,,
+2021-12-31,25160,28,Official electron build of diagrams.net,,,
+2021-12-31,62809,20,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",,,
+2021-12-31,3060,8,Certified Kubernetes Administrator - CKA Course,,,
+2021-12-31,1417,2,A versatile (cross-)toolchain generator.,,,
+2021-12-31,27301,5,".files, including ~/.macos — sensible hacker defaults for macOS",,,
+2021-12-31,1334,0,Conda recipes for the bioconda channel.,,,
+2021-12-31,514,34,Use any linux distribution inside your terminal.,,,
+2021-12-31,1626,5,"Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B",,,
+2021-12-31,59,0,Command-line program to boot directly into Windows from a Linux terminal (in grub2 dual-boot setups).,,,
+2021-12-31,51249,263,Papers from the computer science community to read and discuss.,,,
+2021-12-31,297,4,Cloudflare WARP 多功能一键脚本，支持纯IPV4/纯IPV6/双栈V4V6的VPS共9种情况随意切换安装，screen一键手动/自动刷支持Netflix奈飞的IP（自动识别WGCF与SOCKS5环境），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…,,,
+2021-12-31,1580,3,Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.,,,
+2021-12-31,11189,5,kaldi-asr/kaldi is the official location of the Kaldi project.,,,
+2021-12-31,864,1,Guia rápido do WSL2 + Docker,,,
+2021-12-31,493,5,"uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, and so on.",,,
+2021-12-31,542,5,Flexible and fast ZSH plugin manager,,,
+2021-12-31,34290,14,A black hole for Internet advertisements,,,
+2021-12-31,4082,7,Android in docker solution with noVNC supported and video recording,,,
+2021-12-31,1469,2,To fix the Docker and UFW security flaw without disabling iptables,,,
