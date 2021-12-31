@@ -1,0 +1,20 @@
+name: dry-run
+
+on: pull_request
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+          cache: "npm"
+      - run: npm ci
+      - run: npm --workspace=collector run start $(pwd)/archive/raw/$(date +'%Y-%m-%d')
+      - run: git status
+      - uses: actions/upload-artifact@v2
+        with:
+          name: screenshots
+          path: "packages/collector/*.png"
