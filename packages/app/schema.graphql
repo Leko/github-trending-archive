@@ -5,6 +5,7 @@ enum Language {
 
 type Repository {
   language: String!
+  date: String!
   stargazers: Int!
   starsToday: Int!
   description: String!

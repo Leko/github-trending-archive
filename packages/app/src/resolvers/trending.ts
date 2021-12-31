@@ -1,17 +1,18 @@
-import path from "path";
 import { UserInputError } from "apollo-server-micro";
 import { QueryResolvers } from "../generated/graphql";
-import { load } from "../../data/loader";
-
-const ROOT = path.join(process.cwd(), "..", "..", "archive", "raw");
+import { Repository } from "../entity";
 
 export const trending: QueryResolvers["trending"] = async (_, args) => {
-  const d = new Date(args.date);
-  if (isNaN(d.getTime())) {
+  if (isNaN(new Date(args.date).getTime())) {
     throw new UserInputError("Invalid date");
   }
 
-  const nodes = await load(d, args.language);
+  const nodes = await Repository.find({
+    where: {
+      date: args.date,
+      language: args.language,
+    },
+  });
 
   return {
     repositories: {

@@ -2,12 +2,14 @@
   "name": "app",
   "private": true,
   "scripts": {
-    "predev": "npm run codegen",
+    "predev": "run-s codegen 'typeorm schema:sync' init:db",
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && npm run predev",
     "start": "next start",
     "lint": "next lint",
-    "codegen": "graphql-codegen --config codegen.yml"
+    "codegen": "graphql-codegen --config codegen.yml",
+    "typeorm": "node -r ts-node/register/transpile-only $(npm bin)/typeorm",
+    "init:db": "node -r ts-node/register/transpile-only src/init-db.ts"
   },
   "dependencies": {
     "@fast-csv/parse": "^4.3.6",
@@ -16,7 +18,10 @@
     "graphql": "^15.8.0",
     "next": "12.0.7",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "reflect-metadata": "^0.1.13",
+    "sql.js": "^1.6.2",
+    "typeorm": "^0.2.41"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "2.3.0",
@@ -26,6 +31,7 @@
     "@types/react": "17.0.38",
     "eslint": "8.5.0",
     "eslint-config-next": "12.0.7",
+    "npm-run-all": "^4.1.5",
     "prettier": "^2.5.1",
     "typescript": "4.5.4"
   }
