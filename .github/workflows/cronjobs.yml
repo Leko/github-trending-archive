@@ -2,6 +2,8 @@ name: cron
 
 on:
   push:
+    paths-ignore:
+      - "archive/**"
     branches:
       - main
   schedule:
@@ -24,7 +26,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add archive
-          git commit -m "[skip ci] chore: update $(date +'%Y-%m-%d')"
+          git commit -m "chore: update $(date +'%Y-%m-%d')"
           git push origin main
       - uses: actions/upload-artifact@v2
         if: always()
