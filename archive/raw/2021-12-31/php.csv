@@ -1,26 +1,26 @@
-date,stargazers,starsToday,description,owner,name,url
-2021-12-31,17842,13,"Nextcloud server, a safe home for all your data",nextcloud,server,/nextcloud/server
-2021-12-31,69,10,The HtmlSanitizer component provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document's DOM.,symfony,html-sanitizer,/symfony/html-sanitizer
-2021-12-31,5161,24,Open Source Invoicing Solution for Individuals & Businesses,crater-invoice,crater,/crater-invoice/crater
-2021-12-31,4175,4,"An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.",bagisto,bagisto,/bagisto/bagisto
-2021-12-31,2819,3,基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码,jqhph,dcat-admin,/jqhph/dcat-admin
-2021-12-31,9711,7,一个 PHP 微信 SDK,w7corp,easywechat,/w7corp/easywechat
-2021-12-31,26279,4,The Symfony PHP framework,symfony,symfony,/symfony/symfony
-2021-12-31,4799,5,Instant Upgrades and Automated Refactoring of any PHP 5.3+ code,rectorphp,rector,/rectorphp/rector
-2021-12-31,4907,7,Mautic: Open Source Marketing Automation Software.,mautic,mautic,/mautic/mautic
-2021-12-31,292,24,The complete web scraping toolkit for PHP.,roach-php,core,/roach-php/core
-2021-12-31,15747,10,Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!,matomo-org,matomo,/matomo-org/matomo
-2021-12-31,2502,4,"Get account information, photos, videos, stories and comments.",postaddictme,instagram-php-scraper,/postaddictme/instagram-php-scraper
-2021-12-31,3825,7,"A free, self-hostable aggregator…",FreshRSS,FreshRSS,/FreshRSS/FreshRSS
-2021-12-31,324,10,-------> RAFEL<------ Android Rat Written in Java With WebPanel For Controlling Victims...Hack Android Devices,swagkarna,Rafel-Rat,/swagkarna/Rafel-Rat
-2021-12-31,3861,1,Open Source PHP Framework (originally from EllisLab),codeigniter4,CodeIgniter4,/codeigniter4/CodeIgniter4
-2021-12-31,3538,7,An Application dashboard and launcher,linuxserver,Heimdall,/linuxserver/Heimdall
-2021-12-31,4561,2,A static analysis tool for finding errors in PHP applications,vimeo,psalm,/vimeo/psalm
-2021-12-31,1615,9,"A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.",AzuraCast,AzuraCast,/AzuraCast/AzuraCast
-2021-12-31,7614,4,"ownCloud web server core (Files, DAV, etc.)",owncloud,core,/owncloud/core
-2021-12-31,6209,3,"PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.",PrestaShop,PrestaShop,/PrestaShop/PrestaShop
-2021-12-31,9001,4,Doctrine Object Relational Mapper (ORM),doctrine,orm,/doctrine/orm
-2021-12-31,2605,0,A server software for Minecraft: Bedrock Edition in PHP,pmmp,PocketMine-MP,/pmmp/PocketMine-MP
-2021-12-31,10284,1,Build a full-featured administrative interface in ten minutes,z-song,laravel-admin,/z-song/laravel-admin
-2021-12-31,67800,11,A PHP framework for web artisans.,laravel,laravel,/laravel/laravel
-2021-12-31,10665,6,A pure PHP library for reading and writing spreadsheet files,PHPOffice,PhpSpreadsheet,/PHPOffice/PhpSpreadsheet
+date,language,stargazers,starsToday,description,owner,name,url
+2021-12-31,php,17842,13,"Nextcloud server, a safe home for all your data",nextcloud,server,/nextcloud/server
+2021-12-31,php,69,10,The HtmlSanitizer component provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document's DOM.,symfony,html-sanitizer,/symfony/html-sanitizer
+2021-12-31,php,5161,23,Open Source Invoicing Solution for Individuals & Businesses,crater-invoice,crater,/crater-invoice/crater
+2021-12-31,php,4175,4,"An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.",bagisto,bagisto,/bagisto/bagisto
+2021-12-31,php,2819,3,基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码,jqhph,dcat-admin,/jqhph/dcat-admin
+2021-12-31,php,9711,8,一个 PHP 微信 SDK,w7corp,easywechat,/w7corp/easywechat
+2021-12-31,php,26279,4,The Symfony PHP framework,symfony,symfony,/symfony/symfony
+2021-12-31,php,4799,4,Instant Upgrades and Automated Refactoring of any PHP 5.3+ code,rectorphp,rector,/rectorphp/rector
+2021-12-31,php,4907,7,Mautic: Open Source Marketing Automation Software.,mautic,mautic,/mautic/mautic
+2021-12-31,php,292,24,The complete web scraping toolkit for PHP.,roach-php,core,/roach-php/core
+2021-12-31,php,15747,9,Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!,matomo-org,matomo,/matomo-org/matomo
+2021-12-31,php,2502,4,"Get account information, photos, videos, stories and comments.",postaddictme,instagram-php-scraper,/postaddictme/instagram-php-scraper
+2021-12-31,php,3825,8,"A free, self-hostable aggregator…",FreshRSS,FreshRSS,/FreshRSS/FreshRSS
+2021-12-31,php,324,12,-------> RAFEL<------ Android Rat Written in Java With WebPanel For Controlling Victims...Hack Android Devices,swagkarna,Rafel-Rat,/swagkarna/Rafel-Rat
+2021-12-31,php,3861,1,Open Source PHP Framework (originally from EllisLab),codeigniter4,CodeIgniter4,/codeigniter4/CodeIgniter4
+2021-12-31,php,3538,6,An Application dashboard and launcher,linuxserver,Heimdall,/linuxserver/Heimdall
+2021-12-31,php,4561,1,A static analysis tool for finding errors in PHP applications,vimeo,psalm,/vimeo/psalm
+2021-12-31,php,1615,9,"A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.",AzuraCast,AzuraCast,/AzuraCast/AzuraCast
+2021-12-31,php,7614,4,"ownCloud web server core (Files, DAV, etc.)",owncloud,core,/owncloud/core
+2021-12-31,php,6209,3,"PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.",PrestaShop,PrestaShop,/PrestaShop/PrestaShop
+2021-12-31,php,9001,4,Doctrine Object Relational Mapper (ORM),doctrine,orm,/doctrine/orm
+2021-12-31,php,2605,0,A server software for Minecraft: Bedrock Edition in PHP,pmmp,PocketMine-MP,/pmmp/PocketMine-MP
+2021-12-31,php,10284,1,Build a full-featured administrative interface in ten minutes,z-song,laravel-admin,/z-song/laravel-admin
+2021-12-31,php,67800,11,A PHP framework for web artisans.,laravel,laravel,/laravel/laravel
+2021-12-31,php,10665,6,A pure PHP library for reading and writing spreadsheet files,PHPOffice,PhpSpreadsheet,/PHPOffice/PhpSpreadsheet

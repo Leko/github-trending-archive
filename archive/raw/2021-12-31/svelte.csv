@@ -1,10 +1,10 @@
-date,stargazers,starsToday,description,owner,name,url
-2021-12-31,302,0,IOTA's New Wallet,iotaledger,firefly,/iotaledger/firefly
-2021-12-31,132,6,"cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.",cupcakearmy,cryptgeon,/cupcakearmy/cryptgeon
-2021-12-31,1196,0,UI framework with material components built with Svelte and Tailwind CSS,matyunya,smelte,/matyunya/smelte
-2021-12-31,1262,1,Svelte implementation of the Carbon Design System,carbon-design-system,carbon-components-svelte,/carbon-design-system/carbon-components-svelte
-2021-12-31,1243,2,SvelteKit implementation of the RealWorld app,sveltejs,realworld,/sveltejs/realworld
-2021-12-31,27,0,"The source code for the ""Full Stack Web Development in the Cloud"" course.",gitpod-io,full-stack-web-development,/gitpod-io/full-stack-web-development
-2021-12-31,433,2,What's really in your Discord Data package?,Androz2091,discord-data-package-explorer,/Androz2091/discord-data-package-explorer
-2021-12-31,487,2,A pretty cool UI kit for Svelte,illright,attractions,/illright/attractions
-2021-12-31,1034,0,,PuruVJ,macos-web,/PuruVJ/macos-web
+date,language,stargazers,starsToday,description,owner,name,url
+2021-12-31,svelte,302,0,IOTA's New Wallet,iotaledger,firefly,/iotaledger/firefly
+2021-12-31,svelte,132,6,"cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.",cupcakearmy,cryptgeon,/cupcakearmy/cryptgeon
+2021-12-31,svelte,1196,0,UI framework with material components built with Svelte and Tailwind CSS,matyunya,smelte,/matyunya/smelte
+2021-12-31,svelte,1262,1,Svelte implementation of the Carbon Design System,carbon-design-system,carbon-components-svelte,/carbon-design-system/carbon-components-svelte
+2021-12-31,svelte,1243,2,SvelteKit implementation of the RealWorld app,sveltejs,realworld,/sveltejs/realworld
+2021-12-31,svelte,27,0,"The source code for the ""Full Stack Web Development in the Cloud"" course.",gitpod-io,full-stack-web-development,/gitpod-io/full-stack-web-development
+2021-12-31,svelte,433,2,What's really in your Discord Data package?,Androz2091,discord-data-package-explorer,/Androz2091/discord-data-package-explorer
+2021-12-31,svelte,487,2,A pretty cool UI kit for Svelte,illright,attractions,/illright/attractions
+2021-12-31,svelte,1034,0,,PuruVJ,macos-web,/PuruVJ/macos-web

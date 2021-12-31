@@ -1,26 +1,26 @@
-date,stargazers,starsToday,description,owner,name,url
-2021-12-31,24952,14,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,/hasura/graphql-engine
-2021-12-31,1102,5,"Dapp, Seth, Hevm, and more",dapphub,dapptools,/dapphub/dapptools
-2021-12-31,2408,4,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,/input-output-hk/cardano-node
-2021-12-31,4201,1,A friendly programming language from the future,unisonweb,unison,/unisonweb/unison
-2021-12-31,662,0,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,/obsidiansystems/obelisk
-2021-12-31,77,0,The Plutus application platform,input-output-hk,plutus-apps,/input-output-hk/plutus-apps
-2021-12-31,7494,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,/purescript/purescript
-2021-12-31,8,0,Genetic Algorithm based randomized testing,input-output-hk,goblins,/input-output-hk/goblins
-2021-12-31,9,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,/digital-asset/ex-mortgage-repackaging
-2021-12-31,1872,3,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,/haskell/haskell-language-server
-2021-12-31,50,0,Prometheus.io Haskell client.,bitnomial,prometheus,/bitnomial/prometheus
-2021-12-31,18196,5,REST API for any Postgres database,PostgREST,postgrest,/PostgREST/postgrest
-2021-12-31,2044,3,Linux VR Desktop,SimulaVR,Simula,/SimulaVR/Simula
-2021-12-31,11,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,/cdepillabout/servant-rawm
-2021-12-31,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,/mwotton/squealgen
-2021-12-31,27338,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,/koalaman/shellcheck
-2021-12-31,196,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,/input-output-hk/ouroboros-network
-2021-12-31,589,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,/input-output-hk/cardano-wallet
-2021-12-31,134,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,/input-output-hk/cardano-ledger
-2021-12-31,1282,1,The Plutus language implementation and tools,input-output-hk,plutus,/input-output-hk/plutus
-2021-12-31,49,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,/input-output-hk/cardano-base
-2021-12-31,498,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,/brendanhay/amazonka
-2021-12-31,6324,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,/hadolint/hadolint
-2021-12-31,702,1,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,/kowainik/learn4haskell
-2021-12-31,9,0,A simple db for ingesting and indexing static datasets on disk,flipstone,kioku,/flipstone/kioku
+date,language,stargazers,starsToday,description,owner,name,url
+2021-12-31,haskell,24952,14,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,/hasura/graphql-engine
+2021-12-31,haskell,1102,5,"Dapp, Seth, Hevm, and more",dapphub,dapptools,/dapphub/dapptools
+2021-12-31,haskell,2408,4,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,/input-output-hk/cardano-node
+2021-12-31,haskell,4201,1,A friendly programming language from the future,unisonweb,unison,/unisonweb/unison
+2021-12-31,haskell,662,0,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,/obsidiansystems/obelisk
+2021-12-31,haskell,77,0,The Plutus application platform,input-output-hk,plutus-apps,/input-output-hk/plutus-apps
+2021-12-31,haskell,7494,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,/purescript/purescript
+2021-12-31,haskell,8,0,Genetic Algorithm based randomized testing,input-output-hk,goblins,/input-output-hk/goblins
+2021-12-31,haskell,9,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,/digital-asset/ex-mortgage-repackaging
+2021-12-31,haskell,1872,3,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,/haskell/haskell-language-server
+2021-12-31,haskell,50,0,Prometheus.io Haskell client.,bitnomial,prometheus,/bitnomial/prometheus
+2021-12-31,haskell,18196,5,REST API for any Postgres database,PostgREST,postgrest,/PostgREST/postgrest
+2021-12-31,haskell,2044,3,Linux VR Desktop,SimulaVR,Simula,/SimulaVR/Simula
+2021-12-31,haskell,11,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,/cdepillabout/servant-rawm
+2021-12-31,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,/mwotton/squealgen
+2021-12-31,haskell,27339,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,/koalaman/shellcheck
+2021-12-31,haskell,196,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,/input-output-hk/ouroboros-network
+2021-12-31,haskell,589,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,/input-output-hk/cardano-wallet
+2021-12-31,haskell,134,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,/input-output-hk/cardano-ledger
+2021-12-31,haskell,1282,1,The Plutus language implementation and tools,input-output-hk,plutus,/input-output-hk/plutus
+2021-12-31,haskell,49,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,/input-output-hk/cardano-base
+2021-12-31,haskell,498,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,/brendanhay/amazonka
+2021-12-31,haskell,6324,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,/hadolint/hadolint
+2021-12-31,haskell,702,1,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,/kowainik/learn4haskell
+2021-12-31,haskell,9,0,A simple db for ingesting and indexing static datasets on disk,flipstone,kioku,/flipstone/kioku
