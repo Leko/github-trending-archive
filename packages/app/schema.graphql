@@ -25,5 +25,5 @@ type Trending {
 }
 
 type Query {
-  trending(date: String!, language: Language): Trending!
+  trending(date: String!, language: Language!): Trending!
 }

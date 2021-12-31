@@ -27,7 +27,7 @@ export type Query = {
 
 export type QueryTrendingArgs = {
   date: Scalars['String'];
-  language?: InputMaybe<Language>;
+  language: Language;
 };
 
 export type Repository = {
@@ -149,7 +149,7 @@ export type ResolversParentTypes = {
 };
 
 export type QueryResolvers<ContextType = any, ParentType extends ResolversParentTypes['Query'] = ResolversParentTypes['Query']> = {
-  trending?: Resolver<ResolversTypes['Trending'], ParentType, ContextType, RequireFields<QueryTrendingArgs, 'date'>>;
+  trending?: Resolver<ResolversTypes['Trending'], ParentType, ContextType, RequireFields<QueryTrendingArgs, 'date' | 'language'>>;
 };
 
 export type RepositoryResolvers<ContextType = any, ParentType extends ResolversParentTypes['Repository'] = ResolversParentTypes['Repository']> = {
