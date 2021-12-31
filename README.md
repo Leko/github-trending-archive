@@ -4,6 +4,6 @@
 The history of GitHub trending.
 
 ## Roadmap
-- [ ] Release stable version in this year
+- [x] Release stable version in this year
 - [ ] Support other format (JSON)
 - [ ] Publish GraphQL API
