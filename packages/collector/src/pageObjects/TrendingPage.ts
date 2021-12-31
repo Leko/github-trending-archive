@@ -81,13 +81,18 @@ export class TrendingPage {
         return parseInt(getText(el)?.replace(/,/g, "") ?? "", 10);
       }
       return elements.map((el) => {
-        const url = (el.querySelector("h1 a") as HTMLAnchorElement)!.href;
+        const url =
+          (el.querySelector("h1 a") as HTMLAnchorElement)!.getAttribute(
+            "href"
+          ) ?? "";
         const description = getText(el.querySelector("p")) ?? "";
         const stargazers = getAsInt(el.querySelector('[href$="/stargazers"]'));
         const starsToday = getAsInt(
           el.querySelector("span .octicon-star")?.parentElement ?? null
         );
-        const [owner, name] = url.split("/").slice(-2);
+        const [owner, name] = new URL(url, "https://github.com").pathname
+          .split("/")
+          .slice(-2);
         return {
           stargazers,
           starsToday,
