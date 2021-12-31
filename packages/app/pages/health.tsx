@@ -10,15 +10,15 @@ type Props = {
 function assertDate(date: Item[][]) {
   return date.flatMap(assertLanguageItems).find((err) => !!err);
 }
-function assertLanguageItems(lang: Item[]) {
-  return lang.flatMap(assertItem).find((err) => !!err);
+function assertLanguageItems(language: Item[]) {
+  return language.flatMap(assertItem).find((err) => !!err);
 }
 function assertItem(item: Item) {
   if (!/\d{4}-\d{2}-\d{2}/.test(item.date)) {
     return `Invalid date: ${JSON.stringify(item.date)}`;
   }
-  if (!item.lang) {
-    return "`lang` is missing";
+  if (!item.language) {
+    return "`language` is missing";
   }
   if (!item.name) {
     return "`name` is missing";
@@ -68,10 +68,10 @@ const Home: NextPage<Props> = ({ posts }) => {
             {date
               .filter((l) => l.length)
               .map((l, j) => (
-                <details className={styles.foldable} key={l[0]?.lang ?? j}>
+                <details className={styles.foldable} key={l[0]?.language ?? j}>
                   <summary>
                     <AssertionResult error={assertLanguageItems(l)} />
-                    {l[0]?.lang ?? ""} : {l.length}
+                    {l[0]?.language ?? ""} : {l.length}
                   </summary>
                   <ul>
                     {l

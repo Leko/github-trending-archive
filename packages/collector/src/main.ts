@@ -55,6 +55,7 @@ async function exportTo(
         const csv = format({
           headers: [
             "date",
+            "language",
             "stargazers",
             "starsToday",
             "description",
@@ -69,7 +70,7 @@ async function exportTo(
         csv.pipe(out);
         console.log(ret.slug, ret.items.length);
         for (const item of ret.items) {
-          csv.write({ ...item, date: getToday() });
+          csv.write({ ...item, date: getToday(), language: ret.slug });
         }
         csv.end();
       });

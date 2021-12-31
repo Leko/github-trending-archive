@@ -39,7 +39,6 @@ export async function load(date: Date, lang: string): Promise<Item[]> {
           ...chunk,
           starsToday: parseInt(chunk.starsToday, 10),
           stargazers: parseInt(chunk.stargazers, 10),
-          lang,
         })
       )
       .on("error", reject)
