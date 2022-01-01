@@ -6,8 +6,6 @@ import { createConnection } from "typeorm";
 import type { PageConfig, NextApiHandler } from "next";
 import { apolloServer } from "../../src/app";
 import * as entitiesMap from "../../src/entity";
-// @ts-expect-error For the output file tracing
-import type {} from "sql.js/dist/sql-wasm.wasm";
 
 console.log("cwd:", process.cwd());
 console.log("ls:", fs.readdirSync(process.cwd()));
@@ -25,7 +23,7 @@ export const config: PageConfig = {
     bodyParser: false,
   },
   unstable_includeFiles: [
-    path.join(__dirname, "../../node_modules/sql.js/dist/**/*"),
+    path.join(process.cwd(), "node_modules/sql.js/dist/sql-wasm.wasm"),
   ],
 };
 
