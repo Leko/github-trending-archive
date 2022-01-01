@@ -7,6 +7,12 @@ import type { PageConfig, NextApiHandler } from "next";
 import { apolloServer } from "../../src/app";
 import * as entitiesMap from "../../src/entity";
 
+// For the output file tracing
+// https://nextjs.org/docs/advanced-features/output-file-tracing
+const _notUsedButRequired = fs.readFileSync(
+  path.join(process.cwd(), "node_modules", "sql.js", "dist", "sql-wasm.wasm")
+);
+
 console.log("cwd:", process.cwd());
 console.log("ls:", fs.readdirSync(process.cwd()));
 console.log(
