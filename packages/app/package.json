@@ -4,9 +4,9 @@
   "scripts": {
     "predev": "run-s codegen 'typeorm schema:sync' init:db",
     "dev": "next dev",
-    "prebuild": "echo '### BEFORE ###' && ls node_modules/sql.js/dist && curl -o ./node_modules/sql.js/dist/sql-wasm.wasm https://unpkg.com/sql.js@1.6.2/dist/sql-wasm.wasm && echo '### AFTER ###' && ls node_modules/sql.js/dist",
+    "prebuild": "echo '### BEFORE ###' && ls node_modules/sql.js/dist",
     "build": "next build && npm run predev",
-    "postbuild": "echo '### AFTER 2 ###' && ls node_modules/sql.js/dist",
+    "postbuild": "echo '### AFTER ###' && ls node_modules/sql.js/dist",
     "start": "next start",
     "lint": "next lint",
     "codegen": "graphql-codegen --config codegen.yml",
