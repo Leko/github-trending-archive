@@ -28,7 +28,9 @@ export const config: PageConfig = {
   api: {
     bodyParser: false,
   },
-  unstable_includeFiles: ["node_modules/sql.js/dist/*"],
+  unstable_includeFiles: [
+    path.join(__dirname, "../../node_modules/sql.js/dist/**/*"),
+  ],
 };
 
 const handleReady = Promise.all([
