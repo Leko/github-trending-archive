@@ -32,6 +32,7 @@ export type QueryTrendingArgs = {
 
 export type Repository = {
   __typename?: 'Repository';
+  date: Scalars['String'];
   description: Scalars['String'];
   language: Scalars['String'];
   name: Scalars['String'];
@@ -154,6 +155,7 @@ export type QueryResolvers<ContextType = any, ParentType extends ResolversParent
 };
 
 export type RepositoryResolvers<ContextType = any, ParentType extends ResolversParentTypes['Repository'] = ResolversParentTypes['Repository']> = {
+  date?: Resolver<ResolversTypes['String'], ParentType, ContextType>;
   description?: Resolver<ResolversTypes['String'], ParentType, ContextType>;
   language?: Resolver<ResolversTypes['String'], ParentType, ContextType>;
   name?: Resolver<ResolversTypes['String'], ParentType, ContextType>;

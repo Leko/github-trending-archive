@@ -1,15 +1,30 @@
-import { NextApiHandler } from "next";
-import { apolloServer } from "../../src/app";
+import "reflect-metadata";
 
-export const config = {
+import { createConnection } from "typeorm";
+import type { PageConfig, NextApiHandler } from "next";
+import { apolloServer } from "../../src/app";
+import * as entitiesMap from "../../src/entity";
+
+export const config: PageConfig = {
   api: {
     bodyParser: false,
   },
 };
 
-const handleReady = apolloServer
-  .start()
-  .then(() => apolloServer.createHandler({ path: "/api/graphql" }));
+const handleReady = Promise.all([
+  createConnection({
+    type: "sqljs",
+    location: "./db.sqlite",
+    autoSave: false,
+    useLocalForage: false,
+    logging: true,
+    synchronize: false,
+    entities: Object.values(entitiesMap),
+  }),
+  apolloServer
+    .start()
+    .then(() => apolloServer.createHandler({ path: "/api/graphql" })),
+]).then(([_, handler]) => handler);
 
 const handler: NextApiHandler = (req, res) => {
   return handleReady.then((handle) => handle(req, res));
