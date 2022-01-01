@@ -1,6 +1,6 @@
 {
   "functions": {
-    "pages/api/graphql.ts": {
+    "pages/api/graphql.js": {
       "includeFiles": "node_modules/sql.js/dist/**/*"
     }
   }
