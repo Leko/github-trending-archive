@@ -6,6 +6,8 @@ import { createConnection } from "typeorm";
 import type { PageConfig, NextApiHandler } from "next";
 import { apolloServer } from "../../src/app";
 import * as entitiesMap from "../../src/entity";
+// @ts-expect-error For the output file tracing
+import type {} from "sql.js/dist/sql-wasm.wasm";
 
 console.log("cwd:", process.cwd());
 console.log("ls:", fs.readdirSync(process.cwd()));
@@ -16,12 +18,6 @@ console.log(
 console.log(
   "ls node_modules/sql.js/dist:",
   fs.readdirSync(path.join(process.cwd(), "node_modules", "sql.js", "dist"))
-);
-
-// For the output file tracing
-// https://nextjs.org/docs/advanced-features/output-file-tracing
-const _notUsedButRequired = fs.readFileSync(
-  path.join(process.cwd(), "node_modules/sql.js/dist/sql-wasm.wasm")
 );
 
 export const config: PageConfig = {
