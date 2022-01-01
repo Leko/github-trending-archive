@@ -13,4 +13,5 @@ const PKG = path.join(
 
 const pkg = require(PKG);
 pkg.files.push("../../../../node_modules/sql.js/dist/sql-wasm.wasm");
-require("fs").writeFileSync(PKG, JSON.stringify(pkg));
+pkg.files.push("../../../../db.sqlite");
+fs.writeFileSync(PKG, JSON.stringify(pkg));
