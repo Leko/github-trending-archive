@@ -4,9 +4,9 @@
   "scripts": {
     "predev": "run-s codegen 'typeorm schema:sync' init:db",
     "dev": "next dev",
-    "prebuild": "echo '### BEFORE ###' && ls && ls .output",
+    "prebuild": "echo '### BEFORE ###' && ls -la",
     "build": "next build && npm run predev",
-    "postbuild": "echo '### AFTER ###' && ls && ls .output",
+    "postbuild": "echo '### AFTER ###' && ls -la",
     "start": "next start",
     "lint": "next lint",
     "codegen": "graphql-codegen --config codegen.yml",
