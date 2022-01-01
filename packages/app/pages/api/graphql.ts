@@ -3,7 +3,7 @@ import "reflect-metadata";
 import fs from "fs";
 import path from "path";
 import { createConnection } from "typeorm";
-import { NextApiHandler } from "next";
+import type { PageConfig, NextApiHandler } from "next";
 import { apolloServer } from "../../src/app";
 import * as entitiesMap from "../../src/entity";
 
@@ -18,10 +18,13 @@ console.log(
   fs.readdirSync(path.join(process.cwd(), "node_modules", "sql.js", "dist"))
 );
 
-export const config = {
+export const config: PageConfig = {
   api: {
     bodyParser: false,
   },
+  unstable_includeFiles: [
+    path.join(process.cwd(), "node_modules", "sql.js", "dist", "*"),
+  ],
 };
 
 const handleReady = Promise.all([
