@@ -6,7 +6,7 @@
     "dev": "next dev",
     "prebuild": "echo '### BEFORE ###' && ls -la",
     "build": "next build && npm run predev",
-    "postbuild": "echo '### AFTER ###' && ls -la",
+    "postbuild": "node -e 'const pkg = require(\"./.next/server/pages/api/graphql.js.nft.json\"); pkg.files.push(\"../../../../node_modules/sql.js/dist/sql-wasm.wasm\"); require(\"fs\").writeFileSync(\".next/server/pages/api/graphql.js.nft.json\", JSON.stringify(pkg))'",
     "start": "next start",
     "lint": "next lint",
     "codegen": "graphql-codegen --config codegen.yml",
