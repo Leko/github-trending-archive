@@ -21,7 +21,7 @@ console.log(
 // For the output file tracing
 // https://nextjs.org/docs/advanced-features/output-file-tracing
 const _notUsedButRequired = fs.readFileSync(
-  "./node_modules/sql.js/dist/sql-wasm.wasm"
+  path.join(process.cwd(), "node_modules/sql.js/dist/sql-wasm.wasm")
 );
 
 export const config: PageConfig = {
