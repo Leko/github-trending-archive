@@ -1,30 +1,14 @@
 import "reflect-metadata";
 
-import fs from "fs";
-import path from "path";
 import { createConnection } from "typeorm";
 import type { PageConfig, NextApiHandler } from "next";
 import { apolloServer } from "../../src/app";
 import * as entitiesMap from "../../src/entity";
 
-console.log("cwd:", process.cwd());
-console.log("ls:", fs.readdirSync(process.cwd()));
-console.log(
-  "ls node_modules/sql.js:",
-  fs.readdirSync(path.join(process.cwd(), "node_modules", "sql.js"))
-);
-console.log(
-  "ls node_modules/sql.js/dist:",
-  fs.readdirSync(path.join(process.cwd(), "node_modules", "sql.js", "dist"))
-);
-
 export const config: PageConfig = {
   api: {
     bodyParser: false,
   },
-  unstable_includeFiles: [
-    path.join(process.cwd(), "node_modules/sql.js/dist/sql-wasm.wasm"),
-  ],
 };
 
 const handleReady = Promise.all([
