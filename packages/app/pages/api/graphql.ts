@@ -10,7 +10,7 @@ import * as entitiesMap from "../../src/entity";
 // For the output file tracing
 // https://nextjs.org/docs/advanced-features/output-file-tracing
 const _notUsedButRequired = fs.readFileSync(
-  path.join(process.cwd(), "node_modules", "sql.js", "dist", "sql-wasm.wasm")
+  "./node_modules/sql.js/dist/sql-wasm.wasm"
 );
 
 console.log("cwd:", process.cwd());
@@ -28,9 +28,7 @@ export const config: PageConfig = {
   api: {
     bodyParser: false,
   },
-  unstable_includeFiles: [
-    path.join(process.cwd(), "node_modules", "sql.js", "dist", "*"),
-  ],
+  unstable_includeFiles: ["node_modules/sql.js/dist/*"],
 };
 
 const handleReady = Promise.all([
