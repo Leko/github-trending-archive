@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-01,scala,2955,29,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
-2022-01-01,scala,2091,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
-2022-01-01,scala,1403,1,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
-2022-01-01,scala,10570,5,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
-2022-01-01,scala,114,0,Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.,oap-project,gazelle_plugin,https://github.com/oap-project/gazelle_plugin
-2022-01-01,scala,31706,9,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
-2022-01-01,scala,2181,0,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
-2022-01-01,scala,5947,2,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
-2022-01-01,scala,873,0,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
-2022-01-01,scala,2371,4,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
-2022-01-01,scala,2317,2,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
-2022-01-01,scala,117,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
-2022-01-01,scala,3923,4,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
-2022-01-01,scala,164,0,,ucb-bar,berkeley-hardfloat,https://github.com/ucb-bar/berkeley-hardfloat
-2022-01-01,scala,12047,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
-2022-01-01,scala,12,0,A Scala library for Context-Dependent Evironments,chipsalliance,api-config-chipsalliance,https://github.com/chipsalliance/api-config-chipsalliance
-2022-01-01,scala,53,0,A STAC/OGC API Features Web Service,azavea,franklin,https://github.com/azavea/franklin
-2022-01-01,scala,388,0,A scala library to write Http apps.,dream11,zio-http,https://github.com/dream11/zio-http
-2022-01-01,scala,2532,1,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
-2022-01-01,scala,5513,0,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
-2022-01-01,scala,354,0,Ergo protocol description & reference client implementation,ergoplatform,ergo,https://github.com/ergoplatform/ergo
-2022-01-01,scala,63,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
-2022-01-01,scala,70,0,A ZIO-based redis client,zio,zio-redis,https://github.com/zio/zio-redis
-2022-01-01,scala,746,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-01-01,scala,2967,16,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-01-01,scala,2372,1,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-01-01,scala,4850,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-01-01,scala,31712,7,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-01-01,scala,11962,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-01-01,scala,5948,1,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-01-01,scala,8132,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-01-01,scala,2318,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-01-01,scala,4572,1,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-01-01,scala,3924,1,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
 2022-01-01,scala,79,0,ギガンティック☆整地鯖の独自要素を司るプラグイン / A Minecraft(Spigot) Plugin used for Gigantic Seichi Server. Address -> play.seichi.click,GiganticMinecraft,SeichiAssist,https://github.com/GiganticMinecraft/SeichiAssist
+2022-01-01,scala,1405,2,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-01-01,scala,866,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-01-01,scala,2492,1,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-01-01,scala,2177,0,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-01-01,scala,117,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-01-01,scala,10570,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-01-01,scala,670,0,Mirror of Apache livy (Incubating),apache,incubator-livy,https://github.com/apache/incubator-livy
+2022-01-01,scala,178,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-01-01,scala,650,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2022-01-01,scala,213,0,,databricks,sjsonnet,https://github.com/databricks/sjsonnet
+2022-01-01,scala,875,2,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-01-01,scala,4443,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-01-01,scala,14,0,,wulei-bj-cn,learn-spark,https://github.com/wulei-bj-cn/learn-spark
+2022-01-01,scala,114,0,Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.,oap-project,gazelle_plugin,https://github.com/oap-project/gazelle_plugin

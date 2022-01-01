@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-01,kotlin,640,61,"btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.",bytedance,btrace,https://github.com/bytedance/btrace
-2022-01-01,kotlin,539,7,吾爱破解第三方安卓应用,fabricezhang,lcg,https://github.com/fabricezhang/lcg
-2022-01-01,kotlin,124,3,A high-performance fork of Paper designed for large servers.,pufferfish-gg,Pufferfish,https://github.com/pufferfish-gg/Pufferfish
-2022-01-01,kotlin,1700,3,A glossy Matrix collaboration client for Android.,vector-im,element-android,https://github.com/vector-im/element-android
-2022-01-01,kotlin,8156,6,Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.,YiiGuxing,TranslationPlugin,https://github.com/YiiGuxing/TranslationPlugin
-2022-01-01,kotlin,2306,4,Celebrate more with this lightweight confetti particle system,DanielMartinus,Konfetti,https://github.com/DanielMartinus/Konfetti
-2022-01-01,kotlin,26678,2,Alibaba Java Coding Guidelines pmd implements and IDE plugin,alibaba,p3c,https://github.com/alibaba/p3c
-2022-01-01,kotlin,2225,4,Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device,KieronQuinn,TapTap,https://github.com/KieronQuinn/TapTap
-2022-01-01,kotlin,5796,4,Kotlin SQL Framework,JetBrains,Exposed,https://github.com/JetBrains/Exposed
-2022-01-01,kotlin,23523,13,翻墙-科学上网,bannedbook,fanqiang,https://github.com/bannedbook/fanqiang
-2022-01-01,kotlin,2364,4,"Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud. NOTE: BEING REWRITTEN, SO STAY TUNED.",Shabinder,SpotiFlyer,https://github.com/Shabinder/SpotiFlyer
-2022-01-01,kotlin,2055,1,GraphQL for Java with Spring Boot made easy.,Netflix,dgs-framework,https://github.com/Netflix/dgs-framework
-2022-01-01,kotlin,10180,9,Official Jetpack Compose samples.,android,compose-samples,https://github.com/android/compose-samples
-2022-01-01,kotlin,41363,7,"Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",square,okhttp,https://github.com/square/okhttp
-2022-01-01,kotlin,1775,3,蓝鲸CI平台(BlueKing CI),Tencent,bk-ci,https://github.com/Tencent/bk-ci
-2022-01-01,kotlin,3529,1,The most beautiful SMS messenger for Android,moezbhatti,qksms,https://github.com/moezbhatti/qksms
-2022-01-01,kotlin,14009,13,Free and open source manga reader for Android.,tachiyomiorg,tachiyomi,https://github.com/tachiyomiorg/tachiyomi
-2022-01-01,kotlin,172,1,Reasonable Tox client for Android,evilcorpltd,aTox,https://github.com/evilcorpltd/aTox
-2022-01-01,kotlin,535,6,"Android app for streaming and downloading Movies, TV-Series and Anime.",LagradOst,CloudStream-3,https://github.com/LagradOst/CloudStream-3
-2022-01-01,kotlin,6209,3,Vim emulation plugin for IDEs based on the IntelliJ Platform,JetBrains,ideavim,https://github.com/JetBrains/ideavim
-2022-01-01,kotlin,15094,4,A gardening app illustrating Android development best practices with Android Jetpack.,android,sunflower,https://github.com/android/sunflower
-2022-01-01,kotlin,945,1,Kotlin wrappers for popular JavaScript libraries,JetBrains,kotlin-wrappers,https://github.com/JetBrains/kotlin-wrappers
-2022-01-01,kotlin,2762,4,Using Mockito with Kotlin,mockito,mockito-kotlin,https://github.com/mockito/mockito-kotlin
-2022-01-01,kotlin,878,2,Stripe Android SDK,stripe,stripe-android,https://github.com/stripe/stripe-android
-2022-01-01,kotlin,67,6,Ivy Wallet is an Open Source money manager app for android that you can either build or download from Google Play.,ILIYANGERMANOV,ivy-wallet,https://github.com/ILIYANGERMANOV/ivy-wallet
+2022-01-01,kotlin,671,34,"btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.",bytedance,btrace,https://github.com/bytedance/btrace
+2022-01-01,kotlin,517,3,A local ADB shell for Android!,tytydraco,LADB,https://github.com/tytydraco/LADB
+2022-01-01,kotlin,1257,3,provides metadata for networkIDs and chainIDs,ethereum-lists,chains,https://github.com/ethereum-lists/chains
+2022-01-01,kotlin,4759,3,"Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.",chrisbanes,tivi,https://github.com/chrisbanes/tivi
+2022-01-01,kotlin,4589,7,"Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",iSoron,uhabits,https://github.com/iSoron/uhabits
+2022-01-01,kotlin,1776,1,蓝鲸CI平台(BlueKing CI),Tencent,bk-ci,https://github.com/Tencent/bk-ci
+2022-01-01,kotlin,1078,2,Media server for comics/mangas/BDs with API and OPDS support,gotson,komga,https://github.com/gotson/komga
+2022-01-01,kotlin,12746,11,,2dust,v2rayNG,https://github.com/2dust/v2rayNG
+2022-01-01,kotlin,8202,4,高效率 QQ 机器人支持库,mamoe,mirai,https://github.com/mamoe/mirai
+2022-01-01,kotlin,1701,2,A glossy Matrix collaboration client for Android.,vector-im,element-android,https://github.com/vector-im/element-android
+2022-01-01,kotlin,14018,11,Free and open source manga reader for Android.,tachiyomiorg,tachiyomi,https://github.com/tachiyomiorg/tachiyomi
+2022-01-01,kotlin,3912,4,A collection of extension libraries for Jetpack Compose,google,accompanist,https://github.com/google/accompanist
+2022-01-01,kotlin,5634,17,Vanced Installer,YTVanced,VancedManager,https://github.com/YTVanced/VancedManager
+2022-01-01,kotlin,70,3,Ivy Wallet is an Open Source money manager app for android that you can either build or download from Google Play.,ILIYANGERMANOV,ivy-wallet,https://github.com/ILIYANGERMANOV/ivy-wallet
+2022-01-01,kotlin,27072,1,A memory leak detection library for Android.,square,leakcanary,https://github.com/square/leakcanary
+2022-01-01,kotlin,7539,1,Image loading for Android backed by Kotlin Coroutines.,coil-kt,coil,https://github.com/coil-kt/coil
+2022-01-01,kotlin,23529,7,翻墙-科学上网,bannedbook,fanqiang,https://github.com/bannedbook/fanqiang
+2022-01-01,kotlin,138,1,,LawnchairLauncher,lawnicons,https://github.com/LawnchairLauncher/lawnicons
+2022-01-01,kotlin,5796,1,Kotlin SQL Framework,JetBrains,Exposed,https://github.com/JetBrains/Exposed
+2022-01-01,kotlin,2227,3,Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device,KieronQuinn,TapTap,https://github.com/KieronQuinn/TapTap
+2022-01-01,kotlin,126,3,A high-performance fork of Paper designed for large servers.,pufferfish-gg,Pufferfish,https://github.com/pufferfish-gg/Pufferfish
+2022-01-01,kotlin,2765,6,The universal proxy toolchain for Android,SagerNet,SagerNet,https://github.com/SagerNet/SagerNet
+2022-01-01,kotlin,5873,13,"阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",gedoor,legado,https://github.com/gedoor/legado
+2022-01-01,kotlin,946,1,Kotlin wrappers for popular JavaScript libraries,JetBrains,kotlin-wrappers,https://github.com/JetBrains/kotlin-wrappers
+2022-01-01,kotlin,41365,3,"Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",square,okhttp,https://github.com/square/okhttp

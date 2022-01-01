@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-01,shell,51361,184,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
-2022-01-01,shell,22182,9,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
-2022-01-01,shell,19522,8,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
-2022-01-01,shell,15302,0,"GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",tj,git-extras,https://github.com/tj/git-extras
-2022-01-01,shell,54233,28,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
-2022-01-01,shell,4590,2,"Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",toniblyx,prowler,https://github.com/toniblyx/prowler
-2022-01-01,shell,526,17,Use any linux distribution inside your terminal.,89luca89,distrobox,https://github.com/89luca89/distrobox
-2022-01-01,shell,62820,16,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
-2022-01-01,shell,300,5,Cloudflare WARP 多功能一键脚本，支持纯IPV4/纯IPV6/双栈V4V6的VPS共9种情况随意切换安装，screen一键手动/自动刷支持Netflix奈飞的IP（自动识别WGCF与SOCKS5环境），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…,kkkyg,CFwarp,https://github.com/kkkyg/CFwarp
-2022-01-01,shell,11174,6,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
-2022-01-01,shell,5905,1,Dockerfile for Apache Kafka,wurstmeister,kafka-docker,https://github.com/wurstmeister/kafka-docker
-2022-01-01,shell,147,36,一键搭建抽水中转平台。自启动+守护+稳定。ETH以太坊矿池、中转、代理、redir，支持TCP和SSL协议，支持自定义抽水，高性能高并发，web界面管理。ETH pool proxy Pumping,nicococococ,MinerProxyLite,https://github.com/nicococococ/MinerProxyLite
-2022-01-01,shell,3897,4,The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.,OWASP,wstg,https://github.com/OWASP/wstg
-2022-01-01,shell,1942,2,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,https://github.com/six2dez/reconftw
-2022-01-01,shell,1334,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
-2022-01-01,shell,3524,7,A curated list of amazingly awesome Home Assistant resources.,frenck,awesome-home-assistant,https://github.com/frenck/awesome-home-assistant
-2022-01-01,shell,3160,4,"A development tool for all your projects that is fast, easy, powerful and liberating",lando,lando,https://github.com/lando/lando
-2022-01-01,shell,14558,1,关于Python的面试题,taizilongxu,interview_python,https://github.com/taizilongxu/interview_python
-2022-01-01,shell,9470,6,Kubernetes中文指南/云原生应用架构实践手册 - https://jimmysong.io/kubernetes-handbook,rootsongjc,kubernetes-handbook,https://github.com/rootsongjc/kubernetes-handbook
-2022-01-01,shell,135,0,,denysvitali,covid-cert-analysis,https://github.com/denysvitali/covid-cert-analysis
-2022-01-01,shell,1536,0,The Void source packages collection,void-linux,void-packages,https://github.com/void-linux/void-packages
-2022-01-01,shell,2865,8,"Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)",yeszao,dnmp,https://github.com/yeszao/dnmp
-2022-01-01,shell,397,1,Unofficial installation scripts for Pterodactyl Panel,vilhelmprytz,pterodactyl-installer,https://github.com/vilhelmprytz/pterodactyl-installer
-2022-01-01,shell,1423,6,Get started with your own dotfiles.,driesvints,dotfiles,https://github.com/driesvints/dotfiles
-2022-01-01,shell,135,18,最稳定的ETH以太坊代理中转矿池程序，MinerProxy/矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理，包含自启动和进程守护，重启后可以自动运行，会放开防火墙和连接数限制，一键搞定。,MinerPr0xy,MinerProxy,https://github.com/MinerPr0xy/MinerProxy
+2022-01-01,shell,7014,8,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-01-01,shell,51489,173,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2022-01-01,shell,2865,0,"Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)",yeszao,dnmp,https://github.com/yeszao/dnmp
+2022-01-01,shell,11458,1,Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier,alex000kim,nsfw_data_scraper,https://github.com/alex000kim/nsfw_data_scraper
+2022-01-01,shell,532,11,Use any linux distribution inside your terminal.,89luca89,distrobox,https://github.com/89luca89/distrobox
+2022-01-01,shell,18700,83,"Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws",dwmkerr,hacker-laws,https://github.com/dwmkerr/hacker-laws
+2022-01-01,shell,22186,5,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2022-01-01,shell,1537,1,The Void source packages collection,void-linux,void-packages,https://github.com/void-linux/void-packages
+2022-01-01,shell,17069,9,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-01-01,shell,1960,6,,BtbN,FFmpeg-Builds,https://github.com/BtbN/FFmpeg-Builds
+2022-01-01,shell,3071,6,Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩,klever1988,nanopi-openwrt,https://github.com/klever1988/nanopi-openwrt
+2022-01-01,shell,1115,3,"SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android",samsesh,SocialBox-Termux,https://github.com/samsesh/SocialBox-Termux
+2022-01-01,shell,13905,9,A command-line system information tool written in bash 3.2+,dylanaraps,neofetch,https://github.com/dylanaraps/neofetch
+2022-01-01,shell,11176,3,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-01-01,shell,148,1,一键搭建抽水中转平台。自启动+守护+稳定。ETH以太坊矿池、中转、代理、redir，支持TCP和SSL协议，支持自定义抽水，高性能高并发，web界面管理。ETH pool proxy Pumping,nicococococ,MinerProxyLite,https://github.com/nicococococ/MinerProxyLite
+2022-01-01,shell,11783,7,"Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",foxlet,macOS-Simple-KVM,https://github.com/foxlet/macOS-Simple-KVM
+2022-01-01,shell,483,6,notion executables with the notion-enhancer embedded & a vanilla port of the official app to linux,notion-enhancer,notion-repackaged,https://github.com/notion-enhancer/notion-repackaged
+2022-01-01,shell,1670,0,TiDB/TiKV/PD documentation in Chinese.,pingcap,docs-cn,https://github.com/pingcap/docs-cn
+2022-01-01,shell,420,2,基于 Lean&Lienol 源码的 NanoPi R4S 的 OpenWrt 固件。每天自动更新插件和内核，Fusion编译法,DHDAXCW,NanoPi-R4S,https://github.com/DHDAXCW/NanoPi-R4S
+2022-01-01,shell,1627,1,"Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B",kiddin9,OpenWrt_x86-r2s-r4s,https://github.com/kiddin9/OpenWrt_x86-r2s-r4s
+2022-01-01,shell,4444,0,A standard style for README files,RichardLitt,standard-readme,https://github.com/RichardLitt/standard-readme
+2022-01-01,shell,9174,5,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
+2022-01-01,shell,768,11,,sandy1709,nekopack,https://github.com/sandy1709/nekopack
+2022-01-01,shell,54246,15,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-01-01,shell,28162,3,A collection of pure bash alternatives to external processes.,dylanaraps,pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible
