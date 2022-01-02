@@ -121,7 +121,7 @@ const Home: NextPage<Props> = ({ posts }) => {
                                   <CardMedia
                                     component={RepositoryBanner}
                                     slug={slug}
-                                    width={160}
+                                    width={192}
                                   />
                                   <CardContent>
                                     <Typography
