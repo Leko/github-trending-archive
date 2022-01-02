@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-02,rust,5332,48,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
-2022-01-02,rust,36661,23,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
-2022-01-02,rust,20720,28,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
-2022-01-02,rust,6339,3,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
-2022-01-02,rust,79486,15,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
-2022-01-02,rust,7306,28,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
-2022-01-02,rust,897,17,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",gakonst,foundry,https://github.com/gakonst/foundry
-2022-01-02,rust,12088,7,Cube — Open-Source Analytics API for Building Data Apps,cube-js,cube.js,https://github.com/cube-js/cube.js
-2022-01-02,rust,3461,17,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
-2022-01-02,rust,2934,34,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
-2022-01-02,rust,819,8,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
-2022-01-02,rust,3313,24,Yet another cross-platform graphical process/system monitor.,ClementTsang,bottom,https://github.com/ClementTsang/bottom
-2022-01-02,rust,6921,26,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
-2022-01-02,rust,4018,18,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
-2022-01-02,rust,2936,5,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
-2022-01-02,rust,14441,7,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
-2022-01-02,rust,6797,1,A bunch of lints to catch common mistakes and improve your Rust code,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
-2022-01-02,rust,14232,13,Yet another remote desktop software,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
-2022-01-02,rust,472,22,<<Rust语言圣经(Rust Course)>>，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。 这既是一本厚重的书籍，也是一门全面的课程，希望读者朋友能喜欢。,sunface,rust-course,https://github.com/sunface/rust-course
-2022-01-02,rust,670,4,Universal shader translation in Rust,gfx-rs,naga,https://github.com/gfx-rs/naga
-2022-01-02,rust,1857,4,SDL2 bindings for Rust,Rust-SDL2,rust-sdl2,https://github.com/Rust-SDL2/rust-sdl2
-2022-01-02,rust,8139,14,A Rust compiler front-end for IDEs,rust-analyzer,rust-analyzer,https://github.com/rust-analyzer/rust-analyzer
-2022-01-02,rust,11697,11,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
-2022-01-02,rust,25696,16,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
-2022-01-02,rust,7779,3,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2022-01-02,rust,20807,21,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-01-02,rust,7335,25,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-01-02,rust,2976,40,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-01-02,rust,5068,14,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-01-02,rust,4950,10,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
+2022-01-02,rust,9190,2,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2022-01-02,rust,5376,78,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2022-01-02,rust,3323,16,Yet another cross-platform graphical process/system monitor.,ClementTsang,bottom,https://github.com/ClementTsang/bottom
+2022-01-02,rust,5804,14,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2022-01-02,rust,12338,14,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-01-02,rust,6928,26,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-01-02,rust,25707,17,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-01-02,rust,4031,24,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-01-02,rust,5460,14,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2022-01-02,rust,5178,8,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2022-01-02,rust,36681,32,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2022-01-02,rust,8292,6,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2022-01-02,rust,9201,11,A retro game engine for Python,kitao,pyxel,https://github.com/kitao/pyxel
+2022-01-02,rust,3471,17,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2022-01-02,rust,61938,27,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-01-02,rust,2945,9,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-01-02,rust,831,3,,signalapp,libsignal-client,https://github.com/signalapp/libsignal-client
+2022-01-02,rust,1617,3,"Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",dtolnay,proc-macro-workshop,https://github.com/dtolnay/proc-macro-workshop
+2022-01-02,rust,1858,4,SDL2 bindings for Rust,Rust-SDL2,rust-sdl2,https://github.com/Rust-SDL2/rust-sdl2
+2022-01-02,rust,4465,3,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic

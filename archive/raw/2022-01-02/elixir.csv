@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-02,elixir,9615,29,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
-2022-01-02,elixir,19634,4,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
-2022-01-02,elixir,6,0,Front-end (web) homework project.,DivvyPayHQ,web-homework,https://github.com/DivvyPayHQ/web-homework
-2022-01-02,elixir,513,0,Kafka client library for Elixir,kafkaex,kafka_ex,https://github.com/kafkaex/kafka_ex
+2022-01-02,elixir,19639,7,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2022-01-02,elixir,9623,30,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2022-01-02,elixir,2171,5,A self-hosted data logger for your Tesla,adriankumpf,teslamate,https://github.com/adriankumpf/teslamate
 2022-01-02,elixir,1634,0,Multi-dimensional arrays (tensors) and numerical definitions for Elixir,elixir-nx,nx,https://github.com/elixir-nx/nx
-2022-01-02,elixir,741,0,Code samples for Elixir in Action book,sasa1977,elixir-in-action,https://github.com/sasa1977/elixir-in-action
-2022-01-02,elixir,854,0,Elixir HTTP Client focused on performance,sneako,finch,https://github.com/sneako/finch
-2022-01-02,elixir,1377,1,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
-2022-01-02,elixir,1140,0,A merge bot for GitHub Pull Requests,bors-ng,bors-ng,https://github.com/bors-ng/bors-ng
-2022-01-02,elixir,963,0,An Elixir implementation of gRPC,elixir-grpc,grpc,https://github.com/elixir-grpc/grpc
-2022-01-02,elixir,4295,2,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
-2022-01-02,elixir,62,0,"Elixir/Phoenix view helper to manage ""active"" state of a link",danhper,phoenix-active-link,https://github.com/danhper/phoenix-active-link
-2022-01-02,elixir,1,0,A minesweeper web application to deploy for the architecture & deployment course,MediaComem,minesweeper,https://github.com/MediaComem/minesweeper
-2022-01-02,elixir,2325,1,Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView,livebook-dev,livebook,https://github.com/livebook-dev/livebook
-2022-01-02,elixir,17509,3,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2022-01-02,elixir,4572,2,Open-source live customer chat,papercups-io,papercups,https://github.com/papercups-io/papercups
+2022-01-02,elixir,4167,3,A static code analysis tool for the Elixir language with a focus on code consistency and teaching.,rrrene,credo,https://github.com/rrrene/credo
+2022-01-02,elixir,127,0,Develop on embedded devices with Livebook and Nerves,livebook-dev,nerves_livebook,https://github.com/livebook-dev/nerves_livebook
 2022-01-02,elixir,5322,0,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
-2022-01-02,elixir,392,0,更加现代的 Policr 迷你版,Hentioe,policr-mini,https://github.com/Hentioe/policr-mini
-2022-01-02,elixir,68,1,Phoenix Live View Components,petalframework,petal_components,https://github.com/petalframework/petal_components
-2022-01-02,elixir,12,0,The fusion_auth library provides an Elixir API for accessing the FusionAuth Developer APIs.,leo-technologies-llc,fusion_auth,https://github.com/leo-technologies-llc/fusion_auth
-2022-01-02,elixir,207,0,An installer for tailwind,phoenixframework,tailwind,https://github.com/phoenixframework/tailwind
-2022-01-02,elixir,3816,0,The GraphQL toolkit for Elixir,absinthe-graphql,absinthe,https://github.com/absinthe-graphql/absinthe
-2022-01-02,elixir,1757,0,"Testable, composable, and adapter based Elixir email library for devs that love piping.",thoughtbot,bamboo,https://github.com/thoughtbot/bamboo
-2022-01-02,elixir,90,0,Base Nerves system configuration for the Raspberry Pi Zero and Zero W,nerves-project,nerves_system_rpi0,https://github.com/nerves-project/nerves_system_rpi0
-2022-01-02,elixir,35,0,Base Nerves system configuration for the Raspberry Pi A+ and B+,nerves-project,nerves_system_rpi,https://github.com/nerves-project/nerves_system_rpi
-2022-01-02,elixir,181,0,Xlsx parser for the Elixir language.,jsonkenl,xlsxir,https://github.com/jsonkenl/xlsxir
+2022-01-02,elixir,363,1,Elixir Discord Library,Kraigie,nostrum,https://github.com/Kraigie/nostrum
+2022-01-02,elixir,6,0,Front-end (web) homework project.,DivvyPayHQ,web-homework,https://github.com/DivvyPayHQ/web-homework
+2022-01-02,elixir,35,0,A smart redirecting gateway for various frontend services,benbusby,farside,https://github.com/benbusby/farside
+2022-01-02,elixir,978,5,WireGuard-based VPN server and firewall,firezone,firezone,https://github.com/firezone/firezone
+2022-01-02,elixir,2039,2,"Robust job processing in Elixir, backed by modern PostgreSQL",sorentwo,oban,https://github.com/sorentwo/oban
+2022-01-02,elixir,4295,1,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2022-01-02,elixir,32,0,Next Generation OLI Authoring and Delivery Platform,Simon-Initiative,oli-torus,https://github.com/Simon-Initiative/oli-torus
+2022-01-02,elixir,384,0,Open API Specifications for Elixir Plug applications,open-api-spex,open_api_spex,https://github.com/open-api-spex/open_api_spex
+2022-01-02,elixir,17509,2,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2022-01-02,elixir,964,1,An Elixir implementation of gRPC,elixir-grpc,grpc,https://github.com/elixir-grpc/grpc
+2022-01-02,elixir,394,2,更加现代的 Policr 迷你版,Hentioe,policr-mini,https://github.com/Hentioe/policr-mini
+2022-01-02,elixir,2,0,auth0 elixir library,primait,auth0_ex,https://github.com/primait/auth0_ex
+2022-01-02,elixir,352,0,SQL-based adapters for Ecto and database migrations,elixir-ecto,ecto_sql,https://github.com/elixir-ecto/ecto_sql
+2022-01-02,elixir,2327,3,Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2022-01-02,elixir,215,0,AppSignal for Elixir package,appsignal,appsignal-elixir,https://github.com/appsignal/appsignal-elixir
+2022-01-02,elixir,1377,1,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2022-01-02,elixir,4313,3,Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.,supabase,realtime,https://github.com/supabase/realtime

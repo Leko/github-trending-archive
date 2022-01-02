@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-02,haskell,2267,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
-2022-01-02,haskell,24375,7,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
-2022-01-02,haskell,4409,4,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
-2022-01-02,haskell,128,0,A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
-2022-01-02,haskell,1283,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
-2022-01-02,haskell,909,1,Ethereum smart contract fuzzer,crytic,echidna,https://github.com/crytic/echidna
-2022-01-02,haskell,677,0,Dataflow programming and declarative concurrency,composewell,streamly,https://github.com/composewell/streamly
-2022-01-02,haskell,9,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,https://github.com/digital-asset/ex-mortgage-repackaging
-2022-01-02,haskell,2409,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
-2022-01-02,haskell,1871,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
-2022-01-02,haskell,2396,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
-2022-01-02,haskell,1107,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
-2022-01-02,haskell,498,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
-2022-01-02,haskell,1710,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
-2022-01-02,haskell,322,0,Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface.,reflex-frp,reflex-dom,https://github.com/reflex-frp/reflex-dom
-2022-01-02,haskell,7495,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
-2022-01-02,haskell,24963,9,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
-2022-01-02,haskell,0,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
-2022-01-02,haskell,6328,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
-2022-01-02,haskell,65,2,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
-2022-01-02,haskell,3648,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
-2022-01-02,haskell,6684,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
-2022-01-02,haskell,18199,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-01-02,haskell,1873,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-01-02,haskell,18202,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-01-02,haskell,2411,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
 2022-01-02,haskell,250,0,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
-2022-01-02,haskell,50,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-01-02,haskell,1650,1,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2022-01-02,haskell,65,2,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-01-02,haskell,4410,3,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-01-02,haskell,23,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2022-01-02,haskell,1284,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-01-02,haskell,1327,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-01-02,haskell,4202,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-01-02,haskell,677,0,Dataflow programming and declarative concurrency,composewell,streamly,https://github.com/composewell/streamly
+2022-01-02,haskell,498,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-01-02,haskell,3735,0,Cryptographic currency implementing Ouroboros PoS protocol,input-output-hk,cardano-sl,https://github.com/input-output-hk/cardano-sl
+2022-01-02,haskell,1111,4,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-01-02,haskell,6684,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-01-02,haskell,43,5,NFT Marketplace on the Cardano Blockchain. Powered by Plutus Smart Contracts,MartifyLabs,martify.contracts,https://github.com/MartifyLabs/martify.contracts
+2022-01-02,haskell,703,1,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-01-02,haskell,24966,7,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-01-02,haskell,24380,8,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-01-02,haskell,2269,3,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-01-02,haskell,2,0,Statistics for streaming data (potentially infinite),composewell,streamly-statistics,https://github.com/composewell/streamly-statistics
+2022-01-02,haskell,1897,1,"A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-01-02,haskell,580,0,Haskell API search engine,ndmitchell,hoogle,https://github.com/ndmitchell/hoogle
+2022-01-02,haskell,270,0,Haskell library for the Microsoft Language Server Protocol,haskell,lsp,https://github.com/haskell/lsp

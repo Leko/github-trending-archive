@@ -1,25 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-02,php,87,3,A collection of experimental block-based WordPress themes.,wpengine,themes,https://github.com/wpengine/themes
-2022-01-02,php,1931,0,The Symfony documentation,symfony,symfony-docs,https://github.com/symfony/symfony-docs
-2022-01-02,php,9711,0,一个 PHP 微信 SDK,w7corp,easywechat,https://github.com/w7corp/easywechat
-2022-01-02,php,75,2,The most powerfull Discord Token Grabber/Manager,KanekiWeb,Xenos,https://github.com/KanekiWeb/Xenos
-2022-01-02,php,3859,0,Open Source PHP Framework (originally from EllisLab),codeigniter4,CodeIgniter4,https://github.com/codeigniter4/CodeIgniter4
-2022-01-02,php,15799,0,"WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.",WordPress,WordPress,https://github.com/WordPress/WordPress
-2022-01-02,php,2347,6,"A collection of tools for rapidly building beautiful TALL stack interfaces, designed for humans.",laravel-filament,filament,https://github.com/laravel-filament/filament
-2022-01-02,php,3831,4,"A free, self-hostable aggregator…",FreshRSS,FreshRSS,https://github.com/FreshRSS/FreshRSS
-2022-01-02,php,2214,1,"Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.",drush-ops,drush,https://github.com/drush-ops/drush
-2022-01-02,php,4907,1,Mautic: Open Source Marketing Automation Software.,mautic,mautic,https://github.com/mautic/mautic
-2022-01-02,php,18136,4,The PHP Unit Testing framework.,sebastianbergmann,phpunit,https://github.com/sebastianbergmann/phpunit
-2022-01-02,php,9028,1,PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.,squizlabs,PHP_CodeSniffer,https://github.com/squizlabs/PHP_CodeSniffer
-2022-01-02,php,4803,4,Instant Upgrades and Automated Refactoring of any PHP 5.3+ code,rectorphp,rector,https://github.com/rectorphp/rector
-2022-01-02,php,8456,1,A PHP Blogging Platform. Simple and Powerful.,typecho,typecho,https://github.com/typecho/typecho
-2022-01-02,php,26289,3,The Symfony PHP framework,symfony,symfony,https://github.com/symfony/symfony
-2022-01-02,php,9837,1,"All Submissions you make to Magento Inc. (""Magento"") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…",magento,magento2,https://github.com/magento/magento2
-2022-01-02,php,9644,2,"An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP>=5.3.",walkor,workerman,https://github.com/walkor/workerman
-2022-01-02,php,3157,2,Official clone of PHP library to generate PDF documents and barcodes,tecnickcom,TCPDF,https://github.com/tecnickcom/TCPDF
-2022-01-02,php,36150,8,"SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",danielmiessler,SecLists,https://github.com/danielmiessler/SecLists
-2022-01-02,php,6214,1,"PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.",PrestaShop,PrestaShop,https://github.com/PrestaShop/PrestaShop
-2022-01-02,php,1358,1,"Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.",Automattic,jetpack,https://github.com/Automattic/jetpack
-2022-01-02,php,3263,3,Photo Sharing. For Everyone.,pixelfed,pixelfed,https://github.com/pixelfed/pixelfed
-2022-01-02,php,13144,4,A personal music streaming server that works.,koel,koel,https://github.com/koel/koel
-2022-01-02,php,2107,1,Symfony Demo Application,symfony,demo,https://github.com/symfony/demo
+2022-01-02,php,3018,4,"Pterodactyl® is an open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",pterodactyl,panel,https://github.com/pterodactyl/panel
+2022-01-02,php,7076,10,Firefly III: a personal finances manager,firefly-iii,firefly-iii,https://github.com/firefly-iii/firefly-iii
+2022-01-02,php,3837,8,"A free, self-hostable aggregator…",FreshRSS,FreshRSS,https://github.com/FreshRSS/FreshRSS
+2022-01-02,php,91,5,A collection of experimental block-based WordPress themes.,wpengine,themes,https://github.com/wpengine/themes
+2022-01-02,php,595,9,Continuously track your internet speed,henrywhitaker3,Speedtest-Tracker,https://github.com/henrywhitaker3/Speedtest-Tracker
+2022-01-02,php,1110,2,A multiple protocol manage panel application interface,v2board,v2board,https://github.com/v2board/v2board
+2022-01-02,php,18137,4,The PHP Unit Testing framework.,sebastianbergmann,phpunit,https://github.com/sebastianbergmann/phpunit
+2022-01-02,php,4906,2,Mautic: Open Source Marketing Automation Software.,mautic,mautic,https://github.com/mautic/mautic
+2022-01-02,php,15752,4,Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!,matomo-org,matomo,https://github.com/matomo-org/matomo
+2022-01-02,php,3628,4,HTPC/Homelab Services Organizer - Written in PHP,causefx,Organizr,https://github.com/causefx/Organizr
+2022-01-02,php,3264,3,Photo Sharing. For Everyone.,pixelfed,pixelfed,https://github.com/pixelfed/pixelfed
+2022-01-02,php,75,1,The most powerfull Discord Token Grabber/Manager,KanekiWeb,Xenos,https://github.com/KanekiWeb/Xenos
+2022-01-02,php,15587,6,"Personal CRM. Remember everything about your friends, family and business relationships.",monicahq,monica,https://github.com/monicahq/monica
+2022-01-02,php,2919,5,"Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalon…",Dolibarr,dolibarr,https://github.com/Dolibarr/dolibarr
+2022-01-02,php,1018,2,网易云音乐升级API,ZainCheung,netease-cloud-api,https://github.com/ZainCheung/netease-cloud-api
+2022-01-02,php,2533,0,PanDownload网页复刻版,yuantuo666,baiduwp-php,https://github.com/yuantuo666/baiduwp-php
+2022-01-02,php,1359,1,"Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.",Automattic,jetpack,https://github.com/Automattic/jetpack
+2022-01-02,php,1000,1,This package provides an integration with FFmpeg for Laravel. Laravel's Filesystem handles the storage of the files.,protonemedia,laravel-ffmpeg,https://github.com/protonemedia/laravel-ffmpeg
+2022-01-02,php,13150,9,A personal music streaming server that works.,koel,koel,https://github.com/koel/koel
+2022-01-02,php,2610,4,A server software for Minecraft: Bedrock Edition in PHP,pmmp,PocketMine-MP,https://github.com/pmmp/PocketMine-MP
+2022-01-02,php,6272,3,"Invoices, Expenses and Tasks built with Laravel and Flutter",invoiceninja,invoiceninja,https://github.com/invoiceninja/invoiceninja
+2022-01-02,php,3363,3,"Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams",thedevdojo,wave,https://github.com/thedevdojo/wave
+2022-01-02,php,45,10,Object Hydration library to create Command and Query objects.,EventSaucePHP,ObjectHydrator,https://github.com/EventSaucePHP/ObjectHydrator
+2022-01-02,php,3548,7,An Application dashboard and launcher,linuxserver,Heimdall,https://github.com/linuxserver/Heimdall
+2022-01-02,php,735,3,Track any ip address with IP-Tracer. IP-Tracer is developed for Linux and Termux. you can retrieve any ip address information using IP-Tracer.,rajkumardusad,IP-Tracer,https://github.com/rajkumardusad/IP-Tracer
