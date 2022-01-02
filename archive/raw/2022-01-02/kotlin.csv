@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-02,kotlin,672,33,"btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.",bytedance,btrace,https://github.com/bytedance/btrace
+2022-01-02,kotlin,517,2,A local ADB shell for Android!,tytydraco,LADB,https://github.com/tytydraco/LADB
+2022-01-02,kotlin,1258,3,provides metadata for networkIDs and chainIDs,ethereum-lists,chains,https://github.com/ethereum-lists/chains
+2022-01-02,kotlin,4760,4,"Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.",chrisbanes,tivi,https://github.com/chrisbanes/tivi
+2022-01-02,kotlin,4590,6,"Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",iSoron,uhabits,https://github.com/iSoron/uhabits
+2022-01-02,kotlin,1776,1,蓝鲸CI平台(BlueKing CI),Tencent,bk-ci,https://github.com/Tencent/bk-ci
+2022-01-02,kotlin,1079,2,Media server for comics/mangas/BDs with API and OPDS support,gotson,komga,https://github.com/gotson/komga
+2022-01-02,kotlin,12746,11,,2dust,v2rayNG,https://github.com/2dust/v2rayNG
+2022-01-02,kotlin,8203,5,高效率 QQ 机器人支持库,mamoe,mirai,https://github.com/mamoe/mirai
+2022-01-02,kotlin,1701,1,A glossy Matrix collaboration client for Android.,vector-im,element-android,https://github.com/vector-im/element-android
+2022-01-02,kotlin,14018,9,Free and open source manga reader for Android.,tachiyomiorg,tachiyomi,https://github.com/tachiyomiorg/tachiyomi
+2022-01-02,kotlin,3913,5,A collection of extension libraries for Jetpack Compose,google,accompanist,https://github.com/google/accompanist
+2022-01-02,kotlin,5635,16,Vanced Installer,YTVanced,VancedManager,https://github.com/YTVanced/VancedManager
+2022-01-02,kotlin,70,3,Ivy Wallet is an Open Source money manager app for android that you can either build or download from Google Play.,ILIYANGERMANOV,ivy-wallet,https://github.com/ILIYANGERMANOV/ivy-wallet
+2022-01-02,kotlin,27072,1,A memory leak detection library for Android.,square,leakcanary,https://github.com/square/leakcanary
+2022-01-02,kotlin,7539,1,Image loading for Android backed by Kotlin Coroutines.,coil-kt,coil,https://github.com/coil-kt/coil
+2022-01-02,kotlin,23529,7,翻墙-科学上网,bannedbook,fanqiang,https://github.com/bannedbook/fanqiang
+2022-01-02,kotlin,138,1,,LawnchairLauncher,lawnicons,https://github.com/LawnchairLauncher/lawnicons
+2022-01-02,kotlin,5796,0,Kotlin SQL Framework,JetBrains,Exposed,https://github.com/JetBrains/Exposed
+2022-01-02,kotlin,2227,3,Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device,KieronQuinn,TapTap,https://github.com/KieronQuinn/TapTap
+2022-01-02,kotlin,129,5,A high-performance fork of Paper designed for large servers.,pufferfish-gg,Pufferfish,https://github.com/pufferfish-gg/Pufferfish
+2022-01-02,kotlin,2765,5,The universal proxy toolchain for Android,SagerNet,SagerNet,https://github.com/SagerNet/SagerNet
+2022-01-02,kotlin,5873,12,"阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",gedoor,legado,https://github.com/gedoor/legado
+2022-01-02,kotlin,946,1,Kotlin wrappers for popular JavaScript libraries,JetBrains,kotlin-wrappers,https://github.com/JetBrains/kotlin-wrappers
+2022-01-02,kotlin,41365,3,"Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",square,okhttp,https://github.com/square/okhttp
