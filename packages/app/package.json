@@ -9,11 +9,15 @@
     "start": "next start",
     "lint": "next lint",
     "codegen": "graphql-codegen --config codegen.yml",
-    "typeorm": "node -r ts-node/register/transpile-only $(npm bin)/typeorm",
-    "init:db": "node -r ts-node/register/transpile-only src/init-db.ts"
+    "typeorm": "NODE_OPTIONS='-r ts-node/register/transpile-only' typeorm",
+    "init:db": "NODE_OPTIONS='-r ts-node/register/transpile-only' node src/init-db.ts"
   },
   "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
     "@fast-csv/parse": "^4.3.6",
+    "@mui/icons-material": "^5.2.5",
+    "@mui/material": "^5.2.6",
     "apollo-server-core": "^3.6.0",
     "apollo-server-micro": "^3.5.0",
     "graphql": "^15.8.0",
