@@ -1,20 +1,20 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-02,rust,20807,21,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
-2022-01-02,rust,7335,25,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
-2022-01-02,rust,2976,40,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
-2022-01-02,rust,5068,14,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-01-02,rust,20815,21,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-01-02,rust,7336,24,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-01-02,rust,2978,40,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-01-02,rust,5069,16,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
 2022-01-02,rust,4950,10,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
 2022-01-02,rust,9190,2,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
-2022-01-02,rust,5376,78,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2022-01-02,rust,5377,77,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
 2022-01-02,rust,3323,16,Yet another cross-platform graphical process/system monitor.,ClementTsang,bottom,https://github.com/ClementTsang/bottom
 2022-01-02,rust,5804,14,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
-2022-01-02,rust,12338,14,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
-2022-01-02,rust,6928,26,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-01-02,rust,12339,15,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-01-02,rust,6928,24,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
 2022-01-02,rust,25707,17,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
-2022-01-02,rust,4031,24,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
-2022-01-02,rust,5460,14,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
-2022-01-02,rust,5178,8,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
-2022-01-02,rust,36681,32,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2022-01-02,rust,4031,22,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-01-02,rust,5461,13,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2022-01-02,rust,5178,7,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2022-01-02,rust,36683,33,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
 2022-01-02,rust,8292,6,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
 2022-01-02,rust,9201,11,A retro game engine for Python,kitao,pyxel,https://github.com/kitao/pyxel
 2022-01-02,rust,3471,17,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
