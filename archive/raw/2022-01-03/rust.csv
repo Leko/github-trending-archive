@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-03,rust,20951,213,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-01-03,rust,7363,56,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-01-03,rust,3043,109,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-01-03,rust,5078,20,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-01-03,rust,4956,12,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
+2022-01-03,rust,9190,1,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2022-01-03,rust,5385,54,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2022-01-03,rust,3331,18,Yet another cross-platform graphical process/system monitor.,ClementTsang,bottom,https://github.com/ClementTsang/bottom
+2022-01-03,rust,5808,13,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2022-01-03,rust,12345,14,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-01-03,rust,6933,15,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-01-03,rust,25723,33,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-01-03,rust,4033,16,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-01-03,rust,5471,17,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2022-01-03,rust,5182,9,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2022-01-03,rust,36688,30,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2022-01-03,rust,8294,5,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2022-01-03,rust,9207,13,A retro game engine for Python,kitao,pyxel,https://github.com/kitao/pyxel
+2022-01-03,rust,3474,14,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2022-01-03,rust,61943,26,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-01-03,rust,2950,14,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-01-03,rust,835,5,,signalapp,libsignal-client,https://github.com/signalapp/libsignal-client
+2022-01-03,rust,1618,2,"Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",dtolnay,proc-macro-workshop,https://github.com/dtolnay/proc-macro-workshop
+2022-01-03,rust,1861,4,SDL2 bindings for Rust,Rust-SDL2,rust-sdl2,https://github.com/Rust-SDL2/rust-sdl2
+2022-01-03,rust,4470,7,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
