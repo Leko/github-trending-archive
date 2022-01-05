@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-05,lua,3545,12,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-01-05,lua,657,5,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-01-05,lua,52,5,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2022-01-05,lua,1656,1,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-01-05,lua,272,3,The Community Repo for A-4E-C and its Official Submods,heclak,community-a4e-c,https://github.com/heclak/community-a4e-c
+2022-01-05,lua,169,1,FiveM RP Framework Core,qbcore-framework,qb-core,https://github.com/qbcore-framework/qb-core
+2022-01-05,lua,182,8,FS22 version of the AutoDrive mod,Stephan-S,FS22_AutoDrive,https://github.com/Stephan-S/FS22_AutoDrive
+2022-01-05,lua,1054,4,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2022-01-05,lua,265,11,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2022-01-05,lua,791,6,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-01-05,lua,1153,1,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-01-05,lua,983,4,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2022-01-05,lua,59,5,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-01-05,lua,4353,0,Web-based Traffic and Security Network Traffic Monitoring,ntop,ntopng,https://github.com/ntop/ntopng
+2022-01-05,lua,1902,10,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-01-05,lua,5,1,"GWater, but this time I know a little more C++",Mee12345,GWater-V3,https://github.com/Mee12345/GWater-V3
+2022-01-05,lua,1177,6,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2022-01-05,lua,833,13,Companion plugin for nvim-lspconfig that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!,williamboman,nvim-lsp-installer,https://github.com/williamboman/nvim-lsp-installer
+2022-01-05,lua,1839,4,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2022-01-05,lua,6859,13,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-01-05,lua,7538,14,"An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-01-05,lua,10,0,Admin Menu Using MenuV,qbcore-framework,qb-adminmenu,https://github.com/qbcore-framework/qb-adminmenu
+2022-01-05,lua,8,0,"(v.1.2) This is a Simple Car Control Menu built for QBCore with qb-menu, It triggers from the Radial Menu. Currently Will Control Seats Placement, Windows Up & Down, Doors, Engine, Neon Lights & Car Liveries.",IN1GHTM4R3,qb-carcontrol,https://github.com/IN1GHTM4R3/qb-carcontrol
+2022-01-05,lua,13,0,Garage System Used With QB-Core,qbcore-framework,qb-garages,https://github.com/qbcore-framework/qb-garages
+2022-01-05,lua,957,26,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-05,go,5126,54,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-01-05,go,12330,47,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",inancgumus,learngo,https://github.com/inancgumus/learngo
+2022-01-05,go,11950,12,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.",ory,hydra,https://github.com/ory/hydra
+2022-01-05,go,5665,11,Lightning Network Daemon,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2022-01-05,go,116,18,,whitesource,log4j-detect-distribution,https://github.com/whitesource/log4j-detect-distribution
+2022-01-05,go,30695,20,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-01-05,go,2576,8,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-01-05,go,11890,28,DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),docker-slim,docker-slim,https://github.com/docker-slim/docker-slim
+2022-01-05,go,11651,26,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-01-05,go,10111,11,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-01-05,go,56191,25,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2022-01-05,go,10411,4,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-01-05,go,10741,14,"Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops",gravitational,teleport,https://github.com/gravitational/teleport
+2022-01-05,go,3166,5,A mock code autogenerator for Golang,vektra,mockery,https://github.com/vektra/mockery
+2022-01-05,go,20196,33,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2022-01-05,go,195,66,ZKar is a Java serialization protocol analysis tool implement in Go.,phith0n,zkar,https://github.com/phith0n/zkar
+2022-01-05,go,2765,3,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2022-01-05,go,18606,10,A modern and intuitive terminal-based text editor,zyedidia,micro,https://github.com/zyedidia/micro
+2022-01-05,go,38244,16,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2022-01-05,go,1428,8,Container Signing,sigstore,cosign,https://github.com/sigstore/cosign
+2022-01-05,go,7175,7,Yet another Yogurt - An AUR Helper written in Go,Jguer,yay,https://github.com/Jguer/yay
+2022-01-05,go,5483,2,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2022-01-05,go,5209,10,Prevent Kubernetes misconfigurations from reaching production (again  )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io,datreeio,datree,https://github.com/datreeio/datree
+2022-01-05,go,16250,23,Learn Go with test-driven development,quii,learn-go-with-tests,https://github.com/quii/learn-go-with-tests
+2022-01-05,go,2341,4,Go implementation of Ethereum proof of stake,prysmaticlabs,prysm,https://github.com/prysmaticlabs/prysm
