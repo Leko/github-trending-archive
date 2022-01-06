@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-06,go,5196,68,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-01-06,go,22934,145,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2022-01-06,go,11688,37,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-01-06,go,2065,200,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2022-01-06,go,1708,9,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2022-01-06,go,11003,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-01-06,go,564,1,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2022-01-06,go,219,24,ZKar is a Java serialization protocol analysis tool implement in Go.,phith0n,zkar,https://github.com/phith0n/zkar
+2022-01-06,go,5804,20,A dead simple 2D game library for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2022-01-06,go,22480,10,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-01-06,go,5253,14,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-01-06,go,10504,22,Golang library for reading and writing Microsoft Excel™ (XLSX) files.,qax-os,excelize,https://github.com/qax-os/excelize
+2022-01-06,go,2870,3,Automate application management on Kubernetes (project under CNCF),openkruise,kruise,https://github.com/openkruise/kruise
+2022-01-06,go,3023,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-01-06,go,20903,4,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-01-06,go,5671,7,Lightning Network Daemon,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2022-01-06,go,1950,6,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-01-06,go,5306,3,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2022-01-06,go,932,6,"Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-01-06,go,15330,1,(OBSOLETE) Curated applications for Kubernetes,helm,charts,https://github.com/helm/charts
+2022-01-06,go,3218,12,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2022-01-06,go,7298,4,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-01-06,go,11848,11,NGINX Ingress Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-01-06,go,6423,14,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-01-06,go,61912,10,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
