@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-07,shell,2777,12,A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-01-07,shell,7491,3,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-01-07,shell,54391,41,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-01-07,shell,21795,178,"Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws",dwmkerr,hacker-laws,https://github.com/dwmkerr/hacker-laws
+2022-01-07,shell,5520,2,Docker images for the Selenium Grid Server,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2022-01-07,shell,9812,1,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2022-01-07,shell,25491,4,Git extensions to provide high-level repository operations for Vincent Driessen's branching model.,nvie,gitflow,https://github.com/nvie/gitflow
+2022-01-07,shell,9211,7,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
+2022-01-07,shell,11189,6,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-01-07,shell,5162,2,"Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2022-01-07,shell,557,89,,Telethon-helper,Helper,https://github.com/Telethon-helper/Helper
+2022-01-07,shell,2950,11,Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.,raycast,script-commands,https://github.com/raycast/script-commands
+2022-01-07,shell,4599,2,"Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",toniblyx,prowler,https://github.com/toniblyx/prowler
+2022-01-07,shell,7524,5,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.,docker,docker-bench-security,https://github.com/docker/docker-bench-security
+2022-01-07,shell,16759,4,Home repository for .NET Core,dotnet,core,https://github.com/dotnet/core
+2022-01-07,shell,226,13,"A purely bash web server, no socat, netcat, etc...",dzove855,Bash-web-server,https://github.com/dzove855/Bash-web-server
+2022-01-07,shell,2828,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-01-07,shell,1861,1,docker compose files to create a fully working kafka stack,conduktor,kafka-stack-docker-compose,https://github.com/conduktor/kafka-stack-docker-compose
+2022-01-07,shell,5717,5,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2022-01-07,shell,878,1,GitHub Enterprise Backup Utilities,github,backup-utils,https://github.com/github/backup-utils
+2022-01-07,shell,1190,3,Docker image for Keycloak project,keycloak,keycloak-containers,https://github.com/keycloak/keycloak-containers
+2022-01-07,shell,4311,15,（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2022-01-07,shell,1296,3,Homebrew (un)installer,Homebrew,install,https://github.com/Homebrew/install
+2022-01-07,shell,835,4,"proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.",ivanhao,pvetools,https://github.com/ivanhao/pvetools
+2022-01-07,shell,2420,2,Official NGINX Dockerfiles,nginxinc,docker-nginx,https://github.com/nginxinc/docker-nginx

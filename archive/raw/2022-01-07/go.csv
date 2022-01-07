@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-07,go,9924,20,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-01-07,go,18899,21,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2022-01-07,go,22664,9,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2022-01-07,go,61922,11,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-01-07,go,7302,4,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-01-07,go,2221,157,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2022-01-07,go,5224,31,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-01-07,go,8019,8,"Sarama is a Go library for Apache Kafka 0.8, and up.",Shopify,sarama,https://github.com/Shopify/sarama
+2022-01-07,go,3225,7,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2022-01-07,go,829,134,API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes,up9inc,mizu,https://github.com/up9inc/mizu
+2022-01-07,go,1429,1,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2022-01-07,go,1289,1,Event-driven workflow automation framework,argoproj,argo-events,https://github.com/argoproj/argo-events
+2022-01-07,go,18293,13,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-01-07,go,125,26,Golang Bypass Av Generator template,Arks7,Go_Bypass,https://github.com/Arks7/Go_Bypass
+2022-01-07,go,21680,13,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-01-07,go,94045,50,The Go programming language,golang,go,https://github.com/golang/go
+2022-01-07,go,6437,14,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-01-07,go,1519,6,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2022-01-07,go,1384,7,A collection of hacks and one-off scripts,tomnomnom,hacks,https://github.com/tomnomnom/hacks
+2022-01-07,go,23040,111,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2022-01-07,go,13589,9,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",chrislusf,seaweedfs,https://github.com/chrislusf/seaweedfs
+2022-01-07,go,24667,12,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-01-07,go,184,24,"A comprehensive, efficient, and reusable util function library of go.",duke-git,lancet,https://github.com/duke-git/lancet
+2022-01-07,go,5549,9,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-01-07,go,3086,5,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
