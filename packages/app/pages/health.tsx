@@ -13,6 +13,7 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import { Item, list } from "../data/loader";
 import { RepositoryBanner } from "../src/components/RepositoryBanner";
+import { RepositoryStats } from "../src/components/RepositoryStats";
 import styles from "../styles/Health.module.css";
 import { Box } from "@mui/system";
 
@@ -117,24 +118,33 @@ const Home: NextPage<Props> = ({ posts }) => {
                               rel="noopener noreferrer"
                             >
                               <Box mb={1}>
-                                <Card sx={{ display: "flex" }}>
-                                  <CardMedia
-                                    component={RepositoryBanner}
+                                <Card>
+                                  <Box sx={{ display: "flex" }}>
+                                    <CardMedia
+                                      component={RepositoryBanner}
+                                      slug={slug}
+                                      width={192}
+                                    />
+                                    <CardContent>
+                                      <Typography
+                                        variant="body2"
+                                        color="text.secondary"
+                                      >
+                                        <AssertionResult
+                                          error={assertItem(item)}
+                                        />
+                                        (+{starsToday ?? "-"}) ⭐️{" "}
+                                        {stargazers ?? "-"}
+                                      </Typography>
+                                    </CardContent>
+                                  </Box>
+                                  <RepositoryStats
                                     slug={slug}
-                                    width={192}
+                                    date={
+                                      date.filter((l) => l.length)[0][0]?.date!
+                                    }
+                                    width="100%"
                                   />
-                                  <CardContent>
-                                    <Typography
-                                      variant="body2"
-                                      color="text.secondary"
-                                    >
-                                      <AssertionResult
-                                        error={assertItem(item)}
-                                      />
-                                      (+{starsToday ?? "-"}) ⭐️{" "}
-                                      {stargazers ?? "-"}
-                                    </Typography>
-                                  </CardContent>
                                 </Card>
                               </Box>
                             </a>
