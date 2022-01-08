@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-08,go,992,159,API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes,up9inc,mizu,https://github.com/up9inc/mizu
+2022-01-08,go,7383,45,"ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。",panjf2000,ants,https://github.com/panjf2000/ants
+2022-01-08,go,2294,75,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2022-01-08,go,4708,5,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
+2022-01-08,go,7307,5,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-01-08,go,10426,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-01-08,go,18794,10,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2022-01-08,go,6515,6,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-01-08,go,9951,27,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-01-08,go,54504,28,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-01-08,go,5315,5,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2022-01-08,go,18300,8,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-01-08,go,8021,4,"Sarama is a Go library for Apache Kafka 0.8, and up.",Shopify,sarama,https://github.com/Shopify/sarama
+2022-01-08,go,6673,6,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-01-08,go,3025,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-01-08,go,19604,10,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2022-01-08,go,372,14,Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).,Hackmanit,Web-Cache-Vulnerability-Scanner,https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner
+2022-01-08,go,34609,35,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-01-08,go,16427,11,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2022-01-08,go,2858,19,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2022-01-08,go,3579,4,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2022-01-08,go,22498,4,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-01-08,go,82,26,一款基于GoLang的高性能多线程ETH矿池代理转发中继工具，稳定安全，支持SSL、自定义抽水、热修改、独家抽水算法、专业团队开发、完美的Web管理、完善社区支持。纯原创非破解，稳定更新,GoMinerProxy,GoMinerProxy,https://github.com/GoMinerProxy/GoMinerProxy
+2022-01-08,go,2230,5,Gatekeeper - Policy Controller for Kubernetes,open-policy-agent,gatekeeper,https://github.com/open-policy-agent/gatekeeper
+2022-01-08,go,5726,22,"Linux virtual machines, on macOS (aka ""Linux-on-Mac"", ""macOS subsystem for Linux"", ""containerd for Mac"", unofficially)",lima-vm,lima,https://github.com/lima-vm/lima
