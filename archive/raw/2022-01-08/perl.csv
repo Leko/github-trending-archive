@@ -1,5 +1,5 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-08,perl,12375,10,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2022-01-08,perl,12375,6,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
 2022-01-08,perl,7316,1,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
 2022-01-08,perl,2,0,,kamipo,dbix-class-timestamp-auto,https://github.com/kamipo/dbix-class-timestamp-auto
 2022-01-08,perl,47,0,a perl library for sending email,rjbs,Email-Sender,https://github.com/rjbs/Email-Sender
@@ -10,17 +10,17 @@ date,language,stargazers,starsToday,description,owner,name,url
 2022-01-08,perl,708,0,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
 2022-01-08,perl,4,0,JSON::Functions::XS,wakaba,perl-json-functions-xs,https://github.com/wakaba/perl-json-functions-xs
 2022-01-08,perl,1,0,,wakaba,perl-promised-command,https://github.com/wakaba/perl-promised-command
-2022-01-08,perl,5400,2,Nikto web server scanner,sullo,nikto,https://github.com/sullo/nikto
-2022-01-08,perl,14869,44,Good-lookin' diffs. Actually… nah… The best-lookin' diffs.,so-fancy,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy
+2022-01-08,perl,5400,1,Nikto web server scanner,sullo,nikto,https://github.com/sullo/nikto
+2022-01-08,perl,14879,53,Good-lookin' diffs. Actually… nah… The best-lookin' diffs.,so-fancy,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy
 2022-01-08,perl,194,1,GNU Fortran (and GCC) compilers for macOS,fxcoudert,gfortran-for-macOS,https://github.com/fxcoudert/gfortran-for-macOS
-2022-01-08,perl,13215,1,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2022-01-08,perl,13215,0,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
 2022-01-08,perl,2306,0,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),SpiderLabs,owasp-modsecurity-crs,https://github.com/SpiderLabs/owasp-modsecurity-crs
 2022-01-08,perl,220,0,"openQA web-frontend, scheduler and tools.",os-autoinst,openQA,https://github.com/os-autoinst/openQA
 2022-01-08,perl,1558,1,Client for PPP+SSL VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
 2022-01-08,perl,377,1,Movable Type,movabletype,movabletype,https://github.com/movabletype/movabletype
 2022-01-08,perl,614,0,"Engintron for cPanel/WHM is the easiest way to integrate Nginx on your cPanel/WHM server. Engintron will improve the performance & web serving capacity of your server, while reducing CPU/RAM load at the same time, by installing & configuring the popular Nginx webserver to act as a reverse caching proxy in front of Apache.",engintron,engintron,https://github.com/engintron/engintron
 2022-01-08,perl,788,1,Tool for creating snapshots and remote backups of btrfs subvolumes,digint,btrbk,https://github.com/digint/btrbk
-2022-01-08,perl,1865,2,An open-source digital image forensic toolset,GuidoBartoli,sherloq,https://github.com/GuidoBartoli/sherloq
+2022-01-08,perl,1865,1,An open-source digital image forensic toolset,GuidoBartoli,sherloq,https://github.com/GuidoBartoli/sherloq
 2022-01-08,perl,2,0,Perl interface to the Beeminder API,letolabs,WWW-Beeminder,https://github.com/letolabs/WWW-Beeminder
 2022-01-08,perl,3948,0,"Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub",jlord,git-it-electron,https://github.com/jlord/git-it-electron
 2022-01-08,perl,20,0,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent

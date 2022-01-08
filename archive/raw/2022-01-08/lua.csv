@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
 2022-01-08,lua,30962,12,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
-2022-01-08,lua,8090,11,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2022-01-08,lua,8090,10,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
 2022-01-08,lua,74,3,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
-2022-01-08,lua,1001,7,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
-2022-01-08,lua,46,5,,scfmod,FS22_TerraFarm,https://github.com/scfmod/FS22_TerraFarm
-2022-01-08,lua,134,0,学习 Neovim 全配置， 逃离 VSCode。,nshen,learn-neovim-lua,https://github.com/nshen/learn-neovim-lua
-2022-01-08,lua,892,3,Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置,xhql,rime,https://github.com/xhql/rime
-2022-01-08,lua,4509,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
-2022-01-08,lua,286,4,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2022-01-08,lua,1002,7,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2022-01-08,lua,46,4,,scfmod,FS22_TerraFarm,https://github.com/scfmod/FS22_TerraFarm
+2022-01-08,lua,135,1,学习 Neovim 全配置， 逃离 VSCode。,nshen,learn-neovim-lua,https://github.com/nshen/learn-neovim-lua
+2022-01-08,lua,895,5,Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置,xhql,rime,https://github.com/xhql/rime
+2022-01-08,lua,4511,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-01-08,lua,287,5,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
 2022-01-08,lua,118,1,Overextended Inventory for ESX Legacy,overextended,ox_inventory,https://github.com/overextended/ox_inventory
-2022-01-08,lua,768,5,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-01-08,lua,769,4,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
 2022-01-08,lua,16,0,Script For Buying Vehicles Used With QB-Core,qbcore-framework,qb-vehicleshop,https://github.com/qbcore-framework/qb-vehicleshop
-2022-01-08,lua,1674,7,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
-2022-01-08,lua,196,1,FS22 version of the AutoDrive mod,Stephan-S,FS22_AutoDrive,https://github.com/Stephan-S/FS22_AutoDrive
+2022-01-08,lua,1674,6,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-01-08,lua,197,2,FS22 version of the AutoDrive mod,Stephan-S,FS22_AutoDrive,https://github.com/Stephan-S/FS22_AutoDrive
 2022-01-08,lua,274,3,Farming Simulator 22: Smoother steering with the key board and more...,Mogli12,VehicleControlAddon,https://github.com/Mogli12/VehicleControlAddon
-2022-01-08,lua,7579,17,"An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-01-08,lua,7578,14,"An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.",NvChad,NvChad,https://github.com/NvChad/NvChad
 2022-01-08,lua,32,0,A better interaction system for FiveM,BerkieBb,qb-target,https://github.com/BerkieBb/qb-target
 2022-01-08,lua,483,3,,ThePrimeagen,.dotfiles,https://github.com/ThePrimeagen/.dotfiles
 2022-01-08,lua,2,1,A community mod for Project Zomboid for LoversLab (+18),G-Vodan,LLZomboLewd,https://github.com/G-Vodan/LLZomboLewd
-2022-01-08,lua,1927,11,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-01-08,lua,1928,11,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
 2022-01-08,lua,546,2,A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.,simrat39,symbols-outline.nvim,https://github.com/simrat39/symbols-outline.nvim
 2022-01-08,lua,12,0,Clothing Script Used With QB-Core,qbcore-framework,qb-clothing,https://github.com/qbcore-framework/qb-clothing
 2022-01-08,lua,72,0,Tooling to run plugin tests with Kong and Kong Enterprise,Kong,kong-pongo,https://github.com/Kong/kong-pongo
 2022-01-08,lua,215,1,"A modern reactive UI library, built specifically for Roblox and Luau.",Elttob,Fusion,https://github.com/Elttob/Fusion
-2022-01-08,lua,3579,7,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-01-08,lua,3582,9,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig

@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-08,r,302,7,Color palette package in R inspired by works at the Metropolitan Museum of Art in New York,BlakeRMills,MetBrewer,https://github.com/BlakeRMills/MetBrewer
-2022-01-08,r,5223,0,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2022-01-08,r,302,6,Color palette package in R inspired by works at the Metropolitan Museum of Art in New York,BlakeRMills,MetBrewer,https://github.com/BlakeRMills/MetBrewer
+2022-01-08,r,5224,1,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
 2022-01-08,r,17,1,Wordle helper for RStats,coolbutuseless,wordle,https://github.com/coolbutuseless/wordle
 2022-01-08,r,2341,1,Dynamic Documents for R,rstudio,rmarkdown,https://github.com/rstudio/rmarkdown
-2022-01-08,r,76,12,Create stacked tilted maps,marcosci,layer,https://github.com/marcosci/layer
+2022-01-08,r,78,9,Create stacked tilted maps,marcosci,layer,https://github.com/marcosci/layer
 2022-01-08,r,1303,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
-2022-01-08,r,184,2,Plots and analysis relating to the pandemic,VictimOfMaths,COVID-19,https://github.com/VictimOfMaths/COVID-19
+2022-01-08,r,185,3,Plots and analysis relating to the pandemic,VictimOfMaths,COVID-19,https://github.com/VictimOfMaths/COVID-19
 2022-01-08,r,4520,1,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
 2022-01-08,r,403,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
 2022-01-08,r,596,0,Generate static html documentation for an R package,r-lib,pkgdown,https://github.com/r-lib/pkgdown
 2022-01-08,r,3941,0,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
 2022-01-08,r,1552,0,Machine Learning in R,mlr-org,mlr,https://github.com/mlr-org/mlr
 2022-01-08,r,680,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
-2022-01-08,r,1360,1,R Interface to Python,rstudio,reticulate,https://github.com/rstudio/reticulate
+2022-01-08,r,1361,2,R Interface to Python,rstudio,reticulate,https://github.com/rstudio/reticulate
 2022-01-08,r,7,0,A collection R tips and tRicks,lgatto,tipsntRicks,https://github.com/lgatto/tipsntRicks
 2022-01-08,r,32,0,tools for the analysis of color data in R,rmaia,pavo,https://github.com/rmaia/pavo
 2022-01-08,r,222,1,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
 2022-01-08,r,3795,0,A collection of interactive courses for the swirl R package.,swirldev,swirl_courses,https://github.com/swirldev/swirl_courses
-2022-01-08,r,792,1,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2022-01-08,r,793,2,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
 2022-01-08,r,804,0,'ggplot2' Based Publication Ready Plots,kassambara,ggpubr,https://github.com/kassambara/ggpubr
 2022-01-08,r,143,0,R toolkit for the analysis of single-cell chromatin data,timoast,signac,https://github.com/timoast/signac
-2022-01-08,r,958,1,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2022-01-08,r,958,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
 2022-01-08,r,315,1,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
 2022-01-08,r,819,0,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
 2022-01-08,r,2936,1,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table

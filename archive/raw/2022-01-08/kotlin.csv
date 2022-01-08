@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
 2022-01-08,kotlin,732,1,"Official Android SDK for Stream Chat. Powerful client, offline support, and UI component libraries for awesome in-app chat features. Kotlin-first, Open-Source, free for Makers.",GetStream,stream-chat-android,https://github.com/GetStream/stream-chat-android
-2022-01-08,kotlin,362,14,一个入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 代码简单，内容全面，知识详细，快速上手，对理解其他项目设计思想和封装技巧也很有帮助。,miaowmiaow,fragmject,https://github.com/miaowmiaow/fragmject
-2022-01-08,kotlin,39977,7,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,android,architecture-samples,https://github.com/android/architecture-samples
-2022-01-08,kotlin,3341,6,Multiple samples showing the best practices in camera APIs on Android.,android,camera-samples,https://github.com/android/camera-samples
+2022-01-08,kotlin,362,9,一个入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 代码简单，内容全面，知识详细，快速上手，对理解其他项目设计思想和封装技巧也很有帮助。,miaowmiaow,fragmject,https://github.com/miaowmiaow/fragmject
+2022-01-08,kotlin,39978,8,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,android,architecture-samples,https://github.com/android/architecture-samples
+2022-01-08,kotlin,3343,7,Multiple samples showing the best practices in camera APIs on Android.,android,camera-samples,https://github.com/android/camera-samples
 2022-01-08,kotlin,97,1,A Hypixel Skyblock Utilities mod,Skytils,SkytilsMod,https://github.com/Skytils/SkytilsMod
-2022-01-08,kotlin,39837,16,The Kotlin Programming Language.,JetBrains,kotlin,https://github.com/JetBrains/kotlin
+2022-01-08,kotlin,39837,14,The Kotlin Programming Language.,JetBrains,kotlin,https://github.com/JetBrains/kotlin
 2022-01-08,kotlin,21037,5,The Google I/O Android App,google,iosched,https://github.com/google/iosched
-2022-01-08,kotlin,2224,4,An open-source keyboard for Android which respects your privacy. Currently in early-beta.,florisboard,florisboard,https://github.com/florisboard/florisboard
-2022-01-08,kotlin,26710,7,Alibaba Java Coding Guidelines pmd implements and IDE plugin,alibaba,p3c,https://github.com/alibaba/p3c
-2022-01-08,kotlin,3585,6,Kotlin multiplatform / multi-format serialization,Kotlin,kotlinx.serialization,https://github.com/Kotlin/kotlinx.serialization
-2022-01-08,kotlin,10278,6,Library support for Kotlin coroutines,Kotlin,kotlinx.coroutines,https://github.com/Kotlin/kotlinx.coroutines
+2022-01-08,kotlin,2224,3,An open-source keyboard for Android which respects your privacy. Currently in early-beta.,florisboard,florisboard,https://github.com/florisboard/florisboard
+2022-01-08,kotlin,26712,8,Alibaba Java Coding Guidelines pmd implements and IDE plugin,alibaba,p3c,https://github.com/alibaba/p3c
+2022-01-08,kotlin,3585,4,Kotlin multiplatform / multi-format serialization,Kotlin,kotlinx.serialization,https://github.com/Kotlin/kotlinx.serialization
+2022-01-08,kotlin,10278,5,Library support for Kotlin coroutines,Kotlin,kotlinx.coroutines,https://github.com/Kotlin/kotlinx.coroutines
 2022-01-08,kotlin,2334,3,Documentation Engine for Kotlin,Kotlin,dokka,https://github.com/Kotlin/dokka
-2022-01-08,kotlin,21340,5,Samples for Android Architecture Components.,android,architecture-components-samples,https://github.com/android/architecture-components-samples
-2022-01-08,kotlin,3949,8,A collection of extension libraries for Jetpack Compose,google,accompanist,https://github.com/google/accompanist
+2022-01-08,kotlin,21341,5,Samples for Android Architecture Components.,android,architecture-components-samples,https://github.com/android/architecture-components-samples
+2022-01-08,kotlin,3950,8,A collection of extension libraries for Jetpack Compose,google,accompanist,https://github.com/google/accompanist
 2022-01-08,kotlin,2984,2,"A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.",apollographql,apollo-kotlin,https://github.com/apollographql/apollo-kotlin
-2022-01-08,kotlin,10224,8,Official Jetpack Compose samples.,android,compose-samples,https://github.com/android/compose-samples
+2022-01-08,kotlin,10225,8,Official Jetpack Compose samples.,android,compose-samples,https://github.com/android/compose-samples
 2022-01-08,kotlin,426,2,BubbleTabBar is a bottom navigation bar with customizable bubble-like tabs,akshay2211,BubbleTabBar,https://github.com/akshay2211/BubbleTabBar
-2022-01-08,kotlin,1788,9,Android Developer Roadmap 2022 suggests learning paths to understanding Android development.,skydoves,android-developer-roadmap,https://github.com/skydoves/android-developer-roadmap
-2022-01-08,kotlin,2066,2,GraphQL for Java with Spring Boot made easy.,Netflix,dgs-framework,https://github.com/Netflix/dgs-framework
+2022-01-08,kotlin,1790,9,Android Developer Roadmap 2022 suggests learning paths to understanding Android development.,skydoves,android-developer-roadmap,https://github.com/skydoves/android-developer-roadmap
+2022-01-08,kotlin,2067,3,GraphQL for Java with Spring Boot made easy.,Netflix,dgs-framework,https://github.com/Netflix/dgs-framework
 2022-01-08,kotlin,894,1,"JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.",pact-foundation,pact-jvm,https://github.com/pact-foundation/pact-jvm
 2022-01-08,kotlin,1236,1,Template repository for creating plugins for IntelliJ Platform,JetBrains,intellij-platform-plugin-template,https://github.com/JetBrains/intellij-platform-plugin-template
-2022-01-08,kotlin,4525,6,Mavericks: Android on Autopilot,airbnb,mavericks,https://github.com/airbnb/mavericks
-2022-01-08,kotlin,9273,4,Framework for quickly creating connected applications in Kotlin with minimal effort,ktorio,ktor,https://github.com/ktorio/ktor
-2022-01-08,kotlin,12833,18,,2dust,v2rayNG,https://github.com/2dust/v2rayNG
+2022-01-08,kotlin,4525,5,Mavericks: Android on Autopilot,airbnb,mavericks,https://github.com/airbnb/mavericks
+2022-01-08,kotlin,9274,4,Framework for quickly creating connected applications in Kotlin with minimal effort,ktorio,ktor,https://github.com/ktorio/ktor
+2022-01-08,kotlin,12835,18,,2dust,v2rayNG,https://github.com/2dust/v2rayNG
 2022-01-08,kotlin,1332,2,Libraries for running GraphQL in Kotlin,ExpediaGroup,graphql-kotlin,https://github.com/ExpediaGroup/graphql-kotlin
