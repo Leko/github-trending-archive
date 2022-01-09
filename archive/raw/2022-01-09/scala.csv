@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-09,scala,31778,12,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-01-09,scala,318,20,Trading application that showcases an Event-Driven Architecture (EDA) and Functional Programming (FP),gvolpe,trading,https://github.com/gvolpe/trading
+2022-01-09,scala,891,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-01-09,scala,4452,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-01-09,scala,5400,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-01-09,scala,11973,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-01-09,scala,3180,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-01-09,scala,2039,4,"A ShadowsocksR, V2Ray and Trojan client for Android",xxf098,shadowsocksr-v2ray-trojan-android,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+2022-01-09,scala,8234,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-01-09,scala,2381,6,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-01-09,scala,2554,3,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-01-09,scala,2319,1,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-01-09,scala,12049,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-01-09,scala,0,0,"CloudFormation Custom Resources for initializing MySQL RDS instances with databases and users, using secrets stored in Secrets Manager.",Dwolla,mysql-init-custom-resource,https://github.com/Dwolla/mysql-init-custom-resource
+2022-01-09,scala,235,56,A Table Structure Storage to Unify Batch and Streaming Data Processing,meta-soul,LakeSoul,https://github.com/meta-soul/LakeSoul
+2022-01-09,scala,8560,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-01-09,scala,8141,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-01-09,scala,218,2,Connectors for Delta Lake,delta-io,connectors,https://github.com/delta-io/connectors
+2022-01-09,scala,2101,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-01-09,scala,10648,10,"♞ lichess.org: the forever free, adless and open source chess server ♞",ornicar,lila,https://github.com/ornicar/lila
+2022-01-09,scala,178,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-01-09,scala,2130,0,"Fast, testable, Scala services built on TwitterServer and Finagle",twitter,finatra,https://github.com/twitter/finatra
+2022-01-09,scala,176,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-01-09,scala,2503,0,Scala Language Integrated Connection Kit. Slick is a modern database query and access library for Scala,slick,slick,https://github.com/slick/slick
+2022-01-09,scala,10577,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK

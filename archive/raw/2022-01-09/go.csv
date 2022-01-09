@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-09,go,94178,90,The Go programming language,golang,go,https://github.com/golang/go
+2022-01-09,go,6704,36,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-01-09,go,1182,198,API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes,up9inc,mizu,https://github.com/up9inc/mizu
+2022-01-09,go,94,12,一款基于GoLang的高性能多线程ETH以太坊矿池代理转发中继工具，稳定安全，支持SSL、自定义抽水、热修改、独家抽水算法、专业团队开发、完美的Web管理、完善社区支持。纯原创非破解，稳定更新,GoMinerProxy,GoMinerProxy,https://github.com/GoMinerProxy/GoMinerProxy
+2022-01-09,go,5428,17,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2022-01-09,go,4161,7,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2022-01-09,go,22686,14,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2022-01-09,go,2627,7,"Copier for golang, copy value from struct to struct and more",jinzhu,copier,https://github.com/jinzhu/copier
+2022-01-09,go,10432,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-01-09,go,42325,38,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-01-09,go,24695,7,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-01-09,go,30745,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-01-09,go,10156,3,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-01-09,go,11024,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-01-09,go,637,39,,erjadi,kubecraftadmin,https://github.com/erjadi/kubecraftadmin
+2022-01-09,go,1367,6,"zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP. Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.",txthinking,zoro,https://github.com/txthinking/zoro
+2022-01-09,go,2870,12,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2022-01-09,go,155,36,强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）,sairson,Yasso,https://github.com/sairson/Yasso
+2022-01-09,go,16317,14,Learn Go with test-driven development,quii,learn-go-with-tests,https://github.com/quii/learn-go-with-tests
+2022-01-09,go,5552,8,Golang implementation of the Raft consensus protocol,hashicorp,raft,https://github.com/hashicorp/raft
+2022-01-09,go,9963,12,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-01-09,go,2259,15,"Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh",aws,karpenter,https://github.com/aws/karpenter
+2022-01-09,go,8801,6,Scan git repos (or files) for secrets using regex and entropy,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-01-09,go,10050,8,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-01-09,go,4276,5,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
