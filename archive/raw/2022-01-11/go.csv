@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-11,go,1357,81,API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes,up9inc,mizu,https://github.com/up9inc/mizu
+2022-01-11,go,305,99,强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）,sairson,Yasso,https://github.com/sairson/Yasso
+2022-01-11,go,14156,23,Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2022-01-11,go,18132,50,Easily and securely send things from one computer to another,schollz,croc,https://github.com/schollz/croc
+2022-01-11,go,27752,24,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2022-01-11,go,38901,11,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2022-01-11,go,902,29,Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.,tharsis,evmos,https://github.com/tharsis/evmos
+2022-01-11,go,1337,8,Go implementation of an Avalanche node.,ava-labs,avalanchego,https://github.com/ava-labs/avalanchego
+2022-01-11,go,9175,6,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2022-01-11,go,968,5,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-01-11,go,915,8,Algorand's official implementation in Go.,algorand,go-algorand,https://github.com/algorand/go-algorand
+2022-01-11,go,2868,3,"trojan多用户管理部署程序, 支持web页面管理",Jrohy,trojan,https://github.com/Jrohy/trojan
+2022-01-11,go,4942,90,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
+2022-01-11,go,1523,14,"Another file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-01-11,go,73598,57,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-01-11,go,39426,16,A golang ebook intro how to build a web with golang,astaxie,build-web-application-with-golang,https://github.com/astaxie/build-web-application-with-golang
+2022-01-11,go,741,5,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2022-01-11,go,1941,47,A blazingly fast JSON serializing & deserializing library,bytedance,sonic,https://github.com/bytedance/sonic
+2022-01-11,go,1586,21,A syntax-aware linter for prose built with speed and extensibility in mind.,errata-ai,vale,https://github.com/errata-ai/vale
+2022-01-11,go,2638,5,(Golang) Go bindings for Discord,bwmarrin,discordgo,https://github.com/bwmarrin/discordgo
+2022-01-11,go,22581,50,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-01-11,go,8814,7,Scan git repos (or files) for secrets using regex and entropy,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-01-11,go,4125,6,Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/,p4gefau1t,trojan-go,https://github.com/p4gefau1t/trojan-go
+2022-01-11,go,2792,5,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2022-01-11,go,7563,52,Disk Usage/Free Utility - a better 'df' alternative,muesli,duf,https://github.com/muesli/duf

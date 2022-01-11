@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-11,lua,9699,17,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-01-11,lua,1131,3,Debug Adapter Protocol client implementation for Neovim (>= 0.5),mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2022-01-11,lua,6914,12,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-01-11,lua,4542,11,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-01-11,lua,864,5,Companion plugin for nvim-lspconfig that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!,williamboman,nvim-lsp-installer,https://github.com/williamboman/nvim-lsp-installer
+2022-01-11,lua,489,2,,ThePrimeagen,.dotfiles,https://github.com/ThePrimeagen/.dotfiles
+2022-01-11,lua,2005,5,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-01-11,lua,644,4,"Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...",acecilia,OpenWRTInvasion,https://github.com/acecilia/OpenWRTInvasion
+2022-01-11,lua,64,0,Consolidated esx-legacy files into one repo for easy download since we will not support it,esx-framework,esx-legacy,https://github.com/esx-framework/esx-legacy
+2022-01-11,lua,173,1,AIVehicleExtension,Mogli12,AIVehicleExtension,https://github.com/Mogli12/AIVehicleExtension
+2022-01-11,lua,355,1,UI Component Library for Neovim.,MunifTanjim,nui.nvim,https://github.com/MunifTanjim/nui.nvim
+2022-01-11,lua,880,1,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2022-01-11,lua,1952,9,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-01-11,lua,41,1,Repository for otservbr-global datapack. Source code: https://github.com/opentibiabr/canary,opentibiabr,otservbr-global,https://github.com/opentibiabr/otservbr-global
+2022-01-11,lua,1046,28,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-01-11,lua,265,2,"Modern Go development plugin for Neovim, based on nvim-lsp, treesitter and Dap.",ray-x,go.nvim,https://github.com/ray-x/go.nvim
+2022-01-11,lua,1581,5,HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。,jerrykuku,luci-app-vssr,https://github.com/jerrykuku/luci-app-vssr
+2022-01-11,lua,248,0,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2022-01-11,lua,97,3,"FS22. Farming Simulator 22. LS22. Landwirtschafts Simulator 22. Track assistant, parking brake, differential locks, wheel drive modes and better hydraulics controls for your vehicle. Shows more vehicle details on HUD.",ZhooL,FS22_EnhancedVehicle,https://github.com/ZhooL/FS22_EnhancedVehicle
+2022-01-11,lua,570,1,Tools for better development in rust using neovim's builtin lsp,simrat39,rust-tools.nvim,https://github.com/simrat39/rust-tools.nvim
+2022-01-11,lua,114,0,An easy drag n' drop resource that gives you a wrapper to use FiveM's built-in mumble voice.,AvarianKnight,pma-voice,https://github.com/AvarianKnight/pma-voice
+2022-01-11,lua,248,0,Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.,folke,lsp-colors.nvim,https://github.com/folke/lsp-colors.nvim
+2022-01-11,lua,68,2,"A mod for the game ""The Binding of Isaac: Rebirth"" that displays useful informations for items, trinkets, rooms and more!",wofsauge,External-Item-Descriptions,https://github.com/wofsauge/External-Item-Descriptions
+2022-01-11,lua,40,0,A collection of every roblox script ive aquired,PhoenixAceVFX,Roblox-Scripts,https://github.com/PhoenixAceVFX/Roblox-Scripts
+2022-01-11,lua,709,1,Edit and review GitHub issues and pull requests from the comfort of your favorite editor,pwntester,octo.nvim,https://github.com/pwntester/octo.nvim

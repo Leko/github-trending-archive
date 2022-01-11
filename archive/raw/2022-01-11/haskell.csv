@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-11,haskell,2438,5,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-01-11,haskell,2279,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-01-11,haskell,1306,7,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-01-11,haskell,1889,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-01-11,haskell,6697,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-01-11,haskell,26,0,Haskell homework tests,NelosG,fp-tests,https://github.com/NelosG/fp-tests
+2022-01-11,haskell,1450,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-01-11,haskell,150,2,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-01-11,haskell,0,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-01-11,haskell,138,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-01-11,haskell,593,2,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-01-11,haskell,90,3,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-01-11,haskell,2270,0,What I Wish I Knew When Learning Haskell,sdiehl,wiwinwlh,https://github.com/sdiehl/wiwinwlh
+2022-01-11,haskell,7506,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-01-11,haskell,163,1,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
+2022-01-11,haskell,250,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-01-11,haskell,7,0,,digital-asset,lib-finance,https://github.com/digital-asset/lib-finance
+2022-01-11,haskell,199,1,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-01-11,haskell,254,3,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
+2022-01-11,haskell,6365,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-01-11,haskell,499,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-01-11,haskell,24436,5,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-01-11,haskell,4212,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-01-11,haskell,1493,0,Pattern language,tidalcycles,Tidal,https://github.com/tidalcycles/Tidal
+2022-01-11,haskell,1150,5,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
