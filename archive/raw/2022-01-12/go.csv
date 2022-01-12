@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-12,go,378,52,强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）,sairson,Yasso,https://github.com/sairson/Yasso
+2022-01-12,go,954,53,Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.,tharsis,evmos,https://github.com/tharsis/evmos
+2022-01-12,go,23838,10,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-01-12,go,6649,22,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-01-12,go,709,96,OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities.,XmirrorSecurity,OpenSCA-cli,https://github.com/XmirrorSecurity/OpenSCA-cli
+2022-01-12,go,6794,8,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-01-12,go,4632,19,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2022-01-12,go,6177,24,OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-01-12,go,6811,19,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-01-12,go,18157,28,Easily and securely send things from one computer to another,schollz,croc,https://github.com/schollz/croc
+2022-01-12,go,16457,7,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2022-01-12,go,36382,14,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2022-01-12,go,8563,10,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2022-01-12,go,3035,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-01-12,go,8233,9,Automatically provision and manage TLS certificates in Kubernetes,jetstack,cert-manager,https://github.com/jetstack/cert-manager
+2022-01-12,go,15332,4,(OBSOLETE) Curated applications for Kubernetes,helm,charts,https://github.com/helm/charts
+2022-01-12,go,13875,39,go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-01-12,go,9580,5,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2022-01-12,go,5597,15,基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev Antd beta版本：https://preview.go-admin.dev,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2022-01-12,go,2146,5,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-01-12,go,9185,14,An open-source vector database for embedding similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-01-12,go,5924,6,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2022-01-12,go,3356,8,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2022-01-12,go,8035,3,"Sarama is a Go library for Apache Kafka 0.8, and up.",Shopify,sarama,https://github.com/Shopify/sarama
+2022-01-12,go,1884,5,protoc plugin to generate polyglot message validators,envoyproxy,protoc-gen-validate,https://github.com/envoyproxy/protoc-gen-validate
