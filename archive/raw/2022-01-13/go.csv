@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-13,go,4586,95,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2022-01-13,go,189,74,Never worry about losing your code. Written in Go,nikochiko,autosaved,https://github.com/nikochiko/autosaved
+2022-01-13,go,1883,12,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2022-01-13,go,5753,14,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",patrickmn,go-cache,https://github.com/patrickmn/go-cache
+2022-01-13,go,3778,7,HCL is the HashiCorp configuration language.,hashicorp,hcl,https://github.com/hashicorp/hcl
+2022-01-13,go,993,42,Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.,tharsis,evmos,https://github.com/tharsis/evmos
+2022-01-13,go,1155,35,Container runtimes on MacOS with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2022-01-13,go,18322,10,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-01-13,go,10446,4,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-01-13,go,2678,3,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2022-01-13,go,14183,13,Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2022-01-13,go,22521,8,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-01-13,go,2300,6,"Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh",aws,karpenter,https://github.com/aws/karpenter
+2022-01-13,go,508,4,MongoDB Community Kubernetes Operator,mongodb,mongodb-kubernetes-operator,https://github.com/mongodb/mongodb-kubernetes-operator
+2022-01-13,go,4843,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-01-13,go,6799,7,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-01-13,go,1677,7,Cross-cloud cost allocation models for Kubernetes workloads,kubecost,cost-model,https://github.com/kubecost/cost-model
+2022-01-13,go,16551,8,《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿),chai2010,advanced-go-programming-book,https://github.com/chai2010/advanced-go-programming-book
+2022-01-13,go,817,107,OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities.,XmirrorSecurity,OpenSCA-cli,https://github.com/XmirrorSecurity/OpenSCA-cli
+2022-01-13,go,2673,27,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2022-01-13,go,333,2,A Go tracing package for Datadog APM,DataDog,dd-trace-go,https://github.com/DataDog/dd-trace-go
+2022-01-13,go,6484,3,Elasticsearch client for Go.,olivere,elastic,https://github.com/olivere/elastic
+2022-01-13,go,2201,13,Arbitrary expression evaluation for golang,Knetic,govaluate,https://github.com/Knetic/govaluate
+2022-01-13,go,6486,14,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-01-13,go,8243,12,Automatically provision and manage TLS certificates in Kubernetes,jetstack,cert-manager,https://github.com/jetstack/cert-manager
