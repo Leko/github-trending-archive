@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-14,go,650,133,"Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.",multiprocessio,dsq,https://github.com/multiprocessio/dsq
+2022-01-14,go,538,48,强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）,sairson,Yasso,https://github.com/sairson/Yasso
+2022-01-14,go,15337,3,(OBSOLETE) Curated applications for Kubernetes,helm,charts,https://github.com/helm/charts
+2022-01-14,go,8543,11,Pure Go implementation of the WebRTC API,pion,webrtc,https://github.com/pion/webrtc
+2022-01-14,go,10661,5,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2022-01-14,go,1304,1,Event-driven workflow automation framework,argoproj,argo-events,https://github.com/argoproj/argo-events
+2022-01-14,go,1312,7,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2022-01-14,go,350,64,"Ivy is a payload creation framework for the execution of arbitrary VBA (macro) source code directly in memory. Ivy’s loader does this by utilizing programmatical access in the VBA object environment to load, decrypt and execute shellcode.",optiv,Ivy,https://github.com/optiv/Ivy
+2022-01-14,go,1756,115,"Another file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-01-14,go,7863,7,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-01-14,go,11893,8,NGINX Ingress Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-01-14,go,11465,13,"Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",snail007,goproxy,https://github.com/snail007/goproxy
+2022-01-14,go,4854,11,yq is a portable command-line YAML processor,mikefarah,yq,https://github.com/mikefarah/yq
+2022-01-14,go,1195,40,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2022-01-14,go,1895,15,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2022-01-14,go,2162,6,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-01-14,go,17920,20,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-01-14,go,1730,2,"Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-01-14,go,6803,4,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-01-14,go,5512,2,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2022-01-14,go,993,1,Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.,tharsis,evmos,https://github.com/tharsis/evmos
+2022-01-14,go,4684,101,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2022-01-14,go,922,106,OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities.,XmirrorSecurity,OpenSCA-cli,https://github.com/XmirrorSecurity/OpenSCA-cli
+2022-01-14,go,3063,3,Linux OS for Azure 1P services and edge appliances,microsoft,CBL-Mariner,https://github.com/microsoft/CBL-Mariner
+2022-01-14,go,3781,3,HCL is the HashiCorp configuration language.,hashicorp,hcl,https://github.com/hashicorp/hcl

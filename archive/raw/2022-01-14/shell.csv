@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-14,shell,2844,4,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-01-14,shell,89,29,Bash script to check if a domain or list of domains can be spoofed based in DMARC records,v4d1,SpoofThatMail,https://github.com/v4d1/SpoofThatMail
+2022-01-14,shell,54568,25,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-01-14,shell,4609,6,"Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",toniblyx,prowler,https://github.com/toniblyx/prowler
+2022-01-14,shell,12830,11,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-01-14,shell,17137,13,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-01-14,shell,1342,2,Apache Kafka and Confluent Platform examples and demos,confluentinc,examples,https://github.com/confluentinc/examples
+2022-01-14,shell,25028,14,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2022-01-14,shell,19828,31,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2022-01-14,shell,141,3,Compilation of Resources from TCM's OSINT Course,TCM-Course-Resources,Open-Source-Intellingence-Resources,https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources
+2022-01-14,shell,4154,2,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2022-01-14,shell,24414,30,A Zsh theme,romkatv,powerlevel10k,https://github.com/romkatv/powerlevel10k
+2022-01-14,shell,15660,3,Node version management,tj,n,https://github.com/tj/n
+2022-01-14,shell,139251,56,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-01-14,shell,3446,2,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2022-01-14,shell,5735,3,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2022-01-14,shell,1874,1,"Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",urbanadventurer,Android-PIN-Bruteforce,https://github.com/urbanadventurer/Android-PIN-Bruteforce
+2022-01-14,shell,25593,42,Official electron build of diagrams.net,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2022-01-14,shell,15294,5,最好用的 V2Ray 一键安装脚本 & 管理脚本,233boy,v2ray,https://github.com/233boy/v2ray
+2022-01-14,shell,473,1,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2022-01-14,shell,503,1,致力于最简单好用的GOST小白脚本,KANIKIG,Multi-EasyGost,https://github.com/KANIKIG/Multi-EasyGost
+2022-01-14,shell,3237,3,A docker image to run OpenLDAP,osixia,docker-openldap,https://github.com/osixia/docker-openldap
+2022-01-14,shell,25502,3,Git extensions to provide high-level repository operations for Vincent Driessen's branching model.,nvie,gitflow,https://github.com/nvie/gitflow
+2022-01-14,shell,8426,10,The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).,OWASP,owasp-mstg,https://github.com/OWASP/owasp-mstg
+2022-01-14,shell,4656,4,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
