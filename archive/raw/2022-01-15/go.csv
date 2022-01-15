@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-15,go,2038,2,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2022-01-15,go,17140,8,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-01-15,go,22542,13,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-01-15,go,4461,13,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
+2022-01-15,go,61975,13,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-01-15,go,14660,15,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-01-15,go,281,15,Never worry about losing your code. Written in Go,nikochiko,autosaved,https://github.com/nikochiko/autosaved
+2022-01-15,go,2637,20,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-01-15,go,1759,31,新一代主机管理工具，支持web vnc和web shell,jkstack,natpass,https://github.com/jkstack/natpass
+2022-01-15,go,1819,65,"Another file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-01-15,go,16150,22,A modular-designed and easy-to-use microservices framework in Go.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-01-15,go,793,144,"Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.",multiprocessio,dsq,https://github.com/multiprocessio/dsq
+2022-01-15,go,3544,11,A Workflow Engine for Offensive Security,j3ssie,osmedeus,https://github.com/j3ssie/osmedeus
+2022-01-15,go,1909,16,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2022-01-15,go,54714,39,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-01-15,go,11907,16,NGINX Ingress Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-01-15,go,1234,40,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2022-01-15,go,6662,9,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2022-01-15,go,751,2,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2022-01-15,go,29915,32,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
+2022-01-15,go,20461,38,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2022-01-15,go,6498,7,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2022-01-15,go,12109,13,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
+2022-01-15,go,22891,16,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-01-15,go,8072,9,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd

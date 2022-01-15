@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-15,r,5229,0,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2022-01-15,r,3276,2,R for data science: a book,hadley,r4ds,https://github.com/hadley/r4ds
+2022-01-15,r,336,2,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define m…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2022-01-15,r,2345,2,Dynamic Documents for R,rstudio,rmarkdown,https://github.com/rstudio/rmarkdown
+2022-01-15,r,4530,2,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2022-01-15,r,1310,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2022-01-15,r,53,2,R instructions for our research projects,skhiggins,R_guide,https://github.com/skhiggins/R_guide
+2022-01-15,r,1558,0,Statistical Rethinking course and book package,rmcelreath,rethinking,https://github.com/rmcelreath/rethinking
+2022-01-15,r,960,1,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2022-01-15,r,16,0,,sidchop,neuRo-vis-BrainHack-2021,https://github.com/sidchop/neuRo-vis-BrainHack-2021
+2022-01-15,r,3950,2,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2022-01-15,r,2110,2,An interactive graphing library for R,plotly,plotly.R,https://github.com/plotly/plotly.R
+2022-01-15,r,680,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2022-01-15,r,1553,0,Machine Learning in R,mlr-org,mlr,https://github.com/mlr-org/mlr
+2022-01-15,r,3800,2,A collection of interactive courses for the swirl R package.,swirldev,swirl_courses,https://github.com/swirldev/swirl_courses
+2022-01-15,r,404,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2022-01-15,r,316,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2022-01-15,r,884,1,"Read flat files (csv, tsv, fwf) into R",tidyverse,readr,https://github.com/tidyverse/readr
+2022-01-15,r,2148,0,Tools to make an R developer's life easier,r-lib,devtools,https://github.com/r-lib/devtools
+2022-01-15,r,1517,0,A Wes Anderson color palette for R,karthik,wesanderson,https://github.com/karthik/wesanderson
+2022-01-15,r,615,5,Create Generative Art with R,cutterkom,generativeart,https://github.com/cutterkom/generativeart
+2022-01-15,r,583,0,A universal enrichment tool for interpreting omics data,YuLab-SMU,clusterProfiler,https://github.com/YuLab-SMU/clusterProfiler
+2022-01-15,r,2,0,"Tools for NanoString Technologies nCounter Technology for reading RCC files into an ExpressionSet derived object, QC and normalization.",Nanostring-Biostats,NanoStringNCTools,https://github.com/Nanostring-Biostats/NanoStringNCTools
+2022-01-15,r,0,0,,guoxin,pan.on.fix,https://github.com/guoxin/pan.on.fix
+2022-01-15,r,1386,0,caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models,topepo,caret,https://github.com/topepo/caret
