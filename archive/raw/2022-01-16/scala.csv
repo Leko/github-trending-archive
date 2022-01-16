@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-16,scala,1627,2,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-01-16,scala,3186,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-01-16,scala,3955,1,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-01-16,scala,5537,3,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-01-16,scala,2056,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-01-16,scala,8146,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-01-16,scala,2183,1,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-01-16,scala,5286,1,Hybrid visual and textual functional programming.,enso-org,enso,https://github.com/enso-org/enso
+2022-01-16,scala,10588,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-01-16,scala,31831,12,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-01-16,scala,402,1,A scala library to write Http apps.,dream11,zio-http,https://github.com/dream11/zio-http
+2022-01-16,scala,746,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-01-16,scala,5595,1,The Guardian DotCom.,guardian,frontend,https://github.com/guardian/frontend
+2022-01-16,scala,2106,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-01-16,scala,2397,2,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-01-16,scala,3,0,Rewrite of BigMC in Scala,bigmc,bigmc2,https://github.com/bigmc/bigmc2
+2022-01-16,scala,2571,3,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-01-16,scala,2008,2,"Compositional, streaming I/O library for Scala",typelevel,fs2,https://github.com/typelevel/fs2
+2022-01-16,scala,13603,4,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-01-16,scala,8570,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-01-16,scala,765,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-01-16,scala,2252,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-01-16,scala,4587,2,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-01-16,scala,2236,1,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2022-01-16,scala,145,0,"Standalone examples shown in the book ""Practical FP in Scala: A hands-on approach""",gvolpe,pfps-examples,https://github.com/gvolpe/pfps-examples
