@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-17,shell,214,10,Bash script to check if a domain or list of domains can be spoofed based in DMARC records,v4d1,SpoofThatMail,https://github.com/v4d1/SpoofThatMail
+2022-01-17,shell,7145,14,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-01-17,shell,746,5,,wulabing,V2Ray_ws-tls_bash_onekey,https://github.com/wulabing/V2Ray_ws-tls_bash_onekey
+2022-01-17,shell,7105,3,Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本,wulabing,Xray_onekey,https://github.com/wulabing/Xray_onekey
+2022-01-17,shell,207,1,这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。,tossp,redpill-tool-chain,https://github.com/tossp/redpill-tool-chain
+2022-01-17,shell,641,14,"WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",fscarmen,warp,https://github.com/fscarmen/warp
+2022-01-17,shell,19888,18,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2022-01-17,shell,17160,10,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-01-17,shell,3900,7,This is a multi-use bash script for Linux systems to audit wireless networks.,v1s1t0r1sh3r3,airgeddon,https://github.com/v1s1t0r1sh3r3/airgeddon
+2022-01-17,shell,14839,5,binary releases of VS Code without MS branding/telemetry/licensing,VSCodium,vscodium,https://github.com/VSCodium/vscodium
+2022-01-17,shell,34566,13,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2022-01-17,shell,1780,8,Advanced Phishing tool for Linux & Termux,htr-tech,nexphisher,https://github.com/htr-tech/nexphisher
+2022-01-17,shell,4406,6,（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2022-01-17,shell,171,0,Automatic import of svn 'community' repo (read-only mirror),archlinux,svntogit-community,https://github.com/archlinux/svntogit-community
+2022-01-17,shell,4722,38,"Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",toniblyx,prowler,https://github.com/toniblyx/prowler
+2022-01-17,shell,63061,41,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
+2022-01-17,shell,2031,2,,BtbN,FFmpeg-Builds,https://github.com/BtbN/FFmpeg-Builds
+2022-01-17,shell,13272,2,Default configuration for Le Wagon's students,lewagon,dotfiles,https://github.com/lewagon/dotfiles
+2022-01-17,shell,2021,2,Linux Kernel for Surface Devices,linux-surface,linux-surface,https://github.com/linux-surface/linux-surface
+2022-01-17,shell,275,0,"OpenWrt for Amlogic s9xxx tv box. Support s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.",ophub,amlogic-s9xxx-openwrt,https://github.com/ophub/amlogic-s9xxx-openwrt
+2022-01-17,shell,14046,9,A command-line system information tool written in bash 3.2+,dylanaraps,neofetch,https://github.com/dylanaraps/neofetch
+2022-01-17,shell,11746,6,"Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",myspaghetti,macos-virtualbox,https://github.com/myspaghetti/macos-virtualbox
+2022-01-17,shell,3621,1,Docker image of Nextcloud,nextcloud,docker,https://github.com/nextcloud/docker
+2022-01-17,shell,22250,4,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2022-01-17,shell,54644,27,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm

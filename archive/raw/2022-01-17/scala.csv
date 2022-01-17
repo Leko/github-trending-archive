@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-17,scala,13608,5,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-01-17,scala,10704,20,"♞ lichess.org: the forever free, adless and open source chess server ♞",ornicar,lila,https://github.com/ornicar/lila
+2022-01-17,scala,2202,2,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2022-01-17,scala,2398,1,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-01-17,scala,31833,3,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-01-17,scala,764,0,"Flink & Spark development scaffold, Make stream processing easier!!! The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data l…",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-01-17,scala,1627,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-01-17,scala,45,0,Reference client for Alephium protocol,alephium,alephium,https://github.com/alephium/alephium
+2022-01-17,scala,2346,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-01-17,scala,8148,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-01-17,scala,757,0,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-01-17,scala,2497,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-01-17,scala,121,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-01-17,scala,403,1,A scala library to write Http apps.,dream11,zio-http,https://github.com/dream11/zio-http
+2022-01-17,scala,747,1,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-01-17,scala,6878,2,Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.,twitter-archive,snowflake,https://github.com/twitter-archive/snowflake
+2022-01-17,scala,1272,0,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2022-01-17,scala,11986,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-01-17,scala,5286,0,Hybrid visual and textual functional programming.,enso-org,enso,https://github.com/enso-org/enso
+2022-01-17,scala,16847,1,"Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",prisma,prisma1,https://github.com/prisma/prisma1
+2022-01-17,scala,4763,1,A machine learning package built for humans.,airbnb,aerosolve,https://github.com/airbnb/aerosolve
+2022-01-17,scala,178,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-01-17,scala,1924,0,Functional JDBC layer for Scala.,tpolecat,doobie,https://github.com/tpolecat/doobie
+2022-01-17,scala,5539,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-01-17,scala,832,2,"Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://lenses.io on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more.",lensesio,stream-reactor,https://github.com/lensesio/stream-reactor
