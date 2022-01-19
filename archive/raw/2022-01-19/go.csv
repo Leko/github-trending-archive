@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-19,go,826,3,The Optimism monorepo,ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-01-19,go,1337,218,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-01-19,go,4499,10,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
+2022-01-19,go,31111,20,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
+2022-01-19,go,1444,15,"A UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML, QQ group: 645200447",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-01-19,go,24735,17,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-01-19,go,327,1,The AMM Laboratory,osmosis-labs,osmosis,https://github.com/osmosis-labs/osmosis
+2022-01-19,go,15116,31,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",buger,goreplay,https://github.com/buger/goreplay
+2022-01-19,go,58,0,"An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.",IBAX-io,go-ibax,https://github.com/IBAX-io/go-ibax
+2022-01-19,go,4932,12,"Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.",armosec,kubescape,https://github.com/armosec/kubescape
+2022-01-19,go,6679,16,A fast TCP/UDP tunnel over HTTP,jpillora,chisel,https://github.com/jpillora/chisel
+2022-01-19,go,14030,38,go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-01-19,go,6916,34,"immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history",codenotary,immudb,https://github.com/codenotary/immudb
+2022-01-19,go,25517,18,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2022-01-19,go,4416,4,An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）,chaosblade-io,chaosblade,https://github.com/chaosblade-io/chaosblade
+2022-01-19,go,9642,18,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2022-01-19,go,52668,45,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-01-19,go,11062,5,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-01-19,go,10236,9,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-01-19,go,11916,23,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-01-19,go,3455,6,A new way of working with Protocol Buffers.,bufbuild,buf,https://github.com/bufbuild/buf
+2022-01-19,go,1395,2,CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP,Versent,saml2aws,https://github.com/Versent/saml2aws
+2022-01-19,go,1484,11,Container Signing,sigstore,cosign,https://github.com/sigstore/cosign
+2022-01-19,go,3938,3,Golang library for managing configuration data from environment variables,kelseyhightower,envconfig,https://github.com/kelseyhightower/envconfig
+2022-01-19,go,3288,5,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
