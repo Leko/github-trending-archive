@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-20,scala,31869,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-01-20,scala,10600,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-01-20,scala,10745,12,"♞ lichess.org: the forever free, adless and open source chess server ♞",ornicar,lila,https://github.com/ornicar/lila
+2022-01-20,scala,3086,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-01-20,scala,8154,4,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-01-20,scala,2110,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-01-20,scala,221,0,Connectors for Delta Lake,delta-io,connectors,https://github.com/delta-io/connectors
+2022-01-20,scala,3963,4,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-01-20,scala,5299,5,Hybrid visual and textual functional programming.,enso-org,enso,https://github.com/enso-org/enso
+2022-01-20,scala,2351,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-01-20,scala,3188,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-01-20,scala,2580,0,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-01-20,scala,4871,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-01-20,scala,4455,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-01-20,scala,765,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-01-20,scala,45,0,,ucb-bar,testchipip,https://github.com/ucb-bar/testchipip
+2022-01-20,scala,1419,0,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-01-20,scala,4589,1,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-01-20,scala,1804,1,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-01-20,scala,46,0,Reference client for Alephium protocol,alephium,alephium,https://github.com/alephium/alephium
+2022-01-20,scala,178,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-01-20,scala,1373,2,深圳地铁大数据客流分析系统,geekyouth,SZT-bigdata,https://github.com/geekyouth/SZT-bigdata
+2022-01-20,scala,5,0,Tools for integrating DspTools components into a rocket-chip,ucb-bar,rocket-dsp-utils,https://github.com/ucb-bar/rocket-dsp-utils
+2022-01-20,scala,774,7,"Flink & Spark development scaffold, Make stream processing easier!!! The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data l…",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-01-20,scala,512,1,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim

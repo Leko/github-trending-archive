@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-20,go,1518,167,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-01-20,go,8816,8,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2022-01-20,go,11441,13,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2022-01-20,go,14698,12,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-01-20,go,357,41,"free4.chat is an instant audio conferencing service. It is designed by the local first and privacy first principle, and is very easy to use.",madawei2699,free4chat,https://github.com/madawei2699/free4chat
+2022-01-20,go,11943,12,NGINX Ingress Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-01-20,go,18620,30,Photos App powered by Go and Google TensorFlow,photoprism,photoprism,https://github.com/photoprism/photoprism
+2022-01-20,go,7138,7,Swagger 2.0 implementation for go,go-swagger,go-swagger,https://github.com/go-swagger/go-swagger
+2022-01-20,go,1495,11,Container Signing,sigstore,cosign,https://github.com/sigstore/cosign
+2022-01-20,go,4625,7,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2022-01-20,go,769,4,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2022-01-20,go,4141,13,A Distributed and High-Performance Monitoring System. Prometheus enterprise UI,didi,nightingale,https://github.com/didi/nightingale
+2022-01-20,go,10649,15,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-01-20,go,1688,8,Open source hyperconverged infrastructure (HCI) software,harvester,harvester,https://github.com/harvester/harvester
+2022-01-20,go,36542,26,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-01-20,go,9443,4,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2022-01-20,go,8884,15,Scan git repos (or files) for secrets using regex and entropy,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-01-20,go,7983,7,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2022-01-20,go,4308,6,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2022-01-20,go,8124,11,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-01-20,go,19130,27,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2022-01-20,go,2187,12,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2022-01-20,go,20971,7,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-01-20,go,11937,22,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-01-20,go,8009,7,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
