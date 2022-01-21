@@ -165,7 +165,7 @@ export async function getStaticProps(): Promise<{ props: Props }> {
   const posts = await list();
   return {
     props: {
-      posts: posts.slice(0, 14),
+      posts: posts.slice(-14),
     },
   };
 }
