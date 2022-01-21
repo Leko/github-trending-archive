@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-21,python,175856,436,A collective list of free APIs,public-apis,public-apis,https://github.com/public-apis/public-apis
+2022-01-21,python,175857,485,A collective list of free APIs,public-apis,public-apis,https://github.com/public-apis/public-apis
 2022-01-21,python,4880,430,"Desktop utility to download images/videos/music/text from various websites, and more.",KurtBestor,Hitomi-Downloader,https://github.com/KurtBestor/Hitomi-Downloader
 2022-01-21,python,990,30,Collections of tools and methods created to aid in OSINT collection,sinwindie,OSINT,https://github.com/sinwindie/OSINT
 2022-01-21,python,57164,66,"Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",huggingface,transformers,https://github.com/huggingface/transformers
 2022-01-21,python,11110,15,Open source platform for the machine learning lifecycle,mlflow,mlflow,https://github.com/mlflow/mlflow
-2022-01-21,python,17034,33,"The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",PyTorchLightning,pytorch-lightning,https://github.com/PyTorchLightning/pytorch-lightning
+2022-01-21,python,17035,33,"The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",PyTorchLightning,pytorch-lightning,https://github.com/PyTorchLightning/pytorch-lightning
 2022-01-21,python,3255,4,"CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",ckan,ckan,https://github.com/ckan/ckan
-2022-01-21,python,61873,33,The Web framework for perfectionists with deadlines.,django,django,https://github.com/django/django
-2022-01-21,python,16904,58,GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.,TencentARC,GFPGAN,https://github.com/TencentARC/GFPGAN
+2022-01-21,python,61873,32,The Web framework for perfectionists with deadlines.,django,django,https://github.com/django/django
+2022-01-21,python,16904,57,GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.,TencentARC,GFPGAN,https://github.com/TencentARC/GFPGAN
 2022-01-21,python,5828,12,A hyperparameter optimization framework,optuna,optuna,https://github.com/optuna/optuna
-2022-01-21,python,3783,27,"Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.",deepset-ai,haystack,https://github.com/deepset-ai/haystack
+2022-01-21,python,3784,27,"Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.",deepset-ai,haystack,https://github.com/deepset-ai/haystack
 2022-01-21,python,15060,14,Zulip server and web app—powerful open source team chat,zulip,zulip,https://github.com/zulip/zulip
 2022-01-21,python,2739,10,Code for the paper Hybrid Spectrogram and Waveform Source Separation,facebookresearch,demucs,https://github.com/facebookresearch/demucs
-2022-01-21,python,995,240,FFCV: Fast Forward Computer Vision (and other ML workloads!),libffcv,ffcv,https://github.com/libffcv/ffcv
-2022-01-21,python,2238,12,github release、archive以及项目文件的加速项目,hunshcn,gh-proxy,https://github.com/hunshcn/gh-proxy
+2022-01-21,python,995,246,FFCV: Fast Forward Computer Vision (and other ML workloads!),libffcv,ffcv,https://github.com/libffcv/ffcv
+2022-01-21,python,2238,14,github release、archive以及项目文件的加速项目,hunshcn,gh-proxy,https://github.com/hunshcn/gh-proxy
 2022-01-21,python,77,11,,DatacollectorVN,Docker-Tutorial,https://github.com/DatacollectorVN/Docker-Tutorial
-2022-01-21,python,3618,3,open source Kubernetes-native API gateway for microservices built on the Envoy Proxy,emissary-ingress,emissary,https://github.com/emissary-ingress/emissary
+2022-01-21,python,3618,2,open source Kubernetes-native API gateway for microservices built on the Envoy Proxy,emissary-ingress,emissary,https://github.com/emissary-ingress/emissary
 2022-01-21,python,3209,28,A SQL linter and auto-formatter for Humans,sqlfluff,sqlfluff,https://github.com/sqlfluff/sqlfluff
 2022-01-21,python,912,9,"YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 900+kb (int8) and 1.9M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size is 320×320~",ppogg,YOLOv5-Lite,https://github.com/ppogg/YOLOv5-Lite
 2022-01-21,python,177,24,MindMap software designed by PyQt5 with rich text and python synaxhighlighter.,yetao0806,NodeNote,https://github.com/yetao0806/NodeNote
 2022-01-21,python,7617,5,"Open deep learning compiler stack for cpu, gpu and specialized accelerators",apache,tvm,https://github.com/apache/tvm
-2022-01-21,python,10737,8,"Datasets, Transforms and Models specific to Computer Vision",pytorch,vision,https://github.com/pytorch/vision
+2022-01-21,python,10737,9,"Datasets, Transforms and Models specific to Computer Vision",pytorch,vision,https://github.com/pytorch/vision
 2022-01-21,python,3075,12,NVIDIA's Deep Imagination Team's PyTorch Library,NVlabs,imaginaire,https://github.com/NVlabs/imaginaire
 2022-01-21,python,40845,68,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",tiangolo,fastapi,https://github.com/tiangolo/fastapi
 2022-01-21,python,626,16,"Comprehensive, latest, and deployable video deep learning algorithm, including video recognition, action localization, and temporal action detection tasks. It's a high-performance, light-weight codebase provides practical models for video understanding research and application",PaddlePaddle,PaddleVideo,https://github.com/PaddlePaddle/PaddleVideo

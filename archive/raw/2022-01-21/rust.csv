@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-21,rust,28770,271,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
-2022-01-21,rust,2888,247,<<Rust语言圣经(Book & Course)>>对Rust语言进行全面且深入的讲解，书中辅以生动的示例和习题，带你攻克从入门学习到实践应用的各种难关。 我们的目标是做一门优秀的开源Rust教程(课程)——学Rust就上course.rs。,sunface,rust-course,https://github.com/sunface/rust-course
+2022-01-21,rust,28771,196,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-01-21,rust,2889,242,<<Rust语言圣经(Book & Course)>>对Rust语言进行全面且深入的讲解，书中辅以生动的示例和习题，带你攻克从入门学习到实践应用的各种难关。 我们的目标是做一门优秀的开源Rust教程(课程)——学Rust就上course.rs。,sunface,rust-course,https://github.com/sunface/rust-course
 2022-01-21,rust,13690,29,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
 2022-01-21,rust,16319,3,Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.,diem,diem,https://github.com/diem/diem
 2022-01-21,rust,10576,8,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
-2022-01-21,rust,12195,24,Cube — Open-Source Analytics API for Building Data Apps,cube-js,cube.js,https://github.com/cube-js/cube.js
-2022-01-21,rust,4801,5,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2022-01-21,rust,12195,25,Cube — Open-Source Analytics API for Building Data Apps,cube-js,cube.js,https://github.com/cube-js/cube.js
+2022-01-21,rust,4801,4,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
 2022-01-21,rust,861,11,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
-2022-01-21,rust,6445,12,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
-2022-01-21,rust,5456,43,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
-2022-01-21,rust,65,2,Smart contracts maintained by the Metaplex team,metaplex-foundation,metaplex-program-library,https://github.com/metaplex-foundation/metaplex-program-library
-2022-01-21,rust,17060,11,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
-2022-01-21,rust,7388,8,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2022-01-21,rust,6445,10,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-01-21,rust,5456,51,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-01-21,rust,65,3,Smart contracts maintained by the Metaplex team,metaplex-foundation,metaplex-program-library,https://github.com/metaplex-foundation/metaplex-program-library
+2022-01-21,rust,17060,12,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2022-01-21,rust,7388,6,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
 2022-01-21,rust,49,10,"Reference implementation of the Filecoin Virtual Machine [v0, pre-alpha]",filecoin-project,ref-fvm,https://github.com/filecoin-project/ref-fvm
-2022-01-21,rust,1886,5,A Rust runtime for AWS Lambda,awslabs,aws-lambda-rust-runtime,https://github.com/awslabs/aws-lambda-rust-runtime
-2022-01-21,rust,350,36,A simple note taking application written in Rust and GTK4,flxzt,rnote,https://github.com/flxzt/rnote
-2022-01-21,rust,10053,25,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
-2022-01-21,rust,4314,31,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
-2022-01-21,rust,79882,27,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-01-21,rust,1886,4,A Rust runtime for AWS Lambda,awslabs,aws-lambda-rust-runtime,https://github.com/awslabs/aws-lambda-rust-runtime
+2022-01-21,rust,350,33,A simple note taking application written in Rust and GTK4,flxzt,rnote,https://github.com/flxzt/rnote
+2022-01-21,rust,10053,30,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2022-01-21,rust,4315,31,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-01-21,rust,79882,23,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
 2022-01-21,rust,5238,11,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
-2022-01-21,rust,2127,3,Community showcase and examples of Actix ecosystem usage.,actix,examples,https://github.com/actix/examples
+2022-01-21,rust,2127,4,Community showcase and examples of Actix ecosystem usage.,actix,examples,https://github.com/actix/examples
 2022-01-21,rust,12992,12,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",actix,actix-web,https://github.com/actix/actix-web
-2022-01-21,rust,6493,22,"Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
-2022-01-21,rust,20788,35,"Powerful, fast, and an easy to use search engine",meilisearch,MeiliSearch,https://github.com/meilisearch/MeiliSearch
-2022-01-21,rust,1268,20,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",gakonst,foundry,https://github.com/gakonst/foundry
+2022-01-21,rust,6494,22,"Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
+2022-01-21,rust,20788,34,"Powerful, fast, and an easy to use search engine",meilisearch,MeiliSearch,https://github.com/meilisearch/MeiliSearch
+2022-01-21,rust,1268,19,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",gakonst,foundry,https://github.com/gakonst/foundry
