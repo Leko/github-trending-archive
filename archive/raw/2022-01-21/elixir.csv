@@ -1,25 +1,25 @@
 date,language,stargazers,starsToday,description,owner,name,url
 2022-01-21,elixir,1413,1,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
-2022-01-21,elixir,2360,5,Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView,livebook-dev,livebook,https://github.com/livebook-dev/livebook
-2022-01-21,elixir,4320,2,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2022-01-21,elixir,2360,4,Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2022-01-21,elixir,4321,2,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
 2022-01-21,elixir,0,0,Datawarehouse van het Digitaal Loket,lblod,app-digitaal-loket-data-warehouse,https://github.com/lblod/app-digitaal-loket-data-warehouse
 2022-01-21,elixir,4363,2,Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.,supabase,realtime,https://github.com/supabase/realtime
-2022-01-21,elixir,391,0,Open API Specifications for Elixir Plug applications,open-api-spex,open_api_spex,https://github.com/open-api-spex/open_api_spex
+2022-01-21,elixir,392,1,Open API Specifications for Elixir Plug applications,open-api-spex,open_api_spex,https://github.com/open-api-spex/open_api_spex
 2022-01-21,elixir,515,0,Kafka client library for Elixir,kafkaex,kafka_ex,https://github.com/kafkaex/kafka_ex
-2022-01-21,elixir,5331,0,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
-2022-01-21,elixir,9906,21,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
-2022-01-21,elixir,17556,3,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2022-01-21,elixir,5332,1,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2022-01-21,elixir,9910,21,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2022-01-21,elixir,17555,3,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
 2022-01-21,elixir,12,0,The fusion_auth library provides an Elixir API for accessing the FusionAuth Developer APIs.,leo-technologies-llc,fusion_auth,https://github.com/leo-technologies-llc/fusion_auth
-2022-01-21,elixir,716,4,"Elixir library to write Windows, macOS, Linux, Android apps with OTP24 & Phoenix.LiveView",elixir-desktop,desktop,https://github.com/elixir-desktop/desktop
-2022-01-21,elixir,1025,1,WireGuard-based VPN server and firewall,firezone,firezone,https://github.com/firezone/firezone
+2022-01-21,elixir,716,2,"Elixir library to write Windows, macOS, Linux, Android apps with OTP24 & Phoenix.LiveView",elixir-desktop,desktop,https://github.com/elixir-desktop/desktop
+2022-01-21,elixir,1025,0,WireGuard-based VPN server and firewall,firezone,firezone,https://github.com/firezone/firezone
 2022-01-21,elixir,111,0,,ex-aws,ex_aws_s3,https://github.com/ex-aws/ex_aws_s3
 2022-01-21,elixir,722,0,(soft-deprecated) HTTP client for Elixir (use Tesla please),unrelentingtech,httpotion,https://github.com/unrelentingtech/httpotion
-2022-01-21,elixir,1502,2,Automatic cluster formation/healing for Elixir applications,bitwalker,libcluster,https://github.com/bitwalker/libcluster
+2022-01-21,elixir,1503,3,Automatic cluster formation/healing for Elixir applications,bitwalker,libcluster,https://github.com/bitwalker/libcluster
 2022-01-21,elixir,11,0,,membraneframework,membrane_webrtc_plugin,https://github.com/membraneframework/membrane_webrtc_plugin
 2022-01-21,elixir,268,2,Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds,Phineas,lanyard,https://github.com/Phineas/lanyard
 2022-01-21,elixir,15,0,Membrane RTC Engine client and server libraries,membraneframework,membrane_rtc_engine,https://github.com/membraneframework/membrane_rtc_engine
 2022-01-21,elixir,10,0,Membrane bins and elements for sending and receiving RTP/SRTP and RTCP/SRTCP streams,membraneframework,membrane_rtp_plugin,https://github.com/membraneframework/membrane_rtp_plugin
-2022-01-21,elixir,2866,0,Simplify deployments in Elixir with OTP releases!,bitwalker,distillery,https://github.com/bitwalker/distillery
+2022-01-21,elixir,2867,1,Simplify deployments in Elixir with OTP releases!,bitwalker,distillery,https://github.com/bitwalker/distillery
 2022-01-21,elixir,1145,0,ExDoc produces HTML and EPUB documentation for Elixir projects,elixir-lang,ex_doc,https://github.com/elixir-lang/ex_doc
 2022-01-21,elixir,2070,3,"Robust job processing in Elixir, backed by modern PostgreSQL",sorentwo,oban,https://github.com/sorentwo/oban
 2022-01-21,elixir,0,0,,PagerDuty,pagerduty-rabbitmq-plugins,https://github.com/PagerDuty/pagerduty-rabbitmq-plugins

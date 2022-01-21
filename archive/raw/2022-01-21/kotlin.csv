@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-21,kotlin,4846,14,"Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.",chrisbanes,tivi,https://github.com/chrisbanes/tivi
+2022-01-21,kotlin,4846,10,"Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.",chrisbanes,tivi,https://github.com/chrisbanes/tivi
 2022-01-21,kotlin,1753,1,A glossy Matrix collaboration client for Android.,vector-im,element-android,https://github.com/vector-im/element-android
-2022-01-21,kotlin,5033,11,"Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.",skydoves,Pokedex,https://github.com/skydoves/Pokedex
+2022-01-21,kotlin,5033,9,"Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.",skydoves,Pokedex,https://github.com/skydoves/Pokedex
 2022-01-21,kotlin,652,1,A suite of tools to assist with reviewing Open Source Software dependencies.,oss-review-toolkit,ort,https://github.com/oss-review-toolkit/ort
-2022-01-21,kotlin,791,117,开放源码的无App推送服务， WIP,easychen,pushdeer,https://github.com/easychen/pushdeer
-2022-01-21,kotlin,2795,5,哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.,yujincheng08,BiliRoaming,https://github.com/yujincheng08/BiliRoaming
-2022-01-21,kotlin,27163,6,A memory leak detection library for Android.,square,leakcanary,https://github.com/square/leakcanary
-2022-01-21,kotlin,2079,2,GraphQL for Java with Spring Boot made easy.,Netflix,dgs-framework,https://github.com/Netflix/dgs-framework
+2022-01-21,kotlin,800,81,开放源码的无App推送服务， WIP,easychen,pushdeer,https://github.com/easychen/pushdeer
+2022-01-21,kotlin,2795,4,哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.,yujincheng08,BiliRoaming,https://github.com/yujincheng08/BiliRoaming
+2022-01-21,kotlin,27164,8,A memory leak detection library for Android.,square,leakcanary,https://github.com/square/leakcanary
+2022-01-21,kotlin,2080,3,GraphQL for Java with Spring Boot made easy.,Netflix,dgs-framework,https://github.com/Netflix/dgs-framework
 2022-01-21,kotlin,2459,3,Native Android app using the Apple/Google exposure notification API.,corona-warn-app,cwa-app-android,https://github.com/corona-warn-app/cwa-app-android
-2022-01-21,kotlin,5849,2,Kotlin SQL Framework,JetBrains,Exposed,https://github.com/JetBrains/Exposed
+2022-01-21,kotlin,5849,0,Kotlin SQL Framework,JetBrains,Exposed,https://github.com/JetBrains/Exposed
 2022-01-21,kotlin,4256,2,mocking library for Kotlin,mockk,mockk,https://github.com/mockk/mockk
 2022-01-21,kotlin,61,4,Beautiful progress bar with segments. Highly customizable. Fully written with Jetpack Compose,StephenVinouze,SegmentedProgressBar,https://github.com/StephenVinouze/SegmentedProgressBar
 2022-01-21,kotlin,5500,4,Firefox for Android,mozilla-mobile,fenix,https://github.com/mozilla-mobile/fenix
-2022-01-21,kotlin,2517,8,"Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud. NOTE: BEING REWRITTEN, SO STAY TUNED.",Shabinder,SpotiFlyer,https://github.com/Shabinder/SpotiFlyer
+2022-01-21,kotlin,2518,8,"Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud. NOTE: BEING REWRITTEN, SO STAY TUNED.",Shabinder,SpotiFlyer,https://github.com/Shabinder/SpotiFlyer
 2022-01-21,kotlin,99,1,,ktorio,ktor-documentation,https://github.com/ktorio/ktor-documentation
-2022-01-21,kotlin,1263,3,Template repository for creating plugins for IntelliJ Platform,JetBrains,intellij-platform-plugin-template,https://github.com/JetBrains/intellij-platform-plugin-template
+2022-01-21,kotlin,1264,4,Template repository for creating plugins for IntelliJ Platform,JetBrains,intellij-platform-plugin-template,https://github.com/JetBrains/intellij-platform-plugin-template
 2022-01-21,kotlin,3001,1,"A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.",apollographql,apollo-kotlin,https://github.com/apollographql/apollo-kotlin
-2022-01-21,kotlin,571,4,樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。,SkyD666,Imomoe,https://github.com/SkyD666/Imomoe
-2022-01-21,kotlin,9731,1,A curated list of awesome Kotlin related stuff Inspired by awesome-java.,KotlinBy,awesome-kotlin,https://github.com/KotlinBy/awesome-kotlin
-2022-01-21,kotlin,10358,11,Official Jetpack Compose samples.,android,compose-samples,https://github.com/android/compose-samples
+2022-01-21,kotlin,572,4,樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。,SkyD666,Imomoe,https://github.com/SkyD666/Imomoe
+2022-01-21,kotlin,9732,1,A curated list of awesome Kotlin related stuff Inspired by awesome-java.,KotlinBy,awesome-kotlin,https://github.com/KotlinBy/awesome-kotlin
+2022-01-21,kotlin,10358,9,Official Jetpack Compose samples.,android,compose-samples,https://github.com/android/compose-samples
 2022-01-21,kotlin,1217,0,android-kotlin-fundamentals-apps,google-developer-training,android-kotlin-fundamentals-apps,https://github.com/google-developer-training/android-kotlin-fundamentals-apps
-2022-01-21,kotlin,3610,4,Kotlin multiplatform / multi-format serialization,Kotlin,kotlinx.serialization,https://github.com/Kotlin/kotlinx.serialization
+2022-01-21,kotlin,3611,5,Kotlin multiplatform / multi-format serialization,Kotlin,kotlinx.serialization,https://github.com/Kotlin/kotlinx.serialization
 2022-01-21,kotlin,12415,3,A sample audio app for Android,android,uamp,https://github.com/android/uamp
-2022-01-21,kotlin,788,2,android-kotlin-fundamentals-starter-apps,google-developer-training,android-kotlin-fundamentals-starter-apps,https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps
-2022-01-21,kotlin,23718,16,翻墙-科学上网,bannedbook,fanqiang,https://github.com/bannedbook/fanqiang
+2022-01-21,kotlin,788,1,android-kotlin-fundamentals-starter-apps,google-developer-training,android-kotlin-fundamentals-starter-apps,https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps
+2022-01-21,kotlin,23724,22,翻墙-科学上网,bannedbook,fanqiang,https://github.com/bannedbook/fanqiang

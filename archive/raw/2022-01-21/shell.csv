@@ -1,19 +1,19 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-21,shell,15356,12,"GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",tj,git-extras,https://github.com/tj/git-extras
-2022-01-21,shell,54745,38,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
-2022-01-21,shell,7528,6,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
-2022-01-21,shell,5185,2,"Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2022-01-21,shell,15357,10,"GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",tj,git-extras,https://github.com/tj/git-extras
+2022-01-21,shell,54748,35,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-01-21,shell,7528,3,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-01-21,shell,5185,1,"Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
 2022-01-21,shell,11273,5,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
 2022-01-21,shell,4164,1,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
-2022-01-21,shell,891,3,Docker files for running a basic Laravel application.,laravel,sail,https://github.com/laravel/sail
-2022-01-21,shell,30713,4,Amazon Web Services — a practical guide,open-guides,og-aws,https://github.com/open-guides/og-aws
-2022-01-21,shell,1893,6,Easily install PHP extension in Docker containers,mlocati,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer
+2022-01-21,shell,891,2,Docker files for running a basic Laravel application.,laravel,sail,https://github.com/laravel/sail
+2022-01-21,shell,30714,5,Amazon Web Services — a practical guide,open-guides,og-aws,https://github.com/open-guides/og-aws
+2022-01-21,shell,1893,5,Easily install PHP extension in Docker containers,mlocati,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer
 2022-01-21,shell,12891,12,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
 2022-01-21,shell,39,0,nibiru testnet repo,cosmos-gaminghub,testnets,https://github.com/cosmos-gaminghub/testnets
-2022-01-21,shell,425,2,Advanced Charging Controller,VR-25,acc,https://github.com/VR-25/acc
-2022-01-21,shell,11250,6,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2022-01-21,shell,425,1,Advanced Charging Controller,VR-25,acc,https://github.com/VR-25/acc
+2022-01-21,shell,11251,6,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
 2022-01-21,shell,2025,2,Docker Official Image packaging for MySQL Community Server,docker-library,mysql,https://github.com/docker-library/mysql
-2022-01-21,shell,2837,4,A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-01-21,shell,2837,2,A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
 2022-01-21,shell,445,3,"My custom build of wine, made to use with lutris. Built with lutris's buildbot.",GloriousEggroll,wine-ge-custom,https://github.com/GloriousEggroll/wine-ge-custom
 2022-01-21,shell,148,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
 2022-01-21,shell,2852,4,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
@@ -21,6 +21,6 @@ date,language,stargazers,starsToday,description,owner,name,url
 2022-01-21,shell,3972,2,The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.,OWASP,wstg,https://github.com/OWASP/wstg
 2022-01-21,shell,2396,4,"ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.",ONLYOFFICE,DocumentServer,https://github.com/ONLYOFFICE/DocumentServer
 2022-01-21,shell,2537,2,Kubernetes prompt info for bash and zsh,jonmosco,kube-ps1,https://github.com/jonmosco/kube-ps1
-2022-01-21,shell,421,11,Rockyou for web fuzzing,six2dez,OneListForAll,https://github.com/six2dez/OneListForAll
-2022-01-21,shell,20005,42,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
-2022-01-21,shell,15701,5,Node version management,tj,n,https://github.com/tj/n
+2022-01-21,shell,421,7,Rockyou for web fuzzing,six2dez,OneListForAll,https://github.com/six2dez/OneListForAll
+2022-01-21,shell,20008,42,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2022-01-21,shell,15701,3,Node version management,tj,n,https://github.com/tj/n

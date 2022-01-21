@@ -1,21 +1,21 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-21,haskell,25232,14,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-01-21,haskell,25234,12,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
 2022-01-21,haskell,1907,4,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
 2022-01-21,haskell,599,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
-2022-01-21,haskell,6403,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
-2022-01-21,haskell,27553,12,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-01-21,haskell,6404,8,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-01-21,haskell,27552,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
 2022-01-21,haskell,169,0,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
 2022-01-21,haskell,17,1,Typed eDSL for writing UPLC /ˈpluː.tɑːk/,Plutonomicon,plutarch,https://github.com/Plutonomicon/plutarch
-2022-01-21,haskell,2127,9,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
-2022-01-21,haskell,1908,3,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-01-21,haskell,2128,10,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
+2022-01-21,haskell,1909,4,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
 2022-01-21,haskell,1,0,,imsut,starthaskell,https://github.com/imsut/starthaskell
-2022-01-21,haskell,2478,5,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
-2022-01-21,haskell,24526,16,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-01-21,haskell,2478,4,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-01-21,haskell,24526,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
 2022-01-21,haskell,11,0,Visualizing kubernetes capacity.,Shopify,kubepacity,https://github.com/Shopify/kubepacity
 2022-01-21,haskell,5,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
 2022-01-21,haskell,158,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
 2022-01-21,haskell,1484,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
-2022-01-21,haskell,465,3,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
+2022-01-21,haskell,465,2,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
 2022-01-21,haskell,3657,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
 2022-01-21,haskell,1681,2,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
 2022-01-21,haskell,967,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli

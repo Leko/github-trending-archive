@@ -1,8 +1,8 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-01-21,perl,13326,13,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
-2022-01-21,perl,7340,3,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
+2022-01-21,perl,13328,14,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2022-01-21,perl,7341,3,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
 2022-01-21,perl,1,0,API cruncher for applicants trying to join an EVE Online corp,lockefox,EVE_appreview,https://github.com/lockefox/EVE_appreview
-2022-01-21,perl,12438,8,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2022-01-21,perl,12438,6,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
 2022-01-21,perl,1247,1,Next-Generation Linux Kernel Exploit Suggester,jondonas,linux-exploit-suggester-2,https://github.com/jondonas/linux-exploit-suggester-2
 2022-01-21,perl,210,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
 2022-01-21,perl,82,0,FreeRDP Manuals,awakecoding,FreeRDP-Manuals,https://github.com/awakecoding/FreeRDP-Manuals
@@ -22,5 +22,5 @@ date,language,stargazers,starsToday,description,owner,name,url
 2022-01-21,perl,99,0,"OBS build script, can be used with OBS or stand alone",openSUSE,obs-build,https://github.com/openSUSE/obs-build
 2022-01-21,perl,1,0,,TMSWhite,G4030_Bugs,https://github.com/TMSWhite/G4030_Bugs
 2022-01-21,perl,2035,1,"Policy-driven snapshot management and replication tools. Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.",jimsalterjrs,sanoid,https://github.com/jimsalterjrs/sanoid
-2022-01-21,perl,2307,1,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),SpiderLabs,owasp-modsecurity-crs,https://github.com/SpiderLabs/owasp-modsecurity-crs
+2022-01-21,perl,2307,0,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),SpiderLabs,owasp-modsecurity-crs,https://github.com/SpiderLabs/owasp-modsecurity-crs
 2022-01-21,perl,196,0,GNU Fortran (and GCC) compilers for macOS,fxcoudert,gfortran-for-macOS,https://github.com/fxcoudert/gfortran-for-macOS
