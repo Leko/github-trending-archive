@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-22,scala,5413,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-01-22,scala,31887,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-01-22,scala,765,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-01-22,scala,10604,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-01-22,scala,887,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-01-22,scala,11993,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-01-22,scala,3089,4,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-01-22,scala,780,2,"Flink & Spark development scaffold, Make stream processing easier!!! The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data l…",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-01-22,scala,2189,1,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-01-22,scala,2011,2,"Compositional, streaming I/O library for Scala",typelevel,fs2,https://github.com/typelevel/fs2
+2022-01-22,scala,3972,7,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-01-22,scala,363,1,Ergo protocol description & reference client implementation,ergoplatform,ergo,https://github.com/ergoplatform/ergo
+2022-01-22,scala,8154,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-01-22,scala,4871,2,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-01-22,scala,13,1,"On the fly, translation of Spark programs to run natively on your Oracle DB. Your Spark programs require no changes.",oracle,spark-oracle,https://github.com/oracle/spark-oracle
+2022-01-22,scala,2505,0,Scala Language Integrated Connection Kit. Slick is a modern database query and access library for Scala,slick,slick,https://github.com/slick/slick
+2022-01-22,scala,1228,1,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2022-01-22,scala,15,0,A Scala SDK for interfacing with HashiCorp's Nomad,hashicorp,nomad-scala-sdk,https://github.com/hashicorp/nomad-scala-sdk
+2022-01-22,scala,179,1,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-01-22,scala,1388,1,JSON library,json4s,json4s,https://github.com/json4s/json4s
+2022-01-22,scala,5593,0,The Guardian DotCom.,guardian,frontend,https://github.com/guardian/frontend
+2022-01-22,scala,2237,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2022-01-22,scala,8282,5,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-01-22,scala,1632,2,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-01-22,scala,5300,1,Hybrid visual and textual functional programming.,enso-org,enso,https://github.com/enso-org/enso

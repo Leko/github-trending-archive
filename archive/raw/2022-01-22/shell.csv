@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-22,shell,20065,61,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2022-01-22,shell,892,1,Docker files for running a basic Laravel application.,laravel,sail,https://github.com/laravel/sail
+2022-01-22,shell,4744,3,"Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",toniblyx,prowler,https://github.com/toniblyx/prowler
+2022-01-22,shell,15375,22,"GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",tj,git-extras,https://github.com/tj/git-extras
+2022-01-22,shell,3148,5,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2022-01-22,shell,2852,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-01-22,shell,54772,32,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-01-22,shell,2843,7,A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-01-22,shell,11281,9,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-01-22,shell,1348,2,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2022-01-22,shell,6687,143,JetBrains Mono – the free and open-source typeface for developers,JetBrains,JetBrainsMono,https://github.com/JetBrains/JetBrainsMono
+2022-01-22,shell,1351,2,Apache Kafka and Confluent Platform examples and demos,confluentinc,examples,https://github.com/confluentinc/examples
+2022-01-22,shell,2868,0,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-01-22,shell,27,2,,harness,harness-cd-community,https://github.com/harness/harness-cd-community
+2022-01-22,shell,968,6,Helm charts for applications you run at home,k8s-at-home,charts,https://github.com/k8s-at-home/charts
+2022-01-22,shell,8367,11,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2022-01-22,shell,927,1,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2022-01-22,shell,1456,0,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
+2022-01-22,shell,7530,2,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-01-22,shell,1561,1,The Void source packages collection,void-linux,void-packages,https://github.com/void-linux/void-packages
+2022-01-22,shell,5120,1,"Primary source of truth for the Docker ""Official Images"" program",docker-library,official-images,https://github.com/docker-library/official-images
+2022-01-22,shell,1571,2,Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite resources as well and help others in their journey of learning.,zero-to-mastery,resources,https://github.com/zero-to-mastery/resources
+2022-01-22,shell,2407,11,"ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.",ONLYOFFICE,DocumentServer,https://github.com/ONLYOFFICE/DocumentServer
+2022-01-22,shell,4690,8,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2022-01-22,shell,5556,7,Docker images for the Selenium Grid Server,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
