@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-23,haskell,6413,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-01-23,haskell,2139,5,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
+2022-01-23,haskell,27568,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-01-23,haskell,599,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-01-23,haskell,2479,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-01-23,haskell,50,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-01-23,haskell,3,0,"Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH",necrobious,hS3,https://github.com/necrobious/hS3
+2022-01-23,haskell,2409,1,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-01-23,haskell,856,2,Haskell library for building declarative animations based on SVG graphics,reanimate,reanimate,https://github.com/reanimate/reanimate
+2022-01-23,haskell,174,1,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-01-23,haskell,3661,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-01-23,haskell,1194,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-01-23,haskell,25254,12,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-01-23,haskell,683,2,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2022-01-23,haskell,190,3,Domain-Specific Languages of Mathematics,DSLsofMath,DSLsofMath,https://github.com/DSLsofMath/DSLsofMath
+2022-01-23,haskell,988,1,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-01-23,haskell,70,0,SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.,simplex-chat,simplexmq,https://github.com/simplex-chat/simplexmq
+2022-01-23,haskell,1496,7,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-01-23,haskell,1317,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-01-23,haskell,1277,0,elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide,avh4,elm-format,https://github.com/avh4/elm-format
+2022-01-23,haskell,142,1,A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2022-01-23,haskell,1,0,,input-output-hk,hedgehog-extras,https://github.com/input-output-hk/hedgehog-extras
+2022-01-23,haskell,22,1,,expipiplus1,vector-sized,https://github.com/expipiplus1/vector-sized
+2022-01-23,haskell,15,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-01-23,haskell,158,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync

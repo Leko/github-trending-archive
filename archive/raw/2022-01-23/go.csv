@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-23,go,489,93,A hands-on approach to getting started with Go generics.,akutz,go-generics-the-hard-way,https://github.com/akutz/go-generics-the-hard-way
+2022-01-23,go,2284,164,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-01-23,go,6272,81,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2022-01-23,go,24046,97,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-01-23,go,10505,8,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-01-23,go,6922,15,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-01-23,go,5607,5,Universal code search (self-hosted),sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2022-01-23,go,22763,8,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2022-01-23,go,30950,12,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-01-23,go,1638,57,API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes,up9inc,mizu,https://github.com/up9inc/mizu
+2022-01-23,go,17824,23,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-01-23,go,13451,4,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-01-23,go,11976,11,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-01-23,go,14187,21,go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-01-23,go,7851,11,一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗 ⎈,fanux,sealos,https://github.com/fanux/sealos
+2022-01-23,go,7038,21,"immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history",codenotary,immudb,https://github.com/codenotary/immudb
+2022-01-23,go,592,4,傻妞机器人,cdle,sillyGirl,https://github.com/cdle/sillyGirl
+2022-01-23,go,31180,10,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
+2022-01-23,go,1745,2,"Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-01-23,go,11136,9,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-01-23,go,10388,5,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-01-23,go,11492,17,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2022-01-23,go,12534,53,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-01-23,go,3140,1,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2022-01-23,go,14732,6,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-23,rust,58,3,"Reference implementation of the Filecoin Virtual Machine [v0, pre-alpha]",filecoin-project,ref-fvm,https://github.com/filecoin-project/ref-fvm
+2022-01-23,rust,856,197,A simple drawing application to create handwritten notes.,flxzt,rnote,https://github.com/flxzt/rnote
+2022-01-23,rust,29058,92,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-01-23,rust,324,73,RisingLight is an OLAP database system for educational purpose,risinglightdb,risinglight,https://github.com/risinglightdb/risinglight
+2022-01-23,rust,62655,38,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-01-23,rust,2282,5,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2022-01-23,rust,21820,28,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-01-23,rust,1446,8,Rust Ethereum 2.0 Client,sigp,lighthouse,https://github.com/sigp/lighthouse
+2022-01-23,rust,5957,40,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2022-01-23,rust,13741,28,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-01-23,rust,13190,16,"x86 virtualization in your browser, recompiling x86 to wasm on the fly",copy,v86,https://github.com/copy/v86
+2022-01-23,rust,4555,20,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2022-01-23,rust,1027,25,Create full-fledged APIs for static datasets without writing a single line of code.,roapi,roapi,https://github.com/roapi/roapi
+2022-01-23,rust,5625,3,Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2022-01-23,rust,79913,20,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-01-23,rust,5250,3,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-01-23,rust,7645,14,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-01-23,rust,53,8,WIP panel for COSMIC,pop-os,cosmic-panel,https://github.com/pop-os/cosmic-panel
+2022-01-23,rust,9756,11,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2022-01-23,rust,863,8,Cross-platform WebView library in Rust for Tauri.,tauri-apps,wry,https://github.com/tauri-apps/wry
+2022-01-23,rust,7850,15,Sampling profiler for Python programs,benfred,py-spy,https://github.com/benfred/py-spy
+2022-01-23,rust,17019,11,"The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",rome,tools,https://github.com/rome/tools
+2022-01-23,rust,14679,7,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-01-23,rust,6283,10,Build terminal user interfaces and dashboards using Rust,fdehau,tui-rs,https://github.com/fdehau/tui-rs
+2022-01-23,rust,2601,6,Encoding and decoding images in Rust,image-rs,image,https://github.com/image-rs/image

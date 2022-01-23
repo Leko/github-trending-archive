@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-23,scala,888,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-01-23,scala,4871,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-01-23,scala,31897,12,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-01-23,scala,3192,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-01-23,scala,2073,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-01-23,scala,3972,2,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-01-23,scala,4593,2,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-01-23,scala,11995,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-01-23,scala,5415,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-01-23,scala,3089,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-01-23,scala,2338,1,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-01-23,scala,8155,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-01-23,scala,5545,0,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-01-23,scala,2356,3,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-01-23,scala,178,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-01-23,scala,2582,1,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-01-23,scala,125,3,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-01-23,scala,107,1,Chisel/Firrtl execution engine,chipsalliance,treadle,https://github.com/chipsalliance/treadle
+2022-01-23,scala,144,0,Common RTL blocks used in SiFive's projects,sifive,sifive-blocks,https://github.com/sifive/sifive-blocks
+2022-01-23,scala,2191,2,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-01-23,scala,479,0,educational microarchitectures for risc-v isa,ucb-bar,riscv-sodor,https://github.com/ucb-bar/riscv-sodor
+2022-01-23,scala,513,0,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-01-23,scala,15,0,Wrapper for ETH Ariane Core,ucb-bar,cva6-wrapper,https://github.com/ucb-bar/cva6-wrapper
+2022-01-23,scala,88,0,Microarchitecture implementation of the decoupled vector-fetch accelerator,ucb-bar,hwacha,https://github.com/ucb-bar/hwacha
+2022-01-23,scala,12066,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
