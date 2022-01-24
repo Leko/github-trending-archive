@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-24,go,657,168,A hands-on approach to getting started with Go generics.,akutz,go-generics-the-hard-way,https://github.com/akutz/go-generics-the-hard-way
+2022-01-24,go,17846,23,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-01-24,go,1669,31,API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes,up9inc,mizu,https://github.com/up9inc/mizu
+2022-01-24,go,22970,26,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-01-24,go,9244,10,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2022-01-24,go,38998,10,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2022-01-24,go,13453,3,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-01-24,go,595,3,傻妞机器人,cdle,sillyGirl,https://github.com/cdle/sillyGirl
+2022-01-24,go,7106,185,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-01-24,go,2981,18,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-01-24,go,27976,17,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2022-01-24,go,6458,7,In-depth Attack Surface Mapping and Asset Discovery,OWASP,Amass,https://github.com/OWASP/Amass
+2022-01-24,go,2426,6,"A Linux web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
+2022-01-24,go,2675,4,(Golang) Go bindings for Discord,bwmarrin,discordgo,https://github.com/bwmarrin/discordgo
+2022-01-24,go,4052,14,Streaming replication for SQLite.,benbjohnson,litestream,https://github.com/benbjohnson/litestream
+2022-01-24,go,10891,9,"Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops",gravitational,teleport,https://github.com/gravitational/teleport
+2022-01-24,go,76,9,Data Integration for Production Data Stores.,ConduitIO,conduit,https://github.com/ConduitIO/conduit
+2022-01-24,go,2166,13,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2022-01-24,go,7283,9,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2022-01-24,go,25622,8,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2022-01-24,go,11501,11,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2022-01-24,go,23027,11,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-01-24,go,24087,47,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-01-24,go,5600,5,Golang implementation of the Raft consensus protocol,hashicorp,raft,https://github.com/hashicorp/raft
+2022-01-24,go,2545,26,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
