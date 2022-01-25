@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-25,go,2638,1291,"An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.",IBAX-io,go-ibax,https://github.com/IBAX-io/go-ibax
+2022-01-25,go,848,210,A hands-on approach to getting started with Go generics.,akutz,go-generics-the-hard-way,https://github.com/akutz/go-generics-the-hard-way
+2022-01-25,go,780,2,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2022-01-25,go,3366,24,「自选优选 IP / 过滤假墙」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2022-01-25,go,2187,21,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2022-01-25,go,42591,25,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-01-25,go,76,24,golang基础知识及实现，偏重于数据结构。另外包含web开源项目(中间件)的日常使用,ymm135,golang-cookbook,https://github.com/ymm135/golang-cookbook
+2022-01-25,go,14115,21,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2022-01-25,go,12128,27,DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),docker-slim,docker-slim,https://github.com/docker-slim/docker-slim
+2022-01-25,go,4070,16,A truly Open Source MongoDB alternative,FerretDB,FerretDB,https://github.com/FerretDB/FerretDB
+2022-01-25,go,601,6,傻妞机器人,cdle,sillyGirl,https://github.com/cdle/sillyGirl
+2022-01-25,go,17874,30,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-01-25,go,5254,10,Prevent Kubernetes misconfigurations from reaching production (again  )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io,datreeio,datree,https://github.com/datreeio/datree
+2022-01-25,go,7487,389,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-01-25,go,9258,15,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2022-01-25,go,11162,13,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-01-25,go,8067,165,"Render markdown on the CLI, with pizzazz! 💅🏻",charmbracelet,glow,https://github.com/charmbracelet/glow
+2022-01-25,go,2227,5,"A fast, stable and embedded k-v storage in pure Golang, supports string, list, hash, set, sorted set. 一个 Go 语言实现的快速、稳定、内嵌的 k-v 存储引擎。",flower-corp,rosedb,https://github.com/flower-corp/rosedb
+2022-01-25,go,4401,7,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2022-01-25,go,5622,9,Universal code search (self-hosted),sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2022-01-25,go,2570,26,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2022-01-25,go,3021,41,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-01-25,go,1755,5,"Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-01-25,go,2243,86,a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!),gokrazy,gokrazy,https://github.com/gokrazy/gokrazy
+2022-01-25,go,52868,50,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp

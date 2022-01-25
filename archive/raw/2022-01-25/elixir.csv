@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-25,elixir,4331,3,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2022-01-25,elixir,19725,4,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2022-01-25,elixir,17565,6,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2022-01-25,elixir,2276,4,A self-hosted data logger for your Tesla,adriankumpf,teslamate,https://github.com/adriankumpf/teslamate
+2022-01-25,elixir,11120,3,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",h4cc,awesome-elixir,https://github.com/h4cc/awesome-elixir
+2022-01-25,elixir,145,2,Thousand Island is a pure Elixir socket server,mtrudel,thousand_island,https://github.com/mtrudel/thousand_island
+2022-01-25,elixir,1148,1,ExDoc produces HTML and EPUB documentation for Elixir projects,elixir-lang,ex_doc,https://github.com/elixir-lang/ex_doc
+2022-01-25,elixir,3835,1,The GraphQL toolkit for Elixir,absinthe-graphql,absinthe,https://github.com/absinthe-graphql/absinthe
+2022-01-25,elixir,203,0,"Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",elixir-lsp,elixir_sense,https://github.com/elixir-lsp/elixir_sense
+2022-01-25,elixir,275,2,"Easy parameters validation/casting with Ecto.Schema, akin to Rails' strong parameters.",vic,params,https://github.com/vic/params
+2022-01-25,elixir,974,0,An Elixir implementation of gRPC,elixir-grpc,grpc,https://github.com/elixir-grpc/grpc
+2022-01-25,elixir,1159,2,A merge bot for GitHub Pull Requests,bors-ng,bors-ng,https://github.com/bors-ng/bors-ng
+2022-01-25,elixir,222,1,AppSignal for Elixir package,appsignal,appsignal-elixir,https://github.com/appsignal/appsignal-elixir
+2022-01-25,elixir,410,0,DataLoader for Elixir,absinthe-graphql,dataloader,https://github.com/absinthe-graphql/dataloader
+2022-01-25,elixir,828,2,"A frontend-independent IDE ""smartness"" server for Elixir. Implements the ""Language Server Protocol"" standard and provides debugger support via the ""Debug Adapter Protocol""",elixir-lsp,elixir-ls,https://github.com/elixir-lsp/elixir-ls
+2022-01-25,elixir,108,0,"Elasticlunr is a small, full-text search library for use in the Elixir environment. It indexes JSON documents and provides a friendly search interface to retrieve documents.",heywhy,ex_elasticlunr,https://github.com/heywhy/ex_elasticlunr
+2022-01-25,elixir,110,0,"Initializes lists of maps, structs or keyword lists using tabular data in Elixir",msaraiva,exsamples,https://github.com/msaraiva/exsamples
+2022-01-25,elixir,355,1,SQL-based adapters for Ecto and database migrations,elixir-ecto,ecto_sql,https://github.com/elixir-ecto/ecto_sql
+2022-01-25,elixir,1118,0,"A flexible, easy to use set of clients AWS APIs for Elixir",ex-aws,ex_aws,https://github.com/ex-aws/ex_aws
+2022-01-25,elixir,1035,3,WireGuard-based VPN server and firewall,firezone,firezone,https://github.com/firezone/firezone
+2022-01-25,elixir,1726,1,Concurrent and multi-stage data ingestion and data processing with Elixir,dashbitco,broadway,https://github.com/dashbitco/broadway
+2022-01-25,elixir,1423,5,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2022-01-25,elixir,1312,0,Job processing library for Elixir - compatible with Resque / Sidekiq,akira,exq,https://github.com/akira/exq
+2022-01-25,elixir,1550,1,A server-side rendering component library for Phoenix,surface-ui,surface,https://github.com/surface-ui/surface
+2022-01-25,elixir,675,1,Feature Flags/Toggles for Elixir,tompave,fun_with_flags,https://github.com/tompave/fun_with_flags

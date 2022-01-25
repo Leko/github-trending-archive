@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-25,rust,3256,66,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-01-25,rust,1357,294,A simple drawing application to create handwritten notes.,flxzt,rnote,https://github.com/flxzt/rnote
+2022-01-25,rust,1852,23,阿里云盘 WebDAV 服务,messense,aliyundrive-webdav,https://github.com/messense/aliyundrive-webdav
+2022-01-25,rust,13802,33,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-01-25,rust,2290,4,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2022-01-25,rust,9775,9,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2022-01-25,rust,10445,11,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2022-01-25,rust,79951,24,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-01-25,rust,9298,9,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2022-01-25,rust,13222,14,"x86 virtualization in your browser, recompiling x86 to wasm on the fly",copy,v86,https://github.com/copy/v86
+2022-01-25,rust,16116,14,A web framework for Rust.,SergioBenitez,Rocket,https://github.com/SergioBenitez/Rocket
+2022-01-25,rust,6151,11,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
+2022-01-25,rust,5268,6,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-01-25,rust,542,94,Learn Rust black magics by implementing basic types in database systems,skyzh,type-exercise-in-rust,https://github.com/skyzh/type-exercise-in-rust
+2022-01-25,rust,14718,18,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-01-25,rust,37069,26,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2022-01-25,rust,9053,9,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2022-01-25,rust,2768,5,Safe OpenGL wrapper for the Rust language.,glium,glium,https://github.com/glium/glium
+2022-01-25,rust,6307,14,Build terminal user interfaces and dashboards using Rust,fdehau,tui-rs,https://github.com/fdehau/tui-rs
+2022-01-25,rust,7675,14,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-01-25,rust,1472,6,Solana Sealevel Framework,project-serum,anchor,https://github.com/project-serum/anchor
+2022-01-25,rust,7879,5,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2022-01-25,rust,2655,16,Strongly typed JSON library for Rust,serde-rs,json,https://github.com/serde-rs/json
+2022-01-25,rust,13036,15,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",actix,actix-web,https://github.com/actix/actix-web
+2022-01-25,rust,7019,19,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
