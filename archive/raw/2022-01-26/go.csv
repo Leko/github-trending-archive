@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-26,go,3313,803,"An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.",IBAX-io,go-ibax,https://github.com/IBAX-io/go-ibax
+2022-01-26,go,7819,281,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-01-26,go,675,87,A database toolkit,ariga,atlas,https://github.com/ariga/atlas
+2022-01-26,go,983,130,A hands-on approach to getting started with Go generics.,akutz,go-generics-the-hard-way,https://github.com/akutz/go-generics-the-hard-way
+2022-01-26,go,6556,4,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-01-26,go,8104,40,"Render markdown on the CLI, with pizzazz! 💅🏻",charmbracelet,glow,https://github.com/charmbracelet/glow
+2022-01-26,go,2227,28,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-01-26,go,2257,16,a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!),gokrazy,gokrazy,https://github.com/gokrazy/gokrazy
+2022-01-26,go,2197,11,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2022-01-26,go,15278,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-01-26,go,13465,4,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-01-26,go,1661,10,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2022-01-26,go,11541,12,"Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",snail007,goproxy,https://github.com/snail007/goproxy
+2022-01-26,go,3673,33,Style definitions for nice terminal layouts,charmbracelet,lipgloss,https://github.com/charmbracelet/lipgloss
+2022-01-26,go,84799,41,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-01-26,go,30994,24,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-01-26,go,94745,39,The Go programming language,golang,go,https://github.com/golang/go
+2022-01-26,go,3038,17,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-01-26,go,6474,9,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2022-01-26,go,4356,6,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2022-01-26,go,2585,16,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2022-01-26,go,20900,166,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2022-01-26,go,9266,9,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2022-01-26,go,2460,13,Nuke a whole AWS account and delete all its resources.,rebuy-de,aws-nuke,https://github.com/rebuy-de/aws-nuke
+2022-01-26,go,1809,16,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno

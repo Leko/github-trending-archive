@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-26,rust,1511,163,A simple drawing application to create handwritten notes.,flxzt,rnote,https://github.com/flxzt/rnote
+2022-01-26,rust,583,44,Learn Rust black magics by implementing basic types in database systems,skyzh,type-exercise-in-rust,https://github.com/skyzh/type-exercise-in-rust
+2022-01-26,rust,13845,45,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-01-26,rust,3300,47,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-01-26,rust,6154,4,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
+2022-01-26,rust,4589,4,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2022-01-26,rust,3154,14,"An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy",datafuselabs,databend,https://github.com/datafuselabs/databend
+2022-01-26,rust,1481,9,Solana Sealevel Framework,project-serum,anchor,https://github.com/project-serum/anchor
+2022-01-26,rust,3026,25,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2022-01-26,rust,1658,2,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-01-26,rust,62744,48,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-01-26,rust,6318,13,Build terminal user interfaces and dashboards using Rust,fdehau,tui-rs,https://github.com/fdehau/tui-rs
+2022-01-26,rust,2238,40,"Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2022-01-26,rust,31848,33,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2022-01-26,rust,1087,14,Create full-fledged APIs for static datasets without writing a single line of code.,roapi,roapi,https://github.com/roapi/roapi
+2022-01-26,rust,4280,13,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-01-26,rust,2659,8,Strongly typed JSON library for Rust,serde-rs,json,https://github.com/serde-rs/json
+2022-01-26,rust,11995,41,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2022-01-26,rust,15569,75,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,appflowy,https://github.com/AppFlowy-IO/appflowy
+2022-01-26,rust,720,7,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2022-01-26,rust,14636,19,Yet another remote desktop software,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-01-26,rust,8327,14,A Rust compiler front-end for IDEs,rust-analyzer,rust-analyzer,https://github.com/rust-analyzer/rust-analyzer
+2022-01-26,rust,8975,7,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-01-26,rust,7686,12,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-01-26,rust,2150,5,A Rust library for the Discord API.,serenity-rs,serenity,https://github.com/serenity-rs/serenity
