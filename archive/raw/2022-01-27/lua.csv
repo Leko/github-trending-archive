@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-27,lua,9816,7,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-01-27,lua,366,4,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2022-01-27,lua,14,0,Garage System Used With QB-Core,qbcore-framework,qb-garages,https://github.com/qbcore-framework/qb-garages
+2022-01-27,lua,3708,9,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-01-27,lua,283,3,Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!,beauwilliams,focus.nvim,https://github.com/beauwilliams/focus.nvim
+2022-01-27,lua,243,4,FS22 version of the AutoDrive mod,Stephan-S,FS22_AutoDrive,https://github.com/Stephan-S/FS22_AutoDrive
+2022-01-27,lua,4701,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-01-27,lua,162,1,"A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim",renerocksai,telekasten.nvim,https://github.com/renerocksai/telekasten.nvim
+2022-01-27,lua,20,3,DCS UH-60L Mod release repository,Kinkkujuustovoileipa,uh-60l,https://github.com/Kinkkujuustovoileipa/uh-60l
+2022-01-27,lua,31097,6,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-01-27,lua,912,1,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2022-01-27,lua,656,4,The Refactoring library based off the Refactoring book by Martin Fowler,ThePrimeagen,refactoring.nvim,https://github.com/ThePrimeagen/refactoring.nvim
+2022-01-27,lua,2065,7,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-01-27,lua,946,5,Companion plugin for nvim-lspconfig that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!,williamboman,nvim-lsp-installer,https://github.com/williamboman/nvim-lsp-installer
+2022-01-27,lua,1138,3,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2022-01-27,lua,19,1,,GreenComfyTea,monster-hunter-rise-overlay,https://github.com/GreenComfyTea/monster-hunter-rise-overlay
+2022-01-27,lua,101,1,A highly configurable neovim startup screen,startup-nvim,startup.nvim,https://github.com/startup-nvim/startup.nvim
+2022-01-27,lua,60,0,Feedbacks & suggestion are very appreciated on ETHOS of FrSky,FrSkyRC,ETHOS-Feedback-Community,https://github.com/FrSkyRC/ETHOS-Feedback-Community
+2022-01-27,lua,103,0,"The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow",CRAG666,code_runner.nvim,https://github.com/CRAG666/code_runner.nvim
+2022-01-27,lua,453,1,Rainbow parentheses for neovim using tree-sitter,p00f,nvim-ts-rainbow,https://github.com/p00f/nvim-ts-rainbow
+2022-01-27,lua,105,2,"A simple, minimal highlighter plugin for neovim",ThemerCorp,themer.lua,https://github.com/ThemerCorp/themer.lua
+2022-01-27,lua,93,0,Base framework offering a Lua scriptable environment for creating document readers,koreader,koreader-base,https://github.com/koreader/koreader-base
+2022-01-27,lua,35,0,"Zoom-in Like a Boss, How? Layout-Preserving Zoomer weighing in",nyngwang,NeoZoom.lua,https://github.com/nyngwang/NeoZoom.lua
+2022-01-27,lua,1,0,Buy racing goods,zUnknownDev,Unknown-BuyItems,https://github.com/zUnknownDev/Unknown-BuyItems
+2022-01-27,lua,2106,7,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
