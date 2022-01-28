@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-28,go,4697,783,"An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.",IBAX-io,go-ibax,https://github.com/IBAX-io/go-ibax
+2022-01-28,go,861,177,"Thin PostgreSQL clones. DLE provides blazing fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.",postgres-ai,database-lab-engine,https://github.com/postgres-ai/database-lab-engine
+2022-01-28,go,3799,23,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2022-01-28,go,945,127,A database toolkit,ariga,atlas,https://github.com/ariga/atlas
+2022-01-28,go,40750,98,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-01-28,go,2248,6,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-01-28,go,62081,14,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-01-28,go,12118,31,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-01-28,go,5350,10,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-01-28,go,11093,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-01-28,go,18994,19,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2022-01-28,go,1916,2,protoc plugin to generate polyglot message validators,envoyproxy,protoc-gen-validate,https://github.com/envoyproxy/protoc-gen-validate
+2022-01-28,go,6568,5,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-01-28,go,84890,53,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-01-28,go,1580,6,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2022-01-28,go,10192,21,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-01-28,go,12387,11,Easy and Repeatable Kubernetes Development,GoogleContainerTools,skaffold,https://github.com/GoogleContainerTools/skaffold
+2022-01-28,go,1682,112,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2022-01-28,go,1049,1,Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.,tharsis,evmos,https://github.com/tharsis/evmos
+2022-01-28,go,8306,159,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-01-28,go,4117,0,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2022-01-28,go,14766,11,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-01-28,go,10927,15,"Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops",gravitational,teleport,https://github.com/gravitational/teleport
+2022-01-28,go,8004,3,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2022-01-28,go,1772,8,"Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
