@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-29,shell,4767,2,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-01-29,shell,11305,5,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-01-29,shell,2869,6,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-01-29,shell,7560,6,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-01-29,shell,25215,15,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2022-01-29,shell,7217,7,OpenVPN server in a Docker container complete with an EasyRSA PKI CA,kylemanna,docker-openvpn,https://github.com/kylemanna/docker-openvpn
+2022-01-29,shell,486,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2022-01-29,shell,3860,3,a Docker + Kubernetes network trouble-shooting swiss-army container,nicolaka,netshoot,https://github.com/nicolaka/netshoot
+2022-01-29,shell,2045,4,A collection of things I have made to make the Unifi Dream Machine more useful,boostchicken-dev,udm-utilities,https://github.com/boostchicken-dev/udm-utilities
+2022-01-29,shell,9770,4,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2022-01-29,shell,14,0,Modified OTA for PEX (FanEdition),PixelExtended,OTA,https://github.com/PixelExtended/OTA
+2022-01-29,shell,4177,1,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2022-01-29,shell,1687,3,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2022-01-29,shell,1567,0,[MIRROR] Official Gentoo ebuild repository,gentoo,gentoo,https://github.com/gentoo/gentoo
+2022-01-29,shell,914,3,Guia rápido do WSL2 + Docker,codeedu,wsl2-docker-quickstart,https://github.com/codeedu/wsl2-docker-quickstart
+2022-01-29,shell,5298,1,letsencrypt/acme client implemented as a shell-script – just add water,dehydrated-io,dehydrated,https://github.com/dehydrated-io/dehydrated
+2022-01-29,shell,12559,8,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2022-01-29,shell,4713,3,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2022-01-29,shell,8293,1,"Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",spinnaker,spinnaker,https://github.com/spinnaker/spinnaker
+2022-01-29,shell,1056,2,Kubernetes playground,justmeandopensource,kubernetes,https://github.com/justmeandopensource/kubernetes
+2022-01-29,shell,11281,3,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2022-01-29,shell,54973,30,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-01-29,shell,1587,2,Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite resources as well and help others in their journey of learning.,zero-to-mastery,resources,https://github.com/zero-to-mastery/resources
+2022-01-29,shell,10318,7,"A collection of ZSH frameworks, plugins, themes and tutorials.",unixorn,awesome-zsh-plugins,https://github.com/unixorn/awesome-zsh-plugins
+2022-01-29,shell,668,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public

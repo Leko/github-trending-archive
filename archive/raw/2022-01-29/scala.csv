@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-29,scala,12011,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-01-29,scala,10612,2,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-01-29,scala,3101,3,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-01-29,scala,3195,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-01-29,scala,3991,2,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-01-29,scala,2596,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-01-29,scala,2365,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-01-29,scala,1231,0,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2022-01-29,scala,1426,1,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-01-29,scala,8159,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-01-29,scala,5418,0,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-01-29,scala,8314,4,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-01-29,scala,2,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-01-29,scala,182,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-01-29,scala,31942,11,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-01-29,scala,89,1,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2022-01-29,scala,1823,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-01-29,scala,179,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-01-29,scala,16850,2,"Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",prisma,prisma1,https://github.com/prisma/prisma1
+2022-01-29,scala,126,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-01-29,scala,169,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2022-01-29,scala,2087,2,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-01-29,scala,413,0,A scala library to write Http apps.,dream11,zio-http,https://github.com/dream11/zio-http
+2022-01-29,scala,457,2,Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes,FasterXML,jackson-module-scala,https://github.com/FasterXML/jackson-module-scala
+2022-01-29,scala,22,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam

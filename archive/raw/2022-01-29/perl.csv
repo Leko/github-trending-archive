@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-29,perl,657,2,一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）,Oreomeow,checkinpanel,https://github.com/Oreomeow/checkinpanel
+2022-01-29,perl,1586,3,Client for PPP+SSL VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
+2022-01-29,perl,12469,6,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2022-01-29,perl,100,0,"OBS build script, can be used with OBS or stand alone",openSUSE,obs-build,https://github.com/openSUSE/obs-build
+2022-01-29,perl,13377,6,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2022-01-29,perl,2274,2,"Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is",imapsync,imapsync,https://github.com/imapsync/imapsync
+2022-01-29,perl,214,0,FusionInventory Agent,fusioninventory,fusioninventory-agent,https://github.com/fusioninventory/fusioninventory-agent
+2022-01-29,perl,190,0,Spec and test data for the MaxMind DB file format,maxmind,MaxMind-DB,https://github.com/maxmind/MaxMind-DB
+2022-01-29,perl,7353,3,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
+2022-01-29,perl,214,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2022-01-29,perl,264,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2022-01-29,perl,615,0,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2022-01-29,perl,1270,0,The Perl programming language,Perl,perl5,https://github.com/Perl/perl5
+2022-01-29,perl,0,0,,perlancar,perl-App-HasPrereqs,https://github.com/perlancar/perl-App-HasPrereqs
+2022-01-29,perl,533,0,Rapid prokaryotic genome annotation,tseemann,prokka,https://github.com/tseemann/prokka
+2022-01-29,perl,198,0,GNU Fortran (and GCC) compilers for macOS,fxcoudert,gfortran-for-macOS,https://github.com/fxcoudert/gfortran-for-macOS
+2022-01-29,perl,5438,6,Nikto web server scanner,sullo,nikto,https://github.com/sullo/nikto
+2022-01-29,perl,306,0,"A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",FelixKrueger,TrimGalore,https://github.com/FelixKrueger/TrimGalore
+2022-01-29,perl,712,1,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2022-01-29,perl,2310,0,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),SpiderLabs,owasp-modsecurity-crs,https://github.com/SpiderLabs/owasp-modsecurity-crs
+2022-01-29,perl,25,0,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2022-01-29,perl,949,0,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
+2022-01-29,perl,361,0,Extended information (especially license and layer details) about the published Official Images,docker-library,repo-info,https://github.com/docker-library/repo-info
+2022-01-29,perl,803,0,"((OTRS)) Community Edition is one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. Please note that ((OTRS)) Community Edition offers limited OTRS functionality.",OTRS,otrs,https://github.com/OTRS/otrs
+2022-01-29,perl,32,0,Ce logiciel permet de contrôler le respect des normes des fichiers d'écritures comptables (FEC) conformément aux dispositions de l'article A.47 A-1 du livre des procédures fiscales.,DGFiP,Test-Compta-Demat,https://github.com/DGFiP/Test-Compta-Demat

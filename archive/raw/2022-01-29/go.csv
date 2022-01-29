@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-29,go,5228,653,"An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.",IBAX-io,go-ibax,https://github.com/IBAX-io/go-ibax
+2022-01-29,go,4443,45,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2022-01-29,go,6630,20,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-01-29,go,23267,33,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2022-01-29,go,4960,11,yq is a portable command-line YAML processor,mikefarah,yq,https://github.com/mikefarah/yq
+2022-01-29,go,6769,8,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2022-01-29,go,94850,49,The Go programming language,golang,go,https://github.com/golang/go
+2022-01-29,go,10216,26,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-01-29,go,15323,22,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-01-29,go,242,53,a file-sharing tool that allows you to find the responsible person in case of a leakage,utkusen,wholeaked,https://github.com/utkusen/wholeaked
+2022-01-29,go,1843,161,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2022-01-29,go,4035,8,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2022-01-29,go,161,10,go-zero实战：让微服务Go起来,nivin-studio,go-zero-mall,https://github.com/nivin-studio/go-zero-mall
+2022-01-29,go,3021,19,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2022-01-29,go,789,3,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2022-01-29,go,4868,31,Cloud cost estimates for Terraform in pull requests Love your cloud bill!,infracost,infracost,https://github.com/infracost/infracost
+2022-01-29,go,9834,17,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",FiloSottile,age,https://github.com/FiloSottile/age
+2022-01-29,go,14773,11,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-01-29,go,7521,17,live video streaming server in golang,gwuhaolin,livego,https://github.com/gwuhaolin/livego
+2022-01-29,go,31303,62,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
+2022-01-29,go,5832,18,Fast and secure standalone server for resizing and converting remote images,imgproxy,imgproxy,https://github.com/imgproxy/imgproxy
+2022-01-29,go,1000,147,"Thin PostgreSQL clones. DLE provides blazing fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.",postgres-ai,database-lab-engine,https://github.com/postgres-ai/database-lab-engine
+2022-01-29,go,11103,12,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-01-29,go,62087,17,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-01-29,go,9528,23,Deliver Go binaries as fast and easily as possible,goreleaser,goreleaser,https://github.com/goreleaser/goreleaser
