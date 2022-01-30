@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-30,go,4494,75,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2022-01-30,go,11109,7,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-01-30,go,8043,4,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2022-01-30,go,84957,38,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-01-30,go,9538,10,Deliver Go binaries as fast and easily as possible,goreleaser,goreleaser,https://github.com/goreleaser/goreleaser
+2022-01-30,go,77,3,The server for Ratel.,ratel-online,server,https://github.com/ratel-online/server
+2022-01-30,go,23288,23,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2022-01-30,go,31331,31,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
+2022-01-30,go,9325,12,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2022-01-30,go,6361,8,OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-01-30,go,3214,3,The Docker CLI,docker,cli,https://github.com/docker/cli
+2022-01-30,go,2009,9,"MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.",minio,mc,https://github.com/minio/mc
+2022-01-30,go,7347,1,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-01-30,go,164,4,go-zero实战：让微服务Go起来,nivin-studio,go-zero-mall,https://github.com/nivin-studio/go-zero-mall
+2022-01-30,go,10954,10,"Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops",gravitational,teleport,https://github.com/gravitational/teleport
+2022-01-30,go,3758,6,"Golang client for NATS, the cloud native messaging system.",nats-io,nats.go,https://github.com/nats-io/nats.go
+2022-01-30,go,3050,11,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2022-01-30,go,12792,5,IPFS implementation in Go,ipfs,go-ipfs,https://github.com/ipfs/go-ipfs
+2022-01-30,go,3042,21,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2022-01-30,go,24995,16,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-01-30,go,23095,15,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-01-30,go,17332,8,Native GraphQL Database with graph backend,dgraph-io,dgraph,https://github.com/dgraph-io/dgraph
+2022-01-30,go,1958,2,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2022-01-30,go,5844,12,Fast and secure standalone server for resizing and converting remote images,imgproxy,imgproxy,https://github.com/imgproxy/imgproxy
+2022-01-30,go,4596,6,Your Universal Control Plane,crossplane,crossplane,https://github.com/crossplane/crossplane

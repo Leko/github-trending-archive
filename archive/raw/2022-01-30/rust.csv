@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-30,rust,7533,83,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2022-01-30,rust,7021,106,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2022-01-30,rust,21101,37,"Powerful, fast, and an easy to use search engine",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-01-30,rust,11318,17,The leading WebAssembly Runtime supporting WASI and Emscripten,wasmerio,wasmer,https://github.com/wasmerio/wasmer
+2022-01-30,rust,16394,21,A modern replacement for ‘ls’.,ogham,exa,https://github.com/ogham/exa
+2022-01-30,rust,18901,26,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2022-01-30,rust,23961,26,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2022-01-30,rust,4281,5,GraphQL server library for Rust,graphql-rust,juniper,https://github.com/graphql-rust/juniper
+2022-01-30,rust,7188,12,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-01-30,rust,3741,12,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2022-01-30,rust,29165,21,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2022-01-30,rust,611,2,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
+2022-01-30,rust,6940,12,The next gen ls command,Peltoche,lsd,https://github.com/Peltoche/lsd
+2022-01-30,rust,5635,12,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2022-01-30,rust,3537,8,Fly through your shell history. Great Scott!,cantino,mcfly,https://github.com/cantino/mcfly
+2022-01-30,rust,3183,14,A container runtime written in Rust,containers,youki,https://github.com/containers/youki
+2022-01-30,rust,3591,6,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2022-01-30,rust,9037,16,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-01-30,rust,31941,24,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2022-01-30,rust,328,1,The Metaplex NFT-standard Swiss Army Knife tool.,samuelvanderwaal,metaboss,https://github.com/samuelvanderwaal/metaboss
+2022-01-30,rust,3596,8,"Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",vi,websocat,https://github.com/vi/websocat
+2022-01-30,rust,6685,11,"Standalone JIT-style runtime for WebAssembly, using Cranelift",bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-01-30,rust,14741,15,Yet another remote desktop software,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-01-30,rust,6557,16,A new way to see and navigate directory trees : https://dystroy.org/broot,Canop,broot,https://github.com/Canop/broot
+2022-01-30,rust,16329,2,Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.,diem,diem,https://github.com/diem/diem

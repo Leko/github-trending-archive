@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-01-30,haskell,25318,11,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-01-30,haskell,1223,2,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-01-30,haskell,6446,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-01-30,haskell,1322,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-01-30,haskell,1919,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-01-30,haskell,160,1,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-01-30,haskell,2306,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-01-30,haskell,27638,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-01-30,haskell,607,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-01-30,haskell,18277,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-01-30,haskell,24595,7,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-01-30,haskell,91,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-01-30,haskell,2505,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-01-30,haskell,502,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-01-30,haskell,0,0,,MaryHal,dotfiles,https://github.com/MaryHal/dotfiles
+2022-01-30,haskell,445,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2022-01-30,haskell,999,1,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-01-30,haskell,3663,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-01-30,haskell,7538,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-01-30,haskell,0,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-01-30,haskell,1919,2,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-01-30,haskell,0,0,My gatech.edu/~user web site,Tarrasch,gawebsite,https://github.com/Tarrasch/gawebsite
+2022-01-30,haskell,1222,1,,input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2022-01-30,haskell,177,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-01-30,haskell,3,0,Networking library for Windows,input-output-hk,Win32-network,https://github.com/input-output-hk/Win32-network
