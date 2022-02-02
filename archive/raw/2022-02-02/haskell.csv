@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-02,haskell,25351,17,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-02-02,haskell,1928,4,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-02-02,haskell,161,1,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-02-02,haskell,2510,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-02-02,haskell,1237,7,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-02-02,haskell,7540,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-02-02,haskell,0,0,Some of my hackerrank solutions,Pascal-So,hackerrank-solutions,https://github.com/Pascal-So/hackerrank-solutions
+2022-02-02,haskell,1007,1,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-02-02,haskell,1929,4,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-02-02,haskell,24626,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-02-02,haskell,6450,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-02-02,haskell,2161,3,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
+2022-02-02,haskell,8234,0,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-02-02,haskell,27674,17,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-02-02,haskell,2958,3,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-02-02,haskell,906,0,How to learn front-end or back-end development,fullstack-development,developers-roadmap,https://github.com/fullstack-development/developers-roadmap
+2022-02-02,haskell,982,2,Ethereum smart contract fuzzer,crytic,echidna,https://github.com/crytic/echidna
+2022-02-02,haskell,1333,8,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-02-02,haskell,91,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-02-02,haskell,503,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-02-02,haskell,608,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-02-02,haskell,1925,2,"A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-02-02,haskell,1226,2,,input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2022-02-02,haskell,3,0,Turn Parsec type into instance of invertible-syntax-poly.,khibino,haskell-invertible-syntax-parsec,https://github.com/khibino/haskell-invertible-syntax-parsec
+2022-02-02,haskell,1512,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
