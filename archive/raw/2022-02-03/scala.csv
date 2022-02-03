@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-03,scala,3200,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-02-03,scala,4459,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-02-03,scala,2602,3,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-02-03,scala,4003,4,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-02-03,scala,8326,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-02-03,scala,2196,1,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-02-03,scala,953,0,A bot that helps you keep your Scala projects up-to-date,scala-steward-org,scala-steward,https://github.com/scala-steward-org/scala-steward
+2022-02-03,scala,660,1,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2022-02-03,scala,4085,0,Your favorite language gets closer to bare metal.,scala-native,scala-native,https://github.com/scala-native/scala-native
+2022-02-03,scala,2096,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-02-03,scala,5423,3,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-02-03,scala,126,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-02-03,scala,5974,1,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-02-03,scala,1853,1,Pure Scala Artifact Fetching,coursier,coursier,https://github.com/coursier/coursier
+2022-02-03,scala,179,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-02-03,scala,4593,0,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-02-03,scala,292,1,"This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language",spark-examples,spark-scala-examples,https://github.com/spark-examples/spark-scala-examples
+2022-02-03,scala,1932,0,Functional JDBC layer for Scala.,tpolecat,doobie,https://github.com/tpolecat/doobie
+2022-02-03,scala,2374,4,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-02-03,scala,1814,0,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-02-03,scala,9,0,Jribble library,scalagwt,scalagwt-jribble,https://github.com/scalagwt/scalagwt-jribble
+2022-02-03,scala,1432,2,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-02-03,scala,2,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-02-03,scala,4877,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-02-03,scala,10820,7,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
