@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-04,go,1033,5,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-02-04,go,4926,5,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-02-04,go,1355,7,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2022-02-04,go,7988,11,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-02-04,go,1419,4,CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP,Versent,saml2aws,https://github.com/Versent/saml2aws
+2022-02-04,go,2384,8,Security Scorecards - Security health metrics for Open Source,ossf,scorecard,https://github.com/ossf/scorecard
+2022-02-04,go,5751,5,Lightning Network Daemon,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2022-02-04,go,903,6,"VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",vmware-tanzu,community-edition,https://github.com/vmware-tanzu/community-edition
+2022-02-04,go,3629,5,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2022-02-04,go,10570,1,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-02-04,go,8338,56,"Algorithms implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2022-02-04,go,6837,5,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-02-04,go,9738,12,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2022-02-04,go,5989,3,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2022-02-04,go,5793,9,A vault for securely storing and accessing AWS credentials in development environments,99designs,aws-vault,https://github.com/99designs/aws-vault
+2022-02-04,go,3097,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-02-04,go,10359,14,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2022-02-04,go,2300,6,Gatekeeper - Policy Controller for Kubernetes,open-policy-agent,gatekeeper,https://github.com/open-policy-agent/gatekeeper
+2022-02-04,go,1213,3,Platform for building access networks and modular network services,magma,magma,https://github.com/magma/magma
+2022-02-04,go,4758,11,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2022-02-04,go,3543,21,A new way of working with Protocol Buffers.,bufbuild,buf,https://github.com/bufbuild/buf
+2022-02-04,go,4915,10,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2022-02-04,go,2250,58,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2022-02-04,go,6074,6,DNS library in Go,miekg,dns,https://github.com/miekg/dns
+2022-02-04,go,9977,8,Git extension for versioning large files,git-lfs,git-lfs,https://github.com/git-lfs/git-lfs

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-04,rust,1726,468,"A massively parallel, optimal functional runtime in Rust",Kindelia,HVM,https://github.com/Kindelia/HVM
+2022-02-04,rust,2017,57,A simple drawing application to create handwritten notes.,flxzt,rnote,https://github.com/flxzt/rnote
+2022-02-04,rust,13125,15,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",actix,actix-web,https://github.com/actix/actix-web
+2022-02-04,rust,17244,21,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2022-02-04,rust,13329,21,"x86 virtualization in your browser, recompiling x86 to wasm on the fly",copy,v86,https://github.com/copy/v86
+2022-02-04,rust,122,23,A little book about Rust with some basic data structures and algorithms.,QMHTMY,RustBook,https://github.com/QMHTMY/RustBook
+2022-02-04,rust,1610,6,Apache Arrow DataFusion and Ballista query engines,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-02-04,rust,6151,16,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2022-02-04,rust,7791,5,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2022-02-04,rust,12281,5,Cube — Open-Source Analytics API for Building Data Apps,cube-js,cube.js,https://github.com/cube-js/cube.js
+2022-02-04,rust,1891,13,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2022-02-04,rust,5326,13,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-02-04,rust,32149,50,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2022-02-04,rust,87,7,A Rust implementation of the Realworld demo app spec using Axum and SQLx.,launchbadge,realworld-axum-sqlx,https://github.com/launchbadge/realworld-axum-sqlx
+2022-02-04,rust,3553,8,Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.,MaterializeInc,materialize,https://github.com/MaterializeInc/materialize
+2022-02-04,rust,14826,13,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-02-04,rust,16178,8,A web framework for Rust.,SergioBenitez,Rocket,https://github.com/SergioBenitez/Rocket
+2022-02-04,rust,1466,5,Rust Ethereum 2.0 Client,sigp,lighthouse,https://github.com/sigp/lighthouse
+2022-02-04,rust,9343,5,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2022-02-04,rust,1692,45,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-02-04,rust,5838,4,A spotify daemon,Spotifyd,spotifyd,https://github.com/Spotifyd/spotifyd
+2022-02-04,rust,3394,9,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-02-04,rust,160,16,A web service offering HTML5 articles from arXiv.org as converted with latexml,dginev,ar5iv,https://github.com/dginev/ar5iv
+2022-02-04,rust,13968,27,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-02-04,rust,2626,14,Kubernetes Rust Kubelet,krustlet,krustlet,https://github.com/krustlet/krustlet
