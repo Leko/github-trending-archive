@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-05,scala,3206,3,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-02-05,scala,3118,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-02-05,scala,1820,3,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-02-05,scala,5975,0,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-02-05,scala,39,1,,rockthejvm,udemy-scala-beginners,https://github.com/rockthejvm/udemy-scala-beginners
+2022-02-05,scala,902,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-02-05,scala,2441,3,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-02-05,scala,4009,3,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-02-05,scala,2380,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-02-05,scala,5595,1,The Guardian DotCom.,guardian,frontend,https://github.com/guardian/frontend
+2022-02-05,scala,4879,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-02-05,scala,750,1,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-02-05,scala,5427,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-02-05,scala,8160,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-02-05,scala,8331,2,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-02-05,scala,43,5,"Qbeast-spark: DataSource enabling multi-dimensional indexing and efficient data sampling. Big Data, free from the unnecessary!",Qbeast-io,qbeast-spark,https://github.com/Qbeast-io/qbeast-spark
+2022-02-05,scala,31987,13,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-02-05,scala,12023,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-02-05,scala,7,0,"Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 0.9+ native Java API)",HariSekhon,Nagios-Plugin-Kafka,https://github.com/HariSekhon/Nagios-Plugin-Kafka
+2022-02-05,scala,2196,0,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-02-05,scala,127,1,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-02-05,scala,2501,2,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-02-05,scala,0,0,"Scala Project for Harvard Extension course CSCI-E88C, Spring, 2022",esumitra,2022-spring-cscie88c,https://github.com/esumitra/2022-spring-cscie88c
+2022-02-05,scala,521,4,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-02-05,scala,1825,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector

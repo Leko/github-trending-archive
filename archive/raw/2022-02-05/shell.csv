@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-05,shell,57,18,,cosmic-horizon,testnets,https://github.com/cosmic-horizon/testnets
+2022-02-05,shell,55182,25,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-02-05,shell,11372,4,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-02-05,shell,2880,3,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-02-05,shell,4582,10,（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2022-02-05,shell,492,1,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2022-02-05,shell,4792,1,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-02-05,shell,13940,5,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2022-02-05,shell,140242,54,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-02-05,shell,25270,13,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2022-02-05,shell,4112,0,Documentation for Docker Official Images in docker-library,docker-library,docs,https://github.com/docker-library/docs
+2022-02-05,shell,210,15,最稳定的ETH代理中转程序，已修改降低作者抽水；纯中转模式无任何抽水；支持SSL、自有证书；包含自启动和进程守护！放开防火墙和连接数限制，一键搞定。 挂一个冒充原作者的垃圾：qq1694202骗子一个,minerproxyeth,minerproxy,https://github.com/minerproxyeth/minerproxy
+2022-02-05,shell,183,0,A Java plugin for asdf-vm.,halcyon,asdf-java,https://github.com/halcyon/asdf-java
+2022-02-05,shell,15397,3,"GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",tj,git-extras,https://github.com/tj/git-extras
+2022-02-05,shell,2088,11,A collection of things I have made to make the Unifi Dream Machine more useful,boostchicken-dev,udm-utilities,https://github.com/boostchicken-dev/udm-utilities
+2022-02-05,shell,143,1,,deconz-community,deconz-docker,https://github.com/deconz-community/deconz-docker
+2022-02-05,shell,1518,9,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-02-05,shell,337,5,"Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",kubernetes,k8s.io,https://github.com/kubernetes/k8s.io
+2022-02-05,shell,13043,6,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-02-05,shell,14996,14,binary releases of VS Code without MS branding/telemetry/licensing,VSCodium,vscodium,https://github.com/VSCodium/vscodium
+2022-02-05,shell,34822,10,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2022-02-05,shell,17299,2,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-02-05,shell,10344,3,"A collection of ZSH frameworks, plugins, themes and tutorials.",unixorn,awesome-zsh-plugins,https://github.com/unixorn/awesome-zsh-plugins
+2022-02-05,shell,2976,5,Lightweight justice for your single-board computer!,MichaIng,DietPi,https://github.com/MichaIng/DietPi
+2022-02-05,shell,9878,1,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples

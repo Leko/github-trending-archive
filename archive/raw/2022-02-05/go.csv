@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-05,go,8179,64,Go library for accessing the GitHub API,google,go-github,https://github.com/google/go-github
+2022-02-05,go,22847,161,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-02-05,go,4390,8,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2022-02-05,go,14830,8,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-02-05,go,9521,14,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2022-02-05,go,491,17,A selfbot written in GO to demonstrate how rule-violators spam Discord Users and launch large unsolicited DM Advertisement Campaigns,V4NSH4J,discord-mass-DM-GO,https://github.com/V4NSH4J/discord-mass-DM-GO
+2022-02-05,go,2305,5,Gatekeeper - Policy Controller for Kubernetes,open-policy-agent,gatekeeper,https://github.com/open-policy-agent/gatekeeper
+2022-02-05,go,2742,6,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-02-05,go,857,1,The Optimism monorepo,ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-02-05,go,6772,43,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2022-02-05,go,906,3,"VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",vmware-tanzu,community-edition,https://github.com/vmware-tanzu/community-edition
+2022-02-05,go,1359,4,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2022-02-05,go,8462,9,Vulnerability Static Analysis for Containers,quay,clair,https://github.com/quay/clair
+2022-02-05,go,2420,8,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity. https://karpenter.sh",aws,karpenter,https://github.com/aws/karpenter
+2022-02-05,go,31107,10,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-02-05,go,2711,4,(Golang) Go bindings for Discord,bwmarrin,discordgo,https://github.com/bwmarrin/discordgo
+2022-02-05,go,2935,4,"trojan多用户管理部署程序, 支持web页面管理",Jrohy,trojan,https://github.com/Jrohy/trojan
+2022-02-05,go,3354,5,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,google,uuid,https://github.com/google/uuid
+2022-02-05,go,13003,6,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2022-02-05,go,5565,3,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2022-02-05,go,2947,4,"Privacy and Security focused Segment-alternative, in Golang and React",rudderlabs,rudder-server,https://github.com/rudderlabs/rudder-server
+2022-02-05,go,1254,15,Examples for  Fiber,gofiber,recipes,https://github.com/gofiber/recipes
+2022-02-05,go,1420,1,CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP,Versent,saml2aws,https://github.com/Versent/saml2aws
+2022-02-05,go,4932,6,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-02-05,go,4933,18,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
