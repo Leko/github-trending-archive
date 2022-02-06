@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-06,lua,477,177,AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,kabinspace,AstroVim,https://github.com/kabinspace/AstroVim
+2022-02-06,lua,1851,5,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2022-02-06,lua,896,5,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-02-06,lua,2150,7,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-02-06,lua,1287,4,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2022-02-06,lua,467,0,Soothing pastel theme for NeoVim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2022-02-06,lua,1139,3,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2022-02-06,lua,660,3,"// Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",numToStr,Comment.nvim,https://github.com/numToStr/Comment.nvim
+2022-02-06,lua,3787,6,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-02-06,lua,263,2,FS22 version of the AutoDrive mod,Stephan-S,FS22_AutoDrive,https://github.com/Stephan-S/FS22_AutoDrive
+2022-02-06,lua,791,2,"A small, documented, and featureful neovim starter config",nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2022-02-06,lua,1957,5,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2022-02-06,lua,398,1,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2022-02-06,lua,130,1,"FS22. Farming Simulator 22. LS22. Landwirtschafts Simulator 22. Track assistant, parking brake, differential locks, wheel drive modes and better hydraulics controls for your vehicle. Shows more vehicle details on HUD.",ZhooL,FS22_EnhancedVehicle,https://github.com/ZhooL/FS22_EnhancedVehicle
+2022-02-06,lua,2373,4,Advanced vulnerability scanning with Nmap NSE,scipag,vulscan,https://github.com/scipag/vulscan
+2022-02-06,lua,721,4,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-02-06,lua,17,1,"Ambulance Job, Hospital System & Death System For QB-Core",qbcore-framework,qb-ambulancejob,https://github.com/qbcore-framework/qb-ambulancejob
+2022-02-06,lua,3,0,QB-Parking Created by MaDHouSe,MaDHouSe79,qb-parking,https://github.com/MaDHouSe79/qb-parking
+2022-02-06,lua,5951,5,Nmap - the Network Mapper. Github mirror of official SVN repository.,nmap,nmap,https://github.com/nmap/nmap
+2022-02-06,lua,1235,3,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2022-02-06,lua,329,4,"CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a  COSMIC programming experience!",CosmicNvim,CosmicNvim,https://github.com/CosmicNvim/CosmicNvim
+2022-02-06,lua,4817,11,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-02-06,lua,447,1,lua `fork` of vim-web-devicons for neovim,kyazdani42,nvim-web-devicons,https://github.com/kyazdani42/nvim-web-devicons
+2022-02-06,lua,1171,6,Lua Language Server coded by Lua,sumneko,lua-language-server,https://github.com/sumneko/lua-language-server
+2022-02-06,lua,1282,14,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-06,go,7353,71,Yet another Yogurt - An AUR Helper written in Go,Jguer,yay,https://github.com/Jguer/yay
+2022-02-06,go,2065,29,"Implementation of the Filecoin protocol, written in Go",filecoin-project,lotus,https://github.com/filecoin-project/lotus
+2022-02-06,go,4394,6,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2022-02-06,go,15599,13,Cross platform GUI in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2022-02-06,go,2748,7,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-02-06,go,8223,44,Go library for accessing the GitHub API,google,go-github,https://github.com/google/go-github
+2022-02-06,go,22967,124,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-02-06,go,2247,9,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2022-02-06,go,74871,60,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-02-06,go,4275,12,A prompt theme engine for any shell.,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2022-02-06,go,6812,42,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2022-02-06,go,1340,3,Event-driven workflow automation framework,argoproj,argo-events,https://github.com/argoproj/argo-events
+2022-02-06,go,12269,4,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
+2022-02-06,go,8405,7,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2022-02-06,go,5864,7,[mirror] Go Tools,golang,tools,https://github.com/golang/tools
+2022-02-06,go,2271,7,"Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",CrunchyData,postgres-operator,https://github.com/CrunchyData/postgres-operator
+2022-02-06,go,1363,4,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2022-02-06,go,5550,11,Take control over your live stream video by running it yourself. Streaming + chat out of the box.,owncast,owncast,https://github.com/owncast/owncast
+2022-02-06,go,10361,8,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-02-06,go,18054,22,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-02-06,go,6695,6,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-02-06,go,41910,16,A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2022-02-06,go,2954,7,"Privacy and Security focused Segment-alternative, in Golang and React",rudderlabs,rudder-server,https://github.com/rudderlabs/rudder-server
+2022-02-06,go,4432,4,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2022-02-06,go,1299,31,A POSIX-compliant AWK interpreter written in Go,benhoyt,goawk,https://github.com/benhoyt/goawk

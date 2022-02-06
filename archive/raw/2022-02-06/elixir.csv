@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-06,elixir,356,66,"Midarr, the next-generation media server.",midarrlabs,midarr-server,https://github.com/midarrlabs/midarr-server
+2022-02-06,elixir,384,44,,fly-apps,live_beats,https://github.com/fly-apps/live_beats
+2022-02-06,elixir,19767,7,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2022-02-06,elixir,4348,1,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2022-02-06,elixir,10087,7,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2022-02-06,elixir,17601,3,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2022-02-06,elixir,4197,3,A static code analysis tool for the Elixir language with a focus on code consistency and teaching.,rrrene,credo,https://github.com/rrrene/credo
+2022-02-06,elixir,1075,1,Writing Fast Elixir  -- Collect Common Elixir idioms.,devonestes,fast-elixir,https://github.com/devonestes/fast-elixir
+2022-02-06,elixir,5342,1,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2022-02-06,elixir,2865,1,Simplify deployments in Elixir with OTP releases!,bitwalker,distillery,https://github.com/bitwalker/distillery
+2022-02-06,elixir,4679,3,Open-source live customer chat,papercups-io,papercups,https://github.com/papercups-io/papercups
+2022-02-06,elixir,11149,3,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",h4cc,awesome-elixir,https://github.com/h4cc/awesome-elixir
+2022-02-06,elixir,2467,0,A specification and conveniences for composable modules between web applications,elixir-plug,plug,https://github.com/elixir-plug/plug
+2022-02-06,elixir,369,1,Prometheus.io Elixir client,deadtrickster,prometheus.ex,https://github.com/deadtrickster/prometheus.ex
+2022-02-06,elixir,1165,0,A merge bot for GitHub Pull Requests,bors-ng,bors-ng,https://github.com/bors-ng/bors-ng
+2022-02-06,elixir,978,1,An Elixir implementation of gRPC,elixir-grpc,grpc,https://github.com/elixir-grpc/grpc
+2022-02-06,elixir,515,0,Kafka client library for Elixir,kafkaex,kafka_ex,https://github.com/kafkaex/kafka_ex
+2022-02-06,elixir,2336,3,A self-hosted data logger for your Tesla,adriankumpf,teslamate,https://github.com/adriankumpf/teslamate
+2022-02-06,elixir,267,2,An installer for tailwind,phoenixframework,tailwind,https://github.com/phoenixframework/tailwind
+2022-02-06,elixir,1560,1,A server-side rendering component library for Phoenix,surface-ui,surface,https://github.com/surface-ui/surface
+2022-02-06,elixir,12,0,The fusion_auth library provides an Elixir API for accessing the FusionAuth Developer APIs.,leo-technologies-llc,fusion_auth,https://github.com/leo-technologies-llc/fusion_auth
+2022-02-06,elixir,398,0,Open API Specifications for Elixir Plug applications,open-api-spex,open_api_spex,https://github.com/open-api-spex/open_api_spex
+2022-02-06,elixir,3911,1,A community driven style guide for Elixir,christopheradams,elixir_style_guide,https://github.com/christopheradams/elixir_style_guide
+2022-02-06,elixir,14,0,An Elixir package for pushing Erlang VM stats into StatsD,fanduel,ex_vmstats,https://github.com/fanduel/ex_vmstats
+2022-02-06,elixir,46,0,JSON-RPC 2.0 for Elixir,fanduel,jsonrpc2-elixir,https://github.com/fanduel/jsonrpc2-elixir
