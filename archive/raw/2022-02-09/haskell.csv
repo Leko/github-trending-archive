@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-09,haskell,6470,6,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-02-09,haskell,25422,17,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-02-09,haskell,1011,5,Ethereum smart contract fuzzer,crytic,echidna,https://github.com/crytic/echidna
+2022-02-09,haskell,27741,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-02-09,haskell,917,1,How to learn front-end or back-end development,fullstack-development,developers-roadmap,https://github.com/fullstack-development/developers-roadmap
+2022-02-09,haskell,18327,10,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-02-09,haskell,1537,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-02-09,haskell,183,1,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-02-09,haskell,24673,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-02-09,haskell,4,0,"Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH",necrobious,hS3,https://github.com/necrobious/hS3
+2022-02-09,haskell,8239,4,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-02-09,haskell,166,2,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-02-09,haskell,1233,1,,input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2022-02-09,haskell,482,3,SimpleX - the most private and secure chat and applications platform - now with double ratchet E2E encryption!,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-02-09,haskell,612,2,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-02-09,haskell,170,0,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
+2022-02-09,haskell,472,1,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
+2022-02-09,haskell,2985,2,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-02-09,haskell,1341,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-02-09,haskell,507,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-02-09,haskell,85,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-02-09,haskell,716,1,A minimalistic status bar,jaor,xmobar,https://github.com/jaor/xmobar
+2022-02-09,haskell,0,0,My gatech.edu/~user web site,Tarrasch,gawebsite,https://github.com/Tarrasch/gawebsite
+2022-02-09,haskell,257,1,"Spiritual successor to neuron, based on Ema.",srid,emanote,https://github.com/srid/emanote
+2022-02-09,haskell,4265,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison

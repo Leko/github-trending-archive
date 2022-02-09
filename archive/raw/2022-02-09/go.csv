@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-09,go,11368,14,基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-02-09,go,16384,11,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-02-09,go,31478,28,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
+2022-02-09,go,2668,28,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-02-09,go,510,10,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2022-02-09,go,18957,8,Photos App powered by Go and Google TensorFlow,photoprism,photoprism,https://github.com/photoprism/photoprism
+2022-02-09,go,8339,20,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-02-09,go,3117,12,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2022-02-09,go,95157,45,The Go programming language,golang,go,https://github.com/golang/go
+2022-02-09,go,18468,11,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-02-09,go,42806,25,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-02-09,go,3605,27,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2022-02-09,go,31160,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-02-09,go,19132,8,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2022-02-09,go,14597,59,Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2022-02-09,go,2132,23,哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。,naiba,nezha,https://github.com/naiba/nezha
+2022-02-09,go,6550,5,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2022-02-09,go,14473,24,go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-02-09,go,215,22,Play Wordle over SSH.,ajeetdsouza,clidle,https://github.com/ajeetdsouza/clidle
+2022-02-09,go,13014,33,"支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2022-02-09,go,7363,1,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-02-09,go,10261,17,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-02-09,go,28215,31,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2022-02-09,go,18538,35,Easily and securely send things from one computer to another,schollz,croc,https://github.com/schollz/croc
+2022-02-09,go,5672,9,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
