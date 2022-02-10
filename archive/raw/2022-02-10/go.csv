@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-10,go,10703,35,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2022-02-10,go,2970,10,Dendrite is a second-generation Matrix homeserver written in Go!,matrix-org,dendrite,https://github.com/matrix-org/dendrite
+2022-02-10,go,14507,38,go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-02-10,go,24253,6,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-02-10,go,23255,27,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2022-02-10,go,11399,32,基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-02-10,go,95202,58,The Go programming language,golang,go,https://github.com/golang/go
+2022-02-10,go,18478,11,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-02-10,go,421,22,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。 go-zero项目地址: https://github.com/zeromicro/go-zero,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2022-02-10,go,4660,21,"A cross-language distributed transaction manager. Support saga, tcc, xa, 2 phases messages. 跨语言分布式事务管理器",dtm-labs,dtm,https://github.com/dtm-labs/dtm
+2022-02-10,go,2141,11,哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。,naiba,nezha,https://github.com/naiba/nezha
+2022-02-10,go,10396,9,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-02-10,go,13460,10,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-02-10,go,16399,19,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-02-10,go,5680,8,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-02-10,go,39615,7,A golang ebook intro how to build a web with golang,astaxie,build-web-application-with-golang,https://github.com/astaxie/build-web-application-with-golang
+2022-02-10,go,19442,23,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2022-02-10,go,28744,16,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2022-02-10,go,3715,4,Deploy Kubernetes Helm Charts,roboll,helmfile,https://github.com/roboll/helmfile
+2022-02-10,go,13821,18,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",chrislusf,seaweedfs,https://github.com/chrislusf/seaweedfs
+2022-02-10,go,23481,38,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-02-10,go,38739,21,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2022-02-10,go,4784,10,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2022-02-10,go,1460,9,Kubernetes controller for GitHub Actions self-hosted runners,actions-runner-controller,actions-runner-controller,https://github.com/actions-runner-controller/actions-runner-controller
+2022-02-10,go,9444,11,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
