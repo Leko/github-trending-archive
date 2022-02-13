@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-13,rust,2272,131,Video stabilization using gyroscope data,gyroflow,gyroflow,https://github.com/gyroflow/gyroflow
+2022-02-13,rust,15286,97,Yet another remote desktop software,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-02-13,rust,2712,38,"Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2022-02-13,rust,3669,42,"“连续六年成为全世界最受喜爱的语言，无GC也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS未来基石"" — 工作之余的第二语言来试试Rust吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的WASM和Deno等专题。这可能是目前最用心的Rust中文学习教程/书籍",sunface,rust-course,https://github.com/sunface/rust-course
+2022-02-13,rust,30962,86,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-02-13,rust,17127,3,"The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",rome,tools,https://github.com/rome/tools
+2022-02-13,rust,3221,28,"Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
+2022-02-13,rust,8616,10,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2022-02-13,rust,17178,7,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2022-02-13,rust,2572,13,"A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",rapiz1,rathole,https://github.com/rapiz1/rathole
+2022-02-13,rust,20334,30,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2022-02-13,rust,10668,3,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2022-02-13,rust,3687,5,A more intuitive version of du in rust,bootandy,dust,https://github.com/bootandy/dust
+2022-02-13,rust,152,11,"Code for Command-Line Rust (O'Reilly, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/",kyclark,command-line-rust,https://github.com/kyclark/command-line-rust
+2022-02-13,rust,592,5,Hidden parameters discovery suite,Sh1Yo,x8,https://github.com/Sh1Yo/x8
+2022-02-13,rust,9137,10,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-02-13,rust,4890,10,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2022-02-13,rust,3025,5,How to minimize Rust binary size,johnthagen,min-sized-rust,https://github.com/johnthagen/min-sized-rust
+2022-02-13,rust,4758,15,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2022-02-13,rust,763,2,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2022-02-13,rust,3241,3,"An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy",datafuselabs,databend,https://github.com/datafuselabs/databend
+2022-02-13,rust,664,14,Elegantly record your screen,SeaDve,Kooha,https://github.com/SeaDve/Kooha
+2022-02-13,rust,3674,9,"Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",vi,websocat,https://github.com/vi/websocat
+2022-02-13,rust,939,1,Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.,signalapp,libsignal-client,https://github.com/signalapp/libsignal-client
+2022-02-13,rust,14231,21,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden

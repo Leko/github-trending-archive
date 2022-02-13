@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-13,shell,17111,56,Home repository for .NET Core,dotnet,core,https://github.com/dotnet/core
+2022-02-13,shell,271,1,这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。,tossp,redpill-tool-chain,https://github.com/tossp/redpill-tool-chain
+2022-02-13,shell,3900,3,a Docker + Kubernetes network trouble-shooting swiss-army container,nicolaka,netshoot,https://github.com/nicolaka/netshoot
+2022-02-13,shell,1354,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2022-02-13,shell,5212,1,"Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2022-02-13,shell,140615,54,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-02-13,shell,3108,2,Docker Official Image packaging for PHP,docker-library,php,https://github.com/docker-library/php
+2022-02-13,shell,1499,3,A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps,getumbrel,umbrel,https://github.com/getumbrel/umbrel
+2022-02-13,shell,7597,2,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.,docker,docker-bench-security,https://github.com/docker/docker-bench-security
+2022-02-13,shell,7083,2,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2022-02-13,shell,1381,3,Apache Kafka and Confluent Platform examples and demos,confluentinc,examples,https://github.com/confluentinc/examples
+2022-02-13,shell,11395,0,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-02-13,shell,350,1,🏃‍💨 Gone,Oreomeow,VIP,https://github.com/Oreomeow/VIP
+2022-02-13,shell,12637,3,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2022-02-13,shell,1110,2,additional functionality via binary patching,ddvk,remarkable-hacks,https://github.com/ddvk/remarkable-hacks
+2022-02-13,shell,3637,2,A curated list of amazingly awesome Home Assistant resources.,frenck,awesome-home-assistant,https://github.com/frenck/awesome-home-assistant
+2022-02-13,shell,670,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2022-02-13,shell,1847,4,One-click deployment and management of Clash services using Shell scripts in Linux environment,juewuy,ShellClash,https://github.com/juewuy/ShellClash
+2022-02-13,shell,7282,5,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-02-13,shell,2440,2,"Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders",mitchellkrogza,nginx-ultimate-bad-bot-blocker,https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
+2022-02-13,shell,149,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2022-02-13,shell,4831,2,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-02-13,shell,21115,3,"Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty",mbadolato,iTerm2-Color-Schemes,https://github.com/mbadolato/iTerm2-Color-Schemes
+2022-02-13,shell,1978,2,用于在 Heroku 上部署 V2Ray WebSocket。,bclswl0827,v2ray-heroku,https://github.com/bclswl0827/v2ray-heroku
+2022-02-13,shell,3194,3,Command-line tools for working with Architecture Decision Records,npryce,adr-tools,https://github.com/npryce/adr-tools
