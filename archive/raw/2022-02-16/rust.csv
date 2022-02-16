@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-16,rust,21832,348,"Powerful, fast, and an easy to use search engine",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-02-16,rust,2686,8,"Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",hrkfdn,ncspot,https://github.com/hrkfdn/ncspot
+2022-02-16,rust,14202,28,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-02-16,rust,70,22,Artifact collection tool for *nix systems,AbdulRhmanAlfaifi,Fennec,https://github.com/AbdulRhmanAlfaifi/Fennec
+2022-02-16,rust,6589,15,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-02-16,rust,1344,113,A command-line pager for JSON data.,PaulJuliusMartinez,jless,https://github.com/PaulJuliusMartinez/jless
+2022-02-16,rust,3302,23,"An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy",datafuselabs,databend,https://github.com/datafuselabs/databend
+2022-02-16,rust,3533,9,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-02-16,rust,118,24,Fast PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.,mufeedvh,pdfrip,https://github.com/mufeedvh/pdfrip
+2022-02-16,rust,2502,6,WebAssembly System Interface,WebAssembly,WASI,https://github.com/WebAssembly/WASI
+2022-02-16,rust,5942,7,Building a federated link aggregator in rust,LemmyNet,lemmy,https://github.com/LemmyNet/lemmy
+2022-02-16,rust,8073,25,Sampling profiler for Python programs,benfred,py-spy,https://github.com/benfred/py-spy
+2022-02-16,rust,7975,10,A fast CSV command line toolkit written in Rust.,BurntSushi,xsv,https://github.com/BurntSushi/xsv
+2022-02-16,rust,9199,11,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2022-02-16,rust,2276,4,"The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.",Findomain,Findomain,https://github.com/Findomain/Findomain
+2022-02-16,rust,17313,49,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy,https://github.com/AppFlowy-IO/AppFlowy
+2022-02-16,rust,15492,32,Yet another remote desktop software,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-02-16,rust,783,15,Source code for the book Rust in Action,rust-in-action,code,https://github.com/rust-in-action/code
+2022-02-16,rust,8498,8,A Rust compiler front-end for IDEs,rust-analyzer,rust-analyzer,https://github.com/rust-analyzer/rust-analyzer
+2022-02-16,rust,9168,6,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-02-16,rust,5665,21,The Modern Port Scanner,RustScan,RustScan,https://github.com/RustScan/RustScan
+2022-02-16,rust,6222,3,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
+2022-02-16,rust,1339,4,Native Spotify client for the GNOME desktop,xou816,spot,https://github.com/xou816/spot
+2022-02-16,rust,3476,4,A modern Python application packaging and distribution tool,indygreg,PyOxidizer,https://github.com/indygreg/PyOxidizer
+2022-02-16,rust,650,6,"Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.",nullpo-head,wsl-distrod,https://github.com/nullpo-head/wsl-distrod

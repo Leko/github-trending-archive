@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-16,scala,32060,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-02-16,scala,4070,6,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-02-16,scala,4881,3,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-02-16,scala,911,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-02-16,scala,2398,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-02-16,scala,829,2,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-02-16,scala,5439,0,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-02-16,scala,2616,3,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-02-16,scala,8164,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-02-16,scala,12082,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-02-16,scala,0,0,My master thesis work,almendar,Knowledge-Brokering,https://github.com/almendar/Knowledge-Brokering
+2022-02-16,scala,89,0,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2022-02-16,scala,179,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-02-16,scala,4602,0,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-02-16,scala,54,0,A STAC/OGC API Features Web Service,azavea,franklin,https://github.com/azavea/franklin
+2022-02-16,scala,12036,4,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-02-16,scala,4466,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-02-16,scala,0,0,,icmurray,freeclimb,https://github.com/icmurray/freeclimb
+2022-02-16,scala,10628,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-02-16,scala,1237,0,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2022-02-16,scala,3129,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-02-16,scala,234,13,A Table Structure Storage to Unify Batch and Streaming Data Processing,meta-soul,LakeSoul,https://github.com/meta-soul/LakeSoul
+2022-02-16,scala,773,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-02-16,scala,95,1,Automatically parallelize your for-comprehensions at compile time.,kitlangton,parallel-for,https://github.com/kitlangton/parallel-for
+2022-02-16,scala,1828,1,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
