@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-17,perl,13514,7,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2022-02-17,perl,12538,4,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2022-02-17,perl,616,0,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2022-02-17,perl,193,0,Spec and test data for the MaxMind DB file format,maxmind,MaxMind-DB,https://github.com/maxmind/MaxMind-DB
+2022-02-17,perl,7382,4,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
+2022-02-17,perl,2,0,simple perl logfile parser,ghe,log-parser-utx,https://github.com/ghe/log-parser-utx
+2022-02-17,perl,48,0,a perl library for sending email,rjbs,Email-Sender,https://github.com/rjbs/Email-Sender
+2022-02-17,perl,264,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2022-02-17,perl,536,0,Rapid prokaryotic genome annotation,tseemann,prokka,https://github.com/tseemann/prokka
+2022-02-17,perl,101,0,"OBS build script, can be used with OBS or stand alone",openSUSE,obs-build,https://github.com/openSUSE/obs-build
+2022-02-17,perl,223,0,"openQA web-frontend, scheduler and tools.",os-autoinst,openQA,https://github.com/os-autoinst/openQA
+2022-02-17,perl,0,0,A pure-Perl HTML/XML processor,manakai,perl-web-markup,https://github.com/manakai/perl-web-markup
+2022-02-17,perl,380,0,Movable Type,movabletype,movabletype,https://github.com/movabletype/movabletype
+2022-02-17,perl,2072,1,"Policy-driven snapshot management and replication tools. Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.",jimsalterjrs,sanoid,https://github.com/jimsalterjrs/sanoid
+2022-02-17,perl,2577,0,A fast PostgreSQL Log Analyzer,darold,pgbadger,https://github.com/darold/pgbadger
+2022-02-17,perl,369,2,ISO/IEC JTC1 SC22 WG21 paper scheduling and management,cplusplus,papers,https://github.com/cplusplus/papers
+2022-02-17,perl,719,0,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2022-02-17,perl,84,0,FreeRDP Manuals,awakecoding,FreeRDP-Manuals,https://github.com/awakecoding/FreeRDP-Manuals
+2022-02-17,perl,27,0,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2022-02-17,perl,2317,0,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),SpiderLabs,owasp-modsecurity-crs,https://github.com/SpiderLabs/owasp-modsecurity-crs
+2022-02-17,perl,96,0,Use CircleCI to build custom Docker images with combinations of common languages/dependencies,CircleCI-Public,dockerfile-wizard,https://github.com/CircleCI-Public/dockerfile-wizard
+2022-02-17,perl,1622,0,Main repository for munin master / node / plugins,munin-monitoring,munin,https://github.com/munin-monitoring/munin
+2022-02-17,perl,1,0,Correct handling of non-ASCII MIME headers,nwellnhof,Email-MIME-RFC2047,https://github.com/nwellnhof/Email-MIME-RFC2047
+2022-02-17,perl,952,0,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence

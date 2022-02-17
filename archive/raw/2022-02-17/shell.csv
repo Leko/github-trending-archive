@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-17,shell,55452,33,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-02-17,shell,1334,2,Standard and Advanced Demos for learn.cantrill.io courses,acantril,learn-cantrill-io-labs,https://github.com/acantril/learn-cantrill-io-labs
+2022-02-17,shell,4856,9,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-02-17,shell,1429,4,Official Zabbix Dockerfiles,zabbix,zabbix-docker,https://github.com/zabbix/zabbix-docker
+2022-02-17,shell,35048,16,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2022-02-17,shell,13209,25,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-02-17,shell,3548,0,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2022-02-17,shell,1544,1,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-02-17,shell,7306,9,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-02-17,shell,4774,8,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2022-02-17,shell,3308,7,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2022-02-17,shell,608,81,Making SSH more convenient,vaporup,ssh-tools,https://github.com/vaporup/ssh-tools
+2022-02-17,shell,180,8,最稳定的ETH以太坊代理中转矿池程序，全新界面，支持ETH，ETC，抽水稳定不掉线，作者抽水千分之三，MinerProxy/矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理，包含自启动和进程守护，重启后可以自动运行，会放开防火墙和连接数限制，一键搞定。,MinerPr0xy,MinerProxy,https://github.com/MinerPr0xy/MinerProxy
+2022-02-17,shell,50,6,A FreeBSD jails and bhyve wrapper; which emulates a Qubes-like containerization schema,BawdyAnarchist,quBSD,https://github.com/BawdyAnarchist/quBSD
+2022-02-17,shell,5221,4,"Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2022-02-17,shell,80,14,针对 403 页面的 fuzz 脚本,ffffffff0x,403-fuzz,https://github.com/ffffffff0x/403-fuzz
+2022-02-17,shell,2069,23,Scripts to install Google Apps into a WSA image. Plus optional root,WSA-Community,WSAGAScript,https://github.com/WSA-Community/WSAGAScript
+2022-02-17,shell,1262,2,"An open-source, next-generation ""runc"" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",nestybox,sysbox,https://github.com/nestybox/sysbox
+2022-02-17,shell,3113,2,Docker Official Image packaging for PHP,docker-library,php,https://github.com/docker-library/php
+2022-02-17,shell,198,1,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2022-02-17,shell,6680,4,"List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",toniblyx,my-arsenal-of-aws-security-tools,https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+2022-02-17,shell,140791,61,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-02-17,shell,690,0,Helm chart to install Vault and other associated components.,hashicorp,vault-helm,https://github.com/hashicorp/vault-helm
+2022-02-17,shell,2382,7,A posix script to find and watch youtube videos from the terminal. (Without API),pystardust,ytfzf,https://github.com/pystardust/ytfzf
+2022-02-17,shell,5986,4,Dockerfile for Apache Kafka,wurstmeister,kafka-docker,https://github.com/wurstmeister/kafka-docker
