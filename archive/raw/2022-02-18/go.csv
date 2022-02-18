@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-18,go,333,106,A list of remote-friendly or full-remote companies that targets Italian talents.,italiaremote,awesome-italia-remote,https://github.com/italiaremote/awesome-italia-remote
+2022-02-18,go,37232,92,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-02-18,go,4474,7,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2022-02-18,go,4947,46,"A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages. 跨语言分布式事务管理器",dtm-labs,dtm,https://github.com/dtm-labs/dtm
+2022-02-18,go,5845,15,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2022-02-18,go,6252,7,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2022-02-18,go,538,194,XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance. XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存的 分配/释放 工作，能自主构建高性能的 链表/树/哈希表等各类数据结构，能良好完美的逃逸掉Go内置的GC机制，是构建高性能程序基础设施。,heiyeluren,XMM,https://github.com/heiyeluren/XMM
+2022-02-18,go,23715,25,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2022-02-18,go,41082,30,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-02-18,go,3132,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-02-18,go,2685,4,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2022-02-18,go,26864,23,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-02-18,go,31283,23,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-02-18,go,7429,21,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-02-18,go,10323,15,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-02-18,go,5272,20,Continuous Profiling Platform! Debug performance issues down to a single line of code,pyroscope-io,pyroscope,https://github.com/pyroscope-io/pyroscope
+2022-02-18,go,4008,8,Fancy stream processing made operationally mundane,Jeffail,benthos,https://github.com/Jeffail/benthos
+2022-02-18,go,8456,9,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2022-02-18,go,1952,3,protoc plugin to generate polyglot message validators,envoyproxy,protoc-gen-validate,https://github.com/envoyproxy/protoc-gen-validate
+2022-02-18,go,1774,32,"An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0 / OIDC and SAML authentication, QQ group: 645200447",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-02-18,go,4160,7,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2022-02-18,go,55620,34,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-02-18,go,2659,13,"An interactive web UI for gRPC, along the lines of postman",fullstorydev,grpcui,https://github.com/fullstorydev/grpcui
+2022-02-18,go,12669,15,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-02-18,go,3544,2,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
