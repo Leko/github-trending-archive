@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-19,go,610,62,XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance. XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存的 分配/释放 工作，能自主构建高性能的 链表/树/哈希表等各类数据结构，能良好完美的逃逸掉Go内置的GC机制，是构建高性能程序基础设施。,heiyeluren,XMM,https://github.com/heiyeluren/XMM
+2022-02-19,go,397,64,A list of remote-friendly or full-remote companies that targets Italian talents.,italiaremote,awesome-italia-remote,https://github.com/italiaremote/awesome-italia-remote
+2022-02-19,go,7451,23,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-02-19,go,10651,113,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-02-19,go,2107,6,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-02-19,go,3278,16,The Modern Application Platform.,oam-dev,kubevela,https://github.com/oam-dev/kubevela
+2022-02-19,go,4481,7,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2022-02-19,go,5427,3,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2022-02-19,go,85621,55,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-02-19,go,98,26,TAS is an intelligent test execution platform for engineering teams to achieve high development velocity.,LambdaTest,test-at-scale,https://github.com/LambdaTest/test-at-scale
+2022-02-19,go,657,9,傻妞机器人,cdle,sillyGirl,https://github.com/cdle/sillyGirl
+2022-02-19,go,3967,5,syzkaller is an unsupervised coverage-guided kernel fuzzer,google,syzkaller,https://github.com/google/syzkaller
+2022-02-19,go,16992,17,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2022-02-19,go,3781,16,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2022-02-19,go,503,51,cast YouTube videos to your smart TV from command-line,MarcoLucidi01,ytcast,https://github.com/MarcoLucidi01/ytcast
+2022-02-19,go,11292,13,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-02-19,go,12678,10,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-02-19,go,31302,19,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-02-19,go,4586,3,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2022-02-19,go,10341,19,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-02-19,go,15370,2,(OBSOLETE) Curated applications for Kubernetes,helm,charts,https://github.com/helm/charts
+2022-02-19,go,4168,9,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2022-02-19,go,8245,5,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2022-02-19,go,1896,7,go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】,link1st,go-stress-testing,https://github.com/link1st/go-stress-testing
+2022-02-19,go,30516,24,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild

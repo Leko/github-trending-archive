@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-19,shell,30840,22,Amazon Web Services — a practical guide,open-guides,og-aws,https://github.com/open-guides/og-aws
+2022-02-19,shell,11414,2,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-02-19,shell,30093,180,A collection of pure bash alternatives to external processes.,dylanaraps,pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible
+2022-02-19,shell,95,1,Use your GPU for rendering low cpu using/usage video animated wallpaper,ghostlexly,gpu-video-wallpaper,https://github.com/ghostlexly/gpu-video-wallpaper
+2022-02-19,shell,372,1,"A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.",fluxcd,flux2-kustomize-helm-example,https://github.com/fluxcd/flux2-kustomize-helm-example
+2022-02-19,shell,3708,3,Docker image of Nextcloud,nextcloud,docker,https://github.com/nextcloud/docker
+2022-02-19,shell,55499,25,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-02-19,shell,1269,2,"An open-source, next-generation ""runc"" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",nestybox,sysbox,https://github.com/nestybox/sysbox
+2022-02-19,shell,10355,7,"A curated list of Terminal frameworks, plugins & resources for CLI lovers.",k4m4,terminals-are-sexy,https://github.com/k4m4/terminals-are-sexy
+2022-02-19,shell,3169,1,CloudEvents Specification,cloudevents,spec,https://github.com/cloudevents/spec
+2022-02-19,shell,4756,0,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2022-02-19,shell,17403,7,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-02-19,shell,4866,5,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-02-19,shell,140889,54,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-02-19,shell,7149,3,Dockerized GitLab,sameersbn,docker-gitlab,https://github.com/sameersbn/docker-gitlab
+2022-02-19,shell,182,1,Automatic import of svn 'community' repo (read-only mirror),archlinux,svntogit-community,https://github.com/archlinux/svntogit-community
+2022-02-19,shell,2915,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-02-19,shell,2099,14,Scripts to install Google Apps into a WSA image. Plus optional root,WSA-Community,WSAGAScript,https://github.com/WSA-Community/WSAGAScript
+2022-02-19,shell,3436,10,A collection of pure POSIX sh alternatives to external processes.,dylanaraps,pure-sh-bible,https://github.com/dylanaraps/pure-sh-bible
+2022-02-19,shell,1524,2,"Security automation content in SCAP, Bash, Ansible, and other formats",ComplianceAsCode,content,https://github.com/ComplianceAsCode/content
+2022-02-19,shell,27467,7,".files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles
+2022-02-19,shell,4218,1,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2022-02-19,shell,15835,6,Node version management,tj,n,https://github.com/tj/n
+2022-02-19,shell,1140,1,"Valheim dedicated gameserver with automatic update, World backup, BepInEx and ValheimPlus mod support",lloesche,valheim-server-docker,https://github.com/lloesche/valheim-server-docker
+2022-02-19,shell,936,1,Docker files for running a basic Laravel application.,laravel,sail,https://github.com/laravel/sail

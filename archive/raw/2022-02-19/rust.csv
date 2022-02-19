@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-19,rust,2277,483,Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable,yoav-lavi,melody,https://github.com/yoav-lavi/melody
+2022-02-19,rust,7898,7,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-02-19,rust,5266,8,Fast State-of-the-Art Tokenizers optimized for Research and Production,huggingface,tokenizers,https://github.com/huggingface/tokenizers
+2022-02-19,rust,6615,6,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-02-19,rust,229,1,Production Quality contracts under open source licenses,CosmWasm,cw-plus,https://github.com/CosmWasm/cw-plus
+2022-02-19,rust,194,31,Compile Cargo project with zig as linker,messense,cargo-zigbuild,https://github.com/messense/cargo-zigbuild
+2022-02-19,rust,2968,5,RedisJSON - a JSON data type for Redis,RedisJSON,RedisJSON,https://github.com/RedisJSON/RedisJSON
+2022-02-19,rust,5622,4,the champagne of beta embedded databases,spacejam,sled,https://github.com/spacejam/sled
+2022-02-19,rust,154,1,Smart contracts maintained by the Metaplex team,metaplex-foundation,metaplex-program-library,https://github.com/metaplex-foundation/metaplex-program-library
+2022-02-19,rust,5447,10,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-02-19,rust,1664,8,Apache Arrow DataFusion and Ballista query engines,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-02-19,rust,4212,26,Cross-platform Text Expander written in Rust,federico-terzi,espanso,https://github.com/federico-terzi/espanso
+2022-02-19,rust,80385,22,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-02-19,rust,15145,17,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-02-19,rust,63560,41,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-02-19,rust,2016,17,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2022-02-19,rust,6830,8,"Standalone JIT-style runtime for WebAssembly, using Cranelift",bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-02-19,rust,2666,7,Encoding and decoding images in Rust,image-rs,image,https://github.com/image-rs/image
+2022-02-19,rust,16703,5,Relay is a JavaScript framework for building data-driven React applications.,facebook,relay,https://github.com/facebook/relay
+2022-02-19,rust,1415,29,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2022-02-19,rust,2223,7,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2022-02-19,rust,9540,16,"A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.",analysis-tools-dev,static-analysis,https://github.com/analysis-tools-dev/static-analysis
+2022-02-19,rust,170,2,Compiler/decompiler toolkit for redscript,jac3km4,redscript,https://github.com/jac3km4/redscript
+2022-02-19,rust,5357,6,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2022-02-19,rust,4650,34,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
