@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-20,go,2131,30,"Implementation of the Filecoin protocol, written in Go",filecoin-project,lotus,https://github.com/filecoin-project/lotus
+2022-02-20,go,30574,62,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
+2022-02-20,go,11300,10,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-02-20,go,15547,13,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2022-02-20,go,429,35,A list of remote-friendly or full-remote companies that targets Italian talents.,italiaremote,awesome-italia-remote,https://github.com/italiaremote/awesome-italia-remote
+2022-02-20,go,15394,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-02-20,go,5381,4,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-02-20,go,11185,5,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-02-20,go,3139,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-02-20,go,35613,11,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-02-20,go,53396,19,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-02-20,go,112,12,"lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号",real-web-world,hh-lol-prophet,https://github.com/real-web-world/hh-lol-prophet
+2022-02-20,go,20935,12,A realtime distributed messaging platform,nsqio,nsq,https://github.com/nsqio/nsq
+2022-02-20,go,12684,7,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-02-20,go,10351,9,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-02-20,go,2694,3,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2022-02-20,go,95574,34,The Go programming language,golang,go,https://github.com/golang/go
+2022-02-20,go,731,8,A terminal based Matrix client written in Go.,tulir,gomuks,https://github.com/tulir/gomuks
+2022-02-20,go,1108,4,Gracefully handle EC2 instance shutdown within Kubernetes,aws,aws-node-termination-handler,https://github.com/aws/aws-node-termination-handler
+2022-02-20,go,29549,7,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2022-02-20,go,1266,4,The Public Suffix List,publicsuffix,list,https://github.com/publicsuffix/list
+2022-02-20,go,85648,33,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-02-20,go,665,9,傻妞机器人,cdle,sillyGirl,https://github.com/cdle/sillyGirl
+2022-02-20,go,36922,22,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2022-02-20,go,23068,6,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
