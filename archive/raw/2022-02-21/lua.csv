@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-21,lua,3891,7,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-02-21,lua,1921,8,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-02-21,lua,2273,12,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-02-21,lua,634,2,Tools for better development in rust using neovim's builtin lsp,simrat39,rust-tools.nvim,https://github.com/simrat39/rust-tools.nvim
+2022-02-21,lua,9948,10,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-02-21,lua,8098,16,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-02-21,lua,2229,10,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-02-21,lua,7489,19,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-02-21,lua,1223,5,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2022-02-21,lua,977,5,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-02-21,lua,1329,2,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2022-02-21,lua,6257,3,A lightweight text editor written in Lua,rxi,lite,https://github.com/rxi/lite
+2022-02-21,lua,623,2,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2022-02-21,lua,730,2,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2022-02-21,lua,1072,7,Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!,williamboman,nvim-lsp-installer,https://github.com/williamboman/nvim-lsp-installer
+2022-02-21,lua,772,1,LSP signature hint as you type,ray-x,lsp_signature.nvim,https://github.com/ray-x/lsp_signature.nvim
+2022-02-21,lua,763,4,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-02-21,lua,4951,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-02-21,lua,752,1,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-02-21,lua,1380,7,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-02-21,lua,1146,0,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2022-02-21,lua,205,11,Fast and minimalistic web framework based on Redbean web server.,pkulchenko,fullmoon,https://github.com/pkulchenko/fullmoon
+2022-02-21,lua,193,0,FiveM RP Framework Core,qbcore-framework,qb-core,https://github.com/qbcore-framework/qb-core
+2022-02-21,lua,167,1,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-02-21,lua,940,2,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs

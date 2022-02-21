@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-21,shell,1603,1,The Void source packages collection,void-linux,void-packages,https://github.com/void-linux/void-packages
+2022-02-21,shell,2118,6,Scripts to install Google Apps into a WSA image. Plus optional root,WSA-Community,WSAGAScript,https://github.com/WSA-Community/WSAGAScript
+2022-02-21,shell,7334,5,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-02-21,shell,2713,7,A cli tool to browse and play anime,pystardust,ani-cli,https://github.com/pystardust/ani-cli
+2022-02-21,shell,3825,14,Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update),SuLingGG,OpenWrt-Rpi,https://github.com/SuLingGG/OpenWrt-Rpi
+2022-02-21,shell,431,16,"A purely bash web server, no socat, netcat, etc...",dzove855,Bash-web-server,https://github.com/dzove855/Bash-web-server
+2022-02-21,shell,446,0,Cloudflare WARP 多功能一键脚本，支持纯IPV4/纯IPV6/双栈V4V6的VPS共9种情况随意切换安装，screen一键手动/自动刷新支持Netflix奈飞的IP（自动识别WGCF与SOCKS5环境，自定义刷新奈飞IP的时间段间隔，自定义奈飞区域国家，自定义仅刷区域国家），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…,kkkyg,CFwarp,https://github.com/kkkyg/CFwarp
+2022-02-21,shell,744,3,Xray：（VLESS/VMess）-（TCP/gRPC/WebSocket）-（XTLS/TLS）+Web 搭建/管理脚本,kirin10000,Xray-script,https://github.com/kirin10000/Xray-script
+2022-02-21,shell,3430,0,My dotfiles (deployed by LARBS),LukeSmithxyz,voidrice,https://github.com/LukeSmithxyz/voidrice
+2022-02-21,shell,3230,1,Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩,klever1988,nanopi-openwrt,https://github.com/klever1988/nanopi-openwrt
+2022-02-21,shell,1693,0,Modern Design theme for Grub2,vinceliuice,grub2-themes,https://github.com/vinceliuice/grub2-themes
+2022-02-21,shell,3436,6,Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd,v2fly,fhs-install-v2ray,https://github.com/v2fly/fhs-install-v2ray
+2022-02-21,shell,3715,3,Docker image of Nextcloud,nextcloud,docker,https://github.com/nextcloud/docker
+2022-02-21,shell,743,0,Raspberry Pi App Store for Open Source Projects,Botspot,pi-apps,https://github.com/Botspot/pi-apps
+2022-02-21,shell,15528,9,最好用的 V2Ray 一键安装脚本 & 管理脚本,233boy,v2ray,https://github.com/233boy/v2ray
+2022-02-21,shell,849,2,Docker add-ons for Home Assistant,home-assistant,addons,https://github.com/home-assistant/addons
+2022-02-21,shell,11422,4,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-02-21,shell,1424,3,OpenWrt for Nanopi R2C/R2S/R4S/X86,QiuSimons,YAOF,https://github.com/QiuSimons/YAOF
+2022-02-21,shell,67,0,,cosmic-horizon,testnets,https://github.com/cosmic-horizon/testnets
+2022-02-21,shell,1912,2,Armbian Linux build framework,armbian,build,https://github.com/armbian/build
+2022-02-21,shell,140969,44,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-02-21,shell,5012,10,"A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt",P3TERX,Actions-OpenWrt,https://github.com/P3TERX/Actions-OpenWrt
+2022-02-21,shell,908,10,使深信服（Sangfor）开发的非自由的代理软件 EasyConnect 运行在 docker 或 podman 中，并提供 socks5 服务,Hagb,docker-easyconnect,https://github.com/Hagb/docker-easyconnect
+2022-02-21,shell,3144,10,Photoshop CC v19 installer for Gnu/Linux,Gictorbit,photoshopCClinux,https://github.com/Gictorbit/photoshopCClinux
+2022-02-21,shell,15126,9,binary releases of VS Code without MS branding/telemetry/licensing,VSCodium,vscodium,https://github.com/VSCodium/vscodium
