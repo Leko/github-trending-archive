@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-22,haskell,24790,6,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-02-22,haskell,7573,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-02-22,haskell,1570,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-02-22,haskell,27900,15,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-02-22,haskell,1961,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-02-22,haskell,1338,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-02-22,haskell,2559,4,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-02-22,haskell,1311,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-02-22,haskell,1241,0,,input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2022-02-22,haskell,91,1,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-02-22,haskell,170,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-02-22,haskell,1558,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2022-02-22,haskell,206,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-02-22,haskell,170,0,"Examples to accompany the book ""Haskell in Depth""",bravit,hid-examples,https://github.com/bravit/hid-examples
+2022-02-22,haskell,252,1,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-02-22,haskell,6526,13,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-02-22,haskell,13,0,Search for identifiers in Agda codebases,plt-amy,agda-search,https://github.com/plt-amy/agda-search
+2022-02-22,haskell,706,0,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2022-02-22,haskell,187,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-02-22,haskell,18383,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-02-22,haskell,508,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-02-22,haskell,621,2,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-02-22,haskell,730,2,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-02-22,haskell,6762,2,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-02-22,haskell,723,2,A minimalistic status bar,jaor,xmobar,https://github.com/jaor/xmobar
