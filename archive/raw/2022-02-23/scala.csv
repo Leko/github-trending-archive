@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-23,scala,32110,4,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-02-23,scala,2412,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-02-23,scala,2157,2,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-02-23,scala,12044,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-02-23,scala,5991,1,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-02-23,scala,4626,4,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-02-23,scala,2251,1,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2022-02-23,scala,3141,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-02-23,scala,4884,4,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-02-23,scala,5441,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-02-23,scala,790,4,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-02-23,scala,179,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-02-23,scala,170,0,,ucb-bar,berkeley-hardfloat,https://github.com/ucb-bar/berkeley-hardfloat
+2022-02-23,scala,10638,4,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-02-23,scala,512,0,Flexible Intermediate Representation for RTL,chipsalliance,firrtl,https://github.com/chipsalliance/firrtl
+2022-02-23,scala,83,0,RISC-V Torture Test,ucb-bar,riscv-torture,https://github.com/ucb-bar/riscv-torture
+2022-02-23,scala,791,2,"Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",scalacenter,bloop,https://github.com/scalacenter/bloop
+2022-02-23,scala,853,2,Cortex: a Powerful Observable Analysis and Active Response Engine,TheHive-Project,Cortex,https://github.com/TheHive-Project/Cortex
+2022-02-23,scala,4471,2,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-02-23,scala,8168,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-02-23,scala,2041,1,"Compositional, streaming I/O library for Scala",typelevel,fs2,https://github.com/typelevel/fs2
+2022-02-23,scala,8380,4,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-02-23,scala,185,1,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-02-23,scala,131,1,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-02-23,scala,296,3,Compiler for the Vale programming language - http://vale.dev/,ValeLang,Vale,https://github.com/ValeLang/Vale
