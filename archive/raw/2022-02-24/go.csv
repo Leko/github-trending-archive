@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-24,go,6050,59,Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2022-02-24,go,1506,5,Kubernetes controller for GitHub Actions self-hosted runners,actions-runner-controller,actions-runner-controller,https://github.com/actions-runner-controller/actions-runner-controller
+2022-02-24,go,5428,27,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2022-02-24,go,13378,14,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2022-02-24,go,31511,22,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2022-02-24,go,11619,18,基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-02-24,go,2627,27,"A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-02-24,go,2922,38,"An interactive web UI for gRPC, along the lines of postman",fullstorydev,grpcui,https://github.com/fullstorydev/grpcui
+2022-02-24,go,828,5,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
+2022-02-24,go,286,75,Yao A low code engine to create web services and dashboard.,YaoApp,yao,https://github.com/YaoApp/yao
+2022-02-24,go,183,21,A light weight web log visual analytic platform for clickhouse.,shimohq,mogo,https://github.com/shimohq/mogo
+2022-02-24,go,53556,69,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-02-24,go,8096,11,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2022-02-24,go,1862,3,Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.,GoogleCloudPlatform,spark-on-k8s-operator,https://github.com/GoogleCloudPlatform/spark-on-k8s-operator
+2022-02-24,go,28470,36,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2022-02-24,go,4784,17,Automated code review tool integrated with any code analysis tools regardless of programming language,reviewdog,reviewdog,https://github.com/reviewdog/reviewdog
+2022-02-24,go,38508,18,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2022-02-24,go,19696,24,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2022-02-24,go,15560,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-02-24,go,30154,30,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2022-02-24,go,10644,3,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-02-24,go,1670,1,"An organizer for your porn, written in Go",stashapp,stash,https://github.com/stashapp/stash
+2022-02-24,go,3146,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-02-24,go,2294,45,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-02-24,go,10785,17,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
