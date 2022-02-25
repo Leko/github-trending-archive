@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-25,go,425,141,Yao A low code engine to create web services and dashboard.,YaoApp,yao,https://github.com/YaoApp/yao
+2022-02-25,go,23019,30,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2022-02-25,go,9540,23,An open-source vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-02-25,go,2767,21,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2022-02-25,go,673,13,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。 go-zero项目地址: https://github.com/zeromicro/go-zero,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2022-02-25,go,12706,31,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-02-25,go,4475,12,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2022-02-25,go,6536,25,OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-02-25,go,218,33,No code API testing platform. Create unit tests and data mocks just from API calls.,keploy,keploy,https://github.com/keploy/keploy
+2022-02-25,go,29601,13,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2022-02-25,go,3717,34,A new way of working with Protocol Buffers.,bufbuild,buf,https://github.com/bufbuild/buf
+2022-02-25,go,13395,19,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2022-02-25,go,6021,20,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
+2022-02-25,go,3049,4,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2022-02-25,go,5446,19,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2022-02-25,go,53604,56,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-02-25,go,95757,56,The Go programming language,golang,go,https://github.com/golang/go
+2022-02-25,go,12169,3,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",ory,hydra,https://github.com/ory/hydra
+2022-02-25,go,252,12,一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区，持续更新中。,Le0nsec,SecCrawler,https://github.com/Le0nsec/SecCrawler
+2022-02-25,go,1645,7,A self hosted virtual browser that runs in docker and uses WebRTC.,m1k1o,neko,https://github.com/m1k1o/neko
+2022-02-25,go,6455,4,The Go driver for MongoDB,mongodb,mongo-go-driver,https://github.com/mongodb/mongo-go-driver
+2022-02-25,go,237,54,A light weight log visual analytic platform for clickhouse.,shimohq,mogo,https://github.com/shimohq/mogo
+2022-02-25,go,6128,85,Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2022-02-25,go,9357,8,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
+2022-02-25,go,3140,1,Confluent's Apache Kafka Golang client,confluentinc,confluent-kafka-go,https://github.com/confluentinc/confluent-kafka-go

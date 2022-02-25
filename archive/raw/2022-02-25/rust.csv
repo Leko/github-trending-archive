@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-25,rust,785,74,,kaist-cp,cs431,https://github.com/kaist-cp/cs431
+2022-02-25,rust,5226,161,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2022-02-25,rust,965,17,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2022-02-25,rust,1776,47,"jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.",PaulJuliusMartinez,jless,https://github.com/PaulJuliusMartinez/jless
+2022-02-25,rust,7803,54,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2022-02-25,rust,6656,6,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-02-25,rust,5676,37,All Algorithms implemented in Rust,TheAlgorithms,Rust,https://github.com/TheAlgorithms/Rust
+2022-02-25,rust,1716,10,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-02-25,rust,3675,35,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-02-25,rust,9254,7,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2022-02-25,rust,4816,45,Just a command runner,casey,just,https://github.com/casey/just
+2022-02-25,rust,16359,4,Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.,diem,diem,https://github.com/diem/diem
+2022-02-25,rust,5391,4,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2022-02-25,rust,10728,8,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2022-02-25,rust,1687,12,Command-line interface for email management,soywod,himalaya,https://github.com/soywod/himalaya
+2022-02-25,rust,7885,12,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2022-02-25,rust,377,20,"A linux utility to get information on filesystems, like df but better",Canop,lfs,https://github.com/Canop/lfs
+2022-02-25,rust,3667,24,"A friendly language for building type-safe, scalable systems!",gleam-lang,gleam,https://github.com/gleam-lang/gleam
+2022-02-25,rust,32756,95,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-02-25,rust,1304,11,An implementation and definition of the Rust trait system using a PROLOG-like logic solver,rust-lang,chalk,https://github.com/rust-lang/chalk
+2022-02-25,rust,4189,8,Zero-cost asynchronous programming in Rust,rust-lang,futures-rs,https://github.com/rust-lang/futures-rs
+2022-02-25,rust,2702,27,Manage your shell commands.,Nukesor,pueue,https://github.com/Nukesor/pueue
+2022-02-25,rust,1413,5,A collection of Solana-maintained on-chain programs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2022-02-25,rust,14346,14,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-02-25,rust,9210,8,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
