@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-26,scala,10647,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-02-26,scala,776,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-02-26,scala,32141,9,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-02-26,scala,10918,2,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-02-26,scala,286,10,A Table Structure Storage to Unify Batch and Streaming Data Processing,meta-soul,LakeSoul,https://github.com/meta-soul/LakeSoul
+2022-02-26,scala,12046,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-02-26,scala,4101,3,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-02-26,scala,937,0,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-02-26,scala,2416,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-02-26,scala,5605,0,The Guardian DotCom.,guardian,frontend,https://github.com/guardian/frontend
+2022-02-26,scala,2253,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2022-02-26,scala,93,0,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2022-02-26,scala,27,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo
+2022-02-26,scala,244,0,Connectors for Delta Lake,delta-io,connectors,https://github.com/delta-io/connectors
+2022-02-26,scala,0,0,,icmurray,freeclimb,https://github.com/icmurray/freeclimb
+2022-02-26,scala,1464,1,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-02-26,scala,8168,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-02-26,scala,5445,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-02-26,scala,2508,1,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-02-26,scala,0,0,My first Scala application,jeffcharles,GraphicalHttpClient,https://github.com/jeffcharles/GraphicalHttpClient
+2022-02-26,scala,921,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-02-26,scala,6896,1,Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.,twitter-archive,snowflake,https://github.com/twitter-archive/snowflake
+2022-02-26,scala,4886,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-02-26,scala,185,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-02-26,scala,526,0,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
