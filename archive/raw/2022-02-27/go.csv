@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-27,go,844,153,Yao A low code engine to create web services and dashboard.,YaoApp,yao,https://github.com/YaoApp/yao
+2022-02-27,go,18598,7,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-02-27,go,6573,13,OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-02-27,go,43157,28,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-02-27,go,410,4,The AMM Laboratory,osmosis-labs,osmosis,https://github.com/osmosis-labs/osmosis
+2022-02-27,go,2327,3,"Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",CrunchyData,postgres-operator,https://github.com/CrunchyData/postgres-operator
+2022-02-27,go,3147,2,Confluent's Apache Kafka Golang client,confluentinc,confluent-kafka-go,https://github.com/confluentinc/confluent-kafka-go
+2022-02-27,go,28550,21,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2022-02-27,go,1907,11,"An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0 / OIDC and SAML authentication, QQ group: 645200447",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-02-27,go,3062,4,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2022-02-27,go,709,7,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。 go-zero项目地址: https://github.com/zeromicro/go-zero,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2022-02-27,go,28864,8,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2022-02-27,go,283,5,"以太坊矿池代理,可以自定义抽水地址和比例 ,go语言编写,性能极高。挂几个盗版狗minerproxyeth/minerproxy和MinerPr0xy/MinerProxy和nicococococ/MinerProxyLite和CharIesOrz/minerProxy和ryu-shen/minerProxy都是盗版加料的，大家注意分辨,可以查看git commits记录查看谁先发布的",Char1esOrz,minerProxy,https://github.com/Char1esOrz/minerProxy
+2022-02-27,go,14969,10,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-02-27,go,10651,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-02-27,go,95832,41,The Go programming language,golang,go,https://github.com/golang/go
+2022-02-27,go,7109,13,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-02-27,go,24329,8,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-02-27,go,15374,1,(OBSOLETE) Curated applications for Kubernetes,helm,charts,https://github.com/helm/charts
+2022-02-27,go,9569,10,An open-source vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-02-27,go,15041,15,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-02-27,go,7525,13,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2022-02-27,go,5432,7,YAML support for the Go language.,go-yaml,yaml,https://github.com/go-yaml/yaml
+2022-02-27,go,31848,11,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
+2022-02-27,go,463,3,"The ApplicationSet controller manages multiple Argo CD Applications as a single ApplicationSet unit, supporting deployments to large numbers of clusters, deployments of large monorepos, and enabling secure Application self-service.",argoproj,applicationset,https://github.com/argoproj/applicationset
