@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-02-28,lua,1017,2,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-02-28,lua,8150,10,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-02-28,lua,335,1,Neovim plugin to improve the default vim.ui interfaces,stevearc,dressing.nvim,https://github.com/stevearc/dressing.nvim
+2022-02-28,lua,83,0,Official Repo For ESX-Legacy,esx-framework,esx-legacy,https://github.com/esx-framework/esx-legacy
+2022-02-28,lua,9997,6,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-02-28,lua,936,1,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-02-28,lua,2315,9,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-02-28,lua,85,0,Compilation of my publically released FiveM code,rubbertoe98,FiveM-Scripts,https://github.com/rubbertoe98/FiveM-Scripts
+2022-02-28,lua,786,1,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-02-28,lua,2260,3,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-02-28,lua,23237,9,Image Super-Resolution for Anime-Style Art,nagadomi,waifu2x,https://github.com/nagadomi/waifu2x
+2022-02-28,lua,130,2,LuCI - OpenWrt Configuration Interface,coolsnowwolf,luci,https://github.com/coolsnowwolf/luci
+2022-02-28,lua,432,0,My configuration files and tools,tjdevries,config_manager,https://github.com/tjdevries/config_manager
+2022-02-28,lua,330,3,The superior project management solution for neovim.,ahmedkhalf,project.nvim,https://github.com/ahmedkhalf/project.nvim
+2022-02-28,lua,14299,1,Face recognition with deep neural networks.,cmusatyalab,openface,https://github.com/cmusatyalab/openface
+2022-02-28,lua,23,0,Player HUD System,qbcore-framework,qb-hud,https://github.com/qbcore-framework/qb-hud
+2022-02-28,lua,685,0,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-02-28,lua,452,3,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2022-02-28,lua,1216,4,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2022-02-28,lua,1397,2,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-02-28,lua,1090,3,Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!,williamboman,nvim-lsp-installer,https://github.com/williamboman/nvim-lsp-installer
+2022-02-28,lua,577,4,"A soft dark, fully customizable (Neo)Vim theme, with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2022-02-28,lua,6013,3,Nmap - the Network Mapper. Github mirror of official SVN repository.,nmap,nmap,https://github.com/nmap/nmap
+2022-02-28,lua,43,0,A better interaction system for FiveM,BerkieBb,qb-target,https://github.com/BerkieBb/qb-target
+2022-02-28,lua,713,3,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
