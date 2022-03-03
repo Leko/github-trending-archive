@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-03,haskell,27987,17,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-03-03,haskell,2579,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-03-03,haskell,1250,0,,input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2022-03-03,haskell,1967,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-03-03,haskell,2358,4,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-03-03,haskell,1341,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-03-03,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-03-03,haskell,6560,6,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-03-03,haskell,509,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-03-03,haskell,7584,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-03-03,haskell,981,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2022-03-03,haskell,941,1,How to learn front-end or back-end development,fullstack-development,developers-roadmap,https://github.com/fullstack-development/developers-roadmap
+2022-03-03,haskell,1247,0,A declarative Unix terminal UI programming library written in Haskell,jtdaugherty,brick,https://github.com/jtdaugherty/brick
+2022-03-03,haskell,24867,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-03-03,haskell,12,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-03-03,haskell,35,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-03-03,haskell,51,1,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-03-03,haskell,6772,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-03-03,haskell,951,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2022-03-03,haskell,10,0,,digital-asset,lib-finance,https://github.com/digital-asset/lib-finance
+2022-03-03,haskell,687,0,Dataflow programming and declarative concurrency,composewell,streamly,https://github.com/composewell/streamly
+2022-03-03,haskell,173,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-03-03,haskell,3072,4,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-03-03,haskell,23,0,Capability Distribution Language tools for seL4,seL4,capdl,https://github.com/seL4/capdl
+2022-03-03,haskell,465,3,Scriptable desktop app to correct the perspective of images,feramhq,Perspec,https://github.com/feramhq/Perspec

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-03,go,23234,85,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-03-03,go,3570,124,"High-performance load testing tool, written in Golang.",ddosify,ddosify,https://github.com/ddosify/ddosify
+2022-03-03,go,17062,6,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2022-03-03,go,2887,13,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-03-03,go,1331,68,An offline tool for querying IP geographic information and CDN provider.一个查询IP地理信息和CDN服务提供商的离线终端工具.,zu1k,nali,https://github.com/zu1k/nali
+2022-03-03,go,395,78,DOS application to stop pro-Russian aggression websites. Support Ukraine!,erkexzcx,stoppropaganda,https://github.com/erkexzcx/stoppropaganda
+2022-03-03,go,18722,172,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-03-03,go,5399,17,Continuous Profiling Platform! Debug performance issues down to a single line of code,pyroscope-io,pyroscope,https://github.com/pyroscope-io/pyroscope
+2022-03-03,go,2218,17,"Scalable, high-performance WebRTC SFU. SDKs in JS, React, Flutter, Swift, Kotlin, Go, Ruby and Node.",livekit,livekit-server,https://github.com/livekit/livekit-server
+2022-03-03,go,21231,10,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-03-03,go,12195,5,NGINX Ingress Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-03-03,go,15150,85,A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-03-03,go,1760,6,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2022-03-03,go,8603,10,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-03-03,go,24358,8,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-03-03,go,5819,41,"A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...",mickael-kerjean,filestash,https://github.com/mickael-kerjean/filestash
+2022-03-03,go,3566,5,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2022-03-03,go,10285,16,Dolt – It's Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2022-03-03,go,886,7,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2022-03-03,go,6643,11,In-depth Attack Surface Mapping and Asset Discovery,OWASP,Amass,https://github.com/OWASP/Amass
+2022-03-03,go,1505,5,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2022-03-03,go,11183,6,"groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.",golang,groupcache,https://github.com/golang/groupcache
+2022-03-03,go,21948,4,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-03-03,go,1123,1,Gracefully handle EC2 instance shutdown within Kubernetes,aws,aws-node-termination-handler,https://github.com/aws/aws-node-termination-handler
+2022-03-03,go,5785,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go

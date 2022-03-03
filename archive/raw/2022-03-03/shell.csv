@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-03,shell,61,3,,kuzm1ch,docker-stop-sites,https://github.com/kuzm1ch/docker-stop-sites
+2022-03-03,shell,3191,4,CloudEvents Specification,cloudevents,spec,https://github.com/cloudevents/spec
+2022-03-03,shell,1923,2,Armbian Linux build framework,armbian,build,https://github.com/armbian/build
+2022-03-03,shell,4238,4,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2022-03-03,shell,12724,6,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2022-03-03,shell,289,13,本程序为正版原创，最稳定的ETH以太坊代理中转矿池程序，全新界面，支持ETH，ETC，抽水稳定不掉线，作者抽水千分之三，MinerProxy/矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理，包含自启动和进程守护，重启后可以自动运行，会放开防火墙和连接数限制，一键搞定。,MinerPr0xy,MinerProxy,https://github.com/MinerPr0xy/MinerProxy
+2022-03-03,shell,4125,3,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2022-03-03,shell,26914,33,Official electron build of diagrams.net,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2022-03-03,shell,11450,4,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-03-03,shell,2954,2,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-03-03,shell,928,7,"WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",fscarmen,warp,https://github.com/fscarmen/warp
+2022-03-03,shell,7630,3,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-03-03,shell,55778,39,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-03-03,shell,13352,8,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-03-03,shell,2942,3,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-03-03,shell,22651,4,"Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.",StreisandEffect,streisand,https://github.com/StreisandEffect/streisand
+2022-03-03,shell,17634,16,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-03-03,shell,160,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2022-03-03,shell,844,0,,wulabing,V2Ray_ws-tls_bash_onekey,https://github.com/wulabing/V2Ray_ws-tls_bash_onekey
+2022-03-03,shell,27512,2,".files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles
+2022-03-03,shell,1259,2,Docker image for Keycloak project,keycloak,keycloak-containers,https://github.com/keycloak/keycloak-containers
+2022-03-03,shell,3884,6,Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update),SuLingGG,OpenWrt-Rpi,https://github.com/SuLingGG/OpenWrt-Rpi
+2022-03-03,shell,1151,0,"YANG modules from standards organizations such as the IETF, The IEEE, The Metro Ethernet Forum, open source such as Open Daylight or vendor specific modules",YangModels,yang,https://github.com/YangModels/yang
+2022-03-03,shell,4383,9,"Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",quickemu-project,quickemu,https://github.com/quickemu-project/quickemu
+2022-03-03,shell,526,4,"My custom build of wine, made to use with lutris. Built with lutris's buildbot.",GloriousEggroll,wine-ge-custom,https://github.com/GloriousEggroll/wine-ge-custom

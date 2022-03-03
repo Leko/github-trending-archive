@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-03,scala,32186,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-03-03,scala,4110,0,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-03-03,scala,12056,5,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-03-03,scala,10654,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-03-03,scala,2136,3,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-03-03,scala,798,0,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-03-03,scala,2420,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-03-03,scala,1655,1,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-03-03,scala,943,3,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-03-03,scala,2274,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-03-03,scala,6901,1,Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.,twitter-archive,snowflake,https://github.com/twitter-archive/snowflake
+2022-03-03,scala,2521,1,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-03-03,scala,94,0,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2022-03-03,scala,8401,2,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-03-03,scala,78,3,"Qbeast-spark: DataSource enabling multi-dimensional indexing and efficient data sampling. Big Data, free from the unnecessary!",Qbeast-io,qbeast-spark,https://github.com/Qbeast-io/qbeast-spark
+2022-03-03,scala,3244,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-03-03,scala,179,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-03-03,scala,55,0,A STAC/OGC API Features Web Service,azavea,franklin,https://github.com/azavea/franklin
+2022-03-03,scala,2162,3,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-03-03,scala,525,0,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-03-03,scala,6,0,"Network components (NIC, Switch) for FireBox",firesim,icenet,https://github.com/firesim/icenet
+2022-03-03,scala,925,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-03-03,scala,69,3,Elm-inspired Scala UI library.,PurpleKingdomGames,tyrian,https://github.com/PurpleKingdomGames/tyrian
+2022-03-03,scala,5454,6,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-03-03,scala,94,0,,neo4j,neo4j-documentation,https://github.com/neo4j/neo4j-documentation
