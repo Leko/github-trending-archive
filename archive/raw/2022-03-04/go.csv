@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-04,go,23401,183,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-03-04,go,17185,130,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2022-03-04,go,7488,4,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-03-04,go,18625,6,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-03-04,go,1763,5,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2022-03-04,go,3667,98,"High-performance load testing tool, written in Golang.",ddosify,ddosify,https://github.com/ddosify/ddosify
+2022-03-04,go,10794,1,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2022-03-04,go,2894,7,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-03-04,go,574,42,A list of remote-friendly or full-remote companies that targets Italian talents.,italiaremote,awesome-italia-remote,https://github.com/italiaremote/awesome-italia-remote
+2022-03-04,go,13657,8,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-03-04,go,1382,3,Event-driven workflow automation framework,argoproj,argo-events,https://github.com/argoproj/argo-events
+2022-03-04,go,18745,27,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-03-04,go,15179,36,A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-03-04,go,1115,4,Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.,tharsis,evmos,https://github.com/tharsis/evmos
+2022-03-04,go,1220,28,Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.,keptn,keptn,https://github.com/keptn/keptn
+2022-03-04,go,5417,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-03-04,go,1363,33,一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.,zu1k,nali,https://github.com/zu1k/nali
+2022-03-04,go,56061,32,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-03-04,go,31451,18,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-03-04,go,5869,16,基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev Antd beta版本：https://preview.go-admin.dev,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2022-03-04,go,21238,8,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-03-04,go,1508,3,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2022-03-04,go,1286,10,"Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-03-04,go,4273,1,Go client for AMQP 0.9.1,streadway,amqp,https://github.com/streadway/amqp
+2022-03-04,go,888,6,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
