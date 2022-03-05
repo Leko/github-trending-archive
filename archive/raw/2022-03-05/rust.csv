@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-05,rust,5262,242,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-03-05,rust,5837,24,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-03-05,rust,19030,11,A modern editor with a backend written in Rust.,xi-editor,xi-editor,https://github.com/xi-editor/xi-editor
+2022-03-05,rust,2540,6,WebAssembly System Interface,WebAssembly,WASI,https://github.com/WebAssembly/WASI
+2022-03-05,rust,891,161,,vinodotdev,node-to-rust,https://github.com/vinodotdev/node-to-rust
+2022-03-05,rust,10765,7,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2022-03-05,rust,33709,336,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-03-05,rust,3996,11,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2022-03-05,rust,1723,5,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2022-03-05,rust,1978,2,A Rust runtime for AWS Lambda,awslabs,aws-lambda-rust-runtime,https://github.com/awslabs/aws-lambda-rust-runtime
+2022-03-05,rust,1711,6,Apache Arrow DataFusion and Ballista query engines,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-03-05,rust,6902,5,"Standalone JIT-style runtime for WebAssembly, using Cranelift",bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-03-05,rust,3958,8,Userspace WireGuard® Implementation in Rust,cloudflare,boringtun,https://github.com/cloudflare/boringtun
+2022-03-05,rust,6270,6,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
+2022-03-05,rust,12436,13,Cube — Headless Business Intelligence,cube-js,cube.js,https://github.com/cube-js/cube.js
+2022-03-05,rust,2374,7,"A fast, simple, recursive content discovery tool written in Rust.",epi052,feroxbuster,https://github.com/epi052/feroxbuster
+2022-03-05,rust,4126,23,"A massively parallel, optimal functional runtime in Rust",Kindelia,HVM,https://github.com/Kindelia/HVM
+2022-03-05,rust,17374,16,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2022-03-05,rust,1523,4,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2022-03-05,rust,2219,8,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2022-03-05,rust,126,18,Centralized access control for your databases,poonai,inspektor,https://github.com/poonai/inspektor
+2022-03-05,rust,5815,32,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2022-03-05,rust,4820,12,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-03-05,rust,382,21,A better compressed bitset in Rust,RoaringBitmap,roaring-rs,https://github.com/RoaringBitmap/roaring-rs
+2022-03-05,rust,151,3,"Sxhkd clone for Wayland (works on TYY and X11 too) | mirrored at https://git.sr.ht/~shinyzenith/swhkd",waycrate,swhkd,https://github.com/waycrate/swhkd

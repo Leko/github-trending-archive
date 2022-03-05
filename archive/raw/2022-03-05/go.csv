@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-05,go,258,148,,Arriven,db1000n,https://github.com/Arriven/db1000n
+2022-03-05,go,11253,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-03-05,go,7492,6,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-03-05,go,1392,10,Event-driven workflow automation framework,argoproj,argo-events,https://github.com/argoproj/argo-events
+2022-03-05,go,602,31,A list of remote-friendly or full-remote companies that targets Italian talents.,italiaremote,awesome-italia-remote,https://github.com/italiaremote/awesome-italia-remote
+2022-03-05,go,166,27,DevStream: the open-source DevOps toolchain manager (DTM).,merico-dev,stream,https://github.com/merico-dev/stream
+2022-03-05,go,705,17,Asset discovery and identification tools 快速识别 Web 指纹信息，定位资产类型。辅助红队快速定位目标资产信息，辅助蓝队发现疑似脆弱点,zhzyker,dismap,https://github.com/zhzyker/dismap
+2022-03-05,go,6673,3,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-03-05,go,2334,5,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2022-03-05,go,17249,99,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2022-03-05,go,15462,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-03-05,go,4458,4,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2022-03-05,go,1231,18,Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.,keptn,keptn,https://github.com/keptn/keptn
+2022-03-05,go,6965,9,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-03-05,go,21761,9,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2022-03-05,go,3688,29,"High-performance load testing tool, written in Golang.",ddosify,ddosify,https://github.com/ddosify/ddosify
+2022-03-05,go,1606,0,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2022-03-05,go,7312,5,Swagger 2.0 implementation for go,go-swagger,go-swagger,https://github.com/go-swagger/go-swagger
+2022-03-05,go,7151,4,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2022-03-05,go,19840,17,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2022-03-05,go,37085,23,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2022-03-05,go,7613,13,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2022-03-05,go,5882,14,基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev Antd beta版本：https://preview.go-admin.dev,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2022-03-05,go,13770,2,"Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2022-03-05,go,2346,3,"Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",CrunchyData,postgres-operator,https://github.com/CrunchyData/postgres-operator
