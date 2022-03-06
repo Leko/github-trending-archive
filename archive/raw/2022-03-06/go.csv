@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-06,go,362,109,,Arriven,db1000n,https://github.com/Arriven/db1000n
+2022-03-06,go,23590,97,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-03-06,go,12847,21,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-03-06,go,222,38,Quickly discover exposed hosts on the internet using multiple search engine.,projectdiscovery,uncover,https://github.com/projectdiscovery/uncover
+2022-03-06,go,11257,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-03-06,go,740,283,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-03-06,go,27058,11,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-03-06,go,617,15,A list of remote-friendly or full-remote companies that targets Italian talents.,italiaremote,awesome-italia-remote,https://github.com/italiaremote/awesome-italia-remote
+2022-03-06,go,17267,18,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2022-03-06,go,6187,23,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
+2022-03-06,go,30826,12,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
+2022-03-06,go,41322,13,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-03-06,go,4036,6,Security scanner for your Terraform code,aquasecurity,tfsec,https://github.com/aquasecurity/tfsec
+2022-03-06,go,4356,6,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2022-03-06,go,86075,26,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-03-06,go,1396,4,Event-driven workflow automation framework,argoproj,argo-events,https://github.com/argoproj/argo-events
+2022-03-06,go,12837,2,Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.,txthinking,brook,https://github.com/txthinking/brook
+2022-03-06,go,6679,7,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-03-06,go,3361,2,The Modern Application Platform.,oam-dev,kubevela,https://github.com/oam-dev/kubevela
+2022-03-06,go,29667,9,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2022-03-06,go,35881,12,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-03-06,go,3363,4,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2022-03-06,go,2340,6,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2022-03-06,go,5197,4,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2022-03-06,go,9031,12,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere

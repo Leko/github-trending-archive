@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-06,shell,11458,1,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-03-06,shell,17689,19,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-03-06,shell,41,2,,lroudge,holberton-system_engineering-devops,https://github.com/lroudge/holberton-system_engineering-devops
+2022-03-06,shell,870,3,"WARP 一键安装脚本 | Cloudflare WARP Installer | A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.",P3TERX,warp.sh,https://github.com/P3TERX/warp.sh
+2022-03-06,shell,7584,6,"Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.",angristan,openvpn-install,https://github.com/angristan/openvpn-install
+2022-03-06,shell,7287,7,OpenVPN server in a Docker container complete with an EasyRSA PKI CA,kylemanna,docker-openvpn,https://github.com/kylemanna/docker-openvpn
+2022-03-06,shell,485,6,Cloudflare WARP 多功能一键脚本，screen一键手动/自动刷新支持Netflix奈飞的IP（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP的时间段间隔，2：自定义设置奈飞的IP区域，3：自定义设置仅刷IP区域），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…,kkkyg,CFwarp,https://github.com/kkkyg/CFwarp
+2022-03-06,shell,4513,2,"Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,docker-ipsec-vpn-server,https://github.com/hwdsl2/docker-ipsec-vpn-server
+2022-03-06,shell,303,2,这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。,tossp,redpill-tool-chain,https://github.com/tossp/redpill-tool-chain
+2022-03-06,shell,21684,15,Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2022-03-06,shell,30922,4,Amazon Web Services — a practical guide,open-guides,og-aws,https://github.com/open-guides/og-aws
+2022-03-06,shell,2983,4,A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-03-06,shell,5662,4,Docker images for the Selenium Grid Server,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2022-03-06,shell,274,3,"Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.",ophub,amlogic-s9xxx-armbian,https://github.com/ophub/amlogic-s9xxx-armbian
+2022-03-06,shell,947,5,"WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",fscarmen,warp,https://github.com/fscarmen/warp
+2022-03-06,shell,13,0,Practicing basic shell scripts,philipyoo,holbertonschool-sysadmin_devops,https://github.com/philipyoo/holbertonschool-sysadmin_devops
+2022-03-06,shell,2789,15,A cli tool to browse and play anime,pystardust,ani-cli,https://github.com/pystardust/ani-cli
+2022-03-06,shell,560,0,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2022-03-06,shell,22669,6,"Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.",StreisandEffect,streisand,https://github.com/StreisandEffect/streisand
+2022-03-06,shell,438,15,"Highly opinionated template for deploying a single k3s cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions and Renovate",k8s-at-home,template-cluster-k3s,https://github.com/k8s-at-home/template-cluster-k3s
+2022-03-06,shell,12,1,SL VPN,fisabiliyusri,Mantap,https://github.com/fisabiliyusri/Mantap
+2022-03-06,shell,3014,12,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-03-06,shell,15205,9,binary releases of VS Code without MS branding/telemetry/licensing,VSCodium,vscodium,https://github.com/VSCodium/vscodium
+2022-03-06,shell,55846,26,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-03-06,shell,4147,6,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
