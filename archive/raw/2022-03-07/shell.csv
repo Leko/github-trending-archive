@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-07,shell,7412,5,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-03-07,shell,12516,14,A curated list for awesome kubernetes sources,ramitsurana,awesome-kubernetes,https://github.com/ramitsurana/awesome-kubernetes
+2022-03-07,shell,442,4,"Highly opinionated template for deploying a single k3s cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions and Renovate",k8s-at-home,template-cluster-k3s,https://github.com/k8s-at-home/template-cluster-k3s
+2022-03-07,shell,2796,7,A cli tool to browse and play anime,pystardust,ani-cli,https://github.com/pystardust/ani-cli
+2022-03-07,shell,8639,11,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2022-03-07,shell,488,3,Cloudflare WARP 多功能一键脚本，screen一键手动/自动刷新支持Netflix奈飞的IP（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP的时间段间隔，2：自定义设置奈飞的IP区域，3：自定义设置仅刷IP区域），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…,kkkyg,CFwarp,https://github.com/kkkyg/CFwarp
+2022-03-07,shell,2195,4,A collection of things I have made to make the Unifi Dream Machine more useful,boostchicken-dev,udm-utilities,https://github.com/boostchicken-dev/udm-utilities
+2022-03-07,shell,64294,32,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
+2022-03-07,shell,275,1,"Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.",ophub,amlogic-s9xxx-armbian,https://github.com/ophub/amlogic-s9xxx-armbian
+2022-03-07,shell,1252,5,A bash script to check if your VPS's IP is available for various OTT platforms,lmc999,RegionRestrictionCheck,https://github.com/lmc999/RegionRestrictionCheck
+2022-03-07,shell,35294,13,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2022-03-07,shell,15208,6,binary releases of VS Code without MS branding/telemetry/licensing,VSCodium,vscodium,https://github.com/VSCodium/vscodium
+2022-03-07,shell,17704,17,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-03-07,shell,523,0,Grab target's webcam shots by link,hangetzzu,saycheese,https://github.com/hangetzzu/saycheese
+2022-03-07,shell,22672,4,"Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.",StreisandEffect,streisand,https://github.com/StreisandEffect/streisand
+2022-03-07,shell,2907,10,WireGuard VPN installer for Linux servers,angristan,wireguard-install,https://github.com/angristan/wireguard-install
+2022-03-07,shell,453,51,Awesome Twitter Communities for Engineers,mattn,awesome-twitter-communities,https://github.com/mattn/awesome-twitter-communities
+2022-03-07,shell,7259,4,Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本,wulabing,Xray_onekey,https://github.com/wulabing/Xray_onekey
+2022-03-07,shell,55860,20,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-03-07,shell,4156,11,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2022-03-07,shell,304,2,这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。,tossp,redpill-tool-chain,https://github.com/tossp/redpill-tool-chain
+2022-03-07,shell,13483,1,Default configuration for Le Wagon's students,lewagon,dotfiles,https://github.com/lewagon/dotfiles
+2022-03-07,shell,2142,3,An ArchLinux based distribution for penetration testers and security researchers.,BlackArch,blackarch,https://github.com/BlackArch/blackarch
+2022-03-07,shell,206,11,Proxmox Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2022-03-07,shell,4861,11,（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent

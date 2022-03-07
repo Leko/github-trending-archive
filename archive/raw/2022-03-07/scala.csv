@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-07,scala,32206,7,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-03-07,scala,10940,1,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-03-07,scala,12062,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-03-07,scala,4643,0,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-03-07,scala,678,0,Mirror of Apache livy (Incubating),apache,incubator-livy,https://github.com/apache/incubator-livy
+2022-03-07,scala,4895,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-03-07,scala,20,2,Open source machine learning accelerators,tensil-ai,tensil,https://github.com/tensil-ai/tensil
+2022-03-07,scala,751,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-03-07,scala,8176,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-03-07,scala,2226,1,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-03-07,scala,1283,0,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2022-03-07,scala,2513,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-03-07,scala,2149,2,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-03-07,scala,391,0,Ergo protocol description & reference client implementation,ergoplatform,ergo,https://github.com/ergoplatform/ergo
+2022-03-07,scala,4524,1,Principled Functional Programming in Scala,scalaz,scalaz,https://github.com/scalaz/scalaz
+2022-03-07,scala,14,0,A Scala library for Context-Dependent Evironments,chipsalliance,api-config-chipsalliance,https://github.com/chipsalliance/api-config-chipsalliance
+2022-03-07,scala,309,0,A template project for beginning new Chisel work,freechipsproject,chisel-template,https://github.com/freechipsproject/chisel-template
+2022-03-07,scala,1255,2,Home of the OpenComputers mod for Minecraft.,MightyPirates,OpenComputers,https://github.com/MightyPirates/OpenComputers
+2022-03-07,scala,4124,2,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-03-07,scala,5459,0,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-03-07,scala,5348,2,Hybrid visual and textual functional programming.,enso-org,enso,https://github.com/enso-org/enso
+2022-03-07,scala,179,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-03-07,scala,2142,0,"Fast, testable, Scala services built on TwitterServer and Finagle",twitter,finatra,https://github.com/twitter/finatra
+2022-03-07,scala,8601,1,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-03-07,scala,45,0,,ucb-bar,testchipip,https://github.com/ucb-bar/testchipip
