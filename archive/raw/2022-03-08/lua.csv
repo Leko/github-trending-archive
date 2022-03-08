@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-08,lua,595,2,"A soft dark, fully customizable (Neo)Vim theme, with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2022-03-08,lua,10023,0,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-03-08,lua,5068,8,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-03-08,lua,1526,11,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-03-08,lua,3971,9,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-03-08,lua,2314,12,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-03-08,lua,2369,7,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-03-08,lua,1837,16,AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,kabinspace,AstroVim,https://github.com/kabinspace/AstroVim
+2022-03-08,lua,7698,11,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-03-08,lua,1425,3,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-03-08,lua,1327,6,Debug Adapter Protocol client implementation for Neovim (>= 0.5),mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2022-03-08,lua,8,0,Farming Script For QBCore,trclassic92,qb-simplefarming,https://github.com/trclassic92/qb-simplefarming
+2022-03-08,lua,341,2,Standalone UI for nvim-lsp progress,j-hui,fidget.nvim,https://github.com/j-hui/fidget.nvim
+2022-03-08,lua,87,0,Official Repo For ESX-Legacy,esx-framework,esx-legacy,https://github.com/esx-framework/esx-legacy
+2022-03-08,lua,17,0,"Ambulance Job, Hospital System & Death System For QB-Core",qbcore-framework,qb-ambulancejob,https://github.com/qbcore-framework/qb-ambulancejob
+2022-03-08,lua,461,0,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2022-03-08,lua,4,0,Management menu for jobs & gangs,qbcore-framework,qb-management,https://github.com/qbcore-framework/qb-management
+2022-03-08,lua,66,0,Emotes / Animations for fiveM with Prop support.,andristum,dpemotes,https://github.com/andristum/dpemotes
+2022-03-08,lua,962,3,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2022-03-08,lua,774,2,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-03-08,lua,2061,2,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2022-03-08,lua,20,0,A compilation of small resources combined into one,qbcore-framework,qb-smallresources,https://github.com/qbcore-framework/qb-smallresources
+2022-03-08,lua,955,3,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-03-08,lua,79,1,DCS UH-60L Mod release repository,Kinkkujuustovoileipa,uh-60l,https://github.com/Kinkkujuustovoileipa/uh-60l
+2022-03-08,lua,1061,7,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
