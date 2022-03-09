@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-09,haskell,26074,10,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-03-09,haskell,28043,17,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-03-09,haskell,18432,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-03-09,haskell,6585,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-03-09,haskell,24904,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-03-09,haskell,1600,7,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-03-09,haskell,3,1,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-03-09,haskell,35,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-03-09,haskell,30,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-03-09,haskell,51,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-03-09,haskell,12,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-03-09,haskell,2,0,report for the University of Glasgow FP(H) course (COMPSCI4021),wimvanderbauwhede,fph,https://github.com/wimvanderbauwhede/fph
+2022-03-09,haskell,10,0,,digital-asset,lib-finance,https://github.com/digital-asset/lib-finance
+2022-03-09,haskell,1254,2,,input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2022-03-09,haskell,1971,3,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-03-09,haskell,0,0,Wolfram’s elementary cellular automaton.,AntoinePoisson,Haskell-Wolfram,https://github.com/AntoinePoisson/Haskell-Wolfram
+2022-03-09,haskell,1,0,Epitech project : Functional Programming,Harmos274,Wolfram,https://github.com/Harmos274/Wolfram
+2022-03-09,haskell,170,0,Nix backend for PureScript. Transpile PureScript code to Nix.,purenix-org,purenix,https://github.com/purenix-org/purenix
+2022-03-09,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-03-09,haskell,511,1,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-03-09,haskell,1371,6,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-03-09,haskell,6774,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-03-09,haskell,1982,2,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-03-09,haskell,6,0,A web framework a bit like GWT but for Haskell,mmirman,haskogeneous,https://github.com/mmirman/haskogeneous
+2022-03-09,haskell,4,0,"Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH",necrobious,hS3,https://github.com/necrobious/hS3

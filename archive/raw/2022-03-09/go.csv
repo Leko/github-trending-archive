@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-09,go,2360,534,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-03-09,go,1669,300,Yao A low code engine to create web services and dashboard.,YaoApp,yao,https://github.com/YaoApp/yao
+2022-03-09,go,751,42,A list of remote-friendly or full-remote companies that targets Italian talents.,italiaremote,awesome-italia-remote,https://github.com/italiaremote/awesome-italia-remote
+2022-03-09,go,575,66,,Arriven,db1000n,https://github.com/Arriven/db1000n
+2022-03-09,go,16882,19,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-03-09,go,6788,6,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2022-03-09,go,2887,31,"A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-03-09,go,11945,3,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2022-03-09,go,5041,5,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-03-09,go,27506,20,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2022-03-09,go,96230,56,The Go programming language,golang,go,https://github.com/golang/go
+2022-03-09,go,7653,27,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2022-03-09,go,293,12,sensitive information protection toolkit,bytedance,godlp,https://github.com/bytedance/godlp
+2022-03-09,go,646,7,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2022-03-09,go,2102,1,"The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.",aws,copilot-cli,https://github.com/aws/copilot-cli
+2022-03-09,go,15289,6,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",buger,goreplay,https://github.com/buger/goreplay
+2022-03-09,go,6082,7,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2022-03-09,go,1310,2,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2022-03-09,go,76590,77,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-03-09,go,31526,19,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-03-09,go,16566,13,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2022-03-09,go,676,0,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2022-03-09,go,12801,10,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-03-09,go,2016,22,"An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0 / OIDC and SAML authentication, QQ group: 645200447",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-03-09,go,2611,6,RocksDB/LevelDB inspired key-value database in Go,cockroachdb,pebble,https://github.com/cockroachdb/pebble
