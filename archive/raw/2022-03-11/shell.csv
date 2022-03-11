@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-11,shell,108,20,CVE-2022-0847-DirtyPipe-Exploit CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。 CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”,imfiver,CVE-2022-0847,https://github.com/imfiver/CVE-2022-0847
+2022-03-11,shell,11479,8,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-03-11,shell,4960,7,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-03-11,shell,17305,5,Home repository for .NET Core,dotnet,core,https://github.com/dotnet/core
+2022-03-11,shell,7644,4,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-03-11,shell,2977,4,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-03-11,shell,2964,6,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-03-11,shell,27156,34,Official electron build of diagrams.net,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2022-03-11,shell,2137,4,Home Assistant Operating System,home-assistant,operating-system,https://github.com/home-assistant/operating-system
+2022-03-11,shell,13432,14,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-03-11,shell,1891,7,ramlog like for systemd (Put log into a ram folder),azlux,log2ram,https://github.com/azlux/log2ram
+2022-03-11,shell,1441,1,Kubernetes CheatSheets In A4,dennyzhang,cheatsheet-kubernetes-A4,https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+2022-03-11,shell,55954,29,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-03-11,shell,6029,3,Dockerfile for Apache Kafka,wurstmeister,kafka-docker,https://github.com/wurstmeister/kafka-docker
+2022-03-11,shell,5255,1,"Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2022-03-11,shell,6732,5,"List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",toniblyx,my-arsenal-of-aws-security-tools,https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+2022-03-11,shell,4800,0,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2022-03-11,shell,1320,1,"Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt",htpcBeginner,docker-traefik,https://github.com/htpcBeginner/docker-traefik
+2022-03-11,shell,141876,57,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-03-11,shell,557,3,一个多服务器端口租用管理面板,Aurora-Admin-Panel,deploy,https://github.com/Aurora-Admin-Panel/deploy
+2022-03-11,shell,1583,3,Apache Hadoop docker image,big-data-europe,docker-hadoop,https://github.com/big-data-europe/docker-hadoop
+2022-03-11,shell,8361,3,"Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",spinnaker,spinnaker,https://github.com/spinnaker/spinnaker
+2022-03-11,shell,1040,1,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2022-03-11,shell,126,6,本仓库仅原版303的一键安装脚本，顺便加开防火墙+改连接数+自启动守护 矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理。,mp303eth,MinerProxy303,https://github.com/mp303eth/MinerProxy303
+2022-03-11,shell,683,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public

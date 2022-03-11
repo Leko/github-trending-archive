@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-11,perl,13652,2,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2022-03-11,perl,2096,1,"Policy-driven snapshot management and replication tools. Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.",jimsalterjrs,sanoid,https://github.com/jimsalterjrs/sanoid
+2022-03-11,perl,12639,4,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2022-03-11,perl,195,0,Spec and test data for the MaxMind DB file format,maxmind,MaxMind-DB,https://github.com/maxmind/MaxMind-DB
+2022-03-11,perl,101,0,"OBS build script, can be used with OBS or stand alone",openSUSE,obs-build,https://github.com/openSUSE/obs-build
+2022-03-11,perl,1,0,Language files for Binary.com Websockets API service,binary-com,translations-websockets-api,https://github.com/binary-com/translations-websockets-api
+2022-03-11,perl,0,0,,binary-com,perl-Locale-Maketext-Test,https://github.com/binary-com/perl-Locale-Maketext-Test
+2022-03-11,perl,1,0,,binary-com,perl-IPC-LeaderBoard,https://github.com/binary-com/perl-IPC-LeaderBoard
+2022-03-11,perl,15370,8,Good-lookin' diffs. Actually… nah… The best-lookin' diffs.,so-fancy,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy
+2022-03-11,perl,264,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2022-03-11,perl,217,0,FusionInventory Agent,fusioninventory,fusioninventory-agent,https://github.com/fusioninventory/fusioninventory-agent
+2022-03-11,perl,0,0,Address lookup and verification API,binary-com,perl-WebService-Async-SmartyStreets,https://github.com/binary-com/perl-WebService-Async-SmartyStreets
+2022-03-11,perl,0,0,,binary-com,perl-Finance-MIFIR-CONCAT,https://github.com/binary-com/perl-Finance-MIFIR-CONCAT
+2022-03-11,perl,0,0,,binary-com,perl-Perl-Critic-Policy-Subroutines-ProhibitAmbiguousFunctionCalls,https://github.com/binary-com/perl-Perl-Critic-Policy-Subroutines-ProhibitAmbiguousFunctionCalls
+2022-03-11,perl,0,0,,binary-com,perl-Mojolicious-Plugin-ClientIP-Pluggable,https://github.com/binary-com/perl-Mojolicious-Plugin-ClientIP-Pluggable
+2022-03-11,perl,0,0,,binary-com,perl-Ethereum-RPC-Client,https://github.com/binary-com/perl-Ethereum-RPC-Client
+2022-03-11,perl,0,0,,binary-com,perl-Math-Business-Lookback,https://github.com/binary-com/perl-Math-Business-Lookback
+2022-03-11,perl,0,0,,binary-com,perl-WebService-Async-Onfido,https://github.com/binary-com/perl-WebService-Async-Onfido
+2022-03-11,perl,0,0,Fork of JSON::Validator Perl module,binary-com,perl-JSON-Validator,https://github.com/binary-com/perl-JSON-Validator
+2022-03-11,perl,0,0,Synchronous API support for the SendBird messaging service.,binary-com,perl-WebService-SendBird,https://github.com/binary-com/perl-WebService-SendBird
+2022-03-11,perl,0,0,,binary-com,perl-Email-Stuffer-TestLinks,https://github.com/binary-com/perl-Email-Stuffer-TestLinks
+2022-03-11,perl,0,0,,binary-com,perl-DBIx-Connector-Pg,https://github.com/binary-com/perl-DBIx-Connector-Pg
+2022-03-11,perl,723,0,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2022-03-11,perl,0,0,,regentmarkets,perl-Finance-Contract-Longcode,https://github.com/regentmarkets/perl-Finance-Contract-Longcode
+2022-03-11,perl,84,1,FreeRDP Manuals,awakecoding,FreeRDP-Manuals,https://github.com/awakecoding/FreeRDP-Manuals

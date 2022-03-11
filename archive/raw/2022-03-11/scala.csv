@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-11,scala,32246,13,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-03-11,scala,3206,8,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-03-11,scala,3262,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-03-11,scala,4137,4,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-03-11,scala,8177,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-03-11,scala,2248,2,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2022-03-11,scala,4896,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-03-11,scala,4642,2,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-03-11,scala,12075,4,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-03-11,scala,2,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-03-11,scala,4485,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-03-11,scala,59,13,Open source machine learning accelerators,tensil-ai,tensil,https://github.com/tensil-ai/tensil
+2022-03-11,scala,97,1,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2022-03-11,scala,1831,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-03-11,scala,2150,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-03-11,scala,1661,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-03-11,scala,23,2,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-03-11,scala,172,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2022-03-11,scala,392,2,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-03-11,scala,5593,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-03-11,scala,12098,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-03-11,scala,2228,2,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-03-11,scala,2384,3,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-03-11,scala,2275,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-03-11,scala,5460,0,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
