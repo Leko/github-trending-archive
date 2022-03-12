@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-12,haskell,28087,13,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-03-12,haskell,6598,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-03-12,haskell,1975,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-03-12,haskell,26103,11,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-03-12,haskell,18442,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-03-12,haskell,4290,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-03-12,haskell,2583,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-03-12,haskell,78,0,SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.,simplex-chat,simplexmq,https://github.com/simplex-chat/simplexmq
+2022-03-12,haskell,718,17,SimpleX - the first chat platform that is 100% private by design - iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-03-12,haskell,100,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-03-12,haskell,3106,6,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-03-12,haskell,944,0,How to learn front-end or back-end development,fullstack-development,developers-roadmap,https://github.com/fullstack-development/developers-roadmap
+2022-03-12,haskell,5,0,Propositional Logic Apropos Types,mlabs-haskell,apropos,https://github.com/mlabs-haskell/apropos
+2022-03-12,haskell,632,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-03-12,haskell,1347,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-03-12,haskell,15,1,Machinery for throwing and catching exceptions with some annotation.,parsonsmatt,annotated-exception,https://github.com/parsonsmatt/annotated-exception
+2022-03-12,haskell,1606,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-03-12,haskell,511,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-03-12,haskell,209,2,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-03-12,haskell,7,1,Thin Backend (IHP GraphQL) is a blazing fast GraphQL Server that provides an instant GraphQL API for any postgres database,digitallyinduced,thin-backend,https://github.com/digitallyinduced/thin-backend
+2022-03-12,haskell,1950,0,"A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-03-12,haskell,10,0,,digital-asset,lib-finance,https://github.com/digital-asset/lib-finance
+2022-03-12,haskell,3,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-03-12,haskell,69,2,NFT Marketplace on the Cardano Blockchain. Powered by Plutus Smart Contracts,MartifyLabs,martify.contracts,https://github.com/MartifyLabs/martify.contracts
+2022-03-12,haskell,68,1,Haskell Protobuf Implementation,awakesecurity,proto3-suite,https://github.com/awakesecurity/proto3-suite

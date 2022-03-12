@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-12,r,390,1,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define m…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2022-03-12,r,2764,4,Statistical Rethinking course winter 2022,rmcelreath,stat_rethinking_2022,https://github.com/rmcelreath/stat_rethinking_2022
+2022-03-12,r,2402,2,Dynamic Documents for R,rstudio,rmarkdown,https://github.com/rstudio/rmarkdown
+2022-03-12,r,4024,2,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2022-03-12,r,0,0,,tra418,BIS-044-Spring-2022,https://github.com/tra418/BIS-044-Spring-2022
+2022-03-12,r,3368,2,R for data science: a book,hadley,r4ds,https://github.com/hadley/r4ds
+2022-03-12,r,1379,2,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2022-03-12,r,328,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2022-03-12,r,5314,2,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2022-03-12,r,1560,1,Machine Learning in R,mlr-org,mlr,https://github.com/mlr-org/mlr
+2022-03-12,r,4591,3,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2022-03-12,r,204,1,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2022-03-12,r,33,1,Haplotype-aware CNV analysis in scRNA-Seq,kharchenkolab,numbat,https://github.com/kharchenkolab/numbat
+2022-03-12,r,255,1,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2022-03-12,r,819,0,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2022-03-12,r,1388,0,R Interface to Python,rstudio,reticulate,https://github.com/rstudio/reticulate
+2022-03-12,r,411,1,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2022-03-12,r,150,0,R toolkit for the analysis of single-cell chromatin data,timoast,signac,https://github.com/timoast/signac
+2022-03-12,r,2151,1,An interactive graphing library for R,plotly,plotly.R,https://github.com/plotly/plotly.R
+2022-03-12,r,401,1,Interactive viewing of spatial data in R,r-spatial,mapview,https://github.com/r-spatial/mapview
+2022-03-12,r,2978,1,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2022-03-12,r,974,1,Repel overlapping text labels away from each other.,slowkow,ggrepel,https://github.com/slowkow/ggrepel
+2022-03-12,r,896,0,"Read flat files (csv, tsv, fwf) into R",tidyverse,readr,https://github.com/tidyverse/readr
+2022-03-12,r,828,0,'ggplot2' Based Publication Ready Plots,kassambara,ggpubr,https://github.com/kassambara/ggpubr
+2022-03-12,r,2038,1,The Composer of ggplots,thomasp85,patchwork,https://github.com/thomasp85/patchwork

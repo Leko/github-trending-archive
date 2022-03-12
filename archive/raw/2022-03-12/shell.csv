@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-12,shell,11520,42,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-03-12,shell,4968,8,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-03-12,shell,2967,3,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-03-12,shell,12787,13,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2022-03-12,shell,2822,4,A cli tool to browse and play anime,pystardust,ani-cli,https://github.com/pystardust/ani-cli
+2022-03-12,shell,42,12,StableTaxMinerProxy,MieBaMinerProxy,StableTaxMinerProxy,https://github.com/MieBaMinerProxy/StableTaxMinerProxy
+2022-03-12,shell,2476,0,Official NGINX Dockerfiles,nginxinc,docker-nginx,https://github.com/nginxinc/docker-nginx
+2022-03-12,shell,2983,7,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-03-12,shell,53421,20,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2022-03-12,shell,4149,2,Documentation for Docker Official Images in docker-library,docker-library,docs,https://github.com/docker-library/docs
+2022-03-12,shell,17807,28,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-03-12,shell,124,17,CVE-2022-0847-DirtyPipe-Exploit CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。 CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”,imfiver,CVE-2022-0847,https://github.com/imfiver/CVE-2022-0847
+2022-03-12,shell,2559,3,"The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!",pry0cc,axiom,https://github.com/pry0cc/axiom
+2022-03-12,shell,7647,3,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-03-12,shell,4867,5,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2022-03-12,shell,1744,3,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2022-03-12,shell,4239,3,RFCs for changes to Rust,rust-lang,rfcs,https://github.com/rust-lang/rfcs
+2022-03-12,shell,1895,4,ramlog like for systemd (Put log into a ram folder),azlux,log2ram,https://github.com/azlux/log2ram
+2022-03-12,shell,55974,26,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-03-12,shell,1295,1,"An open-source, next-generation ""runc"" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",nestybox,sysbox,https://github.com/nestybox/sysbox
+2022-03-12,shell,3436,3,TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.,apple,tensorflow_macos,https://github.com/apple/tensorflow_macos
+2022-03-12,shell,5184,5,"Primary source of truth for the Docker ""Official Images"" program",docker-library,official-images,https://github.com/docker-library/official-images
+2022-03-12,shell,6032,3,Dockerfile for Apache Kafka,wurstmeister,kafka-docker,https://github.com/wurstmeister/kafka-docker
+2022-03-12,shell,4259,2,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2022-03-12,shell,1404,1,Apache Kafka and Confluent Platform examples and demos,confluentinc,examples,https://github.com/confluentinc/examples

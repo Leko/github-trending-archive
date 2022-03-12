@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-12,go,4035,214,"Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",liamg,traitor,https://github.com/liamg/traitor
+2022-03-12,go,16913,38,Learn Go with test-driven development,quii,learn-go-with-tests,https://github.com/quii/learn-go-with-tests
+2022-03-12,go,2546,198,Yao A low code engine to create web services and dashboard.,YaoApp,yao,https://github.com/YaoApp/yao
+2022-03-12,go,62393,11,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-03-12,go,23470,13,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-03-12,go,86385,35,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-03-12,go,8682,9,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-03-12,go,3088,12,基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。,xinliangnote,go-gin-api,https://github.com/xinliangnote/go-gin-api
+2022-03-12,go,10487,11,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-03-12,go,9881,24,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",geektutu,7days-golang,https://github.com/geektutu/7days-golang
+2022-03-12,go,10711,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-03-12,go,4772,7,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2022-03-12,go,11475,15,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-03-12,go,13554,10,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-03-12,go,16863,10,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2022-03-12,go,8558,10,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2022-03-12,go,3223,2,Test infrastructure for the Kubernetes project.,kubernetes,test-infra,https://github.com/kubernetes/test-infra
+2022-03-12,go,4923,12,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2022-03-12,go,9311,13,Scan git repos (or files) for secrets using regex and entropy,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-03-12,go,11963,8,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2022-03-12,go,96368,55,The Go programming language,golang,go,https://github.com/golang/go
+2022-03-12,go,13725,9,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-03-12,go,6276,23,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
+2022-03-12,go,3789,1,Deploy Kubernetes Helm Charts,roboll,helmfile,https://github.com/roboll/helmfile
+2022-03-12,go,35982,19,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
