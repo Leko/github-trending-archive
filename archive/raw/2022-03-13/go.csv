@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-13,go,4245,216,"Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",liamg,traitor,https://github.com/liamg/traitor
+2022-03-13,go,1020,78,"Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/",sysdream,ligolo,https://github.com/sysdream/ligolo
+2022-03-13,go,22155,160,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-03-13,go,238,71,"A lightweight, cloud-native data transfer agent and aggregator",loggie-io,loggie,https://github.com/loggie-io/loggie
+2022-03-13,go,1968,13,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2022-03-13,go,3689,0,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2022-03-13,go,900,2,The Optimism monorepo,ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-03-13,go,15457,34,A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-03-13,go,22539,5,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2022-03-13,go,110,6,"An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.",cnosdb,cnosdb,https://github.com/cnosdb/cnosdb
+2022-03-13,go,11282,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-03-13,go,867,11,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2022-03-13,go,2248,8,API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes,up9inc,mizu,https://github.com/up9inc/mizu
+2022-03-13,go,16987,89,Learn Go with test-driven development,quii,learn-go-with-tests,https://github.com/quii/learn-go-with-tests
+2022-03-13,go,9756,13,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2022-03-13,go,18686,11,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-03-13,go,9662,4,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2022-03-13,go,5964,9,A vault for securely storing and accessing AWS credentials in development environments,99designs,aws-vault,https://github.com/99designs/aws-vault
+2022-03-13,go,10101,8,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2022-03-13,go,11108,9,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-03-13,go,3016,21,"A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-03-13,go,2543,7,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity. https://karpenter.sh",aws,karpenter,https://github.com/aws/karpenter
+2022-03-13,go,3933,2,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2022-03-13,go,21971,14,"The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |",kataras,iris,https://github.com/kataras/iris
+2022-03-13,go,3312,4,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
