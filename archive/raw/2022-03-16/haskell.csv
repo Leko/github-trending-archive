@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-16,haskell,7607,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-03-16,haskell,1977,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-03-16,haskell,3,0,A lamba calculus implemented in haskell.,bavardage,mu2,https://github.com/bavardage/mu2
+2022-03-16,haskell,511,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-03-16,haskell,1560,2,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2022-03-16,haskell,6612,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-03-16,haskell,26127,6,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-03-16,haskell,836,0,Haskell code prettifier,haskell,stylish-haskell,https://github.com/haskell/stylish-haskell
+2022-03-16,haskell,28128,12,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-03-16,haskell,951,1,How to learn front-end or back-end development,fullstack-development,developers-roadmap,https://github.com/fullstack-development/developers-roadmap
+2022-03-16,haskell,24944,7,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-03-16,haskell,1771,2,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-03-16,haskell,1347,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-03-16,haskell,2423,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-03-16,haskell,174,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-03-16,haskell,2665,1,"A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",krispo,awesome-haskell,https://github.com/krispo/awesome-haskell
+2022-03-16,haskell,3121,5,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-03-16,haskell,2587,4,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-03-16,haskell,1992,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-03-16,haskell,2385,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-03-16,haskell,5,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-03-16,haskell,1,0,simple wrapper around Google Custom Search API,kowey,customsearch,https://github.com/kowey/customsearch
+2022-03-16,haskell,82,0,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2022-03-16,haskell,1390,3,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-03-16,haskell,69,0,NFT Marketplace on the Cardano Blockchain. Powered by Plutus Smart Contracts,MartifyLabs,martify.contracts,https://github.com/MartifyLabs/martify.contracts

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-16,go,967,206,File system for GitHub,winfsp,hubfs,https://github.com/winfsp/hubfs
+2022-03-16,go,8219,10,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-03-16,go,1928,24,Open source hyperconverged infrastructure (HCI) software,harvester,harvester,https://github.com/harvester/harvester
+2022-03-16,go,446,50,"A lightweight, cloud-native data transfer agent and aggregator",loggie-io,loggie,https://github.com/loggie-io/loggie
+2022-03-16,go,3697,3,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2022-03-16,go,1783,5,Cross-cloud cost allocation models for Kubernetes workloads,kubecost,cost-model,https://github.com/kubecost/cost-model
+2022-03-16,go,483,2,"The ApplicationSet controller manages multiple Argo CD Applications as a single ApplicationSet unit, supporting deployments to large numbers of clusters, deployments of large monorepos, and enabling secure Application self-service.",argoproj,applicationset,https://github.com/argoproj/applicationset
+2022-03-16,go,3845,15,A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.,cloudwego,kitex,https://github.com/cloudwego/kitex
+2022-03-16,go,2158,2,"Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x and 6.x",oliver006,redis_exporter,https://github.com/oliver006/redis_exporter
+2022-03-16,go,7541,5,Go from Docker Compose to Kubernetes,kubernetes,kompose,https://github.com/kubernetes/kompose
+2022-03-16,go,1985,23,Curated list of resources for the development and applications of blockchain.,yjjnls,awesome-blockchain,https://github.com/yjjnls/awesome-blockchain
+2022-03-16,go,4560,8,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2022-03-16,go,4038,16,Terminal file manager,gokcehan,lf,https://github.com/gokcehan/lf
+2022-03-16,go,11576,8,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2022-03-16,go,865,3,"The Altinity Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes",Altinity,clickhouse-operator,https://github.com/Altinity/clickhouse-operator
+2022-03-16,go,13764,14,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-03-16,go,8196,6,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2022-03-16,go,6022,7,Fast and secure standalone server for resizing and converting remote images,imgproxy,imgproxy,https://github.com/imgproxy/imgproxy
+2022-03-16,go,6707,3,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-03-16,go,12994,18,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-03-16,go,6501,4,The Go driver for MongoDB,mongodb,mongo-go-driver,https://github.com/mongodb/mongo-go-driver
+2022-03-16,go,1754,9,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2022-03-16,go,21855,15,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2022-03-16,go,2858,13,"Copier for golang, copy value from struct to struct and more",jinzhu,copier,https://github.com/jinzhu/copier
+2022-03-16,go,15070,16,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
