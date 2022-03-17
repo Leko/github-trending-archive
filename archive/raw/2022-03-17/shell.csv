@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-17,shell,3399,62,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-03-17,shell,285,12,Proxmox Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2022-03-17,shell,3536,6,My dotfiles (deployed by LARBS),LukeSmithxyz,voidrice,https://github.com/LukeSmithxyz/voidrice
+2022-03-17,shell,56112,28,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-03-17,shell,11557,6,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-03-17,shell,18103,61,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-03-17,shell,4993,6,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-03-17,shell,27560,5,".files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles
+2022-03-17,shell,683,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2022-03-17,shell,1073,2,XMonad. Widgets go brr.,Axarva,dotfiles-2.0,https://github.com/Axarva/dotfiles-2.0
+2022-03-17,shell,7194,5,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2022-03-17,shell,2981,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-03-17,shell,771,37,Rockyou for web fuzzing,six2dez,OneListForAll,https://github.com/six2dez/OneListForAll
+2022-03-17,shell,526,2,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2022-03-17,shell,1606,0,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-03-17,shell,1155,1,"YANG modules from standards organizations such as the IETF, The IEEE, The Metro Ethernet Forum, open source such as Open Daylight or vendor specific modules",YangModels,yang,https://github.com/YangModels/yang
+2022-03-17,shell,1109,5,"Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management",Security-Onion-Solutions,securityonion,https://github.com/Security-Onion-Solutions/securityonion
+2022-03-17,shell,1412,3,Apache Kafka and Confluent Platform examples and demos,confluentinc,examples,https://github.com/confluentinc/examples
+2022-03-17,shell,970,0,Docker files for running a basic Laravel application.,laravel,sail,https://github.com/laravel/sail
+2022-03-17,shell,7336,6,OpenVPN server in a Docker container complete with an EasyRSA PKI CA,kylemanna,docker-openvpn,https://github.com/kylemanna/docker-openvpn
+2022-03-17,shell,165,6,本仓库仅原版303的一键安装脚本，顺便加开防火墙+改连接数+自启动守护 矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理。,mp303eth,MinerProxy303,https://github.com/mp303eth/MinerProxy303
+2022-03-17,shell,6045,5,Dockerfile for Apache Kafka,wurstmeister,kafka-docker,https://github.com/wurstmeister/kafka-docker
+2022-03-17,shell,705,3,Helm chart to install Vault and other associated components.,hashicorp,vault-helm,https://github.com/hashicorp/vault-helm
+2022-03-17,shell,20928,18,Fish-like autosuggestions for zsh,zsh-users,zsh-autosuggestions,https://github.com/zsh-users/zsh-autosuggestions
+2022-03-17,shell,12823,12,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-17,go,1521,1,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2022-03-17,go,10144,16,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2022-03-17,go,12866,6,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-03-17,go,21859,8,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2022-03-17,go,15720,16,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-03-17,go,1941,25,Open source hyperconverged infrastructure (HCI) software,harvester,harvester,https://github.com/harvester/harvester
+2022-03-17,go,41530,23,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-03-17,go,12005,32,基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-03-17,go,4769,16,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
+2022-03-17,go,13774,9,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-03-17,go,15083,15,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-03-17,go,11053,9,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-03-17,go,8296,5,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2022-03-17,go,3181,3,Confluent's Apache Kafka Golang client,confluentinc,confluent-kafka-go,https://github.com/confluentinc/confluent-kafka-go
+2022-03-17,go,6506,8,The Go driver for MongoDB,mongodb,mongo-go-driver,https://github.com/mongodb/mongo-go-driver
+2022-03-17,go,146,28,Backup and restore Ed25519 SSH keys with seed words.,charmbracelet,melt,https://github.com/charmbracelet/melt
+2022-03-17,go,15637,14,Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2022-03-17,go,5468,3,YAML support for the Go language.,go-yaml,yaml,https://github.com/go-yaml/yaml
+2022-03-17,go,1895,4,Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.,GoogleCloudPlatform,spark-on-k8s-operator,https://github.com/GoogleCloudPlatform/spark-on-k8s-operator
+2022-03-17,go,9839,13,Web and API based SMTP testing,mailhog,MailHog,https://github.com/mailhog/MailHog
+2022-03-17,go,5611,7,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-03-17,go,3856,14,A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.,cloudwego,kitex,https://github.com/cloudwego/kitex
+2022-03-17,go,5488,0,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2022-03-17,go,3191,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-03-17,go,3968,1,The official Go client for Elasticsearch,elastic,go-elasticsearch,https://github.com/elastic/go-elasticsearch
