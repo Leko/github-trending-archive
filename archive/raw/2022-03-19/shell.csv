@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-19,shell,3510,23,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-03-19,shell,142222,55,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-03-19,shell,64696,148,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
+2022-03-19,shell,6134,11,"Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",Fmstrat,winapps,https://github.com/Fmstrat/winapps
+2022-03-19,shell,2586,3,"The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!",pry0cc,axiom,https://github.com/pry0cc/axiom
+2022-03-19,shell,5196,3,"Primary source of truth for the Docker ""Official Images"" program",docker-library,official-images,https://github.com/docker-library/official-images
+2022-03-19,shell,1156,1,"YANG modules from standards organizations such as the IETF, The IEEE, The Metro Ethernet Forum, open source such as Open Daylight or vendor specific modules",YangModels,yang,https://github.com/YangModels/yang
+2022-03-19,shell,9414,4,Linux/OSX/FreeBSD resource monitor,aristocratos,bashtop,https://github.com/aristocratos/bashtop
+2022-03-19,shell,2157,1,Home Assistant Operating System,home-assistant,operating-system,https://github.com/home-assistant/operating-system
+2022-03-19,shell,312,12,Proxmox Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2022-03-19,shell,8318,35,超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西,skywind3000,awesome-cheatsheets,https://github.com/skywind3000/awesome-cheatsheets
+2022-03-19,shell,1056,3,Guia rápido do WSL2 + Docker,codeedu,wsl2-docker-quickstart,https://github.com/codeedu/wsl2-docker-quickstart
+2022-03-19,shell,42,12,S.U.P.E.R.M.A.N. optimizes the macOS software update experience.,Macjutsu,super,https://github.com/Macjutsu/super
+2022-03-19,shell,56162,32,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-03-19,shell,212,3,,pocopico,tinycore-redpill,https://github.com/pocopico/tinycore-redpill
+2022-03-19,shell,2986,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-03-19,shell,8138,6,Performance analysis tools based on Linux perf_events (aka perf) and ftrace,brendangregg,perf-tools,https://github.com/brendangregg/perf-tools
+2022-03-19,shell,1611,4,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-03-19,shell,3018,0,A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-03-19,shell,3342,1,Linux privilege escalation auditing tool,mzet-,linux-exploit-suggester,https://github.com/mzet-/linux-exploit-suggester
+2022-03-19,shell,791,2,Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.,stefanzweifel,git-auto-commit-action,https://github.com/stefanzweifel/git-auto-commit-action
+2022-03-19,shell,153,2,,microverseinc,linters-config,https://github.com/microverseinc/linters-config
+2022-03-19,shell,36,2,Script to check if the SSH key algorithm is up to date,github,ssh-key-algo,https://github.com/github/ssh-key-algo
+2022-03-19,shell,1508,8,"WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",Nyr,wireguard-install,https://github.com/Nyr/wireguard-install
+2022-03-19,shell,390,1,"A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.",fluxcd,flux2-kustomize-helm-example,https://github.com/fluxcd/flux2-kustomize-helm-example
