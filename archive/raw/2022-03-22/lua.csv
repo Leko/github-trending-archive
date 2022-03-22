@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-22,lua,2147,123,AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,kabinspace,AstroVim,https://github.com/kabinspace/AstroVim
+2022-03-22,lua,1500,15,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-03-22,lua,10100,8,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-03-22,lua,7933,20,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-03-22,lua,801,5,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
+2022-03-22,lua,5161,14,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-03-22,lua,2446,11,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-03-22,lua,764,4,"// Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",numToStr,Comment.nvim,https://github.com/numToStr/Comment.nvim
+2022-03-22,lua,338,6,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2022-03-22,lua,1683,2,HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。,jerrykuku,luci-app-vssr,https://github.com/jerrykuku/luci-app-vssr
+2022-03-22,lua,1293,6,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2022-03-22,lua,1610,5,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-03-22,lua,686,8,A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.,simrat39,symbols-outline.nvim,https://github.com/simrat39/symbols-outline.nvim
+2022-03-22,lua,790,1,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-03-22,lua,254,4,"A legend for your keymaps, commands, and autocmds, with which-key.nvim integration (requires Neovim nightly)",mrjones2014,legendary.nvim,https://github.com/mrjones2014/legendary.nvim
+2022-03-22,lua,1003,6,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-03-22,lua,820,2,LSP signature hint as you type,ray-x,lsp_signature.nvim,https://github.com/ray-x/lsp_signature.nvim
+2022-03-22,lua,727,4,"Highlight, list and search todo comments in your projects",folke,todo-comments.nvim,https://github.com/folke/todo-comments.nvim
+2022-03-22,lua,61,0,A collection of every roblox script ive aquired. I DO NOT UPDATE OR MAINTAIN THESE.,PhoenixAceVFX,Roblox-Scripts,https://github.com/PhoenixAceVFX/Roblox-Scripts
+2022-03-22,lua,1208,2,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2022-03-22,lua,4539,5,awesome window manager,awesomeWM,awesome,https://github.com/awesomeWM/awesome
+2022-03-22,lua,746,5,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-03-22,lua,220,3,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-03-22,lua,983,0,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2022-03-22,lua,930,4,"A fancy, configurable, notification manager for NeoVim",rcarriga,nvim-notify,https://github.com/rcarriga/nvim-notify
