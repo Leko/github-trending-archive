@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-25,go,2569,54,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-03-25,go,5854,59,Cloud cost estimates for Terraform in pull requests Love your cloud bill!,infracost,infracost,https://github.com/infracost/infracost
+2022-03-25,go,13589,68,"支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2022-03-25,go,815,60,,Arriven,db1000n,https://github.com/Arriven/db1000n
+2022-03-25,go,15165,25,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-03-25,go,2902,3,"Libraries, samples and tools to help Go developers develop AWS Lambda functions.",aws,aws-lambda-go,https://github.com/aws/aws-lambda-go
+2022-03-25,go,2347,35,Gatus - Automated service health dashboard,TwiN,gatus,https://github.com/TwiN/gatus
+2022-03-25,go,4999,95,"Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",liamg,traitor,https://github.com/liamg/traitor
+2022-03-25,go,3431,71,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2022-03-25,go,11330,8,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-03-25,go,3631,45,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2022-03-25,go,6395,9,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2022-03-25,go,6969,5,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-03-25,go,1741,12,ScareCrow - Payload creation framework designed around EDR bypass.,optiv,ScareCrow,https://github.com/optiv/ScareCrow
+2022-03-25,go,5961,11,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",patrickmn,go-cache,https://github.com/patrickmn/go-cache
+2022-03-25,go,747,11,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2022-03-25,go,8323,13,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-03-25,go,13062,42,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",inancgumus,learngo,https://github.com/inancgumus/learngo
+2022-03-25,go,1595,5,Kubernetes controller for GitHub Actions self-hosted runners,actions-runner-controller,actions-runner-controller,https://github.com/actions-runner-controller/actions-runner-controller
+2022-03-25,go,7528,4,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-03-25,go,8807,14,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-03-25,go,4526,13,Staticcheck - The advanced Go linter,dominikh,go-tools,https://github.com/dominikh/go-tools
+2022-03-25,go,4960,8,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
+2022-03-25,go,3149,7,A web-based UI for deploying and managing applications in Kubernetes clusters,kubeapps,kubeapps,https://github.com/kubeapps/kubeapps
+2022-03-25,go,12603,9,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
