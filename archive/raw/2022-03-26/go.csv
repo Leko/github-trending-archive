@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-26,go,873,60,,Arriven,db1000n,https://github.com/Arriven/db1000n
+2022-03-26,go,3745,29,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2022-03-26,go,3673,44,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2022-03-26,go,6006,223,Cloud cost estimates for Terraform in pull requests Love your cloud bill!,infracost,infracost,https://github.com/infracost/infracost
+2022-03-26,go,2589,30,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-03-26,go,7528,1,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-03-26,go,5977,16,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",patrickmn,go-cache,https://github.com/patrickmn/go-cache
+2022-03-26,go,220,17,"An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.",cnosdb,cnosdb,https://github.com/cnosdb/cnosdb
+2022-03-26,go,10761,2,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-03-26,go,15189,24,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-03-26,go,6745,4,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-03-26,go,3460,34,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2022-03-26,go,5024,26,"Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",liamg,traitor,https://github.com/liamg/traitor
+2022-03-26,go,1774,8,Container Signing,sigstore,cosign,https://github.com/sigstore/cosign
+2022-03-26,go,13071,20,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",inancgumus,learngo,https://github.com/inancgumus/learngo
+2022-03-26,go,4969,9,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
+2022-03-26,go,9356,8,Simple and flexible tool for managing secrets,mozilla,sops,https://github.com/mozilla/sops
+2022-03-26,go,13676,90,"支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2022-03-26,go,4539,13,Staticcheck - The advanced Go linter,dominikh,go-tools,https://github.com/dominikh/go-tools
+2022-03-26,go,8549,9,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",tinode,chat,https://github.com/tinode/chat
+2022-03-26,go,10154,11,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2022-03-26,go,18783,9,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-03-26,go,10561,8,Fast key-value DB in Go.,dgraph-io,badger,https://github.com/dgraph-io/badger
+2022-03-26,go,39234,19,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2022-03-26,go,11336,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
