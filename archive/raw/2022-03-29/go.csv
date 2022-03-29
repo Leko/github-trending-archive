@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-29,go,16124,42,Cross platform GUI in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2022-03-29,go,992,2,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2022-03-29,go,10314,39,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2022-03-29,go,16065,42,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2022-03-29,go,915,195,Wireguard client that exposes itself as a socks5 proxy,octeep,wireproxy,https://github.com/octeep/wireproxy
+2022-03-29,go,1096,29,"The devs are over here at devzat, chat over SSH!",quackduck,devzat,https://github.com/quackduck/devzat
+2022-03-29,go,963,12,,Arriven,db1000n,https://github.com/Arriven/db1000n
+2022-03-29,go,7655,6,Yet another Yogurt - An AUR Helper written in Go,Jguer,yay,https://github.com/Jguer/yay
+2022-03-29,go,624,5,TUI for F1TV,SoMuchForSubtlety,f1viewer,https://github.com/SoMuchForSubtlety/f1viewer
+2022-03-29,go,2805,11,"A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
+2022-03-29,go,6370,21,Fast web fuzzer written in Go,ffuf,ffuf,https://github.com/ffuf/ffuf
+2022-03-29,go,1409,7,流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not,sjlleo,netflix-verify,https://github.com/sjlleo/netflix-verify
+2022-03-29,go,15101,10,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2022-03-29,go,171,37,"A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.",megaease,easeprobe,https://github.com/megaease/easeprobe
+2022-03-29,go,3831,4,Deploy Kubernetes Helm Charts,roboll,helmfile,https://github.com/roboll/helmfile
+2022-03-29,go,245,61,"A minimalist, easy-to-host service for sharing images and other files",mtlynch,picoshare,https://github.com/mtlynch/picoshare
+2022-03-29,go,8986,6,CoreDNS is a DNS server that chains plugins,coredns,coredns,https://github.com/coredns/coredns
+2022-03-29,go,439,3,Unlock Music Project - CLI Edition,unlock-music,cli,https://github.com/unlock-music/cli
+2022-03-29,go,5039,8,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2022-03-29,go,12870,65,DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),docker-slim,docker-slim,https://github.com/docker-slim/docker-slim
+2022-03-29,go,1465,15,简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、华为云),jeessy2,ddns-go,https://github.com/jeessy2/ddns-go
+2022-03-29,go,865,8,The most popular Discord selfbot written in GO allowing users to automate their campaigns and launch large low-cost marketing campaigns targetting Discord users!,V4NSH4J,discord-mass-DM-GO,https://github.com/V4NSH4J/discord-mass-DM-GO
+2022-03-29,go,859,10,,techschool,simplebank,https://github.com/techschool/simplebank
+2022-03-29,go,12180,26,基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-03-29,go,8537,12,GO Simple Tunnel - a simple tunnel written in golang,ginuerzh,gost,https://github.com/ginuerzh/gost
