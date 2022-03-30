@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-30,shell,2264,17,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,https://github.com/six2dez/reconftw
+2022-03-30,shell,1147,12,Guia rápido do WSL2 + Docker,codeedu,wsl2-docker-quickstart,https://github.com/codeedu/wsl2-docker-quickstart
+2022-03-30,shell,5040,4,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-03-30,shell,7684,0,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-03-30,shell,56478,28,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-03-30,shell,5725,4,Docker images for the Selenium Grid Server,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2022-03-30,shell,4931,4,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2022-03-30,shell,7218,6,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2022-03-30,shell,13602,15,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-03-30,shell,65,4,RTLO Injection URI Spoofing,zadewg,RIUS,https://github.com/zadewg/RIUS
+2022-03-30,shell,25,3,"Read NVIDIA RTX 3090, 3080, 3080 Ti, 3070 Ti, 3060 Ti, 2080 Ti, 2080, A2000, A4000, A4500, A5000 GDDR6X and GDDR6 temperatures directly on HiveOS GUI",cryptopoo,hiveos_gddr6x_temps,https://github.com/cryptopoo/hiveos_gddr6x_temps
+2022-03-30,shell,171,1,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2022-03-30,shell,13520,2,Default configuration for Le Wagon's students,lewagon,dotfiles,https://github.com/lewagon/dotfiles
+2022-03-30,shell,1062,10,"WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",fscarmen,warp,https://github.com/fscarmen/warp
+2022-03-30,shell,245,3,A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public,HightechSec,git-scanner,https://github.com/HightechSec/git-scanner
+2022-03-30,shell,3014,5,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-03-30,shell,3238,1,"A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.",adi1090x,rofi,https://github.com/adi1090x/rofi
+2022-03-30,shell,3249,5,CloudEvents Specification,cloudevents,spec,https://github.com/cloudevents/spec
+2022-03-30,shell,4810,5,Pi-hole in a docker container,pi-hole,docker-pi-hole,https://github.com/pi-hole/docker-pi-hole
+2022-03-30,shell,3665,5,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2022-03-30,shell,142816,58,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-03-30,shell,1095,1,Helm charts for applications you run at home,k8s-at-home,charts,https://github.com/k8s-at-home/charts
+2022-03-30,shell,27851,49,Official electron build of diagrams.net,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2022-03-30,shell,2543,4,Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.,github,scripts-to-rule-them-all,https://github.com/github/scripts-to-rule-them-all
+2022-03-30,shell,16078,5,Node version management,tj,n,https://github.com/tj/n

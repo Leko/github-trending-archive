@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-30,go,404,102,"A minimalist, easy-to-host service for sharing images and other files",mtlynch,picoshare,https://github.com/mtlynch/picoshare
+2022-03-30,go,16231,148,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2022-03-30,go,62567,35,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-03-30,go,1011,100,Wireguard client that exposes itself as a socks5 proxy,octeep,wireproxy,https://github.com/octeep/wireproxy
+2022-03-30,go,7071,5,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-03-30,go,931,0,The Optimism monorepo,ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-03-30,go,4453,9,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2022-03-30,go,13885,13,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-03-30,go,915,3,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
+2022-03-30,go,3478,82,"A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-03-30,go,10341,29,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2022-03-30,go,7512,29,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-03-30,go,4370,6,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.",didi,nightingale,https://github.com/didi/nightingale
+2022-03-30,go,1477,25,"Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-03-30,go,31810,24,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-03-30,go,38797,13,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2022-03-30,go,2450,8,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-03-30,go,3141,6,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2022-03-30,go,23833,12,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-03-30,go,1041,18,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2022-03-30,go,4406,5,"Kubernetes-based, scale-to-zero, request-driven compute",knative,serving,https://github.com/knative/serving
+2022-03-30,go,9472,27,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-03-30,go,12038,8,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2022-03-30,go,2675,30,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2022-03-30,go,2407,21,"Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.",fortio,fortio,https://github.com/fortio/fortio
