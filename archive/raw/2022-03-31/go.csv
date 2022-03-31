@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-03-31,go,62636,78,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-03-31,go,16732,18,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2022-03-31,go,15849,13,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-03-31,go,525,123,"A minimalist, easy-to-host service for sharing images and other files",mtlynch,picoshare,https://github.com/mtlynch/picoshare
+2022-03-31,go,5126,1,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-03-31,go,2461,11,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-03-31,go,939,27,A list of remote-friendly or full-remote companies that targets Italian talents.,italiaremote,awesome-italia-remote,https://github.com/italiaremote/awesome-italia-remote
+2022-03-31,go,23848,16,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-03-31,go,6381,19,Repeatable builds,earthly,earthly,https://github.com/earthly/earthly
+2022-03-31,go,3600,52,小巧精悍、准确、实用 GeoIP2 数据库,Hackl0us,GeoIP2-CN,https://github.com/Hackl0us/GeoIP2-CN
+2022-03-31,go,3595,121,"A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-03-31,go,12041,4,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2022-03-31,go,16339,113,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2022-03-31,go,7532,21,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-03-31,go,315,32,"lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号",real-web-world,hh-lol-prophet,https://github.com/real-web-world/hh-lol-prophet
+2022-03-31,go,1497,21,"Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-03-31,go,1638,2,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2022-03-31,go,2090,19,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2022-03-31,go,9501,29,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-03-31,go,5171,2,[Looking for new ownership] Protocol Buffers for Go with Gadgets,gogo,protobuf,https://github.com/gogo/protobuf
+2022-03-31,go,4762,4,⟁ Tendermint Core (BFT Consensus) in Go,tendermint,tendermint,https://github.com/tendermint/tendermint
+2022-03-31,go,4760,7,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2022-03-31,go,2803,4,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-03-31,go,4670,17,A Chaos Engineering Platform for Kubernetes.,chaos-mesh,chaos-mesh,https://github.com/chaos-mesh/chaos-mesh
+2022-03-31,go,8332,12,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
