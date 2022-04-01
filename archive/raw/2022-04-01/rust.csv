@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-01,rust,6889,1093,a diff that understands syntax,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2022-04-01,rust,6282,93,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-04-01,rust,8075,25,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2022-04-01,rust,14846,20,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-04-01,rust,9066,9,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2022-04-01,rust,2066,33,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",gakonst,foundry,https://github.com/gakonst/foundry
+2022-04-01,rust,25060,17,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2022-04-01,rust,12789,30,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2022-04-01,rust,361,40,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-04-01,rust,5401,11,Fast State-of-the-Art Tokenizers optimized for Research and Production,huggingface,tokenizers,https://github.com/huggingface/tokenizers
+2022-04-01,rust,329,43,A UI for eBPF-based performance debugging,rubrikinc,wachy,https://github.com/rubrikinc/wachy
+2022-04-01,rust,6439,22,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2022-04-01,rust,238,11,zkSnark circuit compiler,iden3,circom,https://github.com/iden3/circom
+2022-04-01,rust,3847,12,Fly through your shell history. Great Scott!,cantino,mcfly,https://github.com/cantino/mcfly
+2022-04-01,rust,8353,12,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,getzola,zola,https://github.com/getzola/zola
+2022-04-01,rust,21338,22,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2022-04-01,rust,4881,13,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2022-04-01,rust,30111,20,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2022-04-01,rust,5079,10,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-04-01,rust,620,7,An OLAP database system for educational purpose,risinglightdb,risinglight,https://github.com/risinglightdb/risinglight
+2022-04-01,rust,12665,12,Cube — Headless Business Intelligence for Building Data Applications,cube-js,cube.js,https://github.com/cube-js/cube.js
+2022-04-01,rust,5721,10,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2022-04-01,rust,1853,5,Apache Arrow DataFusion and Ballista query engines,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-04-01,rust,62,1,Home of the Move programming language,diem,move,https://github.com/diem/move
+2022-04-01,rust,4292,8,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu

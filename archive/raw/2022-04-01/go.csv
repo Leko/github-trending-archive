@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-01,go,3679,68,"A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-04-01,go,4208,23,Security scanner for your Terraform code,aquasecurity,tfsec,https://github.com/aquasecurity/tfsec
+2022-04-01,go,62692,65,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-04-01,go,6762,4,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-04-01,go,1549,2,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2022-04-01,go,4674,6,A Chaos Engineering Platform for Kubernetes.,chaos-mesh,chaos-mesh,https://github.com/chaos-mesh/chaos-mesh
+2022-04-01,go,577,45,"A minimalist, easy-to-host service for sharing images and other files",mtlynch,picoshare,https://github.com/mtlynch/picoshare
+2022-04-01,go,6986,3,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-04-01,go,23856,15,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-04-01,go,7541,2,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-04-01,go,3655,56,小巧精悍、准确、实用 GeoIP2 数据库,Hackl0us,GeoIP2-CN,https://github.com/Hackl0us/GeoIP2-CN
+2022-04-01,go,11337,12,"Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops",gravitational,teleport,https://github.com/gravitational/teleport
+2022-04-01,go,984,5,"VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",vmware-tanzu,community-edition,https://github.com/vmware-tanzu/community-edition
+2022-04-01,go,1916,4,"Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-04-01,go,959,21,A list of remote-friendly or full-remote companies that targets Italian talents.,italiaremote,awesome-italia-remote,https://github.com/italiaremote/awesome-italia-remote
+2022-04-01,go,4393,3,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.",didi,nightingale,https://github.com/didi/nightingale
+2022-04-01,go,3201,1,Confluent's Apache Kafka Golang client,confluentinc,confluent-kafka-go,https://github.com/confluentinc/confluent-kafka-go
+2022-04-01,go,31849,24,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-04-01,go,260,17,"An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.",cnosdb,cnosdb,https://github.com/cnosdb/cnosdb
+2022-04-01,go,4636,5,"A horizontally scalable, highly available, multi-tenant, long term Prometheus.",cortexproject,cortex,https://github.com/cortexproject/cortex
+2022-04-01,go,338,23,"lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号",real-web-world,hh-lol-prophet,https://github.com/real-web-world/hh-lol-prophet
+2022-04-01,go,15870,20,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-04-01,go,32375,20,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
+2022-04-01,go,7107,13,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-04-01,go,57061,43,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
