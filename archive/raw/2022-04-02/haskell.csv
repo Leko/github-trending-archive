@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-02,haskell,26306,10,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-04-02,haskell,18528,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-04-02,haskell,28281,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-04-02,haskell,6674,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-04-02,haskell,25097,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-04-02,haskell,1358,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-04-02,haskell,1664,5,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-04-02,haskell,5,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-04-02,haskell,8290,6,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-04-02,haskell,179,0,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
+2022-04-02,haskell,1065,2,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-04-02,haskell,12,2,A web microframework for Haskell based on monadic parsing,MonadicSystems,okapi,https://github.com/MonadicSystems/okapi
+2022-04-02,haskell,955,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2022-04-02,haskell,2605,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-04-02,haskell,1994,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-04-02,haskell,3165,2,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-04-02,haskell,296,0,"Spiritual successor to neuron, based on Ema.",srid,emanote,https://github.com/srid/emanote
+2022-04-02,haskell,64,2,Hash-based Diffing for AST's,VictorCMiraldo,hdiff,https://github.com/VictorCMiraldo/hdiff
+2022-04-02,haskell,7633,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-04-02,haskell,89,1,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-04-02,haskell,36,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-04-02,haskell,3,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-04-02,haskell,6793,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-04-02,haskell,4314,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-04-02,haskell,163,0,SMT Based Verification in Haskell. Express properties about Haskell programs and automatically prove them using SMT solvers.,LeventErkok,sbv,https://github.com/LeventErkok/sbv

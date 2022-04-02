@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-02,go,2045,644,A portable devkit for CI/CD pipelines,dagger,dagger,https://github.com/dagger/dagger
+2022-04-02,go,1112,218,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2022-04-02,go,999,39,A list of remote-friendly or full-remote companies that targets Italian talents.,italiaremote,awesome-italia-remote,https://github.com/italiaremote/awesome-italia-remote
+2022-04-02,go,62707,19,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-04-02,go,3805,129,"A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-04-02,go,15888,19,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-04-02,go,6992,6,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-04-02,go,8361,3,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-04-02,go,4643,7,"A horizontally scalable, highly available, multi-tenant, long term Prometheus.",cortexproject,cortex,https://github.com/cortexproject/cortex
+2022-04-02,go,97340,57,The Go programming language,golang,go,https://github.com/golang/go
+2022-04-02,go,7582,28,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-04-02,go,18825,9,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-04-02,go,1040,21,"Golang audio/video live streaming library/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket[S]-FLV/TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify. 直播",q191201771,lal,https://github.com/q191201771/lal
+2022-04-02,go,21429,12,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-04-02,go,2009,62,The new home of the CUE language! Validate and define text-based and dynamic configuration,cue-lang,cue,https://github.com/cue-lang/cue
+2022-04-02,go,2148,2,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2022-04-02,go,3358,15,Yao A low code engine to create web services and dashboard.,YaoApp,yao,https://github.com/YaoApp/yao
+2022-04-02,go,20796,29,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2022-04-02,go,249,11,Open Source Security Guide,mikeroyal,Open-Source-Security-Guide,https://github.com/mikeroyal/Open-Source-Security-Guide
+2022-04-02,go,6637,3,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2022-04-02,go,11230,15,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-04-02,go,10757,6,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-04-02,go,993,10,"VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",vmware-tanzu,community-edition,https://github.com/vmware-tanzu/community-edition
+2022-04-02,go,5229,9,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-04-02,go,9942,15,An open-source vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus

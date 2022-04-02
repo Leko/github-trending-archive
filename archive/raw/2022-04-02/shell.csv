@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-02,shell,7630,6,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-04-02,shell,8387,3,"Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",spinnaker,spinnaker,https://github.com/spinnaker/spinnaker
+2022-04-02,shell,3488,4,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2022-04-02,shell,548,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2022-04-02,shell,1770,3,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2022-04-02,shell,5050,3,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-04-02,shell,859,1,Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。,snail007,proxy_admin_free,https://github.com/snail007/proxy_admin_free
+2022-04-02,shell,1969,0,Real-time collaborative development from the comfort of your favorite tools,MicrosoftDocs,live-share,https://github.com/MicrosoftDocs/live-share
+2022-04-02,shell,3256,1,CloudEvents Specification,cloudevents,spec,https://github.com/cloudevents/spec
+2022-04-02,shell,3025,3,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-04-02,shell,3066,3,A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-04-02,shell,5730,1,Docker images for the Selenium Grid Server,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2022-04-02,shell,15458,15,binary releases of VS Code without MS branding/telemetry/licensing,VSCodium,vscodium,https://github.com/VSCodium/vscodium
+2022-04-02,shell,3623,7,,EliasKotlyar,Xiaomi-Dafang-Hacks,https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks
+2022-04-02,shell,343,4,Proxmox V7 for Raspberry Pi,pimox,pimox7,https://github.com/pimox/pimox7
+2022-04-02,shell,1638,6,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-04-02,shell,4986,1,A next-generation plugin manager for zsh,zplug,zplug,https://github.com/zplug/zplug
+2022-04-02,shell,378,7,Proxmox Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2022-04-02,shell,3681,5,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2022-04-02,shell,11444,3,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2022-04-02,shell,574,1,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2022-04-02,shell,3283,0,Command-line tools for working with Architecture Decision Records,npryce,adr-tools,https://github.com/npryce/adr-tools
+2022-04-02,shell,15765,7,最好用的 V2Ray 一键安装脚本 & 管理脚本,233boy,v2ray,https://github.com/233boy/v2ray
+2022-04-02,shell,1274,1,Docker image for Keycloak project,keycloak,keycloak-containers,https://github.com/keycloak/keycloak-containers
+2022-04-02,shell,142985,55,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
