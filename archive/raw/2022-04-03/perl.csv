@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-03,perl,800,11,Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.,Difegue,LANraragi,https://github.com/Difegue/LANraragi
+2022-04-03,perl,2125,3,"Policy-driven snapshot management and replication tools. Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.",jimsalterjrs,sanoid,https://github.com/jimsalterjrs/sanoid
+2022-04-03,perl,197,0,Spec and test data for the MaxMind DB file format,maxmind,MaxMind-DB,https://github.com/maxmind/MaxMind-DB
+2022-04-03,perl,48,0,a perl library for sending email,rjbs,Email-Sender,https://github.com/rjbs/Email-Sender
+2022-04-03,perl,0,0,Easy config file based deployment with git and rsync,dangerous,deploy-script,https://github.com/dangerous/deploy-script
+2022-04-03,perl,0,0,run old-style CGI applications in a streaming plack server,binary-com,perl-Plack-App-CGIBin-Streaming,https://github.com/binary-com/perl-Plack-App-CGIBin-Streaming
+2022-04-03,perl,0,0,Fork of JSON::Validator Perl module,binary-com,perl-JSON-Validator,https://github.com/binary-com/perl-JSON-Validator
+2022-04-03,perl,0,0,,binary-com,perl-Math-Util-CalculatedValue,https://github.com/binary-com/perl-Math-Util-CalculatedValue
+2022-04-03,perl,0,0,,binary-com,perl-WebService-Async-Onfido,https://github.com/binary-com/perl-WebService-Async-Onfido
+2022-04-03,perl,0,0,,binary-com,perl-YAML-CacheLoader,https://github.com/binary-com/perl-YAML-CacheLoader
+2022-04-03,perl,0,0,A module to parse FIX market data.,binary-com,perl-FIX-Parser,https://github.com/binary-com/perl-FIX-Parser
+2022-04-03,perl,4,0,Promise in Perl,manakai,perl-promise,https://github.com/manakai/perl-promise
+2022-04-03,perl,0,0,,binary-com,perl-Finance-YieldCurve,https://github.com/binary-com/perl-Finance-YieldCurve
+2022-04-03,perl,0,0,volatility surface-related utility functions,binary-com,perl-VolSurface-Utils,https://github.com/binary-com/perl-VolSurface-Utils
+2022-04-03,perl,1,0,,binary-com,perl-Math-Business-BlackScholesMerton,https://github.com/binary-com/perl-Math-Business-BlackScholesMerton
+2022-04-03,perl,0,0,,binary-com,perl-Finance-Calendar,https://github.com/binary-com/perl-Finance-Calendar
+2022-04-03,perl,386,0,ISO/IEC JTC1 SC22 WG21 paper scheduling and management,cplusplus,papers,https://github.com/cplusplus/papers
+2022-04-03,perl,266,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2022-04-03,perl,2329,0,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),SpiderLabs,owasp-modsecurity-crs,https://github.com/SpiderLabs/owasp-modsecurity-crs
+2022-04-03,perl,970,0,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
+2022-04-03,perl,0,0,,binary-com,perl-Data-Decimate,https://github.com/binary-com/perl-Data-Decimate
+2022-04-03,perl,0,0,,binary-com,perl-Crypt-NamedKeys,https://github.com/binary-com/perl-Crypt-NamedKeys
+2022-04-03,perl,0,0,,binary-com,perl-App-Base,https://github.com/binary-com/perl-App-Base
+2022-04-03,perl,0,0,,binary-com,perl-Email-Folder-Search,https://github.com/binary-com/perl-Email-Folder-Search
+2022-04-03,perl,381,0,Movable Type,movabletype,movabletype,https://github.com/movabletype/movabletype
