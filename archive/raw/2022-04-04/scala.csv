@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-04,scala,11318,83,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-04-04,scala,12118,4,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-04-04,scala,3297,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-04-04,scala,977,3,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-04-04,scala,4220,3,"An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",delta-io,delta,https://github.com/delta-io/delta
+2022-04-04,scala,10710,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-04-04,scala,32473,16,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-04-04,scala,12106,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-04-04,scala,4921,2,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-04-04,scala,2594,0,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-04-04,scala,6933,0,Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.,twitter-archive,snowflake,https://github.com/twitter-archive/snowflake
+2022-04-04,scala,1679,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-04-04,scala,3345,1,A Scala API for Cascading,twitter,scalding,https://github.com/twitter/scalding
+2022-04-04,scala,8181,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-04-04,scala,2514,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-04-04,scala,4664,0,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-04-04,scala,1253,1,Code formatter for Scala,scalameta,scalafmt,https://github.com/scalameta/scalafmt
+2022-04-04,scala,2192,2,"A V2Ray, Trojan, ShadowsocksR client for Android",xxf098,shadowsocksr-v2ray-trojan-android,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+2022-04-04,scala,5382,1,Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.,linkerd,linkerd,https://github.com/linkerd/linkerd
+2022-04-04,scala,180,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-04-04,scala,2467,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-04-04,scala,8471,1,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-04-04,scala,5,1,Purely functional Apache Pulsar client for Scala built on top of Fs2,profunktor,neutron,https://github.com/profunktor/neutron
+2022-04-04,scala,16830,0,"Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",prisma,prisma1,https://github.com/prisma/prisma1
+2022-04-04,scala,2149,0,"Fast, testable, Scala services built on TwitterServer and Finagle",twitter,finatra,https://github.com/twitter/finatra
