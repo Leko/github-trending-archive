@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-05,shell,5657,75,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-04-05,shell,3822,2,Docker image of Nextcloud,nextcloud,docker,https://github.com/nextcloud/docker
+2022-04-05,shell,7655,9,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-04-05,shell,1565,8,Noto CJK fonts,googlefonts,noto-cjk,https://github.com/googlefonts/noto-cjk
+2022-04-05,shell,3030,10,A cli tool to browse and play anime,pystardust,ani-cli,https://github.com/pystardust/ani-cli
+2022-04-05,shell,45,1,,003random,loki,https://github.com/003random/loki
+2022-04-05,shell,18362,11,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-04-05,shell,4363,49,a Docker + Kubernetes network trouble-shooting swiss-army container,nicolaka,netshoot,https://github.com/nicolaka/netshoot
+2022-04-05,shell,2038,5,"Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B",kiddin9,OpenWrt_x86-r2s-r4s,https://github.com/kiddin9/OpenWrt_x86-r2s-r4s
+2022-04-05,shell,2920,3,Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel,haugene,docker-transmission-openvpn,https://github.com/haugene/docker-transmission-openvpn
+2022-04-05,shell,4833,5,Pi-hole in a docker container,pi-hole,docker-pi-hole,https://github.com/pi-hole/docker-pi-hole
+2022-04-05,shell,4301,8,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2022-04-05,shell,23,1,Remove the restriction when selecting folders through SAF,Magisk-Modules-Alt-Repo,NoStorageRestrict,https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict
+2022-04-05,shell,7867,8,"Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.",angristan,openvpn-install,https://github.com/angristan/openvpn-install
+2022-04-05,shell,65089,26,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
+2022-04-05,shell,12702,6,The configuration framework for Zsh,sorin-ionescu,prezto,https://github.com/sorin-ionescu/prezto
+2022-04-05,shell,3341,2,Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩,klever1988,nanopi-openwrt,https://github.com/klever1988/nanopi-openwrt
+2022-04-05,shell,11593,7,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-04-05,shell,2205,1,Home Assistant Operating System,home-assistant,operating-system,https://github.com/home-assistant/operating-system
+2022-04-05,shell,5148,15,（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2022-04-05,shell,35635,9,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2022-04-05,shell,27631,6,".files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles
+2022-04-05,shell,225,0,Automatic import of svn 'packages' repo (read-only mirror),archlinux,svntogit-packages,https://github.com/archlinux/svntogit-packages
+2022-04-05,shell,620,3,基于 Lean&Lienol 源码的 NanoPi R4S 的 OpenWrt 固件。每天自动更新插件和内核，Fusion编译法,DHDAXCW,NanoPi-R4S,https://github.com/DHDAXCW/NanoPi-R4S
+2022-04-05,shell,1141,9,"WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",fscarmen,warp,https://github.com/fscarmen/warp

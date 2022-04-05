@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-05,haskell,1998,3,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-04-05,haskell,25115,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-04-05,haskell,18543,8,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-04-05,haskell,2610,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-04-05,haskell,1455,6,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-04-05,haskell,2418,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-04-05,haskell,1745,2,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2022-04-05,haskell,1672,5,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-04-05,haskell,6691,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-04-05,haskell,400,0,Exercism exercises in Haskell.,exercism,haskell,https://github.com/exercism/haskell
+2022-04-05,haskell,302,1,"Spiritual successor to neuron, based on Ema.",srid,emanote,https://github.com/srid/emanote
+2022-04-05,haskell,26329,13,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-04-05,haskell,511,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-04-05,haskell,1876,0,A Haskell to WebAssembly compiler,tweag,asterius,https://github.com/tweag/asterius
+2022-04-05,haskell,0,0,My gatech.edu/~user web site,Tarrasch,gawebsite,https://github.com/Tarrasch/gawebsite
+2022-04-05,haskell,211,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-04-05,haskell,995,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2022-04-05,haskell,1786,2,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-04-05,haskell,152,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-04-05,haskell,639,2,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-04-05,haskell,1360,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-04-05,haskell,123,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-04-05,haskell,3815,1,Functional Programming Course,system-f,fp-course,https://github.com/system-f/fp-course
+2022-04-05,haskell,258,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-04-05,haskell,7637,3,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript

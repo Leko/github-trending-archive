@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-05,go,907,290,a drop-in replacement for Nmap powered by shodan.io,s0md3v,Smap,https://github.com/s0md3v/Smap
+2022-04-05,go,295,99,"The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.",stackrox,stackrox,https://github.com/stackrox/stackrox
+2022-04-05,go,2665,81,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2022-04-05,go,9491,27,"Algorithms implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2022-04-05,go,1341,152,gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.,dlvhdr,gh-dash,https://github.com/dlvhdr/gh-dash
+2022-04-05,go,343,54,Open Source Security Guide,mikeroyal,Open-Source-Security-Guide,https://github.com/mikeroyal/Open-Source-Security-Guide
+2022-04-05,go,12520,20,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2022-04-05,go,25606,39,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-04-05,go,54864,98,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-04-05,go,892,9,,techschool,simplebank,https://github.com/techschool/simplebank
+2022-04-05,go,2641,9,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-04-05,go,15199,22,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2022-04-05,go,6584,6,Information gathering & OSINT framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2022-04-05,go,3226,323,A portable devkit for CI/CD pipelines,dagger,dagger,https://github.com/dagger/dagger
+2022-04-05,go,39334,9,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2022-04-05,go,9497,14,"A scalable overlay networking tool with a focus on performance, simplicity and security",slackhq,nebula,https://github.com/slackhq/nebula
+2022-04-05,go,4855,66,Streaming replication for SQLite.,benbjohnson,litestream,https://github.com/benbjohnson/litestream
+2022-04-05,go,22439,11,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-04-05,go,268,16,"A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.",megaease,easeprobe,https://github.com/megaease/easeprobe
+2022-04-05,go,15165,10,Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2022-04-05,go,1006,2,Community managed domain list. Generate geosite.dat for V2Ray.,v2fly,domain-list-community,https://github.com/v2fly/domain-list-community
+2022-04-05,go,38870,16,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2022-04-05,go,2718,30,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2022-04-05,go,11822,7,"Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",snail007,goproxy,https://github.com/snail007/goproxy
+2022-04-05,go,11022,19,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
