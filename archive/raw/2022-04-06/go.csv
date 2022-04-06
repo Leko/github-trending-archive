@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-06,go,1093,193,a drop-in replacement for Nmap powered by shodan.io,s0md3v,Smap,https://github.com/s0md3v/Smap
+2022-04-06,go,6750,242,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2022-04-06,go,3484,27,Yao A low code engine to create web services and dashboard.,YaoApp,yao,https://github.com/YaoApp/yao
+2022-04-06,go,23860,6,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-04-06,go,5648,15,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2022-04-06,go,11286,19,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-04-06,go,353,11,Open Source Security Guide,mikeroyal,Open-Source-Security-Guide,https://github.com/mikeroyal/Open-Source-Security-Guide
+2022-04-06,go,398,106,"The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.",stackrox,stackrox,https://github.com/stackrox/stackrox
+2022-04-06,go,34511,19,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2022-04-06,go,11415,21,"Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops",gravitational,teleport,https://github.com/gravitational/teleport
+2022-04-06,go,3138,12,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2022-04-06,go,2407,7,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2022-04-06,go,5148,24,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2022-04-06,go,2156,4,Repository for sample controller. Complements sample-apiserver,kubernetes,sample-controller,https://github.com/kubernetes/sample-controller
+2022-04-06,go,10995,9,A compiler from Go to JavaScript for running Go code in a browser,gopherjs,gopherjs,https://github.com/gopherjs/gopherjs
+2022-04-06,go,21442,8,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-04-06,go,11929,15,"Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-04-06,go,9511,23,"Algorithms implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2022-04-06,go,4756,5,Generate a Go ORM tailored to your database schema.,volatiletech,sqlboiler,https://github.com/volatiletech/sqlboiler
+2022-04-06,go,1008,5,"VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",vmware-tanzu,community-edition,https://github.com/vmware-tanzu/community-edition
+2022-04-06,go,2035,8,OCI Image Format,opencontainers,image-spec,https://github.com/opencontainers/image-spec
+2022-04-06,go,8229,7,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2022-04-06,go,3253,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-04-06,go,112,7,Simple local scanner for applications containing vulnerable Spring libraries,hillu,local-spring-vuln-scanner,https://github.com/hillu/local-spring-vuln-scanner
+2022-04-06,go,1341,4,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
