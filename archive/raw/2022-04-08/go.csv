@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-08,go,120,59,,codeedu,imersao-7-codepix,https://github.com/codeedu/imersao-7-codepix
+2022-04-08,go,7395,325,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2022-04-08,go,1394,125,a drop-in replacement for Nmap powered by shodan.io,s0md3v,Smap,https://github.com/s0md3v/Smap
+2022-04-08,go,8919,16,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-04-08,go,1821,9,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2022-04-08,go,4657,12,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2022-04-08,go,2739,16,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2022-04-08,go,31945,29,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-04-08,go,1662,11,Kubernetes controller for GitHub Actions self-hosted runners,actions-runner-controller,actions-runner-controller,https://github.com/actions-runner-controller/actions-runner-controller
+2022-04-08,go,22467,8,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-04-08,go,11335,26,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-04-08,go,24529,16,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-04-08,go,21454,5,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-04-08,go,4922,9,Your Universal Control Plane,crossplane,crossplane,https://github.com/crossplane/crossplane
+2022-04-08,go,87164,33,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-04-08,go,73,7,Jeeves SQLI Finder,ferreiraklet,Jeeves,https://github.com/ferreiraklet/Jeeves
+2022-04-08,go,9532,9,"A scalable overlay networking tool with a focus on performance, simplicity and security",slackhq,nebula,https://github.com/slackhq/nebula
+2022-04-08,go,34552,29,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2022-04-08,go,262,1,Terraform Datadog provider,DataDog,terraform-provider-datadog,https://github.com/DataDog/terraform-provider-datadog
+2022-04-08,go,5669,7,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2022-04-08,go,3248,2,Test infrastructure for the Kubernetes project.,kubernetes,test-infra,https://github.com/kubernetes/test-infra
+2022-04-08,go,43362,47,A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2022-04-08,go,4685,12,Fluent SQL generation for golang,Masterminds,squirrel,https://github.com/Masterminds/squirrel
+2022-04-08,go,5171,26,A prompt theme engine for any shell.,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2022-04-08,go,11959,14,"Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-08,scala,4229,1,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-04-08,scala,2473,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-04-08,scala,32508,11,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-04-08,scala,4492,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-04-08,scala,12125,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-04-08,scala,1506,2,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-04-08,scala,429,2,Compiler for the Vale programming language - http://vale.dev/,ValeLang,Vale,https://github.com/ValeLang/Vale
+2022-04-08,scala,254,1,Connectors for Delta Lake,delta-io,connectors,https://github.com/delta-io/connectors
+2022-04-08,scala,149,0,Common RTL blocks used in SiFive's projects,sifive,sifive-blocks,https://github.com/sifive/sifive-blocks
+2022-04-08,scala,2416,6,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-04-08,scala,2,0,A custom Minecraft server implementation written in Scala language using Akka actor library.,smilesdc,specus,https://github.com/smilesdc/specus
+2022-04-08,scala,49,0,,sifive,block-inclusivecache-sifive,https://github.com/sifive/block-inclusivecache-sifive
+2022-04-08,scala,93,1,RISC-V Torture Test,ucb-bar,riscv-torture,https://github.com/ucb-bar/riscv-torture
+2022-04-08,scala,114,0,,sifive,fpga-shells,https://github.com/sifive/fpga-shells
+2022-04-08,scala,149,0,A Library of Chisel3 Tools for Digital Signal Processing,ucb-bar,dsptools,https://github.com/ucb-bar/dsptools
+2022-04-08,scala,6,0,Tools for integrating DspTools components into a rocket-chip,ucb-bar,rocket-dsp-utils,https://github.com/ucb-bar/rocket-dsp-utils
+2022-04-08,scala,399,0,Ergo protocol description & reference client implementation,ergoplatform,ergo,https://github.com/ergoplatform/ergo
+2022-04-08,scala,8183,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-04-08,scala,4302,0,"Scala.js, the Scala to JavaScript compiler",scala-js,scala-js,https://github.com/scala-js/scala-js
+2022-04-08,scala,2180,2,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-04-08,scala,2679,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-04-08,scala,0,0,,ucb-bar,FFTGenerator,https://github.com/ucb-bar/FFTGenerator
+2022-04-08,scala,180,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-04-08,scala,1,0,Wrapper for lowRISC Ibex,ucb-bar,ibex-wrapper,https://github.com/ucb-bar/ibex-wrapper
+2022-04-08,scala,16,0,A Scala library for Context-Dependent Evironments,chipsalliance,cde,https://github.com/chipsalliance/cde
