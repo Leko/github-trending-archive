@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-10,haskell,26393,7,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-04-10,haskell,28371,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-04-10,haskell,2617,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-04-10,haskell,588,1,A multi-syntax functional programming language that compiles to WebAssembly.,forest-lang,forest-compiler,https://github.com/forest-lang/forest-compiler
+2022-04-10,haskell,211,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-04-10,haskell,2030,5,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-04-10,haskell,1,0,for json test,shtaag,yesod-jsontest,https://github.com/shtaag/yesod-jsontest
+2022-04-10,haskell,640,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-04-10,haskell,1073,0,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-04-10,haskell,36,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-04-10,haskell,3181,0,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-04-10,haskell,3693,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-04-10,haskell,2430,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-04-10,haskell,128,1,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-04-10,haskell,6729,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-04-10,haskell,513,0,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
+2022-04-10,haskell,512,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-04-10,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-04-10,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-04-10,haskell,52,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-04-10,haskell,25157,10,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-04-10,haskell,165,0,"Site infrastructure for gwern.net (CSS/JS/HS/images/icons). Custom Hakyll website with unique automatic link archiving, recursive tooltip annotations, dark mode, and typography (sidenotes+smallcaps+dropcaps+admonitions+inflation-adjuster).",gwern,gwern.net,https://github.com/gwern/gwern.net
+2022-04-10,haskell,29,2,Library to support efficient compilation of large records (linear in the number of record fields),well-typed,large-records,https://github.com/well-typed/large-records
+2022-04-10,haskell,2417,1,A static website compiler library in Haskell,jaspervdj,hakyll,https://github.com/jaspervdj/hakyll
+2022-04-10,haskell,57,1,a work in progress effect system for Haskell,lexi-lambda,eff,https://github.com/lexi-lambda/eff
