@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-12,lua,342,20,My AwesomeWM Configuration Files,rxyhn,dotfiles,https://github.com/rxyhn/dotfiles
+2022-04-12,lua,1768,8,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-04-12,lua,4208,9,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-04-12,lua,8531,15,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-04-12,lua,2199,10,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-04-12,lua,5374,19,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-04-12,lua,8944,10,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2022-04-12,lua,1357,8,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2022-04-12,lua,6185,3,Nmap - the Network Mapper. Github mirror of official SVN repository.,nmap,nmap,https://github.com/nmap/nmap
+2022-04-12,lua,2487,18,AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,kabinspace,AstroVim,https://github.com/kabinspace/AstroVim
+2022-04-12,lua,1604,7,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-04-12,lua,497,3,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2022-04-12,lua,2594,10,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-04-12,lua,2535,14,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-04-12,lua,47,3,A V2fly core for Openwrt LuCI Application.,xiaorouji,openwrt-passwall2,https://github.com/xiaorouji/openwrt-passwall2
+2022-04-12,lua,900,6,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-04-12,lua,1357,5,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2022-04-12,lua,8189,10,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-04-12,lua,1959,1,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2022-04-12,lua,37,5,Neovim colorscheme using Gnome Adwaita syntax,Mofiqul,adwaita.nvim,https://github.com/Mofiqul/adwaita.nvim
+2022-04-12,lua,54,0,A better interaction system for FiveM,BerkieBb,qb-target,https://github.com/BerkieBb/qb-target
+2022-04-12,lua,5,0,Management menu for jobs & gangs,qbcore-framework,qb-management,https://github.com/qbcore-framework/qb-management
+2022-04-12,lua,1060,1,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-04-12,lua,608,1,Soothing pastel theme for NeoVim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2022-04-12,lua,263,2,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
