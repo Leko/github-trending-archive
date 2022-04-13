@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-13,lua,2208,10,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-04-13,lua,2546,11,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-04-13,lua,371,32,My awesomewm dotfiles for awesome people!,rxyhn,dotfiles,https://github.com/rxyhn/dotfiles
+2022-04-13,lua,1391,3,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2022-04-13,lua,8954,12,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2022-04-13,lua,31634,11,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-04-13,lua,499,3,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2022-04-13,lua,145,1,Overextended Inventory for ESX Legacy,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2022-04-13,lua,1782,13,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-04-13,lua,1358,2,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2022-04-13,lua,2606,13,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-04-13,lua,2853,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2022-04-13,lua,5386,13,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-04-13,lua,727,7,"A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2022-04-13,lua,904,4,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-04-13,lua,4218,12,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-04-13,lua,1272,4,magit for neovim,TimUntersberger,neogit,https://github.com/TimUntersberger/neogit
+2022-04-13,lua,840,2,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-04-13,lua,82,0,Admin Menu for FiveM and RedM,Blumlaut,EasyAdmin,https://github.com/Blumlaut/EasyAdmin
+2022-04-13,lua,311,1,Plugin for calling lazygit from within neovim.,kdheepak,lazygit.nvim,https://github.com/kdheepak/lazygit.nvim
+2022-04-13,lua,15,0,Admin Menu Using MenuV,qbcore-framework,qb-adminmenu,https://github.com/qbcore-framework/qb-adminmenu
+2022-04-13,lua,396,3,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2022-04-13,lua,825,0,Sandbox mod for the Source Engine,Facepunch,garrysmod,https://github.com/Facepunch/garrysmod
+2022-04-13,lua,17,0,Drugs Script For QB-Core,qbcore-framework,qb-drugs,https://github.com/qbcore-framework/qb-drugs
+2022-04-13,lua,1326,9,Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!,williamboman,nvim-lsp-installer,https://github.com/williamboman/nvim-lsp-installer
