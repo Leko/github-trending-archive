@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-14,python,38038,65,中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…,fighting41love,funNLP,https://github.com/fighting41love/funNLP
+2022-04-14,python,67,15,上海疫情被封在家，开始抢菜之路，美团抢菜，叮咚抢菜，抢菜,Sjj1024,QiangCai,https://github.com/Sjj1024/QiangCai
+2022-04-14,python,123357,142,"A curated list of awesome Python frameworks, libraries, software and resources",vinta,awesome-python,https://github.com/vinta/awesome-python
+2022-04-14,python,867,110,"Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",lucidrains,DALLE2-pytorch,https://github.com/lucidrains/DALLE2-pytorch
+2022-04-14,python,634,9,Reference implementations of MLPerf™ inference benchmarks,mlcommons,inference,https://github.com/mlcommons/inference
+2022-04-14,python,2686,25,This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.,Azure,azure-sdk-for-python,https://github.com/Azure/azure-sdk-for-python
+2022-04-14,python,18621,16,Scalable user load testing tool written in Python,locustio,locust,https://github.com/locustio/locust
+2022-04-14,python,246,53,A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.,cider-security-research,cicd-goat,https://github.com/cider-security-research/cicd-goat
+2022-04-14,python,3313,19,PyTorch implementation of MAE https//arxiv.org/abs/2111.06377,facebookresearch,mae,https://github.com/facebookresearch/mae
+2022-04-14,python,172983,407,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer
+2022-04-14,python,60957,87,"Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",huggingface,transformers,https://github.com/huggingface/transformers
+2022-04-14,python,14865,17,Python爬虫代理IP池(proxy pool),jhao104,proxy_pool,https://github.com/jhao104/proxy_pool
+2022-04-14,python,5854,14,PyTorch3D is FAIR's library of reusable components for deep learning with 3D data,facebookresearch,pytorch3d,https://github.com/facebookresearch/pytorch3d
+2022-04-14,python,10298,12,An API wrapper for Discord written in Python.,Rapptz,discord.py,https://github.com/Rapptz/discord.py
+2022-04-14,python,584,6,"Easily generate thousands of 3D models, images, and animation NFTs automatically in Blender with Blend_My_NFTs.",torrinworx,Blend_My_NFTs,https://github.com/torrinworx/Blend_My_NFTs
+2022-04-14,python,189250,219,A collective list of free APIs,public-apis,public-apis,https://github.com/public-apis/public-apis
+2022-04-14,python,132,27,Advanced Github OSINT Framework,rly0nheart,octosuite,https://github.com/rly0nheart/octosuite
+2022-04-14,python,9312,20,"30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",Asabeneh,30-Days-Of-Python,https://github.com/Asabeneh/30-Days-Of-Python
+2022-04-14,python,33,10,山姆买菜,azhan1998,sam_buy,https://github.com/azhan1998/sam_buy
+2022-04-14,python,2583,13,Probabilistic time series modeling in Python,awslabs,gluon-ts,https://github.com/awslabs/gluon-ts
+2022-04-14,python,799,33,DALL·E Mini - Generate images from a text prompt,borisdayma,dalle-mini,https://github.com/borisdayma/dalle-mini
+2022-04-14,python,23132,8,Industrial-strength Natural Language Processing (NLP) in Python,explosion,spaCy,https://github.com/explosion/spaCy
+2022-04-14,python,2691,5,"Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).",awslabs,aws-data-wrangler,https://github.com/awslabs/aws-data-wrangler
+2022-04-14,python,6162,15,Automated Machine Learning with scikit-learn,automl,auto-sklearn,https://github.com/automl/auto-sklearn
+2022-04-14,python,1668,36,"As easy as /aitch-tee-tee-pie/  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie",httpie,httpie,https://github.com/httpie/httpie
