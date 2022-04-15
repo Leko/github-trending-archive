@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-15,rust,9204,93,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2022-04-15,rust,21512,66,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2022-04-15,rust,2957,82,Use your tablet as graphic tablet/touch screen on your computer.,H-M-H,Weylus,https://github.com/H-M-H/Weylus
+2022-04-15,rust,13126,80,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2022-04-15,rust,3587,337,bore is a simple CLI tool for making tunnels to localhost,ekzhang,bore,https://github.com/ekzhang/bore
+2022-04-15,rust,26,4,,move-language,move,https://github.com/move-language/move
+2022-04-15,rust,1468,55,"EdenSCM is a cross-platform, highly scalable source control management system.",facebookexperimental,eden,https://github.com/facebookexperimental/eden
+2022-04-15,rust,9810,39,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-04-15,rust,4293,18,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-04-15,rust,2280,4,"A Rust based DNS client, server, and resolver",bluejekyll,trust-dns,https://github.com/bluejekyll/trust-dns
+2022-04-15,rust,7390,22,The next gen ls command,Peltoche,lsd,https://github.com/Peltoche/lsd
+2022-04-15,rust,2358,51,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-04-15,rust,20155,60,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy,https://github.com/AppFlowy-IO/AppFlowy
+2022-04-15,rust,33665,50,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2022-04-15,rust,9058,54,a diff that understands syntax,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2022-04-15,rust,30377,24,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2022-04-15,rust,6947,30,A new way to see and navigate directory trees : https://dystroy.org/broot,Canop,broot,https://github.com/Canop/broot
+2022-04-15,rust,3998,36,A more intuitive version of du in rust,bootandy,dust,https://github.com/bootandy/dust
+2022-04-15,rust,8202,24,A fast CSV command line toolkit written in Rust.,BurntSushi,xsv,https://github.com/BurntSushi/xsv
+2022-04-15,rust,10960,28,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2022-04-15,rust,1577,57,weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.,googleprojectzero,weggli,https://github.com/googleprojectzero/weggli
+2022-04-15,rust,17337,34,A modern replacement for ‘ls’.,ogham,exa,https://github.com/ogham/exa
+2022-04-15,rust,3885,19,Yet another cross-platform graphical process/system monitor.,ClementTsang,bottom,https://github.com/ClementTsang/bottom
+2022-04-15,rust,2658,5,"jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.",PaulJuliusMartinez,jless,https://github.com/PaulJuliusMartinez/jless
+2022-04-15,rust,1183,28,A parser library for humans with powerful error recovery.,zesterer,chumsky,https://github.com/zesterer/chumsky

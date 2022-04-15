@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-15,go,97,30,叮咚买菜自动抢购下单程序,zc2638,ddshop,https://github.com/zc2638/ddshop
+2022-04-15,go,36682,27,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-04-15,go,2692,24,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2022-04-15,go,12472,25,基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-04-15,go,87479,104,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-04-15,go,5796,10,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-04-15,go,38630,73,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-04-15,go,10897,1,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2022-04-15,go,202,31,A tool to bring existing Azure resources under Terraform's management,Azure,aztfy,https://github.com/Azure/aztfy
+2022-04-15,go,735,77,Quickly discover exposed hosts on the internet using multiple search engine.,projectdiscovery,uncover,https://github.com/projectdiscovery/uncover
+2022-04-15,go,5706,14,Distributed server for social and realtime games and apps.,heroiclabs,nakama,https://github.com/heroiclabs/nakama
+2022-04-15,go,4923,17,Automated code review tool integrated with any code analysis tools regardless of programming language,reviewdog,reviewdog,https://github.com/reviewdog/reviewdog
+2022-04-15,go,7140,2,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-04-15,go,2109,11,protoc plugin to generate polyglot message validators,envoyproxy,protoc-gen-validate,https://github.com/envoyproxy/protoc-gen-validate
+2022-04-15,go,15494,82,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-04-15,go,8397,8,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-04-15,go,4033,6,The official Go client for Elasticsearch,elastic,go-elasticsearch,https://github.com/elastic/go-elasticsearch
+2022-04-15,go,19121,52,Easily and securely send things from one computer to another,schollz,croc,https://github.com/schollz/croc
+2022-04-15,go,1215,2,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-04-15,go,8886,27,"Render markdown on the CLI, with pizzazz! 💅🏻",charmbracelet,glow,https://github.com/charmbracelet/glow
+2022-04-15,go,5342,98,Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2022-04-15,go,17706,15,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-04-15,go,10764,11,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-04-15,go,461,16,"lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号",real-web-world,hh-lol-prophet,https://github.com/real-web-world/hh-lol-prophet
+2022-04-15,go,4869,2,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
