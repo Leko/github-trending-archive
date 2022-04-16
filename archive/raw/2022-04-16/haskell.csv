@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-16,haskell,26441,8,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-04-16,haskell,2011,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-04-16,haskell,2623,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-04-16,haskell,28435,15,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-04-16,haskell,640,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-04-16,haskell,132,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-04-16,haskell,752,1,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-04-16,haskell,6758,8,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-04-16,haskell,3190,1,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-04-16,haskell,1767,1,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2022-04-16,haskell,25205,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-04-16,haskell,56,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-04-16,haskell,94,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-04-16,haskell,962,1,How to learn front-end or back-end development,fullstack-development,developers-roadmap,https://github.com/fullstack-development/developers-roadmap
+2022-04-16,haskell,8,0,Genetic Algorithm based randomized testing,input-output-hk,goblins,https://github.com/input-output-hk/goblins
+2022-04-16,haskell,31,0,"This framework provides logging, benchmarking and monitoring.",input-output-hk,iohk-monitoring-framework,https://github.com/input-output-hk/iohk-monitoring-framework
+2022-04-16,haskell,258,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-04-16,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-04-16,haskell,33,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-04-16,haskell,212,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-04-16,haskell,10,0,Governance modules for Cardano protocols,Liqwid-Labs,agora,https://github.com/Liqwid-Labs/agora
+2022-04-16,haskell,1686,0,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-04-16,haskell,11,0,A protolude-based custom prelude for the Cardano project,input-output-hk,cardano-prelude,https://github.com/input-output-hk/cardano-prelude
+2022-04-16,haskell,513,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-04-16,haskell,36,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-16,go,266,39,A tool to bring existing Azure resources under Terraform's management,Azure,aztfy,https://github.com/Azure/aztfy
+2022-04-16,go,190,94,叮咚买菜自动抢购下单程序,zc2638,ddshop,https://github.com/zc2638/ddshop
+2022-04-16,go,97868,86,The Go programming language,golang,go,https://github.com/golang/go
+2022-04-16,go,15493,18,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-04-16,go,15505,11,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-04-16,go,5367,30,Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2022-04-16,go,87511,46,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-04-16,go,17720,15,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-04-16,go,11402,7,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-04-16,go,38680,55,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-04-16,go,18903,14,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-04-16,go,11886,14,"Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",snail007,goproxy,https://github.com/snail007/goproxy
+2022-04-16,go,10497,11,A process for automating Docker container base image updates.,containrrr,watchtower,https://github.com/containrrr/watchtower
+2022-04-16,go,902,4,"The Altinity Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes",Altinity,clickhouse-operator,https://github.com/Altinity/clickhouse-operator
+2022-04-16,go,1727,5,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2022-04-16,go,2914,35,"httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.",projectdiscovery,httpx,https://github.com/projectdiscovery/httpx
+2022-04-16,go,41,0,,tonight-ac,flow,https://github.com/tonight-ac/flow
+2022-04-16,go,23704,9,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-04-16,go,1865,3,Golang driver for ClickHouse,ClickHouse,clickhouse-go,https://github.com/ClickHouse/clickhouse-go
+2022-04-16,go,15734,9,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-04-16,go,28094,22,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2022-04-16,go,12491,20,基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-04-16,go,8461,8,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-04-16,go,8406,9,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-04-16,go,1825,0,Elastic Cloud on Kubernetes,elastic,cloud-on-k8s,https://github.com/elastic/cloud-on-k8s

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-16,rust,2389,31,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-04-16,rust,3030,75,Use your tablet as graphic tablet/touch screen on your computer.,H-M-H,Weylus,https://github.com/H-M-H/Weylus
+2022-04-16,rust,13167,48,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2022-04-16,rust,9263,68,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2022-04-16,rust,4306,13,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-04-16,rust,23500,31,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-04-16,rust,21640,131,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2022-04-16,rust,5783,14,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-04-16,rust,1594,8,A collection of Solana-maintained on-chain programs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2022-04-16,rust,9821,12,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-04-16,rust,5549,23,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍",sunface,rust-course,https://github.com/sunface/rust-course
+2022-04-16,rust,4556,76,"A massively parallel, optimal functional runtime in Rust",Kindelia,HVM,https://github.com/Kindelia/HVM
+2022-04-16,rust,6224,19,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2022-04-16,rust,20205,51,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy,https://github.com/AppFlowy-IO/AppFlowy
+2022-04-16,rust,787,18,Cross-platform local file search engine.,naaive,orange,https://github.com/naaive/orange
+2022-04-16,rust,1877,5,Solana Sealevel Framework,project-serum,anchor,https://github.com/project-serum/anchor
+2022-04-16,rust,4411,8,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2022-04-16,rust,1792,5,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-04-16,rust,1598,25,weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.,googleprojectzero,weggli,https://github.com/googleprojectzero/weggli
+2022-04-16,rust,4081,8,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2022-04-16,rust,686,18,"一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)",editso,fuso,https://github.com/editso/fuso
+2022-04-16,rust,4019,22,A more intuitive version of du in rust,bootandy,dust,https://github.com/bootandy/dust
+2022-04-16,rust,2701,16,Private front-end for Reddit,spikecodes,libreddit,https://github.com/spikecodes/libreddit
+2022-04-16,rust,18297,21,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2022-04-16,rust,7393,5,A bunch of lints to catch common mistakes and improve your Rust code,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
