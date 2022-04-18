@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-18,elixir,17832,2,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2022-04-18,elixir,2581,7,Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2022-04-18,elixir,4525,1,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2022-04-18,elixir,20085,5,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2022-04-18,elixir,1768,0,Multi-dimensional arrays (tensors) and numerical definitions for Elixir,elixir-nx,nx,https://github.com/elixir-nx/nx
+2022-04-18,elixir,533,1,Catalog of Elixir-specific code smells,lucasvegi,Elixir-Code-Smells,https://github.com/lucasvegi/Elixir-Code-Smells
+2022-04-18,elixir,2169,0,"Robust job processing in Elixir, backed by modern PostgreSQL",sorentwo,oban,https://github.com/sorentwo/oban
+2022-04-18,elixir,529,0,Kafka client library for Elixir,kafkaex,kafka_ex,https://github.com/kafkaex/kafka_ex
+2022-04-18,elixir,4833,8,Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.,supabase,realtime,https://github.com/supabase/realtime
+2022-04-18,elixir,3923,1,The GraphQL toolkit for Elixir,absinthe-graphql,absinthe,https://github.com/absinthe-graphql/absinthe
+2022-04-18,elixir,462,0,更加现代的 Policr 迷你版,Hentioe,policr-mini,https://github.com/Hentioe/policr-mini
+2022-04-18,elixir,10842,6,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2022-04-18,elixir,1609,1,A server-side rendering component library for Phoenix,surface-ui,surface,https://github.com/surface-ui/surface
+2022-04-18,elixir,366,1,An HTML DSL for Elixir and Phoenix,mhanberg,temple,https://github.com/mhanberg/temple
+2022-04-18,elixir,1113,0,Easy and extensible benchmarking in Elixir providing you with lots of statistics!,bencheeorg,benchee,https://github.com/bencheeorg/benchee
+2022-04-18,elixir,11,0,,coingaming,money-elixir,https://github.com/coingaming/money-elixir
+2022-04-18,elixir,14,0,exprotobuf with renamed Protobuf module,coingaming,exprotobuf2,https://github.com/coingaming/exprotobuf2
+2022-04-18,elixir,34,0,GraphQL server benchmarks,graphql-crystal,benchmarks,https://github.com/graphql-crystal/benchmarks
+2022-04-18,elixir,876,2,"Elixir library to write Windows, macOS, Linux, Android apps with OTP24 & Phoenix.LiveView",elixir-desktop,desktop,https://github.com/elixir-desktop/desktop
+2022-04-18,elixir,39,0,Catch unsafe migrations in your Elixir application,surgeventures,strong_migrations,https://github.com/surgeventures/strong_migrations
+2022-04-18,elixir,2614,3,A self-hosted data logger for your Tesla,adriankumpf,teslamate,https://github.com/adriankumpf/teslamate
+2022-04-18,elixir,4278,2,A static code analysis tool for the Elixir language with a focus on code consistency and teaching.,rrrene,credo,https://github.com/rrrene/credo
+2022-04-18,elixir,280,0,"Easy parameters validation/casting with Ecto.Schema, akin to Rails' strong parameters.",vic,params,https://github.com/vic/params
+2022-04-18,elixir,14,0,Membrane bins and elements for sending and receiving RTP/SRTP and RTCP/SRTCP streams,membraneframework,membrane_rtp_plugin,https://github.com/membraneframework/membrane_rtp_plugin
+2022-04-18,elixir,225,0,AppSignal for Elixir package,appsignal,appsignal-elixir,https://github.com/appsignal/appsignal-elixir
