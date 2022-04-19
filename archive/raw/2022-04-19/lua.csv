@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-19,lua,4291,10,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-04-19,lua,1031,16,"A small, documented, and featureful neovim starter config",nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2022-04-19,lua,1832,7,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-04-19,lua,860,8,"// Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",numToStr,Comment.nvim,https://github.com/numToStr/Comment.nvim
+2022-04-19,lua,2605,10,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-04-19,lua,1104,8,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-04-19,lua,1497,3,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2022-04-19,lua,1649,7,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-04-19,lua,865,2,LSP signature hint as you type,ray-x,lsp_signature.nvim,https://github.com/ray-x/lsp_signature.nvim
+2022-04-19,lua,1383,11,Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!,williamboman,nvim-lsp-installer,https://github.com/williamboman/nvim-lsp-installer
+2022-04-19,lua,835,1,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-04-19,lua,1032,1,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2022-04-19,lua,1227,8,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-04-19,lua,532,2,Rainbow parentheses for neovim using tree-sitter. Also at https://sr.ht/~p00f/nvim-ts-rainbow,p00f,nvim-ts-rainbow,https://github.com/p00f/nvim-ts-rainbow
+2022-04-19,lua,354,4,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2022-04-19,lua,275,0,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-04-19,lua,1278,4,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2022-04-19,lua,10262,7,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-04-19,lua,1419,4,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2022-04-19,lua,8284,13,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-04-19,lua,1375,8,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2022-04-19,lua,783,2,"Github theme for Neovim, kitty, iTerm, Konsole, tmux, Xresources and Alacritty written in Lua",projekt0n,github-nvim-theme,https://github.com/projekt0n/github-nvim-theme
+2022-04-19,lua,823,3,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2022-04-19,lua,620,2,Improve startup time for Neovim,lewis6991,impatient.nvim,https://github.com/lewis6991/impatient.nvim
+2022-04-19,lua,73,1,A collection of every roblox script ive aquired. I DO NOT UPDATE OR MAINTAIN THESE.,PhoenixAceVFX,Roblox-Scripts,https://github.com/PhoenixAceVFX/Roblox-Scripts

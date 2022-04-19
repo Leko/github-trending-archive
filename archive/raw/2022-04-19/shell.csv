@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-19,shell,7813,29,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-04-19,shell,3349,73,A cli tool to browse and play anime,pystardust,ani-cli,https://github.com/pystardust/ani-cli
+2022-04-19,shell,2021,1,Armbian Linux build framework,armbian,build,https://github.com/armbian/build
+2022-04-19,shell,1141,1,Helm charts for applications you run at home,k8s-at-home,charts,https://github.com/k8s-at-home/charts
+2022-04-19,shell,35799,12,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2022-04-19,shell,5235,8,"A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt",P3TERX,Actions-OpenWrt,https://github.com/P3TERX/Actions-OpenWrt
+2022-04-19,shell,279,7,最稳定的ETH代理中转程序，已修改降低作者抽水；纯中转模式无任何抽水；支持SSL、自有证书；包含自启动和进程守护！放开防火墙和连接数限制，一键搞定。 已内置加密证书，支持自定义证书,minerproxyeth,minerproxy,https://github.com/minerproxyeth/minerproxy
+2022-04-19,shell,1675,1,The Void source packages collection,void-linux,void-packages,https://github.com/void-linux/void-packages
+2022-04-19,shell,1242,3,To deploy catuserbot,TgCatUB,nekopack,https://github.com/TgCatUB/nekopack
+2022-04-19,shell,1009,5,"Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.",PurpurMC,Purpur,https://github.com/PurpurMC/Purpur
+2022-04-19,shell,3552,2,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2022-04-19,shell,1227,3,"WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",fscarmen,warp,https://github.com/fscarmen/warp
+2022-04-19,shell,4101,4,Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update),SuLingGG,OpenWrt-Rpi,https://github.com/SuLingGG/OpenWrt-Rpi
+2022-04-19,shell,11640,3,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-04-19,shell,1514,0,OpenWrt for Nanopi R2C/R2S/R4S/X86,QiuSimons,YAOF,https://github.com/QiuSimons/YAOF
+2022-04-19,shell,5297,13,（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2022-04-19,shell,195,2,利用github actions 实现v2ray-heroku的部署，停止，启动， 和删除。,zizifn,v2ray-heroku,https://github.com/zizifn/v2ray-heroku
+2022-04-19,shell,1612,4,"WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",Nyr,wireguard-install,https://github.com/Nyr/wireguard-install
+2022-04-19,shell,65338,36,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
+2022-04-19,shell,27,3,,G33kzD3n,Catalogue,https://github.com/G33kzD3n/Catalogue
+2022-04-19,shell,2506,4,,BtbN,FFmpeg-Builds,https://github.com/BtbN/FFmpeg-Builds
+2022-04-19,shell,389,2,All-in-One Hacking Tools For Hackers! And more hacking tools! In termux and linux!,mishakorzik,AllHackingTools,https://github.com/mishakorzik/AllHackingTools
+2022-04-19,shell,2115,8,"Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B",kiddin9,OpenWrt_x86-r2s-r4s,https://github.com/kiddin9/OpenWrt_x86-r2s-r4s
+2022-04-19,shell,12096,4,"Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",foxlet,macOS-Simple-KVM,https://github.com/foxlet/macOS-Simple-KVM
+2022-04-19,shell,847,4,Xray：（VLESS/VMess）-（TCP/gRPC/WebSocket）-（XTLS/TLS）+Web 搭建/管理脚本,kirin10000,Xray-script,https://github.com/kirin10000/Xray-script
