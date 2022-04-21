@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-21,shell,5148,16,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. Enterprise version:",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-04-21,shell,57074,35,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-04-21,shell,11651,9,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-04-21,shell,26217,16,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2022-04-21,shell,3131,5,A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-04-21,shell,5011,9,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2022-04-21,shell,4408,11,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2022-04-21,shell,31102,7,Amazon Web Services — a practical guide,open-guides,og-aws,https://github.com/open-guides/og-aws
+2022-04-21,shell,3067,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-04-21,shell,7440,7,OpenVPN server in a Docker container complete with an EasyRSA PKI CA,kylemanna,docker-openvpn,https://github.com/kylemanna/docker-openvpn
+2022-04-21,shell,10042,3,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2022-04-21,shell,236,1,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2022-04-21,shell,7847,8,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-04-21,shell,25697,7,Git extensions to provide high-level repository operations for Vincent Driessen's branching model.,nvie,gitflow,https://github.com/nvie/gitflow
+2022-04-21,shell,1794,1,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2022-04-21,shell,4195,1,Documentation for Docker Official Images in docker-library,docker-library,docs,https://github.com/docker-library/docs
+2022-04-21,shell,469,26,Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。,emptysuns,Hi_Hysteria,https://github.com/emptysuns/Hi_Hysteria
+2022-04-21,shell,5320,2,"Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2022-04-21,shell,143929,86,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-04-21,shell,703,1,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2022-04-21,shell,2097,5,"Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",urbanadventurer,Android-PIN-Bruteforce,https://github.com/urbanadventurer/Android-PIN-Bruteforce
+2022-04-21,shell,517,1,"在线编译 OpenWrt | 在线更新固件 | Dev",Hyy2001X,AutoBuild-Actions,https://github.com/Hyy2001X/AutoBuild-Actions
+2022-04-21,shell,2364,4,基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜,Sitoi,dailycheckin,https://github.com/Sitoi/dailycheckin
+2022-04-21,shell,3225,6,WireGuard VPN installer for Linux servers,angristan,wireguard-install,https://github.com/angristan/wireguard-install
+2022-04-21,shell,3460,1,Docker Apache Airflow,puckel,docker-airflow,https://github.com/puckel/docker-airflow

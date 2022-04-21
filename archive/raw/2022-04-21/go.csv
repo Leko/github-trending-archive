@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-21,go,4614,158,A portable devkit for CI/CD pipelines,dagger,dagger,https://github.com/dagger/dagger
+2022-04-21,go,2803,23,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-04-21,go,57822,79,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-04-21,go,239,56,山姆抢购,robGoods,sams,https://github.com/robGoods/sams
+2022-04-21,go,1772,32,"Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-04-21,go,655,32,Hyperconverged cloud-edge native database,matrixorigin,matrixone,https://github.com/matrixorigin/matrixone
+2022-04-21,go,5020,10,Your Universal Control Plane,crossplane,crossplane,https://github.com/crossplane/crossplane
+2022-04-21,go,2308,28,The new home of the CUE language! Validate and define text-based and dynamic configuration,cue-lang,cue,https://github.com/cue-lang/cue
+2022-04-21,go,1769,94,a drop-in replacement for Nmap powered by shodan.io,s0md3v,Smap,https://github.com/s0md3v/Smap
+2022-04-21,go,7167,11,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-04-21,go,3693,5,NGINX and NGINX Plus Ingress Controllers for Kubernetes,nginxinc,kubernetes-ingress,https://github.com/nginxinc/kubernetes-ingress
+2022-04-21,go,13111,14,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-04-21,go,129,17,The next-generation security Mesh VPN implementation based on Golang.,pairmesh,pairmesh,https://github.com/pairmesh/pairmesh
+2022-04-21,go,7232,9,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2022-04-21,go,5576,6,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2022-04-21,go,194,60,"Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.",firefart,stunner,https://github.com/firefart/stunner
+2022-04-21,go,425,2,CSI Driver for Amazon EFS https://aws.amazon.com/efs/,kubernetes-sigs,aws-efs-csi-driver,https://github.com/kubernetes-sigs/aws-efs-csi-driver
+2022-04-21,go,22156,15,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2022-04-21,go,11566,22,"Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops",gravitational,teleport,https://github.com/gravitational/teleport
+2022-04-21,go,7914,16,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-04-21,go,13893,12,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2022-04-21,go,11427,8,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-04-21,go,1492,18,企业级的 Go 语言实战项目：认证和授权系统,marmotedu,iam,https://github.com/marmotedu/iam
+2022-04-21,go,16515,15,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2022-04-21,go,8277,7,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize

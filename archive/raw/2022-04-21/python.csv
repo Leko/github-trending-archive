@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-21,python,6989,66,"A Python framework for creating reproducible, maintainable and modular data science code.",kedro-org,kedro,https://github.com/kedro-org/kedro
+2022-04-21,python,7190,117,"Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",PaddlePaddle,PaddleDetection,https://github.com/PaddlePaddle/PaddleDetection
+2022-04-21,python,39424,221,中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…,fighting41love,funNLP,https://github.com/fighting41love/funNLP
+2022-04-21,python,33468,15,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",pandas-dev,pandas,https://github.com/pandas-dev/pandas
+2022-04-21,python,20026,22,"An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.",ray-project,ray,https://github.com/ray-project/ray
+2022-04-21,python,536,7,利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点,tr0uble-mAker,POC-bomber,https://github.com/tr0uble-mAker/POC-bomber
+2022-04-21,python,34050,31,openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.,commaai,openpilot,https://github.com/commaai/openpilot
+2022-04-21,python,15060,21,Python sample codes for robotics algorithms.,AtsushiSakai,PythonRobotics,https://github.com/AtsushiSakai/PythonRobotics
+2022-04-21,python,5538,4,Code samples used on cloud.google.com,GoogleCloudPlatform,python-docs-samples,https://github.com/GoogleCloudPlatform/python-docs-samples
+2022-04-21,python,61321,61,"Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",huggingface,transformers,https://github.com/huggingface/transformers
+2022-04-21,python,848,21,"docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.",mindee,doctr,https://github.com/mindee/doctr
+2022-04-21,python,175839,329,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer
+2022-04-21,python,39760,44,A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!,localstack,localstack,https://github.com/localstack/localstack
+2022-04-21,python,373,53,,nv-tlabs,editGAN_release,https://github.com/nv-tlabs/editGAN_release
+2022-04-21,python,43,7,,XmasSnow,CVE-2022-26809-RCE,https://github.com/XmasSnow/CVE-2022-26809-RCE
+2022-04-21,python,10685,13,"Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",Chia-Network,chia-blockchain,https://github.com/Chia-Network/chia-blockchain
+2022-04-21,python,3344,5,"CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",ckan,ckan,https://github.com/ckan/ckan
+2022-04-21,python,7430,87,An open access book on scientific visualization using python and matplotlib,rougier,scientific-visualization-book,https://github.com/rougier/scientific-visualization-book
+2022-04-21,python,3791,17,Automatically visualize your pandas dataframe via a single print!,lux-org,lux,https://github.com/lux-org/lux
+2022-04-21,python,591,114,,help-iq,telethon,https://github.com/help-iq/telethon
+2022-04-21,python,267,17,linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks,lefayjey,linWinPwn,https://github.com/lefayjey/linWinPwn
+2022-04-21,python,226,16,"Mask Transfiner for High-Quality Instance Segmentation, CVPR 2022",SysCV,transfiner,https://github.com/SysCV/transfiner
+2022-04-21,python,196,9,"[CVPR 2022 Oral] Official repository for ""MAXIM: Multi-Axis MLP for Image Processing"". SOTA for denoising, deblurring, deraining, dehazing, and enhancement.",google-research,maxim,https://github.com/google-research/maxim
+2022-04-21,python,3550,5,The Triton Inference Server provides an optimized cloud and edge inferencing solution.,triton-inference-server,server,https://github.com/triton-inference-server/server
+2022-04-21,python,20041,29,"Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",PaddlePaddle,PaddleOCR,https://github.com/PaddlePaddle/PaddleOCR
