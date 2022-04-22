@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-22,shell,57145,46,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-04-22,shell,5155,7,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. Enterprise version:",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-04-22,shell,11652,1,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-04-22,shell,3167,3,Docker Official Image packaging for PHP,docker-library,php,https://github.com/docker-library/php
+2022-04-22,shell,143990,62,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-04-22,shell,22456,10,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2022-04-22,shell,8904,7,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2022-04-22,shell,15549,11,"GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",tj,git-extras,https://github.com/tj/git-extras
+2022-04-22,shell,5012,1,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2022-04-22,shell,4872,1,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2022-04-22,shell,1501,2,Official Zabbix Dockerfiles,zabbix,zabbix-docker,https://github.com/zabbix/zabbix-docker
+2022-04-22,shell,2562,12,"Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders",mitchellkrogza,nginx-ultimate-bad-bot-blocker,https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
+2022-04-22,shell,7041,0,"A set of vim, zsh, git, and tmux configuration files.",thoughtbot,dotfiles,https://github.com/thoughtbot/dotfiles
+2022-04-22,shell,160,0,,microverseinc,linters-config,https://github.com/microverseinc/linters-config
+2022-04-22,shell,726,3,前端基础 个人博客 学习笔记,WindrunnerMax,EveryDay,https://github.com/WindrunnerMax/EveryDay
+2022-04-22,shell,2960,4,Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel,haugene,docker-transmission-openvpn,https://github.com/haugene/docker-transmission-openvpn
+2022-04-22,shell,3072,5,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-04-22,shell,2118,2,,dustinkirkland,hollywood,https://github.com/dustinkirkland/hollywood
+2022-04-22,shell,134,7,Steam Deck Guide,mikeroyal,Steam-Deck-Guide,https://github.com/mikeroyal/Steam-Deck-Guide
+2022-04-22,shell,70,1,,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2022-04-22,shell,1352,0,"An open-source, next-generation ""runc"" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",nestybox,sysbox,https://github.com/nestybox/sysbox
+2022-04-22,shell,7236,0,Dockerized GitLab,sameersbn,docker-gitlab,https://github.com/sameersbn/docker-gitlab
+2022-04-22,shell,6016,41,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2022-04-22,shell,371,1,"Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",kubernetes,k8s.io,https://github.com/kubernetes/k8s.io
+2022-04-22,shell,5779,4,Docker images for the Selenium Grid Server,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium

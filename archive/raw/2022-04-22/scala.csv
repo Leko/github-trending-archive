@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-22,scala,1058,8,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-04-22,scala,8190,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-04-22,scala,3271,4,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-04-22,scala,10748,3,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-04-22,scala,32640,15,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-04-22,scala,327,1,"This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language",spark-examples,spark-scala-examples,https://github.com/spark-examples/spark-scala-examples
+2022-04-22,scala,1689,2,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-04-22,scala,2490,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-04-22,scala,1023,5,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-04-22,scala,5444,3,Hybrid visual and textual functional programming.,enso-org,enso,https://github.com/enso-org/enso
+2022-04-22,scala,12117,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-04-22,scala,11435,2,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-04-22,scala,558,25,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-04-22,scala,289,0,Berkeley's Spatial Array Generator,ucb-bar,gemmini,https://github.com/ucb-bar/gemmini
+2022-04-22,scala,12147,4,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-04-22,scala,1,0,Wrapper for lowRISC Ibex,ucb-bar,ibex-wrapper,https://github.com/ucb-bar/ibex-wrapper
+2022-04-22,scala,3314,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-04-22,scala,5500,4,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-04-22,scala,187,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-04-22,scala,1834,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-04-22,scala,535,0,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-04-22,scala,2,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-04-22,scala,2294,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-04-22,scala,1,0,,ucb-bar,FFTGenerator,https://github.com/ucb-bar/FFTGenerator
+2022-04-22,scala,96,0,Microarchitecture implementation of the decoupled vector-fetch accelerator,ucb-bar,hwacha,https://github.com/ucb-bar/hwacha

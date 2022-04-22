@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-22,go,2877,82,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-04-22,go,7221,126,"Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-04-22,go,22679,44,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-04-22,go,10765,11,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-04-22,go,2641,7,An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.,go-ozzo,ozzo-validation,https://github.com/go-ozzo/ozzo-validation
+2022-04-22,go,9983,11,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2022-04-22,go,4839,228,A portable devkit for CI/CD pipelines,dagger,dagger,https://github.com/dagger/dagger
+2022-04-22,go,10015,123,"Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",sqshq,sampler,https://github.com/sqshq/sampler
+2022-04-22,go,1860,13,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2022-04-22,go,7813,12,live video streaming server in golang,gwuhaolin,livego,https://github.com/gwuhaolin/livego
+2022-04-22,go,1782,15,a drop-in replacement for Nmap powered by shodan.io,s0md3v,Smap,https://github.com/s0md3v/Smap
+2022-04-22,go,258,21,山姆抢购,robGoods,sams,https://github.com/robGoods/sams
+2022-04-22,go,3987,5,Go Implementation For Apache Dubbo,apache,dubbo-go,https://github.com/apache/dubbo-go
+2022-04-22,go,10211,5,Git extension for versioning large files,git-lfs,git-lfs,https://github.com/git-lfs/git-lfs
+2022-04-22,go,3288,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-04-22,go,7963,13,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2022-04-22,go,55453,62,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-04-22,go,2175,2,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2022-04-22,go,911,6,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2022-04-22,go,39040,55,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-04-22,go,5045,11,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2022-04-22,go,2555,14,"Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2022-04-22,go,426,1,CSI Driver for Amazon EFS https://aws.amazon.com/efs/,kubernetes-sigs,aws-efs-csi-driver,https://github.com/kubernetes-sigs/aws-efs-csi-driver
+2022-04-22,go,6788,3,Successor: https://github.com/fluxcd/flux2 — The GitOps Kubernetes operator,fluxcd,flux,https://github.com/fluxcd/flux
+2022-04-22,go,29380,12,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN

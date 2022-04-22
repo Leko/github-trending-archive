@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-22,haskell,26494,10,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-04-22,haskell,28497,12,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-04-22,haskell,6812,3,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-04-22,haskell,640,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-04-22,haskell,60,4,Determine how intervals relate to each other.,tfausak,rampart,https://github.com/tfausak/rampart
+2022-04-22,haskell,2626,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-04-22,haskell,513,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-04-22,haskell,1701,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-04-22,haskell,18596,10,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-04-22,haskell,6780,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-04-22,haskell,1488,2,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-04-22,haskell,814,2,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-04-22,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-04-22,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-04-22,haskell,35,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-04-22,haskell,51,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-04-22,haskell,1778,1,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2022-04-22,haskell,1368,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-04-22,haskell,25268,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-04-22,haskell,2390,5,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
+2022-04-22,haskell,2013,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-04-22,haskell,11,0,A protolude-based custom prelude for the Cardano project,input-output-hk,cardano-prelude,https://github.com/input-output-hk/cardano-prelude
+2022-04-22,haskell,183,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-04-22,haskell,13,0,Yet another Blog engine written in Haskell powered by yesod.,konn,Yablog,https://github.com/konn/Yablog
+2022-04-22,haskell,4,0,"Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH",necrobious,hS3,https://github.com/necrobious/hS3
