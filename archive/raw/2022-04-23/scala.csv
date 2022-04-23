@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-23,scala,1067,10,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-04-23,scala,4271,5,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-04-23,scala,32655,17,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-04-23,scala,12149,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-04-23,scala,1025,2,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-04-23,scala,5636,3,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-04-23,scala,3275,5,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-04-23,scala,957,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-04-23,scala,1883,0,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-04-23,scala,2490,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-04-23,scala,10748,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-04-23,scala,4938,4,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-04-23,scala,2517,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-04-23,scala,3315,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-04-23,scala,751,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-04-23,scala,2296,2,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-04-23,scala,2152,0,"Fast, testable, Scala services built on TwitterServer and Finagle",twitter,finatra,https://github.com/twitter/finatra
+2022-04-23,scala,1179,0,Protocol buffer compiler for Scala.,scalapb,ScalaPB,https://github.com/scalapb/ScalaPB
+2022-04-23,scala,5500,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-04-23,scala,1296,1,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2022-04-23,scala,2200,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-04-23,scala,488,1,Compiler for the Vale programming language - http://vale.dev/,ValeLang,Vale,https://github.com/ValeLang/Vale
+2022-04-23,scala,56,0,A STAC/OGC API Features Web Service,azavea,franklin,https://github.com/azavea/franklin
+2022-04-23,scala,12119,2,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-04-23,scala,187,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
