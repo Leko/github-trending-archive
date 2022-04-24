@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-24,shell,644,15,Proxmox Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2022-04-24,shell,72,3,v3 camera mods,gtxaspec,wz_mini_hacks,https://github.com/gtxaspec/wz_mini_hacks
+2022-04-24,shell,3862,2,Docker image of Nextcloud,nextcloud,docker,https://github.com/nextcloud/docker
+2022-04-24,shell,57217,18,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-04-24,shell,9566,2,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
+2022-04-24,shell,2500,1,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,https://github.com/six2dez/reconftw
+2022-04-24,shell,15549,2,"GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",tj,git-extras,https://github.com/tj/git-extras
+2022-04-24,shell,27445,23,A Zsh theme,romkatv,powerlevel10k,https://github.com/romkatv/powerlevel10k
+2022-04-24,shell,11657,4,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-04-24,shell,242,20,本程序为正版原创，开发费恒定！无论你抽3%还是30%，甚至80%，都是0.3%开发费！无视CC攻击，不怕扫描攻击，内置TLS证书（SSL升级版），抽水设置范围支持0.1%-80%；无需繁琐设置，支持ETC！欢迎实测！,ethminerpro,minerproxy,https://github.com/ethminerpro/minerproxy
+2022-04-24,shell,1156,1,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2022-04-24,shell,1796,0,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2022-04-24,shell,1677,1,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-04-24,shell,21592,17,Fish-like autosuggestions for zsh,zsh-users,zsh-autosuggestions,https://github.com/zsh-users/zsh-autosuggestions
+2022-04-24,shell,16621,6,A Zsh prompt for Astronauts,spaceship-prompt,spaceship-prompt,https://github.com/spaceship-prompt/spaceship-prompt
+2022-04-24,shell,3172,1,This tool is used to install `pyenv` and friends.,pyenv,pyenv-installer,https://github.com/pyenv/pyenv-installer
+2022-04-24,shell,144081,53,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-04-24,shell,723,0,Helm chart to install Vault and other associated components.,hashicorp,vault-helm,https://github.com/hashicorp/vault-helm
+2022-04-24,shell,442,5,Quickly migrate from using snap packages to flatpaks,popey,unsnap,https://github.com/popey/unsnap
+2022-04-24,shell,14901,11,A command-line system information tool written in bash 3.2+,dylanaraps,neofetch,https://github.com/dylanaraps/neofetch
+2022-04-24,shell,3025,0,"Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)",yeszao,dnmp,https://github.com/yeszao/dnmp
+2022-04-24,shell,1515,1,OpenWrt for Nanopi R2C/R2S/R4S/X86,QiuSimons,YAOF,https://github.com/QiuSimons/YAOF
+2022-04-24,shell,2390,8,基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜,Sitoi,dailycheckin,https://github.com/Sitoi/dailycheckin
+2022-04-24,shell,145,1,Wireguard setup to bypass CGNAT with a VPS,mochman,Bypass_CGNAT,https://github.com/mochman/Bypass_CGNAT
+2022-04-24,shell,3855,0,Packer templates for building minimal Vagrant baseboxes for multiple platforms,chef,bento,https://github.com/chef/bento

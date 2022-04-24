@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-24,go,17829,36,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-04-24,go,7402,51,"Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-04-24,go,28224,36,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2022-04-24,go,15795,10,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-04-24,go,8143,18,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2022-04-24,go,4912,31,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-04-24,go,11522,12,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-04-24,go,5231,9,A tool that facilitates building OCI images.,containers,buildah,https://github.com/containers/buildah
+2022-04-24,go,1298,72,Containers for machine learning,replicate,cog,https://github.com/replicate/cog
+2022-04-24,go,5402,7,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches.",ory,kratos,https://github.com/ory/kratos
+2022-04-24,go,63,10,CVE-2022-21449 Proof of Concept demonstrating its usage with a client running on a vulnerable Java version and a malicious TLS server,khalednassar,CVE-2022-21449-TLS-PoC,https://github.com/khalednassar/CVE-2022-21449-TLS-PoC
+2022-04-24,go,13922,141,Terminal JSON viewer,antonmedv,fx,https://github.com/antonmedv/fx
+2022-04-24,go,9661,12,"Algorithms implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2022-04-24,go,2954,9,"Libraries, samples and tools to help Go developers develop AWS Lambda functions.",aws,aws-lambda-go,https://github.com/aws/aws-lambda-go
+2022-04-24,go,34773,16,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2022-04-24,go,10909,9,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-04-24,go,31463,12,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
+2022-04-24,go,13142,9,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-04-24,go,15385,0,(OBSOLETE) Curated applications for Kubernetes,helm,charts,https://github.com/helm/charts
+2022-04-24,go,7993,17,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2022-04-24,go,58064,61,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-04-24,go,19749,12,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2022-04-24,go,6171,9,Machinery is an asynchronous task queue/job queue based on distributed message passing.,RichardKnop,machinery,https://github.com/RichardKnop/machinery
+2022-04-24,go,11557,12,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-04-24,go,5623,14,Go library for decoding generic map values into native Go structures and vice versa.,mitchellh,mapstructure,https://github.com/mitchellh/mapstructure

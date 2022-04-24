@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-24,elixir,20108,8,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2022-04-24,elixir,2178,1,"Robust job processing in Elixir, backed by modern PostgreSQL",sorentwo,oban,https://github.com/sorentwo/oban
+2022-04-24,elixir,1602,2,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2022-04-24,elixir,10898,9,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2022-04-24,elixir,2596,4,Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2022-04-24,elixir,530,0,Kafka client library for Elixir,kafkaex,kafka_ex,https://github.com/kafkaex/kafka_ex
+2022-04-24,elixir,824,0,Package manager for the Erlang VM,hexpm,hex,https://github.com/hexpm/hex
+2022-04-24,elixir,1231,1,A merge bot for GitHub Pull Requests,bors-ng,bors-ng,https://github.com/bors-ng/bors-ng
+2022-04-24,elixir,886,3,"Elixir library to write Windows, macOS, Linux, Android apps with OTP24 & Phoenix.LiveView",elixir-desktop,desktop,https://github.com/elixir-desktop/desktop
+2022-04-24,elixir,4784,0,Open-source live customer chat,papercups-io,papercups,https://github.com/papercups-io/papercups
+2022-04-24,elixir,11252,2,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",h4cc,awesome-elixir,https://github.com/h4cc/awesome-elixir
+2022-04-24,elixir,281,0,"Easy parameters validation/casting with Ecto.Schema, akin to Rails' strong parameters.",vic,params,https://github.com/vic/params
+2022-04-24,elixir,0,0,FeatureFlag abstract the communication with Launch Darkly SDK,solfacil,feature-flag,https://github.com/solfacil/feature-flag
+2022-04-24,elixir,710,0,Feature Flags/Toggles for Elixir,tompave,fun_with_flags,https://github.com/tompave/fun_with_flags
+2022-04-24,elixir,54,0,Elixir tool for benchmarking EVM performance,membraneframework,beamchmark,https://github.com/membraneframework/beamchmark
+2022-04-24,elixir,338,0,Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds,Phineas,lanyard,https://github.com/Phineas/lanyard
+2022-04-24,elixir,233,1,Elixir package for Oauth authentication via Google Cloud APIs,peburrows,goth,https://github.com/peburrows/goth
+2022-04-24,elixir,1555,2,WireGuard®-based VPN server and firewall,firezone,firezone,https://github.com/firezone/firezone
+2022-04-24,elixir,3,0,Telemetry handler that creates OpenTelemetry spans from Snowpack (Snowflake) query events.,HGInsights,opentelemetry_snowpack,https://github.com/HGInsights/opentelemetry_snowpack
+2022-04-24,elixir,2,0,Snowflake driver for Elixir,HGInsights,snowpack,https://github.com/HGInsights/snowpack
+2022-04-24,elixir,2632,4,A self-hosted data logger for your Tesla,adriankumpf,teslamate,https://github.com/adriankumpf/teslamate
+2022-04-24,elixir,14,0,Membrane bins and elements for sending and receiving RTP/SRTP and RTCP/SRTCP streams,membraneframework,membrane_rtp_plugin,https://github.com/membraneframework/membrane_rtp_plugin
+2022-04-24,elixir,1331,0,Job processing library for Elixir - compatible with Resque / Sidekiq,akira,exq,https://github.com/akira/exq
+2022-04-24,elixir,0,0,,OffchainLabs,blockscout,https://github.com/OffchainLabs/blockscout
+2022-04-24,elixir,149,0,A Broadway connector for Kafka,dashbitco,broadway_kafka,https://github.com/dashbitco/broadway_kafka
