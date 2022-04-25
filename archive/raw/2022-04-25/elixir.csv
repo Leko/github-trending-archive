@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-25,elixir,20117,10,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2022-04-25,elixir,2634,2,A self-hosted data logger for your Tesla,adriankumpf,teslamate,https://github.com/adriankumpf/teslamate
+2022-04-25,elixir,17868,4,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2022-04-25,elixir,2597,1,Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2022-04-25,elixir,55,0,Simple and efficient local Process Registry,discord,gen_registry,https://github.com/discord/gen_registry
+2022-04-25,elixir,407,0,A fast consistent hash ring implementation in Elixir.,discord,ex_hash_ring,https://github.com/discord/ex_hash_ring
+2022-04-25,elixir,1460,0,Fast batch message passing between nodes for Erlang/Elixir.,discord,manifold,https://github.com/discord/manifold
+2022-04-25,elixir,269,0,Simple and Fast metrics for Elixir,discord,instruments,https://github.com/discord/instruments
+2022-04-25,elixir,128,0,Efficient Process.monitor replacement,discord,zen_monitor,https://github.com/discord/zen_monitor
+2022-04-25,elixir,117,0,Fast bounded deque using two rotating lists.,discord,deque,https://github.com/discord/deque
+2022-04-25,elixir,649,0,Fast semaphore using ETS.,discord,semaphore,https://github.com/discord/semaphore
+2022-04-25,elixir,14,0,Membrane bins and elements for sending and receiving RTP/SRTP and RTCP/SRTCP streams,membraneframework,membrane_rtp_plugin,https://github.com/membraneframework/membrane_rtp_plugin
+2022-04-25,elixir,10902,5,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2022-04-25,elixir,886,0,"Elixir library to write Windows, macOS, Linux, Android apps with OTP24 & Phoenix.LiveView",elixir-desktop,desktop,https://github.com/elixir-desktop/desktop
+2022-04-25,elixir,211,0,"Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",elixir-lsp,elixir_sense,https://github.com/elixir-lsp/elixir_sense
+2022-04-25,elixir,281,0,"Easy parameters validation/casting with Ecto.Schema, akin to Rails' strong parameters.",vic,params,https://github.com/vic/params
+2022-04-25,elixir,4544,4,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2022-04-25,elixir,89,0,Full stack isomorphic Elixir web framework,bartblast,hologram,https://github.com/bartblast/hologram
+2022-04-25,elixir,1605,3,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2022-04-25,elixir,2507,1,Compose web applications with functions,elixir-plug,plug,https://github.com/elixir-plug/plug
+2022-04-25,elixir,617,0,A pure Elixir implementation of Google Protobuf.,elixir-protobuf,protobuf,https://github.com/elixir-protobuf/protobuf
+2022-04-25,elixir,496,0,Exercism exercises in Elixir.,exercism,elixir,https://github.com/exercism/elixir
+2022-04-25,elixir,1614,2,A server-side rendering component library for Phoenix,surface-ui,surface,https://github.com/surface-ui/surface
+2022-04-25,elixir,11254,3,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",h4cc,awesome-elixir,https://github.com/h4cc/awesome-elixir
+2022-04-25,elixir,4858,2,Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.,supabase,realtime,https://github.com/supabase/realtime
