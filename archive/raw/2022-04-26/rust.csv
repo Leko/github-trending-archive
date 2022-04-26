@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-26,rust,1064,334,The blazing fast build tool for Rust.,dimensionhq,fleet,https://github.com/dimensionhq/fleet
+2022-04-26,rust,25576,318,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-04-26,rust,8360,13,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2022-04-26,rust,1874,16,"Code for ""Zero To Production In Rust"", a book on API development using Rust.",LukeMathWalker,zero-to-production,https://github.com/LukeMathWalker/zero-to-production
+2022-04-26,rust,2534,13,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-04-26,rust,3398,8,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2022-04-26,rust,44,1,,move-language,move,https://github.com/move-language/move
+2022-04-26,rust,5997,28,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2022-04-26,rust,4163,23,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2022-04-26,rust,4628,6,"A massively parallel, optimal functional runtime in Rust",Kindelia,HVM,https://github.com/Kindelia/HVM
+2022-04-26,rust,8616,19,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2022-04-26,rust,914,14,"Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly",fermyon,spin,https://github.com/fermyon/spin
+2022-04-26,rust,6814,43,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2022-04-26,rust,15886,15,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-04-26,rust,1811,7,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-04-26,rust,3504,8,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2022-04-26,rust,7076,17,Build terminal user interfaces and dashboards using Rust,fdehau,tui-rs,https://github.com/fdehau/tui-rs
+2022-04-26,rust,7311,26,"Standalone JIT-style runtime for WebAssembly, using Cranelift",bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-04-26,rust,5833,33,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍",sunface,rust-course,https://github.com/sunface/rust-course
+2022-04-26,rust,9392,6,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2022-04-26,rust,2403,5,A Rust library for the Discord API.,serenity-rs,serenity,https://github.com/serenity-rs/serenity
+2022-04-26,rust,1091,10,Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.,signalapp,libsignal,https://github.com/signalapp/libsignal
+2022-04-26,rust,7836,11,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-04-26,rust,3780,12,Safe interop between Rust and C++,dtolnay,cxx,https://github.com/dtolnay/cxx
+2022-04-26,rust,23737,42,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
