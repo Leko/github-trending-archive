@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-27,go,18059,35,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-04-27,go,39406,146,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-04-27,go,942,9,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2022-04-27,go,3607,10,The Modern Application Platform.,oam-dev,kubevela,https://github.com/oam-dev/kubevela
+2022-04-27,go,32838,48,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
+2022-04-27,go,8547,7,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-04-27,go,1001,13,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
+2022-04-27,go,641,22,"go-doudou（doudou pronounce /dəudəu/）is a gossip protocol and OpenAPI 3.0 spec based decentralized microservice framework. It supports monolith service application as well. Currently, it supports RESTful service only. 中文文档地址：https://go-doudou.unionj.cloud",unionj-cloud,go-doudou,https://github.com/unionj-cloud/go-doudou
+2022-04-27,go,6678,18,Repeatable builds,earthly,earthly,https://github.com/earthly/earthly
+2022-04-27,go,2840,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-04-27,go,1278,18,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2022-04-27,go,90,17,"hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names.",hakluke,hakip2host,https://github.com/hakluke/hakip2host
+2022-04-27,go,3845,4,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2022-04-27,go,3231,6,A web-based UI for deploying and managing applications in Kubernetes clusters,vmware-tanzu,kubeapps,https://github.com/vmware-tanzu/kubeapps
+2022-04-27,go,15598,15,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-04-27,go,3238,8,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2022-04-27,go,21586,9,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-04-27,go,5200,5,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-04-27,go,11608,6,"Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops",gravitational,teleport,https://github.com/gravitational/teleport
+2022-04-27,go,1583,6,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2022-04-27,go,7297,20,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2022-04-27,go,5589,2,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2022-04-27,go,13651,3,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-04-27,go,26315,23,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-04-27,go,8210,34,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog

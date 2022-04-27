@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-27,rust,434,100,An embedded key-value database in pure Rust,cberner,redb,https://github.com/cberner/redb
+2022-04-27,rust,1387,427,The blazing fast build tool for Rust.,dimensionhq,fleet,https://github.com/dimensionhq/fleet
+2022-04-27,rust,25740,171,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-04-27,rust,5820,5,the champagne of beta embedded databases,spacejam,sled,https://github.com/spacejam/sled
+2022-04-27,rust,15898,15,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-04-27,rust,7331,18,"Standalone JIT-style runtime for WebAssembly, using Cranelift",bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-04-27,rust,8149,28,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-04-27,rust,5691,4,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2022-04-27,rust,23780,46,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-04-27,rust,6909,1,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-04-27,rust,3823,8,"A friendly language for building type-safe, scalable systems!",gleam-lang,gleam,https://github.com/gleam-lang/gleam
+2022-04-27,rust,3943,20,A highly customizable Changelog Generator that follows Conventional Commit specifications,orhun,git-cliff,https://github.com/orhun/git-cliff
+2022-04-27,rust,1937,9,Solana Sealevel Framework,project-serum,anchor,https://github.com/project-serum/anchor
+2022-04-27,rust,4845,18,Cross-platform Text Expander written in Rust,federico-terzi,espanso,https://github.com/federico-terzi/espanso
+2022-04-27,rust,8628,15,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2022-04-27,rust,6838,25,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2022-04-27,rust,7087,12,Build terminal user interfaces and dashboards using Rust,fdehau,tui-rs,https://github.com/fdehau/tui-rs
+2022-04-27,rust,3620,15,A modern Python application packaging and distribution tool,indygreg,PyOxidizer,https://github.com/indygreg/PyOxidizer
+2022-04-27,rust,16420,3,Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.,diem,diem,https://github.com/diem/diem
+2022-04-27,rust,6019,23,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2022-04-27,rust,1853,4,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2022-04-27,rust,2548,16,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-04-27,rust,9649,55,a diff that understands syntax,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2022-04-27,rust,9569,9,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2022-04-27,rust,7846,15,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui

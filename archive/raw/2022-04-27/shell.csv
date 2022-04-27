@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-27,shell,3088,5,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-04-27,shell,57306,42,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-04-27,shell,3744,8,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2022-04-27,shell,27537,32,A Zsh theme,romkatv,powerlevel10k,https://github.com/romkatv/powerlevel10k
+2022-04-27,shell,4892,1,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2022-04-27,shell,3117,3,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-04-27,shell,5178,11,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. Enterprise version:",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-04-27,shell,4501,6,a Docker + Kubernetes network trouble-shooting swiss-army container,nicolaka,netshoot,https://github.com/nicolaka/netshoot
+2022-04-27,shell,28819,36,Official electron build of diagrams.net,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2022-04-27,shell,2153,2,Easily install PHP extension in Docker containers,mlocati,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer
+2022-04-27,shell,58018,59,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2022-04-27,shell,4346,2,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2022-04-27,shell,165,13,Your serverless cli toolkit.,xbin-io,xbin,https://github.com/xbin-io/xbin
+2022-04-27,shell,1123,0,"Scripts and samples to support Confluent Demos and Talks. Might be rough around the edges ;-) For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/",confluentinc,demo-scene,https://github.com/confluentinc/demo-scene
+2022-04-27,shell,1460,7,"The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro",fsquillace,junest,https://github.com/fsquillace/junest
+2022-04-27,shell,696,3,"This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!",cryinkfly,Autodesk-Fusion-360-for-Linux,https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux
+2022-04-27,shell,14515,6,Default configuration for Le Wagon's students,lewagon,dotfiles,https://github.com/lewagon/dotfiles
+2022-04-27,shell,7732,2,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.,docker,docker-bench-security,https://github.com/docker/docker-bench-security
+2022-04-27,shell,4649,11,"Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",quickemu-project,quickemu,https://github.com/quickemu-project/quickemu
+2022-04-27,shell,14111,3,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2022-04-27,shell,1338,10,"Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",Jeevan-kumar-Raj,Grokking-System-Design,https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+2022-04-27,shell,1707,1,TiDB/TiKV/PD documentation in Chinese.,pingcap,docs-cn,https://github.com/pingcap/docs-cn
+2022-04-27,shell,9953,11,NodeSource Node.js Binary Distributions,nodesource,distributions,https://github.com/nodesource/distributions
+2022-04-27,shell,1639,10,如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。,ben1234560,k8s_PaaS,https://github.com/ben1234560/k8s_PaaS
+2022-04-27,shell,1409,2,Homebrew (un)installer,Homebrew,install,https://github.com/Homebrew/install
