@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-28,r,3152,72,Statistical Rethinking course winter 2022,rmcelreath,stat_rethinking_2022,https://github.com/rmcelreath/stat_rethinking_2022
+2022-04-28,r,448,4,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define m…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2022-04-28,r,1430,0,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2022-04-28,r,4080,1,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2022-04-28,r,332,0,Tools for time series analysis and forecasting,RamiKrispin,TSstudio,https://github.com/RamiKrispin/TSstudio
+2022-04-28,r,416,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2022-04-28,r,719,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2022-04-28,r,645,4,"Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...)",easystats,performance,https://github.com/easystats/performance
+2022-04-28,r,5394,1,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2022-04-28,r,161,0,R toolkit for the analysis of single-cell chromatin data,timoast,signac,https://github.com/timoast/signac
+2022-04-28,r,2175,1,A general-purpose tool for dynamic report generation in R,yihui,knitr,https://github.com/yihui/knitr
+2022-04-28,r,332,1,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2022-04-28,r,248,1,"Excerpt from the Gapminder data, as an R data package and in plain text delimited form",jennybc,gapminder,https://github.com/jennybc/gapminder
+2022-04-28,r,840,0,'ggplot2' Based Publication Ready Plots,kassambara,ggpubr,https://github.com/kassambara/ggpubr
+2022-04-28,r,3008,0,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2022-04-28,r,281,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2022-04-28,r,998,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2022-04-28,r,410,0,A collection of datasets of ML problem solving,selva86,datasets,https://github.com/selva86/datasets
+2022-04-28,r,1489,1,"Easily generate information-rich, publication-quality tables from R",rstudio,gt,https://github.com/rstudio/gt
+2022-04-28,r,4991,1,"A curated list of awesome R packages, frameworks and software.",qinwf,awesome-R,https://github.com/qinwf/awesome-R
+2022-04-28,r,417,1,Interactive viewing of spatial data in R,r-spatial,mapview,https://github.com/r-spatial/mapview
+2022-04-28,r,538,2,Collection of various algorithms implemented in R.,TheAlgorithms,R,https://github.com/TheAlgorithms/R
+2022-04-28,r,315,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2022-04-28,r,853,0,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
+2022-04-28,r,2175,0,An interactive graphing library for R,plotly,plotly.R,https://github.com/plotly/plotly.R

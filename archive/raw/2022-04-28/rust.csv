@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-28,rust,2155,251,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2022-04-28,rust,1529,144,The blazing fast build tool for Rust.,dimensionhq,fleet,https://github.com/dimensionhq/fleet
+2022-04-28,rust,23804,31,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-04-28,rust,9940,31,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-04-28,rust,4562,10,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2022-04-28,rust,518,87,An embedded key-value database in pure Rust,cberner,redb,https://github.com/cberner/redb
+2022-04-28,rust,4137,4,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2022-04-28,rust,5427,18,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-04-28,rust,8106,17,Learn to write an embedded OS in Rust,rust-embedded,rust-raspberrypi-OS-tutorials,https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+2022-04-28,rust,7354,27,"Standalone JIT-style runtime for WebAssembly, using Cranelift",bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-04-28,rust,3627,7,A modern Python application packaging and distribution tool,indygreg,PyOxidizer,https://github.com/indygreg/PyOxidizer
+2022-04-28,rust,4859,14,Cross-platform Text Expander written in Rust,federico-terzi,espanso,https://github.com/federico-terzi/espanso
+2022-04-28,rust,8167,20,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-04-28,rust,1894,8,"Code for ""Zero To Production In Rust"", a book on API development using Rust.",LukeMathWalker,zero-to-production,https://github.com/LukeMathWalker/zero-to-production
+2022-04-28,rust,6796,14,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2022-04-28,rust,6215,9,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2022-04-28,rust,263,9,An intepreter for a simple dynamic language written in Rust,mwerezak,sphinx-lang,https://github.com/mwerezak/sphinx-lang
+2022-04-28,rust,25808,78,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-04-28,rust,1860,7,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2022-04-28,rust,5870,7,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-04-28,rust,6534,6,Rayon: A data parallelism library for Rust,rayon-rs,rayon,https://github.com/rayon-rs/rayon
+2022-04-28,rust,13734,16,"x86 virtualization in your browser, recompiling x86 to wasm on the fly",copy,v86,https://github.com/copy/v86
+2022-04-28,rust,45,16,Official Rust implementation of the Deer protocol,DeerNetwork,deer-node,https://github.com/DeerNetwork/deer-node
+2022-04-28,rust,1755,5,A project for managing all Pop!_OS sources,pop-os,pop,https://github.com/pop-os/pop
+2022-04-28,rust,4508,21,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum

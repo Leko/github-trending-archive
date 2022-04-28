@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-28,haskell,6810,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-04-28,haskell,26552,17,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-04-28,haskell,642,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-04-28,haskell,1494,0,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-04-28,haskell,2020,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-04-28,haskell,28557,9,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-04-28,haskell,18611,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-04-28,haskell,1369,1,"A secure, multilingual package manager for Arch Linux and the AUR.",fosskers,aura,https://github.com/fosskers/aura
+2022-04-28,haskell,7672,4,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-04-28,haskell,217,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-04-28,haskell,2450,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-04-28,haskell,31,0,"This framework provides logging, benchmarking and monitoring.",input-output-hk,iohk-monitoring-framework,https://github.com/input-output-hk/iohk-monitoring-framework
+2022-04-28,haskell,10,0,,digital-asset,lib-finance,https://github.com/digital-asset/lib-finance
+2022-04-28,haskell,4,0,Networking library for Windows,input-output-hk,Win32-network,https://github.com/input-output-hk/Win32-network
+2022-04-28,haskell,8,0,Genetic Algorithm based randomized testing,input-output-hk,goblins,https://github.com/input-output-hk/goblins
+2022-04-28,haskell,1119,3,Haskell to VHDL/Verilog/SystemVerilog compiler,clash-lang,clash-compiler,https://github.com/clash-lang/clash-compiler
+2022-04-28,haskell,2697,1,Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).,ghc,ghc,https://github.com/ghc/ghc
+2022-04-28,haskell,3,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-04-28,haskell,56,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-04-28,haskell,96,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-04-28,haskell,1366,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-04-28,haskell,826,3,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-04-28,haskell,4,0,"Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH",necrobious,hS3,https://github.com/necrobious/hS3
+2022-04-28,haskell,7,0,,tweag,plutus-libs,https://github.com/tweag/plutus-libs
+2022-04-28,haskell,524,0,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang

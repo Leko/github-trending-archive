@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-28,go,2548,30,"Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",CrunchyData,postgres-operator,https://github.com/CrunchyData/postgres-operator
+2022-04-28,go,1290,12,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2022-04-28,go,16097,10,Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2022-04-28,go,32868,30,"High Performance, Kubernetes Native Object Storage",minio,minio,https://github.com/minio/minio
+2022-04-28,go,15589,11,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2022-04-28,go,39524,132,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-04-28,go,9087,13,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-04-28,go,10235,9,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2022-04-28,go,434,29,"Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.",firefart,stunner,https://github.com/firefart/stunner
+2022-04-28,go,2845,5,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-04-28,go,4859,5,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2022-04-28,go,18118,62,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-04-28,go,1215,7,Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.,tharsis,evmos,https://github.com/tharsis/evmos
+2022-04-28,go,772,18,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2022-04-28,go,1584,3,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2022-04-28,go,21597,13,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-04-28,go,2745,32,Optimized Go Compression Packages,klauspost,compress,https://github.com/klauspost/compress
+2022-04-28,go,42134,29,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-04-28,go,7197,5,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-04-28,go,23630,52,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2022-04-28,go,7309,15,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-04-28,go,10167,11,An open-source vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-04-28,go,16448,14,A powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2022-04-28,go,6719,3,Elasticsearch client for Go.,olivere,elastic,https://github.com/olivere/elastic
