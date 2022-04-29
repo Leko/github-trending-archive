@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-29,go,2797,30,Optimized Go Compression Packages,klauspost,compress,https://github.com/klauspost/compress
+2022-04-29,go,4625,50,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2022-04-29,go,62923,39,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-04-29,go,7052,4,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-04-29,go,12472,5,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",ory,hydra,https://github.com/ory/hydra
+2022-04-29,go,7439,6,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2022-04-29,go,996,7,The Optimism monorepo,ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-04-29,go,2617,28,MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。,phachon,mm-wiki,https://github.com/phachon/mm-wiki
+2022-04-29,go,21605,8,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-04-29,go,9895,15,GitHub's Online Schema Migrations for MySQL,github,gh-ost,https://github.com/github/gh-ost
+2022-04-29,go,2189,1,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2022-04-29,go,3365,13,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2022-04-29,go,39567,49,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-04-29,go,75,9,叮咚多策略抢菜/买菜，亲测有效,ahutsunshine,dingdong-grabber,https://github.com/ahutsunshine/dingdong-grabber
+2022-04-29,go,773,1,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2022-04-29,go,959,6,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2022-04-29,go,10181,16,An open-source vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-04-29,go,10158,133,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-04-29,go,13943,5,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2022-04-29,go,11613,13,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-04-29,go,81,7,山姆下单助手，监控购物车变化、空余运力、自动下单、保供套餐,sari3l,sams_helper,https://github.com/sari3l/sams_helper
+2022-04-29,go,16459,11,A powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2022-04-29,go,20374,10,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2022-04-29,go,5991,9,Simple HTTP and REST client library for Go,go-resty,resty,https://github.com/go-resty/resty
+2022-04-29,go,7325,18,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer

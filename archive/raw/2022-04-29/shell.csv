@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-29,shell,5417,93,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. Enterprise version:",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-04-29,shell,1022,3,Docker files for running a basic Laravel application.,laravel,sail,https://github.com/laravel/sail
+2022-04-29,shell,1411,1,Homebrew (un)installer,Homebrew,install,https://github.com/Homebrew/install
+2022-04-29,shell,14293,14,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-04-29,shell,22687,6,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2022-04-29,shell,28913,47,Official electron build of diagrams.net,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2022-04-29,shell,11668,2,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-04-29,shell,4893,2,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2022-04-29,shell,420,7,Proxmox V7 for Raspberry Pi,pimox,pimox7,https://github.com/pimox/pimox7
+2022-04-29,shell,30938,15,A collection of pure bash alternatives to external processes.,dylanaraps,pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible
+2022-04-29,shell,57368,35,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-04-29,shell,2524,3,Official NGINX Dockerfiles,nginxinc,docker-nginx,https://github.com/nginxinc/docker-nginx
+2022-04-29,shell,147,10,"NIVOS is a python tool that allows you to scan deeply, crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added.",TheSadError,NIVOS,https://github.com/TheSadError/NIVOS
+2022-04-29,shell,3096,4,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-04-29,shell,5028,2,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2022-04-29,shell,3603,6,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2022-04-29,shell,424,4,这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。,tossp,redpill-tool-chain,https://github.com/tossp/redpill-tool-chain
+2022-04-29,shell,5279,1,"Primary source of truth for the Docker ""Official Images"" program",docker-library,official-images,https://github.com/docker-library/official-images
+2022-04-29,shell,241,0,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2022-04-29,shell,627,0,linux-tkg custom kernels,Frogging-Family,linux-tkg,https://github.com/Frogging-Family/linux-tkg
+2022-04-29,shell,6451,2,Enable macOS HiDPI and have a native setting.,xzhih,one-key-hidpi,https://github.com/xzhih/one-key-hidpi
+2022-04-29,shell,78,1,,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2022-04-29,shell,704,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2022-04-29,shell,1623,1,[MIRROR] Official Gentoo ebuild repository,gentoo,gentoo,https://github.com/gentoo/gentoo
+2022-04-29,shell,342,17,"最强大的矿池中转，原创GO语言编写，性能强大。支持绝大部分币种的转发、加密、自定义抽水、数据统计等等。The most powerful ore pool agent, written in the original go language, has strong performance. It supports forwarding, encryption, user-defined pumping, data statistics, etc. of most currencies.",kt007007,KTMinerProxy,https://github.com/kt007007/KTMinerProxy

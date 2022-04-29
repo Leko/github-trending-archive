@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-29,scala,4297,7,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-04-29,scala,12119,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-04-29,scala,6965,4,Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.,twitter-archive,snowflake,https://github.com/twitter-archive/snowflake
+2022-04-29,scala,2503,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-04-29,scala,1690,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-04-29,scala,960,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-04-29,scala,15,3,结合大数据项目实际使用场景，提取出的一些通用的功能，形成大数据平台数据处理框架。,zdjcyun,DataProcess,https://github.com/zdjcyun/DataProcess
+2022-04-29,scala,32713,14,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-04-29,scala,8226,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-04-29,scala,2670,3,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-04-29,scala,2215,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-04-29,scala,4505,1,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-04-29,scala,0,0,playbench,gkossakowski,playbench,https://github.com/gkossakowski/playbench
+2022-04-29,scala,49,0,,sifive,block-inclusivecache-sifive,https://github.com/sifive/block-inclusivecache-sifive
+2022-04-29,scala,176,1,,ucb-bar,berkeley-hardfloat,https://github.com/ucb-bar/berkeley-hardfloat
+2022-04-29,scala,13733,4,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-04-29,scala,1127,46,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-04-29,scala,10754,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-04-29,scala,2448,4,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-04-29,scala,1118,1,SonicBOOM: The Berkeley Out-of-Order Machine,riscv-boom,riscv-boom,https://github.com/riscv-boom/riscv-boom
+2022-04-29,scala,16,0,A Scala library for Context-Dependent Environments,chipsalliance,cde,https://github.com/chipsalliance/cde
+2022-04-29,scala,150,0,Common RTL blocks used in SiFive's projects,sifive,sifive-blocks,https://github.com/sifive/sifive-blocks
+2022-04-29,scala,11462,6,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-04-29,scala,181,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-04-29,scala,793,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
