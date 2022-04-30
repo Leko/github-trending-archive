@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-04-30,go,19047,54,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-04-30,go,31245,34,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2022-04-30,go,5606,6,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2022-04-30,go,32302,22,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-04-30,go,10943,8,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-04-30,go,13935,6,"Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2022-04-30,go,7340,16,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-04-30,go,4708,96,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2022-04-30,go,1005,9,The Optimism monorepo,ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-04-30,go,2632,32,"An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-04-30,go,15657,25,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-04-30,go,5272,9,A tool that facilitates building OCI images.,containers,buildah,https://github.com/containers/buildah
+2022-04-30,go,7216,35,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
+2022-04-30,go,2652,24,"BTree provides a simple, ordered, in-memory data structure for Go programs.",google,btree,https://github.com/google/btree
+2022-04-30,go,4558,9,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2022-04-30,go,1223,4,Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.,tharsis,evmos,https://github.com/tharsis/evmos
+2022-04-30,go,23731,47,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2022-04-30,go,2603,1,"Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",CrunchyData,postgres-operator,https://github.com/CrunchyData/postgres-operator
+2022-04-30,go,19365,10,A modern and intuitive terminal-based text editor,zyedidia,micro,https://github.com/zyedidia/micro
+2022-04-30,go,1859,11,a drop-in replacement for Nmap powered by shodan.io,s0md3v,Smap,https://github.com/s0md3v/Smap
+2022-04-30,go,5829,15,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2022-04-30,go,11455,5,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-04-30,go,10955,14,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-04-30,go,6834,18,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
