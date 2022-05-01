@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-01,scala,1219,68,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-05-01,scala,1322,4,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2022-05-01,scala,32734,12,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-05-01,scala,11469,3,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-05-01,scala,4941,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-05-01,scala,3324,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-05-01,scala,1691,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-05-01,scala,12176,4,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-05-01,scala,2678,2,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-05-01,scala,2249,3,"A V2Ray, Trojan, ShadowsocksR client for Android",xxf098,shadowsocksr-v2ray-trojan-android,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+2022-05-01,scala,10755,3,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-05-01,scala,1037,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-05-01,scala,2212,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-05-01,scala,7,0,,hmrc,accessibility-statement-frontend,https://github.com/hmrc/accessibility-statement-frontend
+2022-05-01,scala,1406,0,JSON library,json4s,json4s,https://github.com/json4s/json4s
+2022-05-01,scala,6063,1,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-05-01,scala,1008,1,Scala based HDL,SpinalHDL,SpinalHDL,https://github.com/SpinalHDL/SpinalHDL
+2022-05-01,scala,189,2,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-05-01,scala,2214,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-05-01,scala,72,2,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2022-05-01,scala,8228,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-05-01,scala,2298,2,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-05-01,scala,575,2,Redshift data source for Apache Spark,databricks,spark-redshift,https://github.com/databricks/spark-redshift
+2022-05-01,scala,2251,1,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-05-01,scala,1839,1,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector

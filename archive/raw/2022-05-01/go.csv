@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-01,go,26479,62,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-05-01,go,1036,30,The Optimism monorepo,ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-05-01,go,2867,26,Optimized Go Compression Packages,klauspost,compress,https://github.com/klauspost/compress
+2022-05-01,go,4812,95,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2022-05-01,go,51,12,"叮咚买菜助手, 直接下载并运行, 不需要安装环境, 不需要下载源码！！！",gelove,dingdong,https://github.com/gelove/dingdong
+2022-05-01,go,183,48,A thread-safe queue faster than golang's native channels,alphadose,ZenQ,https://github.com/alphadose/ZenQ
+2022-05-01,go,23803,6,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-05-01,go,15618,4,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2022-05-01,go,5216,6,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-05-01,go,31267,22,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2022-05-01,go,4576,3,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2022-05-01,go,5333,9,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2022-05-01,go,2670,18,"BTree provides a simple, ordered, in-memory data structure for Go programs.",google,btree,https://github.com/google/btree
+2022-05-01,go,17732,16,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2022-05-01,go,32544,12,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2022-05-01,go,37009,22,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-05-01,go,1602,7,MinIO Client SDK for Go,minio,minio-go,https://github.com/minio/minio-go
+2022-05-01,go,5041,14,A portable devkit for CI/CD pipelines,dagger,dagger,https://github.com/dagger/dagger
+2022-05-01,go,24001,5,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-05-01,go,21246,12,A realtime distributed messaging platform,nsqio,nsq,https://github.com/nsqio/nsq
+2022-05-01,go,10962,9,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-05-01,go,15454,16,Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2022-05-01,go,3299,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-05-01,go,12776,6,Easy and Repeatable Kubernetes Development,GoogleContainerTools,skaffold,https://github.com/GoogleContainerTools/skaffold
+2022-05-01,go,3174,9,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
