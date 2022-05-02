@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-02,haskell,7678,3,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-05-02,haskell,2024,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-05-02,haskell,2454,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-05-02,haskell,2630,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-05-02,haskell,91,1,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-05-02,haskell,1368,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-05-02,haskell,28610,23,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-05-02,haskell,1731,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-05-02,haskell,188,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-05-02,haskell,515,1,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-05-02,haskell,11,0,Miscellaneous via types.,Icelandjack,derivingvia-extras,https://github.com/Icelandjack/derivingvia-extras
+2022-05-02,haskell,1805,2,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-05-02,haskell,1,0,,sentenai,solr-query,https://github.com/sentenai/solr-query
+2022-05-02,haskell,10,0,,digital-asset,lib-finance,https://github.com/digital-asset/lib-finance
+2022-05-02,haskell,0,0,solr-query integration for riak,sentenai,riak-solr,https://github.com/sentenai/riak-solr
+2022-05-02,haskell,189,0,A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2022-05-02,haskell,526,1,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
+2022-05-02,haskell,1266,0,Haskell source code suggestions,ndmitchell,hlint,https://github.com/ndmitchell/hlint
+2022-05-02,haskell,26598,13,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-05-02,haskell,642,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-05-02,haskell,144,3,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-05-02,haskell,2066,2,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-05-02,haskell,8314,2,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-05-02,haskell,755,0,A minimalistic status bar,jaor,xmobar,https://github.com/jaor/xmobar
+2022-05-02,haskell,6820,3,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
