@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-03,haskell,7678,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-05-03,haskell,2459,5,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-05-03,haskell,26611,15,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-05-03,haskell,2026,3,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-05-03,haskell,6821,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-05-03,haskell,28618,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-05-03,haskell,2001,1,"A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-05-03,haskell,1,0,,imsut,starthaskell,https://github.com/imsut/starthaskell
+2022-05-03,haskell,527,1,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
+2022-05-03,haskell,8314,0,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-05-03,haskell,1,0,,sentenai,solr-query,https://github.com/sentenai/solr-query
+2022-05-03,haskell,4349,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-05-03,haskell,188,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-05-03,haskell,516,1,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-05-03,haskell,458,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2022-05-03,haskell,25358,9,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-05-03,haskell,218,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-05-03,haskell,156,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-05-03,haskell,146,2,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-05-03,haskell,1003,0,Cryptol: The Language of Cryptography,GaloisInc,cryptol,https://github.com/GaloisInc/cryptol
+2022-05-03,haskell,384,0,The SAW scripting language.,GaloisInc,saw-script,https://github.com/GaloisInc/saw-script
+2022-05-03,haskell,2,0,,uvm-plaid,uvmhs,https://github.com/uvm-plaid/uvmhs
+2022-05-03,haskell,1109,0,"A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D geometry; 2D gcode generation...",Haskell-Things,ImplicitCAD,https://github.com/Haskell-Things/ImplicitCAD
+2022-05-03,haskell,31,0,"This framework provides logging, benchmarking and monitoring.",input-output-hk,iohk-monitoring-framework,https://github.com/input-output-hk/iohk-monitoring-framework
+2022-05-03,haskell,1371,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
