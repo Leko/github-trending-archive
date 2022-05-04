@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-04,go,2011,162,Containers for machine learning,replicate,cog,https://github.com/replicate/cog
+2022-05-04,go,119,15,叮咚多策略抢菜/买菜，亲测有效,ahutsunshine,dingdong-grabber,https://github.com/ahutsunshine/dingdong-grabber
+2022-05-04,go,860,26,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2022-05-04,go,24538,69,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2022-05-04,go,495,25,,cashapp,pranadb,https://github.com/cashapp/pranadb
+2022-05-04,go,268,12,Gno language,gnolang,gno,https://github.com/gnolang/gno
+2022-05-04,go,13669,5,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-05-04,go,11464,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-05-04,go,7913,36,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2022-05-04,go,44384,29,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-05-04,go,3283,5,Test infrastructure for the Kubernetes project.,kubernetes,test-infra,https://github.com/kubernetes/test-infra
+2022-05-04,go,2855,5,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-05-04,go,770,7,"Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain",ignite-hq,cli,https://github.com/ignite-hq/cli
+2022-05-04,go,2974,14,Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.,accurics,terrascan,https://github.com/accurics/terrascan
+2022-05-04,go,11327,14,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2022-05-04,go,1595,6,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2022-05-04,go,313,89,Open Source Package Analysis,ossf,package-analysis,https://github.com/ossf/package-analysis
+2022-05-04,go,2810,3,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2022-05-04,go,1997,9,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",grafana,tempo,https://github.com/grafana/tempo
+2022-05-04,go,478,50,"ZITADEL - The Open Source Auth0, Firebase Auth, AWS Cognito and Keycloak alternative written in Go and built for the serverless era",zitadel,zitadel,https://github.com/zitadel/zitadel
+2022-05-04,go,9149,9,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-05-04,go,32364,28,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-05-04,go,2049,27,Web based CI/CD Platform for Kubernetes,devtron-labs,devtron,https://github.com/devtron-labs/devtron
+2022-05-04,go,723,4,Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.,kubernetes-sigs,secrets-store-csi-driver,https://github.com/kubernetes-sigs/secrets-store-csi-driver
+2022-05-04,go,1666,1,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google

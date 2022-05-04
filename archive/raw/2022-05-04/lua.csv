@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-04,lua,4407,8,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-05-04,lua,524,2,"Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience",echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2022-05-04,lua,108,25,Combined Resource Folder from Multiple Sources of certain anime game,Koko-boya,Grasscutter_Resources,https://github.com/Koko-boya/Grasscutter_Resources
+2022-05-04,lua,2683,13,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-05-04,lua,10396,19,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-05-04,lua,2737,5,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-05-04,lua,501,4,Smooth scrolling neovim plugin written in lua,karb94,neoscroll.nvim,https://github.com/karb94/neoscroll.nvim
+2022-05-04,lua,1966,14,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-05-04,lua,1153,4,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-05-04,lua,8493,13,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-05-04,lua,1297,8,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-05-04,lua,5617,9,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-05-04,lua,20,0,fivem-appearance for qb-core with Tattoos support,iLLeniumStudios,fivem-appearance,https://github.com/iLLeniumStudios/fivem-appearance
+2022-05-04,lua,396,6,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2022-05-04,lua,79,2,Repository for otservbr-global datapack. Source code: https://github.com/opentibiabr/canary,opentibiabr,otservbr-global,https://github.com/opentibiabr/otservbr-global
+2022-05-04,lua,1067,2,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2022-05-04,lua,17,0,Admin Menu Using MenuV,qbcore-framework,qb-adminmenu,https://github.com/qbcore-framework/qb-adminmenu
+2022-05-04,lua,798,5,Tools for better development in rust using neovim's builtin lsp,simrat39,rust-tools.nvim,https://github.com/simrat39/rust-tools.nvim
+2022-05-04,lua,935,1,"Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)",Olical,conjure,https://github.com/Olical/conjure
+2022-05-04,lua,1331,6,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2022-05-04,lua,465,3,"CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a  COSMIC programming experience!",CosmicNvim,CosmicNvim,https://github.com/CosmicNvim/CosmicNvim
+2022-05-04,lua,340,12,明日方舟速通 arknights,tkkcc,ArkLights,https://github.com/tkkcc/ArkLights
+2022-05-04,lua,661,3,"A minimal, stylish and customizable statusline for Neovim written in Lua",feline-nvim,feline.nvim,https://github.com/feline-nvim/feline.nvim
+2022-05-04,lua,246,0,FiveM RP Framework Core,qbcore-framework,qb-core,https://github.com/qbcore-framework/qb-core
+2022-05-04,lua,2710,6,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
