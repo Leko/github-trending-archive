@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-05,scala,1331,15,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-05-05,scala,2509,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-05-05,scala,11473,6,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-05-05,scala,6070,3,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-05-05,scala,4318,7,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-05-05,scala,3287,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-05-05,scala,4945,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-05-05,scala,3331,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-05-05,scala,794,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-05-05,scala,4507,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-05-05,scala,2299,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-05-05,scala,0,0,The code used in a lecture # 4 (28.09),svtk,lecture4-scala,https://github.com/svtk/lecture4-scala
+2022-05-05,scala,13741,2,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-05-05,scala,1692,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-05-05,scala,34,11,An extension to the Apache Spark framework that allows easy and fast processing of very large geospatial datasets.,databrickslabs,mosaic,https://github.com/databrickslabs/mosaic
+2022-05-05,scala,337,3,"This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language",spark-examples,spark-scala-examples,https://github.com/spark-examples/spark-scala-examples
+2022-05-05,scala,8233,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-05-05,scala,4,0,"A simple alternative to the Amazon SQS Daemon (""sqsd"") used on AWS Beanstalk worker tier instances, based on https://github.com/mozart-analytics/sqsd",olxbr,aws-sqsd,https://github.com/olxbr/aws-sqsd
+2022-05-05,scala,6,0,,olxbr,load-test,https://github.com/olxbr/load-test
+2022-05-05,scala,6,0,"Utility code for Scala: logging, testing, configuration and more",olxbr,scala-utils,https://github.com/olxbr/scala-utils
+2022-05-05,scala,3,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-05-05,scala,97,0,PrestaShop technical documentation,PrestaShop,docs,https://github.com/PrestaShop/docs
+2022-05-05,scala,2218,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-05-05,scala,2216,3,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-05-05,scala,752,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge

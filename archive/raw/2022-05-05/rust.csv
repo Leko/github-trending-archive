@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-05,rust,8414,9,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2022-05-05,rust,26370,41,"Powerful, fast, and an easy to use search engine",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-05-05,rust,38,10,A toolkit for building your own interactive command-line tools in Rust,ynqa,promkit,https://github.com/ynqa/promkit
+2022-05-05,rust,8555,19,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,getzola,zola,https://github.com/getzola/zola
+2022-05-05,rust,13916,17,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-05-05,rust,2012,8,Rust implementation of Google protocol buffers,stepancheg,rust-protobuf,https://github.com/stepancheg/rust-protobuf
+2022-05-05,rust,2570,14,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-05-05,rust,8304,8,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2022-05-05,rust,21184,28,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2022-05-05,rust,2483,12,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2022-05-05,rust,20998,44,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy,https://github.com/AppFlowy-IO/AppFlowy
+2022-05-05,rust,6204,20,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2022-05-05,rust,6578,14,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2022-05-05,rust,3714,16,"Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2022-05-05,rust,8474,17,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-05-05,rust,278,4,Core validation logic for pydantic written in rust,samuelcolvin,pydantic-core,https://github.com/samuelcolvin/pydantic-core
+2022-05-05,rust,43,6,Candy Machine Rust CLI.,metaplex-foundation,sugar,https://github.com/metaplex-foundation/sugar
+2022-05-05,rust,15756,27,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-05-05,rust,5077,7,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2022-05-05,rust,2503,3,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2022-05-05,rust,11163,6,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2022-05-05,rust,7482,8,A bunch of lints to catch common mistakes and improve your Rust code,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2022-05-05,rust,650,40,Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps.,mufeedvh,moonwalk,https://github.com/mufeedvh/moonwalk
+2022-05-05,rust,4615,13,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2022-05-05,rust,4609,15,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum

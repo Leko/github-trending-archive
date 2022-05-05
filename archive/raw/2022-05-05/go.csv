@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-05,go,13377,84,IPFS implementation in Go,ipfs,go-ipfs,https://github.com/ipfs/go-ipfs
+2022-05-05,go,2192,177,Containers for machine learning,replicate,cog,https://github.com/replicate/cog
+2022-05-05,go,357,44,Open Source Package Analysis,ossf,package-analysis,https://github.com/ossf/package-analysis
+2022-05-05,go,16441,16,Share your terminal as a web application,yudai,gotty,https://github.com/yudai/gotty
+2022-05-05,go,3194,3,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-05-05,go,16659,19,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2022-05-05,go,24587,51,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2022-05-05,go,3305,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-05-05,go,27143,20,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2022-05-05,go,2325,9,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2022-05-05,go,1359,4,kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters,kcp-dev,kcp,https://github.com/kcp-dev/kcp
+2022-05-05,go,1408,1,A tool to perform Kerberos pre-auth bruteforcing,ropnop,kerbrute,https://github.com/ropnop/kerbrute
+2022-05-05,go,291,24,Gno language,gnolang,gno,https://github.com/gnolang/gno
+2022-05-05,go,13675,7,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-05-05,go,21642,12,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-05-05,go,2858,3,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-05-05,go,479,9,A tool to bring existing Azure resources under Terraform's management,Azure,aztfy,https://github.com/Azure/aztfy
+2022-05-05,go,6285,22,Create desktop apps using Go and Web Technologies.,wailsapp,wails,https://github.com/wailsapp/wails
+2022-05-05,go,8355,19,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2022-05-05,go,2000,3,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",grafana,tempo,https://github.com/grafana/tempo
+2022-05-05,go,66,12,XrayR 机场后端，支持SSPanel、V2board、PMPanel及Proxypanel。相比原版XrayR优化了性能、内存占用,Misaka-blog,XrayR,https://github.com/Misaka-blog/XrayR
+2022-05-05,go,24440,13,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2022-05-05,go,8808,9,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2022-05-05,go,20904,14,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2022-05-05,go,12226,21,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
