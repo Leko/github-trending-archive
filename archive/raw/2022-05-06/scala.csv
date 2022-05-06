@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-06,scala,4325,8,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-05-06,scala,3334,3,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-05-06,scala,12122,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-05-06,scala,3287,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-05-06,scala,2300,1,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-05-06,scala,1275,0,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2022-05-06,scala,12191,6,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-05-06,scala,6069,0,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-05-06,scala,965,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-05-06,scala,10760,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-05-06,scala,32768,11,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-05-06,scala,38,4,An extension to the Apache Spark framework that allows easy and fast processing of very large geospatial datasets.,databrickslabs,mosaic,https://github.com/databrickslabs/mosaic
+2022-05-06,scala,1,1,The code used in a lecture # 4 (28.09),svtk,lecture4-scala,https://github.com/svtk/lecture4-scala
+2022-05-06,scala,14,0,,OpenXiangShan,chisel-playground,https://github.com/OpenXiangShan/chisel-playground
+2022-05-06,scala,5648,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-05-06,scala,4677,0,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-05-06,scala,189,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-05-06,scala,181,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-05-06,scala,2520,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-05-06,scala,685,0,This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition],databricks,LearningSparkV2,https://github.com/databricks/LearningSparkV2
+2022-05-06,scala,4945,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-05-06,scala,752,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-05-06,scala,1048,4,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-05-06,scala,2521,0,Scala Language Integrated Connection Kit. Slick is a modern database query and access library for Scala,slick,slick,https://github.com/slick/slick
+2022-05-06,scala,288,0,A Spark plugin for reading Excel files via Apache POI,crealytics,spark-excel,https://github.com/crealytics/spark-excel

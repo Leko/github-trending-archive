@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-06,go,12272,48,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-05-06,go,299,8,Gno language,gnolang,gno,https://github.com/gnolang/gno
+2022-05-06,go,10132,16,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2022-05-06,go,21655,13,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-05-06,go,13470,95,IPFS implementation in Go,ipfs,go-ipfs,https://github.com/ipfs/go-ipfs
+2022-05-06,go,8338,2,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2022-05-06,go,13678,4,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-05-06,go,24657,78,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2022-05-06,go,2814,2,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2022-05-06,go,7419,44,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2022-05-06,go,2283,91,Containers for machine learning,replicate,cog,https://github.com/replicate/cog
+2022-05-06,go,13630,15,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-05-06,go,2993,0,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2022-05-06,go,378,21,Open Source Package Analysis,ossf,package-analysis,https://github.com/ossf/package-analysis
+2022-05-06,go,4405,50,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-05-06,go,2336,12,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2022-05-06,go,137,12,叮咚多策略抢菜/买菜，亲测有效,ahutsunshine,dingdong-grabber,https://github.com/ahutsunshine/dingdong-grabber
+2022-05-06,go,5082,9,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2022-05-06,go,32407,25,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-05-06,go,3863,3,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2022-05-06,go,7383,6,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2022-05-06,go,8033,20,A TCP proxy to simulate network and system conditions for chaos and resiliency testing,Shopify,toxiproxy,https://github.com/Shopify/toxiproxy
+2022-05-06,go,487,8,A tool to bring existing Azure resources under Terraform's management,Azure,aztfy,https://github.com/Azure/aztfy
+2022-05-06,go,9208,14,"Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",future-architect,vuls,https://github.com/future-architect/vuls
+2022-05-06,go,5389,5,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx

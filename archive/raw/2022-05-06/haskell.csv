@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-06,haskell,28650,12,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-05-06,haskell,26651,8,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-05-06,haskell,3290,10,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-05-06,haskell,2637,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-05-06,haskell,219,1,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-05-06,haskell,156,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-05-06,haskell,58,1,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-05-06,haskell,643,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-05-06,haskell,8,0,Genetic Algorithm based randomized testing,input-output-hk,goblins,https://github.com/input-output-hk/goblins
+2022-05-06,haskell,4,0,Networking library for Windows,input-output-hk,Win32-network,https://github.com/input-output-hk/Win32-network
+2022-05-06,haskell,11,0,A protolude-based custom prelude for the Cardano project,input-output-hk,cardano-prelude,https://github.com/input-output-hk/cardano-prelude
+2022-05-06,haskell,2469,4,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-05-06,haskell,6836,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-05-06,haskell,1369,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-05-06,haskell,1372,1,Future-proof note-taking and publishing based on Zettelkasten,srid,neuron,https://github.com/srid/neuron
+2022-05-06,haskell,97,1,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-05-06,haskell,4,0,"Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH",necrobious,hS3,https://github.com/necrobious/hS3
+2022-05-06,haskell,152,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-05-06,haskell,48,0,Principled and efficient binary serialization,Quid2,flat,https://github.com/Quid2/flat
+2022-05-06,haskell,844,2,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-05-06,haskell,31,0,"This framework provides logging, benchmarking and monitoring.",input-output-hk,iohk-monitoring-framework,https://github.com/input-output-hk/iohk-monitoring-framework
+2022-05-06,haskell,211,3,A ready-to-fork interpreted functional language with type inference,Gabriel439,grace,https://github.com/Gabriel439/grace
+2022-05-06,haskell,1745,6,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-05-06,haskell,220,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-05-06,haskell,4355,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
