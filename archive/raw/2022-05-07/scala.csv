@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-07,scala,4333,8,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-05-07,scala,32770,5,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-05-07,scala,3335,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-05-07,scala,4677,1,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-05-07,scala,685,0,This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition],databricks,LearningSparkV2,https://github.com/databricks/LearningSparkV2
+2022-05-07,scala,1691,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-05-07,scala,8565,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-05-07,scala,4948,3,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-05-07,scala,1,0,The code used in a lecture # 4 (28.09),svtk,lecture4-scala,https://github.com/svtk/lecture4-scala
+2022-05-07,scala,5513,3,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-05-07,scala,1420,0,"A low code Machine Learning service that personalizes articles, listings, search results, recommendations to boost user engagement. A friendly Learn-to-Rank engine",metarank,metarank,https://github.com/metarank/metarank
+2022-05-07,scala,1048,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-05-07,scala,966,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-05-07,scala,10766,6,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-05-07,scala,2513,2,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-05-07,scala,4507,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-05-07,scala,27,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2022-05-07,scala,16,0,Rawls service for DSDE,broadinstitute,rawls,https://github.com/broadinstitute/rawls
+2022-05-07,scala,72,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2022-05-07,scala,2221,2,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-05-07,scala,460,0,Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes,FasterXML,jackson-module-scala,https://github.com/FasterXML/jackson-module-scala
+2022-05-07,scala,5650,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-05-07,scala,12191,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-05-07,scala,2300,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-05-07,scala,288,0,A Spark plugin for reading Excel files via Apache POI,crealytics,spark-excel,https://github.com/crealytics/spark-excel
