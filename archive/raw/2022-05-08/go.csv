@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-08,go,39262,138,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2022-05-08,go,195,109,,wangkechun,go-by-example,https://github.com/wangkechun/go-by-example
+2022-05-08,go,31512,104,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2022-05-08,go,524,71,,Dreamacro,clash-tracing,https://github.com/Dreamacro/clash-tracing
+2022-05-08,go,58619,81,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-05-08,go,454,89,Coolest database around  Embeddable column database written in Go.,polarsignals,arcticdb,https://github.com/polarsignals/arcticdb
+2022-05-08,go,2020,39,"Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-05-08,go,40,14,,Moonlight-Zhao,go-project-example,https://github.com/Moonlight-Zhao/go-project-example
+2022-05-08,go,12326,15,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-05-08,go,1998,16,Container Signing,sigstore,cosign,https://github.com/sigstore/cosign
+2022-05-08,go,39,4,,RaymondCode,simple-demo,https://github.com/RaymondCode/simple-demo
+2022-05-08,go,31191,16,TiDB is an open source distributed hybrid transaction/analytical database compatible with the MySQL protocol,pingcap,tidb,https://github.com/pingcap/tidb
+2022-05-08,go,24771,48,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2022-05-08,go,10240,16,An open-source vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-05-08,go,8114,13,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-05-08,go,31651,19,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
+2022-05-08,go,22963,12,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2022-05-08,go,7783,54,"Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-05-08,go,24694,8,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-05-08,go,25729,19,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-05-08,go,10337,4,ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:,dgrijalva,jwt-go,https://github.com/dgrijalva/jwt-go
+2022-05-08,go,7383,15,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
+2022-05-08,go,5621,1,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-05-08,go,14222,10,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-05-08,go,12793,10,An embedded key/value database for Go.,boltdb,bolt,https://github.com/boltdb/bolt
