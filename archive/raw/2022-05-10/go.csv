@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-10,go,4962,37,"A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-05-10,go,107,32,,Moonlight-Zhao,go-project-example,https://github.com/Moonlight-Zhao/go-project-example
+2022-05-10,go,17545,74,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-05-10,go,39687,220,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2022-05-10,go,319,4,山姆抢购,robGoods,sams,https://github.com/robGoods/sams
+2022-05-10,go,39542,10,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2022-05-10,go,2225,109,"Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-05-10,go,5880,11,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2022-05-10,go,1100,3,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2022-05-10,go,602,92,A collection of generic data structures written in Go.,zyedidia,generic,https://github.com/zyedidia/generic
+2022-05-10,go,2663,13,"Self-hosted lightweight multi-server and website monitoring and alerting. (System information, HTTP, TCP, ICMP... Web Terminal)",naiba,nezha,https://github.com/naiba/nezha
+2022-05-10,go,1110,2,The most popular Discord selfbot written in GO allowing users to automate their campaigns and launch large low-cost marketing campaigns targetting Discord users!,V4NSH4J,discord-mass-DM-GO,https://github.com/V4NSH4J/discord-mass-DM-GO
+2022-05-10,go,4412,5,libp2p implementation in Go,libp2p,go-libp2p,https://github.com/libp2p/go-libp2p
+2022-05-10,go,31740,89,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2022-05-10,go,4324,4,Full-featured BitTorrent client package and utilities,anacrolix,torrent,https://github.com/anacrolix/torrent
+2022-05-10,go,26829,45,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-05-10,go,40180,9,A golang ebook intro how to build a web with golang,astaxie,build-web-application-with-golang,https://github.com/astaxie/build-web-application-with-golang
+2022-05-10,go,21320,17,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2022-05-10,go,2541,7,自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表,zu1k,proxypool,https://github.com/zu1k/proxypool
+2022-05-10,go,119,3,山姆全自动抢购：监控购物车变化、空余运力、保供套餐；支持优惠券、无货添加、限购修正、金额限制、超重拆分、黑白名单,sari3l,sams_helper,https://github.com/sari3l/sams_helper
+2022-05-10,go,105,5,GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。,newpanjing,gofound,https://github.com/newpanjing/gofound
+2022-05-10,go,27219,15,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2022-05-10,go,4579,8,Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/,p4gefau1t,trojan-go,https://github.com/p4gefau1t/trojan-go
+2022-05-10,go,11105,10,Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator,getlantern,lantern,https://github.com/getlantern/lantern
+2022-05-10,go,4470,3,"Kubernetes-based, scale-to-zero, request-driven compute",knative,serving,https://github.com/knative/serving

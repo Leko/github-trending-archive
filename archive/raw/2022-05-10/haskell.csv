@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-10,haskell,2641,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-05-10,haskell,28680,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-05-10,haskell,2034,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-05-10,haskell,311,1,The Monad Transformer Library,haskell,mtl,https://github.com/haskell/mtl
+2022-05-10,haskell,2479,4,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-05-10,haskell,187,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-05-10,haskell,516,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-05-10,haskell,642,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-05-10,haskell,1,0,An image compressor program coded in haskell using the K-Means algorithm,frouioui,ImageCompressor,https://github.com/frouioui/ImageCompressor
+2022-05-10,haskell,25429,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-05-10,haskell,265,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-05-10,haskell,34,0,The elf-edit library provides a datatype suitable for reading and writing Elf files.,GaloisInc,elf-edit,https://github.com/GaloisInc/elf-edit
+2022-05-10,haskell,55,1,Typed eDSL for writing UPLC /ˈpluː.tɑːk/,Plutonomicon,plutarch,https://github.com/Plutonomicon/plutarch
+2022-05-10,haskell,26692,18,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-05-10,haskell,1784,0,Terminal-based presentations using Pandoc,jaspervdj,patat,https://github.com/jaspervdj/patat
+2022-05-10,haskell,1753,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-05-10,haskell,1370,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-05-10,haskell,59,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-05-10,haskell,2,0,,jacobstanley,sudo4win,https://github.com/jacobstanley/sudo4win
+2022-05-10,haskell,0,0,,gleissen,hw1,https://github.com/gleissen/hw1
+2022-05-10,haskell,32,0,Stratified synthesis for learning machine code instruction semantics,GaloisInc,semmc,https://github.com/GaloisInc/semmc
+2022-05-10,haskell,2,0,,input-output-hk,cardano-config,https://github.com/input-output-hk/cardano-config
+2022-05-10,haskell,125,0,Proof of concept for the Hydra Head protocol,input-output-hk,hydra-poc,https://github.com/input-output-hk/hydra-poc
+2022-05-10,haskell,220,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-05-10,haskell,156,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger

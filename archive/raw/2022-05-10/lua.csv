@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-10,lua,9150,127,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-05-10,lua,2389,14,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-05-10,lua,1746,6,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-05-10,lua,279,25,Combined Resource Folder from Multiple Sources of certain anime game,Koko-boya,Grasscutter_Resources,https://github.com/Koko-boya/Grasscutter_Resources
+2022-05-10,lua,122,18,,thanhvule0310,dotfiles,https://github.com/thanhvule0310/dotfiles
+2022-05-10,lua,835,6,Github theme for Neovim and Terminals written in Lua,projekt0n,github-nvim-theme,https://github.com/projekt0n/github-nvim-theme
+2022-05-10,lua,5682,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-05-10,lua,1990,2,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2022-05-10,lua,1349,1,Lua Language Server coded by Lua,sumneko,lua-language-server,https://github.com/sumneko/lua-language-server
+2022-05-10,lua,2777,21,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-05-10,lua,2261,17,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2022-05-10,lua,889,5,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-05-10,lua,82,0,A collection of every roblox script ive aquired. I DO NOT UPDATE OR MAINTAIN THESE.,PhoenixAceVFX,Roblox-Scripts,https://github.com/PhoenixAceVFX/Roblox-Scripts
+2022-05-10,lua,663,1,Navigate codes like a breeze. Exploring LSP and Treesitter symbols a piece of . Take control like a boss .,ray-x,navigator.lua,https://github.com/ray-x/navigator.lua
+2022-05-10,lua,205,3,A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.,rmehri01,onenord.nvim,https://github.com/rmehri01/onenord.nvim
+2022-05-10,lua,762,0,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2022-05-10,lua,422,5,"Modern Go plugin for Neovim, based on gopls, treesitter, Dap and variety of go tools.",ray-x,go.nvim,https://github.com/ray-x/go.nvim
+2022-05-10,lua,1454,7,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2022-05-10,lua,561,1,lua `fork` of vim-web-devicons for neovim,kyazdani42,nvim-web-devicons,https://github.com/kyazdani42/nvim-web-devicons
+2022-05-10,lua,4454,9,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-05-10,lua,1029,5,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-05-10,lua,831,6,"A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2022-05-10,lua,13,0,City Hall Script For QB-Core,qbcore-framework,qb-cityhall,https://github.com/qbcore-framework/qb-cityhall
+2022-05-10,lua,2789,14,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-05-10,lua,1170,5,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
