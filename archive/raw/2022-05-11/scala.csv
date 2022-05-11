@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-11,scala,1058,4,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-05-11,scala,32792,11,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-05-11,scala,3340,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-05-11,scala,2717,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-05-11,scala,2524,3,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-05-11,scala,2224,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-05-11,scala,1693,1,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-05-11,scala,196,0,"Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)",VirtusLab,scala-cli,https://github.com/VirtusLab/scala-cli
+2022-05-11,scala,12123,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-05-11,scala,8246,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-05-11,scala,10778,3,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-05-11,scala,4953,3,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-05-11,scala,12198,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-05-11,scala,2456,0,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-05-11,scala,8638,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-05-11,scala,1426,1,"A low code Machine Learning service that personalizes articles, listings, search results, recommendations to boost user engagement. A friendly Learn-to-Rank engine",metarank,metarank,https://github.com/metarank/metarank
+2022-05-11,scala,967,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-05-11,scala,1,0,type4 is x86_64 compiler can use the float value,hsk,type4,https://github.com/hsk/type4
+2022-05-11,scala,2522,1,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-05-11,scala,181,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-05-11,scala,5379,0,Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.,linkerd,linkerd,https://github.com/linkerd/linkerd
+2022-05-11,scala,2220,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-05-11,scala,4509,2,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-05-11,scala,1841,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-05-11,scala,1,0,"A small app and ""framework"" for pushing output from unix shell commands to flowdock.",pijokela,PushToFlowdock,https://github.com/pijokela/PushToFlowdock
