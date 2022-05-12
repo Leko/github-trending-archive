@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-12,go,40115,87,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-05-12,go,112,22,go pprof practice.,wolfogre,go-pprof-practice,https://github.com/wolfogre/go-pprof-practice
+2022-05-12,go,5906,156,Streaming replication for SQLite.,benbjohnson,litestream,https://github.com/benbjohnson/litestream
+2022-05-12,go,11318,764,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-05-12,go,1394,9,kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters,kcp-dev,kcp,https://github.com/kcp-dev/kcp
+2022-05-12,go,11495,5,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-05-12,go,9222,14,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-05-12,go,6058,13,Universal code search (self-hosted),sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2022-05-12,go,39944,63,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2022-05-12,go,155,19,GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。,newpanjing,gofound,https://github.com/newpanjing/gofound
+2022-05-12,go,17706,63,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-05-12,go,8515,4,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-05-12,go,3051,2,"Copier for golang, copy value from struct to struct and more",jinzhu,copier,https://github.com/jinzhu/copier
+2022-05-12,go,13264,8,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-05-12,go,5124,42,"A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-05-12,go,12695,7,Application Kernel for Containers,google,gvisor,https://github.com/google/gvisor
+2022-05-12,go,98983,71,The Go programming language,golang,go,https://github.com/golang/go
+2022-05-12,go,1666,31,TUI components for Bubble Tea,charmbracelet,bubbles,https://github.com/charmbracelet/bubbles
+2022-05-12,go,3718,0,NGINX and NGINX Plus Ingress Controllers for Kubernetes,nginxinc,kubernetes-ingress,https://github.com/nginxinc/kubernetes-ingress
+2022-05-12,go,10149,24,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2022-05-12,go,3006,11,"ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams",aler9,rtsp-simple-server,https://github.com/aler9/rtsp-simple-server
+2022-05-12,go,15926,15,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-05-12,go,13410,36,DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),docker-slim,docker-slim,https://github.com/docker-slim/docker-slim
+2022-05-12,go,1173,18,"A tool to seal application's all dependencies and Kubernetes into CloudImage, distribute this application anywhere via CloudImage, and run it within any cluster in one command.",sealerio,sealer,https://github.com/sealerio/sealer
+2022-05-12,go,3662,7,The Modern Application Platform.,kubevela,kubevela,https://github.com/kubevela/kubevela

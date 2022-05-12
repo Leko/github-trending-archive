@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-12,scala,3294,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-05-12,scala,32805,14,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-05-12,scala,5517,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-05-12,scala,6079,0,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-05-12,scala,1533,2,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-05-12,scala,1059,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-05-12,scala,1456,12,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-05-12,scala,1334,0,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2022-05-12,scala,3338,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-05-12,scala,2283,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2022-05-12,scala,7,0,,yanns,play2-scala-DI,https://github.com/yanns/play2-scala-DI
+2022-05-12,scala,661,1,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-05-12,scala,1,0,オレオレ設定のAndroidアプリ用テンプレート,ponko2,android-app.g8,https://github.com/ponko2/android-app.g8
+2022-05-12,scala,2526,2,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-05-12,scala,4340,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-05-12,scala,1,0,"A small app and ""framework"" for pushing output from unix shell commands to flowdock.",pijokela,PushToFlowdock,https://github.com/pijokela/PushToFlowdock
+2022-05-12,scala,2718,1,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-05-12,scala,12124,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-05-12,scala,4954,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-05-12,scala,1901,1,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-05-12,scala,181,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-05-12,scala,57,0,A STAC/OGC API Features Web Service,azavea,franklin,https://github.com/azavea/franklin
+2022-05-12,scala,1840,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-05-12,scala,107,0,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2022-05-12,scala,4508,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt

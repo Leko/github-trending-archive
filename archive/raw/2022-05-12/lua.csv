@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-12,lua,9379,34,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-05-12,lua,9158,11,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2022-05-12,lua,1399,5,Orgmode clone written in Lua for Neovim 0.7+.,nvim-orgmode,orgmode,https://github.com/nvim-orgmode/orgmode
+2022-05-12,lua,665,9,My awesomewm dotfiles for awesome people!,rxyhn,dotfiles,https://github.com/rxyhn/dotfiles
+2022-05-12,lua,31821,7,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-05-12,lua,4474,7,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-05-12,lua,2503,1,Advanced vulnerability scanning with Nmap NSE,scipag,vulscan,https://github.com/scipag/vulscan
+2022-05-12,lua,2462,1,LuaRocks is the package manager for the Lua programming language.,luarocks,luarocks,https://github.com/luarocks/luarocks
+2022-05-12,lua,18,0,Drugs Script For QB-Core,qbcore-framework,qb-drugs,https://github.com/qbcore-framework/qb-drugs
+2022-05-12,lua,896,2,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-05-12,lua,4822,0,Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets,lsyncd,lsyncd,https://github.com/lsyncd/lsyncd
+2022-05-12,lua,6296,6,Nmap - the Network Mapper. Github mirror of official SVN repository.,nmap,nmap,https://github.com/nmap/nmap
+2022-05-12,lua,535,1,My configuration files and tools,tjdevries,config_manager,https://github.com/tjdevries/config_manager
+2022-05-12,lua,5704,11,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-05-12,lua,20,1,Admin Menu Using MenuV,qbcore-framework,qb-adminmenu,https://github.com/qbcore-framework/qb-adminmenu
+2022-05-12,lua,4559,1,Web-based Traffic and Security Network Traffic Monitoring,ntop,ntopng,https://github.com/ntop/ntopng
+2022-05-12,lua,1498,3,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2022-05-12,lua,2041,14,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-05-12,lua,1358,7,Lua Language Server coded by Lua,sumneko,lua-language-server,https://github.com/sumneko/lua-language-server
+2022-05-12,lua,22,0,An advanced drug script by Project Sloth,Project-Sloth,ps-drugprocessing,https://github.com/Project-Sloth/ps-drugprocessing
+2022-05-12,lua,335,34,Combined Resource Folder from Multiple Sources of certain anime game,Koko-boya,Grasscutter_Resources,https://github.com/Koko-boya/Grasscutter_Resources
+2022-05-12,lua,292,0,"Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, javascript)",crivotz,nv-ide,https://github.com/crivotz/nv-ide
+2022-05-12,lua,1559,7,Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!,williamboman,nvim-lsp-installer,https://github.com/williamboman/nvim-lsp-installer
+2022-05-12,lua,8,0,Management menu for jobs & gangs,qbcore-framework,qb-management,https://github.com/qbcore-framework/qb-management
+2022-05-12,lua,1336,2,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim

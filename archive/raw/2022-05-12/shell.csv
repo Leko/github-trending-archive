@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-12,shell,716,65,SteamOS 3 (Holo) archiso configuration,theVakhovskeIsTaken,holoiso,https://github.com/theVakhovskeIsTaken/holoiso
+2022-05-12,shell,12294,101,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-05-12,shell,13169,12,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2022-05-12,shell,239,6,利用github actions 实现v2ray-heroku的部署，停止，启动， 和删除。,zizifn,v2ray-heroku,https://github.com/zizifn/v2ray-heroku
+2022-05-12,shell,3121,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-05-12,shell,2123,6,用于在 Heroku 上部署 V2Ray WebSocket。,bclswl0827,v2ray-heroku,https://github.com/bclswl0827/v2ray-heroku
+2022-05-12,shell,57688,37,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-05-12,shell,14421,10,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-05-12,shell,11564,7,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2022-05-12,shell,4500,3,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2022-05-12,shell,8049,5,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-05-12,shell,11756,3,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-05-12,shell,5471,7,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. Enterprise version:",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-05-12,shell,644,0,Bitnami Docker Image for Kafka,bitnami,bitnami-docker-kafka,https://github.com/bitnami/bitnami-docker-kafka
+2022-05-12,shell,6068,5,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2022-05-12,shell,7757,1,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-05-12,shell,201,2,mip22 is a advanced phishing tool,makdosx,mip22,https://github.com/makdosx/mip22
+2022-05-12,shell,6915,8,"List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",toniblyx,my-arsenal-of-aws-security-tools,https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+2022-05-12,shell,2299,4,一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script,jinwyp,one_click_script,https://github.com/jinwyp/one_click_script
+2022-05-12,shell,10091,6,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2022-05-12,shell,180,8,在Heroku上部署v2ray，支持VMESS、VLESS、Trojan-Go、Shadowsocks协议,DaoChen6,IF-XTW,https://github.com/DaoChen6/IF-XTW
+2022-05-12,shell,38,3,Linux distribution for Tesla Android based on raspbian,tesla-android,tesla-android-os,https://github.com/tesla-android/tesla-android-os
+2022-05-12,shell,1039,5,Docker files for running a basic Laravel application.,laravel,sail,https://github.com/laravel/sail
+2022-05-12,shell,178,2,"winesapOS - Game with Linux anywhere, no installation required!",LukeShortCloud,winesapOS,https://github.com/LukeShortCloud/winesapOS
+2022-05-12,shell,541,14,"最强大的minerproxy矿池中转，原创GO语言编写，性能强大。支持绝大部分币种的转发、加密、自定义抽水、数据统计、配套隧道工具。The most powerful ore pool agent, written in the original go language, has strong performance. It supports forwarding, encryption, user-defined pumping, data statistics, etc. of most currencies.",kt007007,KTMinerProxy,https://github.com/kt007007/KTMinerProxy
