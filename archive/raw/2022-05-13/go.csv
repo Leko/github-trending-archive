@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-13,go,152,44,go pprof practice.,wolfogre,go-pprof-practice,https://github.com/wolfogre/go-pprof-practice
+2022-05-13,go,11658,392,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-05-13,go,3320,4,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-05-13,go,9237,16,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-05-13,go,1043,10,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2022-05-13,go,1197,24,"A tool to seal application's all dependencies and Kubernetes into CloudImage, distribute this application anywhere via CloudImage, and run it within any cluster in one command.",sealerio,sealer,https://github.com/sealerio/sealer
+2022-05-13,go,19052,37,"Curated list of Go design patterns, recipes and idioms",tmrts,go-patterns,https://github.com/tmrts/go-patterns
+2022-05-13,go,7345,5,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2022-05-13,go,6027,123,Streaming replication for SQLite.,benbjohnson,litestream,https://github.com/benbjohnson/litestream
+2022-05-13,go,562,131,A light weight log visual analytic platform for clickhouse.,clickvisual,clickvisual,https://github.com/clickvisual/clickvisual
+2022-05-13,go,4767,4,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2022-05-13,go,134,4,XrayR 机场后端，支持SSPanel、V2board、PMPanel及Proxypanel。相比原版XrayR优化了性能、内存占用,Misaka-blog,XrayR,https://github.com/Misaka-blog/XrayR
+2022-05-13,go,3256,6,Linux OS for Azure 1P services and edge appliances,microsoft,CBL-Mariner,https://github.com/microsoft/CBL-Mariner
+2022-05-13,go,39854,20,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2022-05-13,go,9741,10,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
+2022-05-13,go,42371,13,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-05-13,go,40234,177,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-05-13,go,8428,4,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2022-05-13,go,2518,5,Gatekeeper - Policy Controller for Kubernetes,open-policy-agent,gatekeeper,https://github.com/open-policy-agent/gatekeeper
+2022-05-13,go,17726,24,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-05-13,go,11886,6,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-05-13,go,248,20,这是一个轻便的ElasticSearch可视化客户端,1340691923,ElasticView,https://github.com/1340691923/ElasticView
+2022-05-13,go,1918,1,Golang driver for ClickHouse,ClickHouse,clickhouse-go,https://github.com/ClickHouse/clickhouse-go
+2022-05-13,go,3913,15,Yao A low code engine to create web services and dashboard.,YaoApp,yao,https://github.com/YaoApp/yao
+2022-05-13,go,9862,4,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook

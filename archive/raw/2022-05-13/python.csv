@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-13,python,4114,62,Community curated list of templates for the nuclei engine to find security vulnerabilities.,projectdiscovery,nuclei-templates,https://github.com/projectdiscovery/nuclei-templates
+2022-05-13,python,21380,335,"Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",PaddlePaddle,PaddleOCR,https://github.com/PaddlePaddle/PaddleOCR
+2022-05-13,python,62605,126,"Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",huggingface,transformers,https://github.com/huggingface/transformers
+2022-05-13,python,190,24,,databricks-academy,data-engineering-with-databricks,https://github.com/databricks-academy/data-engineering-with-databricks
+2022-05-13,python,12359,19,Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:,saltstack,salt,https://github.com/saltstack/salt
+2022-05-13,python,5375,22,"Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",microsoft,unilm,https://github.com/microsoft/unilm
+2022-05-13,python,1563,38,Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator or Interact.sh,jonaslejon,malicious-pdf,https://github.com/jonaslejon/malicious-pdf
+2022-05-13,python,804,34,Tool for Active Directory Certificate Services enumeration and abuse,ly4k,Certipy,https://github.com/ly4k/Certipy
+2022-05-13,python,62,4,,databricks-academy,advanced-data-engineering-with-databricks,https://github.com/databricks-academy/advanced-data-engineering-with-databricks
+2022-05-13,python,45050,131,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",tiangolo,fastapi,https://github.com/tiangolo/fastapi
+2022-05-13,python,18406,17,"PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",rwightman,pytorch-image-models,https://github.com/rwightman/pytorch-image-models
+2022-05-13,python,112,8,"YMIR, a streamlined model development product.",IndustryEssentials,ymir,https://github.com/IndustryEssentials/ymir
+2022-05-13,python,1985,8,Django styleguide used in HackSoft projects,HackSoftware,Django-Styleguide,https://github.com/HackSoftware/Django-Styleguide
+2022-05-13,python,118121,37,Python - 100天从新手到大师,jackfrued,Python-100-Days,https://github.com/jackfrued/Python-100-Days
+2022-05-13,python,25862,14,中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理,hankcs,HanLP,https://github.com/hankcs/HanLP
+2022-05-13,python,4072,10,A SQL linter and auto-formatter for Humans,sqlfluff,sqlfluff,https://github.com/sqlfluff/sqlfluff
+2022-05-13,python,4694,5,"An orchestration platform for the development, production, and observation of data assets.",dagster-io,dagster,https://github.com/dagster-io/dagster
+2022-05-13,python,4730,13,dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.,dbt-labs,dbt-core,https://github.com/dbt-labs/dbt-core
+2022-05-13,python,28971,16,Comprehensive Python Cheatsheet,gto76,python-cheatsheet,https://github.com/gto76/python-cheatsheet
+2022-05-13,python,167,29,POC for CVE-2022-1388,horizon3ai,CVE-2022-1388,https://github.com/horizon3ai/CVE-2022-1388
+2022-05-13,python,20383,18,"An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.",ray-project,ray,https://github.com/ray-project/ray
+2022-05-13,python,56,4,CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE,0xf4n9x,CVE-2022-1388,https://github.com/0xf4n9x/CVE-2022-1388
+2022-05-13,python,682,32,A multi-voice TTS system trained with an emphasis on quality,neonbjb,tortoise-tts,https://github.com/neonbjb/tortoise-tts
+2022-05-13,python,2749,2,Confluent's Kafka Python Client,confluentinc,confluent-kafka-python,https://github.com/confluentinc/confluent-kafka-python
+2022-05-13,python,2656,3,"A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",spack,spack,https://github.com/spack/spack

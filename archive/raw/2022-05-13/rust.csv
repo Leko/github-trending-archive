@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-13,rust,1178,33,"An alternative implementation of Golang specs, written in Rust for embedding or wrapping.",oxfeeefeee,goscript,https://github.com/oxfeeefeee/goscript
+2022-05-13,rust,1609,9,Reference client for NEAR Protocol,near,nearcore,https://github.com/near/nearcore
+2022-05-13,rust,25717,22,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2022-05-13,rust,6239,14,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2022-05-13,rust,5592,8,Fast State-of-the-Art Tokenizers optimized for Research and Production,huggingface,tokenizers,https://github.com/huggingface/tokenizers
+2022-05-13,rust,1894,9,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-05-13,rust,19341,9,A modern editor with a backend written in Rust.,xi-editor,xi-editor,https://github.com/xi-editor/xi-editor
+2022-05-13,rust,3716,24,A modern Python application packaging and distribution tool,indygreg,PyOxidizer,https://github.com/indygreg/PyOxidizer
+2022-05-13,rust,4679,23,bore is a simple CLI tool for making tunnels to localhost,ekzhang,bore,https://github.com/ekzhang/bore
+2022-05-13,rust,2950,9,wrangle your Cloudflare Workers,cloudflare,wrangler,https://github.com/cloudflare/wrangler
+2022-05-13,rust,7465,17,"Standalone JIT-style runtime for WebAssembly, using Cranelift",bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-05-13,rust,10463,35,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-05-13,rust,22009,22,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2022-05-13,rust,61,18,An easy-to-use tunnel to localhost built in Rust. An alternative to ngrok and frp.,saltbo,rslocal,https://github.com/saltbo/rslocal
+2022-05-13,rust,185,13,"Ferium is a CLI Minecraft mod manager for mods from Modrinth, CurseForge, and Github Releases",theRookieCoder,ferium,https://github.com/theRookieCoder/ferium
+2022-05-13,rust,2009,1,Solana Sealevel Framework,project-serum,anchor,https://github.com/project-serum/anchor
+2022-05-13,rust,9883,27,"A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.",analysis-tools-dev,static-analysis,https://github.com/analysis-tools-dev/static-analysis
+2022-05-13,rust,66506,44,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-05-13,rust,72,4,Load DLLs from memory with rust,malware-unicorn,rusty-memory-loadlibrary,https://github.com/malware-unicorn/rusty-memory-loadlibrary
+2022-05-13,rust,6968,5,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-05-13,rust,8520,2,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-05-13,rust,7108,8,Actor framework for Rust.,actix,actix,https://github.com/actix/actix
+2022-05-13,rust,525,5,Notion as a platform for offensive operations,mttaggart,OffensiveNotion,https://github.com/mttaggart/OffensiveNotion
+2022-05-13,rust,2527,10,A command line progress reporting library for Rust,console-rs,indicatif,https://github.com/console-rs/indicatif
+2022-05-13,rust,8455,7,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel

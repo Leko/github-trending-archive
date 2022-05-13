@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-13,scala,32818,14,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-05-13,scala,11494,2,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-05-13,scala,5518,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-05-13,scala,2704,3,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-05-13,scala,10779,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-05-13,scala,3339,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-05-13,scala,4508,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-05-13,scala,1840,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-05-13,scala,801,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-05-13,scala,2227,2,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-05-13,scala,543,0,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-05-13,scala,12122,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-05-13,scala,402,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2022-05-13,scala,2722,4,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-05-13,scala,8639,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-05-13,scala,181,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-05-13,scala,969,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-05-13,scala,190,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-05-13,scala,578,2,Redshift data source for Apache Spark,databricks,spark-redshift,https://github.com/databricks/spark-redshift
+2022-05-13,scala,4,0,"A simple alternative to the Amazon SQS Daemon (""sqsd"") used on AWS Beanstalk worker tier instances, based on https://github.com/mozart-analytics/sqsd",olxbr,aws-sqsd,https://github.com/olxbr/aws-sqsd
+2022-05-13,scala,6,0,,olxbr,load-test,https://github.com/olxbr/load-test
+2022-05-13,scala,12200,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-05-13,scala,898,2,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-05-13,scala,5379,1,Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.,linkerd,linkerd,https://github.com/linkerd/linkerd
+2022-05-13,scala,1904,3,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
