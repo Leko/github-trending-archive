@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-17,lua,2122,25,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-05-17,lua,2050,22,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2022-05-17,lua,905,2,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-05-17,lua,8691,19,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-05-17,lua,5746,6,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-05-17,lua,1101,2,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2022-05-17,lua,2839,7,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-05-17,lua,4513,8,Quickstart configurations for the Nvim LSP client,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-05-17,lua,1017,4,The neovim tabline plugin.,romgrk,barbar.nvim,https://github.com/romgrk/barbar.nvim
+2022-05-17,lua,447,3,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2022-05-17,lua,23,1,A collection of Lua functions to utilise in other resources.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2022-05-17,lua,2443,9,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-05-17,lua,1776,3,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-05-17,lua,697,10,My awesomewm dotfiles for awesome people!,rxyhn,dotfiles,https://github.com/rxyhn/dotfiles
+2022-05-17,lua,1509,2,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2022-05-17,lua,371,0,Neovim 配置实战：从 0 到 1 打造自己的 IDE,nshen,learn-neovim-lua,https://github.com/nshen/learn-neovim-lua
+2022-05-17,lua,115,1,Official Repo For ESX-Legacy,esx-framework,esx-legacy,https://github.com/esx-framework/esx-legacy
+2022-05-17,lua,4682,6,awesome window manager,awesomeWM,awesome,https://github.com/awesomeWM/awesome
+2022-05-17,lua,330,1,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-05-17,lua,201,1,Neovim/Vim color scheme inspired by Dark+ and Light+ theme in Visual Studio Code,Mofiqul,vscode.nvim,https://github.com/Mofiqul/vscode.nvim
+2022-05-17,lua,410,9,Combined Resource Folder from Multiple Sources of certain anime game,Koko-boya,Grasscutter_Resources,https://github.com/Koko-boya/Grasscutter_Resources
+2022-05-17,lua,35,0,fivem-appearance for qb-core with Tattoos support,iLLeniumStudios,fivem-appearance,https://github.com/iLLeniumStudios/fivem-appearance
+2022-05-17,lua,566,0,Rainbow parentheses for neovim using tree-sitter. https://sr.ht/~p00f/nvim-ts-rainbow preferred,p00f,nvim-ts-rainbow,https://github.com/p00f/nvim-ts-rainbow
+2022-05-17,lua,1222,1,The fastest Neovim colorizer.,norcalli,nvim-colorizer.lua,https://github.com/norcalli/nvim-colorizer.lua
+2022-05-17,lua,2827,7,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
