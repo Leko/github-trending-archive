@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-18,haskell,6871,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-05-18,haskell,26769,16,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-05-18,haskell,646,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-05-18,haskell,2052,4,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-05-18,haskell,0,0,Parse and print rationals in repeating decimal form.,mkovaxx,kyuu,https://github.com/mkovaxx/kyuu
+2022-05-18,haskell,1032,5,"The open-source, Haskell-built video editor for GIF makers.",lettier,gifcurry,https://github.com/lettier/gifcurry
+2022-05-18,haskell,768,1,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-05-18,haskell,221,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-05-18,haskell,28756,15,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-05-18,haskell,61,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-05-18,haskell,3,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-05-18,haskell,1783,5,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-05-18,haskell,2646,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-05-18,haskell,99,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-05-18,haskell,185,0,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
+2022-05-18,haskell,3592,1,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",facebook,duckling,https://github.com/facebook/duckling
+2022-05-18,haskell,18700,9,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-05-18,haskell,1572,0,Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.,BurntSushi,erd,https://github.com/BurntSushi/erd
+2022-05-18,haskell,763,0,A minimalistic status bar,jaor,xmobar,https://github.com/jaor/xmobar
+2022-05-18,haskell,1290,2,,input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2022-05-18,haskell,4,0,Networking library for Windows,input-output-hk,Win32-network,https://github.com/input-output-hk/Win32-network
+2022-05-18,haskell,3,0,,mlabs-haskell,ogmios-datum-cache,https://github.com/mlabs-haskell/ogmios-datum-cache
+2022-05-18,haskell,726,1,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2022-05-18,haskell,2439,1,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-05-18,haskell,3310,2,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp

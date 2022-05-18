@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-18,go,465,177,GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。,newpanjing,gofound,https://github.com/newpanjing/gofound
+2022-05-18,go,6049,21,"A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.",dtm-labs,dtm,https://github.com/dtm-labs/dtm
+2022-05-18,go,8520,13,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2022-05-18,go,1864,3,Elastic Cloud on Kubernetes,elastic,cloud-on-k8s,https://github.com/elastic/cloud-on-k8s
+2022-05-18,go,105,10,A @PlayCrabada looting bot written in Go.,C-ollins,crabada,https://github.com/C-ollins/crabada
+2022-05-18,go,22906,9,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-05-18,go,13136,87,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2022-05-18,go,1216,166,"Practical concurrency guide in Go, communication by channels, patterns",luk4z7,go-concurrency-guide,https://github.com/luk4z7/go-concurrency-guide
+2022-05-18,go,4543,14,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2022-05-18,go,1480,264,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2022-05-18,go,941,51,"A comprehensive, efficient, and reusable util function library of go.",duke-git,lancet,https://github.com/duke-git/lancet
+2022-05-18,go,3390,10,基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。,xinliangnote,go-gin-api,https://github.com/xinliangnote/go-gin-api
+2022-05-18,go,1425,18,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2022-05-18,go,17404,14,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2022-05-18,go,29886,31,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2022-05-18,go,4809,8,Fluent SQL generation for golang,Masterminds,squirrel,https://github.com/Masterminds/squirrel
+2022-05-18,go,5117,12,LevelDB key/value database in Go.,syndtr,goleveldb,https://github.com/syndtr/goleveldb
+2022-05-18,go,1792,3,Kubernetes controller for GitHub Actions self-hosted runners,actions-runner-controller,actions-runner-controller,https://github.com/actions-runner-controller/actions-runner-controller
+2022-05-18,go,2880,6,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2022-05-18,go,198,29,"Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both HTTP/gRPC interfaces secured with mTLS.",malwaredllc,minicache,https://github.com/malwaredllc/minicache
+2022-05-18,go,19169,12,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-05-18,go,7424,7,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2022-05-18,go,2758,16,"A high performance NoSQL database based on bitcask, supports string, list, hash, set, and sorted set.",flower-corp,rosedb,https://github.com/flower-corp/rosedb
+2022-05-18,go,11511,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-05-18,go,4764,18,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
