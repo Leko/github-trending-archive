@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-20,go,616,51,GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。,newpanjing,gofound,https://github.com/newpanjing/gofound
+2022-05-20,go,59149,122,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-05-20,go,1901,232,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2022-05-20,go,4814,50,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2022-05-20,go,6953,19,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-05-20,go,659,27,"The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.",stackrox,stackrox,https://github.com/stackrox/stackrox
+2022-05-20,go,26670,18,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-05-20,go,23497,6,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2022-05-20,go,63100,18,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-05-20,go,4224,20,A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.,cloudwego,kitex,https://github.com/cloudwego/kitex
+2022-05-20,go,2246,24,safe and easy casting from one type to another in Go,spf13,cast,https://github.com/spf13/cast
+2022-05-20,go,7615,4,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-05-20,go,4798,14,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2022-05-20,go,8697,11,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-05-20,go,16775,8,Cross platform GUI in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2022-05-20,go,3976,16,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2022-05-20,go,5159,8,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
+2022-05-20,go,17902,12,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2022-05-20,go,15820,14,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-05-20,go,9080,3,Go client for Redis,gomodule,redigo,https://github.com/gomodule/redigo
+2022-05-20,go,3042,9,Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.,tenable,terrascan,https://github.com/tenable/terrascan
+2022-05-20,go,16362,11,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-05-20,go,3274,7,A web-based UI for deploying and managing applications in Kubernetes clusters,vmware-tanzu,kubeapps,https://github.com/vmware-tanzu/kubeapps
+2022-05-20,go,89,13,"xray_free_crack,通用xray白嫖高级版.",TryHello,xray_free_crack,https://github.com/TryHello/xray_free_crack
+2022-05-20,go,11874,26,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
