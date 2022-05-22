@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-22,rust,14607,59,"x86 virtualization in your browser, recompiling x86 to wasm on the fly",copy,v86,https://github.com/copy/v86
+2022-05-22,rust,18912,604,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-05-22,rust,22682,170,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2022-05-22,rust,920,3,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
+2022-05-22,rust,229,4,Rust Graph Routing runtime for Apollo Federation,apollographql,router,https://github.com/apollographql/router
+2022-05-22,rust,1996,17,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-05-22,rust,8570,18,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-05-22,rust,2007,1,Apache Arrow DataFusion and Ballista query engines,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-05-22,rust,17836,13,A modern replacement for ‘ls’.,ogham,exa,https://github.com/ogham/exa
+2022-05-22,rust,739,30,RustDesk Server Program,rustdesk,rustdesk-server,https://github.com/rustdesk/rustdesk-server
+2022-05-22,rust,66789,42,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-05-22,rust,31058,23,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2022-05-22,rust,1749,2,A collection of Solana-maintained on-chain programs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2022-05-22,rust,82533,23,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-05-22,rust,10164,9,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-05-22,rust,3946,11,"A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.",datafuselabs,databend,https://github.com/datafuselabs/databend
+2022-05-22,rust,6433,12,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2022-05-22,rust,11186,6,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2022-05-22,rust,640,6,Framework for building smart contracts in Wasm for the Cosmos SDK,CosmWasm,cosmwasm,https://github.com/CosmWasm/cosmwasm
+2022-05-22,rust,4674,6,The Rust toolchain installer,rust-lang,rustup,https://github.com/rust-lang/rustup
+2022-05-22,rust,343,26,(work in progress) Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.,Barre,privaxy,https://github.com/Barre/privaxy
+2022-05-22,rust,9472,9,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2022-05-22,rust,3215,8,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-05-22,rust,1661,4,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2022-05-22,rust,2426,6,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p

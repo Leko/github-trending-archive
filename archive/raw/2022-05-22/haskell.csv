@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-22,haskell,28796,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-05-22,haskell,2652,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-05-22,haskell,6903,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-05-22,haskell,647,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-05-22,haskell,5,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-05-22,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-05-22,haskell,36,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-05-22,haskell,265,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-05-22,haskell,1537,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-05-22,haskell,52,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-05-22,haskell,2053,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-05-22,haskell,1791,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-05-22,haskell,344,3,"Spiritual successor to neuron, based on Ema.",srid,emanote,https://github.com/srid/emanote
+2022-05-22,haskell,2503,4,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-05-22,haskell,26799,8,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-05-22,haskell,1821,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-05-22,haskell,1216,3,Research language for array processing in the Haskell/ML family,google-research,dex-lang,https://github.com/google-research/dex-lang
+2022-05-22,haskell,769,0,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-05-22,haskell,221,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-05-22,haskell,11,0,Visualizing kubernetes capacity.,Shopify,kubepacity,https://github.com/Shopify/kubepacity
+2022-05-22,haskell,3713,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-05-22,haskell,25538,10,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-05-22,haskell,3310,1,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-05-22,haskell,218,0,"PP - Generic preprocessor (with pandoc in mind) - macros, literate programming, diagrams, scripts...",CDSoft,pp,https://github.com/CDSoft/pp
+2022-05-22,haskell,99,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
