@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-24,scala,11521,4,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-05-24,scala,10801,5,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-05-24,scala,3355,3,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-05-24,scala,12221,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-05-24,scala,1542,6,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-05-24,scala,8610,6,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-05-24,scala,8257,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-05-24,scala,27,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2022-05-24,scala,1339,0,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2022-05-24,scala,2526,1,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-05-24,scala,3299,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-05-24,scala,678,3,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-05-24,scala,753,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-05-24,scala,5378,0,Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.,linkerd,linkerd,https://github.com/linkerd/linkerd
+2022-05-24,scala,181,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-05-24,scala,4688,3,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-05-24,scala,801,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-05-24,scala,5524,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-05-24,scala,1699,1,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-05-24,scala,2306,0,"A V2Ray, Trojan, ShadowsocksR client for Android",xxf098,shadowsocksr-v2ray-trojan-android,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+2022-05-24,scala,1284,1,Home of the OpenComputers mod for Minecraft.,MightyPirates,OpenComputers,https://github.com/MightyPirates/OpenComputers
+2022-05-24,scala,692,1,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2022-05-24,scala,1916,0,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-05-24,scala,32926,9,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-05-24,scala,14,0,,OpenXiangShan,chisel-playground,https://github.com/OpenXiangShan/chisel-playground
