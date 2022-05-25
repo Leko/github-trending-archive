@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-25,haskell,26826,9,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-05-25,haskell,6917,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-05-25,haskell,1295,0,,input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2022-05-25,haskell,2657,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-05-25,haskell,648,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-05-25,haskell,3,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-05-25,haskell,25561,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-05-25,haskell,265,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-05-25,haskell,308,1,Like some files bro,geohot,configuration,https://github.com/geohot/configuration
+2022-05-25,haskell,3319,4,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-05-25,haskell,517,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-05-25,haskell,2,0,"Drop-in replacement for the base library, to use with Liquid Haskell",liquidhaskell,liquid-base,https://github.com/liquidhaskell/liquid-base
+2022-05-25,haskell,1373,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-05-25,haskell,0,0,Simula operaciones de memoria y caché a partir de datos extraídos de sesiones GAP,jsoffer,gapsim,https://github.com/jsoffer/gapsim
+2022-05-25,haskell,0,0,Fork of Hailgun,MercuryTechnologies,Hailgun,https://github.com/MercuryTechnologies/Hailgun
+2022-05-25,haskell,19,0,"mobile type (currently Swift, Kotlin) generation from Haskell types",MercuryTechnologies,moat,https://github.com/MercuryTechnologies/moat
+2022-05-25,haskell,606,6,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-05-25,haskell,3610,2,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",facebook,duckling,https://github.com/facebook/duckling
+2022-05-25,haskell,6848,3,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-05-25,haskell,1826,2,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-05-25,haskell,28815,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-05-25,haskell,93,1,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-05-25,haskell,192,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-05-25,haskell,2514,4,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-05-25,haskell,5,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo

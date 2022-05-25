@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-25,r,3498,3,R for data science: a book,hadley,r4ds,https://github.com/hadley/r4ds
+2022-05-25,r,5033,3,"A curated list of awesome R packages, frameworks and software.",qinwf,awesome-R,https://github.com/qinwf/awesome-R
+2022-05-25,r,966,0,Static Code Analysis for R,r-lib,lintr,https://github.com/r-lib/lintr
+2022-05-25,r,478,1,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression with cross validation, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define m…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2022-05-25,r,1458,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2022-05-25,r,31,0,"Flexible binding for complex function evaluation with the Base R |> pipe",bwiernik,pipebind,https://github.com/bwiernik/pipebind
+2022-05-25,r,5430,1,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2022-05-25,r,4678,3,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2022-05-25,r,3873,0,A collection of interactive courses for the swirl R package.,swirldev,swirl_courses,https://github.com/swirldev/swirl_courses
+2022-05-25,r,335,1,Tools for time series analysis and forecasting,RamiKrispin,TSstudio,https://github.com/RamiKrispin/TSstudio
+2022-05-25,r,2185,1,Tools to make an R developer's life easier,r-lib,devtools,https://github.com/r-lib/devtools
+2022-05-25,r,262,3,Satellite image time series in R,e-sensing,sits,https://github.com/e-sensing/sits
+2022-05-25,r,322,1,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2022-05-25,r,37,4,Prototype UI for Shiny Apps,ashbaldry,designer,https://github.com/ashbaldry/designer
+2022-05-25,r,292,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2022-05-25,r,335,0,R Source Code,SurajGupta,r-source,https://github.com/SurajGupta/r-source
+2022-05-25,r,422,1,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2022-05-25,r,1034,0,Mastering Shiny: a book,hadley,mastering-shiny,https://github.com/hadley/mastering-shiny
+2022-05-25,r,165,1,R toolkit for the analysis of single-cell chromatin data,timoast,signac,https://github.com/timoast/signac
+2022-05-25,r,309,0,"R package for community ecologists: popular ordination methods, ecological null models & diversity analysis",vegandevs,vegan,https://github.com/vegandevs/vegan
+2022-05-25,r,860,0,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
+2022-05-25,r,336,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2022-05-25,r,733,1,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2022-05-25,r,3021,0,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2022-05-25,r,157,0,Community-provided extensions to Seurat,satijalab,seurat-wrappers,https://github.com/satijalab/seurat-wrappers

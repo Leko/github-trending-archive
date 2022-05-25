@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-25,go,14421,31,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-05-25,go,3337,3,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2022-05-25,go,10390,10,An open-source vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-05-25,go,16424,17,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-05-25,go,133,16,DataStax Astra automation CLI https://astra.datastax.com,datastax-labs,astra-cli,https://github.com/datastax-labs/astra-cli
+2022-05-25,go,138,16,A client-side CQL proxy/sidecar.,datastax,cql-proxy,https://github.com/datastax/cql-proxy
+2022-05-25,go,1446,8,kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters,kcp-dev,kcp,https://github.com/kcp-dev/kcp
+2022-05-25,go,18347,13,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-05-25,go,13351,16,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-05-25,go,25930,26,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-05-25,go,23076,10,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2022-05-25,go,55,9,A mining program based on cess platform,CESSProject,cess-bucket,https://github.com/CESSProject/cess-bucket
+2022-05-25,go,19315,12,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-05-25,go,4575,5,UUID package for Go,satori,go.uuid,https://github.com/satori/go.uuid
+2022-05-25,go,88678,47,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-05-25,go,15945,23,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-05-25,go,5235,7,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2022-05-25,go,17750,27,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-05-25,go,3567,8,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2022-05-25,go,6189,26,A prompt theme engine for any shell.,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2022-05-25,go,313,8,afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities,zan8in,afrog,https://github.com/zan8in/afrog
+2022-05-25,go,7219,6,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2022-05-25,go,6892,8,"Terminal UI library with rich, interactive widgets — written in Golang",rivo,tview,https://github.com/rivo/tview
+2022-05-25,go,83,14,首个确保最终一致、强一致的 Redis 缓存库,dtm-labs,rockscache,https://github.com/dtm-labs/rockscache
+2022-05-25,go,3730,3,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
