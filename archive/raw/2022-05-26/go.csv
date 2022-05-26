@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-26,go,26023,38,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-05-26,go,11026,24,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2022-05-26,go,7308,4,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-05-26,go,15386,2,(OBSOLETE) Curated applications for Kubernetes,helm,charts,https://github.com/helm/charts
+2022-05-26,go,9858,29,Simple and flexible tool for managing secrets,mozilla,sops,https://github.com/mozilla/sops
+2022-05-26,go,2626,3,Descheduler for Kubernetes,kubernetes-sigs,descheduler,https://github.com/kubernetes-sigs/descheduler
+2022-05-26,go,7035,10,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2022-05-26,go,88702,26,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-05-26,go,7673,20,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
+2022-05-26,go,21830,19,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-05-26,go,10398,8,An open-source vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-05-26,go,5504,38,"A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",Xhofe,alist,https://github.com/Xhofe/alist
+2022-05-26,go,13905,9,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-05-26,go,3707,5,The Modern Application Platform.,kubevela,kubevela,https://github.com/kubevela/kubevela
+2022-05-26,go,15971,30,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-05-26,go,28178,14,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-05-26,go,81,12,"以太坊矿池代理，矿池中转，自定义抽水账号及比例，支持监听多个端口，连接多个矿池。采用go及node.js编写，轻量、高效、透明、稳定。可同时接入3000+设备稳定不掉线。A lightweight, efficient, transparent and stable eth mining proxy.",zero-proxy,zero-proxy,https://github.com/zero-proxy/zero-proxy
+2022-05-26,go,21861,16,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2022-05-26,go,1344,2,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-05-26,go,303,56,aws should be easy,nathants,libaws,https://github.com/nathants/libaws
+2022-05-26,go,24521,39,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2022-05-26,go,3583,15,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2022-05-26,go,3985,4,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2022-05-26,go,14477,58,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-05-26,go,1641,2,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
