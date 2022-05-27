@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-27,scala,12227,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-05-27,scala,10812,6,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-05-27,scala,5528,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-05-27,scala,4381,7,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-05-27,scala,980,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-05-27,scala,5672,1,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-05-27,scala,1563,9,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-05-27,scala,2254,3,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-05-27,scala,3358,3,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-05-27,scala,32957,13,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-05-27,scala,191,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-05-27,scala,7,1,"Utility code for Scala: logging, testing, configuration and more",olxbr,scala-utils,https://github.com/olxbr/scala-utils
+2022-05-27,scala,7,1,,olxbr,load-test,https://github.com/olxbr/load-test
+2022-05-27,scala,185,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2022-05-27,scala,73,1,Probabilistic Neural Programming,allenai,pnp,https://github.com/allenai/pnp
+2022-05-27,scala,43,1,"NLP toolkit (tokenizer, POS-tagger, parser, etc.)",allenai,nlpstack,https://github.com/allenai/nlpstack
+2022-05-27,scala,16,0,Easily identify and label sentence intervals using various taggers.,allenai,taggers,https://github.com/allenai/taggers
+2022-05-27,scala,7,0,Scala framework for running experiments with allenai/deep_qa,allenai,deep_qa_experiments,https://github.com/allenai/deep_qa_experiments
+2022-05-27,scala,8,1,A collection of useful utility classes and functions.,allenai,common,https://github.com/allenai/common
+2022-05-27,scala,2047,0,Compile-time Language Integrated Queries for Scala,zio,zio-quill,https://github.com/zio/zio-quill
+2022-05-27,scala,1503,2,深圳地铁大数据客流分析系统,geekyouth,SZT-bigdata,https://github.com/geekyouth/SZT-bigdata
+2022-05-27,scala,12137,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-05-27,scala,423,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-05-27,scala,2548,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-05-27,scala,30,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo

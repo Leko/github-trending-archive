@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-27,go,7313,33,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2022-05-27,go,1533,2,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2022-05-27,go,24791,12,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-05-27,go,11091,9,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-05-27,go,2561,21,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2022-05-27,go,28635,34,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2022-05-27,go,11056,34,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2022-05-27,go,4156,8,syzkaller is an unsupervised coverage-guided kernel fuzzer,google,syzkaller,https://github.com/google/syzkaller
+2022-05-27,go,23096,11,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2022-05-27,go,16003,24,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-05-27,go,10816,9,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2022-05-27,go,5689,9,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-05-27,go,21853,25,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-05-27,go,23990,21,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-05-27,go,3749,4,NGINX and NGINX Plus Ingress Controllers for Kubernetes,nginxinc,kubernetes-ingress,https://github.com/nginxinc/kubernetes-ingress
+2022-05-27,go,14498,21,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-05-27,go,26079,112,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-05-27,go,5315,15,Color package for Go (golang),fatih,color,https://github.com/fatih/color
+2022-05-27,go,2239,15,protoc plugin to generate polyglot message validators,envoyproxy,protoc-gen-validate,https://github.com/envoyproxy/protoc-gen-validate
+2022-05-27,go,3607,25,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2022-05-27,go,7632,4,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-05-27,go,1145,4,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2022-05-27,go,2515,6,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2022-05-27,go,2010,9,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2022-05-27,go,6157,13,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
