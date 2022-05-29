@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-29,scala,32976,5,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-05-29,scala,53,11,Implement CSV validation following the W3C's CSV on the Web standard.,kah109xq,GSS-Cogss,https://github.com/kah109xq/GSS-Cogss
+2022-05-29,scala,4387,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-05-29,scala,6097,1,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-05-29,scala,2258,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-05-29,scala,3364,6,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-05-29,scala,2238,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-05-29,scala,8621,2,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-05-29,scala,982,2,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-05-29,scala,2548,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-05-29,scala,12139,2,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-05-29,scala,50,0,,ucb-bar,testchipip,https://github.com/ucb-bar/testchipip
+2022-05-29,scala,4966,2,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-05-29,scala,100,0,RISC-V Torture Test,ucb-bar,riscv-torture,https://github.com/ucb-bar/riscv-torture
+2022-05-29,scala,13757,1,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-05-29,scala,1342,2,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2022-05-29,scala,2529,1,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-05-29,scala,754,1,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-05-29,scala,1070,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-05-29,scala,90,1,经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。,deng0515001,lnglat2Geo,https://github.com/deng0515001/lnglat2Geo
+2022-05-29,scala,76,1,"Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.",zio,zio-schema,https://github.com/zio/zio-schema
+2022-05-29,scala,7,1,Macro description format,ucb-bar,plsi-mdf,https://github.com/ucb-bar/plsi-mdf
+2022-05-29,scala,6411,2,Arnold Schwarzenegger based programming language,lhartikk,ArnoldC,https://github.com/lhartikk/ArnoldC
+2022-05-29,scala,1841,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-05-29,scala,1568,2,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx

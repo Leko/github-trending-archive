@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-29,go,7381,20,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2022-05-29,go,16466,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-05-29,go,9223,7,CoreDNS is a DNS server that chains plugins,coredns,coredns,https://github.com/coredns/coredns
+2022-05-29,go,3030,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-05-29,go,406,4,Gno language,gnolang,gno,https://github.com/gnolang/gno
+2022-05-29,go,293,111,"A artistic ""twitter like"" community built on gin+zinc+vue+ts 清新文艺微社区",rocboss,paopao-ce,https://github.com/rocboss/paopao-ce
+2022-05-29,go,8269,23,"ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。",panjf2000,ants,https://github.com/panjf2000/ants
+2022-05-29,go,3355,4,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2022-05-29,go,10441,15,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2022-05-29,go,163,19,"RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.",wikiZ,RedGuard,https://github.com/wikiZ/RedGuard
+2022-05-29,go,5862,5,Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.,vmware-tanzu,octant,https://github.com/vmware-tanzu/octant
+2022-05-29,go,24800,6,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-05-29,go,8247,51,"Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-05-29,go,8100,8,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2022-05-29,go,3911,1,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2022-05-29,go,8871,38,kubernetes-kernel-based Cloud OS! Let's sealos run kubernetes:v1.24.0,labring,sealos,https://github.com/labring/sealos
+2022-05-29,go,56722,26,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-05-29,go,898,6,Gen: Friendly & Safer GORM powered by Code Generation,go-gorm,gen,https://github.com/go-gorm/gen
+2022-05-29,go,2905,27,HttpRunner 是一个开源的 API 测试工具，支持 HTTP(S) / HTTP2 / WebSocket / RPC 等网络协议，涵盖接口测试、性能测试、数字体验监测等测试类型。简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。,httprunner,httprunner,https://github.com/httprunner/httprunner
+2022-05-29,go,6527,18,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2022-05-29,go,88778,25,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-05-29,go,7436,11,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk
+2022-05-29,go,3358,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-05-29,go,1981,12,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2022-05-29,go,10832,9,An entity framework for Go,ent,ent,https://github.com/ent/ent

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-05-29,haskell,2664,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-05-29,haskell,649,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-05-29,haskell,132,2,A graphical interactive proof assistant designed for education,liamoc,holbert,https://github.com/liamoc/holbert
+2022-05-29,haskell,26860,11,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-05-29,haskell,63,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-05-29,haskell,223,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-05-29,haskell,31,0,"This framework provides logging, benchmarking and monitoring.",input-output-hk,iohk-monitoring-framework,https://github.com/input-output-hk/iohk-monitoring-framework
+2022-05-29,haskell,266,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-05-29,haskell,163,1,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-05-29,haskell,9,0,A simple db for ingesting and indexing static datasets on disk,flipstone,kioku,https://github.com/flipstone/kioku
+2022-05-29,haskell,28850,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-05-29,haskell,93,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-05-29,haskell,2059,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-05-29,haskell,1555,2,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-05-29,haskell,18736,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-05-29,haskell,518,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-05-29,haskell,3614,0,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",facebook,duckling,https://github.com/facebook/duckling
+2022-05-29,haskell,7716,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-05-29,haskell,7,0,An Org Mode parser written in Haskell with customizable HTML exporter.,lucasvreis,org-parser,https://github.com/lucasvreis/org-parser
+2022-05-29,haskell,3,0,A compiler for sed,Roguelazer,sedc,https://github.com/Roguelazer/sedc
+2022-05-29,haskell,1373,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-05-29,haskell,2134,2,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-05-29,haskell,2531,4,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-05-29,haskell,1010,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2022-05-29,haskell,1286,3,A declarative Unix terminal UI programming library written in Haskell,jtdaugherty,brick,https://github.com/jtdaugherty/brick
