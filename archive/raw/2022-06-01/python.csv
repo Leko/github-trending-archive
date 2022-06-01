@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-01,python,19127,197,Documentation for GitHub Copilot,github,copilot-docs,https://github.com/github/copilot-docs
+2022-06-01,python,4737,20,"Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.",deepset-ai,haystack,https://github.com/deepset-ai/haystack
+2022-06-01,python,101,36,An OSINT tool to search for accounts by username in 73 social networks.,p1ngul1n0,blackbird,https://github.com/p1ngul1n0/blackbird
+2022-06-01,python,11944,12,Open source platform for the machine learning lifecycle,mlflow,mlflow,https://github.com/mlflow/mlflow
+2022-06-01,python,144,18,"a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and more.",volkandindar,agartha,https://github.com/volkandindar/agartha
+2022-06-01,python,176,43,"It embeds the executable file or payload inside the jpg file. The method the program uses isn't exactly called one of the steganography methods. For this reason, it does not cause any distortion in the JPG file. The JPG file size and payload do not have to be proportional.The JPG file is displayed normally in any viewing application or web appli…",abdulkadir-gungor,JPGtoMalware,https://github.com/abdulkadir-gungor/JPGtoMalware
+2022-06-01,python,3733,12,Hunt for security weaknesses in Kubernetes clusters,aquasecurity,kube-hunter,https://github.com/aquasecurity/kube-hunter
+2022-06-01,python,5080,8,Generic Signature Format for SIEM Systems,SigmaHQ,sigma,https://github.com/SigmaHQ/sigma
+2022-06-01,python,29176,40,Comprehensive Python Cheatsheet,gto76,python-cheatsheet,https://github.com/gto76/python-cheatsheet
+2022-06-01,python,44700,103,The world's simplest facial recognition api for Python and the command line,ageitgey,face_recognition,https://github.com/ageitgey/face_recognition
+2022-06-01,python,1757,45,DALL·E Mini - Generate images from a text prompt,borisdayma,dalle-mini,https://github.com/borisdayma/dalle-mini
+2022-06-01,python,1978,5,OpenMMLab Pose Estimation Toolbox and Benchmark.,open-mmlab,mmpose,https://github.com/open-mmlab/mmpose
+2022-06-01,python,2608,5,Solving the Traveling Salesman Problem using Self-Organizing Maps,diego-vicente,som-tsp,https://github.com/diego-vicente/som-tsp
+2022-06-01,python,19384,16,GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.,TencentARC,GFPGAN,https://github.com/TencentARC/GFPGAN
+2022-06-01,python,7795,11,"Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",PaddlePaddle,PaddleDetection,https://github.com/PaddlePaddle/PaddleDetection
+2022-06-01,python,10357,8,Redis Python Client,redis,redis-py,https://github.com/redis/redis-py
+2022-06-01,python,19923,23,Python dependency management and packaging made easy.,python-poetry,poetry,https://github.com/python-poetry/poetry
+2022-06-01,python,8299,16,100 numpy exercises (with solutions),rougier,numpy-100,https://github.com/rougier/numpy-100
+2022-06-01,python,24947,59,"Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",bregman-arie,devops-exercises,https://github.com/bregman-arie/devops-exercises
+2022-06-01,python,64372,28,The Web framework for perfectionists with deadlines.,django,django,https://github.com/django/django
+2022-06-01,python,3356,6,A Collection of Variational Autoencoders (VAE) in PyTorch.,AntixK,PyTorch-VAE,https://github.com/AntixK/PyTorch-VAE
+2022-06-01,python,17020,13,"A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.",cookiecutter,cookiecutter,https://github.com/cookiecutter/cookiecutter
+2022-06-01,python,2469,4,"OpenMMLab Text Detection, Recognition and Understanding Toolbox",open-mmlab,mmocr,https://github.com/open-mmlab/mmocr
+2022-06-01,python,55309,15,Deep Learning for humans,keras-team,keras,https://github.com/keras-team/keras
+2022-06-01,python,1618,4,"Transfer Learning Library for Domain Adaptation, Task Adaptation, and Domain Generalization",thuml,Transfer-Learning-Library,https://github.com/thuml/Transfer-Learning-Library

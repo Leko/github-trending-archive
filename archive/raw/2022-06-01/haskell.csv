@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-01,haskell,28891,17,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-06-01,haskell,651,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-06-01,haskell,2665,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-06-01,haskell,7722,3,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-06-01,haskell,1817,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-06-01,haskell,25604,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-06-01,haskell,26891,12,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-06-01,haskell,44,0,being an operating system for typechecking processes,msp-strath,TypOS,https://github.com/msp-strath/TypOS
+2022-06-01,haskell,772,0,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-06-01,haskell,266,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-06-01,haskell,93,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-06-01,haskell,1831,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-06-01,haskell,1565,4,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-06-01,haskell,18747,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-06-01,haskell,223,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-06-01,haskell,620,3,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-06-01,haskell,144,0,A simple library for reporting compiler/interpreter errors,Mesabloo,diagnose,https://github.com/Mesabloo/diagnose
+2022-06-01,haskell,4,0,"Drop-in replacement for the base library, to use with Liquid Haskell",liquidhaskell,liquid-base,https://github.com/liquidhaskell/liquid-base
+2022-06-01,haskell,2060,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-06-01,haskell,28,1,A wrapper around Text for fast line/column navigation and logarithmic concatenation,Bodigrim,text-rope,https://github.com/Bodigrim/text-rope
+2022-06-01,haskell,42,0,Low level Haskell bindings for SFML 2.x,SFML-haskell,SFML,https://github.com/SFML-haskell/SFML
+2022-06-01,haskell,194,1,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-06-01,haskell,25,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2022-06-01,haskell,1583,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2022-06-01,haskell,742,0,Haskell Web Application Interface,yesodweb,wai,https://github.com/yesodweb/wai
