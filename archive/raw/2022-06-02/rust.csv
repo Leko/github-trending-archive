@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-02,rust,2242,154,The serverless open source alternative to AWS Aurora Postgres.,neondatabase,neon,https://github.com/neondatabase/neon
+2022-06-02,rust,9441,53,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-06-02,rust,3120,21,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-06-02,rust,6405,13,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2022-06-02,rust,7493,25,All Algorithms implemented in Rust,TheAlgorithms,Rust,https://github.com/TheAlgorithms/Rust
+2022-06-02,rust,27047,39,"Powerful, fast, and an easy to use search engine",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-06-02,rust,244,14,GaiaX dynamic template engine is a lightweight cross-platform solution of pure native dynamic card.,alibaba,GaiaX,https://github.com/alibaba/GaiaX
+2022-06-02,rust,7052,4,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-06-02,rust,110,5,Subspace Network reference implementation,subspace,subspace,https://github.com/subspace/subspace
+2022-06-02,rust,1149,6,"Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.",influxdata,influxdb_iox,https://github.com/influxdata/influxdb_iox
+2022-06-02,rust,41702,86,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-06-02,rust,13058,8,Cube — Headless Business Intelligence for Building Data Applications,cube-js,cube.js,https://github.com/cube-js/cube.js
+2022-06-02,rust,8438,4,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2022-06-02,rust,7586,7,"Standalone JIT-style runtime for WebAssembly, using Cranelift",bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-06-02,rust,6570,13,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
+2022-06-02,rust,3803,13,A modern Python application packaging and distribution tool,indygreg,PyOxidizer,https://github.com/indygreg/PyOxidizer
+2022-06-02,rust,6719,21,Rayon: A data parallelism library for Rust,rayon-rs,rayon,https://github.com/rayon-rs/rayon
+2022-06-02,rust,9965,13,A retro game engine for Python,kitao,pyxel,https://github.com/kitao/pyxel
+2022-06-02,rust,7746,10,The next gen ls command,Peltoche,lsd,https://github.com/Peltoche/lsd
+2022-06-02,rust,4000,11,"A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. https://app.databend.com/",datafuselabs,databend,https://github.com/datafuselabs/databend
+2022-06-02,rust,3945,9,"Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",vi,websocat,https://github.com/vi/websocat
+2022-06-02,rust,8069,15,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-06-02,rust,6638,10,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2022-06-02,rust,71,3,"Example implementations of money-like tokens, where one token is the same as any other, using the NEP-141 spec (similar to ERC-20)",near-examples,FT,https://github.com/near-examples/FT
+2022-06-02,rust,7650,34,Build terminal user interfaces and dashboards using Rust,fdehau,tui-rs,https://github.com/fdehau/tui-rs
