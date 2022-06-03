@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-03,go,8212,45,即时通讯IM,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-06-03,go,4731,21,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2022-06-03,go,1151,11,The Optimism monorepo,ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-06-03,go,4630,17,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2022-06-03,go,10875,10,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2022-06-03,go,31471,18,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup",pingcap,tidb,https://github.com/pingcap/tidb
+2022-06-03,go,14008,24,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-06-03,go,17253,18,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2022-06-03,go,8924,7,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2022-06-03,go,5473,47,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-06-03,go,3541,5,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2022-06-03,go,1839,6,Kubernetes controller for GitHub Actions self-hosted runners,actions-runner-controller,actions-runner-controller,https://github.com/actions-runner-controller/actions-runner-controller
+2022-06-03,go,42761,18,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-06-03,go,4593,53,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2022-06-03,go,11573,5,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-06-03,go,4818,7,A Chaos Engineering Platform for Kubernetes.,chaos-mesh,chaos-mesh,https://github.com/chaos-mesh/chaos-mesh
+2022-06-03,go,4329,18,"High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com",ddosify,ddosify,https://github.com/ddosify/ddosify
+2022-06-03,go,164,4,青龙面板的变量第三方手动/半自动提交（上传）管理中间件,nuanxinqing123,QLTools,https://github.com/nuanxinqing123/QLTools
+2022-06-03,go,1407,11,"Zadig is a cloud native, distributed, developer-oriented continuous delivery product.",koderover,zadig,https://github.com/koderover/zadig
+2022-06-03,go,15957,14,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-06-03,go,30420,12,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2022-06-03,go,2893,1,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-06-03,go,7639,2,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-06-03,go,13425,17,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-06-03,go,24199,8,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
