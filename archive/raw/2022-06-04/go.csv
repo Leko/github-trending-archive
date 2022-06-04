@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-04,go,5565,83,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-06-04,go,10075,72,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2022-06-04,go,32826,26,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-06-04,go,16128,9,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-06-04,go,13433,8,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-06-04,go,1155,5,The Optimism monorepo,ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-06-04,go,24206,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-06-04,go,7335,3,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-06-04,go,11126,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-06-04,go,18064,16,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2022-06-04,go,5816,8,A simple RPC framework with protobuf service definitions,twitchtv,twirp,https://github.com/twitchtv/twirp
+2022-06-04,go,5502,1,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-06-04,go,59771,27,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-06-04,go,12036,8,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-06-04,go,7495,5,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2022-06-04,go,6785,31,Real-time microphone noise suppression on Linux.,noisetorch,NoiseTorch,https://github.com/noisetorch/NoiseTorch
+2022-06-04,go,635,121,"Simple, reliable, interoperable. A better gRPC.",bufbuild,connect-go,https://github.com/bufbuild/connect-go
+2022-06-04,go,16961,13,Cross platform GUI in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2022-06-04,go,14021,16,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-06-04,go,10361,1,ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:,dgrijalva,jwt-go,https://github.com/dgrijalva/jwt-go
+2022-06-04,go,16188,14,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2022-06-04,go,1885,1,Elastic Cloud on Kubernetes,elastic,cloud-on-k8s,https://github.com/elastic/cloud-on-k8s
+2022-06-04,go,12600,7,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",ory,hydra,https://github.com/ory/hydra
+2022-06-04,go,4636,6,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2022-06-04,go,415,7,Manages Envoy Proxy as a standalone or Kubernetes-based application gateway,envoyproxy,gateway,https://github.com/envoyproxy/gateway
