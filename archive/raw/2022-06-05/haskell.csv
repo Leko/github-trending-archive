@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-05,haskell,26931,11,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-06-05,haskell,2672,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-06-05,haskell,2065,3,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-06-05,haskell,1381,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-06-05,haskell,653,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-06-05,haskell,1143,7,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-06-05,haskell,673,11,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-06-05,haskell,4411,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-06-05,haskell,1569,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-06-05,haskell,8,0,Genetic Algorithm based randomized testing,input-output-hk,goblins,https://github.com/input-output-hk/goblins
+2022-06-05,haskell,5,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-06-05,haskell,163,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-06-05,haskell,3325,1,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-06-05,haskell,11,0,A protolude-based custom prelude for the Cardano project,input-output-hk,cardano-prelude,https://github.com/input-output-hk/cardano-prelude
+2022-06-05,haskell,31,0,"This framework provides logging, benchmarking and monitoring.",input-output-hk,iohk-monitoring-framework,https://github.com/input-output-hk/iohk-monitoring-framework
+2022-06-05,haskell,4,0,Networking library for Windows,input-output-hk,Win32-network,https://github.com/input-output-hk/Win32-network
+2022-06-05,haskell,519,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-06-05,haskell,369,1,"An easy to use, cross platform, GUI library for writing Haskell applications.",fjvallarino,monomer,https://github.com/fjvallarino/monomer
+2022-06-05,haskell,18759,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-06-05,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-06-05,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-06-05,haskell,36,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-06-05,haskell,35,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-06-05,haskell,44,1,Modern OS Development wiki.,osdev-wiki,wiki,https://github.com/osdev-wiki/wiki
+2022-06-05,haskell,28925,9,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck

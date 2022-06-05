@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-05,go,5694,139,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-06-05,go,2032,61,Cross-cloud cost allocation models for Kubernetes workloads,kubecost,opencost,https://github.com/kubecost/opencost
+2022-06-05,go,2024,7,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2022-06-05,go,5307,5,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2022-06-05,go,24208,2,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-06-05,go,45046,14,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-06-05,go,21926,6,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-06-05,go,32838,12,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-06-05,go,7054,1,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-06-05,go,683,48,"Simple, reliable, interoperable. A better gRPC.",bufbuild,connect-go,https://github.com/bufbuild/connect-go
+2022-06-05,go,1705,0,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2022-06-05,go,105,8,Checks all maintainers of all NPM packages for hijackable domains,firefart,npmdomainchecker,https://github.com/firefart/npmdomainchecker
+2022-06-05,go,27750,23,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2022-06-05,go,6348,5,Concourse is a container-based continuous thing-doer written in Go.,concourse,concourse,https://github.com/concourse/concourse
+2022-06-05,go,1724,5,A PostgreSQL metric exporter for Prometheus,prometheus-community,postgres_exporter,https://github.com/prometheus-community/postgres_exporter
+2022-06-05,go,11131,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-06-05,go,37688,13,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-06-05,go,7645,2,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-06-05,go,13442,10,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-06-05,go,11555,10,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2022-06-05,go,2631,10,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2022-06-05,go,8722,95,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-06-05,go,16655,16,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2022-06-05,go,858,3,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2022-06-05,go,23037,7,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server

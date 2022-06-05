@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-05,rust,8723,12,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2022-06-05,rust,8695,16,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-06-05,rust,21205,62,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-06-05,rust,2267,6,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-06-05,rust,7611,9,A bunch of lints to catch common mistakes and improve your Rust code,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2022-06-05,rust,2780,149,Experimental real-time global illumination renderer,EmbarkStudios,kajiya,https://github.com/EmbarkStudios/kajiya
+2022-06-05,rust,121,7,Subspace Network reference implementation,subspace,subspace,https://github.com/subspace/subspace
+2022-06-05,rust,193,54,"Duf is a simple file server. Support static serve, search, upload, webdav...",sigoden,duf,https://github.com/sigoden/duf
+2022-06-05,rust,4445,9,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2022-06-05,rust,16535,12,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-06-05,rust,3571,39,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-06-05,rust,16996,7,Relay is a JavaScript framework for building data-driven React applications.,facebook,relay,https://github.com/facebook/relay
+2022-06-05,rust,23184,35,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2022-06-05,rust,2639,14,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2022-06-05,rust,6657,6,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2022-06-05,rust,703,6,A user interface for Windows 10 filesystem compression,Freaky,Compactor,https://github.com/Freaky/Compactor
+2022-06-05,rust,3673,6,阿里云盘 WebDAV 服务,messense,aliyundrive-webdav,https://github.com/messense/aliyundrive-webdav
+2022-06-05,rust,14119,13,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2022-06-05,rust,9411,14,The Rust Programming Language,rust-lang,book,https://github.com/rust-lang/book
+2022-06-05,rust,6510,16,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2022-06-05,rust,11605,30,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-06-05,rust,2074,2,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-06-05,rust,13088,18,Cube — Headless Business Intelligence for Building Data Applications,cube-js,cube.js,https://github.com/cube-js/cube.js
+2022-06-05,rust,16316,12,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-06-05,rust,1890,14,Cloud-native search engine for log management & analytics,quickwit-oss,quickwit,https://github.com/quickwit-oss/quickwit
