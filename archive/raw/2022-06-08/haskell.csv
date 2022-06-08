@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-08,haskell,2677,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-06-08,haskell,26954,8,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-06-08,haskell,4545,1,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-06-08,haskell,29,7,,dfithian,chez-grater,https://github.com/dfithian/chez-grater
+2022-06-08,haskell,0,0,Simula operaciones de memoria y caché a partir de datos extraídos de sesiones GAP,jsoffer,gapsim,https://github.com/jsoffer/gapsim
+2022-06-08,haskell,1548,0,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-06-08,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-06-08,haskell,36,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-06-08,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-06-08,haskell,38,1,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-06-08,haskell,5,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-06-08,haskell,52,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-06-08,haskell,1834,5,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-06-08,haskell,1376,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-06-08,haskell,11,0,"A toy JS to ARM assembly compiler, in Haskell",micahcantor,comp-to-assembly-from-scratch-hs,https://github.com/micahcantor/comp-to-assembly-from-scratch-hs
+2022-06-08,haskell,6976,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-06-08,haskell,0,0,Playing around with Haskell.,mooseman,Haskell,https://github.com/mooseman/Haskell
+2022-06-08,haskell,1,0,,saiias,Scheme-Interpreter-on-Haskell,https://github.com/saiias/Scheme-Interpreter-on-Haskell
+2022-06-08,haskell,18774,8,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-06-08,haskell,653,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-06-08,haskell,197,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-06-08,haskell,69,0,Typed eDSL for writing UPLC /ˈpluː.tɑːk/,Plutonomicon,plutarch,https://github.com/Plutonomicon/plutarch
+2022-06-08,haskell,1574,3,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-06-08,haskell,0,0,,Diamondy4,persistent-clickhouse,https://github.com/Diamondy4/persistent-clickhouse
+2022-06-08,haskell,2445,1,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
