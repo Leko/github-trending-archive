@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-09,go,59948,83,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-06-09,go,18142,27,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2022-06-09,go,5054,7,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2022-06-09,go,8595,4,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-06-09,go,12134,19,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-06-09,go,275,56,A DNS server that offers useful utilities and services over the DNS protocol.,knadh,dns.toys,https://github.com/knadh/dns.toys
+2022-06-09,go,10798,123,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2022-06-09,go,7356,4,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-06-09,go,40132,16,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2022-06-09,go,100268,157,The Go programming language,golang,go,https://github.com/golang/go
+2022-06-09,go,2171,8,Container Signing,sigstore,cosign,https://github.com/sigstore/cosign
+2022-06-09,go,9528,13,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-06-09,go,938,8,The Terraform plugin for the Dominos Pizza provider.,nat-henderson,terraform-provider-dominos,https://github.com/nat-henderson/terraform-provider-dominos
+2022-06-09,go,89144,41,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-06-09,go,8857,6,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",tinode,chat,https://github.com/tinode/chat
+2022-06-09,go,5224,6,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
+2022-06-09,go,3764,6,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2022-06-09,go,19276,8,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-06-09,go,2900,1,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-06-09,go,18125,26,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-06-09,go,7809,21,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2022-06-09,go,30470,9,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2022-06-09,go,18453,13,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-06-09,go,6400,10,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2022-06-09,go,5912,39,"A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",alist-org,alist,https://github.com/alist-org/alist

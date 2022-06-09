@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-09,scala,3312,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-06-09,scala,1613,9,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-06-09,scala,2275,7,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-06-09,scala,33076,15,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-06-09,scala,11554,6,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-06-09,scala,4423,9,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-06-09,scala,2569,3,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-06-09,scala,2319,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-06-09,scala,1710,2,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-06-09,scala,25,2,An OpenTelemetry library for Scala based on Cats-Effect,typelevel,otel4s,https://github.com/typelevel/otel4s
+2022-06-09,scala,12138,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-06-09,scala,802,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-06-09,scala,987,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-06-09,scala,12239,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-06-09,scala,2531,1,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-06-09,scala,1134,1,SonicBOOM: The Berkeley Out-of-Order Machine,riscv-boom,riscv-boom,https://github.com/riscv-boom/riscv-boom
+2022-06-09,scala,1079,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-06-09,scala,2324,1,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2022-06-09,scala,13769,2,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-06-09,scala,4513,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-06-09,scala,6103,1,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-06-09,scala,2328,2,"A V2Ray, Trojan, ShadowsocksR client for Android",xxf098,shadowsocksr-v2ray-trojan-android,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+2022-06-09,scala,462,0,Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes,FasterXML,jackson-module-scala,https://github.com/FasterXML/jackson-module-scala
+2022-06-09,scala,2756,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-06-09,scala,1,0,,polomarcus,tp,https://github.com/polomarcus/tp
