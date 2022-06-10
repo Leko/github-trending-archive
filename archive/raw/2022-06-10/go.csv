@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-10,go,12356,40,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-06-10,go,3767,5,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2022-06-10,go,5683,9,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2022-06-10,go,9902,13,"A scalable overlay networking tool with a focus on performance, simplicity and security",slackhq,nebula,https://github.com/slackhq/nebula
+2022-06-10,go,16118,10,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-06-10,go,7664,10,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-06-10,go,7137,1,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-06-10,go,5309,7,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2022-06-10,go,12642,16,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",ory,hydra,https://github.com/ory/hydra
+2022-06-10,go,5789,3,Go library for decoding generic map values into native Go structures and vice versa.,mitchellh,mapstructure,https://github.com/mitchellh/mapstructure
+2022-06-10,go,2295,7,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2022-06-10,go,11157,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-06-10,go,60023,109,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-06-10,go,5308,12,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2022-06-10,go,990,17,GoFound GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用使用http接口调用，集成Admin管理界面，任何系统都可以使用。,newpanjing,gofound,https://github.com/newpanjing/gofound
+2022-06-10,go,5724,2,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-06-10,go,19288,12,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-06-10,go,6302,4,A vault for securely storing and accessing AWS credentials in development environments,99designs,aws-vault,https://github.com/99designs/aws-vault
+2022-06-10,go,4087,9,Arbitrary-precision fixed-point decimal numbers in go,shopspring,decimal,https://github.com/shopspring/decimal
+2022-06-10,go,3053,17,HttpRunner 是一个开源的 API 测试工具，支持 HTTP(S) / HTTP2 / WebSocket / RPC 等网络协议，涵盖接口测试、性能测试、数字体验监测等测试类型。简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。,httprunner,httprunner,https://github.com/httprunner/httprunner
+2022-06-10,go,7361,7,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-06-10,go,366,93,A DNS server that offers useful utilities and services over the DNS protocol.,knadh,dns.toys,https://github.com/knadh/dns.toys
+2022-06-10,go,1149,6,The SPIFFE Runtime Environment,spiffe,spire,https://github.com/spiffe/spire
+2022-06-10,go,10615,14,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",geektutu,7days-golang,https://github.com/geektutu/7days-golang
+2022-06-10,go,33542,16,Multi-Cloud  Object Storage,minio,minio,https://github.com/minio/minio
