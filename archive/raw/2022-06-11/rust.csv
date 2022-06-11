@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-11,rust,12069,116,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-06-11,rust,2845,47,Upgrade everything,r-darwish,topgrade,https://github.com/r-darwish/topgrade
+2022-06-11,rust,82,14,usbsas is a tool and framework for securely reading untrusted USB mass storage devices.,cea-sec,usbsas,https://github.com/cea-sec/usbsas
+2022-06-11,rust,4500,13,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2022-06-11,rust,26785,22,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-06-11,rust,10383,10,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-06-11,rust,42201,67,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-06-11,rust,8802,7,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2022-06-11,rust,6151,7,Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2022-06-11,rust,7230,19,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2022-06-11,rust,6651,29,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2022-06-11,rust,11418,14,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2022-06-11,rust,1826,14,Qdrant - vector similarity search engine with extended filtering support,qdrant,qdrant,https://github.com/qdrant/qdrant
+2022-06-11,rust,6707,13,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2022-06-11,rust,9270,14,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2022-06-11,rust,2140,5,Solana Sealevel Framework,project-serum,anchor,https://github.com/project-serum/anchor
+2022-06-11,rust,19425,6,A modern editor with a backend written in Rust.,xi-editor,xi-editor,https://github.com/xi-editor/xi-editor
+2022-06-11,rust,12292,14,The leading WebAssembly Runtime supporting WASI and Emscripten,wasmerio,wasmer,https://github.com/wasmerio/wasmer
+2022-06-11,rust,17025,5,Relay is a JavaScript framework for building data-driven React applications.,facebook,relay,https://github.com/facebook/relay
+2022-06-11,rust,972,10,framework for composable networking services,ntex-rs,ntex,https://github.com/ntex-rs/ntex
+2022-06-11,rust,1360,6,Raw bindings to platform APIs for Rust,rust-lang,libc,https://github.com/rust-lang/libc
+2022-06-11,rust,10110,17,a structural diff that understands syntax,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2022-06-11,rust,1079,5,Private payments for mobile devices.,mobilecoinfoundation,mobilecoin,https://github.com/mobilecoinfoundation/mobilecoin
+2022-06-11,rust,31379,18,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2022-06-11,rust,82834,20,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
