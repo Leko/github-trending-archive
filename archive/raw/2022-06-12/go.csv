@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-12,go,6589,259,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2022-06-12,go,246,73,A tool for provisioning self-hosted development environments with Terraform,coder,coder,https://github.com/coder/coder
+2022-06-12,go,6550,9,Ebitengine - A dead simple 2D game library for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2022-06-12,go,100478,65,The Go programming language,golang,go,https://github.com/golang/go
+2022-06-12,go,16226,73,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-06-12,go,609,189,A DNS server that offers useful utilities and services over the DNS protocol.,knadh,dns.toys,https://github.com/knadh/dns.toys
+2022-06-12,go,645,6,An automated e-mail OSINT tool,alpkeskin,mosint,https://github.com/alpkeskin/mosint
+2022-06-12,go,11219,6,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-06-12,go,17056,18,Cross platform GUI in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2022-06-12,go,4670,2,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2022-06-12,go,18273,30,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-06-12,go,12444,12,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-06-12,go,3741,13,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2022-06-12,go,7368,4,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-06-12,go,42887,16,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-06-12,go,16187,11,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-06-12,go,60064,24,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-06-12,go,18061,8,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-06-12,go,21703,9,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2022-06-12,go,7682,6,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-06-12,go,14625,9,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-06-12,go,2670,4,"Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",CrunchyData,postgres-operator,https://github.com/CrunchyData/postgres-operator
+2022-06-12,go,1155,0,The SPIFFE Runtime Environment,spiffe,spire,https://github.com/spiffe/spire
+2022-06-12,go,1450,5,EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具,EdgeSecurityTeam,EHole,https://github.com/EdgeSecurityTeam/EHole
+2022-06-12,go,5695,6,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk

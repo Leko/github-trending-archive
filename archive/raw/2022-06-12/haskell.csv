@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-12,haskell,27163,8,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-06-12,haskell,7001,8,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-06-12,haskell,28983,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-06-12,haskell,2074,4,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-06-12,haskell,653,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-06-12,haskell,5,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-06-12,haskell,521,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-06-12,haskell,705,6,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-06-12,haskell,731,0,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2022-06-12,haskell,174,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-06-12,haskell,1380,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-06-12,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-06-12,haskell,52,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-06-12,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-06-12,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-06-12,haskell,1556,0,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-06-12,haskell,21,1,Decentralized applicaton backend for Cardano.,cardano-foundation,dab,https://github.com/cardano-foundation/dab
+2022-06-12,haskell,6864,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-06-12,haskell,12,0,Yet another Blog engine written in Haskell powered by yesod.,konn,Yablog,https://github.com/konn/Yablog
+2022-06-12,haskell,93,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-06-12,haskell,4421,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-06-12,haskell,890,1,Simple clipboard manager to be integrated with rofi - Static binary available,erebe,greenclip,https://github.com/erebe/greenclip
+2022-06-12,haskell,163,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-06-12,haskell,37,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-06-12,haskell,25734,7,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc

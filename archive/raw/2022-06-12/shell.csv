@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-12,shell,2453,14,"Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/T…",kiddin9,OpenWrt_x86-r2s-r4s-r5s-N1,https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1
+2022-06-12,shell,3194,2,Docker Official Image packaging for PHP,docker-library,php,https://github.com/docker-library/php
+2022-06-12,shell,1550,17,"Hestia Control Panel | A lightweight and powerful control panel for the modern web.",hestiacp,hestiacp,https://github.com/hestiacp/hestiacp
+2022-06-12,shell,3384,5,A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-06-12,shell,1810,0,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-06-12,shell,95,7,A bash script to build a minimal linux operating system just to play Doom.,shadlyd15,DoomLinux,https://github.com/shadlyd15/DoomLinux
+2022-06-12,shell,1308,5,Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting,screetsec,Sudomy,https://github.com/screetsec/Sudomy
+2022-06-12,shell,10149,0,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2022-06-12,shell,66227,18,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
+2022-06-12,shell,3463,2,CloudEvents Specification,cloudevents,spec,https://github.com/cloudevents/spec
+2022-06-12,shell,6123,0,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2022-06-12,shell,71,9,Repository for the MassOS operating system.,MassOS-Linux,MassOS,https://github.com/MassOS-Linux/MassOS
+2022-06-12,shell,1095,6,"Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.",PurpurMC,Purpur,https://github.com/PurpurMC/Purpur
+2022-06-12,shell,16245,20,binary releases of VS Code without MS branding/telemetry/licensing,VSCodium,vscodium,https://github.com/VSCodium/vscodium
+2022-06-12,shell,6627,3,Some setup scripts for security research tools.,zardus,ctf-tools,https://github.com/zardus/ctf-tools
+2022-06-12,shell,7571,3,Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本,wulabing,Xray_onekey,https://github.com/wulabing/Xray_onekey
+2022-06-12,shell,31165,16,A collection of pure bash alternatives to external processes.,dylanaraps,pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible
+2022-06-12,shell,14608,20,Default configuration for Le Wagon's students,lewagon,dotfiles,https://github.com/lewagon/dotfiles
+2022-06-12,shell,3179,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-06-12,shell,497,0,"docker-compose.yml files for cp-all-in-one , cp-all-in-one-community, cp-all-in-one-cloud, Apache Kafka Confluent Platform",confluentinc,cp-all-in-one,https://github.com/confluentinc/cp-all-in-one
+2022-06-12,shell,1622,0,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
+2022-06-12,shell,3215,2,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-06-12,shell,68,0,,kj89,testnet_manuals,https://github.com/kj89/testnet_manuals
+2022-06-12,shell,760,0,基于 Lean&Lienol 源码的 NanoPi R4S 的 OpenWrt 固件。每天自动更新插件和内核，Fusion编译法,DHDAXCW,NanoPi-R4S,https://github.com/DHDAXCW/NanoPi-R4S
+2022-06-12,shell,14709,10,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
