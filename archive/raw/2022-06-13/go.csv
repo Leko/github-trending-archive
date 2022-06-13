@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-13,go,810,209,A DNS server that offers useful utilities and services over the DNS protocol.,knadh,dns.toys,https://github.com/knadh/dns.toys
+2022-06-13,go,371,126,Remote development environments on your infrastructure,coder,coder,https://github.com/coder/coder
+2022-06-13,go,57121,26,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-06-13,go,3100,5,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-06-13,go,1172,2,The community maintained Solana token registry,solana-labs,token-list,https://github.com/solana-labs/token-list
+2022-06-13,go,1504,14,"gowitness - a golang, web screenshot utility using Chrome Headless",sensepost,gowitness,https://github.com/sensepost/gowitness
+2022-06-13,go,32973,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-06-13,go,488,26,Active Directory & Red-Team Cheat-Sheet in constant expansion.,RistBS,Awesome-RedTeam-Cheatsheet,https://github.com/RistBS/Awesome-RedTeam-Cheatsheet
+2022-06-13,go,10667,23,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",FiloSottile,age,https://github.com/FiloSottile/age
+2022-06-13,go,262,1,本仓库仅经典303的一键安装脚本，一键安装+开防火墙+改连接数+自启动守护 矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理。,GoMinerTool,MinerProxy303,https://github.com/GoMinerTool/MinerProxy303
+2022-06-13,go,46,16,一个基于go语言实现的内存缓存，通过lru算法实现定时任务、异步任务、singleflight等内容，使用者可以基于此组件代替redis旁路由相关功能获取更好的性能,mongofs,scache,https://github.com/mongofs/scache
+2022-06-13,go,6568,18,Ebitengine - A dead simple 2D game library for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2022-06-13,go,6702,114,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2022-06-13,go,17075,22,Cross platform GUI in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2022-06-13,go,28034,41,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-06-13,go,390,12,Keyless Git signing using Sigstore,sigstore,gitsign,https://github.com/sigstore/gitsign
+2022-06-13,go,11168,9,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-06-13,go,363,3,基于 ZeroBot 的 OneBot 插件,FloatTech,ZeroBot-Plugin,https://github.com/FloatTech/ZeroBot-Plugin
+2022-06-13,go,86,3,,Azure,draft,https://github.com/Azure/draft
+2022-06-13,go,82019,62,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-06-13,go,4411,3,A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.,cloudwego,kitex,https://github.com/cloudwego/kitex
+2022-06-13,go,8824,14,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2022-06-13,go,3766,26,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2022-06-13,go,26242,10,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-06-13,go,8975,10,kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.0,labring,sealos,https://github.com/labring/sealos

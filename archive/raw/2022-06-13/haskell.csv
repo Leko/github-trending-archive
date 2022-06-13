@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-13,haskell,2074,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-06-13,haskell,2684,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-06-13,haskell,2562,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-06-13,haskell,708,3,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-06-13,haskell,1839,0,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-06-13,haskell,1012,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2022-06-13,haskell,7005,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-06-13,haskell,1841,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-06-13,haskell,2337,0,What I Wish I Knew When Learning Haskell,sdiehl,wiwinwlh,https://github.com/sdiehl/wiwinwlh
+2022-06-13,haskell,176,2,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-06-13,haskell,2,0,,Liqwid-Labs,liqwid-plutarch-extra,https://github.com/Liqwid-Labs/liqwid-plutarch-extra
+2022-06-13,haskell,1381,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-06-13,haskell,166,0,Web3 API for Haskell.,airalab,hs-web3,https://github.com/airalab/hs-web3
+2022-06-13,haskell,3722,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-06-13,haskell,37,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-06-13,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-06-13,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-06-13,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-06-13,haskell,52,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-06-13,haskell,1578,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-06-13,haskell,4421,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-06-13,haskell,18797,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-06-13,haskell,197,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-06-13,haskell,521,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-06-13,haskell,6863,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
