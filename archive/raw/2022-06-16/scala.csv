@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-16,scala,10861,4,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-06-16,scala,4447,3,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-06-16,scala,33140,13,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-06-16,scala,4994,3,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-06-16,scala,2765,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-06-16,scala,723,3,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-06-16,scala,996,3,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-06-16,scala,3396,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-06-16,scala,2579,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-06-16,scala,12254,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-06-16,scala,3321,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-06-16,scala,8673,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-06-16,scala,17,0,A Scala SDK for interfacing with HashiCorp's Nomad,hashicorp,nomad-scala-sdk,https://github.com/hashicorp/nomad-scala-sdk
+2022-06-16,scala,5544,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-06-16,scala,914,0,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-06-16,scala,1085,0,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-06-16,scala,426,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-06-16,scala,1350,1,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2022-06-16,scala,1047,0,CSV Data Source for Apache Spark 1.x,databricks,spark-csv,https://github.com/databricks/spark-csv
+2022-06-16,scala,11,0,,databricks,tableau-connector,https://github.com/databricks/tableau-connector
+2022-06-16,scala,479,0,,databricks,spark-sql-perf,https://github.com/databricks/spark-sql-perf
+2022-06-16,scala,37,0,,databricks,devbox,https://github.com/databricks/devbox
+2022-06-16,scala,61,0,Integration tests for Spark,databricks,spark-integration-tests,https://github.com/databricks/spark-integration-tests
+2022-06-16,scala,652,0,Spark reference applications,databricks,reference-apps,https://github.com/databricks/reference-apps
+2022-06-16,scala,71,0,An sbt plugin for deploying code to Databricks Cloud,databricks,sbt-databricks,https://github.com/databricks/sbt-databricks

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-16,haskell,2689,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-06-16,haskell,27195,9,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-06-16,haskell,7020,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-06-16,haskell,25776,9,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-06-16,haskell,5,0,Updatable one-shot timer polled with STM (Haskell),joeyadams,haskell-stm-delay,https://github.com/joeyadams/haskell-stm-delay
+2022-06-16,haskell,18810,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-06-16,haskell,1575,13,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-06-16,haskell,655,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-06-16,haskell,23,7,Tie allows generation of Haskell server stubs from OpenAPI (v 3.x) specifications.,scarf-sh,tie,https://github.com/scarf-sh/tie
+2022-06-16,haskell,225,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-06-16,haskell,68,0,,haskell,error-messages,https://github.com/haskell/error-messages
+2022-06-16,haskell,735,1,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2022-06-16,haskell,22,1,A Teeny Type Theory,TOTBWF,teenytt,https://github.com/TOTBWF/teenytt
+2022-06-16,haskell,236,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-06-16,haskell,1056,0,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-06-16,haskell,166,0,Web3 API for Haskell.,airalab,hs-web3,https://github.com/airalab/hs-web3
+2022-06-16,haskell,2079,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-06-16,haskell,1850,6,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-06-16,haskell,23,2,Decentralized applicaton backend for Cardano.,cardano-foundation,dab,https://github.com/cardano-foundation/dab
+2022-06-16,haskell,8369,1,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-06-16,haskell,1,0,parses rtf files and makes report from template,egorrrr,word,https://github.com/egorrrr/word
+2022-06-16,haskell,2053,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-06-16,haskell,2570,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-06-16,haskell,163,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-06-16,haskell,1015,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
