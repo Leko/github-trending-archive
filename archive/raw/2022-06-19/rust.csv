@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-19,rust,22382,119,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-06-19,rust,43464,348,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-06-19,rust,515,97,The TAO of cross-platform windowing. A library in Rust built for Tauri.,tauri-apps,tao,https://github.com/tauri-apps/tao
+2022-06-19,rust,1121,16,RustDesk Server Program,rustdesk,rustdesk-server,https://github.com/rustdesk/rustdesk-server
+2022-06-19,rust,3325,35,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-06-19,rust,1718,17,Applied offensive security with Rust - https://kerkour.com/black-hat-rust,skerkour,black-hat-rust,https://github.com/skerkour/black-hat-rust
+2022-06-19,rust,526,35,Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.,Yamato-Security,hayabusa,https://github.com/Yamato-Security/hayabusa
+2022-06-19,rust,1582,17,Cross-platform WebView library in Rust for Tauri.,tauri-apps,wry,https://github.com/tauri-apps/wry
+2022-06-19,rust,12408,21,The leading WebAssembly Runtime supporting WASI and Emscripten,wasmerio,wasmer,https://github.com/wasmerio/wasmer
+2022-06-19,rust,357,5,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-06-19,rust,14940,8,"x86 virtualization in your browser, recompiling x86 to wasm on the fly",copy,v86,https://github.com/copy/v86
+2022-06-19,rust,10456,3,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-06-19,rust,22420,28,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy,https://github.com/AppFlowy-IO/AppFlowy
+2022-06-19,rust,27473,19,"An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-06-19,rust,1584,6,The Jakt Programming Language,SerenityOS,jakt,https://github.com/SerenityOS/jakt
+2022-06-19,rust,1038,30,"CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.",CeresDB,ceresdb,https://github.com/CeresDB/ceresdb
+2022-06-19,rust,1182,7,"Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.",influxdata,influxdb_iox,https://github.com/influxdata/influxdb_iox
+2022-06-19,rust,412,59,ReadySet is a lightweight SQL caching engine that helps developers enhance the performance and scalability of existing applications.,readysettech,readyset,https://github.com/readysettech/readyset
+2022-06-19,rust,631,28,"Duf is a simple file server. Support static serve, search, upload, webdav...",sigoden,duf,https://github.com/sigoden/duf
+2022-06-19,rust,6288,20,"Ping, but with a graph",orf,gping,https://github.com/orf/gping
+2022-06-19,rust,6419,14,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-06-19,rust,12034,25,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2022-06-19,rust,17575,9,A web framework for Rust.,SergioBenitez,Rocket,https://github.com/SergioBenitez/Rocket
+2022-06-19,rust,8188,6,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-06-19,rust,3492,5,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
