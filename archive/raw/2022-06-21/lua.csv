@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-21,lua,144,33,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
+2022-06-21,lua,4748,4,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-06-21,lua,1298,1,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-06-21,lua,6084,16,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-06-21,lua,10726,9,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-06-21,lua,3070,10,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-06-21,lua,995,7,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-06-21,lua,2639,8,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-06-21,lua,606,2,lua `fork` of vim-web-devicons for neovim,kyazdani42,nvim-web-devicons,https://github.com/kyazdani42/nvim-web-devicons
+2022-06-21,lua,1425,2,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2022-06-21,lua,324,59,"Not UFO in the sky, but an ultra fold in Neovim.",kevinhwang91,nvim-ufo,https://github.com/kevinhwang91/nvim-ufo
+2022-06-21,lua,10306,19,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-06-21,lua,425,4,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-06-21,lua,277,2,FiveM RP Framework Core,qbcore-framework,qb-core,https://github.com/qbcore-framework/qb-core
+2022-06-21,lua,1195,4,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2022-06-21,lua,159,0,Overextended Inventory for ESX Legacy,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2022-06-21,lua,880,2,Tools for better development in rust using neovim's builtin lsp,simrat39,rust-tools.nvim,https://github.com/simrat39/rust-tools.nvim
+2022-06-21,lua,923,4,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2022-06-21,lua,22,0,"Ambulance Job, Hospital System & Death System For QB-Core",qbcore-framework,qb-ambulancejob,https://github.com/qbcore-framework/qb-ambulancejob
+2022-06-21,lua,23,0,Garage System Used With QB-Core,qbcore-framework,qb-garages,https://github.com/qbcore-framework/qb-garages
+2022-06-21,lua,3065,9,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-06-21,lua,1209,6,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-06-21,lua,688,3,"Better quickfix window in Neovim, polish old quickfix window.",kevinhwang91,nvim-bqf,https://github.com/kevinhwang91/nvim-bqf
+2022-06-21,lua,24,0,A compilation of small resources combined into one,qbcore-framework,qb-smallresources,https://github.com/qbcore-framework/qb-smallresources
+2022-06-21,lua,886,1,Soothing pastel theme for NeoVim,catppuccin,nvim,https://github.com/catppuccin/nvim
