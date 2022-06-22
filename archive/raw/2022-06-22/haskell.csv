@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-22,haskell,7063,6,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-06-22,haskell,2080,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-06-22,haskell,1591,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-06-22,haskell,78,1,,gren-lang,compiler,https://github.com/gren-lang/compiler
+2022-06-22,haskell,655,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-06-22,haskell,29056,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-06-22,haskell,3632,0,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",facebook,duckling,https://github.com/facebook/duckling
+2022-06-22,haskell,27232,14,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-06-22,haskell,2694,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-06-22,haskell,25814,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-06-22,haskell,4565,0,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-06-22,haskell,3357,2,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-06-22,haskell,213,1,A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2022-06-22,haskell,2,0,,Liqwid-Labs,liqwid-plutarch-extra,https://github.com/Liqwid-Labs/liqwid-plutarch-extra
+2022-06-22,haskell,187,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-06-22,haskell,316,0,Like some files bro,geohot,configuration,https://github.com/geohot/configuration
+2022-06-22,haskell,191,0,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
+2022-06-22,haskell,728,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-06-22,haskell,164,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-06-22,haskell,1869,6,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-06-22,haskell,1377,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-06-22,haskell,526,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-06-22,haskell,2582,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-06-22,haskell,4442,4,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-06-22,haskell,5,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
