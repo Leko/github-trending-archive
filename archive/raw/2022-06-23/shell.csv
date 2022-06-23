@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-23,shell,11865,4,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-06-23,shell,3192,5,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-06-23,shell,5916,6,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-06-23,shell,58769,55,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-06-23,shell,14802,14,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-06-23,shell,44206,69,程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).,Anduin2017,HowToCook,https://github.com/Anduin2017/HowToCook
+2022-06-23,shell,3232,1,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-06-23,shell,3045,3,Git All the Payloads! A collection of web attack payloads.,foospidy,payloads,https://github.com/foospidy/payloads
+2022-06-23,shell,231,5,My personal Pick of wallpapers,FrenzyExists,wallpapers,https://github.com/FrenzyExists/wallpapers
+2022-06-23,shell,6225,1,Dockerfile for Apache Kafka,wurstmeister,kafka-docker,https://github.com/wurstmeister/kafka-docker
+2022-06-23,shell,370,2,"The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2018, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.",airflow-helm,charts,https://github.com/airflow-helm/charts
+2022-06-23,shell,1078,1,Docker files for running a basic Laravel application.,laravel,sail,https://github.com/laravel/sail
+2022-06-23,shell,3995,5,Docker image of Nextcloud,nextcloud,docker,https://github.com/nextcloud/docker
+2022-06-23,shell,65,0,Example scenario workflows for Confluent for Kubernetes,confluentinc,confluent-kubernetes-examples,https://github.com/confluentinc/confluent-kubernetes-examples
+2022-06-23,shell,845,0,Example usage of HashiCorp Vault secrets management,hashicorp,vault-guides,https://github.com/hashicorp/vault-guides
+2022-06-23,shell,720,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2022-06-23,shell,366,4,Registry index for crates.io,rust-lang,crates.io-index,https://github.com/rust-lang/crates.io-index
+2022-06-23,shell,1553,1,Official Zabbix Dockerfiles,zabbix,zabbix-docker,https://github.com/zabbix/zabbix-docker
+2022-06-23,shell,322,0,Erlang plugin for asdf version manager,asdf-vm,asdf-erlang,https://github.com/asdf-vm/asdf-erlang
+2022-06-23,shell,16439,8,Node version management,tj,n,https://github.com/tj/n
+2022-06-23,shell,1196,0,Docker distribution for Kong,Kong,docker-kong,https://github.com/Kong/docker-kong
+2022-06-23,shell,146737,58,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-06-23,shell,21737,6,"Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty",mbadolato,iTerm2-Color-Schemes,https://github.com/mbadolato/iTerm2-Color-Schemes
+2022-06-23,shell,3,0,Shared helper scripts to assist with common tasks in CI environments,Financial-Times,next-ci-shared-helpers,https://github.com/Financial-Times/next-ci-shared-helpers
+2022-06-23,shell,14,0,asdf plugin for pnpm,jonathanmorley,asdf-pnpm,https://github.com/jonathanmorley/asdf-pnpm

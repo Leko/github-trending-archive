@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-23,rust,7348,17,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2022-06-23,rust,6221,13,Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2022-06-23,rust,11532,10,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2022-06-23,rust,16495,9,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-06-23,rust,16811,11,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-06-23,rust,2757,9,RisingWave: the next-generation streaming database in the cloud.,singularity-data,risingwave,https://github.com/singularity-data/risingwave
+2022-06-23,rust,44484,219,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-06-23,rust,760,3,A user interface for Windows 10 filesystem compression,Freaky,Compactor,https://github.com/Freaky/Compactor
+2022-06-23,rust,20,4,"We build a subscription payment solution on the Solana blockchain, focusing on the privacy of the customers.",Maius-Protocol,maius-core,https://github.com/Maius-Protocol/maius-core
+2022-06-23,rust,419,4,Superfast Genshin Impact artifacts scanner,wormtql,yas,https://github.com/wormtql/yas
+2022-06-23,rust,4113,8,"A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. Cloud at https://app.databend.com/",datafuselabs,databend,https://github.com/datafuselabs/databend
+2022-06-23,rust,13,2,Implementation of Language Server Protocol for the flux language,influxdata,flux-lsp,https://github.com/influxdata/flux-lsp
+2022-06-23,rust,147,1,Subspace Network reference implementation,subspace,subspace,https://github.com/subspace/subspace
+2022-06-23,rust,2204,13,Solana Sealevel Framework,coral-xyz,anchor,https://github.com/coral-xyz/anchor
+2022-06-23,rust,14265,10,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-06-23,rust,521,1,"莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.",wormtql,genshin_artifact,https://github.com/wormtql/genshin_artifact
+2022-06-23,rust,351,0,Smart contracts maintained by the Metaplex team,metaplex-foundation,metaplex-program-library,https://github.com/metaplex-foundation/metaplex-program-library
+2022-06-23,rust,1085,4,Private payments for mobile devices.,mobilecoinfoundation,mobilecoin,https://github.com/mobilecoinfoundation/mobilecoin
+2022-06-23,rust,2156,7,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-06-23,rust,6006,6,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2022-06-23,rust,18382,16,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2022-06-23,rust,25324,36,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-06-23,rust,1648,5,AWS SDK for the Rust Programming Language,awslabs,aws-sdk-rust,https://github.com/awslabs/aws-sdk-rust
+2022-06-23,rust,7138,4,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-06-23,rust,657,1,Framework for building smart contracts in Wasm for the Cosmos SDK,CosmWasm,cosmwasm,https://github.com/CosmWasm/cosmwasm

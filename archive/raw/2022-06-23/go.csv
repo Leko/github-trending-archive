@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-23,go,11283,87,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-06-23,go,4085,12,HCL is the HashiCorp configuration language.,hashicorp,hcl,https://github.com/hashicorp/hcl
+2022-06-23,go,96,46,,codeedu,imersao8,https://github.com/codeedu/imersao8
+2022-06-23,go,28546,28,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-06-23,go,10706,38,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-06-23,go,4573,22,"Kubernetes-based, scale-to-zero, request-driven compute",knative,serving,https://github.com/knative/serving
+2022-06-23,go,6275,42,Universal code search (self-hosted),sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2022-06-23,go,7676,3,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-06-23,go,5596,9,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-06-23,go,63333,17,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-06-23,go,22057,13,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-06-23,go,16144,10,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-06-23,go,163,3,"Tanzu Framework provides a set of building blocks to build atop of the Tanzu platform and leverages Carvel packaging and plugins to provide users with a much stronger, more integrated experience than the loose coupling and stand-alone commands of the previous generation of tools.",vmware-tanzu,tanzu-framework,https://github.com/vmware-tanzu/tanzu-framework
+2022-06-23,go,833,1,Terraform Helm provider,hashicorp,terraform-provider-helm,https://github.com/hashicorp/terraform-provider-helm
+2022-06-23,go,397,3,Cloudflare Terraform Provider,cloudflare,terraform-provider-cloudflare,https://github.com/cloudflare/terraform-provider-cloudflare
+2022-06-23,go,1583,1,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
+2022-06-23,go,16719,23,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-06-23,go,6785,6,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2022-06-23,go,2256,4,"Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.",gardener,gardener,https://github.com/gardener/gardener
+2022-06-23,go,1457,2,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2022-06-23,go,1736,6,Golang connection multiplexing library,hashicorp,yamux,https://github.com/hashicorp/yamux
+2022-06-23,go,3652,3,Golang plugin system over RPC.,hashicorp,go-plugin,https://github.com/hashicorp/go-plugin
+2022-06-23,go,2930,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-06-23,go,6,2,,hashicorp,raft-snapshot,https://github.com/hashicorp/raft-snapshot
+2022-06-23,go,8513,7,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
