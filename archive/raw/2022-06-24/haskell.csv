@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-24,haskell,27247,11,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-06-24,haskell,29082,14,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-06-24,haskell,1684,66,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-06-24,haskell,25830,10,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-06-24,haskell,8382,5,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-06-24,haskell,37,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-06-24,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-06-24,haskell,526,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-06-24,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-06-24,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-06-24,haskell,53,1,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-06-24,haskell,192,0,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
+2022-06-24,haskell,7071,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-06-24,haskell,1018,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2022-06-24,haskell,2694,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-06-24,haskell,2063,0,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-06-24,haskell,6872,2,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-06-24,haskell,5,0,Updatable one-shot timer polled with STM (Haskell),joeyadams,haskell-stm-delay,https://github.com/joeyadams/haskell-stm-delay
+2022-06-24,haskell,7,0,Code repository for the regular library,dreixel,regular,https://github.com/dreixel/regular
+2022-06-24,haskell,4,0,"Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH",necrobious,hS3,https://github.com/necrobious/hS3
+2022-06-24,haskell,189,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-06-24,haskell,655,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-06-24,haskell,1595,2,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-06-24,haskell,390,0,The SAW scripting language.,GaloisInc,saw-script,https://github.com/GaloisInc/saw-script
+2022-06-24,haskell,1873,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad

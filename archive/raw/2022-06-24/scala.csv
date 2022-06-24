@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-24,scala,12275,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-06-24,scala,2517,1,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-06-24,scala,3328,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-06-24,scala,2338,0,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2022-06-24,scala,4999,3,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-06-24,scala,1651,2,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-06-24,scala,3413,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-06-24,scala,5543,4,Hybrid visual and textual functional programming.,enso-org,enso,https://github.com/enso-org/enso
+2022-06-24,scala,33215,7,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-06-24,scala,7,0,,olxbr,load-test,https://github.com/olxbr/load-test
+2022-06-24,scala,4,0,"A simple alternative to the Amazon SQS Daemon (""sqsd"") used on AWS Beanstalk worker tier instances, based on https://github.com/mozart-analytics/sqsd",olxbr,aws-sqsd,https://github.com/olxbr/aws-sqsd
+2022-06-24,scala,7,0,"Utility code for Scala: logging, testing, configuration and more",olxbr,scala-utils,https://github.com/olxbr/scala-utils
+2022-06-24,scala,3,0,ICFP Contest 2012,ShiftForward,icfpc2012,https://github.com/ShiftForward/icfpc2012
+2022-06-24,scala,1750,0,Your shiny new Java/Scala build tool!,com-lihaoyi,mill,https://github.com/com-lihaoyi/mill
+2022-06-24,scala,6117,1,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-06-24,scala,5553,4,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-06-24,scala,1038,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-06-24,scala,4473,8,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-06-24,scala,474,0,Monitor Kafka Consumer Group Latency with Kafka Lag Exporter,seglo,kafka-lag-exporter,https://github.com/seglo/kafka-lag-exporter
+2022-06-24,scala,697,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2022-06-24,scala,8275,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-06-24,scala,295,0,A Spark plugin for reading Excel files via Apache POI,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-06-24,scala,182,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-06-24,scala,2276,0,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-06-24,scala,113,0,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest

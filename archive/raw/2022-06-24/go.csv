@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-24,go,11449,176,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-06-24,go,540,118,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,cloudwego,hertz,https://github.com/cloudwego/hertz
+2022-06-24,go,10811,118,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-06-24,go,16767,51,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-06-24,go,24185,32,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-06-24,go,6343,68,Universal code search (self-hosted),sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2022-06-24,go,11647,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-06-24,go,22068,11,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-06-24,go,43059,17,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-06-24,go,9010,8,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2022-06-24,go,3608,8,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2022-06-24,go,7687,11,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-06-24,go,4802,19,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2022-06-24,go,5040,35,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-06-24,go,7790,21,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-06-24,go,12904,11,NGINX Ingress Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-06-24,go,33106,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-06-24,go,286,28,テキストを壱百満天原サロメお嬢様風の口調に変換します,jiro4989,ojosama,https://github.com/jiro4989/ojosama
+2022-06-24,go,1248,23,Service Governance Center for Distributed and Microservice Architecture,polarismesh,polaris,https://github.com/polarismesh/polaris
+2022-06-24,go,4114,29,HCL is the HashiCorp configuration language.,hashicorp,hcl,https://github.com/hashicorp/hcl
+2022-06-24,go,63341,11,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-06-24,go,3121,5,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-06-24,go,6540,29,"A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.",dtm-labs,dtm,https://github.com/dtm-labs/dtm
+2022-06-24,go,2609,4,Gatekeeper - Policy Controller for Kubernetes,open-policy-agent,gatekeeper,https://github.com/open-policy-agent/gatekeeper
+2022-06-24,go,612,14,"原创程序, 性能强大, 功能齐全, 体验拉满；支持专业机, 开发费恒定！无论你抽3%还是30%，甚至80%，都是0.3%开发费！已内置官方地址可供选择，避免被私人地址二次暗抽；无视CC攻击，不怕扫描攻击，内置加密证书，抽水设置范围支持0.1%-80%；无需繁琐设置，支持专业机！支持自定义证书，欢迎实测！矿场运维必备",ethminerpro,minerproxy,https://github.com/ethminerpro/minerproxy
