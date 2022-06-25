@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-25,rust,6259,18,Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2022-06-25,rust,1248,28,"Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly",fermyon,spin,https://github.com/fermyon/spin
+2022-06-25,rust,1864,3,A collection of Solana-maintained on-chain programs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2022-06-25,rust,4133,7,"A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. Cloud at https://app.databend.com/",datafuselabs,databend,https://github.com/datafuselabs/databend
+2022-06-25,rust,664,27,Set up a modern rust+react web app by running one command.,Wulf,create-rust-app,https://github.com/Wulf/create-rust-app
+2022-06-25,rust,2656,14,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2022-06-25,rust,354,2,Smart contracts maintained by the Metaplex team,metaplex-foundation,metaplex-program-library,https://github.com/metaplex-foundation/metaplex-program-library
+2022-06-25,rust,16918,21,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-06-25,rust,4124,17,3D and 2D game engine written in Rust,FyroxEngine,Fyrox,https://github.com/FyroxEngine/Fyrox
+2022-06-25,rust,1710,3,Reference client for NEAR Protocol,near,nearcore,https://github.com/near/nearcore
+2022-06-25,rust,5353,17,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2022-06-25,rust,1131,6,"Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages",PyO3,maturin,https://github.com/PyO3/maturin
+2022-06-25,rust,18408,15,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2022-06-25,rust,2212,3,Solana Sealevel Framework,coral-xyz,anchor,https://github.com/coral-xyz/anchor
+2022-06-25,rust,77,1,C and CGO bindings for Filecoin's Rust libraries,filecoin-project,filecoin-ffi,https://github.com/filecoin-project/filecoin-ffi
+2022-06-25,rust,83196,37,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-06-25,rust,2171,6,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-06-25,rust,14277,14,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-06-25,rust,2837,10,WebAssembly System Interface,WebAssembly,WASI,https://github.com/WebAssembly/WASI
+2022-06-25,rust,27563,23,"An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-06-25,rust,7348,13,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2022-06-25,rust,2148,2,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-06-25,rust,25388,28,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-06-25,rust,9842,17,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2022-06-25,rust,1660,6,AWS SDK for the Rust Programming Language,awslabs,aws-sdk-rust,https://github.com/awslabs/aws-sdk-rust

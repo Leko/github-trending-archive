@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-25,shell,7986,1,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-06-25,shell,268,0,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2022-06-25,shell,3197,0,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-06-25,shell,1430,20,SteamOS 3 (Holo) archiso configuration,theVakhovskeIsTaken,holoiso,https://github.com/theVakhovskeIsTaken/holoiso
+2022-06-25,shell,58822,34,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-06-25,shell,4741,7,a Docker + Kubernetes network trouble-shooting swiss-army container,nicolaka,netshoot,https://github.com/nicolaka/netshoot
+2022-06-25,shell,9242,7,AI Code Completions,codota,TabNine,https://github.com/codota/TabNine
+2022-06-25,shell,5932,3,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-06-25,shell,1838,1,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-06-25,shell,2686,17,"Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/T…",kiddin9,OpenWrt_x86-r2s-r4s-r5s-N1,https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1
+2022-06-25,shell,5430,0,"Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2022-06-25,shell,3422,3,Photoshop CC v19 installer for Gnu/Linux,Gictorbit,photoshopCClinux,https://github.com/Gictorbit/photoshopCClinux
+2022-06-25,shell,372,1,"The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2018, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.",airflow-helm,charts,https://github.com/airflow-helm/charts
+2022-06-25,shell,1864,1,"WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",Nyr,wireguard-install,https://github.com/Nyr/wireguard-install
+2022-06-25,shell,14815,7,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-06-25,shell,4320,4,Manage your Java environment,jenv,jenv,https://github.com/jenv/jenv
+2022-06-25,shell,3024,1,A repository with 3 tools for pwn'ing websites with .git repositories available,internetwache,GitTools,https://github.com/internetwache/GitTools
+2022-06-25,shell,3429,2,Command-line tools for working with Architecture Decision Records,npryce,adr-tools,https://github.com/npryce/adr-tools
+2022-06-25,shell,1559,2,Official Zabbix Dockerfiles,zabbix,zabbix-docker,https://github.com/zabbix/zabbix-docker
+2022-06-25,shell,1116,8,Proxmox Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2022-06-25,shell,4458,3,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2022-06-25,shell,177,1,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2022-06-25,shell,23,2,Quicksilver Testnet Instructions and Config,ingenuity-build,testnets,https://github.com/ingenuity-build/testnets
+2022-06-25,shell,1154,2,"YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench",masonr,yet-another-bench-script,https://github.com/masonr/yet-another-bench-script
+2022-06-25,shell,5207,5,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
