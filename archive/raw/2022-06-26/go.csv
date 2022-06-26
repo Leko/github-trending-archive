@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-26,go,11900,241,Dolt – It's Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2022-06-26,go,11003,81,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-06-26,go,238,73,Learn Go by fixing tiny incorrect programs,soypat,gopherlings,https://github.com/soypat/gopherlings
+2022-06-26,go,378,82,Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs,optiv,Mangle,https://github.com/optiv/Mangle
+2022-06-26,go,11660,56,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-06-26,go,7819,10,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-06-26,go,8666,1,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-06-26,go,11256,5,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-06-26,go,24952,10,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-06-26,go,23301,18,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-06-26,go,5073,3,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2022-06-26,go,16844,25,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-06-26,go,895,83,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,cloudwego,hertz,https://github.com/cloudwego/hertz
+2022-06-26,go,7155,39,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2022-06-26,go,1303,22,Service Governance Center for Distributed and Microservice Architecture,polarismesh,polaris,https://github.com/polarismesh/polaris
+2022-06-26,go,24210,7,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-06-26,go,16295,8,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-06-26,go,5794,2,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-06-26,go,8918,8,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",DNSCrypt,dnscrypt-proxy,https://github.com/DNSCrypt/dnscrypt-proxy
+2022-06-26,go,3127,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-06-26,go,140,21,"An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and ""loot"" secrets out of the client-facing code of sites.",redhuntlabs,HTTPLoot,https://github.com/redhuntlabs/HTTPLoot
+2022-06-26,go,12882,9,Easy and fast file sharing from the command-line.,dutchcoders,transfer.sh,https://github.com/dutchcoders/transfer.sh
+2022-06-26,go,2759,12,"A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",cloudwego,netpoll,https://github.com/cloudwego/netpoll
+2022-06-26,go,89583,26,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-06-26,go,4518,19,A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.,cloudwego,kitex,https://github.com/cloudwego/kitex

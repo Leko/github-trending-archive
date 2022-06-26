@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-26,rust,900,58,"A file server that supports static serving, uploading, searching, accessing control, webdav...",sigoden,dufs,https://github.com/sigoden/dufs
+2022-06-26,rust,83222,32,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-06-26,rust,1263,15,"Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly",fermyon,spin,https://github.com/fermyon/spin
+2022-06-26,rust,9850,8,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2022-06-26,rust,1901,14,Qdrant - Vector Search Engine for the next generation of AI applications,qdrant,qdrant,https://github.com/qdrant/qdrant
+2022-06-26,rust,1991,1,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2022-06-26,rust,7398,51,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2022-06-26,rust,2151,3,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-06-26,rust,355,1,Smart contracts maintained by the Metaplex team,metaplex-foundation,metaplex-program-library,https://github.com/metaplex-foundation/metaplex-program-library
+2022-06-26,rust,31671,19,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2022-06-26,rust,3175,41,“Zero setup” cross compilation and “cross testing” of Rust crates,cross-rs,cross,https://github.com/cross-rs/cross
+2022-06-26,rust,1664,4,AWS SDK for the Rust Programming Language,awslabs,aws-sdk-rust,https://github.com/awslabs/aws-sdk-rust
+2022-06-26,rust,5369,16,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2022-06-26,rust,2807,38,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2022-06-26,rust,2663,6,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2022-06-26,rust,1056,30,"Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps",skytable,skytable,https://github.com/skytable/skytable
+2022-06-26,rust,14292,15,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-06-26,rust,696,13,OpenTelemetry API and SDK for Rust,open-telemetry,opentelemetry-rust,https://github.com/open-telemetry/opentelemetry-rust
+2022-06-26,rust,2178,7,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-06-26,rust,1140,10,"Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages",PyO3,maturin,https://github.com/PyO3/maturin
+2022-06-26,rust,676,12,Set up a modern rust+react web app by running one command.,Wulf,create-rust-app,https://github.com/Wulf/create-rust-app
+2022-06-26,rust,5942,11,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2022-06-26,rust,7901,18,"Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
+2022-06-26,rust,1702,14,Incomplete Redis client and server implementation using Tokio - for learning purposes only,tokio-rs,mini-redis,https://github.com/tokio-rs/mini-redis
+2022-06-26,rust,17079,9,Relay is a JavaScript framework for building data-driven React applications.,facebook,relay,https://github.com/facebook/relay
