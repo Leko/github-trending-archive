@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-27,haskell,25847,5,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-06-27,haskell,2697,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-06-27,haskell,2083,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-06-27,haskell,17,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-06-27,haskell,8,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,https://github.com/digital-asset/ex-mortgage-repackaging
+2022-06-27,haskell,27263,4,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-06-27,haskell,1625,0,Pattern language,tidalcycles,Tidal,https://github.com/tidalcycles/Tidal
+2022-06-27,haskell,1019,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2022-06-27,haskell,4453,4,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-06-27,haskell,594,0,Applied Functional Programming Course - Move from exercises to a working app!,qfpl,applied-fp-course,https://github.com/qfpl/applied-fp-course
+2022-06-27,haskell,717,0,Dataflow programming and declarative concurrency,composewell,streamly,https://github.com/composewell/streamly
+2022-06-27,haskell,225,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-06-27,haskell,191,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-06-27,haskell,739,0,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2022-06-27,haskell,527,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-06-27,haskell,1383,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-06-27,haskell,240,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-06-27,haskell,2181,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-06-27,haskell,2585,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-06-27,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-06-27,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-06-27,haskell,657,2,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-06-27,haskell,37,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-06-27,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-06-27,haskell,54,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
