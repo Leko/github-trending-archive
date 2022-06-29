@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-29,scala,33252,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-06-29,scala,1103,4,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-06-29,scala,42,0,Simple games ported to Scala.js (Scala 3),wiringbits,scala-js-games,https://github.com/wiringbits/scala-js-games
+2022-06-29,scala,4495,13,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-06-29,scala,1668,3,"Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",streamxhub,streamx,https://github.com/streamxhub/streamx
+2022-06-29,scala,2821,3,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-06-29,scala,3427,3,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-06-29,scala,5566,0,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-06-29,scala,10878,3,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-06-29,scala,5013,4,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-06-29,scala,4517,1,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-06-29,scala,2791,6,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-06-29,scala,1723,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-06-29,scala,2598,2,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-06-29,scala,296,1,A Spark plugin for reading Excel files via Apache POI,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-06-29,scala,53,0,,ucb-bar,testchipip,https://github.com/ucb-bar/testchipip
+2022-06-29,scala,6,0,"Network components (NIC, Switch) for FireBox",firesim,icenet,https://github.com/firesim/icenet
+2022-06-29,scala,8674,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-06-29,scala,8716,5,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-06-29,scala,146,1,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-06-29,scala,3,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-06-29,scala,2277,1,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-06-29,scala,20,0,immortan lightning node daemon,fiatjaf,cliche,https://github.com/fiatjaf/cliche
+2022-06-29,scala,3,0,,windymelt,FNFIS,https://github.com/windymelt/FNFIS
+2022-06-29,scala,16,0,Wrapper for ETH Ariane Core,ucb-bar,cva6-wrapper,https://github.com/ucb-bar/cva6-wrapper

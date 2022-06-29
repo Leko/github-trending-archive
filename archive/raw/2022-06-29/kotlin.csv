@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-29,kotlin,4177,76,短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正,pppscn,SmsForwarder,https://github.com/pppscn/SmsForwarder
+2022-06-29,kotlin,5402,25,"Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.",skydoves,Pokedex,https://github.com/skydoves/Pokedex
+2022-06-29,kotlin,4610,3,Static code analysis for Kotlin,detekt,detekt,https://github.com/detekt/detekt
+2022-06-29,kotlin,2600,3,An HTTP inspector for Android & OkHTTP (like Charles but on device),ChuckerTeam,chucker,https://github.com/ChuckerTeam/chucker
+2022-06-29,kotlin,99,2,数据备份 DataBackup for Android,XayahSuSuSu,Android-DataBackup,https://github.com/XayahSuSuSu/Android-DataBackup
+2022-06-29,kotlin,52,11,Java Decompiler Gui,shotav,Decompiler,https://github.com/shotav/Decompiler
+2022-06-29,kotlin,2144,0,Community-driven collection of Jetpack Compose example code and tutorials  https://foso.github.io/compose,Foso,Jetpack-Compose-Playground,https://github.com/Foso/Jetpack-Compose-Playground
+2022-06-29,kotlin,3583,3,The universal proxy toolchain for Android,SagerNet,SagerNet,https://github.com/SagerNet/SagerNet
+2022-06-29,kotlin,3942,0,Kotlin multiplatform / multi-format serialization,Kotlin,kotlinx.serialization,https://github.com/Kotlin/kotlinx.serialization
+2022-06-29,kotlin,9615,9,高效率 QQ 机器人支持库,mamoe,mirai,https://github.com/mamoe/mirai
+2022-06-29,kotlin,10912,3,Library support for Kotlin coroutines,Kotlin,kotlinx.coroutines,https://github.com/Kotlin/kotlinx.coroutines
+2022-06-29,kotlin,549,7,Matsuri (茉莉) / Android proxy toolchain / 安卓代理应用 / Fork of SagerNet,MatsuriDayo,Matsuri,https://github.com/MatsuriDayo/Matsuri
+2022-06-29,kotlin,5011,4,A collection of extension libraries for Jetpack Compose,google,accompanist,https://github.com/google/accompanist
+2022-06-29,kotlin,21980,3,Samples for Android Architecture Components.,android,architecture-components-samples,https://github.com/android/architecture-components-samples
+2022-06-29,kotlin,2147,13,Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.,RikkaApps,Shizuku,https://github.com/RikkaApps/Shizuku
+2022-06-29,kotlin,1712,4,Android application to analyze WiFi signals.,VREMSoftwareDevelopment,WiFiAnalyzer,https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer
+2022-06-29,kotlin,875,3,A local ADB shell for Android!,tytydraco,LADB,https://github.com/tytydraco/LADB
+2022-06-29,kotlin,5361,17,A fully functional Android app built entirely with Kotlin and Jetpack Compose,android,nowinandroid,https://github.com/android/nowinandroid
+2022-06-29,kotlin,808,0,A suite of tools to assist with reviewing Open Source Software dependencies.,oss-review-toolkit,ort,https://github.com/oss-review-toolkit/ort
+2022-06-29,kotlin,5097,2,Λrrow - Functional companion to Kotlin's Standard Library,arrow-kt,arrow,https://github.com/arrow-kt/arrow
+2022-06-29,kotlin,10000,1,Framework for quickly creating connected applications in Kotlin with minimal effort,ktorio,ktor,https://github.com/ktorio/ktor
+2022-06-29,kotlin,8013,1,"A modern I/O library for Android, Java, and Kotlin Multiplatform.",square,okio,https://github.com/square/okio
+2022-06-29,kotlin,1246,7,Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.,raamcosta,compose-destinations,https://github.com/raamcosta/compose-destinations
+2022-06-29,kotlin,27632,3,A memory leak detection library for Android.,square,leakcanary,https://github.com/square/leakcanary
+2022-06-29,kotlin,1734,5,"An Android Anilist only client, which lets you stream & download Anime & Manga.",saikou-app,saikou,https://github.com/saikou-app/saikou

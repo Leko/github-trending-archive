@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-29,go,9397,129,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-06-29,go,272,16,Fast and configurable TLS grabber focused on TLS based data collection.,projectdiscovery,tlsx,https://github.com/projectdiscovery/tlsx
+2022-06-29,go,166,45,Scan memory for secrets and more. Maybe eventually a full /proc toolkit.,liamg,dismember,https://github.com/liamg/dismember
+2022-06-29,go,1694,6,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2022-06-29,go,11277,8,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-06-29,go,7530,124,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2022-06-29,go,10290,28,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2022-06-29,go,3517,51,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
+2022-06-29,go,3464,17,"An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-06-29,go,3095,22,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2022-06-29,go,8988,10,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-06-29,go,5081,5,Implements a deep pretty printer for Go data structures to aid in debugging,davecgh,go-spew,https://github.com/davecgh/go-spew
+2022-06-29,go,4761,2,"A horizontally scalable, highly available, multi-tenant, long term Prometheus.",cortexproject,cortex,https://github.com/cortexproject/cortex
+2022-06-29,go,7854,58,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2022-06-29,go,4015,8,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2022-06-29,go,7478,6,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-06-29,go,12836,10,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-06-29,go,1267,4,Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.,evmos,evmos,https://github.com/evmos/evmos
+2022-06-29,go,4932,10,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2022-06-29,go,4814,6,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2022-06-29,go,3141,2,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-06-29,go,2966,8,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2022-06-29,go,101100,43,The Go programming language,golang,go,https://github.com/golang/go
+2022-06-29,go,6274,4,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-06-29,go,13580,5,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway

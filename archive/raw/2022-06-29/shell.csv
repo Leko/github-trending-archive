@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-29,shell,58913,37,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-06-29,shell,146947,49,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-06-29,shell,1849,2,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-06-29,shell,11710,4,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2022-06-29,shell,1399,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2022-06-29,shell,14856,15,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-06-29,shell,5939,3,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-06-29,shell,5546,36,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2022-06-29,shell,14653,1,Default configuration for Le Wagon's students,lewagon,dotfiles,https://github.com/lewagon/dotfiles
+2022-06-29,shell,10187,3,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2022-06-29,shell,102,6,,kj89,testnet_manuals,https://github.com/kj89/testnet_manuals
+2022-06-29,shell,3248,3,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-06-29,shell,23086,7,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2022-06-29,shell,13868,27,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-06-29,shell,3660,2,My dotfiles (deployed by LARBS),LukeSmithxyz,voidrice,https://github.com/LukeSmithxyz/voidrice
+2022-06-29,shell,3204,4,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-06-29,shell,79,4,,lroudge,holberton-system_engineering-devops,https://github.com/lroudge/holberton-system_engineering-devops
+2022-06-29,shell,339,4,Steam Deck Guide,mikeroyal,Steam-Deck-Guide,https://github.com/mikeroyal/Steam-Deck-Guide
+2022-06-29,shell,627,2,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2022-06-29,shell,1361,8,"proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.",ivanhao,pvetools,https://github.com/ivanhao/pvetools
+2022-06-29,shell,280,2,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2022-06-29,shell,5140,2,Scripted Local Linux Enumeration & Privilege Escalation Checks,rebootuser,LinEnum,https://github.com/rebootuser/LinEnum
+2022-06-29,shell,69,3,,imrannissar,Content-discovery,https://github.com/imrannissar/Content-discovery
+2022-06-29,shell,122,4,Azure MLOps (v2) solution accelerators.,Azure,mlops-v2,https://github.com/Azure/mlops-v2
+2022-06-29,shell,25826,3,Git extensions to provide high-level repository operations for Vincent Driessen's branching model.,nvie,gitflow,https://github.com/nvie/gitflow
