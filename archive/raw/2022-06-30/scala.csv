@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-30,scala,4518,23,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-06-30,scala,2314,2,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-06-30,scala,3347,3,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-06-30,scala,1104,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-06-30,scala,10883,5,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-06-30,scala,2794,3,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-06-30,scala,33260,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-06-30,scala,1948,3,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-06-30,scala,2262,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-06-30,scala,51,7,Update your Scala dependencies interactively,kitlangton,scala-update,https://github.com/kitlangton/scala-update
+2022-06-30,scala,808,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-06-30,scala,8719,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-06-30,scala,12279,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-06-30,scala,18,0,,adrianfilip,reservation-booker,https://github.com/adrianfilip/reservation-booker
+2022-06-30,scala,746,5,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-06-30,scala,19,3,,kitlangton,zio-tui,https://github.com/kitlangton/zio-tui
+2022-06-30,scala,1563,0,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-06-30,scala,2342,0,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2022-06-30,scala,18,1,Lightweight and extendable validation library for Scala,jap-company,fields,https://github.com/jap-company/fields
+2022-06-30,scala,1849,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-06-30,scala,5013,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-06-30,scala,3429,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-06-30,scala,5567,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-06-30,scala,2326,1,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-06-30,scala,1497,2,The Flix Programming Language,flix,flix,https://github.com/flix/flix

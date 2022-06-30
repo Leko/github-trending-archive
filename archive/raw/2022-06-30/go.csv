@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-06-30,go,10314,26,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2022-06-30,go,1698,5,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2022-06-30,go,6379,10,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2022-06-30,go,3662,62,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2022-06-30,go,20323,12,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2022-06-30,go,5126,4,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2022-06-30,go,1811,35,"A artistic ""twitter like"" community built on gin+zinc+vue+ts 清新文艺微社区",rocboss,paopao-ce,https://github.com/rocboss/paopao-ce
+2022-06-30,go,10675,8,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2022-06-30,go,3643,10,A mock code autogenerator for Golang,vektra,mockery,https://github.com/vektra/mockery
+2022-06-30,go,32262,21,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
+2022-06-30,go,7553,25,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2022-06-30,go,3350,3,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2022-06-30,go,30002,19,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2022-06-30,go,20696,18,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-06-30,go,14271,9,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2022-06-30,go,5399,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-06-30,go,9497,101,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-06-30,go,1521,11,kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters,kcp-dev,kcp,https://github.com/kcp-dev/kcp
+2022-06-30,go,9737,8,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-06-30,go,6500,17,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2022-06-30,go,23715,9,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2022-06-30,go,3511,11,K-Sortable Globally Unique IDs,segmentio,ksuid,https://github.com/segmentio/ksuid
+2022-06-30,go,12704,11,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-06-30,go,7126,7,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-06-30,go,862,11,"A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.",megaease,easeprobe,https://github.com/megaease/easeprobe
