@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-01,go,30700,12,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2022-07-01,go,1701,3,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2022-07-01,go,89771,52,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-07-01,go,4514,55,screen sharing for developers https://screego.net/,screego,server,https://github.com/screego/server
+2022-07-01,go,20721,28,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-07-01,go,2138,8,"Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-07-01,go,3148,13,Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.,tenable,terrascan,https://github.com/tenable/terrascan
+2022-07-01,go,68,7,This repo contains a bunch of Kubernetes examples,AdminTurnedDevOps,kubernetes-examples,https://github.com/AdminTurnedDevOps/kubernetes-examples
+2022-07-01,go,8542,8,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2022-07-01,go,1988,16,一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.,zu1k,nali,https://github.com/zu1k/nali
+2022-07-01,go,12314,10,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-07-01,go,404,2,A Go tracing package for Datadog APM,DataDog,dd-trace-go,https://github.com/DataDog/dd-trace-go
+2022-07-01,go,3416,0,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-07-01,go,6510,10,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2022-07-01,go,272,30,Master the fundamentals and advanced features of the Go programming language,karanpratapsingh,go-course,https://github.com/karanpratapsingh/go-course
+2022-07-01,go,4930,7,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2022-07-01,go,22757,9,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2022-07-01,go,274,0,Terraform Datadog provider,DataDog,terraform-provider-datadog,https://github.com/DataDog/terraform-provider-datadog
+2022-07-01,go,176,28,"支持BTC/ETH/XMR/ETC/BCH/CFX/ERG/RVN等多币种中转矿池代理，独家掉线提醒，伪装算力，支持抽水，防CC，无损耗抽水,恒定开发费！支持TCP和SSL协议，支持自定义跨矿池抽水，高性能高并发，支持web界面管理，全自动进程守护以及开机启动,配套本地隧道加密软件，修改矿池本地算力，ip黑名单，精确到单台设备的24小时数据统计、自定义隧道推送工具等强大功能...ETH minerproxy, BTC minerproxy, ETC minerproxy, LTC minerproxy, ERG minerproxy, CFX minerproxy, RVN minerproxy, SERO minerproxy, XMR minerproxy, CKB minerpr…",MinerProxyBTC,GoMinerTool,https://github.com/MinerProxyBTC/GoMinerTool
+2022-07-01,go,7065,43,Cloud cost estimates for Terraform in pull requests Love your cloud bill!,infracost,infracost,https://github.com/infracost/infracost
+2022-07-01,go,43179,21,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-07-01,go,4485,37,An HTTP toolkit for security research.,dstotijn,hetty,https://github.com/dstotijn/hetty
+2022-07-01,go,9020,20,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-07-01,go,2219,1,,hyperledger,fabric-samples,https://github.com/hyperledger/fabric-samples
+2022-07-01,go,12762,6,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",ory,hydra,https://github.com/ory/hydra
