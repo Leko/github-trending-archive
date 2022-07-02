@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-02,scala,4698,95,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-07-02,scala,13785,2,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-07-02,scala,33274,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-07-02,scala,2520,1,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-07-02,scala,11616,1,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-07-02,scala,2319,5,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-07-02,scala,10888,2,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-07-02,scala,1107,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-07-02,scala,758,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-07-02,scala,2602,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-07-02,scala,475,0,Monitor Kafka Consumer Group Latency with Kafka Lag Exporter,seglo,kafka-lag-exporter,https://github.com/seglo/kafka-lag-exporter
+2022-07-02,scala,182,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-07-02,scala,57,3,Update your Scala dependencies interactively,kitlangton,scala-update,https://github.com/kitlangton/scala-update
+2022-07-02,scala,5,0,A Scala wrapper around the Betfair API,oxlade39,scala-betfair,https://github.com/oxlade39/scala-betfair
+2022-07-02,scala,8285,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-07-02,scala,20,0,,adrianfilip,reservation-booker,https://github.com/adrianfilip/reservation-booker
+2022-07-02,scala,810,2,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-07-02,scala,6123,0,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-07-02,scala,1848,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-07-02,scala,2264,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-07-02,scala,1039,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-07-02,scala,95,0,,neo4j,neo4j-documentation,https://github.com/neo4j/neo4j-documentation
+2022-07-02,scala,12148,2,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-07-02,scala,3429,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-07-02,scala,408,1,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml

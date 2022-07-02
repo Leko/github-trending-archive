@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-02,go,38187,41,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-07-02,go,9025,200,Disk Usage/Free Utility - a better 'df' alternative,muesli,duf,https://github.com/muesli/duf
+2022-07-02,go,6315,8,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-07-02,go,89806,39,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-07-02,go,12325,11,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-07-02,go,12194,7,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2022-07-02,go,4569,6,libp2p implementation in Go,libp2p,go-libp2p,https://github.com/libp2p/go-libp2p
+2022-07-02,go,1497,7,"A tool to seal application's all dependencies and Kubernetes into ClusterImage, distribute this application anywhere via ClusterImage, and run it within any cluster in one command.",sealerio,sealer,https://github.com/sealerio/sealer
+2022-07-02,go,8576,17,即时通讯IM,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-07-02,go,2778,9,An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.,go-ozzo,ozzo-validation,https://github.com/go-ozzo/ozzo-validation
+2022-07-02,go,11678,7,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-07-02,go,6157,3,Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,gruntwork-io,terratest,https://github.com/gruntwork-io/terratest
+2022-07-02,go,197,21,"支持BTC/ETH/XMR/ETC/BCH/CFX/ERG/RVN等多币种中转矿池代理，独家掉线提醒，伪装算力，支持抽水，防CC，无损耗抽水,恒定开发费！支持TCP和SSL协议，支持自定义跨矿池抽水，高性能高并发，支持web界面管理，全自动进程守护以及开机启动,配套本地隧道加密软件，修改矿池本地算力，ip黑名单，精确到单台设备的24小时数据统计、自定义隧道推送工具等强大功能...ETH minerproxy, BTC minerproxy, ETC minerproxy, LTC minerproxy, ERG minerproxy, CFX minerproxy, RVN minerproxy, SERO minerproxy, XMR minerproxy, CKB minerpr…",MinerProxyBTC,GoMinerTool,https://github.com/MinerProxyBTC/GoMinerTool
+2022-07-02,go,1877,33,"A artistic ""twitter like"" community built on gin+zinc+vue+ts 清新文艺微社区",rocboss,paopao-ce,https://github.com/rocboss/paopao-ce
+2022-07-02,go,5773,3,Golang实现的基于beego框架的接口在线文档管理系统,mindoc-org,mindoc,https://github.com/mindoc-org/mindoc
+2022-07-02,go,3720,7,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",fluxcd,flagger,https://github.com/fluxcd/flagger
+2022-07-02,go,6652,14,"gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",panjf2000,gnet,https://github.com/panjf2000/gnet
+2022-07-02,go,2946,3,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-07-02,go,2517,10,A Devtools driver for web automation and scraping,go-rod,rod,https://github.com/go-rod/rod
+2022-07-02,go,7175,3,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-07-02,go,3662,10,A mock code autogenerator for Golang,vektra,mockery,https://github.com/vektra/mockery
+2022-07-02,go,2170,4,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2022-07-02,go,4564,50,screen sharing for developers https://screego.net/,screego,server,https://github.com/screego/server
+2022-07-02,go,60660,34,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-07-02,go,3871,5,The Modern Application Platform.,kubevela,kubevela,https://github.com/kubevela/kubevela

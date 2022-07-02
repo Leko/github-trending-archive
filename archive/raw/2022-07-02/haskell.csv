@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-02,haskell,27309,12,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-07-02,haskell,5,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-07-02,haskell,7107,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-07-02,haskell,1388,2,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-07-02,haskell,2091,7,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-07-02,haskell,25891,8,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-07-02,haskell,29,1,"""入算术"", the Chinese verision of lambda calculus",ProjectDimlight,RuCalculus,https://github.com/ProjectDimlight/RuCalculus
+2022-07-02,haskell,18888,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-07-02,haskell,1884,0,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-07-02,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-07-02,haskell,2456,1,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-07-02,haskell,17,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-07-02,haskell,7747,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-07-02,haskell,433,1,A demo implementation of a simple dependently-typed language,sweirich,pi-forall,https://github.com/sweirich/pi-forall
+2022-07-02,haskell,3638,0,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",facebook,duckling,https://github.com/facebook/duckling
+2022-07-02,haskell,657,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-07-02,haskell,54,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-07-02,haskell,3,0,A compiler for sed,Roguelazer,sedc,https://github.com/Roguelazer/sedc
+2022-07-02,haskell,0,0,A repository for my solved Project Euler problems.,xurxodiz,euler,https://github.com/xurxodiz/euler
+2022-07-02,haskell,1856,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-07-02,haskell,1307,0,,input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2022-07-02,haskell,361,0,Launch processes with Vault secrets in the environment,channable,vaultenv,https://github.com/channable/vaultenv
+2022-07-02,haskell,4472,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-07-02,haskell,336,1,Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface.,reflex-frp,reflex-dom,https://github.com/reflex-frp/reflex-dom
+2022-07-02,haskell,973,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
