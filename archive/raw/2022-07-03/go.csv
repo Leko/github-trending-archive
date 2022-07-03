@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-03,go,9152,130,Disk Usage/Free Utility - a better 'df' alternative,muesli,duf,https://github.com/muesli/duf
+2022-07-03,go,8099,41,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2022-07-03,go,2027,10,一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.,zu1k,nali,https://github.com/zu1k/nali
+2022-07-03,go,908,22,The Virtual Feature Store. Turn your existing data infrastructure into a feature store.,featureform,featureform,https://github.com/featureform/featureform
+2022-07-03,go,83267,57,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-07-03,go,3565,4,"Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.",livekit,livekit,https://github.com/livekit/livekit
+2022-07-03,go,1598,2,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2022-07-03,go,2407,5,redis-shake is a tool for synchronizing data between two redis databases. Redis-shake 是一个用于在两个 redis之 间同步数据的工具，满足用户非常灵活的同步、迁移需求。,alibaba,RedisShake,https://github.com/alibaba/RedisShake
+2022-07-03,go,2146,1,"Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-07-03,go,12967,4,NGINX Ingress Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-07-03,go,12252,12,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-07-03,go,1889,12,"A artistic ""twitter like"" community built on gin+zinc+vue+ts 清新文艺微社区",rocboss,paopao-ce,https://github.com/rocboss/paopao-ce
+2022-07-03,go,2317,2,"Implementation of the Filecoin protocol, written in Go",filecoin-project,lotus,https://github.com/filecoin-project/lotus
+2022-07-03,go,12330,6,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-07-03,go,33242,16,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-07-03,go,2142,3,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2022-07-03,go,30739,21,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2022-07-03,go,4043,6,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2022-07-03,go,921,1,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2022-07-03,go,8598,8,"ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。",panjf2000,ants,https://github.com/panjf2000/ants
+2022-07-03,go,1498,3,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-07-03,go,11680,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-07-03,go,226,4,mev-boost allows proof-of-stake Ethereum consensus clients to outsource block construction,flashbots,mev-boost,https://github.com/flashbots/mev-boost
+2022-07-03,go,7704,1,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-07-03,go,7328,16,Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air

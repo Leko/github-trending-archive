@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-03,scala,4760,61,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",delta-io,delta,https://github.com/delta-io/delta
+2022-07-03,scala,2319,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-07-03,scala,8285,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-07-03,scala,13785,1,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-07-03,scala,1108,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-07-03,scala,12285,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-07-03,scala,5716,0,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-07-03,scala,33281,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-07-03,scala,3,0,,windymelt,FNFIS,https://github.com/windymelt/FNFIS
+2022-07-03,scala,16817,0,"Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",prisma,prisma1,https://github.com/prisma/prisma1
+2022-07-03,scala,4158,3,Your favorite language gets closer to bare metal.,scala-native,scala-native,https://github.com/scala-native/scala-native
+2022-07-03,scala,2535,1,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-07-03,scala,10888,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-07-03,scala,422,1,Ergo protocol description & reference client implementation,ergoplatform,ergo,https://github.com/ergoplatform/ergo
+2022-07-03,scala,1313,3,Home of the OpenComputers mod for Minecraft.,MightyPirates,OpenComputers,https://github.com/MightyPirates/OpenComputers
+2022-07-03,scala,8727,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-07-03,scala,698,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2022-07-03,scala,3348,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-07-03,scala,22,1,A fully-featured and blazing-fast Scala API client to interact with Algolia.,algolia,algoliasearch-client-scala,https://github.com/algolia/algoliasearch-client-scala
+2022-07-03,scala,2392,1,"A V2Ray, Trojan, ShadowsocksR client for Android",xxf098,shadowsocksr-v2ray-trojan-android,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+2022-07-03,scala,5568,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-07-03,scala,2264,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-07-03,scala,5552,0,Hybrid visual and textual functional programming.,enso-org,enso,https://github.com/enso-org/enso
+2022-07-03,scala,810,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-07-03,scala,3432,3,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
