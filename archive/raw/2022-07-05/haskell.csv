@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-05,haskell,2601,3,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-07-05,haskell,2096,3,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-07-05,haskell,25910,6,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-07-05,haskell,1862,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-07-05,haskell,29161,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-07-05,haskell,242,0,"An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.",haskell,bytestring,https://github.com/haskell/bytestring
+2022-07-05,haskell,3,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-07-05,haskell,72,0,Typed eDSL for writing UPLC /ˈpluː.tɑːk/,Plutonomicon,plutarch-plutus,https://github.com/Plutonomicon/plutarch-plutus
+2022-07-05,haskell,177,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2022-07-05,haskell,1071,1,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-07-05,haskell,7122,9,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-07-05,haskell,528,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-07-05,haskell,2707,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-07-05,haskell,37,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-07-05,haskell,201,4,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-07-05,haskell,11,0,,digital-asset,lib-finance,https://github.com/digital-asset/lib-finance
+2022-07-05,haskell,52,0,A package index for the Haskell ecosystem,flora-pm,flora-server,https://github.com/flora-pm/flora-server
+2022-07-05,haskell,212,1,Fugue Rego Toolkit,fugue,fregot,https://github.com/fugue/fregot
+2022-07-05,haskell,2456,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-07-05,haskell,226,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-07-05,haskell,1593,1,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2022-07-05,haskell,7751,3,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-07-05,haskell,2,1,"Projeto para a disciplina de Paradigmas de Programação da UnB, que cria um sistema de correio utilizando o paradigma de programação funcional com a linguagem Haskell",UnBParadigmas2022-1,2022.1_G5_Funcional_JaoDelivery,https://github.com/UnBParadigmas2022-1/2022.1_G5_Funcional_JaoDelivery
+2022-07-05,haskell,208,1,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-07-05,haskell,29,0,Governance modules for Cardano protocols,Liqwid-Labs,agora,https://github.com/Liqwid-Labs/agora
