@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-06,haskell,2711,4,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-07-06,haskell,1890,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-07-06,haskell,18909,11,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-07-06,haskell,7128,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-07-06,haskell,1378,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-07-06,haskell,165,1,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-07-06,haskell,2,0,,input-output-hk,hedgehog-extras,https://github.com/input-output-hk/hedgehog-extras
+2022-07-06,haskell,65,1,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-07-06,haskell,6,1,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-07-06,haskell,53,2,,awkward-squad,ki,https://github.com/awkward-squad/ki
+2022-07-06,haskell,2456,1,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-07-06,haskell,1864,2,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-07-06,haskell,2602,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-07-06,haskell,1626,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-07-06,haskell,209,1,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-07-06,haskell,7752,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-07-06,haskell,27336,14,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-07-06,haskell,2097,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-07-06,haskell,658,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-07-06,haskell,95,1,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-07-06,haskell,12,1,Visualizing kubernetes capacity.,Shopify,kubepacity,https://github.com/Shopify/kubepacity
+2022-07-06,haskell,218,1,A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2022-07-06,haskell,2195,4,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-07-06,haskell,240,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-07-06,haskell,793,1,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell

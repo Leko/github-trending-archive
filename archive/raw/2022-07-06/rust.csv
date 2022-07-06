@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-06,rust,588,86,[2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/),LearningOS,rust-based-os-comp2022,https://github.com/LearningOS/rust-based-os-comp2022
+2022-07-06,rust,6563,10,The Modern Port Scanner,RustScan,RustScan,https://github.com/RustScan/RustScan
+2022-07-06,rust,6649,27,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-07-06,rust,8650,2,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2022-07-06,rust,11386,3,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2022-07-06,rust,1697,9,The Jakt Programming Language,SerenityOS,jakt,https://github.com/SerenityOS/jakt
+2022-07-06,rust,2261,12,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-07-06,rust,27736,22,"An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-07-06,rust,3986,17,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-07-06,rust,22822,22,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2022-07-06,rust,4346,25,阿里云盘 WebDAV 服务,messense,aliyundrive-webdav,https://github.com/messense/aliyundrive-webdav
+2022-07-06,rust,5105,54,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2022-07-06,rust,6835,12,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2022-07-06,rust,2420,14,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-07-06,rust,45803,87,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-07-06,rust,4556,3,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2022-07-06,rust,7241,4,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-07-06,rust,1104,25,ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.,readysettech,readyset,https://github.com/readysettech/readyset
+2022-07-06,rust,18307,22,A modern replacement for ‘ls’.,ogham,exa,https://github.com/ogham/exa
+2022-07-06,rust,5250,11,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-07-06,rust,2613,6,A Rust library for the Discord API.,serenity-rs,serenity,https://github.com/serenity-rs/serenity
+2022-07-06,rust,2816,6,RisingWave: the next-generation streaming database in the cloud.,singularity-data,risingwave,https://github.com/singularity-data/risingwave
+2022-07-06,rust,17006,19,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-07-06,rust,10313,67,a structural diff that understands syntax,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2022-07-06,rust,6349,13,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx

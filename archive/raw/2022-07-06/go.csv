@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-06,go,3423,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-07-06,go,1686,6,Basic LDAP v3 functionality for the GO programming language.,go-ldap,ldap,https://github.com/go-ldap/ldap
+2022-07-06,go,16409,14,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-07-06,go,3454,91,Nuke a whole AWS account and delete all its resources.,rebuy-de,aws-nuke,https://github.com/rebuy-de/aws-nuke
+2022-07-06,go,650,54,‏‏‎ ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.,gocopper,copper,https://github.com/gocopper/copper
+2022-07-06,go,2844,39,Google CTF,google,google-ctf,https://github.com/google/google-ctf
+2022-07-06,go,1156,10,Asset discovery and identification tools 快速识别 Web 指纹信息，定位资产类型。辅助红队快速定位目标资产信息，辅助蓝队发现疑似脆弱点,zhzyker,dismap,https://github.com/zhzyker/dismap
+2022-07-06,go,7752,52,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2022-07-06,go,26456,13,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-07-06,go,5537,24,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-07-06,go,3916,11,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2022-07-06,go,14799,14,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-07-06,go,3082,9,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2022-07-06,go,4917,6,Provides packet processing capabilities for Go,google,gopacket,https://github.com/google/gopacket
+2022-07-06,go,6144,6,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2022-07-06,go,40530,11,A golang ebook intro how to build a web with golang,astaxie,build-web-application-with-golang,https://github.com/astaxie/build-web-application-with-golang
+2022-07-06,go,498,24,afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities,zan8in,afrog,https://github.com/zan8in/afrog
+2022-07-06,go,60778,44,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-07-06,go,5428,25,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
+2022-07-06,go,8242,13,A TCP proxy to simulate network and system conditions for chaos and resiliency testing,Shopify,toxiproxy,https://github.com/Shopify/toxiproxy
+2022-07-06,go,2704,5,Descheduler for Kubernetes,kubernetes-sigs,descheduler,https://github.com/kubernetes-sigs/descheduler
+2022-07-06,go,7167,7,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2022-07-06,go,17503,16,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2022-07-06,go,1992,2,Golang driver for ClickHouse,ClickHouse,clickhouse-go,https://github.com/ClickHouse/clickhouse-go
+2022-07-06,go,1846,12,ping command but with pingu,sheepla,pingu,https://github.com/sheepla/pingu
