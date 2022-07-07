@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-07,scala,33317,11,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-07-07,scala,779,4,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-07-07,scala,12287,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-07-07,scala,8288,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-07-07,scala,1114,4,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-07-07,scala,12153,2,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-07-07,scala,8737,5,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-07-07,scala,5021,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-07-07,scala,3351,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-07-07,scala,2062,0,Compile-time Language Integrated Queries for Scala,zio,zio-quill,https://github.com/zio/zio-quill
+2022-07-07,scala,1955,2,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-07-07,scala,3438,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-07-07,scala,2610,2,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-07-07,scala,182,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-07-07,scala,192,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2022-07-07,scala,423,0,Ergo protocol description & reference client implementation,ergoplatform,ergo,https://github.com/ergoplatform/ergo
+2022-07-07,scala,2330,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-07-07,scala,5722,3,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-07-07,scala,2803,3,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-07-07,scala,4518,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-07-07,scala,138,0,"Beautiful trees, without the landscaping.",stripe,bonsai,https://github.com/stripe/bonsai
+2022-07-07,scala,810,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-07-07,scala,408,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2022-07-07,scala,1729,1,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-07-07,scala,2535,2,Scala Language Integrated Connection Kit. Slick is a modern database query and access library for Scala,slick,slick,https://github.com/slick/slick

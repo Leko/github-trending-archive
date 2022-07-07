@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-07,haskell,27344,13,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-07-07,haskell,18918,9,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-07-07,haskell,2713,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-07-07,haskell,209,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-07-07,haskell,0,0,http-conduit-browser,litherum,http-conduit-browser,https://github.com/litherum/http-conduit-browser
+2022-07-07,haskell,29175,9,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-07-07,haskell,95,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-07-07,haskell,7129,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-07-07,haskell,2196,1,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-07-07,haskell,658,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-07-07,haskell,1894,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-07-07,haskell,2102,5,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-07-07,haskell,529,1,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-07-07,haskell,240,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-07-07,haskell,120,0,Exercises for the Haskell Beginners 2022 course,haskell-beginners-2022,exercises,https://github.com/haskell-beginners-2022/exercises
+2022-07-07,haskell,538,0,Reach: The Safest and Easiest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
+2022-07-07,haskell,1772,4,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-07-07,haskell,10,0,,tweag,plutus-libs,https://github.com/tweag/plutus-libs
+2022-07-07,haskell,242,0,"An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.",haskell,bytestring,https://github.com/haskell/bytestring
+2022-07-07,haskell,974,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2022-07-07,haskell,475,1,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2022-07-07,haskell,2,0,Biblioteca de estrutura de dados com análise de desempenho,UnBParadigmas2022-1,2022.1_G1_Funcional_DataStructLib,https://github.com/UnBParadigmas2022-1/2022.1_G1_Funcional_DataStructLib
+2022-07-07,haskell,886,3,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-07-07,haskell,161,0,,github,deli,https://github.com/github/deli
+2022-07-07,haskell,25927,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
