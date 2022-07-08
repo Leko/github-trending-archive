@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-08,shell,4483,3,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2022-07-08,shell,59169,26,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-07-08,shell,3226,4,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-07-08,shell,5020,3,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2022-07-08,shell,62406,36,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2022-07-08,shell,14321,68,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-07-08,shell,5972,1,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-07-08,shell,8960,11, Swiss Army Knife for macOS,rgcr,m-cli,https://github.com/rgcr/m-cli
+2022-07-08,shell,171,5,The docker-compose files for setting up a SearXNG instance with docker.,searxng,searxng-docker,https://github.com/searxng/searxng-docker
+2022-07-08,shell,11904,3,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-07-08,shell,8016,2,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-07-08,shell,54,9,"The project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.",jaromaz,MacintoshPi,https://github.com/jaromaz/MacintoshPi
+2022-07-08,shell,16500,4,Node version management,tj,n,https://github.com/tj/n
+2022-07-08,shell,1870,4,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-07-08,shell,14935,17,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-07-08,shell,10201,1,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2022-07-08,shell,14267,2,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2022-07-08,shell,1507,2,Apache Kafka and Confluent Platform examples and demos,confluentinc,examples,https://github.com/confluentinc/examples
+2022-07-08,shell,69,0,Example scenario workflows for Confluent for Kubernetes,confluentinc,confluent-kubernetes-examples,https://github.com/confluentinc/confluent-kubernetes-examples
+2022-07-08,shell,25826,4,Git extensions to provide high-level repository operations for Vincent Driessen's branching model.,nvie,gitflow,https://github.com/nvie/gitflow
+2022-07-08,shell,624,0,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2022-07-08,shell,5644,19,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2022-07-08,shell,13016,1,A community Bash framework.,Bash-it,bash-it,https://github.com/Bash-it/bash-it
+2022-07-08,shell,1477,0,`/usr/bin/qemu-*-static`,multiarch,qemu-user-static,https://github.com/multiarch/qemu-user-static
+2022-07-08,shell,3270,3,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core

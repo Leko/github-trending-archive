@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-08,go,2963,62,Google CTF,google,google-ctf,https://github.com/google/google-ctf
+2022-07-08,go,35,4,,tiancai110a,go-rpc,https://github.com/tiancai110a/go-rpc
+2022-07-08,go,3099,9,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2022-07-08,go,1705,8,Basic LDAP v3 functionality for the GO programming language.,go-ldap,ldap,https://github.com/go-ldap/ldap
+2022-07-08,go,7595,9,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2022-07-08,go,5826,32,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2022-07-08,go,3391,5,"Open Source (Go) implementation of ""Zanzibar: Google's Consistent, Global Authorization System"". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.",ory,keto,https://github.com/ory/keto
+2022-07-08,go,1573,7,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2022-07-08,go,63458,15,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-07-08,go,7194,5,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-07-08,go,28803,21,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-07-08,go,2628,5,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2022-07-08,go,23759,12,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2022-07-08,go,23344,17,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2022-07-08,go,8607,9,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2022-07-08,go,6676,7,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2022-07-08,go,60849,31,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-07-08,go,12373,12,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-07-08,go,18274,6,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-07-08,go,6045,11,Distributed server for social and realtime games and apps.,heroiclabs,nakama,https://github.com/heroiclabs/nakama
+2022-07-08,go,1859,4,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2022-07-08,go,10095,21,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-07-08,go,10090,7,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2022-07-08,go,25016,13,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-07-08,go,7432,6,Pure Go Postgres driver for database/sql,lib,pq,https://github.com/lib/pq

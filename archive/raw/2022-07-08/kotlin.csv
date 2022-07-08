@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-08,kotlin,3958,8,Kotlin multiplatform / multi-format serialization,Kotlin,kotlinx.serialization,https://github.com/Kotlin/kotlinx.serialization
+2022-07-08,kotlin,42442,11,"Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",square,okhttp,https://github.com/square/okhttp
+2022-07-08,kotlin,95,17,F-Droid client with Material UI.,Iamlooker,Droid-ify,https://github.com/Iamlooker/Droid-ify
+2022-07-08,kotlin,4464,53,短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正,pppscn,SmsForwarder,https://github.com/pppscn/SmsForwarder
+2022-07-08,kotlin,10941,2,Library support for Kotlin coroutines,Kotlin,kotlinx.coroutines,https://github.com/Kotlin/kotlinx.coroutines
+2022-07-08,kotlin,81,12,"Application mechanics for your Android apps, built on top of Jetpack Compose",bumble-tech,appyx,https://github.com/bumble-tech/appyx
+2022-07-08,kotlin,137,39,NeoPop is CRED's inbuilt library for using NeoPop components in your app,CRED-CLUB,neopop-android,https://github.com/CRED-CLUB/neopop-android
+2022-07-08,kotlin,4904,8,Mavericks: Android on Autopilot,airbnb,mavericks,https://github.com/airbnb/mavericks
+2022-07-08,kotlin,565,3,Matsuri (茉莉) / Android proxy toolchain / 安卓代理应用 / Fork of SagerNet,MatsuriDayo,Matsuri,https://github.com/MatsuriDayo/Matsuri
+2022-07-08,kotlin,1042,10,"Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco",skydoves,landscapist,https://github.com/skydoves/landscapist
+2022-07-08,kotlin,5485,18,A fully functional Android app built entirely with Kotlin and Jetpack Compose,android,nowinandroid,https://github.com/android/nowinandroid
+2022-07-08,kotlin,351,5,Library to use Kotlin Coroutines from Swift code in KMP apps,rickclephas,KMP-NativeCoroutines,https://github.com/rickclephas/KMP-NativeCoroutines
+2022-07-08,kotlin,3545,5,"Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing",kotest,kotest,https://github.com/kotest/kotest
+2022-07-08,kotlin,1000,1,A ktlint gradle plugin,JLLeitschuh,ktlint-gradle,https://github.com/JLLeitschuh/ktlint-gradle
+2022-07-08,kotlin,4539,4,mocking library for Kotlin,mockk,mockk,https://github.com/mockk/mockk
+2022-07-08,kotlin,3822,1,Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.,androidx,androidx,https://github.com/androidx/androidx
+2022-07-08,kotlin,524,0,Mapbox Navigation SDK for Android,mapbox,mapbox-navigation-android,https://github.com/mapbox/mapbox-navigation-android
+2022-07-08,kotlin,15907,6,A gardening app illustrating Android development best practices with Android Jetpack.,android,sunflower,https://github.com/android/sunflower
+2022-07-08,kotlin,9003,4,"Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",JetBrains,compose-jb,https://github.com/JetBrains/compose-jb
+2022-07-08,kotlin,186,2,"Interactive, thoroughly customizable maps in native Android powered by vector tiles and OpenGL.",mapbox,mapbox-maps-android,https://github.com/mapbox/mapbox-maps-android
+2022-07-08,kotlin,5283,3,"Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.",chrisbanes,tivi,https://github.com/chrisbanes/tivi
+2022-07-08,kotlin,5106,5,"Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",iSoron,uhabits,https://github.com/iSoron/uhabits
+2022-07-08,kotlin,41100,9,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,android,architecture-samples,https://github.com/android/architecture-samples
+2022-07-08,kotlin,8021,0,"A modern I/O library for Android, Java, and Kotlin Multiplatform.",square,okio,https://github.com/square/okio
+2022-07-08,kotlin,22010,5,Samples for Android Architecture Components.,android,architecture-components-samples,https://github.com/android/architecture-components-samples
