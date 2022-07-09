@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-09,go,353,55,An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.,aquasecurity,chain-bench,https://github.com/aquasecurity/chain-bench
+2022-07-09,go,2977,13,Google CTF,google,google-ctf,https://github.com/google/google-ctf
+2022-07-09,go,24405,4,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-07-09,go,23355,13,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2022-07-09,go,5832,6,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2022-07-09,go,13628,10,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-07-09,go,7157,9,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-07-09,go,19500,9,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-07-09,go,16365,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-07-09,go,7285,39,Cloud cost estimates for Terraform in pull requests Love your cloud bill!,infracost,infracost,https://github.com/infracost/infracost
+2022-07-09,go,9843,14,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-07-09,go,3277,48,A modern watch command. Time machine and pager etc.,sachaos,viddy,https://github.com/sachaos/viddy
+2022-07-09,go,3155,13,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-07-09,go,1712,7,Basic LDAP v3 functionality for the GO programming language.,go-ldap,ldap,https://github.com/go-ldap/ldap
+2022-07-09,go,25847,39,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2022-07-09,go,25016,3,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-07-09,go,1579,6,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2022-07-09,go,18762,14,Delve is a debugger for the Go programming language.,go-delve,delve,https://github.com/go-delve/delve
+2022-07-09,go,1731,3,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2022-07-09,go,27427,22,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-07-09,go,3037,9,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2022-07-09,go,7604,10,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2022-07-09,go,3394,1,Confluent's Apache Kafka Golang client,confluentinc,confluent-kafka-go,https://github.com/confluentinc/confluent-kafka-go
+2022-07-09,go,101427,30,The Go programming language,golang,go,https://github.com/golang/go
+2022-07-09,go,2406,8,gin middleware to automatically generate RESTful API documentation with Swagger 2.0.,swaggo,gin-swagger,https://github.com/swaggo/gin-swagger

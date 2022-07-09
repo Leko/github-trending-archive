@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-09,rust,4170,262,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2022-07-09,rust,6102,16,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2022-07-09,rust,18367,11,A modern replacement for ‘ls’.,ogham,exa,https://github.com/ogham/exa
+2022-07-09,rust,23704,18,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2022-07-09,rust,474,23,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-07-09,rust,23810,67,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-07-09,rust,11639,7,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2022-07-09,rust,1690,1,AWS SDK for the Rust Programming Language,awslabs,aws-sdk-rust,https://github.com/awslabs/aws-sdk-rust
+2022-07-09,rust,6864,28,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-07-09,rust,660,56,App source + Nix packages + Docker = Image,railwayapp,nixpacks,https://github.com/railwayapp/nixpacks
+2022-07-09,rust,6939,23,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2022-07-09,rust,6858,7,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2022-07-09,rust,2154,11,"Code for ""Zero To Production In Rust"", a book on API development using Rust.",LukeMathWalker,zero-to-production,https://github.com/LukeMathWalker/zero-to-production
+2022-07-09,rust,2192,3,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-07-09,rust,2339,21,A very fast implementation of tldr in Rust.,dbrgn,tealdeer,https://github.com/dbrgn/tealdeer
+2022-07-09,rust,11843,27,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2022-07-09,rust,6178,31,Just a command runner,casey,just,https://github.com/casey/just
+2022-07-09,rust,1267,6,Declare your digital independence,freenet,locutus,https://github.com/freenet/locutus
+2022-07-09,rust,6833,17,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2022-07-09,rust,4403,18,Yet another cross-platform graphical process/system monitor.,ClementTsang,bottom,https://github.com/ClementTsang/bottom
+2022-07-09,rust,5451,18,Git repository summary on your terminal,o2sh,onefetch,https://github.com/o2sh/onefetch
+2022-07-09,rust,14390,10,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2022-07-09,rust,8355,13,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-07-09,rust,6631,9,The Modern Port Scanner,RustScan,RustScan,https://github.com/RustScan/RustScan
+2022-07-09,rust,10424,30,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
