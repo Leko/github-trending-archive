@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-10,lua,10908,8,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-07-10,lua,522,1,"Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools.",ray-x,go.nvim,https://github.com/ray-x/go.nvim
+2022-07-10,lua,1569,3,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2022-07-10,lua,1482,1,Lua Language Server coded by Lua,sumneko,lua-language-server,https://github.com/sumneko/lua-language-server
+2022-07-10,lua,618,1,My configuration files and tools,tjdevries,config_manager,https://github.com/tjdevries/config_manager
+2022-07-10,lua,1841,4,Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!,williamboman,nvim-lsp-installer,https://github.com/williamboman/nvim-lsp-installer
+2022-07-10,lua,1280,2,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-07-10,lua,32396,5,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-07-10,lua,1455,1,magit for neovim,TimUntersberger,neogit,https://github.com/TimUntersberger/neogit
+2022-07-10,lua,2783,4,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-07-10,lua,250,6,A Neovim plugin for adding/changing/deleting surrounding delimiter pairs. Written with  in Lua.,kylechui,nvim-surround,https://github.com/kylechui/nvim-surround
+2022-07-10,lua,84,2,A neovim plugin that lets you easily create Telescope pickers from arbitraty console commands,axkirillov,easypick.nvim,https://github.com/axkirillov/easypick.nvim
+2022-07-10,lua,1715,11,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2022-07-10,lua,1594,10,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-07-10,lua,1042,3,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-07-10,lua,173,0,A very fast Lua based Neovim configuration that uses coc.nvim for intellisense,albingroen,quick.nvim,https://github.com/albingroen/quick.nvim
+2022-07-10,lua,4915,7,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-07-10,lua,561,1,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2022-07-10,lua,127,0,Configuration files for Assetto Corsa Custom Shaders Patch,ac-custom-shaders-patch,acc-extension-config,https://github.com/ac-custom-shaders-patch/acc-extension-config
+2022-07-10,lua,20,1,"Beautiful, fast, functional Configuration for Neovim.",Civitasv,runvim,https://github.com/Civitasv/runvim
+2022-07-10,lua,26,0,"Bizhawk script compatible with Pokemon Emerald, Leaf Green, and Fire Red that tracks relevant data for the ironMON challenge.",besteon,Ironmon-Tracker,https://github.com/besteon/Ironmon-Tracker
+2022-07-10,lua,99,0,Improved Yank and Put functionalities for Neovim,gbprod,yanky.nvim,https://github.com/gbprod/yanky.nvim
+2022-07-10,lua,654,2,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2022-07-10,lua,526,0,Data related to the investigation of realtime censorship,citizenlab,chat-censorship,https://github.com/citizenlab/chat-censorship
+2022-07-10,lua,2637,7,A lightweight text editor written in Lua,lite-xl,lite-xl,https://github.com/lite-xl/lite-xl

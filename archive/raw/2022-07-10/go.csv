@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-10,go,3300,1061,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-07-10,go,7158,1,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-07-10,go,18291,10,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-07-10,go,12922,14,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-07-10,go,41548,23,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-07-10,go,13635,10,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-07-10,go,16905,59,Share your terminal as a web application,yudai,gotty,https://github.com/yudai/gotty
+2022-07-10,go,12823,10,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-07-10,go,232,9,"支持BTC/ETH/XMR/ETC/BCH/CFX/ERG/RVN等多币种中转矿池代理，独家掉线提醒，伪装算力，支持抽水，防CC，无损耗抽水,恒定开发费！支持TCP和SSL协议，支持自定义跨矿池抽水，高性能高并发，支持web界面管理，全自动进程守护以及开机启动,配套本地隧道加密软件，修改矿池本地算力，ip黑名单，精确到单台设备的24小时数据统计、自定义隧道推送工具等... 强大功能稳定的 minerproxy，以太坊抽水 minerproxy，比特币抽水 minerproxy，莱特币抽水 minerproxy，ton抽水 minerproxy，ssl加密中转 minerproxy，https加密中转软件 minerproxy 抽水软件 minerproxy 混淆加密 minerprox…",MinerProxyBTC,GoMinerTool,https://github.com/MinerProxyBTC/GoMinerTool
+2022-07-10,go,11761,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-07-10,go,2842,30,"Hysteria is a feature-packed proxy & relay utility optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting from China to servers abroad)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-07-10,go,23406,5,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-07-10,go,9852,9,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-07-10,go,382,31,An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.,aquasecurity,chain-bench,https://github.com/aquasecurity/chain-bench
+2022-07-10,go,3166,10,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-07-10,go,2546,19,"Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",ThreeDotsLabs,wild-workouts-go-ddd-example,https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+2022-07-10,go,550,6,afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities,zan8in,afrog,https://github.com/zan8in/afrog
+2022-07-10,go,6689,63,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-07-10,go,168,2,"Tanzu Framework provides a set of building blocks to build atop of the Tanzu platform and leverages Carvel packaging and plugins to provide users with a much stronger, more integrated experience than the loose coupling and stand-alone commands of the previous generation of tools.",vmware-tanzu,tanzu-framework,https://github.com/vmware-tanzu/tanzu-framework
+2022-07-10,go,7500,1,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-07-10,go,8569,19,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2022-07-10,go,22172,4,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-07-10,go,6348,1,Machinery is an asynchronous task queue/job queue based on distributed message passing.,RichardKnop,machinery,https://github.com/RichardKnop/machinery
+2022-07-10,go,10102,5,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2022-07-10,go,2363,8,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
