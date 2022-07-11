@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-11,rust,4650,190,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2022-07-11,rust,40244,28,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2022-07-11,rust,68597,45,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-07-11,rust,4489,6,Format Rust code,rust-lang,rustfmt,https://github.com/rust-lang/rustfmt
+2022-07-11,rust,7647,17,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2022-07-11,rust,12873,13,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-07-11,rust,8669,1,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2022-07-11,rust,10186,10,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2022-07-11,rust,10477,25,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-07-11,rust,1774,10,Incomplete Redis client and server implementation using Tokio - for learning purposes only,tokio-rs,mini-redis,https://github.com/tokio-rs/mini-redis
+2022-07-11,rust,22603,19,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2022-07-11,rust,46322,85,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-07-11,rust,7890,7,A standalone runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-07-11,rust,3558,33,The serverless open source alternative to AWS Aurora Postgres.,neondatabase,neon,https://github.com/neondatabase/neon
+2022-07-11,rust,17080,20,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-07-11,rust,1278,18,"A file server that supports static serving, uploading, searching, accessing control, webdav...",sigoden,dufs,https://github.com/sigoden/dufs
+2022-07-11,rust,2958,19,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2022-07-11,rust,141,18,"CYFS is the next-generation technology to build real Web3 by upgrading the basic protocol of Web (TCP/IP+DNS+HTTP),is short for CYberFileSystem. https://www.cyfs.com/, cyfs://cyfs/index_en.html.",buckyos,CYFS,https://github.com/buckyos/CYFS
+2022-07-11,rust,1792,72,A parser library for humans with powerful error recovery.,zesterer,chumsky,https://github.com/zesterer/chumsky
+2022-07-11,rust,1950,13,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-07-11,rust,27281,16,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-07-11,rust,299,24,Interactive batteries viewer,svartalf,rust-battop,https://github.com/svartalf/rust-battop
+2022-07-11,rust,1584,15,A full-featured and easy-to-use web framework with the Rust programming language.,poem-web,poem,https://github.com/poem-web/poem
+2022-07-11,rust,4048,11,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-07-11,rust,6880,17,Rayon: A data parallelism library for Rust,rayon-rs,rayon,https://github.com/rayon-rs/rayon
