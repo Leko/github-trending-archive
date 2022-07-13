@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-13,r,1498,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2022-07-13,r,432,1,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2022-07-13,r,306,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2022-07-13,r,538,2,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2022-07-13,r,4723,2,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2022-07-13,r,232,2,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2022-07-13,r,66,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2022-07-13,r,334,1,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2022-07-13,r,3896,0,A collection of interactive courses for the swirl R package.,swirldev,swirl_courses,https://github.com/swirldev/swirl_courses
+2022-07-13,r,25,0,"rstudio::conf(2022, ""program"")",rstudio,rstudio-conf-2022-program,https://github.com/rstudio/rstudio-conf-2022-program
+2022-07-13,r,1032,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2022-07-13,r,337,0,R Source Code,SurajGupta,r-source,https://github.com/SurajGupta/r-source
+2022-07-13,r,4143,0,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2022-07-13,r,345,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2022-07-13,r,176,1,R toolkit for the analysis of single-cell chromatin data,timoast,signac,https://github.com/timoast/signac
+2022-07-13,r,656,1,A universal enrichment tool for interpreting omics data,YuLab-SMU,clusterProfiler,https://github.com/YuLab-SMU/clusterProfiler
+2022-07-13,r,169,1,Community-provided extensions to Seurat,satijalab,seurat-wrappers,https://github.com/satijalab/seurat-wrappers
+2022-07-13,r,185,1,,cole-trapnell-lab,monocle3,https://github.com/cole-trapnell-lab/monocle3
+2022-07-13,r,721,0,R client for interacting with Twitter's [stream and REST] APIs,ropensci,rtweet,https://github.com/ropensci/rtweet
+2022-07-13,r,872,0,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
+2022-07-13,r,2724,3,A curated list of awesome network analysis resources.,briatte,awesome-network-analysis,https://github.com/briatte/awesome-network-analysis
+2022-07-13,r,3,0,Practicals for Genetic epidemiology short course,MRCIEU,genetic-epidemiology-practicals,https://github.com/MRCIEU/genetic-epidemiology-practicals
+2022-07-13,r,914,0,"Read flat files (csv, tsv, fwf) into R",tidyverse,readr,https://github.com/tidyverse/readr
+2022-07-13,r,15,1,Access Amazon Web Service 'S3' as if it were a file system. File system 'API' design around R package 'fs',DyfanJones,s3fs,https://github.com/DyfanJones/s3fs
+2022-07-13,r,5083,1,"A curated list of awesome R packages, frameworks and software.",qinwf,awesome-R,https://github.com/qinwf/awesome-R

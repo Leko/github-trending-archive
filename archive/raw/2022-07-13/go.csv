@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-13,go,5824,759,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-07-13,go,8751,24,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-07-13,go,931,67,Remote development environments on your infrastructure,coder,coder,https://github.com/coder/coder
+2022-07-13,go,11146,16,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-07-13,go,9913,4,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2022-07-13,go,3002,7,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2022-07-13,go,1586,47,Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。,lcvvvv,kscan,https://github.com/lcvvvv/kscan
+2022-07-13,go,2992,32,"Hysteria is a feature-packed proxy & relay utility optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting from China to servers abroad)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-07-13,go,1962,7,Kubernetes controller for GitHub Actions self-hosted runners,actions-runner-controller,actions-runner-controller,https://github.com/actions-runner-controller/actions-runner-controller
+2022-07-13,go,4210,5,The official Go client for Elasticsearch,elastic,go-elasticsearch,https://github.com/elastic/go-elasticsearch
+2022-07-13,go,1103,73,A simple vaultless password manager in Go,cloudflare,gokey,https://github.com/cloudflare/gokey
+2022-07-13,go,13653,19,基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-07-13,go,7056,3,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2022-07-13,go,13009,26,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-07-13,go,13019,11,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-07-13,go,4175,4,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2022-07-13,go,11270,14,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-07-13,go,10657,13,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2022-07-13,go,10319,12,Deliver Go binaries as fast and easily as possible,goreleaser,goreleaser,https://github.com/goreleaser/goreleaser
+2022-07-13,go,2718,10,The new home of the CUE language! Validate and define text-based and dynamic configuration,cue-lang,cue,https://github.com/cue-lang/cue
+2022-07-13,go,2799,8,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-07-13,go,3271,14,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2022-07-13,go,282,3,Terraform Datadog provider,DataDog,terraform-provider-datadog,https://github.com/DataDog/terraform-provider-datadog
+2022-07-13,go,24439,8,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-07-13,go,18330,16,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
