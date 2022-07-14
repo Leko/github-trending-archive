@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-14,go,4788,4,An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）,chaosblade-io,chaosblade,https://github.com/chaosblade-io/chaosblade
+2022-07-14,go,6346,9,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-07-14,go,6188,3,Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,gruntwork-io,terratest,https://github.com/gruntwork-io/terratest
+2022-07-14,go,3170,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-07-14,go,13029,22,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-07-14,go,11712,8,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-07-14,go,10718,3,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2022-07-14,go,23430,10,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-07-14,go,1068,139,Remote development environments on your infrastructure,coder,coder,https://github.com/coder/coder
+2022-07-14,go,12409,4,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2022-07-14,go,5856,7,Define your dev environment as code. For microservice apps on Kubernetes.,tilt-dev,tilt,https://github.com/tilt-dev/tilt
+2022-07-14,go,11624,9,"A little like that j-thing, only in Go.",PuerkitoBio,goquery,https://github.com/PuerkitoBio/goquery
+2022-07-14,go,5128,4,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2022-07-14,go,1705,5,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2022-07-14,go,5849,16,Efficient cache for gigabytes of data written in Go.,allegro,bigcache,https://github.com/allegro/bigcache
+2022-07-14,go,3333,11,"Copier for golang, copy value from struct to struct and more",jinzhu,copier,https://github.com/jinzhu/copier
+2022-07-14,go,9174,6,Go client for Redis,gomodule,redigo,https://github.com/gomodule/redigo
+2022-07-14,go,6828,6,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2022-07-14,go,33400,19,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-07-14,go,8573,8,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2022-07-14,go,2724,6,The new home of the CUE language! Validate and define text-based and dynamic configuration,cue-lang,cue,https://github.com/cue-lang/cue
+2022-07-14,go,2036,4,Documentation generator plugin for Google Protocol Buffers,pseudomuto,protoc-gen-doc,https://github.com/pseudomuto/protoc-gen-doc
+2022-07-14,go,251,4,mev-boost allows proof-of-stake Ethereum consensus clients to outsource block construction,flashbots,mev-boost,https://github.com/flashbots/mev-boost
+2022-07-14,go,4620,12,A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.,cloudwego,kitex,https://github.com/cloudwego/kitex
+2022-07-14,go,6807,27,"A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.",dtm-labs,dtm,https://github.com/dtm-labs/dtm
