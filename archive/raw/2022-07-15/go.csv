@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-15,go,8809,17,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-07-15,go,1097,30,Remote development environments on your infrastructure,coder,coder,https://github.com/coder/coder
+2022-07-15,go,22203,10,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-07-15,go,8950,16,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-07-15,go,11173,15,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-07-15,go,1698,45,Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。,lcvvvv,kscan,https://github.com/lcvvvv/kscan
+2022-07-15,go,3210,11,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2022-07-15,go,5574,14,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2022-07-15,go,1286,15,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,cloudwego,hertz,https://github.com/cloudwego/hertz
+2022-07-15,go,8650,13,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2022-07-15,go,6366,9,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-07-15,go,5863,17,Efficient cache for gigabytes of data written in Go.,allegro,bigcache,https://github.com/allegro/bigcache
+2022-07-15,go,90200,43,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-07-15,go,7373,18,The effortless CI/CD framework that runs anywhere,earthly,earthly,https://github.com/earthly/earthly
+2022-07-15,go,5010,9,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2022-07-15,go,947,13,Go Implementation For Seata,seata,seata-go,https://github.com/seata/seata-go
+2022-07-15,go,1713,7,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2022-07-15,go,9913,12,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-07-15,go,6826,20,"A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.",dtm-labs,dtm,https://github.com/dtm-labs/dtm
+2022-07-15,go,25049,10,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-07-15,go,13805,9,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-07-15,go,2179,12,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2022-07-15,go,31819,14,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2022-07-15,go,30136,17,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2022-07-15,go,40534,20,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
