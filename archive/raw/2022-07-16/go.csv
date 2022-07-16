@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-16,go,11861,45,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-07-16,go,8824,18,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2022-07-16,go,8845,41,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-07-16,go,215,34,"Flow collector, hydrater and visualizer",vincentbernat,akvorado,https://github.com/vincentbernat/akvorado
+2022-07-16,go,118,14,"Marshmallow provides a flexible and performant JSON unmarshalling in Go. It specializes in dealing with unstructured struct - when some fields are known and some aren't, with zero performance overhead nor extra coding needed.",PerimeterX,marshmallow,https://github.com/PerimeterX/marshmallow
+2022-07-16,go,2302,0,"The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.",aws,copilot-cli,https://github.com/aws/copilot-cli
+2022-07-16,go,6847,21,"A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.",dtm-labs,dtm,https://github.com/dtm-labs/dtm
+2022-07-16,go,28918,19,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-07-16,go,30152,18,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2022-07-16,go,6364,6,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-07-16,go,1752,55,Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。,lcvvvv,kscan,https://github.com/lcvvvv/kscan
+2022-07-16,go,5035,3,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2022-07-16,go,599,41,云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作,teamssix,cf,https://github.com/teamssix/cf
+2022-07-16,go,8543,54,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2022-07-16,go,11727,11,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-07-16,go,12178,12,"Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops",gravitational,teleport,https://github.com/gravitational/teleport
+2022-07-16,go,16358,10,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-07-16,go,18671,11,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-07-16,go,3411,0,Confluent's Apache Kafka Golang client,confluentinc,confluent-kafka-go,https://github.com/confluentinc/confluent-kafka-go
+2022-07-16,go,3690,4,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2022-07-16,go,13808,7,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-07-16,go,33443,22,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-07-16,go,7393,23,The effortless CI/CD framework that runs anywhere,earthly,earthly,https://github.com/earthly/earthly
+2022-07-16,go,7758,3,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2022-07-16,go,24395,6,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube

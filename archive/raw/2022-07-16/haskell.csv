@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-16,haskell,27425,14,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-07-16,haskell,7210,9,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-07-16,haskell,29273,13,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-07-16,haskell,8405,3,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-07-16,haskell,18960,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-07-16,haskell,6891,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-07-16,haskell,97,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-07-16,haskell,1,0,,jtmalinowski,haskell-particles,https://github.com/jtmalinowski/haskell-particles
+2022-07-16,haskell,977,1,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2022-07-16,haskell,2089,4,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-07-16,haskell,212,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-07-16,haskell,1795,8,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-07-16,haskell,4592,2,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-07-16,haskell,530,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-07-16,haskell,1922,5,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-07-16,haskell,1412,2,Command-line Kanban board/task manager with support for Trello boards and GitHub projects,smallhadroncollider,taskell,https://github.com/smallhadroncollider/taskell
+2022-07-16,haskell,2367,0,What I Wish I Knew When Learning Haskell,sdiehl,wiwinwlh,https://github.com/sdiehl/wiwinwlh
+2022-07-16,haskell,728,1,Dataflow programming and declarative concurrency,composewell,streamly,https://github.com/composewell/streamly
+2022-07-16,haskell,17,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-07-16,haskell,8,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,https://github.com/digital-asset/ex-mortgage-repackaging
+2022-07-16,haskell,274,0,SystemVerilog to Verilog conversion,zachjs,sv2v,https://github.com/zachjs/sv2v
+2022-07-16,haskell,27,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2022-07-16,haskell,249,0,Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.,VinylRecords,Vinyl,https://github.com/VinylRecords/Vinyl
+2022-07-16,haskell,1393,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-07-16,haskell,2724,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
