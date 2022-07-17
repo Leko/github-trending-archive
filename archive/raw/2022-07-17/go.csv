@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-17,go,8871,15,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-07-17,go,11931,75,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-07-17,go,14524,14,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-07-17,go,101680,45,The Go programming language,golang,go,https://github.com/golang/go
+2022-07-17,go,11368,6,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-07-17,go,9660,13,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-07-17,go,25069,9,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-07-17,go,11730,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-07-17,go,614,16,云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作,teamssix,cf,https://github.com/teamssix/cf
+2022-07-17,go,2839,7,"Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",hakluke,hakrawler,https://github.com/hakluke/hakrawler
+2022-07-17,go,1198,3,"A package-centric toolchain that enables a WYSIWYG configuration authoring, automation, and delivery experience, which simplifies managing Kubernetes platforms and KRM-driven infrastructure at scale by manipulating declarative Configuration as Data, separated from the code that transforms it.",GoogleContainerTools,kpt,https://github.com/GoogleContainerTools/kpt
+2022-07-17,go,1847,24,"Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.",turbot,steampipe,https://github.com/turbot/steampipe
+2022-07-17,go,13815,8,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-07-17,go,582,8,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,kubernetes-sigs,gateway-api,https://github.com/kubernetes-sigs/gateway-api
+2022-07-17,go,22228,10,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-07-17,go,1767,15,Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。,lcvvvv,kscan,https://github.com/lcvvvv/kscan
+2022-07-17,go,6378,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-07-17,go,9155,8,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-07-17,go,240,25,"Flow collector, hydrater and visualizer",vincentbernat,akvorado,https://github.com/vincentbernat/akvorado
+2022-07-17,go,3459,5,Sample apps and code written for Google Cloud in the Go programming language.,GoogleCloudPlatform,golang-samples,https://github.com/GoogleCloudPlatform/golang-samples
+2022-07-17,go,5593,12,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2022-07-17,go,2584,1,Cross-cloud cost allocation models for Kubernetes workloads,opencost,opencost,https://github.com/opencost/opencost
+2022-07-17,go,63527,12,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-07-17,go,1660,4,"A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.",banzaicloud,bank-vaults,https://github.com/banzaicloud/bank-vaults
+2022-07-17,go,3134,26,Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com,bytebase,bytebase,https://github.com/bytebase/bytebase

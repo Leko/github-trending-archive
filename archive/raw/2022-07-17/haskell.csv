@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-17,haskell,27432,7,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-07-17,haskell,18960,0,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-07-17,haskell,26018,5,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-07-17,haskell,1924,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-07-17,haskell,8407,2,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-07-17,haskell,1797,2,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-07-17,haskell,1,0,,brightly-salty,qbcanon,https://github.com/brightly-salty/qbcanon
+2022-07-17,haskell,202,0,A formal logic framework that runs in the browser,Carnap,Carnap,https://github.com/Carnap/Carnap
+2022-07-17,haskell,2725,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-07-17,haskell,4594,2,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-07-17,haskell,1652,3,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-07-17,haskell,29281,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-07-17,haskell,8,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,https://github.com/digital-asset/ex-mortgage-repackaging
+2022-07-17,haskell,27,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2022-07-17,haskell,4,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-07-17,haskell,751,5,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2022-07-17,haskell,213,1,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-07-17,haskell,6,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-07-17,haskell,177,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2022-07-17,haskell,50,0,Principled and efficient binary serialization,Quid2,flat,https://github.com/Quid2/flat
+2022-07-17,haskell,3389,4,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-07-17,haskell,9,0,Algol 60 60 years later,ailrk,blgol60,https://github.com/ailrk/blgol60
+2022-07-17,haskell,97,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-07-17,haskell,2092,3,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-07-17,haskell,530,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
