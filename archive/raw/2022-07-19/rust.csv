@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-19,rust,26935,401,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-07-19,rust,9000,12,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,getzola,zola,https://github.com/getzola/zola
+2022-07-19,rust,17215,24,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-07-19,rust,4615,12,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2022-07-19,rust,1729,5,The Jakt Programming Language,SerenityOS,jakt,https://github.com/SerenityOS/jakt
+2022-07-19,rust,5205,12,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2022-07-19,rust,17876,16,A web framework for Rust.,SergioBenitez,Rocket,https://github.com/SergioBenitez/Rocket
+2022-07-19,rust,4953,5,Metal IO library for Rust,tokio-rs,mio,https://github.com/tokio-rs/mio
+2022-07-19,rust,22724,16,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2022-07-19,rust,679,10,The TAO of cross-platform windowing. A library in Rust built for Tauri.,tauri-apps,tao,https://github.com/tauri-apps/tao
+2022-07-19,rust,383,1,Smart contracts maintained by the Metaplex team,metaplex-foundation,metaplex-program-library,https://github.com/metaplex-foundation/metaplex-program-library
+2022-07-19,rust,5037,20,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2022-07-19,rust,8038,22,Build terminal user interfaces and dashboards using Rust,fdehau,tui-rs,https://github.com/fdehau/tui-rs
+2022-07-19,rust,1492,11,Cross-platform game engine in Rust.,not-fl3,macroquad,https://github.com/not-fl3/macroquad
+2022-07-19,rust,3411,9,Experimental real-time global illumination renderer,EmbarkStudios,kajiya,https://github.com/EmbarkStudios/kajiya
+2022-07-19,rust,16778,15,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-07-19,rust,6711,6,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2022-07-19,rust,6069,3,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2022-07-19,rust,9025,11,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-07-19,rust,6898,10,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2022-07-19,rust,2731,3,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2022-07-19,rust,10229,6,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2022-07-19,rust,6910,11,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2022-07-19,rust,15100,27,"x86 virtualization in your browser, recompiling x86 to wasm on the fly",copy,v86,https://github.com/copy/v86
+2022-07-19,rust,2224,5,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-19,lua,5005,13,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-07-19,lua,1941,20,My awesomewm dotfiles for awesome people!,rxyhn,dotfiles,https://github.com/rxyhn/dotfiles
+2022-07-19,lua,10742,17,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-07-19,lua,991,14,Soothing pastel theme for NeoVim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2022-07-19,lua,2852,5,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-07-19,lua,3302,16,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-07-19,lua,3285,14,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-07-19,lua,486,5,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
+2022-07-19,lua,1034,7,"A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2022-07-19,lua,500,5,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-07-19,lua,1315,2,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-07-19,lua,6433,11,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-07-19,lua,9512,17,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-07-19,lua,1675,6,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2022-07-19,lua,4906,7,awesome window manager,awesomeWM,awesome,https://github.com/awesomeWM/awesome
+2022-07-19,lua,1389,0,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-07-19,lua,1899,7,Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!,williamboman,nvim-lsp-installer,https://github.com/williamboman/nvim-lsp-installer
+2022-07-19,lua,1752,1,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2022-07-19,lua,3449,11,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-07-19,lua,511,2,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest
+2022-07-19,lua,1272,3,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2022-07-19,lua,959,3,Tools for better development in rust using neovim's builtin lsp,simrat39,rust-tools.nvim,https://github.com/simrat39/rust-tools.nvim
+2022-07-19,lua,1632,3,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-07-19,lua,802,5,Combined Resource Folder from Multiple Sources of certain anime game,Koko-boya,Grasscutter_Resources,https://github.com/Koko-boya/Grasscutter_Resources
+2022-07-19,lua,1077,1,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs

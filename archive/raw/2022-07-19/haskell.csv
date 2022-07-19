@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-19,haskell,1394,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-07-19,haskell,2109,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-07-19,haskell,8414,4,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-07-19,haskell,2731,4,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-07-19,haskell,1931,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-07-19,haskell,34,17,Victim programming language written in Haskell,Sekomer,Victim,https://github.com/Sekomer/Victim
+2022-07-19,haskell,2619,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-07-19,haskell,17,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-07-19,haskell,8,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,https://github.com/digital-asset/ex-mortgage-repackaging
+2022-07-19,haskell,1801,2,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-07-19,haskell,1313,2,,input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2022-07-19,haskell,88,0,POSIX functionality,haskell,unix,https://github.com/haskell/unix
+2022-07-19,haskell,1386,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-07-19,haskell,153,0,Prelude written in @serokell,serokell,universum,https://github.com/serokell/universum
+2022-07-19,haskell,177,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2022-07-19,haskell,29300,12,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-07-19,haskell,75,0,Typed eDSL for writing UPLC /ˈpluː.tɑːk/,Plutonomicon,plutarch-plutus,https://github.com/Plutonomicon/plutarch-plutus
+2022-07-19,haskell,476,1,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2022-07-19,haskell,530,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-07-19,haskell,27447,11,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-07-19,haskell,978,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2022-07-19,haskell,663,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-07-19,haskell,4,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-07-19,haskell,97,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-07-19,haskell,7764,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
