@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-21,go,24595,71,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-07-21,go,9598,163,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2022-07-21,go,11512,18,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-07-21,go,25098,11,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-07-21,go,5920,11,Go library for decoding generic map values into native Go structures and vice versa.,mitchellh,mapstructure,https://github.com/mitchellh/mapstructure
+2022-07-21,go,16546,14,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-07-21,go,60315,48,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2022-07-21,go,1443,52,"A comprehensive, efficient, and reusable util function library of go.",duke-git,lancet,https://github.com/duke-git/lancet
+2022-07-21,go,27650,46,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-07-21,go,425,92,Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器...,hktalent,scan4all,https://github.com/hktalent/scan4all
+2022-07-21,go,1449,241,A cli tool to proxy and analyze TCP connections.,kevwan,tproxy,https://github.com/kevwan/tproxy
+2022-07-21,go,12524,17,Dolt – It's Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2022-07-21,go,11396,7,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-07-21,go,3678,8,Dendrite is a second-generation Matrix homeserver written in Go!,matrix-org,dendrite,https://github.com/matrix-org/dendrite
+2022-07-21,go,23497,19,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-07-21,go,7866,14,"A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",chromedp,chromedp,https://github.com/chromedp/chromedp
+2022-07-21,go,12249,17,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2022-07-21,go,101828,38,The Go programming language,golang,go,https://github.com/golang/go
+2022-07-21,go,3951,28,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2022-07-21,go,10134,7,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
+2022-07-21,go,17900,8,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2022-07-21,go,19941,25,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-07-21,go,6399,6,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-07-21,go,2249,5,Container Signing,sigstore,cosign,https://github.com/sigstore/cosign
+2022-07-21,go,16,5,Teritori chain repository based on Cosmos SDK,TERITORI,teritori-chain,https://github.com/TERITORI/teritori-chain
