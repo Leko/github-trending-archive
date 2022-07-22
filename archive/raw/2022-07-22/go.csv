@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-22,go,24774,174,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-07-22,go,30255,28,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2022-07-22,go,2678,9,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2022-07-22,go,2843,7,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-07-22,go,27696,46,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-07-22,go,1479,38,"A comprehensive, efficient, and reusable util function library of go.",duke-git,lancet,https://github.com/duke-git/lancet
+2022-07-22,go,609,195,Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器...,hktalent,scan4all,https://github.com/hktalent/scan4all
+2022-07-22,go,19962,22,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-07-22,go,1723,330,A cli tool to proxy and analyze TCP connections.,kevwan,tproxy,https://github.com/kevwan/tproxy
+2022-07-22,go,8035,12,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-07-22,go,7534,2,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-07-22,go,31884,10,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2022-07-22,go,4140,10,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2022-07-22,go,4007,6,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2022-07-22,go,13091,9,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-07-22,go,90389,33,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-07-22,go,19320,39,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-07-22,go,2855,3,"Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",CrunchyData,postgres-operator,https://github.com/CrunchyData/postgres-operator
+2022-07-22,go,6878,12,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2022-07-22,go,467,0,CSI Driver for Amazon EFS https://aws.amazon.com/efs/,kubernetes-sigs,aws-efs-csi-driver,https://github.com/kubernetes-sigs/aws-efs-csi-driver
+2022-07-22,go,3455,4,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-07-22,go,1600,0,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2022-07-22,go,16073,8,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2022-07-22,go,12560,36,Dolt – It's Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2022-07-22,go,5927,9,Go library for decoding generic map values into native Go structures and vice versa.,mitchellh,mapstructure,https://github.com/mitchellh/mapstructure

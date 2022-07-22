@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-22,haskell,2734,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-07-22,haskell,27473,11,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-07-22,haskell,29338,17,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-07-22,haskell,26049,10,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-07-22,haskell,542,1,Reach: The Safest and Smartest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
+2022-07-22,haskell,140,0,Proof of concept for the Hydra Head protocol,input-output-hk,hydra-poc,https://github.com/input-output-hk/hydra-poc
+2022-07-22,haskell,7767,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-07-22,haskell,996,4,A statically typed concatenative systems programming language.,evincarofautumn,kitten,https://github.com/evincarofautumn/kitten
+2022-07-22,haskell,664,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-07-22,haskell,213,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-07-22,haskell,18964,1,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-07-22,haskell,6,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-07-22,haskell,2220,3,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-07-22,haskell,7225,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-07-22,haskell,1803,0,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-07-22,haskell,24,0,Database maintenance tool support,ConferOpenSource,refurb,https://github.com/ConferOpenSource/refurb
+2022-07-22,haskell,20,0,Haskell bindings to libsystemd-journal,ocharles,libsystemd-journal,https://github.com/ocharles/libsystemd-journal
+2022-07-22,haskell,1415,0,Command-line Kanban board/task manager with support for Trello boards and GitHub projects,smallhadroncollider,taskell,https://github.com/smallhadroncollider/taskell
+2022-07-22,haskell,2,0,Integrations with Vinyl/Frames records (core library).,composite-hs,composite-base,https://github.com/composite-hs/composite-base
+2022-07-22,haskell,2112,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-07-22,haskell,3391,1,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-07-22,haskell,1393,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-07-22,haskell,1595,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2022-07-22,haskell,13,0,Visualizing kubernetes capacity.,Shopify,kubepacity,https://github.com/Shopify/kubepacity
+2022-07-22,haskell,176,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend

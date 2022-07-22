@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-22,scala,3464,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-07-22,scala,1048,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-07-22,scala,157,8,,oap-project,gluten,https://github.com/oap-project/gluten
+2022-07-22,scala,2854,3,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-07-22,scala,33454,15,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-07-22,scala,1139,2,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-07-22,scala,4998,13,This connector allows Apache Spark™ to read from and write to Delta Lake.,delta-io,delta,https://github.com/delta-io/delta
+2022-07-22,scala,607,14,A Table Structure Storage on Data Lakes to Unify Batch and Streaming Data Processing,meta-soul,LakeSoul,https://github.com/meta-soul/LakeSoul
+2022-07-22,scala,2833,0,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-07-22,scala,1742,1,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-07-22,scala,1967,0,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-07-22,scala,866,3,Compiler for the Vale programming language - http://vale.dev/,ValeLang,Vale,https://github.com/ValeLang/Vale
+2022-07-22,scala,815,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-07-22,scala,12173,3,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-07-22,scala,4524,1,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-07-22,scala,11764,4,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-07-22,scala,8295,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-07-22,scala,3,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-07-22,scala,2616,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-07-22,scala,2542,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-07-22,scala,1359,0,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2022-07-22,scala,13802,3,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-07-22,scala,1,0,,ScalaOtus,scala-dev-mooc-2022-06,https://github.com/ScalaOtus/scala-dev-mooc-2022-06
+2022-07-22,scala,437,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-07-22,scala,1024,1,A bot that helps you keep your Scala projects up-to-date,scala-steward-org,scala-steward,https://github.com/scala-steward-org/scala-steward

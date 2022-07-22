@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-22,rust,24265,396,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy,https://github.com/AppFlowy-IO/AppFlowy
+2022-07-22,rust,2529,7,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-07-22,rust,7284,7,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-07-22,rust,17275,28,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-07-22,rust,2356,17,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-07-22,rust,28045,32,"An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-07-22,rust,974,3,Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library. ENS address: rust-web3.eth,tomusdrw,rust-web3,https://github.com/tomusdrw/rust-web3
+2022-07-22,rust,241,12,,privacy-scaling-explorations,zkevm-circuits,https://github.com/privacy-scaling-explorations/zkevm-circuits
+2022-07-22,rust,8418,13,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-07-22,rust,27454,24,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-07-22,rust,5852,11,An easy and powerful Rust HTTP Client,seanmonstar,reqwest,https://github.com/seanmonstar/reqwest
+2022-07-22,rust,6408,17,Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2022-07-22,rust,4841,12,"A massively parallel, optimal functional runtime in Rust",Kindelia,HVM,https://github.com/Kindelia/HVM
+2022-07-22,rust,15198,10,"x86 virtualization in your browser, recompiling x86 to wasm on the fly",copy,v86,https://github.com/copy/v86
+2022-07-22,rust,2344,13,"Memory safe, blazing fast, configurable, minimal hello world written in rust() in a few lines of code with few(1092) dependencies",mTvare6,hello-world.rs,https://github.com/mTvare6/hello-world.rs
+2022-07-22,rust,18621,7,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2022-07-22,rust,2310,1,Solana Sealevel Framework,coral-xyz,anchor,https://github.com/coral-xyz/anchor
+2022-07-22,rust,69069,70,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-07-22,rust,5412,12,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-07-22,rust,523,2,"A native Rust library for Delta Lake, with bindings into Python and Ruby.",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2022-07-22,rust,807,11,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-07-22,rust,4672,14,"Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
+2022-07-22,rust,8504,12,A fast CSV command line toolkit written in Rust.,BurntSushi,xsv,https://github.com/BurntSushi/xsv
+2022-07-22,rust,60,5,Simple Rust library for displaying spinners in the terminal,ad4mx,spinoff,https://github.com/ad4mx/spinoff
+2022-07-22,rust,10745,11,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
