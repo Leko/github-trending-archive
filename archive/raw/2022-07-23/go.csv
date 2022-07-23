@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-23,go,24931,162,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-07-23,go,771,117,"Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...",hktalent,scan4all,https://github.com/hktalent/scan4all
+2022-07-23,go,3466,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-07-23,go,7755,12,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-07-23,go,2850,10,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-07-23,go,5825,50,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-07-23,go,1850,127,A cli tool to proxy and analyze TCP connections.,kevwan,tproxy,https://github.com/kevwan/tproxy
+2022-07-23,go,6767,18,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2022-07-23,go,27724,33,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-07-23,go,7091,10,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2022-07-23,go,12505,17,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-07-23,go,2233,6,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2022-07-23,go,9255,20,"sealos is a multi-tenant kubernetes distribution. You can use sealos to easily build a public or a private cloud. It is simple, flexible and powerful!",labring,sealos,https://github.com/labring/sealos
+2022-07-23,go,11381,14,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-07-23,go,7540,6,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-07-23,go,3456,11,"httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.",projectdiscovery,httpx,https://github.com/projectdiscovery/httpx
+2022-07-23,go,1741,1,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2022-07-23,go,12285,19,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2022-07-23,go,4037,33,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2022-07-23,go,12599,32,Dolt – It's Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2022-07-23,go,12298,10,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2022-07-23,go,16564,12,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-07-23,go,1501,26,"A comprehensive, efficient, and reusable util function library of go.",duke-git,lancet,https://github.com/duke-git/lancet
+2022-07-23,go,23527,14,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-07-23,go,4248,4,syzkaller is an unsupervised coverage-guided kernel fuzzer,google,syzkaller,https://github.com/google/syzkaller

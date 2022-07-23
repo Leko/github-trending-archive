@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-23,shell,6168,45,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-07-23,shell,67440,108,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
+2022-07-23,shell,44,9,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2022-07-23,shell,31505,34,Official electron build of diagrams.net,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2022-07-23,shell,1112,1,Docker files for running a basic Laravel application.,laravel,sail,https://github.com/laravel/sail
+2022-07-23,shell,5878,139,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2022-07-23,shell,11780,2,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2022-07-23,shell,13557,9,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2022-07-23,shell,1155,2,Rockyou for web fuzzing,six2dez,OneListForAll,https://github.com/six2dez/OneListForAll
+2022-07-23,shell,152,19,WordPerfect for UNIX (TM) Character Terminals,taviso,wpunix,https://github.com/taviso/wpunix
+2022-07-23,shell,15,1,Internal Documentation for the zkEVM project,0xPolygonHermez,zkevm-doc,https://github.com/0xPolygonHermez/zkevm-doc
+2022-07-23,shell,7613,2,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2022-07-23,shell,19312,10,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-07-23,shell,289,1,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2022-07-23,shell,241,4,Linux for Chromebooks,cb-linux,breath,https://github.com/cb-linux/breath
+2022-07-23,shell,15046,8,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-07-23,shell,1846,0,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2022-07-23,shell,2381,3,Easily install PHP extension in Docker containers,mlocati,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer
+2022-07-23,shell,1336,2,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2022-07-23,shell,474,1,"OpenWrt for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.",ophub,amlogic-s9xxx-openwrt,https://github.com/ophub/amlogic-s9xxx-openwrt
+2022-07-23,shell,386,0,"The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2018, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.",airflow-helm,charts,https://github.com/airflow-helm/charts
+2022-07-23,shell,736,1,This will run the new self-hosted github actions runners with docker-in-docker,myoung34,docker-github-actions-runner,https://github.com/myoung34/docker-github-actions-runner
+2022-07-23,shell,796,4,"Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.",ophub,amlogic-s9xxx-armbian,https://github.com/ophub/amlogic-s9xxx-armbian
+2022-07-23,shell,2796,3,"The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!",pry0cc,axiom,https://github.com/pry0cc/axiom
+2022-07-23,shell,1526,1,"An open-source, next-generation ""runc"" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",nestybox,sysbox,https://github.com/nestybox/sysbox
