@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-25,rust,1836,22,The Jakt Programming Language,SerenityOS,jakt,https://github.com/SerenityOS/jakt
+2022-07-25,rust,84218,14,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-07-25,rust,5103,15,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2022-07-25,rust,8085,6,Build terminal user interfaces and dashboards using Rust,fdehau,tui-rs,https://github.com/fdehau/tui-rs
+2022-07-25,rust,69257,69,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-07-25,rust,27503,19,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-07-25,rust,17338,21,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-07-25,rust,2666,8,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2022-07-25,rust,5067,12,Tools for concurrent programming in Rust,crossbeam-rs,crossbeam,https://github.com/crossbeam-rs/crossbeam
+2022-07-25,rust,7817,23,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2022-07-25,rust,8763,12,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2022-07-25,rust,24625,59,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-07-25,rust,1656,21,RustDesk Server Program,rustdesk,rustdesk-server,https://github.com/rustdesk/rustdesk-server
+2022-07-25,rust,5323,33,bore is a simple CLI tool for making tunnels to localhost,ekzhang,bore,https://github.com/ekzhang/bore
+2022-07-25,rust,4180,17,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-07-25,rust,10271,9,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2022-07-25,rust,5451,13,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-07-25,rust,22808,15,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2022-07-25,rust,6457,13,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-07-25,rust,14653,11,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",actix,actix-web,https://github.com/actix/actix-web
+2022-07-25,rust,10184,13,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2022-07-25,rust,1781,4,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2022-07-25,rust,1357,17,"CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.",CeresDB,ceresdb,https://github.com/CeresDB/ceresdb
+2022-07-25,rust,32251,26,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2022-07-25,rust,3879,18,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
