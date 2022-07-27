@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-27,go,28565,46,"beego is an open-source, high-performance web framework for the Go programming language.",beego,beego,https://github.com/beego/beego
+2022-07-27,go,8768,12,即时通讯IM,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-07-27,go,9230,12,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-07-27,go,17127,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-07-27,go,11082,15,Fast key-value DB in Go.,dgraph-io,badger,https://github.com/dgraph-io/badger
+2022-07-27,go,1456,9,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2022-07-27,go,33568,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-07-27,go,11253,9,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-07-27,go,6428,9,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-07-27,go,5934,9,"Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",gonum,gonum,https://github.com/gonum/gonum
+2022-07-27,go,1277,8,The Optimism monorepo,ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-07-27,go,17043,12,A powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2022-07-27,go,3052,5,"Self-hosted, lightweight server and website monitoring and O&M tool",naiba,nezha,https://github.com/naiba/nezha
+2022-07-27,go,7693,12,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2022-07-27,go,2611,8,"Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",ThreeDotsLabs,wild-workouts-go-ddd-example,https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+2022-07-27,go,2005,7,企业级的 Go 语言实战项目：认证和授权系统（带配套课程）,marmotedu,iam,https://github.com/marmotedu/iam
+2022-07-27,go,3699,8,"A modern Go utility library which provides helpers (map, find, contains, filter, ...)",thoas,go-funk,https://github.com/thoas/go-funk
+2022-07-27,go,1207,7,"Simple, reliable, interoperable. A better gRPC.",bufbuild,connect-go,https://github.com/bufbuild/connect-go
+2022-07-27,go,5760,8,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-07-27,go,90545,35,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-07-27,go,5055,4,⟁ Tendermint Core (BFT Consensus) in Go,tendermint,tendermint,https://github.com/tendermint/tendermint
+2022-07-27,go,6466,3,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2022-07-27,go,9616,11,Pure Go implementation of the WebRTC API,pion,webrtc,https://github.com/pion/webrtc
+2022-07-27,go,5036,13,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2022-07-27,go,16468,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
