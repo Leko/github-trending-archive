@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-28,lua,829,185,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-07-28,lua,114,16,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2022-07-28,lua,10909,19,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-07-28,lua,9763,4,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2022-07-28,lua,531,3,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-07-28,lua,15,3,CS:GO Server Crasher,nezu-cc,ServerCrasher,https://github.com/nezu-cc/ServerCrasher
+2022-07-28,lua,1080,3,,ThePrimeagen,.dotfiles,https://github.com/ThePrimeagen/.dotfiles
+2022-07-28,lua,3531,10,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-07-28,lua,24305,5,Image Super-Resolution for Anime-Style Art,nagadomi,waifu2x,https://github.com/nagadomi/waifu2x
+2022-07-28,lua,3391,10,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-07-28,lua,5085,12,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-07-28,lua,2494,4,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2022-07-28,lua,77,37,Limit Theory,JoshParnell,ltheory,https://github.com/JoshParnell/ltheory
+2022-07-28,lua,1665,6,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2022-07-28,lua,292,0,FiveM RP Framework Core,qbcore-framework,qb-core,https://github.com/qbcore-framework/qb-core
+2022-07-28,lua,6553,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-07-28,lua,1922,7,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2022-07-28,lua,1509,3,magit for neovim,TimUntersberger,neogit,https://github.com/TimUntersberger/neogit
+2022-07-28,lua,1946,2,Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support! Further development has moved to https://github.com/williamboman/mason.nvim!,williamboman,nvim-lsp-installer,https://github.com/williamboman/nvim-lsp-installer
+2022-07-28,lua,647,4,My configuration files and tools,tjdevries,config_manager,https://github.com/tjdevries/config_manager
+2022-07-28,lua,29,2,,Frontrooms,3.0-Resources,https://github.com/Frontrooms/3.0-Resources
+2022-07-28,lua,1101,2,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-07-28,lua,102,0,A collection of every roblox script ive aquired. I DO NOT UPDATE OR MAINTAIN THESE.,PhoenixAceVFX,Roblox-Scripts,https://github.com/PhoenixAceVFX/Roblox-Scripts
+2022-07-28,lua,32526,9,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-07-28,lua,4948,2,Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets,lsyncd,lsyncd,https://github.com/lsyncd/lsyncd
