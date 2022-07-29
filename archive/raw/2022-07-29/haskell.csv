@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-29,haskell,7266,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-07-29,haskell,21,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-07-29,haskell,2745,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-07-29,haskell,39,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-07-29,haskell,960,2,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-07-29,haskell,7,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-07-29,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-07-29,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-07-29,haskell,54,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-07-29,haskell,18988,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-07-29,haskell,2244,6,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-07-29,haskell,27507,8,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-07-29,haskell,4514,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-07-29,haskell,2116,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-07-29,haskell,4617,2,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-07-29,haskell,26107,8,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-07-29,haskell,1395,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-07-29,haskell,751,0,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2022-07-29,haskell,0,0,Playing around with Haskell.,mooseman,Haskell,https://github.com/mooseman/Haskell
+2022-07-29,haskell,1666,2,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-07-29,haskell,269,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-07-29,haskell,2461,1,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-07-29,haskell,0,0,,Reykudo,geoip-redis,https://github.com/Reykudo/geoip-redis
+2022-07-29,haskell,2756,1,"A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",krispo,awesome-haskell,https://github.com/krispo/awesome-haskell
+2022-07-29,haskell,169,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
