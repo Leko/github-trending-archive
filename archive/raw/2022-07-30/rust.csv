@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-30,rust,2794,92,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-07-30,rust,966,17,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-07-30,rust,490,50,,move-language,move,https://github.com/move-language/move
+2022-07-30,rust,76,14,Simple Rust Stealer,luca364,rust-stealer,https://github.com/luca364/rust-stealer
+2022-07-30,rust,26439,230,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-07-30,rust,3817,16,How to minimize Rust binary size,johnthagen,min-sized-rust,https://github.com/johnthagen/min-sized-rust
+2022-07-30,rust,1424,73,"All-in-one, multi-tenant serverless JavaScript runtime.",losfair,blueboat,https://github.com/losfair/blueboat
+2022-07-30,rust,2973,4,RisingWave: the next-generation streaming database in the cloud.,singularity-data,risingwave,https://github.com/singularity-data/risingwave
+2022-07-30,rust,2024,7,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-07-30,rust,12304,16,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2022-07-30,rust,2282,7,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-07-30,rust,2334,1,Solana Sealevel Framework,coral-xyz,anchor,https://github.com/coral-xyz/anchor
+2022-07-30,rust,7162,50,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2022-07-30,rust,1744,2,Reference client for NEAR Protocol,near,nearcore,https://github.com/near/nearcore
+2022-07-30,rust,7690,50,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2022-07-30,rust,84305,29,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-07-30,rust,7952,60,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2022-07-30,rust,1515,14,Smart SSH and HTTPS bastion that works with any SSH client,warp-tech,warpgate,https://github.com/warp-tech/warpgate
+2022-07-30,rust,4299,9,"A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. Databend Serverless at https://app.databend.com/",datafuselabs,databend,https://github.com/datafuselabs/databend
+2022-07-30,rust,3821,28,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2022-07-30,rust,8569,28,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-07-30,rust,10098,6,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2022-07-30,rust,18678,13,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2022-07-30,rust,5538,13,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2022-07-30,rust,1534,4,Cross-platform game engine in Rust.,not-fl3,macroquad,https://github.com/not-fl3/macroquad

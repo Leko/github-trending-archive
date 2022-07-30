@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-30,shell,59802,60,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-07-30,shell,31486,7,Amazon Web Services — a practical guide,open-guides,og-aws,https://github.com/open-guides/og-aws
+2022-07-30,shell,10249,3,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2022-07-30,shell,514,5,"GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).",m3n0sd0n4ld,GooFuzz,https://github.com/m3n0sd0n4ld/GooFuzz
+2022-07-30,shell,7872,0,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.,docker,docker-bench-security,https://github.com/docker/docker-bench-security
+2022-07-30,shell,6022,3,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2022-07-30,shell,9338,4,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2022-07-30,shell,8477,5,"AddressSanitizer, ThreadSanitizer, MemorySanitizer",google,sanitizers,https://github.com/google/sanitizers
+2022-07-30,shell,1801,16,"Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",Jeevan-kumar-Raj,Grokking-System-Design,https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+2022-07-30,shell,28046,6,".files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles
+2022-07-30,shell,11957,6,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-07-30,shell,3279,4,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-07-30,shell,74,6,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2022-07-30,shell,181,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2022-07-30,shell,4567,1,RFCs for changes to Rust,rust-lang,rfcs,https://github.com/rust-lang/rfcs
+2022-07-30,shell,3597,2,A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-07-30,shell,37671,14,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2022-07-30,shell,3238,0,Docker Official Image packaging for PHP,docker-library,php,https://github.com/docker-library/php
+2022-07-30,shell,11795,0,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2022-07-30,shell,227,4,FuckRKN1: freedom of speech and information,nezavisimost,FuckRKN1,https://github.com/nezavisimost/FuckRKN1
+2022-07-30,shell,6280,5,Dockerfile for Apache Kafka,wurstmeister,kafka-docker,https://github.com/wurstmeister/kafka-docker
+2022-07-30,shell,29887,34,A Zsh theme,romkatv,powerlevel10k,https://github.com/romkatv/powerlevel10k
+2022-07-30,shell,6345,5,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-07-30,shell,2616,1,Official NGINX Dockerfiles,nginxinc,docker-nginx,https://github.com/nginxinc/docker-nginx
+2022-07-30,shell,477,0,"A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.",fluxcd,flux2-kustomize-helm-example,https://github.com/fluxcd/flux2-kustomize-helm-example

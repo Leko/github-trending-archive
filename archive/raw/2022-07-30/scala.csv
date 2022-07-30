@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-30,scala,5039,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-07-30,scala,3377,3,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-07-30,scala,821,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-07-30,scala,12324,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-07-30,scala,3474,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-07-30,scala,8304,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-07-30,scala,854,2,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-07-30,scala,10957,4,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-07-30,scala,13808,2,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-07-30,scala,33510,11,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-07-30,scala,108,0,,rockthejvm,udemy-scala-beginners,https://github.com/rockthejvm/udemy-scala-beginners
+2022-07-30,scala,199,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-07-30,scala,681,4,A Table Structure Storage on Data Lakes to Unify Batch and Streaming Data Processing,meta-soul,LakeSoul,https://github.com/meta-soul/LakeSoul
+2022-07-30,scala,0,0,Some experimentation with scalaz lenses.,coreyjonoliver,lenses,https://github.com/coreyjonoliver/lenses
+2022-07-30,scala,1852,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-07-30,scala,8697,2,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-07-30,scala,138,0,Typescript to Scala.js converter,ScalablyTyped,Converter,https://github.com/ScalablyTyped/Converter
+2022-07-30,scala,2294,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-07-30,scala,2628,2,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-07-30,scala,1298,0,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2022-07-30,scala,307,0,A Spark plugin for reading Excel files via Apache POI,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-07-30,scala,5595,0,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-07-30,scala,1417,2,JSON library,json4s,json4s,https://github.com/json4s/json4s
+2022-07-30,scala,2847,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-07-30,scala,485,0,Monitor Kafka Consumer Group Latency with Kafka Lag Exporter,seglo,kafka-lag-exporter,https://github.com/seglo/kafka-lag-exporter
