@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-31,go,3926,1020,A tool for glamorous shell scripts,charmbracelet,gum,https://github.com/charmbracelet/gum
+2022-07-31,go,10110,42,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-07-31,go,183,27,CVE-2022-2022,GREENHAT7,pxplan,https://github.com/GREENHAT7/pxplan
+2022-07-31,go,13966,50,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-07-31,go,2023,6,Kubernetes controller for GitHub Actions self-hosted runners,actions-runner-controller,actions-runner-controller,https://github.com/actions-runner-controller/actions-runner-controller
+2022-07-31,go,2181,16,"A artistic ""twitter like"" community built on gin+zinc+vue+ts 清新文艺微社区",rocboss,paopao-ce,https://github.com/rocboss/paopao-ce
+2022-07-31,go,14676,7,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-07-31,go,7814,6,Swagger 2.0 implementation for go,go-swagger,go-swagger,https://github.com/go-swagger/go-swagger
+2022-07-31,go,5024,6,A Chaos Engineering Platform for Kubernetes.,chaos-mesh,chaos-mesh,https://github.com/chaos-mesh/chaos-mesh
+2022-07-31,go,292,36,a lightweight kubernetes multi-tenancy gateway,kubewharf,kubezoo,https://github.com/kubewharf/kubezoo
+2022-07-31,go,1014,30,微信聊天记录持久化备份本地硬盘，释放手机存储空间。,greycodee,wechat-backup,https://github.com/greycodee/wechat-backup
+2022-07-31,go,8755,8,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2022-07-31,go,4556,37,Style definitions for nice terminal layouts,charmbracelet,lipgloss,https://github.com/charmbracelet/lipgloss
+2022-07-31,go,6647,4,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2022-07-31,go,13196,7,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-07-31,go,5046,2,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2022-07-31,go,3765,17,"An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-07-31,go,8155,22,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-07-31,go,28741,22,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2022-07-31,go,33617,9,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-07-31,go,10303,18,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-07-31,go,2071,23,TUI components for Bubble Tea,charmbracelet,bubbles,https://github.com/charmbracelet/bubbles
+2022-07-31,go,1778,1,A PostgreSQL metric exporter for Prometheus,prometheus-community,postgres_exporter,https://github.com/prometheus-community/postgres_exporter
+2022-07-31,go,3104,7,Optimized Go Compression Packages,klauspost,compress,https://github.com/klauspost/compress
+2022-07-31,go,3200,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets

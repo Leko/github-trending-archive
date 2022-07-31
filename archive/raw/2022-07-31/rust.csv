@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-07-31,rust,2825,41,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-07-31,rust,7715,25,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2022-07-31,rust,18695,18,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2022-07-31,rust,7991,44,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2022-07-31,rust,20086,65,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2022-07-31,rust,7204,42,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2022-07-31,rust,5546,8,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2022-07-31,rust,88,22,Simple Rust Stealer,luca364,rust-stealer,https://github.com/luca364/rust-stealer
+2022-07-31,rust,1465,43,"All-in-one, multi-tenant serverless JavaScript runtime.",losfair,blueboat,https://github.com/losfair/blueboat
+2022-07-31,rust,2028,5,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-07-31,rust,3843,22,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2022-07-31,rust,950,22,[2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/),LearningOS,rust-based-os-comp2022,https://github.com/LearningOS/rust-based-os-comp2022
+2022-07-31,rust,9128,9,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-07-31,rust,8581,13,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-07-31,rust,47594,42,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-07-31,rust,4300,1,"A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics. Databend Serverless at https://app.databend.com/",datafuselabs,databend,https://github.com/datafuselabs/databend
+2022-07-31,rust,2283,1,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-07-31,rust,5472,4,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2022-07-31,rust,12317,13,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2022-07-31,rust,84316,15,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-07-31,rust,3221,4,Open Source Spotify client library,librespot-org,librespot,https://github.com/librespot-org/librespot
+2022-07-31,rust,4802,0,The Rust toolchain installer,rust-lang,rustup,https://github.com/rust-lang/rustup
+2022-07-31,rust,189,21,,cloudflare,svg-hush,https://github.com/cloudflare/svg-hush
+2022-07-31,rust,509,19,,move-language,move,https://github.com/move-language/move
+2022-07-31,rust,13451,24,"Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",valeriansaliou,sonic,https://github.com/valeriansaliou/sonic
