@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-03,scala,5061,4,This connector allows Apache Spark™ to read from and write to Delta Lake.,delta-io,delta,https://github.com/delta-io/delta
+2022-08-03,scala,733,15,A Table Structure Storage on Data Lakes to Unify Batch and Streaming Data Processing,meta-soul,LakeSoul,https://github.com/meta-soul/LakeSoul
+2022-08-03,scala,2349,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-08-03,scala,8306,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-08-03,scala,856,0,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-08-03,scala,3379,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-08-03,scala,33530,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-08-03,scala,2360,2,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-08-03,scala,2899,3,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-08-03,scala,438,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-08-03,scala,1,0,Parking ticket machine finder,lyyder,parkhelsinki,https://github.com/lyyder/parkhelsinki
+2022-08-03,scala,5,0,,windymelt,FNFIS,https://github.com/windymelt/FNFIS
+2022-08-03,scala,3480,3,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-08-03,scala,2564,0,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-08-03,scala,13812,1,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-08-03,scala,1155,2,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-08-03,scala,423,3,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2022-08-03,scala,8815,5,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-08-03,scala,184,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-08-03,scala,35,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo
+2022-08-03,scala,703,0,Mirror of Apache livy (Incubating),apache,incubator-livy,https://github.com/apache/incubator-livy
+2022-08-03,scala,957,0,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-08-03,scala,4529,2,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-08-03,scala,823,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-08-03,scala,486,1,Monitor Kafka Consumer Group Latency with Kafka Lag Exporter,seglo,kafka-lag-exporter,https://github.com/seglo/kafka-lag-exporter

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-03,go,22161,147,A realtime distributed messaging platform,nsqio,nsq,https://github.com/nsqio/nsq
+2022-08-03,go,2165,293,"Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...",hktalent,scan4all,https://github.com/hktalent/scan4all
+2022-08-03,go,7148,817,A tool for glamorous shell scripts,charmbracelet,gum,https://github.com/charmbracelet/gum
+2022-08-03,go,31372,97,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2022-08-03,go,3272,19,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-08-03,go,11788,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-08-03,go,27920,24,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-08-03,go,18765,5,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-08-03,go,17735,12,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2022-08-03,go,3197,7,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2022-08-03,go,11288,6,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-08-03,go,18720,16,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2022-08-03,go,13797,18,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-08-03,go,90761,33,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-08-03,go,6727,11,A most popular sql audit platform for mysql,cookieY,Yearning,https://github.com/cookieY/Yearning
+2022-08-03,go,4019,7,The Modern Application Platform.,kubevela,kubevela,https://github.com/kubevela/kubevela
+2022-08-03,go,1535,3,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2022-08-03,go,17363,25,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2022-08-03,go,11310,10,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2022-08-03,go,1453,1,Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.,keptn,keptn,https://github.com/keptn/keptn
+2022-08-03,go,22334,6,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-08-03,go,24519,5,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-08-03,go,5268,5,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2022-08-03,go,1125,14,Gen: Friendly & Safer GORM powered by Code Generation,go-gorm,gen,https://github.com/go-gorm/gen
+2022-08-03,go,2560,5,Arbitrary expression evaluation for golang,Knetic,govaluate,https://github.com/Knetic/govaluate

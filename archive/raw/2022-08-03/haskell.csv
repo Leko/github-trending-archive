@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-03,haskell,27543,11,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-08-03,haskell,29489,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-08-03,haskell,6899,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-08-03,haskell,1957,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-08-03,haskell,99,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-08-03,haskell,26141,10,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-08-03,haskell,2637,3,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-08-03,haskell,250,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-08-03,haskell,665,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-08-03,haskell,17,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-08-03,haskell,530,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-08-03,haskell,2750,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-08-03,haskell,227,1,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-08-03,haskell,13,0,Visualizing kubernetes capacity.,Shopify,kubepacity,https://github.com/Shopify/kubepacity
+2022-08-03,haskell,985,14,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-08-03,haskell,1668,0,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-08-03,haskell,7297,11,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-08-03,haskell,72,0,Haskell Protobuf Implementation,awakesecurity,proto3-suite,https://github.com/awakesecurity/proto3-suite
+2022-08-03,haskell,2115,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-08-03,haskell,8434,0,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-08-03,haskell,161,0,,github,deli,https://github.com/github/deli
+2022-08-03,haskell,1,0,Tatami,matthiasgoergens,Tatami,https://github.com/matthiasgoergens/Tatami
+2022-08-03,haskell,169,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-08-03,haskell,1597,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2022-08-03,haskell,7786,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
