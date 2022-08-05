@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-05,haskell,29509,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-08-05,haskell,7310,8,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-08-05,haskell,1001,5,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-08-05,haskell,666,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-08-05,haskell,1395,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-08-05,haskell,27556,9,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-08-05,haskell,19015,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-08-05,haskell,1671,0,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-08-05,haskell,7,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-08-05,haskell,530,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-08-05,haskell,2471,1,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
+2022-08-05,haskell,2,0,Integrations with Vinyl/Frames records (core library).,composite-hs,composite-base,https://github.com/composite-hs/composite-base
+2022-08-05,haskell,1895,2,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-08-05,haskell,36,4,Haskell dependencies build times profiler,chshersh,dr-cabal,https://github.com/chshersh/dr-cabal
+2022-08-05,haskell,2752,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-08-05,haskell,1417,2,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-08-05,haskell,26159,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-08-05,haskell,24,0,Setoid type theory implementation,AndrasKovacs,sett,https://github.com/AndrasKovacs/sett
+2022-08-05,haskell,100,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint

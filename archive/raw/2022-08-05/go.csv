@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-05,go,22391,88,A realtime distributed messaging platform,nsqio,nsq,https://github.com/nsqio/nsq
+2022-08-05,go,102359,54,The Go programming language,golang,go,https://github.com/golang/go
+2022-08-05,go,19656,11,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-08-05,go,5810,10,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-08-05,go,1007,47,Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio),gioui,gio,https://github.com/gioui/gio
+2022-08-05,go,14540,254,DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),docker-slim,docker-slim,https://github.com/docker-slim/docker-slim
+2022-08-05,go,5056,9,A Chaos Engineering Platform for Kubernetes.,chaos-mesh,chaos-mesh,https://github.com/chaos-mesh/chaos-mesh
+2022-08-05,go,22999,16,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2022-08-05,go,11025,14,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-08-05,go,6842,16,Ebitengine - A dead simple 2D game library for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2022-08-05,go,10848,15,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2022-08-05,go,63694,9,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-08-05,go,703,7,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot",helmfile,helmfile,https://github.com/helmfile/helmfile
+2022-08-05,go,3771,7,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",fluxcd,flagger,https://github.com/fluxcd/flagger
+2022-08-05,go,2948,35,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-08-05,go,5018,8,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2022-08-05,go,6789,34,A most popular sql audit platform for mysql,cookieY,Yearning,https://github.com/cookieY/Yearning
+2022-08-05,go,1745,0,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2022-08-05,go,33677,15,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-08-05,go,29170,16,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-08-05,go,15444,0,(OBSOLETE) Curated applications for Kubernetes,helm,charts,https://github.com/helm/charts
+2022-08-05,go,7248,6,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-08-05,go,7843,12,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2022-08-05,go,23915,5,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2022-08-05,go,5100,9,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-05,rust,1217,30,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-08-05,rust,1970,2,A collection of Solana-maintained on-chain programs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2022-08-05,rust,9089,24,All Algorithms implemented in Rust,TheAlgorithms,Rust,https://github.com/TheAlgorithms/Rust
+2022-08-05,rust,6114,4,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2022-08-05,rust,6845,23,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
+2022-08-05,rust,17550,23,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-08-05,rust,1500,33,"CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.",CeresDB,ceresdb,https://github.com/CeresDB/ceresdb
+2022-08-05,rust,6594,3,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2022-08-05,rust,1144,11,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2022-08-05,rust,10848,15,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-08-05,rust,5330,9,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2022-08-05,rust,8820,6,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2022-08-05,rust,6570,16,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-08-05,rust,27,3,"A cross platform, rust implementation for the Tegra X1 bootROM exploit",budde25,switcheroo,https://github.com/budde25/switcheroo
+2022-08-05,rust,3916,8,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-08-05,rust,14,1,,barafael,cute-copter,https://github.com/barafael/cute-copter
+2022-08-05,rust,1805,1,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2022-08-05,rust,70271,80,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-08-05,rust,496,16,Starcoin - A smart contract blockchain network that scales by layering,starcoinorg,starcoin,https://github.com/starcoinorg/starcoin
+2022-08-05,rust,159,3,"Cleopatra Cairo is a Rust implementation of the Cairo VM. Cairo is a programming language for writing provable programs, where one party can prove to another that a certain computation was executed correctly. Cairo and similar proof systems can be used to provide scalability to blockchains.",lambdaclass,cleopatra_cairo,https://github.com/lambdaclass/cleopatra_cairo
+2022-08-05,rust,5605,15,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-08-05,rust,2695,3,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2022-08-05,rust,5817,13,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
+2022-08-05,rust,9201,5,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-08-05,rust,3773,13,Rust language bindings for TensorFlow,tensorflow,rust,https://github.com/tensorflow/rust
