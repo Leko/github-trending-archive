@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-06,go,700,183,2022 护网行动 POC 整理,sobinge,2022-HW-POC,https://github.com/sobinge/2022-HW-POC
+2022-08-06,go,102442,101,The Go programming language,golang,go,https://github.com/golang/go
+2022-08-06,go,4138,35,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
+2022-08-06,go,7886,43,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2022-08-06,go,4969,11,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2022-08-06,go,10235,21,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
+2022-08-06,go,3314,5,HttpRunner 是一个开源的 API 测试工具，支持 HTTP(S) / HTTP2 / WebSocket / RPC 等网络协议，涵盖接口测试、性能测试、数字体验监测等测试类型。简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。,httprunner,httprunner,https://github.com/httprunner/httprunner
+2022-08-06,go,90864,47,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-08-06,go,14616,79,DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),docker-slim,docker-slim,https://github.com/docker-slim/docker-slim
+2022-08-06,go,228,64,"A SQLite extension for querying, manipulating, and creating HTML elements.",asg017,sqlite-html,https://github.com/asg017/sqlite-html
+2022-08-06,go,6804,18,A most popular sql audit platform for mysql,cookieY,Yearning,https://github.com/cookieY/Yearning
+2022-08-06,go,2767,3,Descheduler for Kubernetes,kubernetes-sigs,descheduler,https://github.com/kubernetes-sigs/descheduler
+2022-08-06,go,3602,4,Nuke a whole AWS account and delete all its resources.,rebuy-de,aws-nuke,https://github.com/rebuy-de/aws-nuke
+2022-08-06,go,11652,13,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-08-06,go,11507,10,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-08-06,go,8605,10,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
+2022-08-06,go,16546,13,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-08-06,go,5508,9,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-08-06,go,198,41,A simple application deployment framework for Kubernetes,acorn-io,acorn,https://github.com/acorn-io/acorn
+2022-08-06,go,3395,2,Test infrastructure for the Kubernetes project.,kubernetes,test-infra,https://github.com/kubernetes/test-infra
+2022-08-06,go,2736,5,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2022-08-06,go,1114,4,"Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA  ⎈",kubesphere,kubekey,https://github.com/kubesphere/kubekey
+2022-08-06,go,5110,10,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2022-08-06,go,61689,34,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-08-06,go,2243,3,OCI Image Format,opencontainers,image-spec,https://github.com/opencontainers/image-spec

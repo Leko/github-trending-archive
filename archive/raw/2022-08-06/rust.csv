@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-06,rust,1146,3,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2022-08-06,rust,18719,20,A modern replacement for ‘ls’.,ogham,exa,https://github.com/ogham/exa
+2022-08-06,rust,1517,17,"CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.",CeresDB,ceresdb,https://github.com/CeresDB/ceresdb
+2022-08-06,rust,1270,53,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-08-06,rust,5572,6,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2022-08-06,rust,3972,18,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2022-08-06,rust,973,5,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2022-08-06,rust,6304,28,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2022-08-06,rust,7015,9,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2022-08-06,rust,47889,47,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-08-06,rust,9203,5,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-08-06,rust,572,30,Create microVMs from OCI images,containers,krunvm,https://github.com/containers/krunvm
+2022-08-06,rust,202,77,A language for building Docker/OCI container images,modus-continens,modus,https://github.com/modus-continens/modus
+2022-08-06,rust,6854,11,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
+2022-08-06,rust,5827,10,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
+2022-08-06,rust,7341,24,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-08-06,rust,36145,28,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2022-08-06,rust,2070,3,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2022-08-06,rust,28357,22,"An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-08-06,rust,3927,13,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-08-06,rust,5942,6,An easy and powerful Rust HTTP Client,seanmonstar,reqwest,https://github.com/seanmonstar/reqwest
+2022-08-06,rust,3799,27,Rust language bindings for TensorFlow,tensorflow,rust,https://github.com/tensorflow/rust
+2022-08-06,rust,4441,7,Zero-cost asynchronous programming in Rust,rust-lang,futures-rs,https://github.com/rust-lang/futures-rs
+2022-08-06,rust,9120,8,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,getzola,zola,https://github.com/getzola/zola
+2022-08-06,rust,6578,9,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
