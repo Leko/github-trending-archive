@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-07,go,252,55,A simple application deployment framework for Kubernetes,acorn-io,acorn,https://github.com/acorn-io/acorn
+2022-08-07,go,5512,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-08-07,go,3568,11,"ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams",aler9,rtsp-simple-server,https://github.com/aler9/rtsp-simple-server
+2022-08-07,go,7909,25,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2022-08-07,go,5057,13,A new way of working with Protocol Buffers.,bufbuild,buf,https://github.com/bufbuild/buf
+2022-08-07,go,12165,14,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",emirpasic,gods,https://github.com/emirpasic/gods
+2022-08-07,go,4159,22,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
+2022-08-07,go,6273,1,Golang implementation of the Raft consensus protocol,hashicorp,raft,https://github.com/hashicorp/raft
+2022-08-07,go,5932,1,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-08-07,go,10870,5,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2022-08-07,go,2672,4,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2022-08-07,go,11049,8,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-08-07,go,5974,5,A simple RPC framework with protobuf service definitions,twitchtv,twirp,https://github.com/twitchtv/twirp
+2022-08-07,go,102492,57,The Go programming language,golang,go,https://github.com/golang/go
+2022-08-07,go,4974,5,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2022-08-07,go,25161,5,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-08-07,go,1960,11,Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。,lcvvvv,kscan,https://github.com/lcvvvv/kscan
+2022-08-07,go,11113,15,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",geektutu,7days-golang,https://github.com/geektutu/7days-golang
+2022-08-07,go,13158,5,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-08-07,go,3511,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-08-07,go,33695,6,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-08-07,go,238,10,"A SQLite extension for querying, manipulating, and creating HTML elements.",asg017,sqlite-html,https://github.com/asg017/sqlite-html
+2022-08-07,go,60673,18,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2022-08-07,go,16672,3,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki

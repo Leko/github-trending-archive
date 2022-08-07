@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-07,rust,8098,8,A standalone runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-08-07,rust,1289,19,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-08-07,rust,6315,11,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2022-08-07,rust,7350,10,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-08-07,rust,3418,14,“Zero setup” cross compilation and “cross testing” of Rust crates,cross-rs,cross,https://github.com/cross-rs/cross
+2022-08-07,rust,2163,5,Date and time library for Rust,chronotope,chrono,https://github.com/chronotope/chrono
+2022-08-07,rust,2363,4,Solana Sealevel Framework,coral-xyz,anchor,https://github.com/coral-xyz/anchor
+2022-08-07,rust,2800,5,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2022-08-07,rust,290,1,,privacy-scaling-explorations,zkevm-circuits,https://github.com/privacy-scaling-explorations/zkevm-circuits
+2022-08-07,rust,2301,2,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-08-07,rust,11551,7,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2022-08-07,rust,162,26,"A dark and light Neovim theme written in Rust, inspired by IBM Carbon.",shaunsingh,oxocarbon.nvim,https://github.com/shaunsingh/oxocarbon.nvim
+2022-08-07,rust,469,51,"A no-nonsense CAPTCHA system with seamless UX | Backend component",mCaptcha,mCaptcha,https://github.com/mCaptcha/mCaptcha
+2022-08-07,rust,3812,13,Rust language bindings for TensorFlow,tensorflow,rust,https://github.com/tensorflow/rust
+2022-08-07,rust,2541,4,An interpreter for Rust's mid-level intermediate representation,rust-lang,miri,https://github.com/rust-lang/miri
+2022-08-07,rust,975,3,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2022-08-07,rust,395,13,A high performance Rust-powered layout library,DioxusLabs,taffy,https://github.com/DioxusLabs/taffy
+2022-08-07,rust,5840,14,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
+2022-08-07,rust,3933,6,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-08-07,rust,601,29,Create microVMs from OCI images,containers,krunvm,https://github.com/containers/krunvm
+2022-08-07,rust,84414,19,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-08-07,rust,8766,15,Sampling profiler for Python programs,benfred,py-spy,https://github.com/benfred/py-spy
+2022-08-07,rust,1217,3,rust wrapper for rocksdb,rust-rocksdb,rust-rocksdb,https://github.com/rust-rocksdb/rust-rocksdb
+2022-08-07,rust,1521,4,"CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.",CeresDB,ceresdb,https://github.com/CeresDB/ceresdb
+2022-08-07,rust,2696,13,Rust bindings for GDNative,godot-rust,godot-rust,https://github.com/godot-rust/godot-rust
