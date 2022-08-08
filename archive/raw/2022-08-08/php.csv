@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-08,php,16490,1,"WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.",WordPress,WordPress,https://github.com/WordPress/WordPress
+2022-08-08,php,40720,20,"SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",danielmiessler,SecLists,https://github.com/danielmiessler/SecLists
+2022-08-08,php,19674,6,"Nextcloud server, a safe home for all your data",nextcloud,server,https://github.com/nextcloud/server
+2022-08-08,php,3764,5,"ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.",ZoneMinder,zoneminder,https://github.com/ZoneMinder/zoneminder
+2022-08-08,php,9588,3,PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.,squizlabs,PHP_CodeSniffer,https://github.com/squizlabs/PHP_CodeSniffer
+2022-08-08,php,13170,15,Simple forum software for building great communities.,flarum,flarum,https://github.com/flarum/flarum
+2022-08-08,php,4048,5,"Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",pterodactyl,panel,https://github.com/pterodactyl/panel
+2022-08-08,php,6648,3,A free open source IT asset/license management system,snipe,snipe-it,https://github.com/snipe/snipe-it
+2022-08-08,php,7005,0,The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. It provides a better dump() function that you can use instead of var_dump().,symfony,var-dumper,https://github.com/symfony/var-dumper
+2022-08-08,php,16909,3,"Personal CRM. Remember everything about your friends, family and business relationships.",monicahq,monica,https://github.com/monicahq/monica
+2022-08-08,php,213,7,"The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`",bezhanSalleh,filament-shield,https://github.com/bezhanSalleh/filament-shield
+2022-08-08,php,4144,12,"Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans.",filamentphp,filament,https://github.com/filamentphp/filament
+2022-08-08,php,2862,3,A server software for Minecraft: Bedrock Edition in PHP,pmmp,PocketMine-MP,https://github.com/pmmp/PocketMine-MP
+2022-08-08,php,7223,0,The Routing component maps an HTTP request to a set of configuration variables.,symfony,routing,https://github.com/symfony/routing
+2022-08-08,php,9005,0,"Goutte, a simple PHP Web Scraper",FriendsOfPHP,Goutte,https://github.com/FriendsOfPHP/Goutte
+2022-08-08,php,121,1,CUYUNIVERSE THE FREEDOM OF CODE,deaaprizal,cuyuniverse-forum,https://github.com/deaaprizal/cuyuniverse-forum
+2022-08-08,php,1569,0,"WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",WordPress,wordpress-develop,https://github.com/WordPress/wordpress-develop
+2022-08-08,php,2711,2,"GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",glpi-project,glpi,https://github.com/glpi-project/glpi
+2022-08-08,php,3159,1,"The best web based PHP File Manager in single file, Manage your files efficiently and easily with tinyfilemanager",prasathmani,tinyfilemanager,https://github.com/prasathmani/tinyfilemanager
+2022-08-08,php,18518,4,The classic email sending library for PHP,PHPMailer,PHPMailer,https://github.com/PHPMailer/PHPMailer
+2022-08-08,php,8895,0,"A PSR-5 based resolver of Class names, Types and Structural Element Names",phpDocumentor,TypeResolver,https://github.com/phpDocumentor/TypeResolver
+2022-08-08,php,1799,8,Freenom 域名自动续期。Freenom domain name renews automatically.,luolongfei,freenom,https://github.com/luolongfei/freenom
+2022-08-08,php,228,3,Laravel job listing app,bradtraversy,laragigs,https://github.com/bradtraversy/laragigs
+2022-08-08,php,5112,4,The RSS feed for websites missing it,RSS-Bridge,rss-bridge,https://github.com/RSS-Bridge/rss-bridge
+2022-08-08,php,16639,4,Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!,matomo-org,matomo,https://github.com/matomo-org/matomo
