@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-09,rust,11824,11,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2022-08-09,rust,5270,16,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2022-08-09,rust,8116,9,A standalone runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-08-09,rust,187,50,一键安装BetterNCM,MicroCBer,BetterNCM-Installer,https://github.com/MicroCBer/BetterNCM-Installer
+2022-08-09,rust,85,52,client for https://github.com/toeverything/AFFiNE,m1911star,affine-client,https://github.com/m1911star/affine-client
+2022-08-09,rust,10237,49,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2022-08-09,rust,14577,17,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-08-09,rust,27667,41,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2022-08-09,rust,17045,20,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-08-09,rust,2066,2,SDL2 bindings for Rust,Rust-SDL2,rust-sdl2,https://github.com/Rust-SDL2/rust-sdl2
+2022-08-09,rust,13427,20,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-08-09,rust,578,24,Starcoin - A smart contract blockchain network that scales by layering,starcoinorg,starcoin,https://github.com/starcoinorg/starcoin
+2022-08-09,rust,10344,6,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2022-08-09,rust,3309,3,Safe and rich Rust wrapper around the Vulkan API,vulkano-rs,vulkano,https://github.com/vulkano-rs/vulkano
+2022-08-09,rust,602,3,embedded-hal abstractions for AVR microcontrollers,Rahix,avr-hal,https://github.com/Rahix/avr-hal
+2022-08-09,rust,6847,7,The Modern Port Scanner,RustScan,RustScan,https://github.com/RustScan/RustScan
+2022-08-09,rust,5501,6,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2022-08-09,rust,4333,20,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-08-09,rust,974,4,Source code for the book Rust in Action,rust-in-action,code,https://github.com/rust-in-action/code
+2022-08-09,rust,47989,50,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-08-09,rust,25480,82,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy,https://github.com/AppFlowy-IO/AppFlowy
+2022-08-09,rust,2540,1,Community showcase and examples of Actix ecosystem usage.,actix,examples,https://github.com/actix/examples
+2022-08-09,rust,9230,6,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2022-08-09,rust,27821,29,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-08-09,rust,2561,13,An interpreter for Rust's mid-level intermediate representation,rust-lang,miri,https://github.com/rust-lang/miri

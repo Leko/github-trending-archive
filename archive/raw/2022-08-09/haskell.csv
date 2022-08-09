@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-09,haskell,2123,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-08-09,haskell,7796,3,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-08-09,haskell,1015,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-08-09,haskell,141,7,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2022-08-09,haskell,4537,5,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-08-09,haskell,2111,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-08-09,haskell,26188,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-08-09,haskell,249,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-08-09,haskell,476,1,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2022-08-09,haskell,233,1,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-08-09,haskell,2646,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-08-09,haskell,4630,2,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-08-09,haskell,1388,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-08-09,haskell,530,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-08-09,haskell,27582,7,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",hasura,graphql-engine,https://github.com/hasura/graphql-engine
+2022-08-09,haskell,2750,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-08-09,haskell,6,0,Code from London Haskell user group 24-Oct-2012,londonhaskell,londonhaskell-2012-10-24-why-do-monads-matter,https://github.com/londonhaskell/londonhaskell-2012-10-24-why-do-monads-matter
+2022-08-09,haskell,1394,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-08-09,haskell,984,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2022-08-09,haskell,3745,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-08-09,haskell,1455,33,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-08-09,haskell,45,0,Haskell dependencies build times profiler,chshersh,dr-cabal,https://github.com/chshersh/dr-cabal
+2022-08-09,haskell,1674,2,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-08-09,haskell,29564,18,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-08-09,haskell,1968,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
