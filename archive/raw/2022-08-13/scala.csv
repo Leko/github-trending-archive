@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-13,scala,787,7,A Table Structure Storage on Data Lakes to Unify Batch and Streaming Data Processing,meta-soul,LakeSoul,https://github.com/meta-soul/LakeSoul
+2022-08-13,scala,33612,14,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-08-13,scala,2918,2,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-08-13,scala,5119,12,This connector allows Apache Spark™ to read from and write to Delta Lake.,delta-io,delta,https://github.com/delta-io/delta
+2022-08-13,scala,1061,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-08-13,scala,874,1,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-08-13,scala,4532,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-08-13,scala,10971,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-08-13,scala,3489,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-08-13,scala,2299,0,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-08-13,scala,12189,2,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-08-13,scala,6159,0,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-08-13,scala,1169,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-08-13,scala,8310,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-08-13,scala,298,0,Bitcoin Implementation in Scala,bitcoin-s,bitcoin-s,https://github.com/bitcoin-s/bitcoin-s
+2022-08-13,scala,29,6,An Apache Kafka sink connector for Celonis EMS,celonis,kafka-ems-connector,https://github.com/celonis/kafka-ems-connector
+2022-08-13,scala,439,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-08-13,scala,308,1,A Spark plugin for reading Excel files via Apache POI,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-08-13,scala,30,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2022-08-13,scala,1748,2,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-08-13,scala,153,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-08-13,scala,1899,0,Pure Scala Artifact Fetching,coursier,coursier,https://github.com/coursier/coursier
+2022-08-13,scala,826,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-08-13,scala,415,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2022-08-13,scala,1361,1,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server

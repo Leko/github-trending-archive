@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-13,go,1589,55,Remote development environments on your infrastructure provisioned with Terraform,coder,coder,https://github.com/coder/coder
+2022-08-13,go,21626,38,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-08-13,go,5932,86,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2022-08-13,go,4212,11,Golang library for managing configuration data from environment variables,kelseyhightower,envconfig,https://github.com/kelseyhightower/envconfig
+2022-08-13,go,14906,46,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-08-13,go,3748,11,"Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.",livekit,livekit,https://github.com/livekit/livekit
+2022-08-13,go,24581,12,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-08-13,go,3524,4,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-08-13,go,8095,64,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-08-13,go,2234,5,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",grafana,tempo,https://github.com/grafana/tempo
+2022-08-13,go,5568,16,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2022-08-13,go,15123,10,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-08-13,go,32799,21,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
+2022-08-13,go,17289,10,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-08-13,go,5865,14,"Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network",berty,berty,https://github.com/berty/berty
+2022-08-13,go,8924,14,即时通讯IM,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-08-13,go,22394,7,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-08-13,go,11580,9,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-08-13,go,5198,12,Implements a deep pretty printer for Go data structures to aid in debugging,davecgh,go-spew,https://github.com/davecgh/go-spew
+2022-08-13,go,9044,5,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-08-13,go,12297,24,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",emirpasic,gods,https://github.com/emirpasic/gods
+2022-08-13,go,43801,26,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-08-13,go,3916,5,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2022-08-13,go,11524,7,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-08-13,go,3441,18,Safe database schema change and version control for DevOps teams. https://www.bytebase.com,Bytebase,Bytebase,https://github.com/Bytebase/Bytebase
