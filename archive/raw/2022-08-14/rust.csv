@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-14,rust,3179,31,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-08-14,rust,240,27,tool for generating wordlists or extending an existing one using mutations.,d4rckh,gorilla,https://github.com/d4rckh/gorilla
+2022-08-14,rust,212,40,Svelte compiler rewritten in Rust,pintariching,rustle,https://github.com/pintariching/rustle
+2022-08-14,rust,1783,8,AWS SDK for the Rust Programming Language,awslabs,aws-sdk-rust,https://github.com/awslabs/aws-sdk-rust
+2022-08-14,rust,3133,25,sccache is ccache with cloud storage,mozilla,sccache,https://github.com/mozilla/sccache
+2022-08-14,rust,7351,4,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-08-14,rust,10910,6,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-08-14,rust,17726,20,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-08-14,rust,70630,35,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-08-14,rust,5696,10,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-08-14,rust,60,23,Experimenting with Rust for GPU driver dev,asahilina,gpu-rust-playground,https://github.com/asahilina/gpu-rust-playground
+2022-08-14,rust,7972,7,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2022-08-14,rust,2057,4,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-08-14,rust,84516,12,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-08-14,rust,2329,2,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-08-14,rust,8773,6,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2022-08-14,rust,23108,20,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2022-08-14,rust,2532,16,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-08-14,rust,28489,27,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-08-14,rust,3145,15,Encoding and decoding images in Rust,image-rs,image,https://github.com/image-rs/image
+2022-08-14,rust,48234,67,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-08-14,rust,6906,6,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
+2022-08-14,rust,241,16,Background processing for Rust,ayrat555,fang,https://github.com/ayrat555/fang
+2022-08-14,rust,4319,5,The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.,MaterializeInc,materialize,https://github.com/MaterializeInc/materialize
+2022-08-14,rust,2058,4,"Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",dtolnay,proc-macro-workshop,https://github.com/dtolnay/proc-macro-workshop

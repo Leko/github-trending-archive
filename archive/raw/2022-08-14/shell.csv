@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-14,shell,6417,4,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-08-14,shell,641,9,This script grab public report from hacker one and make some folders with poc videos,zeroc00I,AllVideoPocsFromHackerOne,https://github.com/zeroc00I/AllVideoPocsFromHackerOne
+2022-08-14,shell,38239,31,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2022-08-14,shell,46265,30,程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).,Anduin2017,HowToCook,https://github.com/Anduin2017/HowToCook
+2022-08-14,shell,15244,7,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-08-14,shell,5607,4,"A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt",P3TERX,Actions-OpenWrt,https://github.com/P3TERX/Actions-OpenWrt
+2022-08-14,shell,6181,10,（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2022-08-14,shell,7081,6,Hackintosh long-term maintenance model EFI and installation tutorial,daliansky,Hackintosh,https://github.com/daliansky/Hackintosh
+2022-08-14,shell,4588,1,RFCs for changes to Rust,rust-lang,rfcs,https://github.com/rust-lang/rfcs
+2022-08-14,shell,1536,7,"proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.",ivanhao,pvetools,https://github.com/ivanhao/pvetools
+2022-08-14,shell,5078,5,"Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",quickemu-project,quickemu,https://github.com/quickemu-project/quickemu
+2022-08-14,shell,5518,0,"Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2022-08-14,shell,3355,4,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-08-14,shell,290,7,FuckRKN1: freedom of speech and information,nezavisimost,FuckRKN1,https://github.com/nezavisimost/FuckRKN1
+2022-08-14,shell,4113,3,Docker image of Nextcloud,nextcloud,docker,https://github.com/nextcloud/docker
+2022-08-14,shell,8509,2,Performance analysis tools based on Linux perf_events (aka perf) and ftrace,brendangregg,perf-tools,https://github.com/brendangregg/perf-tools
+2022-08-14,shell,1408,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2022-08-14,shell,2209,1,Armbian Linux Build Framework,armbian,build,https://github.com/armbian/build
+2022-08-14,shell,1053,2,Installer for a generic Linux system,home-assistant,supervised-installer,https://github.com/home-assistant/supervised-installer
+2022-08-14,shell,12395,17,"Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",foxlet,macOS-Simple-KVM,https://github.com/foxlet/macOS-Simple-KVM
+2022-08-14,shell,737,1,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2022-08-14,shell,932,3,"Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.",ophub,amlogic-s9xxx-armbian,https://github.com/ophub/amlogic-s9xxx-armbian
+2022-08-14,shell,1403,1,Docker Official Image packaging for WordPress,docker-library,wordpress,https://github.com/docker-library/wordpress
+2022-08-14,shell,1550,0,"An open-source, next-generation ""runc"" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",nestybox,sysbox,https://github.com/nestybox/sysbox
+2022-08-14,shell,173,2,A small script to send messages anonymously. very fast and secure SMS sending script.,machine1337,fake-sms,https://github.com/machine1337/fake-sms

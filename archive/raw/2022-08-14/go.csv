@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-14,go,6011,64,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2022-08-14,go,60977,98,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2022-08-14,go,10267,5,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-08-14,go,3464,23,Safe database schema change and version control for DevOps teams. https://www.bytebase.com,Bytebase,Bytebase,https://github.com/Bytebase/Bytebase
+2022-08-14,go,9902,10,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-08-14,go,622,110,"A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.",teamhanko,hanko,https://github.com/teamhanko/hanko
+2022-08-14,go,1622,33,Remote development environments on your infrastructure provisioned with Terraform,coder,coder,https://github.com/coder/coder
+2022-08-14,go,4218,7,Golang library for managing configuration data from environment variables,kelseyhightower,envconfig,https://github.com/kelseyhightower/envconfig
+2022-08-14,go,43809,11,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-08-14,go,61936,35,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-08-14,go,2013,6,Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。,lcvvvv,kscan,https://github.com/lcvvvv/kscan
+2022-08-14,go,10449,6,Deliver Go binaries as fast and easily as possible,goreleaser,goreleaser,https://github.com/goreleaser/goreleaser
+2022-08-14,go,2232,4,"Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-08-14,go,5589,22,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2022-08-14,go,2736,7,【Go 从入门到实战】学习笔记，从零开始学 Go、Gin 框架，基本语法包括 26 个Demo，Gin 框架包括：Gin 自定义路由配置、Gin 使用 Logrus 进行日志记录、Gin 数据绑定和验证、Gin 自定义错误处理、Go gRPC Hello World... 持续更新中...,xinliangnote,Go,https://github.com/xinliangnote/Go
+2022-08-14,go,8834,7,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2022-08-14,go,3918,2,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2022-08-14,go,7370,9,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2022-08-14,go,3243,9,"Hysteria is a feature-packed proxy & relay utility optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting from China to servers abroad)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-08-14,go,2070,2,Kubernetes controller for GitHub Actions self-hosted runners,actions-runner-controller,actions-runner-controller,https://github.com/actions-runner-controller/actions-runner-controller
+2022-08-14,go,5619,7,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2022-08-14,go,3435,3,"Copier for golang, copy value from struct to struct and more",jinzhu,copier,https://github.com/jinzhu/copier
+2022-08-14,go,4927,8,An HTTP proxy library for Go,elazarl,goproxy,https://github.com/elazarl/goproxy
+2022-08-14,go,6890,9,Ebitengine - A dead simple 2D game library for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2022-08-14,go,8720,3,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
