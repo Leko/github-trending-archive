@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-16,haskell,241,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-08-16,haskell,2127,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-08-16,haskell,220,4,The next generation esoteric language,Deltaphish,UwUpp,https://github.com/Deltaphish/UwUpp
+2022-08-16,haskell,1034,4,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-08-16,haskell,27,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2022-08-16,haskell,2657,3,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-08-16,haskell,19075,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-08-16,haskell,1,0,,digital-asset,daml-finance,https://github.com/digital-asset/daml-finance
+2022-08-16,haskell,4642,2,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-08-16,haskell,270,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-08-16,haskell,530,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-08-16,haskell,1998,9,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-08-16,haskell,478,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2022-08-16,haskell,55,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2022-08-16,haskell,2761,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-08-16,haskell,29621,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-08-16,haskell,6910,3,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-08-16,haskell,1398,2,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-08-16,haskell,1539,7,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-08-16,haskell,1096,1,"The open-source, Haskell-built video editor for GIF makers.",lettier,gifcurry,https://github.com/lettier/gifcurry
+2022-08-16,haskell,48,0,"Fast, lightweight & configurable chain-index for Cardano.",CardanoSolutions,kupo,https://github.com/CardanoSolutions/kupo
+2022-08-16,haskell,7353,6,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-08-16,haskell,667,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-08-16,haskell,218,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-08-16,haskell,2118,0,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
