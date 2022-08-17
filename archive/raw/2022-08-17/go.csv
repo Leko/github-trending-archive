@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-17,go,23393,91,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2022-08-17,go,6588,161,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-08-17,go,11792,38,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-08-17,go,16663,22,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-08-17,go,8552,24,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2022-08-17,go,3204,8,"Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2022-08-17,go,4331,28,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2022-08-17,go,17825,15,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2022-08-17,go,25292,31,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-08-17,go,18719,30,Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2022-08-17,go,11122,17,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-08-17,go,414,0,A GitOps Terraform controller for Kubernetes,weaveworks,tf-controller,https://github.com/weaveworks/tf-controller
+2022-08-17,go,5571,2,"open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基…",EasyDarwin,EasyDarwin,https://github.com/EasyDarwin/EasyDarwin
+2022-08-17,go,668,11,experimental linter/analyzer for Makefiles,mrtazz,checkmake,https://github.com/mrtazz/checkmake
+2022-08-17,go,7924,30,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2022-08-17,go,6294,7,Golang implementation of the Raft consensus protocol,hashicorp,raft,https://github.com/hashicorp/raft
+2022-08-17,go,3533,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-08-17,go,5432,48,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2022-08-17,go,18840,11,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-08-17,go,6657,17,A vault for securely storing and accessing AWS credentials in development environments,99designs,aws-vault,https://github.com/99designs/aws-vault
+2022-08-17,go,4674,15,Fancy stream processing made operationally mundane,benthosdev,benthos,https://github.com/benthosdev/benthos
+2022-08-17,go,3133,10,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2022-08-17,go,18611,13,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-08-17,go,7795,10,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2022-08-17,go,19017,14,Delve is a debugger for the Go programming language.,go-delve,delve,https://github.com/go-delve/delve
