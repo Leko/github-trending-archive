@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-19,elixir,1880,3,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2022-08-19,elixir,12149,13,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2022-08-19,elixir,20631,2,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2022-08-19,elixir,2914,1,Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2022-08-19,elixir,2896,0,Simplify deployments in Elixir with OTP releases!,bitwalker,distillery,https://github.com/bitwalker/distillery
+2022-08-19,elixir,226,0,"Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",elixir-lsp,elixir_sense,https://github.com/elixir-lsp/elixir_sense
+2022-08-19,elixir,970,1,"A frontend-independent IDE ""smartness"" server for Elixir. Implements the ""Language Server Protocol"" standard and provides debugger support via the ""Debug Adapter Protocol""",elixir-lsp,elixir-ls,https://github.com/elixir-lsp/elixir-ls
+2022-08-19,elixir,1703,0,A server-side rendering component library for Phoenix,surface-ui,surface,https://github.com/surface-ui/surface
+2022-08-19,elixir,1796,1,"Testable, composable, and adapter based Elixir email library for devs that love piping.",thoughtbot,bamboo,https://github.com/thoughtbot/bamboo
+2022-08-19,elixir,4932,0,Open-source live customer chat,papercups-io,papercups,https://github.com/papercups-io/papercups
+2022-08-19,elixir,15,1,A package server for your organization.,btkostner,hexagon,https://github.com/btkostner/hexagon
+2022-08-19,elixir,1416,0,Elixir SortedSet backed by a Rust-based NIF,discord,sorted_set_nif,https://github.com/discord/sorted_set_nif
+2022-08-19,elixir,7,0,,OffchainLabs,blockscout,https://github.com/OffchainLabs/blockscout
+2022-08-19,elixir,892,1,Event store using PostgreSQL for persistence,commanded,eventstore,https://github.com/commanded/eventstore
+2022-08-19,elixir,18398,5,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2022-08-19,elixir,1066,1,An Elixir implementation of gRPC,elixir-grpc,grpc,https://github.com/elixir-grpc/grpc
+2022-08-19,elixir,361,2,Phoenix + Live View HEEX Components,petalframework,petal_components,https://github.com/petalframework/petal_components
+2022-08-19,elixir,8530,4,Cool open source projects written in various languages.,lk-geimfari,awesomo,https://github.com/lk-geimfari/awesomo
+2022-08-19,elixir,695,0,,fly-apps,live_beats,https://github.com/fly-apps/live_beats
+2022-08-19,elixir,2305,3,"Robust job processing in Elixir, backed by modern PostgreSQL",sorentwo,oban,https://github.com/sorentwo/oban
+2022-08-19,elixir,876,1,Faker is a pure Elixir library for generating fake data.,elixirs,faker,https://github.com/elixirs/faker
+2022-08-19,elixir,4743,2,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2022-08-19,elixir,5550,0,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2022-08-19,elixir,5212,22,Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.,supabase,realtime,https://github.com/supabase/realtime
+2022-08-19,elixir,2661,5,WireGuard®-based VPN server and firewall,firezone,firezone,https://github.com/firezone/firezone

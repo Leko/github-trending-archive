@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-19,go,6917,209,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-08-19,go,9438,43,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-08-19,go,4325,8,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2022-08-19,go,28175,22,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-08-19,go,9081,7,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-08-19,go,5059,10,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2022-08-19,go,9492,61,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-08-19,go,13525,50,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-08-19,go,12821,6,Dolt – It's Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2022-08-19,go,8731,2,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2022-08-19,go,11166,23,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-08-19,go,91249,46,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-08-19,go,3456,8,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2022-08-19,go,2543,7,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2022-08-19,go,10556,8,Git extension for versioning large files,git-lfs,git-lfs,https://github.com/git-lfs/git-lfs
+2022-08-19,go,2321,7,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2022-08-19,go,750,15,"RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.",wikiZ,RedGuard,https://github.com/wikiZ/RedGuard
+2022-08-19,go,6638,13,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-08-19,go,7994,11,"A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",chromedp,chromedp,https://github.com/chromedp/chromedp
+2022-08-19,go,2993,1,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-08-19,go,15447,0,(OBSOLETE) Curated applications for Kubernetes,helm,charts,https://github.com/helm/charts
+2022-08-19,go,7621,9,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk
+2022-08-19,go,4819,11,A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.,cloudwego,kitex,https://github.com/cloudwego/kitex
+2022-08-19,go,11847,11,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-08-19,go,7302,12,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
