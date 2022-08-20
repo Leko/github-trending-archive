@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-20,rust,13594,22,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-08-20,rust,4433,26,3D and 2D game engine written in Rust,FyroxEngine,Fyrox,https://github.com/FyroxEngine/Fyrox
+2022-08-20,rust,27725,57,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-08-20,rust,2360,4,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-08-20,rust,1448,28,"Connect your local process and your cloud environment, letting you run local code in cloud conditions.",metalbear-co,mirrord,https://github.com/metalbear-co/mirrord
+2022-08-20,rust,3058,10,RisingWave: the next-generation streaming database in the cloud.,singularity-data,risingwave,https://github.com/singularity-data/risingwave
+2022-08-20,rust,17200,7,Relay is a JavaScript framework for building data-driven React applications.,facebook,relay,https://github.com/facebook/relay
+2022-08-20,rust,5434,7,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2022-08-20,rust,1008,7,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2022-08-20,rust,1029,16,App source + Nix packages + Docker = Image,railwayapp,nixpacks,https://github.com/railwayapp/nixpacks
+2022-08-20,rust,11618,9,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2022-08-20,rust,28647,50,"An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-08-20,rust,23523,10,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2022-08-20,rust,287,14,vSMTP : a next-gen mail transfer agent (MTA) written in Rust. Faster and Greener.,viridIT,vSMTP,https://github.com/viridIT/vSMTP
+2022-08-20,rust,5783,17,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-08-20,rust,1331,14,Extensible SQL Lexer and Parser for Rust,sqlparser-rs,sqlparser-rs,https://github.com/sqlparser-rs/sqlparser-rs
+2022-08-20,rust,1156,2,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
+2022-08-20,rust,10127,14,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2022-08-20,rust,1175,4,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2022-08-20,rust,2070,3,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-08-20,rust,2250,16,Qdrant - Vector Search Engine for the next generation of AI applications,qdrant,qdrant,https://github.com/qdrant/qdrant
+2022-08-20,rust,7344,13,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2022-08-20,rust,9275,4,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-08-20,rust,7516,10,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-08-20,rust,2094,2,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node

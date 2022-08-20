@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-20,go,135,34,Flashbots Eth2/mev-boost relay,flashbots,mev-boost-relay,https://github.com/flashbots/mev-boost-relay
+2022-08-20,go,4302,15,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2022-08-20,go,9509,18,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-08-20,go,9494,58,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-08-20,go,13559,34,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-08-20,go,6982,67,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-08-20,go,339,112,Helpful functions to work with emoji in Golang,forPelevin,gomoji,https://github.com/forPelevin/gomoji
+2022-08-20,go,2567,8,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2022-08-20,go,1665,7,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2022-08-20,go,11177,11,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-08-20,go,19725,10,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-08-20,go,2372,4,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2022-08-20,go,5612,22,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2022-08-20,go,11829,1,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-08-20,go,4064,1,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2022-08-20,go,14543,11,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2022-08-20,go,6983,5,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2022-08-20,go,91280,35,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-08-20,go,10837,10,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2022-08-20,go,26926,13,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-08-20,go,2551,8,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2022-08-20,go,10302,2,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
+2022-08-20,go,3418,5,Test infrastructure for the Kubernetes project.,kubernetes,test-infra,https://github.com/kubernetes/test-infra
+2022-08-20,go,12488,7,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2022-08-20,go,10846,2,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
