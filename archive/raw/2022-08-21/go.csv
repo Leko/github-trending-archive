@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-21,go,10222,139,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-08-21,go,21816,24,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-08-21,go,91312,36,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-08-21,go,4338,7,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2022-08-21,go,29340,12,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-08-21,go,7750,11,Cloud cost estimates for Terraform in pull requests Love your cloud bill!,infracost,infracost,https://github.com/infracost/infracost
+2022-08-21,go,59151,28,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-08-21,go,1627,5,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,cloudwego,hertz,https://github.com/cloudwego/hertz
+2022-08-21,go,4864,10,A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.,cloudwego,kitex,https://github.com/cloudwego/kitex
+2022-08-21,go,16608,13,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-08-21,go,11418,9,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2022-08-21,go,63835,19,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-08-21,go,18857,15,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2022-08-21,go,8894,5,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2022-08-21,go,7637,8,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk
+2022-08-21,go,3955,3,"An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-08-21,go,20750,13,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2022-08-21,go,2571,5,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2022-08-21,go,13922,14,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-08-21,go,19978,14,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-08-21,go,85,10,Golang HTTP logger middleware with color console output and structured logs,MadAppGang,httplog,https://github.com/MadAppGang/httplog
+2022-08-21,go,19732,8,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-08-21,go,6550,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-08-21,go,50,13,,awslabs,soci-snapshotter,https://github.com/awslabs/soci-snapshotter
+2022-08-21,go,2438,5,protoc plugin to generate polyglot message validators,envoyproxy,protoc-gen-validate,https://github.com/envoyproxy/protoc-gen-validate
