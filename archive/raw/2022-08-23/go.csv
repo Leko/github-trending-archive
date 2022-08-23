@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-23,go,10702,293,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-08-23,go,207,99,Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR,ThrillQuks,Pitraix,https://github.com/ThrillQuks/Pitraix
+2022-08-23,go,30238,44,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-08-23,go,1038,8,基于 ZeroBot 的 OneBot 插件,FloatTech,ZeroBot-Plugin,https://github.com/FloatTech/ZeroBot-Plugin
+2022-08-23,go,5656,8,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2022-08-23,go,13845,42,The personal information dashboard for your terminal,wtfutil,wtf,https://github.com/wtfutil/wtf
+2022-08-23,go,187,49,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2022-08-23,go,12499,43,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2022-08-23,go,40210,12,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2022-08-23,go,3313,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-08-23,go,10905,17,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2022-08-23,go,59218,40,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-08-23,go,1434,23,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2022-08-23,go,6375,18,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2022-08-23,go,86305,74,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-08-23,go,6187,9,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2022-08-23,go,11241,8,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",geektutu,7days-golang,https://github.com/geektutu/7days-golang
+2022-08-23,go,1034,4,"GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件 geoip.dat 和 MaxMind mmdb 格式文件 Country.mmdb。Enhanced edition of GeoIP files for V2Ray, Xray-core, Trojan-Go, Clash and Leaf, with replaced CN IPv4 CIDR available from ipip.net, appended CIDR lists and more.",Loyalsoldier,geoip,https://github.com/Loyalsoldier/geoip
+2022-08-23,go,14266,12,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2022-08-23,go,4622,31,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2022-08-23,go,2968,3,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2022-08-23,go,40733,10,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2022-08-23,go,12564,61,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2022-08-23,go,21875,32,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-08-23,go,34271,22,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone

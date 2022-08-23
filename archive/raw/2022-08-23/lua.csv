@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-23,lua,3175,4,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-08-23,lua,1476,18,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-08-23,lua,707,2,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
+2022-08-23,lua,891,4,Combined Resource Folder from Multiple Sources of certain anime game,Koko-boya,Grasscutter_Resources,https://github.com/Koko-boya/Grasscutter_Resources
+2022-08-23,lua,1015,5,"Highlight, list and search todo comments in your projects",folke,todo-comments.nvim,https://github.com/folke/todo-comments.nvim
+2022-08-23,lua,11581,26,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-08-23,lua,2602,6,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2022-08-23,lua,1202,8,"illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.",RRethy,vim-illuminate,https://github.com/RRethy/vim-illuminate
+2022-08-23,lua,4241,12,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-08-23,lua,2208,26,"夜 - Yoru | Aesthetic and Beautiful Awesome Environment",rxyhn,yoru,https://github.com/rxyhn/yoru
+2022-08-23,lua,1189,5,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-08-23,lua,645,2,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2022-08-23,lua,18814,9,A community-driven modular vim/neovim distribution - The ultimate vimrc,SpaceVim,SpaceVim,https://github.com/SpaceVim/SpaceVim
+2022-08-23,lua,2017,5,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2022-08-23,lua,1353,0,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2022-08-23,lua,3119,10,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-08-23,lua,29,0,Slot Based Inventory System Used With QB-Core,qbcore-framework,qb-inventory,https://github.com/qbcore-framework/qb-inventory
+2022-08-23,lua,599,0,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-08-23,lua,11194,3,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-08-23,lua,6902,14,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-08-23,lua,3561,15,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-08-23,lua,171,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2022-08-23,lua,24479,7,Image Super-Resolution for Anime-Style Art,nagadomi,waifu2x,https://github.com/nagadomi/waifu2x
+2022-08-23,lua,5360,17,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-08-23,lua,22,0,Weapon Logic Script For QB-Core,qbcore-framework,qb-weapons,https://github.com/qbcore-framework/qb-weapons
