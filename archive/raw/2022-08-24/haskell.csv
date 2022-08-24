@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-24,haskell,19110,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-08-24,haskell,7378,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-08-24,haskell,2771,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-08-24,haskell,29690,12,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-08-24,haskell,19,0,Set breakpoints using a GHC plugin,aaronallen8455,breakpoint,https://github.com/aaronallen8455/breakpoint
+2022-08-24,haskell,1907,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-08-24,haskell,26319,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-08-24,haskell,6914,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-08-24,haskell,7801,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-08-24,haskell,11,0,,digital-asset,lib-finance,https://github.com/digital-asset/lib-finance
+2022-08-24,haskell,403,0,Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations,haskell-CI,haskell-ci,https://github.com/haskell-CI/haskell-ci
+2022-08-24,haskell,22,0,An llvm pretty printer inspired by the haskell llvm binding,elliottt,llvm-pretty,https://github.com/elliottt/llvm-pretty
+2022-08-24,haskell,2466,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-08-24,haskell,2,0,,digital-asset,daml-finance,https://github.com/digital-asset/daml-finance
+2022-08-24,haskell,4555,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-08-24,haskell,219,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-08-24,haskell,130,0,Symbolic formula representation and solver interaction library,GaloisInc,what4,https://github.com/GaloisInc/what4
+2022-08-24,haskell,146,0,Proof of concept for the Hydra Head protocol,input-output-hk,hydra-poc,https://github.com/input-output-hk/hydra-poc
+2022-08-24,haskell,7,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-08-24,haskell,17,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-08-24,haskell,1212,1,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-08-24,haskell,226,0,The next generation esoteric language,Deltaphish,UwUpp,https://github.com/Deltaphish/UwUpp
+2022-08-24,haskell,8,0,Fork of GHC (https://gitlab.haskell.org/ghc/ghc.git),digital-asset,ghc,https://github.com/digital-asset/ghc
+2022-08-24,haskell,26,0,The main concordium node implementation.,Concordium,concordium-node,https://github.com/Concordium/concordium-node
+2022-08-24,haskell,529,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
