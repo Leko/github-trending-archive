@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-25,go,11133,111,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-08-25,go,6498,60,"Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.",kubescape,kubescape,https://github.com/kubescape/kubescape
+2022-08-25,go,20124,31,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-08-25,go,420,27,骚话生成器生成器,disksing,sao-gen-gen,https://github.com/disksing/sao-gen-gen
+2022-08-25,go,6350,1,"Example programs from ""The Go Programming Language""",adonovan,gopl.io,https://github.com/adonovan/gopl.io
+2022-08-25,go,2975,2,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2022-08-25,go,4084,8,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2022-08-25,go,6681,14,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-08-25,go,297,22,Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR,ThrillQuks,Pitraix,https://github.com/ThrillQuks/Pitraix
+2022-08-25,go,1181,1,Go implementation of data-plane-api,envoyproxy,go-control-plane,https://github.com/envoyproxy/go-control-plane
+2022-08-25,go,23704,5,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-08-25,go,1608,14,"A tool to seal application's all dependencies and Kubernetes into ClusterImage, distribute this application anywhere via ClusterImage, and run it within any cluster in one command.",sealerio,sealer,https://github.com/sealerio/sealer
+2022-08-25,go,6564,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-08-25,go,3944,6,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2022-08-25,go,3009,2,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-08-25,go,5134,5,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2022-08-25,go,518,15,golang进程管理工具(golang process manager),ntt360,pmon2,https://github.com/ntt360/pmon2
+2022-08-25,go,38937,22,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-08-25,go,17417,14,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-08-25,go,9124,12,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",tinode,chat,https://github.com/tinode/chat
+2022-08-25,go,10817,14,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2022-08-25,go,13174,6,Easy and Repeatable Kubernetes Development,GoogleContainerTools,skaffold,https://github.com/GoogleContainerTools/skaffold
+2022-08-25,go,16742,17,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-08-25,go,1699,8,Examples for  Fiber,gofiber,recipes,https://github.com/gofiber/recipes
+2022-08-25,go,7834,8,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go

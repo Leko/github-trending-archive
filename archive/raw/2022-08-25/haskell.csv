@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-25,haskell,26329,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-08-25,haskell,2772,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-08-25,haskell,23,6,Uncompromisingly safe money library,NorfairKing,really-safe-money,https://github.com/NorfairKing/really-safe-money
+2022-08-25,haskell,29704,15,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-08-25,haskell,7385,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-08-25,haskell,1908,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-08-25,haskell,1578,3,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-08-25,haskell,1692,0,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-08-25,haskell,19110,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-08-25,haskell,2466,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-08-25,haskell,529,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-08-25,haskell,171,1,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-08-25,haskell,1402,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-08-25,haskell,1,0,Binary Indexed Trees in Haskell,maxwellsayles,binary-indexed-tree,https://github.com/maxwellsayles/binary-indexed-tree
+2022-08-25,haskell,750,0,Haskell Web Application Interface,yesodweb,wai,https://github.com/yesodweb/wai
+2022-08-25,haskell,6920,6,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-08-25,haskell,220,1,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-08-25,haskell,3423,2,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-08-25,haskell,1047,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-08-25,haskell,670,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-08-25,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-08-25,haskell,43,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-08-25,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-08-25,haskell,54,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-08-25,haskell,2,0,generate UIView code from declarative description,ethercrow,interface-rewriter,https://github.com/ethercrow/interface-rewriter
