@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-26,shell,60424,35,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-08-26,shell,2002,13,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-08-26,shell,5596,30,"Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2022-08-26,shell,3000,12,基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜,Sitoi,dailycheckin,https://github.com/Sitoi/dailycheckin
+2022-08-26,shell,6484,6,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-08-26,shell,230,59,网络手游开发知识、技术与信息库，游戏研发技术从业者的导航地图。,gonglei007,GameDevMind,https://github.com/gonglei007/GameDevMind
+2022-08-26,shell,32737,39,Official electron build of draw.io,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2022-08-26,shell,8616,10,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-08-26,shell,7911,3,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.,docker,docker-bench-security,https://github.com/docker/docker-bench-security
+2022-08-26,shell,4986,3,a Docker + Kubernetes network trouble-shooting swiss-army container,nicolaka,netshoot,https://github.com/nicolaka/netshoot
+2022-08-26,shell,6271,3,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2022-08-26,shell,8513,7,"Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.",angristan,openvpn-install,https://github.com/angristan/openvpn-install
+2022-08-26,shell,4788,10,Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update),SuLingGG,OpenWrt-Rpi,https://github.com/SuLingGG/OpenWrt-Rpi
+2022-08-26,shell,2552,3,Home Assistant Operating System,home-assistant,operating-system,https://github.com/home-assistant/operating-system
+2022-08-26,shell,11884,6,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2022-08-26,shell,873,0,基于 Lean&Lienol 源码的 NanoPi R4S 的 OpenWrt 固件。,DHDAXCW,NanoPi-R4S-R4SE,https://github.com/DHDAXCW/NanoPi-R4S-R4SE
+2022-08-26,shell,15571,9,"OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",Nyr,openvpn-install,https://github.com/Nyr/openvpn-install
+2022-08-26,shell,2013,7,"Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",Jeevan-kumar-Raj,Grokking-System-Design,https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+2022-08-26,shell,16720,2,Node version management,tj,n,https://github.com/tj/n
+2022-08-26,shell,7716,3,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2022-08-26,shell,3336,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-08-26,shell,2248,3,"Plex Media Server Docker repo, for all your PMS docker needs.",plexinc,pms-docker,https://github.com/plexinc/pms-docker
+2022-08-26,shell,693,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2022-08-26,shell,12034,5,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-08-26,shell,1767,9,Proxmox Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
