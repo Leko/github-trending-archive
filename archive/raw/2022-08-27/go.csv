@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-27,go,8822,263,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-08-27,go,1457,135,Source code and community space of  100 Go Mistakes,teivah,100-go-mistakes,https://github.com/teivah/100-go-mistakes
+2022-08-27,go,3893,43,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2022-08-27,go,11858,5,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-08-27,go,3940,36,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
+2022-08-27,go,11904,8,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-08-27,go,1188,2,Go implementation of data-plane-api,envoyproxy,go-control-plane,https://github.com/envoyproxy/go-control-plane
+2022-08-27,go,34938,75,Multi-Cloud  Object Storage,minio,minio,https://github.com/minio/minio
+2022-08-27,go,3547,71,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-08-27,go,11846,103,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-08-27,go,8414,2,A TCP proxy to simulate network and system conditions for chaos and resiliency testing,Shopify,toxiproxy,https://github.com/Shopify/toxiproxy
+2022-08-27,go,6660,62,"Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.",kubescape,kubescape,https://github.com/kubescape/kubescape
+2022-08-27,go,11330,24,A compiler from Go to JavaScript for running Go code in a browser,gopherjs,gopherjs,https://github.com/gopherjs/gopherjs
+2022-08-27,go,12535,6,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2022-08-27,go,105,23,Generic Container and Algorithm Library for Go,chen3feng,stl4go,https://github.com/chen3feng/stl4go
+2022-08-27,go,454,13,骚话生成器生成器,disksing,sao-gen-gen,https://github.com/disksing/sao-gen-gen
+2022-08-27,go,13180,1,Easy and Repeatable Kubernetes Development,GoogleContainerTools,skaffold,https://github.com/GoogleContainerTools/skaffold
+2022-08-27,go,4424,18,"A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.",YaoApp,yao,https://github.com/YaoApp/yao
+2022-08-27,go,5994,8,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-08-27,go,15235,7,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-08-27,go,5377,10,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2022-08-27,go,2085,27,Remote development environments on your infrastructure provisioned with Terraform,coder,coder,https://github.com/coder/coder
+2022-08-27,go,3551,4,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-08-27,go,2323,11,"A artistic ""twitter like"" community built on gin+zinc+vue+ts 清新文艺微社区",rocboss,paopao-ce,https://github.com/rocboss/paopao-ce
+2022-08-27,go,192,2,Cosmos Hub,cosmos,gaia,https://github.com/cosmos/gaia

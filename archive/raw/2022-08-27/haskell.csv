@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-27,haskell,670,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-08-27,haskell,7393,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-08-27,haskell,26344,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-08-27,haskell,8460,0,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-08-27,haskell,0,0,"Scalable, Universal, Generic Optimization Infrastructure in Haskell",sugoi,sugoi-2012-11-12,https://github.com/sugoi/sugoi-2012-11-12
+2022-08-27,haskell,3428,0,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-08-27,haskell,29720,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-08-27,haskell,0,0,Implémentation d'un petit langage fonctionnel en Haskell.,nguyentito,miniml,https://github.com/nguyentito/miniml
+2022-08-27,haskell,2773,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-08-27,haskell,4562,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-08-27,haskell,1835,4,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-08-27,haskell,15,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-08-27,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-08-27,haskell,43,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-08-27,haskell,22,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-08-27,haskell,54,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-08-27,haskell,27,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2022-08-27,haskell,529,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-08-27,haskell,183,1,"An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.",haskell-effectful,effectful,https://github.com/haskell-effectful/effectful
+2022-08-27,haskell,17,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-08-27,haskell,19120,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-08-27,haskell,6921,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-08-27,haskell,2684,3,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-08-27,haskell,2138,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-08-27,haskell,14,0,Visualizing kubernetes capacity.,Shopify,kubepacity,https://github.com/Shopify/kubepacity
