@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-28,go,9027,224,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-08-28,go,11950,110,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-08-28,go,11890,23,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-08-28,go,2624,37,Open source permissions database inspired by Google Zanzibar,authzed,spicedb,https://github.com/authzed/spicedb
+2022-08-28,go,1613,175,Source code and community space of  100 Go Mistakes,teivah,100-go-mistakes,https://github.com/teivah/100-go-mistakes
+2022-08-28,go,12153,7,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-08-28,go,6996,4,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2022-08-28,go,5671,11,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2022-08-28,go,2008,314,"Instant, easy, predictable shells and containers.",jetpack-io,devbox,https://github.com/jetpack-io/devbox
+2022-08-28,go,3581,35,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-08-28,go,11358,28,A compiler from Go to JavaScript for running Go code in a browser,gopherjs,gopherjs,https://github.com/gopherjs/gopherjs
+2022-08-28,go,3665,7,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2022-08-28,go,10352,14,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
+2022-08-28,go,3956,16,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
+2022-08-28,go,5998,4,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-08-28,go,6708,8,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-08-28,go,6239,6,Lightning Network Daemon,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2022-08-28,go,3552,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-08-28,go,1655,4,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2022-08-28,go,86586,58,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-08-28,go,112,7,Generic Container and Algorithm Library for Go,chen3feng,stl4go,https://github.com/chen3feng/stl4go
+2022-08-28,go,11419,5,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2022-08-28,go,4293,7,Arbitrary-precision fixed-point decimal numbers in go,shopspring,decimal,https://github.com/shopspring/decimal
+2022-08-28,go,11236,5,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2022-08-28,go,34957,19,Multi-Cloud  Object Storage,minio,minio,https://github.com/minio/minio
