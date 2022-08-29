@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-29,scala,11910,1,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-08-29,scala,22,4,,nullobject,openfpga-tecmo,https://github.com/nullobject/openfpga-tecmo
+2022-08-29,scala,12202,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-08-29,scala,12372,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-08-29,scala,5057,2,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-08-29,scala,2667,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-08-29,scala,5641,0,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-08-29,scala,3507,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-08-29,scala,33743,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-08-29,scala,5374,0,Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.,linkerd,linkerd,https://github.com/linkerd/linkerd
+2022-08-29,scala,8321,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-08-29,scala,761,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-08-29,scala,187,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-08-29,scala,2550,1,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-08-29,scala,572,0,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-08-29,scala,5178,2,This connector allows Apache Spark™ to read from and write to Delta Lake.,delta-io,delta,https://github.com/delta-io/delta
+2022-08-29,scala,2,0,Wrapper for lowRISC Ibex,ucb-bar,ibex-wrapper,https://github.com/ucb-bar/ibex-wrapper
+2022-08-29,scala,1364,0,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2022-08-29,scala,7,0,Tools for integrating DspTools components into a rocket-chip,ucb-bar,rocket-dsp-utils,https://github.com/ucb-bar/rocket-dsp-utils
+2022-08-29,scala,4,0,,ucb-bar,FFTGenerator,https://github.com/ucb-bar/FFTGenerator
+2022-08-29,scala,9,0,A minimal quickstart ZIO application for writing a RESTful Web Service,zio,zio-quickstart-restful-webservice,https://github.com/zio/zio-quickstart-restful-webservice
+2022-08-29,scala,163,0,A Library of Chisel3 Tools for Digital Signal Processing,ucb-bar,dsptools,https://github.com/ucb-bar/dsptools
+2022-08-29,scala,7,0,Macro description format,ucb-bar,plsi-mdf,https://github.com/ucb-bar/plsi-mdf
+2022-08-29,scala,334,0,Berkeley's Spatial Array Generator,ucb-bar,gemmini,https://github.com/ucb-bar/gemmini
+2022-08-29,scala,25,0,Useful utilities for BAR projects,ucb-bar,barstools,https://github.com/ucb-bar/barstools

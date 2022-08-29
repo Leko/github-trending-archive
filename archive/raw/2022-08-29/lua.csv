@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-29,lua,4334,30,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-08-29,lua,5411,13,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-08-29,lua,1076,3,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2022-08-29,lua,3792,11,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-08-29,lua,1172,4,Soothing pastel theme for NeoVim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2022-08-29,lua,3609,11,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-08-29,lua,3205,6,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-08-29,lua,10107,20,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-08-29,lua,1214,7,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-08-29,lua,1856,8,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2022-08-29,lua,688,5,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2022-08-29,lua,2373,8,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-08-29,lua,1566,20,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-08-29,lua,709,5,My configuration files and tools,tjdevries,config_manager,https://github.com/tjdevries/config_manager
+2022-08-29,lua,1579,1,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-08-29,lua,1535,2,Neovim motions on speed!,phaazon,hop.nvim,https://github.com/phaazon/hop.nvim
+2022-08-29,lua,1215,3,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-08-29,lua,1511,6,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-08-29,lua,1767,2,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2022-08-29,lua,11642,13,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-08-29,lua,887,3,Improve startup time for Neovim,lewis6991,impatient.nvim,https://github.com/lewis6991/impatient.nvim
+2022-08-29,lua,2042,4,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2022-08-29,lua,6951,8,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-08-29,lua,659,2,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2022-08-29,lua,295,8,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
