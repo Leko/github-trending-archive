@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-30,go,2153,372,Source code and community space of  100 Go Mistakes,teivah,100-go-mistakes,https://github.com/teivah/100-go-mistakes
+2022-08-30,go,491,13,Gno language & gno.land chain,gnolang,gno,https://github.com/gnolang/gno
+2022-08-30,go,2696,371,"Instant, easy, predictable shells and containers.",jetpack-io,devbox,https://github.com/jetpack-io/devbox
+2022-08-30,go,12118,64,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-08-30,go,19079,55,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2022-08-30,go,61491,33,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2022-08-30,go,473,13,Public DNS resolver that protects you from ad trackers,AdguardTeam,AdGuardDNS,https://github.com/AdguardTeam/AdGuardDNS
+2022-08-30,go,6970,11,Ebitengine - A dead simple 2D game library for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2022-08-30,go,9800,62,A tool for glamorous shell scripts,charmbracelet,gum,https://github.com/charmbracelet/gum
+2022-08-30,go,2733,21,A Devtools driver for web automation and scraping,go-rod,rod,https://github.com/go-rod/rod
+2022-08-30,go,3680,9,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2022-08-30,go,21935,19,AI-Powered Photos App for the Decentralized Web,photoprism,photoprism,https://github.com/photoprism/photoprism
+2022-08-30,go,11430,6,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2022-08-30,go,902,23,XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance. XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存的 分配/释放 工作，能自主构建高性能的 链表/树/哈希表等各类数据结构，能良好完美的逃逸掉Go内置的GC机制，是构建高性能程序基础设施。,heiyeluren,xmm,https://github.com/heiyeluren/xmm
+2022-08-30,go,46327,28,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-08-30,go,2678,19,Open source permissions database inspired by Google Zanzibar,authzed,spicedb,https://github.com/authzed/spicedb
+2022-08-30,go,7431,4,"flannel is a network fabric for containers, designed for Kubernetes",flannel-io,flannel,https://github.com/flannel-io/flannel
+2022-08-30,go,6310,11,Take control over your live stream video by running it yourself. Streaming + chat out of the box.,owncast,owncast,https://github.com/owncast/owncast
+2022-08-30,go,9166,53,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-08-30,go,9890,19,"cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.",cheat,cheat,https://github.com/cheat/cheat
+2022-08-30,go,26406,9,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2022-08-30,go,30476,46,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-08-30,go,17378,104,Elegant Scraper and Crawler Framework for Golang,gocolly,colly,https://github.com/gocolly/colly
+2022-08-30,go,9510,16,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2022-08-30,go,3329,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-30,rust,10489,52,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2022-08-30,rust,18150,41,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-08-30,rust,71240,35,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-08-30,rust,857,24,"Rust Programming Fundamentals - one course to rule them all, one course to find them...",CleanCut,ultimate_rust_crash_course,https://github.com/CleanCut/ultimate_rust_crash_course
+2022-08-30,rust,6994,12,The Modern Port Scanner,RustScan,RustScan,https://github.com/RustScan/RustScan
+2022-08-30,rust,1108,11,Source code for the book Rust in Action,rust-in-action,code,https://github.com/rust-in-action/code
+2022-08-30,rust,6189,75,A nonsense activity generator,svenstaro,genact,https://github.com/svenstaro/genact
+2022-08-30,rust,17296,22,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-08-30,rust,23308,12,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2022-08-30,rust,9410,12,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2022-08-30,rust,41402,23,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2022-08-30,rust,9366,8,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2022-08-30,rust,4777,5,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2022-08-30,rust,3553,12,Video stabilization using gyroscope data,gyroflow,gyroflow,https://github.com/gyroflow/gyroflow
+2022-08-30,rust,5635,28,Cross-platform Text Expander written in Rust,espanso,espanso,https://github.com/espanso/espanso
+2022-08-30,rust,5195,10,Tools for concurrent programming in Rust,crossbeam-rs,crossbeam,https://github.com/crossbeam-rs/crossbeam
+2022-08-30,rust,1635,6,Cross-platform game engine in Rust.,not-fl3,macroquad,https://github.com/not-fl3/macroquad
+2022-08-30,rust,49293,80,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-08-30,rust,388,25,"CYFS is the next-generation technology to build real Web3 by upgrading the basic protocol of Web (TCP/IP+DNS+HTTP),is short for CYberFileSystem. https://www.cyfs.com/, cyfs://cyfs/index_en.html.",buckyos,CYFS,https://github.com/buckyos/CYFS
+2022-08-30,rust,2583,5,Community showcase and examples of Actix ecosystem usage.,actix,examples,https://github.com/actix/examples
+2022-08-30,rust,10501,10,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2022-08-30,rust,8059,14,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2022-08-30,rust,18222,19,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-08-30,rust,6720,7,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-08-30,rust,2631,14,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
