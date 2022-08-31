@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-08-31,perl,13475,8,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2022-08-31,perl,4084,3,"Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub",jlord,git-it-electron,https://github.com/jlord/git-it-electron
+2022-08-31,perl,50,0,A multi-language tool which parses source code for function definitions and calls,koknat,callGraph,https://github.com/koknat/callGraph
+2022-08-31,perl,251,0,GNU Fortran (and GCC) compilers for macOS,fxcoudert,gfortran-for-macOS,https://github.com/fxcoudert/gfortran-for-macOS
+2022-08-31,perl,229,0,FusionInventory Agent,fusioninventory,fusioninventory-agent,https://github.com/fusioninventory/fusioninventory-agent
+2022-08-31,perl,1861,4,Client for PPP+SSL VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
+2022-08-31,perl,252,1,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2022-08-31,perl,788,0,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2022-08-31,perl,1104,2,ModSecurity v3 Nginx Connector,SpiderLabs,ModSecurity-nginx,https://github.com/SpiderLabs/ModSecurity-nginx
+2022-08-31,perl,663,1,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2022-08-31,perl,276,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2022-08-31,perl,586,1,LCOV,linux-test-project,lcov,https://github.com/linux-test-project/lcov
+2022-08-31,perl,65,0,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2022-08-31,perl,1697,1,A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds,get-iplayer,get_iplayer,https://github.com/get-iplayer/get_iplayer
+2022-08-31,perl,2735,1,A fast PostgreSQL Log Analyzer,darold,pgbadger,https://github.com/darold/pgbadger
+2022-08-31,perl,322,0,Rapid haploid variant calling and core genome alignment,tseemann,snippy,https://github.com/tseemann/snippy
+2022-08-31,perl,329,0,The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants,Ensembl,ensembl-vep,https://github.com/Ensembl/ensembl-vep
+2022-08-31,perl,208,0,Spec and test data for the MaxMind DB file format,maxmind,MaxMind-DB,https://github.com/maxmind/MaxMind-DB
+2022-08-31,perl,761,0,Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.,asbru-cm,asbru-cm,https://github.com/asbru-cm/asbru-cm
+2022-08-31,perl,1548,1,"The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.",bagder,everything-curl,https://github.com/bagder/everything-curl
+2022-08-31,perl,2574,2,"a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)",rsnapshot,rsnapshot,https://github.com/rsnapshot/rsnapshot
+2022-08-31,perl,0,0,http://en.wikipedia.org/wiki/Machine_epsilon,binary-com,perl-Machine-Epsilon,https://github.com/binary-com/perl-Machine-Epsilon
+2022-08-31,perl,0,0,Interface to myaffiliates.com API,binary-com,perl-WebService-MyAffiliates,https://github.com/binary-com/perl-WebService-MyAffiliates
+2022-08-31,perl,0,0,,binary-com,perl-App-Config-Chronicle,https://github.com/binary-com/perl-App-Config-Chronicle
+2022-08-31,perl,0,0,,binary-com,perl-MooX-Role-Validatable,https://github.com/binary-com/perl-MooX-Role-Validatable
