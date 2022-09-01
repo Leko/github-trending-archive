@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-01,haskell,2781,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-09-01,haskell,21,0,A drop-in replacement for nix-serve that is faster and more reliable,aristanetworks,nix-serve-ng,https://github.com/aristanetworks/nix-serve-ng
+2022-09-01,haskell,7,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-09-01,haskell,3439,5,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-09-01,haskell,1061,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-09-01,haskell,29770,15,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-09-01,haskell,173,1,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-09-01,haskell,2293,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-09-01,haskell,6925,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-09-01,haskell,669,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-09-01,haskell,7410,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-09-01,haskell,529,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-09-01,haskell,4574,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-09-01,haskell,2,0,generate UIView code from declarative description,ethercrow,interface-rewriter,https://github.com/ethercrow/interface-rewriter
+2022-09-01,haskell,766,0,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2022-09-01,haskell,26393,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-09-01,haskell,1404,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-09-01,haskell,24,0,Database maintenance tool support,ConferOpenSource,refurb,https://github.com/ConferOpenSource/refurb
+2022-09-01,haskell,2,0,,digital-asset,daml-finance,https://github.com/digital-asset/daml-finance
+2022-09-01,haskell,249,0,Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.,VinylRecords,Vinyl,https://github.com/VinylRecords/Vinyl
+2022-09-01,haskell,2467,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-09-01,haskell,68,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-09-01,haskell,161,0,,github,deli,https://github.com/github/deli
+2022-09-01,haskell,14,0,Visualizing kubernetes capacity.,Shopify,kubepacity,https://github.com/Shopify/kubepacity
+2022-09-01,haskell,2146,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
