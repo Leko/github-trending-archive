@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-02,go,7522,25,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-09-02,go,9129,4,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-09-02,go,2988,0,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2022-09-02,go,5276,39,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2022-09-02,go,160,18,,ps1337,reinschauer,https://github.com/ps1337/reinschauer
+2022-09-02,go,3115,1,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2022-09-02,go,232,2,An IBC relayer for ibc-go,cosmos,relayer,https://github.com/cosmos/relayer
+2022-09-02,go,7515,47,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-09-02,go,103373,53,The Go programming language,golang,go,https://github.com/golang/go
+2022-09-02,go,3829,68,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-09-02,go,8778,23,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2022-09-02,go,18755,12,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-09-02,go,4048,9,"An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-09-02,go,15296,15,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-09-02,go,6283,15,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2022-09-02,go,1459,4,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,WireGuard,wireguard-go,https://github.com/WireGuard/wireguard-go
+2022-09-02,go,2469,6,protoc plugin to generate polyglot message validators,envoyproxy,protoc-gen-validate,https://github.com/envoyproxy/protoc-gen-validate
+2022-09-02,go,12886,13,Dolt – It's Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2022-09-02,go,11322,15,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",geektutu,7days-golang,https://github.com/geektutu/7days-golang
+2022-09-02,go,2085,2,Golang driver for ClickHouse,ClickHouse,clickhouse-go,https://github.com/ClickHouse/clickhouse-go
+2022-09-02,go,13829,6,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2022-09-02,go,13487,16,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-09-02,go,2164,5,企业级的 Go 语言实战项目：认证和授权系统（带配套课程）,marmotedu,iam,https://github.com/marmotedu/iam
+2022-09-02,go,5605,14,Color package for Go (golang),fatih,color,https://github.com/fatih/color
+2022-09-02,go,9533,11,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core

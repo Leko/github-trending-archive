@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-02,rust,228,57,A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices.,cloudwego,volo,https://github.com/cloudwego/volo
+2022-09-02,rust,504,48,Rust implementation of Zeeka protocol,zeeka-network,bazuka,https://github.com/zeeka-network/bazuka
+2022-09-02,rust,854,18,,move-language,move,https://github.com/move-language/move
+2022-09-02,rust,3106,14,RisingWave: the next-generation streaming database in the cloud.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2022-09-02,rust,68,12,,kaist-cp,cs220,https://github.com/kaist-cp/cs220
+2022-09-02,rust,2011,2,A collection of Solana-maintained on-chain programs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2022-09-02,rust,978,11,,kaist-cp,cs431,https://github.com/kaist-cp/cs431
+2022-09-02,rust,2676,7,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2022-09-02,rust,2386,1,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-09-02,rust,28481,102,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-09-02,rust,4138,4,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-09-02,rust,2043,16,RustDesk Server Program,rustdesk,rustdesk-server,https://github.com/rustdesk/rustdesk-server
+2022-09-02,rust,23698,26,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2022-09-02,rust,302,74,A lunatic web framework,lunatic-solutions,submillisecond,https://github.com/lunatic-solutions/submillisecond
+2022-09-02,rust,2955,48,Lunatic is an Erlang-inspired runtime for WebAssembly,lunatic-solutions,lunatic,https://github.com/lunatic-solutions/lunatic
+2022-09-02,rust,11613,123,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-09-02,rust,609,3,"莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.",wormtql,genshin_artifact,https://github.com/wormtql/genshin_artifact
+2022-09-02,rust,1301,14,"Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages",PyO3,maturin,https://github.com/PyO3/maturin
+2022-09-02,rust,12001,6,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2022-09-02,rust,372,3,"A configurable, high-performance routing runtime for Apollo Federation",apollographql,router,https://github.com/apollographql/router
+2022-09-02,rust,2129,17,"async fn(Request) -> Result<Response, Error>",tower-rs,tower,https://github.com/tower-rs/tower
+2022-09-02,rust,14726,16,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-09-02,rust,13759,23,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-09-02,rust,1290,11,A reactive library for creating web apps in Rust and WebAssembly,sycamore-rs,sycamore,https://github.com/sycamore-rs/sycamore
+2022-09-02,rust,7120,13,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
