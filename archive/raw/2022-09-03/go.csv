@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-03,go,25474,82,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-09-03,go,5622,17,Color package for Go (golang),fatih,color,https://github.com/fatih/color
+2022-09-03,go,2278,6,"Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-09-03,go,2911,13,"Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",ThreeDotsLabs,wild-workouts-go-ddd-example,https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+2022-09-03,go,10875,13,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2022-09-03,go,3880,52,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-09-03,go,4134,7,The Modern Application Platform.,kubevela,kubevela,https://github.com/kubevela/kubevela
+2022-09-03,go,7332,2,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-09-03,go,20321,26,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-09-03,go,9105,19,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
+2022-09-03,go,2261,3,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2022-09-03,go,1716,2,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-09-03,go,5726,6,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2022-09-03,go,22952,11,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2022-09-03,go,3225,8,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2022-09-03,go,6295,13,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2022-09-03,go,42491,24,"Fast, multi-platform web server with automatic HTTPS",caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-09-03,go,9670,6,CoreDNS is a DNS server that chains plugins,coredns,coredns,https://github.com/coredns/coredns
+2022-09-03,go,12906,22,Dolt – It's Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2022-09-03,go,2061,5,This is a place for various problem detectors running on the Kubernetes nodes.,kubernetes,node-problem-detector,https://github.com/kubernetes/node-problem-detector
+2022-09-03,go,7453,10,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2022-09-03,go,29425,29,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2022-09-03,go,2738,4,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2022-09-03,go,5099,6,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2022-09-03,go,12642,7,"Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",snail007,goproxy,https://github.com/snail007/goproxy

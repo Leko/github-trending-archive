@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-03,scala,12379,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-09-03,scala,33784,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-09-03,scala,5062,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-09-03,scala,90,6,Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2,EffectOrientedProgramming,book,https://github.com/EffectOrientedProgramming/book
+2022-09-03,scala,2614,1,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-09-03,scala,2338,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-09-03,scala,5189,1,This connector allows Apache Spark™ to read from and write to Delta Lake.,delta-io,delta,https://github.com/delta-io/delta
+2022-09-03,scala,5647,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-09-03,scala,234,5,,oap-project,gluten,https://github.com/oap-project/gluten
+2022-09-03,scala,6,0,Conversão Total para GTA San Andreas com foco numa estética verdadeiramente brasileira.,pulse-club,gta-brasil,https://github.com/pulse-club/gta-brasil
+2022-09-03,scala,16817,0,"Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]",prisma,prisma1,https://github.com/prisma/prisma1
+2022-09-03,scala,12206,2,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-09-03,scala,3,0,ICFP Contest 2012,ShiftForward,icfpc2012,https://github.com/ShiftForward/icfpc2012
+2022-09-03,scala,3514,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-09-03,scala,58,0,A STAC/OGC API Features Web Service,azavea,franklin,https://github.com/azavea/franklin
+2022-09-03,scala,312,0,A Spark plugin for reading Excel files via Apache POI,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-09-03,scala,834,2,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-09-03,scala,2552,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-09-03,scala,1393,1,"Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",akka,alpakka-kafka,https://github.com/akka/alpakka-kafka
+2022-09-03,scala,7097,2,Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.,twitter-archive,snowflake,https://github.com/twitter-archive/snowflake
+2022-09-03,scala,8323,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-09-03,scala,198,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2022-09-03,scala,187,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-09-03,scala,3127,0,In-memory dimensional time series database.,Netflix,atlas,https://github.com/Netflix/atlas
+2022-09-03,scala,2420,4,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
