@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-04,shell,300,9,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2022-09-04,shell,6516,0,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-09-04,shell,1859,7,Proxmox Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2022-09-04,shell,2287,17,SteamOS 3 (Holo) archiso configuration,theVakhovskeIsTaken,holoiso,https://github.com/theVakhovskeIsTaken/holoiso
+2022-09-04,shell,12054,1,Azure Quickstart Templates,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+2022-09-04,shell,2026,1,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-09-04,shell,32,4,Build or download the Arch-based Crystal Linux iso.,crystal-linux,iso,https://github.com/crystal-linux/iso
+2022-09-04,shell,1411,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2022-09-04,shell,36,0,holberton system engineering devops,afinesami,holberton-system_engineering-devops,https://github.com/afinesami/holberton-system_engineering-devops
+2022-09-04,shell,117,2,,lroudge,holberton-system_engineering-devops,https://github.com/lroudge/holberton-system_engineering-devops
+2022-09-04,shell,9515,3,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2022-09-04,shell,17594,8,binary releases of VS Code without MS branding/telemetry/licensing,VSCodium,vscodium,https://github.com/VSCodium/vscodium
+2022-09-04,shell,19657,4,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-09-04,shell,1234,1,"Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.",PurpurMC,Purpur,https://github.com/PurpurMC/Purpur
+2022-09-04,shell,408,3,,G33kzD3n,Catalogue,https://github.com/G33kzD3n/Catalogue
+2022-09-04,shell,3922,6,Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩,klever1988,nanopi-openwrt,https://github.com/klever1988/nanopi-openwrt
+2022-09-04,shell,80,2,"原创GO+VUE开发,FxMinerProxyV3是FxMinerProxy(傅里叶)的UI升级版本今后都会一直维护这个版本,这里是官方,独家手机APP支持安装，IOS，独家SSH后台服务器群控，内存占用小3000台300M，自动判断芯片机协议，支持ETH,ETC,BTC,CFX,ERG0,NTG,RVN,LTC,BEAM等，FXMinerProxy",FxPool,FxMinerProxyV3,https://github.com/FxPool/FxMinerProxyV3
+2022-09-04,shell,2788,1,"Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders",mitchellkrogza,nginx-ultimate-bad-bot-blocker,https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
+2022-09-04,shell,1231,0,The official Heroku buildpack for Node.js apps.,heroku,heroku-buildpack-nodejs,https://github.com/heroku/heroku-buildpack-nodejs
+2022-09-04,shell,163,33,"Use GraalVM Native Image to turn the Minecraft server into native executables that are small in footprint, fast, and cheap to deploy.",hpi-swa,native-minecraft-server,https://github.com/hpi-swa/native-minecraft-server
+2022-09-04,shell,15435,6,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-09-04,shell,4570,1,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2022-09-04,shell,679,4,Emulator configurator for Steam Deck,dragoonDorise,EmuDeck,https://github.com/dragoonDorise/EmuDeck
+2022-09-04,shell,745,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2022-09-04,shell,10312,1,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
