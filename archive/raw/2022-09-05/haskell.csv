@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-05,haskell,261,1,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-09-05,haskell,7430,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-09-05,haskell,19146,2,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-09-05,haskell,2149,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-09-05,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-09-05,haskell,54,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-09-05,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-09-05,haskell,43,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-09-05,haskell,29804,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-09-05,haskell,2298,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-09-05,haskell,0,0,,upenn-cis5520,01-basics,https://github.com/upenn-cis5520/01-basics
+2022-09-05,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-09-05,haskell,100,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2022-09-05,haskell,5,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-09-05,haskell,68,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-09-05,haskell,2698,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-09-05,haskell,14,0,Visualizing kubernetes capacity.,Shopify,kubepacity,https://github.com/Shopify/kubepacity
+2022-09-05,haskell,12,0,,digital-asset,lib-finance,https://github.com/digital-asset/lib-finance
+2022-09-05,haskell,2492,2,A static website compiler library in Haskell,jaspervdj,hakyll,https://github.com/jaspervdj/hakyll
+2022-09-05,haskell,1623,6,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-09-05,haskell,2048,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-09-05,haskell,26429,8,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-09-05,haskell,4659,1,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-09-05,haskell,4578,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-09-05,haskell,0,0,Haskell library to pipe processes to IterIO enumerators,garious,process-iterio,https://github.com/garious/process-iterio

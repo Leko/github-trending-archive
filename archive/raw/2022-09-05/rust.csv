@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-05,rust,12108,183,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-09-05,rust,29340,147,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-09-05,rust,19177,14,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2022-09-05,rust,1466,62,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff
+2022-09-05,rust,2736,21,"An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.",veloren,veloren,https://github.com/veloren/veloren
+2022-09-05,rust,2395,0,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-09-05,rust,118,0,,kaist-cp,cs220,https://github.com/kaist-cp/cs220
+2022-09-05,rust,1058,3,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2022-09-05,rust,595,143,A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices.,cloudwego,volo,https://github.com/cloudwego/volo
+2022-09-05,rust,375,1,"A configurable, high-performance routing runtime for Apollo Federation",apollographql,router,https://github.com/apollographql/router
+2022-09-05,rust,1898,1,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2022-09-05,rust,3238,11,Encoding and decoding images in Rust,image-rs,image,https://github.com/image-rs/image
+2022-09-05,rust,20512,12,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2022-09-05,rust,10211,7,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2022-09-05,rust,9343,10,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-09-05,rust,23408,30,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2022-09-05,rust,6766,10,Just a command runner,casey,just,https://github.com/casey/just
+2022-09-05,rust,10563,13,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2022-09-05,rust,2108,5,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-09-05,rust,1320,8,A reactive library for creating web apps in Rust and WebAssembly,sycamore-rs,sycamore,https://github.com/sycamore-rs/sycamore
+2022-09-05,rust,991,1,,kaist-cp,cs431,https://github.com/kaist-cp/cs431
+2022-09-05,rust,2157,7,"async fn(Request) -> Result<Response, Error>",tower-rs,tower,https://github.com/tower-rs/tower
+2022-09-05,rust,617,0,"莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.",wormtql,genshin_artifact,https://github.com/wormtql/genshin_artifact
+2022-09-05,rust,10024,13,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍",sunface,rust-course,https://github.com/sunface/rust-course
+2022-09-05,rust,3133,6,RisingWave: the next-generation streaming database in the cloud.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave

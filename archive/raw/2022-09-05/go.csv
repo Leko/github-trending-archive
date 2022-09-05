@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-05,go,3657,140,A web-based UI for deploying and managing applications in Kubernetes clusters,vmware-tanzu,kubeapps,https://github.com/vmware-tanzu/kubeapps
+2022-09-05,go,12879,12,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-09-05,go,3043,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-09-05,go,9649,49,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-09-05,go,20130,11,A modern and intuitive terminal-based text editor,zyedidia,micro,https://github.com/zyedidia/micro
+2022-09-05,go,1406,13,SQL-first Golang ORM,uptrace,bun,https://github.com/uptrace/bun
+2022-09-05,go,7584,12,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-09-05,go,9150,7,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-09-05,go,39109,20,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-09-05,go,7307,9,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2022-09-05,go,2410,2,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2022-09-05,go,103441,28,The Go programming language,golang,go,https://github.com/golang/go
+2022-09-05,go,12923,11,Dolt – It's Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2022-09-05,go,31230,8,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2022-09-05,go,428,34,Fastest and most memory efficient golang concurrent hashmap,alphadose,haxmap,https://github.com/alphadose/haxmap
+2022-09-05,go,5639,6,Color package for Go (golang),fatih,color,https://github.com/fatih/color
+2022-09-05,go,405,10,MEV-boost allows proof-of-stake Ethereum consensus clients to outsource block construction,flashbots,mev-boost,https://github.com/flashbots/mev-boost
+2022-09-05,go,29510,17,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-09-05,go,59682,28,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-09-05,go,44139,14,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-09-05,go,1746,14,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,cloudwego,hertz,https://github.com/cloudwego/hertz
+2022-09-05,go,2930,9,"Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",ThreeDotsLabs,wild-workouts-go-ddd-example,https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+2022-09-05,go,25525,11,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-09-05,go,1671,1,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2022-09-05,go,10400,5,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
