@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-08,go,4075,116,A web-based UI for deploying and managing applications in Kubernetes clusters,vmware-tanzu,kubeapps,https://github.com/vmware-tanzu/kubeapps
+2022-09-08,go,1256,92,Quickly discover exposed hosts on the internet using multiple search engines.,projectdiscovery,uncover,https://github.com/projectdiscovery/uncover
+2022-09-08,go,10971,36,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2022-09-08,go,8094,16,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2022-09-08,go,10497,21,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-09-08,go,91840,36,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-09-08,go,1727,4,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-09-08,go,21242,15,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2022-09-08,go,25541,15,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2022-09-08,go,3908,4,NGINX and NGINX Plus Ingress Controllers for Kubernetes,nginxinc,kubernetes-ingress,https://github.com/nginxinc/kubernetes-ingress
+2022-09-08,go,1522,22,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2022-09-08,go,5944,7,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-09-08,go,6742,4,A vault for securely storing and accessing AWS credentials in development environments,99designs,aws-vault,https://github.com/99designs/aws-vault
+2022-09-08,go,5602,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-09-08,go,4031,2,Modlishka. Reverse Proxy.,drk1wi,Modlishka,https://github.com/drk1wi/Modlishka
+2022-09-08,go,15165,18,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-09-08,go,5208,7,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2022-09-08,go,7904,8,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2022-09-08,go,7311,2,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-09-08,go,5851,11,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2022-09-08,go,4397,7,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2022-09-08,go,2721,28,居家办公，远程开发神器,lwch,natpass,https://github.com/lwch/natpass
+2022-09-08,go,20480,15,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-09-08,go,17713,28,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2022-09-08,go,25309,8,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul

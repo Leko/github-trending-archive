@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-08,scala,12383,9,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-09-08,scala,1197,3,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-09-08,scala,6188,1,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-09-08,scala,33823,7,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-09-08,scala,13853,4,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-09-08,scala,5206,4,This connector allows Apache Spark™ to read from and write to Delta Lake.,delta-io,delta,https://github.com/delta-io/delta
+2022-09-08,scala,8908,5,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-09-08,scala,5650,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-09-08,scala,12209,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-09-08,scala,926,4,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-09-08,scala,5,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-09-08,scala,102,12,,knoldus,Studio-9,https://github.com/knoldus/Studio-9
+2022-09-08,scala,11006,3,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-09-08,scala,1303,0,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2022-09-08,scala,2552,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-09-08,scala,2425,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-09-08,scala,8327,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-09-08,scala,447,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-09-08,scala,761,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-09-08,scala,187,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-09-08,scala,2366,1,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-09-08,scala,1861,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-09-08,scala,491,1,"This is the development repository for sparkMeasure, a tool for performance troubleshooting of Apache Spark workloads. It simplifies the collection and analysis of Spark task and stage metrics data.",LucaCanali,sparkMeasure,https://github.com/LucaCanali/sparkMeasure
+2022-09-08,scala,578,0,Redshift data source for Apache Spark,databricks,spark-redshift,https://github.com/databricks/spark-redshift
+2022-09-08,scala,2966,2,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
