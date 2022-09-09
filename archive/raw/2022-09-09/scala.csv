@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-09,scala,3584,60,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-09-09,scala,12401,21,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-09-09,scala,998,6,A Table Structure Storage on Data Lakes to Unify Batch and Streaming Data Processing,meta-soul,LakeSoul,https://github.com/meta-soul/LakeSoul
+2022-09-09,scala,5206,0,This connector allows Apache Spark™ to read from and write to Delta Lake.,delta-io,delta,https://github.com/delta-io/delta
+2022-09-09,scala,3528,4,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-09-09,scala,1200,3,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-09-09,scala,2366,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-09-09,scala,2686,3,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-09-09,scala,5651,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-09-09,scala,6190,2,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-09-09,scala,13853,1,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-09-09,scala,2391,1,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2022-09-09,scala,927,2,"Feathr – An Enterprise-Grade, High Performance Feature Store",linkedin,feathr,https://github.com/linkedin/feathr
+2022-09-09,scala,2307,1,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-09-09,scala,12209,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-09-09,scala,1301,0,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2022-09-09,scala,33830,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-09-09,scala,1861,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-09-09,scala,842,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-09-09,scala,11007,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-09-09,scala,8911,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-09-09,scala,199,1,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2022-09-09,scala,982,2,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-09-09,scala,206,1,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-09-09,scala,2903,1,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp

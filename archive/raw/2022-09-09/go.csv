@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-09,go,4179,109,A web-based UI for deploying and managing applications in Kubernetes clusters,vmware-tanzu,kubeapps,https://github.com/vmware-tanzu/kubeapps
+2022-09-09,go,25558,21,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2022-09-09,go,6629,11,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-09-09,go,29756,21,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2022-09-09,go,490,1,RabbitMQ Cluster Kubernetes Operator,rabbitmq,cluster-operator,https://github.com/rabbitmq/cluster-operator
+2022-09-09,go,34065,19,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-09-09,go,11450,13,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-09-09,go,3740,23,Safe database schema change and version control for DevOps teams. https://www.bytebase.com,bytebase,bytebase,https://github.com/bytebase/bytebase
+2022-09-09,go,12580,9,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2022-09-09,go,8109,16,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2022-09-09,go,4592,15,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2022-09-09,go,16006,15,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",buger,goreplay,https://github.com/buger/goreplay
+2022-09-09,go,5162,1,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2022-09-09,go,16727,11,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-09-09,go,10594,10,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-09-09,go,30974,13,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2022-09-09,go,2292,5,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2022-09-09,go,2442,5,Container Signing,sigstore,cosign,https://github.com/sigstore/cosign
+2022-09-09,go,11090,10,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2022-09-09,go,13393,8,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-09-09,go,12211,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-09-09,go,6847,7,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2022-09-09,go,17558,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-09-09,go,15455,3,(OBSOLETE) Curated applications for Kubernetes,helm,charts,https://github.com/helm/charts
+2022-09-09,go,10318,11,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
