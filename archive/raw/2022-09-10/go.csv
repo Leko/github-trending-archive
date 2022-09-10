@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-10,go,14077,27,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-09-10,go,11461,11,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-09-10,go,4592,14,"A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.",YaoApp,yao,https://github.com/YaoApp/yao
+2022-09-10,go,5764,4,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2022-09-10,go,3764,24,Safe database schema change and version control for DevOps teams. https://www.bytebase.com,bytebase,bytebase,https://github.com/bytebase/bytebase
+2022-09-10,go,311,47,evilginx2 + gophish,fin3ss3g0d,evilgophish,https://github.com/fin3ss3g0d/evilgophish
+2022-09-10,go,42716,44,Fast and extensible multi-platform web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-09-10,go,880,13,"k8s tutorials | k8s 教程",guangzhengli,k8s-tutorials,https://github.com/guangzhengli/k8s-tutorials
+2022-09-10,go,17751,21,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2022-09-10,go,6470,4,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",patrickmn,go-cache,https://github.com/patrickmn/go-cache
+2022-09-10,go,22871,14,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2022-09-10,go,25573,16,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2022-09-10,go,7863,6,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-09-10,go,9239,24,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
+2022-09-10,go,4408,5,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2022-09-10,go,7085,10,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2022-09-10,go,8119,10,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2022-09-10,go,6038,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-09-10,go,7356,1,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-09-10,go,5198,7,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2022-09-10,go,5697,5,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2022-09-10,go,5995,3,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2022-09-10,go,11005,6,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2022-09-10,go,3328,3,A Pluggable Terraform Linter,terraform-linters,tflint,https://github.com/terraform-linters/tflint
+2022-09-10,go,8011,12,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish

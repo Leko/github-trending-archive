@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-10,haskell,2787,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-09-10,haskell,29849,15,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-09-10,haskell,43,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-09-10,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-09-10,haskell,51,4,A drop-in replacement for nix-serve that is faster and more reliable,aristanetworks,nix-serve-ng,https://github.com/aristanetworks/nix-serve-ng
+2022-09-10,haskell,54,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-09-10,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-09-10,haskell,529,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-09-10,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-09-10,haskell,1714,4,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-09-10,haskell,8485,3,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-09-10,haskell,3,1,"Proxy for request, response recording and playback",restaumatic,vcr-proxy,https://github.com/restaumatic/vcr-proxy
+2022-09-10,haskell,27,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2022-09-10,haskell,18,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-09-10,haskell,19162,1,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-09-10,haskell,3,0,Integrations with Vinyl/Frames records.,composite-hs,composite,https://github.com/composite-hs/composite
+2022-09-10,haskell,7446,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-09-10,haskell,2,0,library for program like LOGO's turtle with using wxHaskell,YoshikuniJujo,wxturtle,https://github.com/YoshikuniJujo/wxturtle
+2022-09-10,haskell,1409,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-09-10,haskell,3759,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-09-10,haskell,2705,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-09-10,haskell,263,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-09-10,haskell,2,0,Integrations with Vinyl/Frames records (core library).,composite-hs,composite-base,https://github.com/composite-hs/composite-base
+2022-09-10,haskell,0,0,Serialization/deserialization for What4 expressions,GaloisInc,what4-serialize,https://github.com/GaloisInc/what4-serialize
+2022-09-10,haskell,54,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
