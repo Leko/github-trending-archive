@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-11,rust,9381,7,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-09-11,rust,7809,17,"Fast multi-threaded DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-09-11,rust,1584,6,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-09-11,rust,85208,24,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-09-11,rust,18479,41,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-09-11,rust,2032,5,"Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.",build-trust,ockam,https://github.com/build-trust/ockam
+2022-09-11,rust,2416,2,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-09-11,rust,12228,149,a structural diff that understands syntax,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2022-09-11,rust,6050,22,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-09-11,rust,3716,10,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-09-11,rust,71587,36,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-09-11,rust,4923,14,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-09-11,rust,11149,8,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-09-11,rust,11777,16,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2022-09-11,rust,2308,55,"An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",parcel-bundler,lightningcss,https://github.com/parcel-bundler/lightningcss
+2022-09-11,rust,5714,27,Git repository summary in your terminal,o2sh,onefetch,https://github.com/o2sh/onefetch
+2022-09-11,rust,1705,19,High-level memory-safe binding generator for Flutter/Dart <-> Rust,fzyzcjy,flutter_rust_bridge,https://github.com/fzyzcjy/flutter_rust_bridge
+2022-09-11,rust,4964,17,"PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement",prql,prql,https://github.com/prql/prql
+2022-09-11,rust,924,5,Roc is a language for making delightful software.,roc-lang,roc,https://github.com/roc-lang/roc
+2022-09-11,rust,4191,5,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-09-11,rust,1589,12,"CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.",CeresDB,ceresdb,https://github.com/CeresDB/ceresdb
+2022-09-11,rust,2167,12,A pure Rust implementation of WebRTC,webrtc-rs,webrtc,https://github.com/webrtc-rs/webrtc
+2022-09-11,rust,7128,8,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2022-09-11,rust,13702,8,Cube — Headless Business Intelligence for Building Data Applications,cube-js,cube.js,https://github.com/cube-js/cube.js
+2022-09-11,rust,321,10,利用MITM技术实现请求和返回的重写、重定向、阻断等操作,zu1k,good-mitm,https://github.com/zu1k/good-mitm

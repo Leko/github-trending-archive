@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-11,go,6467,25,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2022-09-11,go,5167,2,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2022-09-11,go,42736,23,Fast and extensible multi-platform web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-09-11,go,25669,8,"Drone is a Container-Native, Continuous Delivery Platform",harness,drone,https://github.com/harness/drone
+2022-09-11,go,75,4,将dll exe 等转成shellcode 最后输出exe 可定制加载器模板 支持白文件的捆绑 shellcode 加密,Ciyfly,microwaveo,https://github.com/Ciyfly/microwaveo
+2022-09-11,go,12223,8,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-09-11,go,39171,8,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-09-11,go,14115,41,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-09-11,go,16741,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-09-11,go,12533,9,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2022-09-11,go,5144,2,⟁ Tendermint Core (BFT Consensus) in Go,tendermint,tendermint,https://github.com/tendermint/tendermint
+2022-09-11,go,17958,17,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2022-09-11,go,7336,2,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2022-09-11,go,1591,2,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2022-09-11,go,2405,1,"Reference implementation of the Filecoin protocol, written in Go",filecoin-project,lotus,https://github.com/filecoin-project/lotus
+2022-09-11,go,9859,8,Pure Go implementation of the WebRTC API,pion,webrtc,https://github.com/pion/webrtc
+2022-09-11,go,2884,3,Security Scorecards - Security health metrics for Open Source,ossf,scorecard,https://github.com/ossf/scorecard
+2022-09-11,go,1114,6,基于 ZeroBot 的 OneBot 插件,FloatTech,ZeroBot-Plugin,https://github.com/FloatTech/ZeroBot-Plugin
+2022-09-11,go,3777,6,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-09-11,go,14118,4,IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
+2022-09-11,go,4869,9,Style definitions for nice terminal layouts,charmbracelet,lipgloss,https://github.com/charmbracelet/lipgloss
+2022-09-11,go,266,5,"自动化学习强国,每日稳定45分",johlanse,study_xxqg,https://github.com/johlanse/study_xxqg
+2022-09-11,go,4689,1,"Kubernetes-based, scale-to-zero, request-driven compute",knative,serving,https://github.com/knative/serving
+2022-09-11,go,15265,13,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2022-09-11,go,6877,12,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
