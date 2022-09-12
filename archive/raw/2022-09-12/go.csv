@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-12,go,8524,38,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2022-09-12,go,10080,50,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-09-12,go,225,31,A tiny TCP load balancer,inlets,mixctl,https://github.com/inlets/mixctl
+2022-09-12,go,17983,21,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2022-09-12,go,46574,19,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-09-12,go,1121,8,基于 ZeroBot 的 OneBot 插件,FloatTech,ZeroBot-Plugin,https://github.com/FloatTech/ZeroBot-Plugin
+2022-09-12,go,17972,14,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2022-09-12,go,141,22,A distributed SQLite replicator,maxpert,marmot,https://github.com/maxpert/marmot
+2022-09-12,go,3850,4,Dendrite is a second-generation Matrix homeserver written in Go!,matrix-org,dendrite,https://github.com/matrix-org/dendrite
+2022-09-12,go,2091,23,Visualise Go program runtime metrics in real time in your browser,arl,statsviz,https://github.com/arl/statsviz
+2022-09-12,go,659,8,"A library for creating generic graph data structures and modifying, analyzing, and visualizing them.",dominikbraun,graph,https://github.com/dominikbraun/graph
+2022-09-12,go,22899,14,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2022-09-12,go,6484,18,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2022-09-12,go,6519,15,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2022-09-12,go,336,3,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2022-09-12,go,6490,5,"Directory/File, DNS and VHost busting tool written in Go",OJ,gobuster,https://github.com/OJ/gobuster
+2022-09-12,go,1401,3,The Optimism monorepo,ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-09-12,go,15272,11,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2022-09-12,go,2631,9,A parser library for Go,alecthomas,participle,https://github.com/alecthomas/participle
+2022-09-12,go,153,8,,awslabs,soci-snapshotter,https://github.com/awslabs/soci-snapshotter
+2022-09-12,go,751,24,"Generic PriorityQueues, Queues, Stacks, and Deque data structures for Go",oleiade,lane,https://github.com/oleiade/lane
+2022-09-12,go,4887,18,Style definitions for nice terminal layouts,charmbracelet,lipgloss,https://github.com/charmbracelet/lipgloss
+2022-09-12,go,7306,15,Streaming replication for SQLite.,benbjohnson,litestream,https://github.com/benbjohnson/litestream
+2022-09-12,go,9607,9,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2022-09-12,go,862,14,Development environment for AI/ML,tensorchord,envd,https://github.com/tensorchord/envd

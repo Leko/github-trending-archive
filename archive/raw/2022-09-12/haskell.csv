@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-12,haskell,2790,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-09-12,haskell,2708,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-09-12,haskell,29865,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-09-12,haskell,1408,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-09-12,haskell,2152,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-09-12,haskell,0,0,,upenn-cis5520,02-higherorder,https://github.com/upenn-cis5520/02-higherorder
+2022-09-12,haskell,9,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,https://github.com/digital-asset/ex-mortgage-repackaging
+2022-09-12,haskell,18,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-09-12,haskell,261,1,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-09-12,haskell,221,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-09-12,haskell,740,0,Dataflow programming and declarative concurrency,composewell,streamly,https://github.com/composewell/streamly
+2022-09-12,haskell,270,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-09-12,haskell,230,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-09-12,haskell,1400,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-09-12,haskell,2067,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-09-12,haskell,19168,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-09-12,haskell,173,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-09-12,haskell,265,1,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-09-12,haskell,672,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-09-12,haskell,0,0,Where I keep my solutions to Project Euler problems,awonnacott,project-euler,https://github.com/awonnacott/project-euler
+2022-09-12,haskell,26477,7,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-09-12,haskell,50,0,Principled and efficient binary serialization,Quid2,flat,https://github.com/Quid2/flat
+2022-09-12,haskell,8,0,Genetic Algorithm based randomized testing,input-output-hk,goblins,https://github.com/input-output-hk/goblins
+2022-09-12,haskell,287,0,SystemVerilog to Verilog conversion,zachjs,sv2v,https://github.com/zachjs/sv2v
+2022-09-12,haskell,2467,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
