@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-14,scala,535,2,A scala library to write Http apps.,zio,zio-http,https://github.com/zio/zio-http
+2022-09-14,scala,943,10,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2022-09-14,scala,843,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-09-14,scala,2350,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-09-14,scala,8330,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-09-14,scala,2911,1,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-09-14,scala,12483,5,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-09-14,scala,2011,3,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-09-14,scala,3544,5,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-09-14,scala,2558,0,Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala,slick,slick,https://github.com/slick/slick
+2022-09-14,scala,60,3,Typesafe wrapper for Apache Spark DataFrame API,VirtusLab,iskra,https://github.com/VirtusLab/iskra
+2022-09-14,scala,1,0,,UB-Datastructures,recitation1-examples,https://github.com/UB-Datastructures/recitation1-examples
+2022-09-14,scala,1302,0,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2022-09-14,scala,1617,1,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-09-14,scala,1063,20,A Table Structure Storage on Data Lakes to Unify Batch and Streaming Data Processing,meta-soul,LakeSoul,https://github.com/meta-soul/LakeSoul
+2022-09-14,scala,5,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-09-14,scala,2369,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-09-14,scala,5214,0,This connector allows Apache Spark™ to read from and write to Delta Lake.,delta-io,delta,https://github.com/delta-io/delta
+2022-09-14,scala,0,0,This is a class repository for CS441 on Cloud Computing,0x1DOCD00D,CS441_Fall2022,https://github.com/0x1DOCD00D/CS441_Fall2022
+2022-09-14,scala,33859,9,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-09-14,scala,74,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2022-09-14,scala,2551,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-09-14,scala,30,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2022-09-14,scala,1861,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-09-14,scala,158,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta

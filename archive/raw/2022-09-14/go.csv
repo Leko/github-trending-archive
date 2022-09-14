@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-14,go,8074,9,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2022-09-14,go,522,19,Apple Store iPhone预约助手,hteen,apple-store-helper,https://github.com/hteen/apple-store-helper
+2022-09-14,go,6909,14,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2022-09-14,go,2922,22,Goroutine leak detector,uber-go,goleak,https://github.com/uber-go/goleak
+2022-09-14,go,13585,15,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-09-14,go,8030,6,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2022-09-14,go,7097,8,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2022-09-14,go,16919,11,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-09-14,go,2418,4,"The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.",aws,copilot-cli,https://github.com/aws/copilot-cli
+2022-09-14,go,2396,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2022-09-14,go,19819,3,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-09-14,go,17600,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-09-14,go,3790,6,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-09-14,go,2423,1,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2022-09-14,go,17328,11,A powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2022-09-14,go,5017,12,Security scanner for your Terraform code,aquasecurity,tfsec,https://github.com/aquasecurity/tfsec
+2022-09-14,go,10649,13,Simple and flexible tool for managing secrets,mozilla,sops,https://github.com/mozilla/sops
+2022-09-14,go,2710,4,Go implementation of Ethereum proof of stake,prysmaticlabs,prysm,https://github.com/prysmaticlabs/prysm
+2022-09-14,go,16990,16,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-09-14,go,4252,2,Golang library for managing configuration data from environment variables,kelseyhightower,envconfig,https://github.com/kelseyhightower/envconfig
+2022-09-14,go,3379,19,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-09-14,go,13925,4,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-09-14,go,17869,16,Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2022-09-14,go,34123,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-09-14,go,4451,23,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
