@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-15,haskell,7467,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-09-15,haskell,1405,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-09-15,haskell,106,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-09-15,haskell,0,0,XMonad fork from @reenberg and @brinchj,lally,xmonad-reenberg,https://github.com/lally/xmonad-reenberg
+2022-09-15,haskell,68,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-09-15,haskell,2795,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-09-15,haskell,4600,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-09-15,haskell,9,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,https://github.com/digital-asset/ex-mortgage-repackaging
+2022-09-15,haskell,27,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2022-09-15,haskell,1603,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2022-09-15,haskell,309,0,Haskell library for the Microsoft Language Server Protocol,haskell,lsp,https://github.com/haskell/lsp
+2022-09-15,haskell,29887,12,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-09-15,haskell,173,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-09-15,haskell,19183,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-09-15,haskell,2154,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-09-15,haskell,1720,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-09-15,haskell,11,0,A protolude-based custom prelude for the Cardano project,input-output-hk,cardano-prelude,https://github.com/input-output-hk/cardano-prelude
+2022-09-15,haskell,268,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-09-15,haskell,41,1,A collection of Practical Haskell bits.,dnikolovv,practical-haskell,https://github.com/dnikolovv/practical-haskell
+2022-09-15,haskell,161,0,,github,deli,https://github.com/github/deli
+2022-09-15,haskell,8501,5,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-09-15,haskell,0,0,Solving problems on projecteuler.net,SPY,euler_problems,https://github.com/SPY/euler_problems
+2022-09-15,haskell,183,1,PICARD - Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models. PICARD is a ServiceNow Research project that was started at Element AI.,ServiceNow,picard,https://github.com/ServiceNow/picard
+2022-09-15,haskell,263,1,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-09-15,haskell,8,0,Fork of GHC (https://gitlab.haskell.org/ghc/ghc.git),digital-asset,ghc,https://github.com/digital-asset/ghc

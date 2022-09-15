@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-15,go,64024,23,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-09-15,go,11937,1552,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-09-15,go,11286,36,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",FiloSottile,age,https://github.com/FiloSottile/age
+2022-09-15,go,92014,39,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-09-15,go,9336,25,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
+2022-09-15,go,15374,9,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-09-15,go,1649,46,ContainerSSH: Launch containers on demand,ContainerSSH,ContainerSSH,https://github.com/ContainerSSH/ContainerSSH
+2022-09-15,go,44277,22,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-09-15,go,658,3,A Framework for Building Ethereum-compatible Blockchain Networks,0xPolygon,polygon-edge,https://github.com/0xPolygon/polygon-edge
+2022-09-15,go,12989,24,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-09-15,go,20480,27,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-09-15,go,2610,10,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2022-09-15,go,11967,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-09-15,go,770,13,一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。,wgpsec,ENScan_GO,https://github.com/wgpsec/ENScan_GO
+2022-09-15,go,1808,3,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2022-09-15,go,19826,7,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-09-15,go,10648,12,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-09-15,go,6613,5,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2022-09-15,go,10862,23,"Algorithms implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2022-09-15,go,12758,16,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-09-15,go,17011,21,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-09-15,go,9181,4,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-09-15,go,7872,1,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-09-15,go,9102,9,即时通讯IM,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-09-15,go,39231,28,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
