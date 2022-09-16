@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-16,go,12515,658,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-09-16,go,11376,14,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-09-16,go,27201,27,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-09-16,go,92052,47,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-09-16,go,62829,30,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-09-16,go,12334,21,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-09-16,go,4476,13,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2022-09-16,go,13437,9,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-09-16,go,15389,15,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-09-16,go,7322,1,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-09-16,go,1007,25,Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作,teamssix,cf,https://github.com/teamssix/cf
+2022-09-16,go,29636,9,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-09-16,go,10742,9,Go Training Class Material :,ardanlabs,gotraining,https://github.com/ardanlabs/gotraining
+2022-09-16,go,17030,19,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-09-16,go,5115,8,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2022-09-16,go,4960,23,Style definitions for nice terminal layouts,charmbracelet,lipgloss,https://github.com/charmbracelet/lipgloss
+2022-09-16,go,16952,14,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-09-16,go,10987,9,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2022-09-16,go,4262,3,Golang library for managing configuration data from environment variables,kelseyhightower,envconfig,https://github.com/kelseyhightower/envconfig
+2022-09-16,go,20500,21,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-09-16,go,17831,22,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2022-09-16,go,7366,1,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-09-16,go,1302,7,Gen: Friendly & Safer GORM powered by Code Generation,go-gorm,gen,https://github.com/go-gorm/gen
+2022-09-16,go,2087,10,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2022-09-16,go,13929,2,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
