@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-17,haskell,2159,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-09-17,haskell,26509,8,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-09-17,haskell,29908,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-09-17,haskell,61,6,A collection of Practical Haskell bits.,dnikolovv,practical-haskell,https://github.com/dnikolovv/practical-haskell
+2022-09-17,haskell,174,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-09-17,haskell,1404,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-09-17,haskell,19199,10,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-09-17,haskell,1645,0,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-09-17,haskell,4,0,Networking library for Windows,input-output-hk,Win32-network,https://github.com/input-output-hk/Win32-network
+2022-09-17,haskell,678,2,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-09-17,haskell,18,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-09-17,haskell,9,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,https://github.com/digital-asset/ex-mortgage-repackaging
+2022-09-17,haskell,815,2,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-09-17,haskell,231,1,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-09-17,haskell,71,1,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-09-17,haskell,8,0,Genetic Algorithm based randomized testing,input-output-hk,goblins,https://github.com/input-output-hk/goblins
+2022-09-17,haskell,4,0,A compiler for sed,Roguelazer,sedc,https://github.com/Roguelazer/sedc
+2022-09-17,haskell,2077,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-09-17,haskell,50,0,Principled and efficient binary serialization,Quid2,flat,https://github.com/Quid2/flat
+2022-09-17,haskell,12,1,A protolude-based custom prelude for the Cardano project,input-output-hk,cardano-prelude,https://github.com/input-output-hk/cardano-prelude
+2022-09-17,haskell,2711,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-09-17,haskell,52,0,"Fast, lightweight & configurable chain-index for Cardano.",CardanoSolutions,kupo,https://github.com/CardanoSolutions/kupo
+2022-09-17,haskell,1,0,,input-output-hk,typed-protocols,https://github.com/input-output-hk/typed-protocols
+2022-09-17,haskell,270,0,A comprehensive Google Services SDK for Haskell.,brendanhay,gogol,https://github.com/brendanhay/gogol
+2022-09-17,haskell,90,0,Typed eDSL for writing UPLC /ˈpluː.tɑːk/,Plutonomicon,plutarch-plutus,https://github.com/Plutonomicon/plutarch-plutus
