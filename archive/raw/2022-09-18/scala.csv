@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-18,scala,33889,6,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-09-18,scala,2679,0,"Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",apache,incubator-linkis,https://github.com/apache/incubator-linkis
+2022-09-18,scala,5220,1,This connector allows Apache Spark™ to read from and write to Delta Lake.,delta-io,delta,https://github.com/delta-io/delta
+2022-09-18,scala,989,10,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2022-09-18,scala,2703,2,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-09-18,scala,1006,2,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-09-18,scala,5079,2,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-09-18,scala,1209,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-09-18,scala,2490,3,A simple client for Android,xxf098,shadowsocksr-v2ray-trojan-android,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+2022-09-18,scala,1114,13,A Table Structure Storage on Data Lakes to Unify Batch and Streaming Data Processing,meta-soul,LakeSoul,https://github.com/meta-soul/LakeSoul
+2022-09-18,scala,8932,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-09-18,scala,2135,0,"Compositional, streaming I/O library for Scala",typelevel,fs2,https://github.com/typelevel/fs2
+2022-09-18,scala,5783,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-09-18,scala,2371,1,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-09-18,scala,13858,2,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-09-18,scala,576,0,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-09-18,scala,445,1,Ergo protocol description & reference client implementation,ergoplatform,ergo,https://github.com/ergoplatform/ergo
+2022-09-18,scala,7,0,Macro description format,ucb-bar,plsi-mdf,https://github.com/ucb-bar/plsi-mdf
+2022-09-18,scala,2329,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2022-09-18,scala,2310,0,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-09-18,scala,5663,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-09-18,scala,717,1,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2022-09-18,scala,8332,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-09-18,scala,3758,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-09-18,scala,54,0,,ucb-bar,testchipip,https://github.com/ucb-bar/testchipip

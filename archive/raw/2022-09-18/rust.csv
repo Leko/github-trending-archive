@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-18,rust,10020,1169,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2022-09-18,rust,50424,142,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-09-18,rust,4504,34,"Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",vi,websocat,https://github.com/vi/websocat
+2022-09-18,rust,2441,3,Solana Sealevel Framework,coral-xyz,anchor,https://github.com/coral-xyz/anchor
+2022-09-18,rust,7420,1,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-09-18,rust,3675,3,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2022-09-18,rust,2446,6,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-09-18,rust,6521,7,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2022-09-18,rust,1940,5,Cross-platform WebView library in Rust for Tauri.,tauri-apps,wry,https://github.com/tauri-apps/wry
+2022-09-18,rust,4460,20,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2022-09-18,rust,28524,22,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2022-09-18,rust,2939,5,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2022-09-18,rust,10332,20,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2022-09-18,rust,3288,5,Strongly typed JSON library for Rust,serde-rs,json,https://github.com/serde-rs/json
+2022-09-18,rust,14835,13,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-09-18,rust,2619,7,Community showcase and examples of Actix ecosystem usage.,actix,examples,https://github.com/actix/examples
+2022-09-18,rust,976,8,,move-language,move,https://github.com/move-language/move
+2022-09-18,rust,20661,14,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2022-09-18,rust,7023,13,"A super-easy, composable, web server framework for warp speeds.",seanmonstar,warp,https://github.com/seanmonstar/warp
+2022-09-18,rust,2140,2,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2022-09-18,rust,85300,9,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-09-18,rust,6930,9,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2022-09-18,rust,6228,3,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2022-09-18,rust,17546,14,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-09-18,rust,374,28,A cross platform C2/post-exploitation framework.,b23r0,Heroinn,https://github.com/b23r0/Heroinn

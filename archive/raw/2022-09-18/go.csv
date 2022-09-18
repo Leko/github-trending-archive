@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-18,go,205,54,羊了个羊 通关程序，支持无限通关,zc2638,ylgy,https://github.com/zc2638/ylgy
+2022-09-18,go,12532,91,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-09-18,go,13212,265,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-09-18,go,5836,78,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2022-09-18,go,39355,55,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-09-18,go,8890,128,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2022-09-18,go,4125,23,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
+2022-09-18,go,2749,7,Go implementation of Ethereum proof of stake,prysmaticlabs,prysm,https://github.com/prysmaticlabs/prysm
+2022-09-18,go,1765,5,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-09-18,go,25355,13,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-09-18,go,5270,3,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2022-09-18,go,7170,6,基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev Antd 订阅版：https://preview.go-admin.dev,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2022-09-18,go,9243,31,即时通讯IM,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-09-18,go,4665,16,The Full-Stack Web Framework for Go,livebud,bud,https://github.com/livebud/bud
+2022-09-18,go,7151,12,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2022-09-18,go,15407,9,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-09-18,go,2977,9,Kubernetes deployment strategies explained,ContainerSolutions,k8s-deployment-strategies,https://github.com/ContainerSolutions/k8s-deployment-strategies
+2022-09-18,go,9086,9,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2022-09-18,go,11397,5,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-09-18,go,10593,7,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-09-18,go,6023,32,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2022-09-18,go,33235,16,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
+2022-09-18,go,22969,11,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2022-09-18,go,13020,9,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-09-18,go,41213,10,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
