@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-21,go,13016,156,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-09-21,go,62383,176,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2022-09-21,go,663,109,A Virtual FIDO2 USB Device,bulwarkid,virtual-fido,https://github.com/bulwarkid/virtual-fido
+2022-09-21,go,23838,18,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2022-09-21,go,6370,9,Golang implementation of the Raft consensus protocol,hashicorp,raft,https://github.com/hashicorp/raft
+2022-09-21,go,62967,32,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-09-21,go,4198,14,The Modern Application Platform.,kubevela,kubevela,https://github.com/kubevela/kubevela
+2022-09-21,go,3590,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-09-21,go,20583,25,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-09-21,go,414,86,Anonymously bruteforce Active Directory usernames from Domain Controllers by abusing LDAP Ping requests (cLDAP),lkarlslund,ldapnomnom,https://github.com/lkarlslund/ldapnomnom
+2022-09-21,go,14170,17,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-09-21,go,712,201,A monitoring and troubleshooting tool for microservice architectures.,coroot,coroot,https://github.com/coroot/coroot
+2022-09-21,go,6341,9,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2022-09-21,go,15389,23,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2022-09-21,go,9223,33,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2022-09-21,go,1609,13,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2022-09-21,go,2316,10,Remote development environments on your infrastructure provisioned with Terraform,coder,coder,https://github.com/coder/coder
+2022-09-21,go,5188,3,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2022-09-21,go,16786,9,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-09-21,go,12093,15,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-09-21,go,3386,7,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2022-09-21,go,10700,14,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-09-21,go,5325,6,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2022-09-21,go,1767,6,Fast JSON encoder/decoder compatible with encoding/json for Go,goccy,go-json,https://github.com/goccy/go-json
+2022-09-21,go,14187,18,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",inancgumus,learngo,https://github.com/inancgumus/learngo
