@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-22,go,910,175,A monitoring and troubleshooting tool for microservice architectures.,coroot,coroot,https://github.com/coroot/coroot
+2022-09-22,go,43031,65,Fast and extensible multi-platform web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-09-22,go,13148,141,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-09-22,go,25383,6,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-09-22,go,23846,9,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2022-09-22,go,624,41,fgtrace is an experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler.,felixge,fgtrace,https://github.com/felixge/fgtrace
+2022-09-22,go,13474,4,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-09-22,go,62465,88,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2022-09-22,go,4195,18,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
+2022-09-22,go,1073,29,"k8s tutorials | k8s 教程",guangzhengli,k8s-tutorials,https://github.com/guangzhengli/k8s-tutorials
+2022-09-22,go,9738,11,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-09-22,go,3884,8,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2022-09-22,go,2172,26,Pure Go implementation of jq,itchyny,gojq,https://github.com/itchyny/gojq
+2022-09-22,go,7552,22,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2022-09-22,go,7887,7,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-09-22,go,12915,16,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2022-09-22,go,25647,13,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-09-22,go,10710,10,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-09-22,go,14179,9,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-09-22,go,14201,15,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",inancgumus,learngo,https://github.com/inancgumus/learngo
+2022-09-22,go,1983,3,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2022-09-22,go,494,1,CSI Driver for Amazon EFS https://aws.amazon.com/efs/,kubernetes-sigs,aws-efs-csi-driver,https://github.com/kubernetes-sigs/aws-efs-csi-driver
+2022-09-22,go,15457,2,(OBSOLETE) Curated applications for Kubernetes,helm,charts,https://github.com/helm/charts
+2022-09-22,go,13775,18,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
+2022-09-22,go,5304,6,Implements a deep pretty printer for Go data structures to aid in debugging,davecgh,go-spew,https://github.com/davecgh/go-spew
