@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-23,go,14353,90,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",inancgumus,learngo,https://github.com/inancgumus/learngo
+2022-09-23,go,25752,56,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-09-23,go,4223,14,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-09-23,go,7562,9,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2022-09-23,go,9748,9,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-09-23,go,3887,5,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2022-09-23,go,12000,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-09-23,go,4119,8,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2022-09-23,go,34242,22,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-09-23,go,1081,175,A monitoring and troubleshooting tool for microservice architectures.,coroot,coroot,https://github.com/coroot/coroot
+2022-09-23,go,4905,16,"High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com",ddosify,ddosify,https://github.com/ddosify/ddosify
+2022-09-23,go,3100,5,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-09-23,go,12731,5,"Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",snail007,goproxy,https://github.com/snail007/goproxy
+2022-09-23,go,11280,5,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2022-09-23,go,5918,7,YAML support for the Go language.,go-yaml,yaml,https://github.com/go-yaml/yaml
+2022-09-23,go,2337,3,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2022-09-23,go,7889,2,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-09-23,go,11086,16,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2022-09-23,go,35409,38,Multi-Cloud  Object Storage,minio,minio,https://github.com/minio/minio
+2022-09-23,go,12277,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-09-23,go,1602,2,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2022-09-23,go,7552,11,"A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.",dtm-labs,dtm,https://github.com/dtm-labs/dtm
+2022-09-23,go,3149,2,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2022-09-23,go,9694,13,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2022-09-23,go,6027,7,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk

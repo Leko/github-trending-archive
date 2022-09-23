@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-23,haskell,2802,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-09-23,haskell,7493,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-09-23,haskell,19224,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-09-23,haskell,3771,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-09-23,haskell,78,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2022-09-23,haskell,7,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-09-23,haskell,11,0,JSON logging using monad-logger interface,jship,monad-logger-aeson,https://github.com/jship/monad-logger-aeson
+2022-09-23,haskell,1,0,,norm2782,shake-bin,https://github.com/norm2782/shake-bin
+2022-09-23,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-09-23,haskell,2095,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-09-23,haskell,273,2,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-09-23,haskell,532,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-09-23,haskell,151,0,Proof of concept for the Hydra Head protocol,input-output-hk,hydra-poc,https://github.com/input-output-hk/hydra-poc
+2022-09-23,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-09-23,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-09-23,haskell,551,0,Reach: The Safest and Smartest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
+2022-09-23,haskell,44,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-09-23,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-09-23,haskell,29949,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-09-23,haskell,1270,0,Research language for array processing in the Haskell/ML family,google-research,dex-lang,https://github.com/google-research/dex-lang
+2022-09-23,haskell,9,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,https://github.com/digital-asset/ex-mortgage-repackaging
+2022-09-23,haskell,28,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2022-09-23,haskell,3,0,Integrations with Vinyl/Frames records.,composite-hs,composite,https://github.com/composite-hs/composite
+2022-09-23,haskell,25,1,A web microframework for Haskell based on monadic parsing,monadicsystems,okapi,https://github.com/monadicsystems/okapi
+2022-09-23,haskell,1603,1,Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.,BurntSushi,erd,https://github.com/BurntSushi/erd
