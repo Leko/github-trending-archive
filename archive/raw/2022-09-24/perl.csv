@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-24,perl,13579,1,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2022-09-24,perl,14772,10,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2022-09-24,perl,6090,1,Nikto web server scanner,sullo,nikto,https://github.com/sullo/nikto
+2022-09-24,perl,73,0,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2022-09-24,perl,0,0,some of my linux tools,qworty,linux-tools,https://github.com/qworty/linux-tools
+2022-09-24,perl,55,0,A multi-language tool which parses source code for function definitions and calls,koknat,callGraph,https://github.com/koknat/callGraph
+2022-09-24,perl,452,0,Holberton-style C code checker written in Perl,holbertonschool,Betty,https://github.com/holbertonschool/Betty
+2022-09-24,perl,231,1,FusionInventory Agent,fusioninventory,fusioninventory-agent,https://github.com/fusioninventory/fusioninventory-agent
+2022-09-24,perl,795,0,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2022-09-24,perl,259,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2022-09-24,perl,441,0,ISO/IEC JTC1 SC22 WG21 paper scheduling and management,cplusplus,papers,https://github.com/cplusplus/papers
+2022-09-24,perl,255,0,GNU Fortran (and GCC) compilers for macOS,fxcoudert,gfortran-for-macOS,https://github.com/fxcoudert/gfortran-for-macOS
+2022-09-24,perl,276,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2022-09-24,perl,15871,0,Good-lookin' diffs. Actually… nah… The best-lookin' diffs.,so-fancy,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy
+2022-09-24,perl,1040,1,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
+2022-09-24,perl,209,0,Spec and test data for the MaxMind DB file format,maxmind,MaxMind-DB,https://github.com/maxmind/MaxMind-DB
+2022-09-24,perl,592,0,Rapid prokaryotic genome annotation,tseemann,prokka,https://github.com/tseemann/prokka
+2022-09-24,perl,1883,1,Client for PPP+SSL VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
+2022-09-24,perl,337,0,The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants,Ensembl,ensembl-vep,https://github.com/Ensembl/ensembl-vep
+2022-09-24,perl,26,0,Nginx C module to allow deeper control of Nginx behaviors by Kong Lua code,Kong,lua-kong-nginx-module,https://github.com/Kong/lua-kong-nginx-module
+2022-09-24,perl,382,0,Movable Type,movabletype,movabletype,https://github.com/movabletype/movabletype
+2022-09-24,perl,1120,2,ModSecurity v3 Nginx Connector,SpiderLabs,ModSecurity-nginx,https://github.com/SpiderLabs/ModSecurity-nginx
+2022-09-24,perl,102,0,"OBS build script, can be used with OBS or stand alone",openSUSE,obs-build,https://github.com/openSUSE/obs-build
+2022-09-24,perl,2371,0,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),SpiderLabs,owasp-modsecurity-crs,https://github.com/SpiderLabs/owasp-modsecurity-crs
+2022-09-24,perl,323,0,Rapid haploid variant calling and core genome alignment,tseemann,snippy,https://github.com/tseemann/snippy
