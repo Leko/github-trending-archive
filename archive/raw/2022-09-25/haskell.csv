@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-25,haskell,26553,1,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-09-25,haskell,29974,13,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-09-25,haskell,7498,0,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-09-25,haskell,19231,2,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-09-25,haskell,680,2,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-09-25,haskell,39,3,Effective Algebraic Topology in Haskell,mvr,at,https://github.com/mvr/at
+2022-09-25,haskell,2802,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-09-25,haskell,2,0,IO concurrent promitives for conduit,qnikst,iochan-conduit,https://github.com/qnikst/iochan-conduit
+2022-09-25,haskell,1082,2,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-09-25,haskell,2100,0,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-09-25,haskell,275,1,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-09-25,haskell,6,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-09-25,haskell,9,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,https://github.com/digital-asset/ex-mortgage-repackaging
+2022-09-25,haskell,28,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2022-09-25,haskell,250,0,Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.,VinylRecords,Vinyl,https://github.com/VinylRecords/Vinyl
+2022-09-25,haskell,14,0,Haskell bindings to Google's V8 JavaScript Engine,sol,v8,https://github.com/sol/v8
+2022-09-25,haskell,2170,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-09-25,haskell,1698,2,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-09-25,haskell,6938,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-09-25,haskell,3,0,Integrations with Vinyl/Frames records.,composite-hs,composite,https://github.com/composite-hs/composite
+2022-09-25,haskell,1043,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2022-09-25,haskell,62,0,Marlowe smart contract language Cardano implementation,input-output-hk,marlowe-cardano,https://github.com/input-output-hk/marlowe-cardano
+2022-09-25,haskell,4615,3,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-09-25,haskell,231,0,A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2022-09-25,haskell,533,1,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka

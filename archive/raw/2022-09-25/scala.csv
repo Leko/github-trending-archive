@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-25,scala,5237,3,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-09-25,scala,1221,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-09-25,scala,2687,2,"Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",apache,incubator-linkis,https://github.com/apache/incubator-linkis
+2022-09-25,scala,3559,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-09-25,scala,33951,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-09-25,scala,12227,3,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-09-25,scala,12504,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-09-25,scala,848,2,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-09-25,scala,4553,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-09-25,scala,8342,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-09-25,scala,1768,3,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-09-25,scala,275,0,"Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)",VirtusLab,scala-cli,https://github.com/VirtusLab/scala-cli
+2022-09-25,scala,143,0,The repository for the free Scala at Light Speed mini-course,rockthejvm,scala-at-light-speed,https://github.com/rockthejvm/scala-at-light-speed
+2022-09-25,scala,8749,1,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-09-25,scala,1865,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-09-25,scala,2501,1,A simple client for Android,xxf098,shadowsocksr-v2ray-trojan-android,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+2022-09-25,scala,1,0,,GeeksOfTheDusk,csn.modules.bbcodeparser,https://github.com/GeeksOfTheDusk/csn.modules.bbcodeparser
+2022-09-25,scala,716,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2022-09-25,scala,1046,5,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2022-09-25,scala,454,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-09-25,scala,3769,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-09-25,scala,8,0,"Network components (NIC, Switch) for FireBox",firesim,icenet,https://github.com/firesim/icenet
+2022-09-25,scala,1085,1,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-09-25,scala,13865,0,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-09-25,scala,1201,2,SonicBOOM: The Berkeley Out-of-Order Machine,riscv-boom,riscv-boom,https://github.com/riscv-boom/riscv-boom

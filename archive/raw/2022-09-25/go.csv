@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-25,go,14756,121,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",inancgumus,learngo,https://github.com/inancgumus/learngo
+2022-09-25,go,11494,353,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2022-09-25,go,43249,72,Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-09-25,go,12208,33,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-09-25,go,25855,20,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-09-25,go,9159,16,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2022-09-25,go,13551,208,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-09-25,go,6092,4,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-09-25,go,12688,20,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2022-09-25,go,2922,3,"Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",hktalent,scan4all,https://github.com/hktalent/scan4all
+2022-09-25,go,3411,6,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-09-25,go,18012,5,Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2022-09-25,go,2450,5,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2022-09-25,go,431,18,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2022-09-25,go,12740,4,"Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",snail007,goproxy,https://github.com/snail007/goproxy
+2022-09-25,go,11031,8,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2022-09-25,go,6370,12,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2022-09-25,go,14758,5,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2022-09-25,go,5826,5,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2022-09-25,go,14159,11,IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
+2022-09-25,go,1130,3,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2022-09-25,go,5007,1,An HTTP proxy library for Go,elazarl,goproxy,https://github.com/elazarl/goproxy
+2022-09-25,go,3393,3,Linux OS for Azure 1P services and edge appliances,microsoft,CBL-Mariner,https://github.com/microsoft/CBL-Mariner
+2022-09-25,go,17102,1,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-09-25,go,34279,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform

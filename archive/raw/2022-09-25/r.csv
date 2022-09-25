@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-25,r,607,0,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2022-09-25,r,0,0,Tutorial on PCA,rlim19,OldSchool_PCAonR,https://github.com/rlim19/OldSchool_PCAonR
+2022-09-25,r,294,0,,fivethirtyeight,guns-data,https://github.com/fivethirtyeight/guns-data
+2022-09-25,r,1579,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2022-09-25,r,186,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2022-09-25,r,35,0,"Data Analysis and Statistical Inference, Duke University",guindilla,coursera-statistics-002,https://github.com/guindilla/coursera-statistics-002
+2022-09-25,r,445,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2022-09-25,r,1,0,"A repository for scripts, notes, and tools related to the FATES Global Calibration Cascade",adrifoster,fates-global-cal,https://github.com/adrifoster/fates-global-cal
+2022-09-25,r,1571,0,"Easily generate information-rich, publication-quality tables from R",rstudio,gt,https://github.com/rstudio/gt
+2022-09-25,r,794,2,"A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live",rstudio,tinytex,https://github.com/rstudio/tinytex
+2022-09-25,r,335,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2022-09-25,r,71,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2022-09-25,r,359,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2022-09-25,r,758,0,R Interface to Keras,rstudio,keras,https://github.com/rstudio/keras
+2022-09-25,r,3690,1,R for data science: a book,hadley,r4ds,https://github.com/hadley/r4ds
+2022-09-25,r,925,0,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2022-09-25,r,394,0,Survival Analysis and Visualization,kassambara,survminer,https://github.com/kassambara/survminer
+2022-09-25,r,246,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2022-09-25,r,359,1,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2022-09-25,r,335,0,"Fast, sensitive and accurate integration of single-cell data with Harmony",immunogenomics,harmony,https://github.com/immunogenomics/harmony
+2022-09-25,r,883,0,'ggplot2' Based Publication Ready Plots,kassambara,ggpubr,https://github.com/kassambara/ggpubr
+2022-09-25,r,17,0,CRAN Task View: Agricultural Science,cran-task-views,Agriculture,https://github.com/cran-task-views/Agriculture
+2022-09-25,r,4790,0,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2022-09-25,r,193,0,,cole-trapnell-lab,monocle3,https://github.com/cole-trapnell-lab/monocle3
+2022-09-25,r,1006,1,Static Code Analysis for R,r-lib,lintr,https://github.com/r-lib/lintr
