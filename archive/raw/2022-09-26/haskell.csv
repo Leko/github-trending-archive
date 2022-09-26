@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-26,haskell,2726,3,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-09-26,haskell,1083,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-09-26,haskell,2170,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-09-26,haskell,2801,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-09-26,haskell,277,2,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-09-26,haskell,226,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-09-26,haskell,533,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-09-26,haskell,29981,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-09-26,haskell,4615,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-09-26,haskell,0,0,,upenn-cis5520,04-classes,https://github.com/upenn-cis5520/04-classes
+2022-09-26,haskell,2325,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2022-09-26,haskell,176,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2022-09-26,haskell,1884,1,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-09-26,haskell,6940,2,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-09-26,haskell,5,0,,digital-asset,daml-finance,https://github.com/digital-asset/daml-finance
+2022-09-26,haskell,19237,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-09-26,haskell,1479,0,Command-line Kanban board/task manager with support for Trello boards and GitHub projects,smallhadroncollider,taskell,https://github.com/smallhadroncollider/taskell
+2022-09-26,haskell,14,0,Visualizing kubernetes capacity.,Shopify,kubepacity,https://github.com/Shopify/kubepacity
+2022-09-26,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-09-26,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-09-26,haskell,45,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-09-26,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-09-26,haskell,231,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-09-26,haskell,2,0,,input-output-hk,cardano-config,https://github.com/input-output-hk/cardano-config
+2022-09-26,haskell,2751,0,Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).,ghc,ghc,https://github.com/ghc/ghc
