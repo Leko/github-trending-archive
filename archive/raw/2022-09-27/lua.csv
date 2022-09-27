@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-27,lua,5088,4,awesome window manager,awesomeWM,awesome,https://github.com/awesomeWM/awesome
+2022-09-27,lua,3688,5,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2022-09-27,lua,1935,14,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-09-27,lua,2039,7,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-09-27,lua,3780,6,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-09-27,lua,955,2,World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.,WeakAuras,WeakAuras2,https://github.com/WeakAuras/WeakAuras2
+2022-09-27,lua,19012,5,A community-driven modular vim/neovim distribution - The ultimate vimrc,SpaceVim,SpaceVim,https://github.com/SpaceVim/SpaceVim
+2022-09-27,lua,5639,12,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-09-27,lua,1607,7,"A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2022-09-27,lua,666,3,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-09-27,lua,1697,2,Orgmode clone written in Lua for Neovim 0.7+.,nvim-orgmode,orgmode,https://github.com/nvim-orgmode/orgmode
+2022-09-27,lua,4678,16,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-09-27,lua,838,5,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
+2022-09-27,lua,1423,2,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2022-09-27,lua,171,2,Official Repo For ESX-Legacy,esx-framework,esx-legacy,https://github.com/esx-framework/esx-legacy
+2022-09-27,lua,52,0,A collection of Lua functions to utilise in other resources.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2022-09-27,lua,4095,9,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-09-27,lua,184,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2022-09-27,lua,247,0,NoPixel Full Server Files working,swxy,NoPixelServer,https://github.com/swxy/NoPixelServer
+2022-09-27,lua,772,6,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2022-09-27,lua,73,1,"Vape V4 for Roblox, because bored.",7GrandDadPGN,VapeV4ForRoblox,https://github.com/7GrandDadPGN/VapeV4ForRoblox
+2022-09-27,lua,2371,17,"夜 - Yoru | Aesthetic and Beautiful Awesome Environment",rxyhn,yoru,https://github.com/rxyhn/yoru
+2022-09-27,lua,840,3,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2022-09-27,lua,123,0,Repository for otservbr-global datapack. Source code: https://github.com/opentibiabr/canary,opentibiabr,otservbr-global,https://github.com/opentibiabr/otservbr-global
+2022-09-27,lua,3403,4,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch

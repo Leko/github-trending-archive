@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-27,haskell,2801,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-09-27,haskell,2726,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-09-27,haskell,278,1,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-09-27,haskell,19239,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-09-27,haskell,2103,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-09-27,haskell,2171,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-09-27,haskell,0,0,,upenn-cis5520,04-classes,https://github.com/upenn-cis5520/04-classes
+2022-09-27,haskell,1405,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-09-27,haskell,819,1,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-09-27,haskell,4,0,Networking library for Windows,input-output-hk,Win32-network,https://github.com/input-output-hk/Win32-network
+2022-09-27,haskell,1091,8,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-09-27,haskell,12,0,A protolude-based custom prelude for the Cardano project,input-output-hk,cardano-prelude,https://github.com/input-output-hk/cardano-prelude
+2022-09-27,haskell,32,0,"This framework provides logging, benchmarking and monitoring.",input-output-hk,iohk-monitoring-framework,https://github.com/input-output-hk/iohk-monitoring-framework
+2022-09-27,haskell,680,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-09-27,haskell,232,1,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-09-27,haskell,71,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-09-27,haskell,8,0,Genetic Algorithm based randomized testing,input-output-hk,goblins,https://github.com/input-output-hk/goblins
+2022-09-27,haskell,0,0,,markhibberd,boltjs-refactor,https://github.com/markhibberd/boltjs-refactor
+2022-09-27,haskell,175,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-09-27,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-09-27,haskell,269,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-09-27,haskell,533,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-09-27,haskell,2,0,,input-output-hk,hedgehog-extras,https://github.com/input-output-hk/hedgehog-extras
+2022-09-27,haskell,6,0,,digital-asset,contingent-claims,https://github.com/digital-asset/contingent-claims
+2022-09-27,haskell,150,0,"The GHC API, decoupled from GHC versions",digital-asset,ghc-lib,https://github.com/digital-asset/ghc-lib
