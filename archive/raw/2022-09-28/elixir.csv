@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-28,elixir,20812,8,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2022-09-28,elixir,12612,12,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2022-09-28,elixir,2869,8,WireGuard®-based VPN server and firewall,firezone,firezone,https://github.com/firezone/firezone
+2022-09-28,elixir,5590,0,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2022-09-28,elixir,18569,5,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2022-09-28,elixir,3005,0,Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2022-09-28,elixir,4825,3,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2022-09-28,elixir,26,2,Template rendering for Phoenix,phoenixframework,phoenix_template,https://github.com/phoenixframework/phoenix_template
+2022-09-28,elixir,3144,2,A self-hosted data logger for your Tesla,adriankumpf,teslamate,https://github.com/adriankumpf/teslamate
+2022-09-28,elixir,44,1,"Components for pagination, sortable tables and filter forms using Phoenix, Ecto and Flop",woylie,flop_phoenix,https://github.com/woylie/flop_phoenix
+2022-09-28,elixir,1735,1,"The flexible HTTP client library for Elixir, with support for middleware and multiple adapters.",elixir-tesla,tesla,https://github.com/elixir-tesla/tesla
+2022-09-28,elixir,2905,1,Simplify deployments in Elixir with OTP releases!,bitwalker,distillery,https://github.com/bitwalker/distillery
+2022-09-28,elixir,193,0,Elixir port of libphonenumber,socialpaymentsbv,ex_phone_number,https://github.com/socialpaymentsbv/ex_phone_number
+2022-09-28,elixir,17,0,A Redis backend for for the Hammer rate-limiter,ExHammer,hammer-backend-redis,https://github.com/ExHammer/hammer-backend-redis
+2022-09-28,elixir,317,0,An interactive cybersecurity curriculum designed for enterprise use at software companies using Elixir,podium,elixir-secure-coding,https://github.com/podium/elixir-secure-coding
+2022-09-28,elixir,1981,2,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2022-09-28,elixir,123,0,Wrapper around the Erlang crypto module for Elixir.,ntrepid8,ex_crypto,https://github.com/ntrepid8/ex_crypto
+2022-09-28,elixir,1804,0,"Testable, composable, and adapter based Elixir email library for devs that love piping.",thoughtbot,bamboo,https://github.com/thoughtbot/bamboo
+2022-09-28,elixir,401,4,Phoenix + Live View HEEX Components,petalframework,petal_components,https://github.com/petalframework/petal_components
+2022-09-28,elixir,232,5,A pluggable storybook for your LiveView components.,phenixdigital,phx_live_storybook,https://github.com/phenixdigital/phx_live_storybook
+2022-09-28,elixir,176,0,A Broadway connector for Kafka,dashbitco,broadway_kafka,https://github.com/dashbitco/broadway_kafka
+2022-09-28,elixir,40,1,,coingaming,moon,https://github.com/coingaming/moon
+2022-09-28,elixir,742,0,An Elixir Library for Stripe,beam-community,stripity_stripe,https://github.com/beam-community/stripity_stripe
+2022-09-28,elixir,950,0,Reference Repo for an Elixir course on Udemy.com,StephenGrider,ElixirCode,https://github.com/StephenGrider/ElixirCode
+2022-09-28,elixir,5358,2,Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.,supabase,realtime,https://github.com/supabase/realtime

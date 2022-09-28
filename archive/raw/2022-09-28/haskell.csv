@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-28,haskell,30007,13,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-09-28,haskell,7510,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-09-28,haskell,2172,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-09-28,haskell,1249,4,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-09-28,haskell,1093,3,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-09-28,haskell,12,0,A proof-of-concept compiler targeting SPIR-V for a toy ML functional shading language,swtwsk,vinci-lang,https://github.com/swtwsk/vinci-lang
+2022-09-28,haskell,2502,1,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
+2022-09-28,haskell,1891,3,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-09-28,haskell,819,0,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-09-28,haskell,19243,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-09-28,haskell,270,1,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-09-28,haskell,46,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-09-28,haskell,2802,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-09-28,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-09-28,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-09-28,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-09-28,haskell,439,0,Haskell on Apache Spark.,tweag,sparkle,https://github.com/tweag/sparkle
+2022-09-28,haskell,1,0,,dataartisan,cat-n-count-haskell,https://github.com/dataartisan/cat-n-count-haskell
+2022-09-28,haskell,290,0,Standard library for linear types in Haskell.,tweag,linear-base,https://github.com/tweag/linear-base
+2022-09-28,haskell,547,1,The full power of R in Haskell.,tweag,HaskellR,https://github.com/tweag/HaskellR
+2022-09-28,haskell,770,1,A formatter for Haskell source code,tweag,ormolu,https://github.com/tweag/ormolu
+2022-09-28,haskell,357,1,Functional workflows,tweag,funflow,https://github.com/tweag/funflow
+2022-09-28,haskell,7844,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-09-28,haskell,1737,2,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-09-28,haskell,3,0,Integrations with Vinyl/Frames records.,composite-hs,composite,https://github.com/composite-hs/composite

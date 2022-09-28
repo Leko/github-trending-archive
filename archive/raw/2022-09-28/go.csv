@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-09-28,go,915,98,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2022-09-28,go,2552,18,protoc plugin to generate polyglot message validators,envoyproxy,protoc-gen-validate,https://github.com/envoyproxy/protoc-gen-validate
+2022-09-28,go,2451,2,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2022-09-28,go,11692,9,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2022-09-28,go,29792,14,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-09-28,go,15063,55,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",inancgumus,learngo,https://github.com/inancgumus/learngo
+2022-09-28,go,252,34,"Fastjson扫描器，可识别版本、依赖库、autoType状态等。A tool to distinguish fastjson ,version and dependency",a1phaboy,FastjsonScan,https://github.com/a1phaboy/FastjsonScan
+2022-09-28,go,20705,15,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-09-28,go,2941,6,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2022-09-28,go,3240,4,Optimized Go Compression Packages,klauspost,compress,https://github.com/klauspost/compress
+2022-09-28,go,25416,16,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-09-28,go,1831,1,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2022-09-28,go,15473,10,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-09-28,go,4409,7,The official Go client for Elasticsearch,elastic,go-elasticsearch,https://github.com/elastic/go-elasticsearch
+2022-09-28,go,28705,25,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-09-28,go,4352,5,syzkaller is an unsupervised coverage-guided kernel fuzzer,google,syzkaller,https://github.com/google/syzkaller
+2022-09-28,go,92399,40,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-09-28,go,5205,1,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2022-09-28,go,3117,30,Source code and community space of  100 Go Mistakes.,teivah,100-go-mistakes,https://github.com/teivah/100-go-mistakes
+2022-09-28,go,4317,4,A web-based UI for deploying and managing applications in Kubernetes clusters,vmware-tanzu,kubeapps,https://github.com/vmware-tanzu/kubeapps
+2022-09-28,go,11576,12,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-09-28,go,17719,11,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-09-28,go,4497,10,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2022-09-28,go,4724,7,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2022-09-28,go,9597,18,The High-performance Build System for JavaScript & TypeScript Codebases,vercel,turborepo,https://github.com/vercel/turborepo
