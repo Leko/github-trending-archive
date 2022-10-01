@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-01,scala,2371,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-10-01,scala,5258,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-10-01,scala,33999,9,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-10-01,scala,3571,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-10-01,scala,12028,5,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-10-01,scala,1227,1,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-10-01,scala,1050,5,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-10-01,scala,2714,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-10-01,scala,2464,4,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-10-01,scala,3782,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-10-01,scala,8344,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-10-01,scala,12226,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-10-01,scala,1625,0,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-10-01,scala,554,0,A scala library to write Http apps.,zio,zio-http,https://github.com/zio/zio-http
+2022-10-01,scala,4,0,,input-output-hk,ce-semantics-dsl,https://github.com/input-output-hk/ce-semantics-dsl
+2022-10-01,scala,454,0,Ergo protocol description & reference client implementation,ergoplatform,ergo,https://github.com/ergoplatform/ergo
+2022-10-01,scala,584,1,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-10-01,scala,2692,1,"Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",apache,incubator-linkis,https://github.com/apache/incubator-linkis
+2022-10-01,scala,18,5,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",mdedetrich,akka-apache,https://github.com/mdedetrich/akka-apache
+2022-10-01,scala,140,0,"Beautiful trees, without the landscaping.",stripe,bonsai,https://github.com/stripe/bonsai
+2022-10-01,scala,1867,1,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-10-01,scala,5675,0,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-10-01,scala,1,0,An RTL generator for a last-level shared inclusive TileLink cache controller,chipsalliance,rocket-chip-inclusive-cache,https://github.com/chipsalliance/rocket-chip-inclusive-cache
+2022-10-01,scala,559,0,Flexible Intermediate Representation for RTL,chipsalliance,firrtl,https://github.com/chipsalliance/firrtl
+2022-10-01,scala,55,0,,ucb-bar,testchipip,https://github.com/ucb-bar/testchipip

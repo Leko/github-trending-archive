@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-01,python,871,234,A tool for refurbishing and modernizing Python codebases,dosisod,refurb,https://github.com/dosisod/refurb
+2022-10-01,python,15205,125,"30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",Asabeneh,30-Days-Of-Python,https://github.com/Asabeneh/30-Days-Of-Python
+2022-10-01,python,365,50,Efficient few-shot learning with Sentence Transformers,huggingface,setfit,https://github.com/huggingface/setfit
+2022-10-01,python,210452,171,A collective list of free APIs,public-apis,public-apis,https://github.com/public-apis/public-apis
+2022-10-01,python,54771,47,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",ansible,ansible,https://github.com/ansible/ansible
+2022-10-01,python,6787,15,"Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",microsoft,unilm,https://github.com/microsoft/unilm
+2022-10-01,python,5816,4,Code samples used on cloud.google.com,GoogleCloudPlatform,python-docs-samples,https://github.com/GoogleCloudPlatform/python-docs-samples
+2022-10-01,python,7820,24,"Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",lucidrains,DALLE2-pytorch,https://github.com/lucidrains/DALLE2-pytorch
+2022-10-01,python,2630,21,Standard and Advanced Demos for learn.cantrill.io courses,acantril,learn-cantrill-io-labs,https://github.com/acantril/learn-cantrill-io-labs
+2022-10-01,python,9452,3,A framework for training and evaluating AI models on a variety of openly available dialogue datasets.,facebookresearch,ParlAI,https://github.com/facebookresearch/ParlAI
+2022-10-01,python,2661,207,Generates LaTeX math description from Python functions.,google,latexify_py,https://github.com/google/latexify_py
+2022-10-01,python,1397,29,"dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!",punk-security,dnsReaper,https://github.com/punk-security/dnsReaper
+2022-10-01,python,497,56,Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.,stark0de,nginxpwner,https://github.com/stark0de/nginxpwner
+2022-10-01,python,5322,207,Stable Diffusion web UI,AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2022-10-01,python,256,47,"A library for users to write (experiment in research) configurations in Python Dict or JSON format, read and write parameter value via dot . in code, while can read parameters from the command line to modify values. 一个供用户以Python Dict或JSON格式编写（科研中实验）配置的库，在代码中用点.读写属性，同时可以从命令行中读取参数配置并修改参数值。",NaiboWang,CommandlineConfig,https://github.com/NaiboWang/CommandlineConfig
+2022-10-01,python,6760,7,Open source annotation tool for machine learning practitioners.,doccano,doccano,https://github.com/doccano/doccano
+2022-10-01,python,12718,17,Open source platform for the machine learning lifecycle,mlflow,mlflow,https://github.com/mlflow/mlflow
+2022-10-01,python,4035,21,Games: Create interesting games by pure python.,CharlesPikachu,Games,https://github.com/CharlesPikachu/Games
+2022-10-01,python,69,13,,rafaelvleite,fide_crawler,https://github.com/rafaelvleite/fide_crawler
+2022-10-01,python,15687,9,Graph Neural Network Library for PyTorch,pyg-team,pytorch_geometric,https://github.com/pyg-team/pytorch_geometric
+2022-10-01,python,8826,22,PyTorch package for the discrete VAE used for DALL·E.,openai,DALL-E,https://github.com/openai/DALL-E
+2022-10-01,python,3340,3,Some out-of-the-box hooks for pre-commit,pre-commit,pre-commit-hooks,https://github.com/pre-commit/pre-commit-hooks
+2022-10-01,python,31245,52,YOLOv5  in PyTorch > ONNX > CoreML > TFLite,ultralytics,yolov5,https://github.com/ultralytics/yolov5
+2022-10-01,python,20174,24,"Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.",Lightning-AI,lightning,https://github.com/Lightning-AI/lightning
+2022-10-01,python,10794,11,Redis Python Client,redis,redis-py,https://github.com/redis/redis-py
