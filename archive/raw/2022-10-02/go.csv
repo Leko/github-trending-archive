@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-02,go,6379,131,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2022-10-02,go,23920,8,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2022-10-02,go,6243,7,Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2022-10-02,go,18099,7,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2022-10-02,go,7933,13,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-10-02,go,5364,9,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2022-10-02,go,19348,56,A Go microservices framework,go-micro,go-micro,https://github.com/go-micro/go-micro
+2022-10-02,go,2731,30,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2022-10-02,go,10763,18,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-10-02,go,12030,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-10-02,go,44562,19,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-10-02,go,14549,5,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-10-02,go,7414,7,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2022-10-02,go,2357,3,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",grafana,tempo,https://github.com/grafana/tempo
+2022-10-02,go,9230,4,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-10-02,go,7902,2,Simple error handling primitives,pkg,errors,https://github.com/pkg/errors
+2022-10-02,go,420,9,"Fastjson扫描器，可识别版本、依赖库、autoType状态等。A tool to distinguish fastjson ,version and dependency",a1phaboy,FastjsonScan,https://github.com/a1phaboy/FastjsonScan
+2022-10-02,go,3028,2,Generate documentation from Terraform modules in various output formats,terraform-docs,terraform-docs,https://github.com/terraform-docs/terraform-docs
+2022-10-02,go,3138,5,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-10-02,go,4169,3,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
+2022-10-02,go,12172,10,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-10-02,go,39829,22,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2022-10-02,go,10054,12,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-10-02,go,3613,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-10-02,go,13546,5,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
