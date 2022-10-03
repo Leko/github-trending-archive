@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-03,rust,2421,100,"Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.",build-trust,ockam,https://github.com/build-trust/ockam
+2022-10-03,rust,15196,198,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-10-03,rust,4928,7,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2022-10-03,rust,13407,61,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-10-03,rust,2957,6,A Rust library for the Discord API.,serenity-rs,serenity,https://github.com/serenity-rs/serenity
+2022-10-03,rust,85601,41,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-10-03,rust,763,13,Solving i18n for client-side and resource-constrained environments.,unicode-org,icu4x,https://github.com/unicode-org/icu4x
+2022-10-03,rust,17729,14,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-10-03,rust,18916,24,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-10-03,rust,6333,7,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-10-03,rust,3865,5,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-10-03,rust,10832,17,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2022-10-03,rust,1172,6,App source + Nix packages + Docker = Image,railwayapp,nixpacks,https://github.com/railwayapp/nixpacks
+2022-10-03,rust,7224,12,The Modern Port Scanner,RustScan,RustScan,https://github.com/RustScan/RustScan
+2022-10-03,rust,9470,7,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-10-03,rust,1858,3,Reference client for NEAR Protocol,near,nearcore,https://github.com/near/nearcore
+2022-10-03,rust,5345,5,Tools for concurrent programming in Rust,crossbeam-rs,crossbeam,https://github.com/crossbeam-rs/crossbeam
+2022-10-03,rust,3244,15,RisingWave: the next-generation streaming database in the cloud.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2022-10-03,rust,12989,19,a structural diff that understands syntax,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2022-10-03,rust,12237,9,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2022-10-03,rust,2266,1,Source code for crates.io,rust-lang,crates.io,https://github.com/rust-lang/crates.io
+2022-10-03,rust,2253,3,A pure Rust implementation of WebRTC,webrtc-rs,webrtc,https://github.com/webrtc-rs/webrtc
+2022-10-03,rust,72627,45,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-10-03,rust,2168,6,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-10-03,rust,42131,20,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty

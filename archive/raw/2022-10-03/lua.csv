@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-03,lua,1646,7,"A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2022-10-03,lua,5687,9,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-10-03,lua,4148,7,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-10-03,lua,12528,13,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-10-03,lua,10648,20,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-10-03,lua,1690,3,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-10-03,lua,3443,6,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-10-03,lua,1996,15,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-10-03,lua,3345,9,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-10-03,lua,2540,5,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-10-03,lua,3832,9,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-10-03,lua,1341,3,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-10-03,lua,181,3,Official Repo For ESX-Legacy,esx-framework,esx-legacy,https://github.com/esx-framework/esx-legacy
+2022-10-03,lua,7334,11,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-10-03,lua,2758,1,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2022-10-03,lua,1710,2,Orgmode clone written in Lua for Neovim 0.7+.,nvim-orgmode,orgmode,https://github.com/nvim-orgmode/orgmode
+2022-10-03,lua,677,2,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-10-03,lua,1131,4,vim dashboard,glepnir,dashboard-nvim,https://github.com/glepnir/dashboard-nvim
+2022-10-03,lua,588,1,"One dark and light colorscheme for neovim >= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles",navarasu,onedark.nvim,https://github.com/navarasu/onedark.nvim
+2022-10-03,lua,2067,3,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-10-03,lua,1962,2,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2022-10-03,lua,1055,0,Certain anime game Repacked Resource from Multiple Sources,tamilpp25,Grasscutter_Resources,https://github.com/tamilpp25/Grasscutter_Resources
+2022-10-03,lua,938,2,Questie: the vanilla quest helper,Questie,Questie,https://github.com/Questie/Questie
+2022-10-03,lua,2159,4,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2022-10-03,lua,11410,10,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
