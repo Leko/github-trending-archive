@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-05,shell,240,88,"iOS 15.0-15.3.1 tethered checkm8 ""jailbreak"" (rootless is 15.0-15.7 semi-tethered, no tweaks)",palera1n,palera1n,https://github.com/palera1n/palera1n
+2022-10-05,shell,61290,48,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-10-05,shell,12565,9,"Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",foxlet,macOS-Simple-KVM,https://github.com/foxlet/macOS-Simple-KVM
+2022-10-05,shell,1305,9,,wulabing,V2Ray_ws-tls_bash_onekey,https://github.com/wulabing/V2Ray_ws-tls_bash_onekey
+2022-10-05,shell,1076,7,Xray：（VLESS/VMess）-（TCP/gRPC/WebSocket）-（XTLS/TLS）+Web 搭建/管理脚本,kirin10000,Xray-script,https://github.com/kirin10000/Xray-script
+2022-10-05,shell,6568,18,（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2022-10-05,shell,7919,9,Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本,wulabing,Xray_onekey,https://github.com/wulabing/Xray_onekey
+2022-10-05,shell,1282,7,"Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.",ophub,amlogic-s9xxx-armbian,https://github.com/ophub/amlogic-s9xxx-armbian
+2022-10-05,shell,16821,9,最好用的 V2Ray 一键安装脚本 & 管理脚本,233boy,v2ray,https://github.com/233boy/v2ray
+2022-10-05,shell,28281,10,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2022-10-05,shell,986,26,Steam Deck Guide,mikeroyal,Steam-Deck-Guide,https://github.com/mikeroyal/Steam-Deck-Guide
+2022-10-05,shell,91,7,My Rice Setup,SirCharlieMars,dotfiles,https://github.com/SirCharlieMars/dotfiles
+2022-10-05,shell,16837,8,Node version management,tj,n,https://github.com/tj/n
+2022-10-05,shell,15689,8,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-10-05,shell,6629,4,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-10-05,shell,150750,42,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-10-05,shell,3177,2,install latest or LTS linux kernel and enable BBR or BBR plus,jinwyp,one_click_script,https://github.com/jinwyp/one_click_script
+2022-10-05,shell,5180,8,a Docker + Kubernetes network trouble-shooting swiss-army container,nicolaka,netshoot,https://github.com/nicolaka/netshoot
+2022-10-05,shell,19908,11,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-10-05,shell,15771,3,Default configuration for Le Wagon's students,lewagon,dotfiles,https://github.com/lewagon/dotfiles
+2022-10-05,shell,4188,9,Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd,v2fly,fhs-install-v2ray,https://github.com/v2fly/fhs-install-v2ray
+2022-10-05,shell,68,7,The goal of this project is to provide free internet access to Iranian people by any means,WeAreMahsaAmini,FreeInternet,https://github.com/WeAreMahsaAmini/FreeInternet
+2022-10-05,shell,873,3,Install Metasploit Framework 6 in Termux,gushmazuko,metasploit_in_termux,https://github.com/gushmazuko/metasploit_in_termux
+2022-10-05,shell,1388,15,Rockyou for web fuzzing,six2dez,OneListForAll,https://github.com/six2dez/OneListForAll
+2022-10-05,shell,6278,3,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium

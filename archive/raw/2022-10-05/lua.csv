@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-05,lua,77,6,,CronUp,Vulnerabilidades,https://github.com/CronUp/Vulnerabilidades
+2022-10-05,lua,33017,8,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-10-05,lua,3456,5,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-10-05,lua,878,11,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
+2022-10-05,lua,4787,14,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-10-05,lua,5709,9,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-10-05,lua,728,3,A real time audio visualizer for Rainmeter similar to the ones used in the Monstercat videos.,marcopixel,monstercat-visualizer,https://github.com/marcopixel/monstercat-visualizer
+2022-10-05,lua,605,2,Neovim 配置实战：从 0 到 1 打造自己的 IDE,nshen,learn-neovim-lua,https://github.com/nshen/learn-neovim-lua
+2022-10-05,lua,3841,5,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-10-05,lua,11418,6,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-10-05,lua,4172,14,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-10-05,lua,417,1,Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls,mfussenegger,nvim-jdtls,https://github.com/mfussenegger/nvim-jdtls
+2022-10-05,lua,7363,11,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-10-05,lua,1487,6,"// Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",numToStr,Comment.nvim,https://github.com/numToStr/Comment.nvim
+2022-10-05,lua,3360,9,A file explorer tree for neovim written in lua,kyazdani42,nvim-tree.lua,https://github.com/kyazdani42/nvim-tree.lua
+2022-10-05,lua,2262,8,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2022-10-05,lua,406,107,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2022-10-05,lua,2293,3,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2022-10-05,lua,46,1,a blazingly bad neovim config,dark-Jedi2108,nvide,https://github.com/dark-Jedi2108/nvide
+2022-10-05,lua,29,0,An out-of-the-box and lua based configuration for neovim.,fioncat,spacenvim,https://github.com/fioncat/spacenvim
+2022-10-05,lua,680,2,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-10-05,lua,1393,6,,ThePrimeagen,.dotfiles,https://github.com/ThePrimeagen/.dotfiles
+2022-10-05,lua,180,0,Official Repo For ESX-Legacy,esx-framework,esx-legacy,https://github.com/esx-framework/esx-legacy
+2022-10-05,lua,3731,3,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2022-10-05,lua,358,0,nvim-cmp source for neovim builtin LSP client,hrsh7th,cmp-nvim-lsp,https://github.com/hrsh7th/cmp-nvim-lsp

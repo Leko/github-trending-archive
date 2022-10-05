@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-05,go,2620,29,protoc plugin to generate polyglot message validators,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2022-10-05,go,3072,209,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2022-10-05,go,3444,7,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2022-10-05,go,1442,272,The Havoc Framework,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2022-10-05,go,1667,15,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2022-10-05,go,6066,8,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-10-05,go,5303,7,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2022-10-05,go,7175,12,Ebitengine - A dead simple 2D game engine for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2022-10-05,go,12323,3,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-10-05,go,6461,8,Take control over your live stream video by running it yourself. Streaming + chat out of the box.,owncast,owncast,https://github.com/owncast/owncast
+2022-10-05,go,6107,8,A simple RPC framework with protobuf service definitions,twitchtv,twirp,https://github.com/twitchtv/twirp
+2022-10-05,go,1743,6,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2022-10-05,go,1816,1,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-10-05,go,18300,31,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2022-10-05,go,17752,8,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-10-05,go,3483,50,"Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.",turbot,steampipe,https://github.com/turbot/steampipe
+2022-10-05,go,2489,5,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2022-10-05,go,2925,6,An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.,go-ozzo,ozzo-validation,https://github.com/go-ozzo/ozzo-validation
+2022-10-05,go,1194,2,基于 ZeroBot 的 OneBot 插件,FloatTech,ZeroBot-Plugin,https://github.com/FloatTech/ZeroBot-Plugin
+2022-10-05,go,13570,14,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-10-05,go,127,8,Go CLI and Library for quickly mapping organization network ranges using ASN information.,projectdiscovery,asnmap,https://github.com/projectdiscovery/asnmap
+2022-10-05,go,1185,13,Community managed domain list,v2ray,domain-list-community,https://github.com/v2ray/domain-list-community
+2022-10-05,go,62761,32,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2022-10-05,go,4823,7,Fancy stream processing made operationally mundane,benthosdev,benthos,https://github.com/benthosdev/benthos
+2022-10-05,go,30023,12,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
