@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-06,go,2655,35,protoc plugin to generate polyglot message validators,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2022-10-06,go,3414,6,Linux OS for Azure 1P services and edge appliances,microsoft,CBL-Mariner,https://github.com/microsoft/CBL-Mariner
+2022-10-06,go,1292,2,Terraform Kubernetes provider,hashicorp,terraform-provider-kubernetes,https://github.com/hashicorp/terraform-provider-kubernetes
+2022-10-06,go,3154,82,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2022-10-06,go,176,15,Pure Go implementation of Opus,pion,opus,https://github.com/pion/opus
+2022-10-06,go,6217,5,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2022-10-06,go,5216,6,Generate a Go ORM tailored to your database schema.,volatiletech,sqlboiler,https://github.com/volatiletech/sqlboiler
+2022-10-06,go,25927,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-10-06,go,6072,6,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-10-06,go,1706,3,A Go (golang) package for representing a list of errors as a single error.,hashicorp,go-multierror,https://github.com/hashicorp/go-multierror
+2022-10-06,go,6829,2,A vault for securely storing and accessing AWS credentials in development environments,99designs,aws-vault,https://github.com/99designs/aws-vault
+2022-10-06,go,4547,1,"Template rendering, notifier, and supervisor for @hashicorp Consul and Vault data.",hashicorp,consul-template,https://github.com/hashicorp/consul-template
+2022-10-06,go,7432,8,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2022-10-06,go,17766,14,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-10-06,go,104378,42,The Go programming language,golang,go,https://github.com/golang/go
+2022-10-06,go,12325,11,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2022-10-06,go,2060,5,Automatically gets credentials for Amazon ECR on docker push/docker pull,awslabs,amazon-ecr-credential-helper,https://github.com/awslabs/amazon-ecr-credential-helper
+2022-10-06,go,13962,7,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-10-06,go,23910,14,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2022-10-06,go,17452,12,A powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2022-10-06,go,3057,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-10-06,go,3008,7,xid is a globally unique id generator thought for the web,rs,xid,https://github.com/rs/xid
+2022-10-06,go,5322,1,Implements a deep pretty printer for Go data structures to aid in debugging,davecgh,go-spew,https://github.com/davecgh/go-spew
+2022-10-06,go,637,1,First-class support for Vault and Kubernetes.,hashicorp,vault-k8s,https://github.com/hashicorp/vault-k8s
+2022-10-06,go,4654,3,UUID package for Go,satori,go.uuid,https://github.com/satori/go.uuid
