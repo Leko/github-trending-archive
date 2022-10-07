@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-07,haskell,7543,8,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-10-07,haskell,19269,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-10-07,haskell,30083,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-10-07,haskell,683,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-10-07,haskell,1264,1,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-10-07,haskell,51,0,Principled and efficient binary serialization,Quid2,flat,https://github.com/Quid2/flat
+2022-10-07,haskell,0,0,vsim,ierton,vsim,https://github.com/ierton/vsim
+2022-10-07,haskell,13,0,Yet another Blog engine written in Haskell powered by yesod.,konn,Yablog,https://github.com/konn/Yablog
+2022-10-07,haskell,46,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-10-07,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-10-07,haskell,2808,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-10-07,haskell,7,0,Honeycomb client library for Haskell,EarnestResearch,honeycomb-haskell,https://github.com/EarnestResearch/honeycomb-haskell
+2022-10-07,haskell,58,2,‎️‍🌈 Convenient interface for printing colourful messages,kowainik,colourista,https://github.com/kowainik/colourista
+2022-10-07,haskell,533,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-10-07,haskell,271,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-10-07,haskell,3604,5,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-10-07,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-10-07,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-10-07,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-10-07,haskell,2182,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-10-07,haskell,2128,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-10-07,haskell,203,0,Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.,change-metrics,monocle,https://github.com/change-metrics/monocle
+2022-10-07,haskell,925,1,Haskell library for building declarative animations based on SVG graphics,reanimate,reanimate,https://github.com/reanimate/reanimate
+2022-10-07,haskell,109,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-10-07,haskell,73,0,Haskell CLI Framework supporting Command Line Interface Guidelines,chshersh,iris,https://github.com/chshersh/iris

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-07,go,6777,77,Universal code search (self-hosted),sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2022-10-07,go,22745,52,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-10-07,go,6396,8,Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,gruntwork-io,terratest,https://github.com/gruntwork-io/terratest
+2022-10-07,go,2678,23,protoc plugin to generate polyglot message validators,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2022-10-07,go,17775,11,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-10-07,go,14235,5,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-10-07,go,15226,23,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2022-10-07,go,11804,5,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-10-07,go,6118,23,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2022-10-07,go,5833,15,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2022-10-07,go,39913,20,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2022-10-07,go,21142,15,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2022-10-07,go,34415,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-10-07,go,104406,33,The Go programming language,golang,go,https://github.com/golang/go
+2022-10-07,go,6968,6,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2022-10-07,go,3416,3,Linux OS for Azure 1P services and edge appliances,microsoft,CBL-Mariner,https://github.com/microsoft/CBL-Mariner
+2022-10-07,go,11260,8,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2022-10-07,go,13969,7,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-10-07,go,322,5,"自动化学习强国,每日稳定45分",johlanse,study_xxqg,https://github.com/johlanse/study_xxqg
+2022-10-07,go,25453,6,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-10-07,go,23918,8,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2022-10-07,go,5677,6,A tool that facilitates building OCI images.,containers,buildah,https://github.com/containers/buildah
+2022-10-07,go,17464,12,A powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2022-10-07,go,3901,18,"Instant, easy, predictable shells and containers.",jetpack-io,devbox,https://github.com/jetpack-io/devbox
+2022-10-07,go,1757,7,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
