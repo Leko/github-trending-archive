@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-09,shell,6716,68,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-10-09,shell,1447,118,A PostgresQL server running in your browser,snaplet,postgres-wasm,https://github.com/snaplet/postgres-wasm
+2022-10-09,shell,3240,13,Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel,haugene,docker-transmission-openvpn,https://github.com/haugene/docker-transmission-openvpn
+2022-10-09,shell,3200,5,install latest or LTS linux kernel and enable BBR or BBR plus,jinwyp,one_click_script,https://github.com/jinwyp/one_click_script
+2022-10-09,shell,150,2,,lroudge,holberton-system_engineering-devops,https://github.com/lroudge/holberton-system_engineering-devops
+2022-10-09,shell,7487,3,"List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",toniblyx,my-arsenal-of-aws-security-tools,https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+2022-10-09,shell,6366,0,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2022-10-09,shell,61431,33,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-10-09,shell,2678,1,Make your pi images smaller!,Drewsif,PiShrink,https://github.com/Drewsif/PiShrink
+2022-10-09,shell,5490,1,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2022-10-09,shell,494,7,Automated Redpill Loader,fbelavenuto,arpl,https://github.com/fbelavenuto/arpl
+2022-10-09,shell,950,9,"Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet",RPiList,specials,https://github.com/RPiList/specials
+2022-10-09,shell,3171,3,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,https://github.com/six2dez/reconftw
+2022-10-09,shell,6629,19,（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2022-10-09,shell,19949,11,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-10-09,shell,6701,8,"Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",Fmstrat,winapps,https://github.com/Fmstrat/winapps
+2022-10-09,shell,1506,0,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2022-10-09,shell,3408,4,"The command-line tool for quick, simple deployment and management of Linux dedicated game servers.",GameServerManagers,LinuxGSM,https://github.com/GameServerManagers/LinuxGSM
+2022-10-09,shell,658,1,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2022-10-09,shell,1424,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2022-10-09,shell,10373,1,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2022-10-09,shell,3490,4,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-10-09,shell,90,8,A simple and direct Revanced Installer script,decipher3114,Revancify,https://github.com/decipher3114/Revancify
+2022-10-09,shell,3416,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-10-09,shell,447,36,"iOS 15.0-15.3.1 tethered checkm8 ""jailbreak"" (rootless is 15.0-15.7 semi-tethered, no tweaks)",palera1n,palera1n,https://github.com/palera1n/palera1n
