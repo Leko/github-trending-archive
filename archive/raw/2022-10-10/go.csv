@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-10,go,10108,86,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2022-10-10,go,14612,9,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-10-10,go,13909,14,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-10-10,go,15387,50,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.  Learn Go by fixing 1000+ tiny programs.",inancgumus,learngo,https://github.com/inancgumus/learngo
+2022-10-10,go,7308,10,基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev Antd 订阅版：https://preview.go-admin.dev,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2022-10-10,go,6964,10,Universal code search (self-hosted),sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2022-10-10,go,18982,11,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-10-10,go,60680,38,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-10-10,go,20844,22,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-10-10,go,26782,19,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2022-10-10,go,8230,3,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2022-10-10,go,4075,13,"A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
+2022-10-10,go,368,69,一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接,Schira4396,VcenterKiller,https://github.com/Schira4396/VcenterKiller
+2022-10-10,go,9392,5,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2022-10-10,go,8291,24,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-10-10,go,857,12,Automating situational awareness for cloud penetration tests.,BishopFox,cloudfox,https://github.com/BishopFox/cloudfox
+2022-10-10,go,31689,37,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-10-10,go,11095,7,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2022-10-10,go,5979,8,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2022-10-10,go,34927,18,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2022-10-10,go,316,4,Merkleized IAVL+ Tree implementation in Go,cosmos,iavl,https://github.com/cosmos/iavl
+2022-10-10,go,13096,10,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2022-10-10,go,39671,29,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-10-10,go,3601,12,"Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-10-10,go,18403,22,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
