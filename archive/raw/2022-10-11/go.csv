@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-11,go,15490,73,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.  Learn Go by fixing 1000+ tiny programs.",inancgumus,learngo,https://github.com/inancgumus/learngo
+2022-10-11,go,9429,22,即时通讯IM,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-10-11,go,31741,57,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-10-11,go,40996,10,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2022-10-11,go,60718,43,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2022-10-11,go,40990,10,A golang ebook intro how to build a web with golang,astaxie,build-web-application-with-golang,https://github.com/astaxie/build-web-application-with-golang
+2022-10-11,go,8302,13,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-10-11,go,7321,14,基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev Antd 订阅版：https://preview.go-admin.dev,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2022-10-11,go,18435,15,Cross platform GUI in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2022-10-11,go,424,56,一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接,Schira4396,VcenterKiller,https://github.com/Schira4396/VcenterKiller
+2022-10-11,go,1813,97,Tools for Go projects,nikolaydubina,go-recipes,https://github.com/nikolaydubina/go-recipes
+2022-10-11,go,39690,20,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-10-11,go,4971,3,An alternative full node bitcoin implementation written in Go (golang),btcsuite,btcd,https://github.com/btcsuite/btcd
+2022-10-11,go,23066,14,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2022-10-11,go,10269,162,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2022-10-11,go,18990,11,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-10-11,go,20862,19,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-10-11,go,11737,13,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2022-10-11,go,873,16,Automating situational awareness for cloud penetration tests.,BishopFox,cloudfox,https://github.com/BishopFox/cloudfox
+2022-10-11,go,1793,2,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
+2022-10-11,go,6781,10,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2022-10-11,go,15954,13,"支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2022-10-11,go,18432,33,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2022-10-11,go,11107,13,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2022-10-11,go,2961,32,Expression language for Go,antonmedv,expr,https://github.com/antonmedv/expr

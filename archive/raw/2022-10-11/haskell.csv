@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-11,haskell,89,14,"I wanted to make a nicer sticker for Munihac, then things got out of hand.",quchen,generative-art,https://github.com/quchen/generative-art
+2022-10-11,haskell,0,0,,upenn-cis5520,06-persistent,https://github.com/upenn-cis5520/06-persistent
+2022-10-11,haskell,2187,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-10-11,haskell,26665,4,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-10-11,haskell,3,0,Project for manipulating Torchlight 2 stashes,fluffynukeit,FNIStash,https://github.com/fluffynukeit/FNIStash
+2022-10-11,haskell,1938,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-10-11,haskell,232,0,A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2022-10-11,haskell,493,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2022-10-11,haskell,2744,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-10-11,haskell,3708,1,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",facebook,duckling,https://github.com/facebook/duckling
+2022-10-11,haskell,168,0,Exercises for the Haskell Beginners 2022 course,haskell-beginners-2022,exercises,https://github.com/haskell-beginners-2022/exercises
+2022-10-11,haskell,5,0,,digital-asset,daml-finance,https://github.com/digital-asset/daml-finance
+2022-10-11,haskell,609,8,Resource gathering + programming game,swarm-game,swarm,https://github.com/swarm-game/swarm
+2022-10-11,haskell,228,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-10-11,haskell,1418,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-10-11,haskell,533,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-10-11,haskell,1103,2,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-10-11,haskell,2809,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-10-11,haskell,283,1,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-10-11,haskell,2140,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-10-11,haskell,4692,1,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-10-11,haskell,158,1,Proof of concept for the Hydra Head protocol,input-output-hk,hydra-poc,https://github.com/input-output-hk/hydra-poc
+2022-10-11,haskell,150,0,"The GHC API, decoupled from GHC versions",digital-asset,ghc-lib,https://github.com/digital-asset/ghc-lib
+2022-10-11,haskell,1279,5,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-10-11,haskell,67,0,A package index for the Haskell ecosystem,flora-pm,flora-server,https://github.com/flora-pm/flora-server
