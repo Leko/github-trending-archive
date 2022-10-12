@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-12,lua,10402,13,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2022-10-12,lua,1034,5,A well configured and structured Neovim.,ayamir,nvimdots,https://github.com/ayamir/nvimdots
+2022-10-12,lua,3903,12,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-10-12,lua,4864,13,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-10-12,lua,2092,11,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-10-12,lua,791,0,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2022-10-12,lua,57,0,Modules to utilise in other resources via imports and exports.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2022-10-12,lua,33054,9,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-10-12,lua,19076,5,A community-driven modular vim/neovim distribution - The ultimate vimrc,SpaceVim,SpaceVim,https://github.com/SpaceVim/SpaceVim
+2022-10-12,lua,1059,2,Show code context,nvim-treesitter,nvim-treesitter-context,https://github.com/nvim-treesitter/nvim-treesitter-context
+2022-10-12,lua,719,3,Official Alpine Linux Docker image. Win at minimalism!,alpinelinux,docker-alpine,https://github.com/alpinelinux/docker-alpine
+2022-10-12,lua,1272,1,The neovim tabline plugin.,romgrk,barbar.nvim,https://github.com/romgrk/barbar.nvim
+2022-10-12,lua,9147,2,Image-to-image translation with conditional adversarial nets,phillipi,pix2pix,https://github.com/phillipi/pix2pix
+2022-10-12,lua,81,14,"A Neovim plugin to help you access JSON values, powered by treesitter",phelipetls,jsonpath.nvim,https://github.com/phelipetls/jsonpath.nvim
+2022-10-12,lua,52,7,,ibhagwan,smartyank.nvim,https://github.com/ibhagwan/smartyank.nvim
+2022-10-12,lua,641,1,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2022-10-12,lua,1965,6,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2022-10-12,lua,186,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2022-10-12,lua,12655,23,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-10-12,lua,604,3,"Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins",marko-cerovac,material.nvim,https://github.com/marko-cerovac/material.nvim
+2022-10-12,lua,99,0,Base framework offering a Lua scriptable environment for creating document readers,koreader,koreader-base,https://github.com/koreader/koreader-base
+2022-10-12,lua,737,6,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest
+2022-10-12,lua,876,2,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2022-10-12,lua,18,0,RCLootCouncil - addon for World of Warcraft,evil-morfar,RCLootCouncil2,https://github.com/evil-morfar/RCLootCouncil2
+2022-10-12,lua,7032,2,Linux system exploration and troubleshooting tool with first class support for containers,draios,sysdig,https://github.com/draios/sysdig
