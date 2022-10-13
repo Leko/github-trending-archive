@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-13,scala,1177,7,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2022-10-13,scala,34090,11,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-10-13,scala,5288,3,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-10-13,scala,1239,3,"Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark",apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-10-13,scala,5808,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-10-13,scala,2731,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-10-13,scala,414,1,"This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language",spark-examples,spark-scala-examples,https://github.com/spark-examples/spark-scala-examples
+2022-10-13,scala,13894,1,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-10-13,scala,5690,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-10-13,scala,2,0,Lift module to plug AWS SNS into your lift application.,jonoabroad,liftmodules-aws-sns,https://github.com/jonoabroad/liftmodules-aws-sns
+2022-10-13,scala,8357,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-10-13,scala,7,0,Opencoin issuer,OpenCoin,opencoin-issuer-scala,https://github.com/OpenCoin/opencoin-issuer-scala
+2022-10-13,scala,37,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",mdedetrich,akka-apache,https://github.com/mdedetrich/akka-apache
+2022-10-13,scala,473,0,Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes,FasterXML,jackson-module-scala,https://github.com/FasterXML/jackson-module-scala
+2022-10-13,scala,460,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-10-13,scala,854,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-10-13,scala,6234,2,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-10-13,scala,0,0,,MansurAshraf,StrangeLoop2012-Analytics,https://github.com/MansurAshraf/StrangeLoop2012-Analytics
+2022-10-13,scala,1781,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-10-13,scala,11052,2,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-10-13,scala,3796,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-10-13,scala,210,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-10-13,scala,2672,1,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-10-13,scala,317,0,A Spark plugin for reading Excel files via Apache POI,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-10-13,scala,0,0,Command line tool to check database connectivity,ftison,jdbctester,https://github.com/ftison/jdbctester

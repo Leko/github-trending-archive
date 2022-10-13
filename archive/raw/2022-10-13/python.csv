@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-13,python,11366,817,Stable Diffusion web UI,AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2022-10-13,python,54994,40,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",ansible,ansible,https://github.com/ansible/ansible
+2022-10-13,python,145,24,Authenticated Remote Command Execution in Gitlab via GitHub import,CsEnox,CVE-2022-2992,https://github.com/CsEnox/CVE-2022-2992
+2022-10-13,python,12978,3,Universal Command Line Interface for Amazon Web Services,aws,aws-cli,https://github.com/aws/aws-cli
+2022-10-13,python,13186,59,A Django content management system focused on flexibility and user experience,wagtail,wagtail,https://github.com/wagtail/wagtail
+2022-10-13,python,6891,26,Multi-user server for Jupyter notebooks,jupyterhub,jupyterhub,https://github.com/jupyterhub/jupyterhub
+2022-10-13,python,1256,80,"An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.",t3l3machus,hoaxshell,https://github.com/t3l3machus/hoaxshell
+2022-10-13,python,935,71,"The official PyTorch implementation of the paper ""Human Motion Diffusion Model""",GuyTevet,motion-diffusion-model,https://github.com/GuyTevet/motion-diffusion-model
+2022-10-13,python,3105,4,Data loaders and abstractions for text and NLP,pytorch,text,https://github.com/pytorch/text
+2022-10-13,python,25350,32,"Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",PaddlePaddle,PaddleOCR,https://github.com/PaddlePaddle/PaddleOCR
+2022-10-13,python,126192,50,Python - 100天从新手到大师,jackfrued,Python-100-Days,https://github.com/jackfrued/Python-100-Days
+2022-10-13,python,5202,3,Official Python client library for kubernetes,kubernetes-client,python,https://github.com/kubernetes-client/python
+2022-10-13,python,453,43,"Minimal, no-JS web forum software",Demindiro,agreper,https://github.com/Demindiro/agreper
+2022-10-13,python,9615,9,Freeze (package) Python programs into stand-alone executables,pyinstaller,pyinstaller,https://github.com/pyinstaller/pyinstaller
+2022-10-13,python,15678,21,"30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",Asabeneh,30-Days-Of-Python,https://github.com/Asabeneh/30-Days-Of-Python
+2022-10-13,python,9829,26,"Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)",PaddlePaddle,PaddleHub,https://github.com/PaddlePaddle/PaddleHub
+2022-10-13,python,199641,115,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer
+2022-10-13,python,2508,9,OpenMMLab Pose Estimation Toolbox and Benchmark.,open-mmlab,mmpose,https://github.com/open-mmlab/mmpose
+2022-10-13,python,105,16,"[NeurIPS22] ""Advancing Model Pruning via Bi-level Optimization"" by Yihua Zhang*, Yuguang Yao*, Parikshit Ram, Pu Zhao, Tianlong Chen, Mingyi Hong, Yanzhi Wang, and Sijia Liu",OPTML-Group,BiP,https://github.com/OPTML-Group/BiP
+2022-10-13,python,14202,4,Best Practices on Recommendation Systems,microsoft,recommenders,https://github.com/microsoft/recommenders
+2022-10-13,python,3658,5,"MMEditing is a low-level vision toolbox based on PyTorch, supporting super-resolution, inpainting, matting, video interpolation, etc.",open-mmlab,mmediting,https://github.com/open-mmlab/mmediting
+2022-10-13,python,14998,11,Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.,facebook,prophet,https://github.com/facebook/prophet
+2022-10-13,python,856,0,Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!,demisto,content,https://github.com/demisto/content
+2022-10-13,python,1869,29,"FedML - The federated learning and analytics library enabling secure and collaborative machine learning on decentralized data anywhere at any scale. Supporting large-scale cross-silo federated learning, cross-device federated learning on smartphones/IoTs, and research simulation. MLOps and App Marketplace are also enabled (https://open.fedml.ai).",FedML-AI,FedML,https://github.com/FedML-AI/FedML
+2022-10-13,python,7937,10,"DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",microsoft,DeepSpeed,https://github.com/microsoft/DeepSpeed
