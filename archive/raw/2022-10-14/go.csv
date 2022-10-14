@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-14,go,12597,55,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-10-14,go,2464,43,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-10-14,go,3632,6,Confluent's Apache Kafka Golang client,confluentinc,confluent-kafka-go,https://github.com/confluentinc/confluent-kafka-go
+2022-10-14,go,15540,11,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-10-14,go,3634,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-10-14,go,16927,8,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-10-14,go,4611,8,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2022-10-14,go,31617,16,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2022-10-14,go,6397,3,Lightning Network Daemon,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2022-10-14,go,7424,21,基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev Antd 订阅版：https://preview.go-admin.dev,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2022-10-14,go,1707,11,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2022-10-14,go,31197,20,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2022-10-14,go,12066,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-10-14,go,5180,8,A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.,cloudwego,kitex,https://github.com/cloudwego/kitex
+2022-10-14,go,2619,10,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2022-10-14,go,4187,8,"Golang client for NATS, the cloud native messaging system.",nats-io,nats.go,https://github.com/nats-io/nats.go
+2022-10-14,go,14290,13,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-10-14,go,6748,6,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-10-14,go,13221,10,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-10-14,go,104663,44,The Go programming language,golang,go,https://github.com/golang/go
+2022-10-14,go,8279,6,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2022-10-14,go,12263,9,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-10-14,go,9889,6,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-10-14,go,1639,5,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2022-10-14,go,7073,10,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
