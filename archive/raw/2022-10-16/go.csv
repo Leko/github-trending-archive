@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-16,go,2529,7,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-10-16,go,19522,19,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2022-10-16,go,9392,8,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2022-10-16,go,11688,6,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-10-16,go,92904,28,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-10-16,go,72,18,"EvHub supports the distribution of delayed, transaction, real-time and cyclic events. It is used in scenarios such as system decoupling, asynchronous calling and distributed transactions.",tencentmusic,evhub,https://github.com/tencentmusic/evhub
+2022-10-16,go,15564,7,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-10-16,go,43706,22,Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-10-16,go,2380,5,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",grafana,tempo,https://github.com/grafana/tempo
+2022-10-16,go,10917,8,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-10-16,go,1642,0,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2022-10-16,go,2629,5,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2022-10-16,go,25500,7,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-10-16,go,10213,11,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-10-16,go,20950,8,Easily and securely send things from one computer to another,schollz,croc,https://github.com/schollz/croc
+2022-10-16,go,19239,14,Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2022-10-16,go,6761,6,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-10-16,go,8293,4,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2022-10-16,go,7415,6,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2022-10-16,go,25995,5,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-10-16,go,29998,11,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-10-16,go,11192,4,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2022-10-16,go,14307,9,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-10-16,go,6587,8,Concourse is a container-based continuous thing-doer written in Go.,concourse,concourse,https://github.com/concourse/concourse
+2022-10-16,go,44819,18,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus

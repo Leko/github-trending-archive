@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-16,haskell,26705,4,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-10-16,haskell,30186,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-10-16,haskell,1754,1,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-10-16,haskell,7577,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-10-16,haskell,5,0,Simple time tracker,divarvel,hammertime,https://github.com/divarvel/hammertime
+2022-10-16,haskell,6,0,,Liqwid-Labs,liqwid-plutarch-extra,https://github.com/Liqwid-Labs/liqwid-plutarch-extra
+2022-10-16,haskell,63,0,Marlowe smart contract language Cardano implementation,input-output-hk,marlowe-cardano,https://github.com/input-output-hk/marlowe-cardano
+2022-10-16,haskell,229,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-10-16,haskell,1924,2,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-10-16,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-10-16,haskell,686,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-10-16,haskell,3,0,Project for manipulating Torchlight 2 stashes,fluffynukeit,FNIStash,https://github.com/fluffynukeit/FNIStash
+2022-10-16,haskell,237,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-10-16,haskell,1410,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-10-16,haskell,2194,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-10-16,haskell,2523,2,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
+2022-10-16,haskell,15,0,"Haskell's IO simulator which closely follows core packages (base, async, stm).",input-output-hk,io-sim,https://github.com/input-output-hk/io-sim
+2022-10-16,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-10-16,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-10-16,haskell,12,0,A protolude-based custom prelude for the Cardano project,input-output-hk,cardano-prelude,https://github.com/input-output-hk/cardano-prelude
+2022-10-16,haskell,46,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-10-16,haskell,234,0,A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2022-10-16,haskell,72,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-10-16,haskell,178,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-10-16,haskell,1107,0,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
