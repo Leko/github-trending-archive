@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-18,lua,3577,25,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-10-18,lua,7499,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-10-18,lua,3441,7,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2022-10-18,lua,1092,3,Certain anime game Repacked Resource from Multiple Sources,tamilpp25,Grasscutter_Resources,https://github.com/tamilpp25/Grasscutter_Resources
+2022-10-18,lua,11512,9,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-10-18,lua,4267,8,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-10-18,lua,3954,10,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-10-18,lua,2623,7,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-10-18,lua,378,6,nvim-cmp source for neovim builtin LSP client,hrsh7th,cmp-nvim-lsp,https://github.com/hrsh7th/cmp-nvim-lsp
+2022-10-18,lua,11013,18,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-10-18,lua,2180,11,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-10-18,lua,5798,12,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-10-18,lua,1753,7,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2022-10-18,lua,1387,6,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-10-18,lua,12763,14,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-10-18,lua,582,2,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
+2022-10-18,lua,961,9,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
+2022-10-18,lua,700,1,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-10-18,lua,1366,2,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-10-18,lua,764,1,My configuration files and tools,tjdevries,config_manager,https://github.com/tjdevries/config_manager
+2022-10-18,lua,188,1,Official Repo For ESX-Legacy,esx-framework,esx-legacy,https://github.com/esx-framework/esx-legacy
+2022-10-18,lua,1189,3,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2022-10-18,lua,33,0,Slot Based Inventory System Used With QB-Core,qbcore-framework,qb-inventory,https://github.com/qbcore-framework/qb-inventory
+2022-10-18,lua,1737,3,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-10-18,lua,719,4,"CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a  COSMIC programming experience!",CosmicNvim,CosmicNvim,https://github.com/CosmicNvim/CosmicNvim

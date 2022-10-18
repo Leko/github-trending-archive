@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-18,go,1808,470,The modern PHP app server,dunglas,frankenphp,https://github.com/dunglas/frankenphp
+2022-10-18,go,3454,4,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-10-18,go,31987,46,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-10-18,go,13187,15,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2022-10-18,go,807,33,"Dragonfly is an intelligent P2P based image and file distribution system, it also provides a variety of enterprise-level (efficiency, stability, safety, low-cost) product features.",dragonflyoss,Dragonfly2,https://github.com/dragonflyoss/Dragonfly2
+2022-10-18,go,5244,46,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2022-10-18,go,1262,11,基于 ZeroBot 的 OneBot 插件,FloatTech,ZeroBot-Plugin,https://github.com/FloatTech/ZeroBot-Plugin
+2022-10-18,go,3332,42,A goroutine pool for Go,Jeffail,tunny,https://github.com/Jeffail/tunny
+2022-10-18,go,40597,13,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2022-10-18,go,12196,25,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2022-10-18,go,47177,19,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-10-18,go,7720,17,"Manage your dotfiles across multiple diverse machines, securely.",twpayne,chezmoi,https://github.com/twpayne/chezmoi
+2022-10-18,go,6522,14,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2022-10-18,go,89572,53,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-10-18,go,3255,6,"A high performance NoSQL database based on bitcask, supports string, list, hash, set, and sorted set.",flower-corp,rosedb,https://github.com/flower-corp/rosedb
+2022-10-18,go,9349,11,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2022-10-18,go,15630,18,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2022-10-18,go,7691,6,Information gathering & OSINT framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2022-10-18,go,3350,5,"Self-hosted, lightweight server and website monitoring and O&M tool",naiba,nezha,https://github.com/naiba/nezha
+2022-10-18,go,6601,6,Concourse is a container-based continuous thing-doer written in Go.,concourse,concourse,https://github.com/concourse/concourse
+2022-10-18,go,1734,62,A censorship circumvention tool to evade detection by authoritarian state adversaries,cbeuw,Cloak,https://github.com/cbeuw/Cloak
+2022-10-18,go,3879,5,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2022-10-18,go,70,18,An extremely simple Golang-based in-memory KV store that speaks the Redis dialect.,DiceDB,dice,https://github.com/DiceDB/dice
+2022-10-18,go,119,11,,zapellass123,Golang-Project,https://github.com/zapellass123/Golang-Project
+2022-10-18,go,4576,1,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
