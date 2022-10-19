@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-19,go,2027,270,The modern PHP app server,dunglas,frankenphp,https://github.com/dunglas/frankenphp
+2022-10-19,go,6142,19,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-10-19,go,3201,5,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2022-10-19,go,32791,30,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2022-10-19,go,3354,23,A goroutine pool for Go,Jeffail,tunny,https://github.com/Jeffail/tunny
+2022-10-19,go,9313,15,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2022-10-19,go,29071,22,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-10-19,go,63664,28,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-10-19,go,19145,9,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-10-19,go,2729,39,Fast file synchronization and network forwarding for remote development,mutagen-io,mutagen,https://github.com/mutagen-io/mutagen
+2022-10-19,go,86,15,An extremely simple Golang-based in-memory KV store that speaks the Redis dialect.,DiceDB,dice,https://github.com/DiceDB/dice
+2022-10-19,go,824,17,"Dragonfly is an intelligent P2P based image and file distribution system, it also provides a variety of enterprise-level (efficiency, stability, safety, low-cost) product features.",dragonflyoss,Dragonfly2,https://github.com/dragonflyoss/Dragonfly2
+2022-10-19,go,7818,4,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-10-19,go,23177,13,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2022-10-19,go,19964,12,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-10-19,go,1819,2,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2022-10-19,go,12081,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-10-19,go,3482,17,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2022-10-19,go,11225,18,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2022-10-19,go,17548,6,A powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2022-10-19,go,13259,16,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-10-19,go,32594,11,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2022-10-19,go,5873,8,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2022-10-19,go,14332,10,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-10-19,go,12411,9,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
