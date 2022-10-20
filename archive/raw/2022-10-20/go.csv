@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-20,go,360,121,Just Another Video Tube SDK in Golang.,javtube,javtube-sdk-go,https://github.com/javtube/javtube-sdk-go
+2022-10-20,go,9972,38,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-10-20,go,6153,12,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-10-20,go,9463,37,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2022-10-20,go,12087,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-10-20,go,3950,4,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2022-10-20,go,11877,3,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-10-20,go,6569,8,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",patrickmn,go-cache,https://github.com/patrickmn/go-cache
+2022-10-20,go,157,6,A repo which compares the speed of different programming languages.,niklas-heer,speed-comparison,https://github.com/niklas-heer/speed-comparison
+2022-10-20,go,14012,16,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-10-20,go,19973,9,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-10-20,go,8000,6,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2022-10-20,go,7823,5,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-10-20,go,24967,5,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-10-20,go,96,10,An extremely simple Golang-based in-memory KV store that speaks the Redis dialect.,DiceDB,dice,https://github.com/DiceDB/dice
+2022-10-20,go,9484,4,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2022-10-20,go,4464,3,The official Go client for Elasticsearch,elastic,go-elasticsearch,https://github.com/elastic/go-elasticsearch
+2022-10-20,go,17357,18,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-10-20,go,16957,11,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-10-20,go,23641,19,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2022-10-20,go,15634,20,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-10-20,go,3490,8,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2022-10-20,go,7712,6,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2022-10-20,go,64282,18,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-10-20,go,4929,6,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware

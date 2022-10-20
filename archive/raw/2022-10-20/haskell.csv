@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-20,haskell,7594,6,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-10-20,haskell,1290,4,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-10-20,haskell,30226,14,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-10-20,haskell,0,0,HackSoc FUN,qlkzy,hacksoc-fun,https://github.com/qlkzy/hacksoc-fun
+2022-10-20,haskell,3640,3,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-10-20,haskell,0,0,Simula operaciones de memoria y caché a partir de datos extraídos de sesiones GAP,jsoffer,gapsim,https://github.com/jsoffer/gapsim
+2022-10-20,haskell,2817,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-10-20,haskell,2160,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-10-20,haskell,1936,5,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-10-20,haskell,688,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-10-20,haskell,7,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2022-10-20,haskell,26738,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-10-20,haskell,1761,2,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-10-20,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-10-20,haskell,998,1,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2022-10-20,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-10-20,haskell,2196,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-10-20,haskell,2475,2,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-10-20,haskell,229,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-10-20,haskell,19324,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-10-20,haskell,7864,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-10-20,haskell,0,0,Random examples in diagrams.,fryguybob,diagrams-examples,https://github.com/fryguybob/diagrams-examples
+2022-10-20,haskell,831,1,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-10-20,haskell,3789,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-10-20,haskell,745,0,Dataflow programming and declarative concurrency,composewell,streamly,https://github.com/composewell/streamly

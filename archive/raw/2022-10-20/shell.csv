@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-20,shell,6796,7,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-10-20,shell,69669,23,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",gothinkster,realworld,https://github.com/gothinkster/realworld
+2022-10-20,shell,6961,12,Some setup scripts for security research tools.,zardus,ctf-tools,https://github.com/zardus/ctf-tools
+2022-10-20,shell,781,7,以Xray或v2ray（V4）、trojan或trojan-go、naiveproxy、hysteria等打造科学上网的优化配置及最优组合示例，且提供集成常用插件的caddy（caddy2）程序，分享给大家食用及自己备份。,lxhao61,integrated-examples,https://github.com/lxhao61/integrated-examples
+2022-10-20,shell,1594,2,Apache Kafka and Confluent Platform examples and demos,confluentinc,examples,https://github.com/confluentinc/examples
+2022-10-20,shell,1524,3,"Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management",Security-Onion-Solutions,securityonion,https://github.com/Security-Onion-Solutions/securityonion
+2022-10-20,shell,14038,7,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2022-10-20,shell,6302,0,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2022-10-20,shell,5686,2,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2022-10-20,shell,61750,29,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-10-20,shell,232,5,S.U.P.E.R.M.A.N. optimizes the macOS software update experience.,Macjutsu,super,https://github.com/Macjutsu/super
+2022-10-20,shell,3924,1,A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-10-20,shell,661,0,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2022-10-20,shell,3436,4,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-10-20,shell,3216,1,"A sample MySQL database with an integrated test suite, used to test your applications and database servers",datacharmer,test_db,https://github.com/datacharmer/test_db
+2022-10-20,shell,7096,10,Rust explained using easy English,Dhghomon,easy_rust,https://github.com/Dhghomon/easy_rust
+2022-10-20,shell,3542,33,Soothing pastel theme for the high-spirited!,catppuccin,catppuccin,https://github.com/catppuccin/catppuccin
+2022-10-20,shell,98,8,Collection of Canadian tech internships,Queen-s-COMPSA,Canadian-Tech-Internships-2023,https://github.com/Queen-s-COMPSA/Canadian-Tech-Internships-2023
+2022-10-20,shell,402,2,,vcheckzen,KeepAliveE5,https://github.com/vcheckzen/KeepAliveE5
+2022-10-20,shell,205,0,,kj89,testnet_manuals,https://github.com/kj89/testnet_manuals
+2022-10-20,shell,5035,6,Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update),SuLingGG,OpenWrt-Rpi,https://github.com/SuLingGG/OpenWrt-Rpi
+2022-10-20,shell,9398,9,超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西,skywind3000,awesome-cheatsheets,https://github.com/skywind3000/awesome-cheatsheets
+2022-10-20,shell,2111,3,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-10-20,shell,8672,3,"Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",spinnaker,spinnaker,https://github.com/spinnaker/spinnaker
+2022-10-20,shell,331,1,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
