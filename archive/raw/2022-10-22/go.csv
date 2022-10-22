@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-22,go,35872,78,Multi-Cloud  Object Storage,minio,minio,https://github.com/minio/minio
+2022-10-22,go,3443,11,Linux OS for Azure 1P services and edge appliances,microsoft,CBL-Mariner,https://github.com/microsoft/CBL-Mariner
+2022-10-22,go,64335,31,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-10-22,go,20038,30,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-10-22,go,11922,31,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-10-22,go,7936,6,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-10-22,go,7518,21,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2022-10-22,go,19511,14,A Go microservices framework,go-micro,go-micro,https://github.com/go-micro/go-micro
+2022-10-22,go,4952,7,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2022-10-22,go,31678,14,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2022-10-22,go,10042,16,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-10-22,go,1759,3,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2022-10-22,go,18278,20,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2022-10-22,go,13999,20,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-10-22,go,8016,6,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2022-10-22,go,32643,13,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2022-10-22,go,10439,8,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2022-10-22,go,6366,9,Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2022-10-22,go,12703,4,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2022-10-22,go,4488,17,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
+2022-10-22,go,3066,4,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2022-10-22,go,6780,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-10-22,go,5553,11,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2022-10-22,go,5488,13,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2022-10-22,go,6741,9,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero

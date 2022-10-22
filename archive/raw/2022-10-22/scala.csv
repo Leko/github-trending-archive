@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-22,scala,1257,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-10-22,scala,5308,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-10-22,scala,2757,2,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-10-22,scala,34168,7,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-10-22,scala,2386,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-10-22,scala,62,3,A Chisel RTL generator for network-on-chip interconnects,ucb-bar,constellation,https://github.com/ucb-bar/constellation
+2022-10-22,scala,5816,1,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-10-22,scala,3806,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-10-22,scala,0,0,A hello world project with Scala 3.2.0 and sbt,se-tuebingen-exercises,helloworld,https://github.com/se-tuebingen-exercises/helloworld
+2022-10-22,scala,5,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-10-22,scala,8,0,,yanns,play2-scala-DI,https://github.com/yanns/play2-scala-DI
+2022-10-22,scala,114,0,RISC-V Torture Test,ucb-bar,riscv-torture,https://github.com/ucb-bar/riscv-torture
+2022-10-22,scala,7,0,Tools for integrating DspTools components into a rocket-chip,ucb-bar,rocket-dsp-utils,https://github.com/ucb-bar/rocket-dsp-utils
+2022-10-22,scala,2,0,Wrapper for lowRISC Ibex,ucb-bar,ibex-wrapper,https://github.com/ucb-bar/ibex-wrapper
+2022-10-22,scala,55,0,,ucb-bar,testchipip,https://github.com/ucb-bar/testchipip
+2022-10-22,scala,2,0,An RTL generator for a last-level shared inclusive TileLink cache controller,chipsalliance,rocket-chip-inclusive-cache,https://github.com/chipsalliance/rocket-chip-inclusive-cache
+2022-10-22,scala,171,0,A Library of Chisel3 Tools for Digital Signal Processing,ucb-bar,dsptools,https://github.com/ucb-bar/dsptools
+2022-10-22,scala,108,0,Microarchitecture implementation of the decoupled vector-fetch accelerator,ucb-bar,hwacha,https://github.com/ucb-bar/hwacha
+2022-10-22,scala,4,0,,ucb-bar,FFTGenerator,https://github.com/ucb-bar/FFTGenerator
+2022-10-22,scala,17,0,Wrapper for ETH Ariane Core,ucb-bar,cva6-wrapper,https://github.com/ucb-bar/cva6-wrapper
+2022-10-22,scala,527,0,educational microarchitectures for risc-v isa,ucb-bar,riscv-sodor,https://github.com/ucb-bar/riscv-sodor
+2022-10-22,scala,2495,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-10-22,scala,186,0,,ucb-bar,berkeley-hardfloat,https://github.com/ucb-bar/berkeley-hardfloat
+2022-10-22,scala,1871,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-10-22,scala,1667,1,深圳地铁大数据客流分析系统,geekyouth,SZT-bigdata,https://github.com/geekyouth/SZT-bigdata

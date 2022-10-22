@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-22,rust,4270,84,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-10-22,rust,1528,146,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2022-10-22,rust,1927,72,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-10-22,rust,226,31,Project Sparrow: KataOS,AmbiML,sparrow-kata,https://github.com/AmbiML/sparrow-kata
+2022-10-22,rust,632,23,The fast sync and async channel that Rust deserves,fereidani,kanal,https://github.com/fereidani/kanal
+2022-10-22,rust,1089,15,Delicately-TUICed high-performance proxy built on top of the QUIC protocol,EAimTY,tuic,https://github.com/EAimTY/tuic
+2022-10-22,rust,1947,34,"PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.",postgresml,postgresml,https://github.com/postgresml/postgresml
+2022-10-22,rust,11297,50,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2022-10-22,rust,846,51,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2022-10-22,rust,2577,8,"Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.",build-trust,ockam,https://github.com/build-trust/ockam
+2022-10-22,rust,3367,4,RisingWave: the next-generation streaming database in the cloud.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2022-10-22,rust,7165,8,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
+2022-10-22,rust,6194,11,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
+2022-10-22,rust,4503,11,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-10-22,rust,30413,48,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-10-22,rust,273,22,Distributed systems runtime daemon written in Rust.,aurae-runtime,aurae,https://github.com/aurae-runtime/aurae
+2022-10-22,rust,319,6,Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.,DeGatchi,mev-template-rs,https://github.com/DeGatchi/mev-template-rs
+2022-10-22,rust,185,14,Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.,krtab,agnos,https://github.com/krtab/agnos
+2022-10-22,rust,1177,17,,move-language,move,https://github.com/move-language/move
+2022-10-22,rust,4775,14,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2022-10-22,rust,961,13,Rust implementation of Zeeka protocol,zeeka-network,bazuka,https://github.com/zeeka-network/bazuka
+2022-10-22,rust,3031,7,Automatically generates Rust FFI bindings to C (and some C++) libraries.,rust-lang,rust-bindgen,https://github.com/rust-lang/rust-bindgen
+2022-10-22,rust,24604,24,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2022-10-22,rust,2591,3,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-10-22,rust,11503,12,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
