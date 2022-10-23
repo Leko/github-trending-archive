@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-23,go,27098,54,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2022-10-23,go,5513,5,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2022-10-23,go,2025,3,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,cloudwego,hertz,https://github.com/cloudwego/hertz
+2022-10-23,go,104981,32,The Go programming language,golang,go,https://github.com/golang/go
+2022-10-23,go,20066,30,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-10-23,go,5712,2,A tool that facilitates building OCI images.,containers,buildah,https://github.com/containers/buildah
+2022-10-23,go,5191,22,Build and deploy Go applications on Kubernetes,ko-build,ko,https://github.com/ko-build/ko
+2022-10-23,go,3750,22,"Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-10-23,go,63776,23,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-10-23,go,277,23,"NuxUI is Golang GUI SDK for IOS, Android, macOS, Windows, Linux",nuxui,nuxui,https://github.com/nuxui/nuxui
+2022-10-23,go,5945,8,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2022-10-23,go,7005,12,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-10-23,go,1762,4,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2022-10-23,go,9574,4,"Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",future-architect,vuls,https://github.com/future-architect/vuls
+2022-10-23,go,35926,55,Multi-Cloud  Object Storage,minio,minio,https://github.com/minio/minio
+2022-10-23,go,11831,7,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2022-10-23,go,17910,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-10-23,go,7938,2,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-10-23,go,6923,31,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2022-10-23,go,14008,10,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-10-23,go,2854,6,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2022-10-23,go,3066,0,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2022-10-23,go,4498,11,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
+2022-10-23,go,22895,8,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-10-23,go,19098,10,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos

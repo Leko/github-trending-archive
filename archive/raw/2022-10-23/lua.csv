@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-23,lua,5091,48,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-10-23,lua,4326,13,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-10-23,lua,1182,30,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2022-10-23,lua,2168,6,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-10-23,lua,5847,15,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-10-23,lua,817,2,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2022-10-23,lua,1385,5,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-10-23,lua,11176,39,An IDE layer for Neovim with sane defaults. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-10-23,lua,469,3,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2022-10-23,lua,1095,7,A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.,simrat39,symbols-outline.nvim,https://github.com/simrat39/symbols-outline.nvim
+2022-10-23,lua,618,1,"One dark and light colorscheme for neovim >= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles",navarasu,onedark.nvim,https://github.com/navarasu/onedark.nvim
+2022-10-23,lua,1691,6,Neovim motions on speed!,phaazon,hop.nvim,https://github.com/phaazon/hop.nvim
+2022-10-23,lua,2240,10,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-10-23,lua,706,1,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-10-23,lua,7559,19,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-10-23,lua,1633,2,"A fancy, configurable, notification manager for NeoVim",rcarriga,nvim-notify,https://github.com/rcarriga/nvim-notify
+2022-10-23,lua,148,2,User Interface replacement AddOn for World of Warcraft.,tukui-org,ElvUI,https://github.com/tukui-org/ElvUI
+2022-10-23,lua,1535,8,Soothing pastel theme for Neovim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2022-10-23,lua,1002,8,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
+2022-10-23,lua,2246,4,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2022-10-23,lua,647,2,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2022-10-23,lua,7047,2,Linux system exploration and troubleshooting tool with first class support for containers,draios,sysdig,https://github.com/draios/sysdig
+2022-10-23,lua,438,2,Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls,mfussenegger,nvim-jdtls,https://github.com/mfussenegger/nvim-jdtls
+2022-10-23,lua,1450,1,,ThePrimeagen,.dotfiles,https://github.com/ThePrimeagen/.dotfiles
+2022-10-23,lua,1731,7,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
