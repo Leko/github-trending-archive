@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-24,scala,9030,1,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-10-24,scala,12238,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-10-24,scala,5312,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-10-24,scala,3597,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-10-24,scala,12134,2,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-10-24,scala,34185,7,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-10-24,scala,5,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-10-24,scala,8361,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-10-24,scala,44,3,lightweight android bitcoin and lightning wallet,nbd-wtf,obw,https://github.com/nbd-wtf/obw
+2022-10-24,scala,715,0,Mirror of Apache livy (Incubating),apache,incubator-livy,https://github.com/apache/incubator-livy
+2022-10-24,scala,2341,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2022-10-24,scala,8769,1,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-10-24,scala,62,0,A Chisel RTL generator for network-on-chip interconnects,ucb-bar,constellation,https://github.com/ucb-bar/constellation
+2022-10-24,scala,2551,1,A simple client for Android,xxf098,shadowsocksr-v2ray-trojan-android,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+2022-10-24,scala,2714,0,"Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",apache,incubator-linkis,https://github.com/apache/incubator-linkis
+2022-10-24,scala,2388,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-10-24,scala,12521,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-10-24,scala,34,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2022-10-24,scala,3808,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-10-24,scala,591,0,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-10-24,scala,2,0,RTL blocks compatible with the Rocket Chip Generator,chipsalliance,rocket-chip-blocks,https://github.com/chipsalliance/rocket-chip-blocks
+2022-10-24,scala,7,0,Tools for integrating DspTools components into a rocket-chip,ucb-bar,rocket-dsp-utils,https://github.com/ucb-bar/rocket-dsp-utils
+2022-10-24,scala,4,0,,ucb-bar,FFTGenerator,https://github.com/ucb-bar/FFTGenerator
+2022-10-24,scala,2,0,Wrapper for lowRISC Ibex,ucb-bar,ibex-wrapper,https://github.com/ucb-bar/ibex-wrapper
+2022-10-24,scala,17,0,Wrapper for ETH Ariane Core,ucb-bar,cva6-wrapper,https://github.com/ucb-bar/cva6-wrapper
