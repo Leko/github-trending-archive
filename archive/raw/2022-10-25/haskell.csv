@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-25,haskell,0,0,,upenn-cis5520,08-monads,https://github.com/upenn-cis5520/08-monads
+2022-10-25,haskell,2824,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-10-25,haskell,2199,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-10-25,haskell,2173,5,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-10-25,haskell,1306,7,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-10-25,haskell,300,2,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-10-25,haskell,229,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-10-25,haskell,832,1,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-10-25,haskell,29,0,Haskell homework tests,NelosG,fp-tests,https://github.com/NelosG/fp-tests
+2022-10-25,haskell,6975,3,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-10-25,haskell,238,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-10-25,haskell,111,1,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-10-25,haskell,19349,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-10-25,haskell,9,0,"🕮 WIP — view and generate static websites from your Org files. Built with focus on being customizable, robust and compatible with org-roam. For an overview of current development, see the link below.",lucasvreis,organon,https://github.com/lucasvreis/organon
+2022-10-25,haskell,2477,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-10-25,haskell,26767,7,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-10-25,haskell,7617,6,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-10-25,haskell,7873,3,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-10-25,haskell,4654,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-10-25,haskell,538,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-10-25,haskell,1120,6,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-10-25,haskell,54,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2022-10-25,haskell,8,0,Genetic Algorithm based randomized testing,input-output-hk,goblins,https://github.com/input-output-hk/goblins
+2022-10-25,haskell,5,0,,digital-asset,daml-finance,https://github.com/digital-asset/daml-finance
+2022-10-25,haskell,51,0,Principled and efficient binary serialization,Quid2,flat,https://github.com/Quid2/flat
