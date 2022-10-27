@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-27,shell,15900,30,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-10-27,shell,4330,1,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2022-10-27,shell,6320,2,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2022-10-27,shell,151569,55,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-10-27,shell,28406,7,".files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles
+2022-10-27,shell,8012,10,Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本,wulabing,Xray_onekey,https://github.com/wulabing/Xray_onekey
+2022-10-27,shell,7990,12,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2022-10-27,shell,559,4,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2022-10-27,shell,6378,4,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2022-10-27,shell,5547,0,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2022-10-27,shell,7254,7,Hackintosh long-term maintenance model EFI and installation tutorial,daliansky,Hackintosh,https://github.com/daliansky/Hackintosh
+2022-10-27,shell,31997,34,A Zsh theme,romkatv,powerlevel10k,https://github.com/romkatv/powerlevel10k
+2022-10-27,shell,6817,4,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-10-27,shell,4666,2,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2022-10-27,shell,3256,6,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,https://github.com/six2dez/reconftw
+2022-10-27,shell,61937,31,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-10-27,shell,2424,31,,LSPosed,MagiskOnWSALocal,https://github.com/LSPosed/MagiskOnWSALocal
+2022-10-27,shell,3418,3,This tool is used to install `pyenv` and friends.,pyenv,pyenv-installer,https://github.com/pyenv/pyenv-installer
+2022-10-27,shell,185,1,,microverseinc,linters-config,https://github.com/microverseinc/linters-config
+2022-10-27,shell,3513,21,"A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.",getumbrel,umbrel,https://github.com/getumbrel/umbrel
+2022-10-27,shell,757,4,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2022-10-27,shell,10552,7,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2022-10-27,shell,17020,14,最好用的 V2Ray 一键安装脚本 & 管理脚本,233boy,v2ray,https://github.com/233boy/v2ray
+2022-10-27,shell,2914,13,Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox,89luca89,distrobox,https://github.com/89luca89/distrobox
+2022-10-27,shell,1053,3,"My custom build of wine, made to use with lutris. Built with lutris's buildbot.",GloriousEggroll,wine-ge-custom,https://github.com/GloriousEggroll/wine-ge-custom

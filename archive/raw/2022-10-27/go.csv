@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-27,go,1820,385,"An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.",answerdev,answer,https://github.com/answerdev/answer
+2022-10-27,go,3597,141,Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.,tenable,terrascan,https://github.com/tenable/terrascan
+2022-10-27,go,378,61,The missing UI for Helm - visualize your releases,komodorio,helm-dashboard,https://github.com/komodorio/helm-dashboard
+2022-10-27,go,1724,29,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2022-10-27,go,27598,90,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2022-10-27,go,6140,41,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2022-10-27,go,30113,23,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-10-27,go,45027,39,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-10-27,go,3220,14,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-10-27,go,163,16,CLI for deploying web applications to AWS Lambda,themsaid,hover,https://github.com/themsaid/hover
+2022-10-27,go,6358,25,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2022-10-27,go,3650,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-10-27,go,3808,25,"Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",HyNetwork,hysteria,https://github.com/HyNetwork/hysteria
+2022-10-27,go,1190,36,Simple golang library for retry mechanism,avast,retry-go,https://github.com/avast/retry-go
+2022-10-27,go,39908,15,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-10-27,go,6020,14,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2022-10-27,go,953,9,"High-performance, statless, declarative, API Gateway written in Go.",krakendio,krakend-ce,https://github.com/krakendio/krakend-ce
+2022-10-27,go,9111,8,Vulnerability Static Analysis for Containers,quay,clair,https://github.com/quay/clair
+2022-10-27,go,3085,3,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-10-27,go,16161,25,"支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2022-10-27,go,4411,12,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-10-27,go,18006,41,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-10-27,go,11912,19,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",FiloSottile,age,https://github.com/FiloSottile/age
+2022-10-27,go,14379,9,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-10-27,go,3081,5,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
