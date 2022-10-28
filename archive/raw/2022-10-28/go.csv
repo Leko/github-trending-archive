@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-28,go,2528,705,"An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.",answerdev,answer,https://github.com/answerdev/answer
+2022-10-28,go,18033,21,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-10-28,go,30150,32,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-10-28,go,15725,16,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-10-28,go,3659,63,Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.,tenable,terrascan,https://github.com/tenable/terrascan
+2022-10-28,go,105178,70,The Go programming language,golang,go,https://github.com/golang/go
+2022-10-28,go,12117,7,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-10-28,go,3087,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2022-10-28,go,1215,25,Simple golang library for retry mechanism,avast,retry-go,https://github.com/avast/retry-go
+2022-10-28,go,7124,12,"Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.",kubescape,kubescape,https://github.com/kubescape/kubescape
+2022-10-28,go,6028,9,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2022-10-28,go,3066,12,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2022-10-28,go,3225,6,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-10-28,go,32949,20,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2022-10-28,go,3625,4,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2022-10-28,go,4607,4,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2022-10-28,go,2483,4,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2022-10-28,go,500,125,The missing UI for Helm - visualize your releases,komodorio,helm-dashboard,https://github.com/komodorio/helm-dashboard
+2022-10-28,go,33718,14,An extremely fast JavaScript and CSS bundler and minifier,evanw,esbuild,https://github.com/evanw/esbuild
+2022-10-28,go,5385,6,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2022-10-28,go,11234,12,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2022-10-28,go,89996,55,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-10-28,go,23784,19,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2022-10-28,go,26073,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-10-28,go,6177,39,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
