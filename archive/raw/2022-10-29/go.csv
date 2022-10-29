@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-29,go,3001,478,"An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.",answerdev,answer,https://github.com/answerdev/answer
+2022-10-29,go,2274,93,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,cloudwego,hertz,https://github.com/cloudwego/hertz
+2022-10-29,go,105230,50,The Go programming language,golang,go,https://github.com/golang/go
+2022-10-29,go,21003,13,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-10-29,go,18056,28,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-10-29,go,7844,3,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-10-29,go,4211,3,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2022-10-29,go,12119,2,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-10-29,go,17591,6,A powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2022-10-29,go,6196,19,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2022-10-29,go,41630,14,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2022-10-29,go,2753,6,protoc plugin to generate polyglot message validators,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2022-10-29,go,15760,38,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-10-29,go,11378,59,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2022-10-29,go,543,43,The missing UI for Helm - visualize your releases,komodorio,helm-dashboard,https://github.com/komodorio/helm-dashboard
+2022-10-29,go,30179,35,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-10-29,go,3231,6,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-10-29,go,45078,34,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-10-29,go,1706,7,kcp is a Kubernetes-like control plane for workloads on many clusters,kcp-dev,kcp,https://github.com/kcp-dev/kcp
+2022-10-29,go,13730,11,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-10-29,go,12370,9,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-10-29,go,14092,4,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2022-10-29,go,4104,22,End to end stack for WebRTC. SFU media server and SDKs,livekit,livekit,https://github.com/livekit/livekit
+2022-10-29,go,8121,7,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2022-10-29,go,14390,6,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway

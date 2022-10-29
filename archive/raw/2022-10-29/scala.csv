@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-29,scala,3601,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-10-29,scala,8369,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-10-29,scala,5338,5,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-10-29,scala,571,2,A scala library to write Http apps.,zio,zio-http,https://github.com/zio/zio-http
+2022-10-29,scala,3819,6,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-10-29,scala,34216,6,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-10-29,scala,11082,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-10-29,scala,2057,2,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-10-29,scala,2402,4,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-10-29,scala,2719,2,"Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",apache,incubator-linkis,https://github.com/apache/incubator-linkis
+2022-10-29,scala,9047,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-10-29,scala,1255,3,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2022-10-29,scala,12529,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-10-29,scala,725,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2022-10-29,scala,422,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2022-10-29,scala,2570,2,A simple client for Android,xxf098,shadowsocksr-v2ray-trojan-android,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+2022-10-29,scala,3146,1,In-memory dimensional time series database.,Netflix,atlas,https://github.com/Netflix/atlas
+2022-10-29,scala,213,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-10-29,scala,4576,1,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-10-29,scala,2385,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-10-29,scala,12244,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-10-29,scala,2975,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-10-29,scala,320,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-10-29,scala,140,0,"Beautiful trees, without the landscaping.",stripe,bonsai,https://github.com/stripe/bonsai
+2022-10-29,scala,1875,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
