@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-30,scala,3819,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-10-30,scala,12174,18,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-10-30,scala,5341,3,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-10-30,scala,571,0,A scala library to write Http apps.,zio,zio-http,https://github.com/zio/zio-http
+2022-10-30,scala,12246,2,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-10-30,scala,8369,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-10-30,scala,2385,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-10-30,scala,5108,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-10-30,scala,13917,1,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-10-30,scala,34226,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-10-30,scala,1099,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-10-30,scala,22,0,"Sources, Sinks and Pipelines for channeling data",zio,zio-connect,https://github.com/zio/zio-connect
+2022-10-30,scala,36,0,Java and Scala SDKs for Kalix,lightbend,kalix-jvm-sdk,https://github.com/lightbend/kalix-jvm-sdk
+2022-10-30,scala,77,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2022-10-30,scala,2403,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-10-30,scala,5719,3,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-10-30,scala,468,1,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-10-30,scala,528,0,Monitor Kafka Consumer Group Latency with Kafka Lag Exporter,seglo,kafka-lag-exporter,https://github.com/seglo/kafka-lag-exporter
+2022-10-30,scala,3600,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-10-30,scala,715,0,Mirror of Apache livy (Incubating),apache,incubator-livy,https://github.com/apache/incubator-livy
+2022-10-30,scala,12529,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-10-30,scala,320,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-10-30,scala,8773,1,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-10-30,scala,4578,2,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-10-30,scala,129,0,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest

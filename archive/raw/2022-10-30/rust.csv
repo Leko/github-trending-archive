@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-30,rust,15362,443,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.",vercel,turbo,https://github.com/vercel/turbo
+2022-10-30,rust,354,62,Learn Macros In Rust,tfpk,macrokata,https://github.com/tfpk/macrokata
+2022-10-30,rust,3099,5,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2022-10-30,rust,294,58,The most efficient implementation of IPFS on any planet,n0-computer,iroh,https://github.com/n0-computer/iroh
+2022-10-30,rust,24501,25,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2022-10-30,rust,3570,10,"Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.",boa-dev,boa,https://github.com/boa-dev/boa
+2022-10-30,rust,31481,49,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-10-30,rust,2220,3,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-10-30,rust,1891,0,Reference client for NEAR Protocol,near,nearcore,https://github.com/near/nearcore
+2022-10-30,rust,2005,0,GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习,alibaba,GraphScope,https://github.com/alibaba/GraphScope
+2022-10-30,rust,1165,10,Delicately-TUICed high-performance proxy built on top of the QUIC protocol,EAimTY,tuic,https://github.com/EAimTY/tuic
+2022-10-30,rust,6112,10,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2022-10-30,rust,12012,57,All Algorithms implemented in Rust,TheAlgorithms,Rust,https://github.com/TheAlgorithms/Rust
+2022-10-30,rust,1374,7,"Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.",influxdata,influxdb_iox,https://github.com/influxdata/influxdb_iox
+2022-10-30,rust,8363,5,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2022-10-30,rust,13995,3,Cube — Headless Business Intelligence for Building Data Applications,cube-js,cube.js,https://github.com/cube-js/cube.js
+2022-10-30,rust,242,24,"Deluge, not a stream",mkawalec,deluge,https://github.com/mkawalec/deluge
+2022-10-30,rust,2542,6,Highly-available Distributed Fault-tolerant Runtime,bastion-rs,bastion,https://github.com/bastion-rs/bastion
+2022-10-30,rust,86073,18,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-10-30,rust,1721,5,"A low-level library for OpenGL context creation, written in pure Rust.",rust-windowing,glutin,https://github.com/rust-windowing/glutin
+2022-10-30,rust,1244,11,Deploy Rust apps with a single Cargo command,shuttle-hq,shuttle,https://github.com/shuttle-hq/shuttle
+2022-10-30,rust,17386,5,Relay is a JavaScript framework for building data-driven React applications.,facebook,relay,https://github.com/facebook/relay
+2022-10-30,rust,574,5,一键安装BetterNCM,MicroCBer,BetterNCM-Installer,https://github.com/MicroCBer/BetterNCM-Installer
+2022-10-30,rust,4705,12,A powerful cloud data warehouse. Built for elasticity and efficiency. Free and open. Also available in the cloud: https://app.databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2022-10-30,rust,5039,4,"Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
