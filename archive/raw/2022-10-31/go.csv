@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-31,go,4963,968,Your CLI home video recorder,charmbracelet,vhs,https://github.com/charmbracelet/vhs
+2022-10-31,go,2965,22,A Devtools driver for web automation and scraping,go-rod,rod,https://github.com/go-rod/rod
+2022-10-31,go,15232,57,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-10-31,go,23828,14,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2022-10-31,go,1656,10,微信聊天记录持久化备份本地硬盘，释放手机存储空间。,greycodee,wechat-backup,https://github.com/greycodee/wechat-backup
+2022-10-31,go,1305,2,基于 ZeroBot 的 OneBot 插件,FloatTech,ZeroBot-Plugin,https://github.com/FloatTech/ZeroBot-Plugin
+2022-10-31,go,40745,10,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2022-10-31,go,366,4,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
+2022-10-31,go,4216,4,"A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
+2022-10-31,go,14011,5,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
+2022-10-31,go,3486,34,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2022-10-31,go,128,13,"跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本。 A cobaltstrike Beacon bypass anti-virus, supports 4.1+ version.",H4de5-7,geacon_pro,https://github.com/H4de5-7/geacon_pro
+2022-10-31,go,7064,5,Universal code search (self-hosted),sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2022-10-31,go,6172,7,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2022-10-31,go,14283,4,An IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
+2022-10-31,go,47384,10,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-10-31,go,3468,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-10-31,go,2445,19,"A simple, semantic and developer-friendly golang package for datetime",golang-module,carbon,https://github.com/golang-module/carbon
+2022-10-31,go,1578,3,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2022-10-31,go,1781,2,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2022-10-31,go,12505,25,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2022-10-31,go,14096,13,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-10-31,go,3658,0,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-10-31,go,27581,10,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-10-31,go,32505,47,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash

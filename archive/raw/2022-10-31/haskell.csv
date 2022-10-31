@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-31,haskell,19368,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-10-31,haskell,7888,3,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-10-31,haskell,1121,0,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-10-31,haskell,1313,1,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-10-31,haskell,1769,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-10-31,haskell,162,0,Proof of concept for the Hydra Head protocol,input-output-hk,hydra-poc,https://github.com/input-output-hk/hydra-poc
+2022-10-31,haskell,688,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-10-31,haskell,93,0,Exploring the options for incremental Haskell builds using Nix,matthewbauer,ghc-nix,https://github.com/matthewbauer/ghc-nix
+2022-10-31,haskell,175,1,Exercises for the Haskell Beginners 2022 course,haskell-beginners-2022,exercises,https://github.com/haskell-beginners-2022/exercises
+2022-10-31,haskell,238,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-10-31,haskell,26812,5,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-10-31,haskell,459,1,"Spiritual successor to neuron, based on Ema.",EmaApps,emanote,https://github.com/EmaApps/emanote
+2022-10-31,haskell,182,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-10-31,haskell,46,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-10-31,haskell,235,0,A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2022-10-31,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-10-31,haskell,78,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2022-10-31,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-10-31,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-10-31,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-10-31,haskell,8526,1,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2022-10-31,haskell,63,0,Marlowe smart contract language Cardano implementation,input-output-hk,marlowe-cardano,https://github.com/input-output-hk/marlowe-cardano
+2022-10-31,haskell,1288,1,Research language for array processing in the Haskell/ML family,google-research,dex-lang,https://github.com/google-research/dex-lang
+2022-10-31,haskell,3915,0,Functional Programming Course,system-f,fp-course,https://github.com/system-f/fp-course
+2022-10-31,haskell,2199,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server

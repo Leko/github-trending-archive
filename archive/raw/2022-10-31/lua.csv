@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-10-31,lua,1373,30,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2022-10-31,lua,5935,17,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-10-31,lua,2333,9,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-10-31,lua,80,12,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2022-10-31,lua,4077,6,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-10-31,lua,2687,5,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-10-31,lua,3874,12,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2022-10-31,lua,494,1,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2022-10-31,lua,4417,12,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-10-31,lua,827,4,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2022-10-31,lua,2115,4,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2022-10-31,lua,170,3,Hekili Priority Helper for DPS and Tanks (WoW Retail),Hekili,hekili,https://github.com/Hekili/hekili
+2022-10-31,lua,11566,7,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-10-31,lua,7632,8,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-10-31,lua,3533,6,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2022-10-31,lua,389,0,git mirror of the user interface source code for World of Warcraft,Gethe,wow-ui-source,https://github.com/Gethe/wow-ui-source
+2022-10-31,lua,163,0,A V2fly core for Openwrt LuCI Application.,xiaorouji,openwrt-passwall2,https://github.com/xiaorouji/openwrt-passwall2
+2022-10-31,lua,1494,4,,ThePrimeagen,.dotfiles,https://github.com/ThePrimeagen/.dotfiles
+2022-10-31,lua,750,2,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2022-10-31,lua,1401,2,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-10-31,lua,1599,7,Soothing pastel theme for Neovim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2022-10-31,lua,1784,2,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-10-31,lua,913,10,vim-be-good is a nvim plugin designed to make you better at Vim Movements.,ThePrimeagen,vim-be-good,https://github.com/ThePrimeagen/vim-be-good
+2022-10-31,lua,5283,22,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-10-31,lua,35,0,Police Job & Evidence System For QB-Core,qbcore-framework,qb-policejob,https://github.com/qbcore-framework/qb-policejob
