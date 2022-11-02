@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-02,scala,34255,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-11-02,scala,8372,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-11-02,scala,12190,3,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-11-02,scala,2405,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-11-02,scala,1263,2,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2022-11-02,scala,12532,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-11-02,scala,5724,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-11-02,scala,2773,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-11-02,scala,4579,1,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-11-02,scala,565,0,Flexible Intermediate Representation for RTL,chipsalliance,firrtl,https://github.com/chipsalliance/firrtl
+2022-11-02,scala,3824,4,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-11-02,scala,8774,1,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-11-02,scala,476,0,Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes,FasterXML,jackson-module-scala,https://github.com/FasterXML/jackson-module-scala
+2022-11-02,scala,203,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2022-11-02,scala,163,1,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-11-02,scala,6247,1,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-11-02,scala,12539,2,"PredictionIO, a machine learning server for developers and ML engineers.",apache,predictionio,https://github.com/apache/predictionio
+2022-11-02,scala,471,1,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-11-02,scala,2505,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-11-02,scala,321,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-11-02,scala,5826,1,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-11-02,scala,2984,4,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-11-02,scala,9058,4,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-11-02,scala,5348,3,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-11-02,scala,1267,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-02,lua,162,42,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2022-11-02,lua,5969,12,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-11-02,lua,1434,7,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2022-11-02,lua,2457,8,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2022-11-02,lua,10573,9,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2022-11-02,lua,1460,5,"A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2022-11-02,lua,1724,4,Neovim motions on speed!,phaazon,hop.nvim,https://github.com/phaazon/hop.nvim
+2022-11-02,lua,11583,6,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-11-02,lua,25,5,Free & Open Source Television Script for FiveM.,PickleModifications,ptelevision,https://github.com/PickleModifications/ptelevision
+2022-11-02,lua,3555,10,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2022-11-02,lua,2069,3,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2022-11-02,lua,716,2,My neovim config,ChristianChiarulli,nvim,https://github.com/ChristianChiarulli/nvim
+2022-11-02,lua,20,1,A business script for qbcore,Rencikas,ren-businesses,https://github.com/Rencikas/ren-businesses
+2022-11-02,lua,3885,5,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2022-11-02,lua,68,4,Actions at a distance,ggandor,leap-spooky.nvim,https://github.com/ggandor/leap-spooky.nvim
+2022-11-02,lua,3705,7,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-11-02,lua,978,0,World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.,WeakAuras,WeakAuras2,https://github.com/WeakAuras/WeakAuras2
+2022-11-02,lua,7663,18,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-11-02,lua,1277,6,Tools for better development in rust using neovim's builtin lsp,simrat39,rust-tools.nvim,https://github.com/simrat39/rust-tools.nvim
+2022-11-02,lua,33230,25,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-11-02,lua,505,3,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2022-11-02,lua,931,3,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2022-11-02,lua,1096,7,Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2022-11-02,lua,2707,10,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-11-02,lua,1057,5,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide

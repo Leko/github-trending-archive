@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-02,go,321,68,"跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本。 A cobaltstrike Beacon bypass anti-virus, supports 4.1+ version.",H4de5-7,geacon_pro,https://github.com/H4de5-7/geacon_pro
+2022-11-02,go,11593,117,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2022-11-02,go,1032,155,The missing UI for Helm - visualize your releases,komodorio,helm-dashboard,https://github.com/komodorio/helm-dashboard
+2022-11-02,go,12232,36,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2022-11-02,go,7342,7,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2022-11-02,go,15341,81,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-11-02,go,3230,4,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2022-11-02,go,3527,10,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2022-11-02,go,23491,16,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2022-11-02,go,64431,9,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-11-02,go,7956,1,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-11-02,go,37891,164,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2022-11-02,go,8387,33,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-11-02,go,7070,8,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-11-02,go,9617,18,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2022-11-02,go,5026,5,An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）,chaosblade-io,chaosblade,https://github.com/chaosblade-io/chaosblade
+2022-11-02,go,14115,10,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2022-11-02,go,1885,0,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-11-02,go,15741,9,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2022-11-02,go,1535,5,"Get your resource requests ""Just Right""",FairwindsOps,goldilocks,https://github.com/FairwindsOps/goldilocks
+2022-11-02,go,41,5,Collection of Meta's DNS Libraries,facebookincubator,dns,https://github.com/facebookincubator/dns
+2022-11-02,go,6615,9,Take control over your live stream video by running it yourself. Streaming + chat out of the box.,owncast,owncast,https://github.com/owncast/owncast
+2022-11-02,go,14445,4,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2022-11-02,go,22973,6,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-11-02,go,5594,9,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
