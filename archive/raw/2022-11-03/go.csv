@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-03,go,6851,41,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-11-03,go,6481,26,Lightning Network Daemon,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2022-11-03,go,37958,68,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2022-11-03,go,11681,89,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2022-11-03,go,8765,33,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2022-11-03,go,23078,33,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-11-03,go,4552,22,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-11-03,go,15525,186,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-11-03,go,23505,15,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2022-11-03,go,26100,8,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-11-03,go,1647,94,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2022-11-03,go,12501,9,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2022-11-03,go,21069,14,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-11-03,go,14590,24,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-11-03,go,13120,9,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-11-03,go,4722,8,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2022-11-03,go,372,51,"跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本。 A cobaltstrike Beacon bypass anti-virus, supports 4.1+ version.",H4de5-7,geacon_pro,https://github.com/H4de5-7/geacon_pro
+2022-11-03,go,11104,18,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-11-03,go,6115,3,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2022-11-03,go,3236,6,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2022-11-03,go,25604,7,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-11-03,go,1344,1,VMware Tanzu Community Edition is no longer an actively maintained project. Code is available for historical purposes only.,vmware-tanzu,community-edition,https://github.com/vmware-tanzu/community-edition
+2022-11-03,go,3200,3,RocksDB/LevelDB inspired key-value database in Go,cockroachdb,pebble,https://github.com/cockroachdb/pebble
+2022-11-03,go,30254,20,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-11-03,go,18590,12,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
