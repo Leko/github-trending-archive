@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-04,haskell,30385,12,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-11-04,haskell,7903,3,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-11-04,haskell,26851,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-11-04,haskell,19386,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-11-04,haskell,2195,5,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-11-04,haskell,2830,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-11-04,haskell,6986,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-11-04,haskell,83,4,"A small, weird and unpractical programming language.",japiirainen,fp,https://github.com/japiirainen/fp
+2022-11-04,haskell,7,1,,digital-asset,daml-finance,https://github.com/digital-asset/daml-finance
+2022-11-04,haskell,37,2,a challenge for Haskell beginners,lsmor,snake-fury,https://github.com/lsmor/snake-fury
+2022-11-04,haskell,1421,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-11-04,haskell,4671,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-11-04,haskell,186,0,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2022-11-04,haskell,7727,11,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-11-04,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-11-04,haskell,1,0,Binary Indexed Trees in Haskell,maxwellsayles,binary-indexed-tree,https://github.com/maxwellsayles/binary-indexed-tree
+2022-11-04,haskell,4,0,"Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH",necrobious,hS3,https://github.com/necrobious/hS3
+2022-11-04,haskell,541,2,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-11-04,haskell,1774,0,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-11-04,haskell,1955,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-11-04,haskell,2764,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-11-04,haskell,46,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-11-04,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-11-04,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-11-04,haskell,1976,1,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp

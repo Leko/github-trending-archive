@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-04,go,1719,73,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2022-11-04,go,6906,55,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-11-04,go,14422,7,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2022-11-04,go,2417,2,OCI Image Format,opencontainers,image-spec,https://github.com/opencontainers/image-spec
+2022-11-04,go,23094,14,AI-Powered Photos App for the Decentralized Web,photoprism,photoprism,https://github.com/photoprism/photoprism
+2022-11-04,go,15682,159,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-11-04,go,23100,23,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-11-04,go,3658,6,Confluent's Apache Kafka Golang client,confluentinc,confluent-kafka-go,https://github.com/confluentinc/confluent-kafka-go
+2022-11-04,go,2360,7,Kubernetes controller for GitHub Actions self-hosted runners,actions-runner-controller,actions-runner-controller,https://github.com/actions-runner-controller/actions-runner-controller
+2022-11-04,go,13416,19,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-11-04,go,11119,18,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-11-04,go,5738,4,A tool that facilitates building OCI images.,containers,buildah,https://github.com/containers/buildah
+2022-11-04,go,18316,18,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2022-11-04,go,6238,4,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-11-04,go,9405,5,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2022-11-04,go,27616,12,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-11-04,go,2642,24,The Havoc Framework,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2022-11-04,go,17510,15,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-11-04,go,25609,8,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-11-04,go,105445,53,The Go programming language,golang,go,https://github.com/golang/go
+2022-11-04,go,2594,19,Develop your applications directly in your Kubernetes Cluster,okteto,okteto,https://github.com/okteto/okteto
+2022-11-04,go,3668,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-11-04,go,3290,11,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2022-11-04,go,45197,21,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-11-04,go,6506,25,Lightning Network Daemon,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd

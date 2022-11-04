@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-04,scala,34268,5,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-11-04,scala,69,46,"Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",apache,incubator-pekko,https://github.com/apache/incubator-pekko
+2022-11-04,scala,2783,6,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-11-04,scala,5359,6,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-11-04,scala,12536,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-11-04,scala,12252,2,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-11-04,scala,1796,1,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-11-04,scala,3609,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-11-04,scala,1273,2,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2022-11-04,scala,860,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-11-04,scala,2435,1,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2022-11-04,scala,8375,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-11-04,scala,2340,1,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-11-04,scala,5726,0,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-11-04,scala,3827,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-11-04,scala,5829,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-11-04,scala,2,1,A replicated Apache Pekko Persistence journal backed by Apache Cassandra,apache,incubator-pekko-persistence-cassandra,https://github.com/apache/incubator-pekko-persistence-cassandra
+2022-11-04,scala,7,4,The Streaming-first HTTP server/module of Apache Pekko,apache,incubator-pekko-http,https://github.com/apache/incubator-pekko-http
+2022-11-04,scala,3,1,Apache Pekko gRPC,apache,incubator-pekko-grpc,https://github.com/apache/incubator-pekko-grpc
+2022-11-04,scala,1,0,Apache Pekko Management is a suite of tools for operating Pekko Clusters.,apache,incubator-pekko-management,https://github.com/apache/incubator-pekko-management
+2022-11-04,scala,2,0,Apache Pekko Sample Projects,apache,incubator-pekko-samples,https://github.com/apache/incubator-pekko-samples
+2022-11-04,scala,1,0,"Apache Pekko Projections is intended for building systems with the CQRS pattern, and facilitate in event-based service-to-service communication.",apache,incubator-pekko-projection,https://github.com/apache/incubator-pekko-projection
+2022-11-04,scala,5,2,"Apache Pekko Connectors is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Apache Pekko.",apache,incubator-pekko-connectors,https://github.com/apache/incubator-pekko-connectors
+2022-11-04,scala,1,0,Asynchronously writes journal and snapshot entries to configured R2DBC databases so that Apache Pekko Actors can recover state,apache,incubator-pekko-persistence-r2dbc,https://github.com/apache/incubator-pekko-persistence-r2dbc
+2022-11-04,scala,1,0,DynamoDBJournal for Apache Pekko Persistence,apache,incubator-pekko-persistence-dynamodb,https://github.com/apache/incubator-pekko-persistence-dynamodb
