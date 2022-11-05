@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-05,go,1127,255,"horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system",grafana,phlare,https://github.com/grafana/phlare
+2022-11-05,go,2743,53,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2022-11-05,go,15856,181,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-11-05,go,6940,35,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-11-05,go,7873,4,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-11-05,go,93453,34,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-11-05,go,1886,9,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
+2022-11-05,go,13359,28,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",ory,hydra,https://github.com/ory/hydra
+2022-11-05,go,15783,13,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-11-05,go,9319,4,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-11-05,go,3662,5,Confluent's Apache Kafka Golang client,confluentinc,confluent-kafka-go,https://github.com/confluentinc/confluent-kafka-go
+2022-11-05,go,12151,9,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-11-05,go,7793,14,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2022-11-05,go,755,115,"Your shell history: synced, queryable, and in context",ddworken,hishtory,https://github.com/ddworken/hishtory
+2022-11-05,go,3685,18,"Open Source (Go) implementation of ""Zanzibar: Google's Consistent, Global Authorization System"". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.",ory,keto,https://github.com/ory/keto
+2022-11-05,go,1839,2,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2022-11-05,go,7531,5,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2022-11-05,go,5026,13,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",drakkan,sftpgo,https://github.com/drakkan/sftpgo
+2022-11-05,go,11722,15,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-11-05,go,2881,4,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2022-11-05,go,31788,11,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2022-11-05,go,4773,2,"Kubernetes-based, scale-to-zero, request-driven compute",knative,serving,https://github.com/knative/serving
+2022-11-05,go,2485,6,Open source hyperconverged infrastructure (HCI) software,harvester,harvester,https://github.com/harvester/harvester
+2022-11-05,go,5414,2,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2022-11-05,go,1783,66,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
