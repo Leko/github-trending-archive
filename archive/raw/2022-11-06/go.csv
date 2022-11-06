@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-06,go,3160,359,"An organizer for your porn, written in Go",stashapp,stash,https://github.com/stashapp/stash
+2022-11-06,go,45276,62,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-11-06,go,1265,139,"horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system",grafana,phlare,https://github.com/grafana/phlare
+2022-11-06,go,1345,12,Community managed domain list,v2ray,domain-list-community,https://github.com/v2ray/domain-list-community
+2022-11-06,go,2452,6,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",grafana,tempo,https://github.com/grafana/tempo
+2022-11-06,go,13367,9,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",ory,hydra,https://github.com/ory/hydra
+2022-11-06,go,845,2,Telemetry agent for the LGTM stack.,grafana,agent,https://github.com/grafana/agent
+2022-11-06,go,6958,18,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-11-06,go,12156,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-11-06,go,16302,24,"支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2022-11-06,go,2567,3,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2022-11-06,go,17538,10,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-11-06,go,23130,19,AI-Powered Photos App for the Decentralized Web,photoprism,photoprism,https://github.com/photoprism/photoprism
+2022-11-06,go,2784,41,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2022-11-06,go,15972,116,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-11-06,go,11102,13,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-11-06,go,105489,34,The Go programming language,golang,go,https://github.com/golang/go
+2022-11-06,go,10437,10,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-11-06,go,14040,9,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-11-06,go,2590,10,Remote development environments on your infrastructure provisioned with Terraform,coder,coder,https://github.com/coder/coder
+2022-11-06,go,705,12,Manages Envoy Proxy as a standalone or Kubernetes-based application gateway,envoyproxy,gateway,https://github.com/envoyproxy/gateway
+2022-11-06,go,93467,24,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-11-06,go,8194,12,The effortless CI/CD framework that runs anywhere,earthly,earthly,https://github.com/earthly/earthly
+2022-11-06,go,2367,0,Kubernetes controller for GitHub Actions self-hosted runners,actions-runner-controller,actions-runner-controller,https://github.com/actions-runner-controller/actions-runner-controller
+2022-11-06,go,20400,9,HTTP load testing tool and library. It's over 9000!,tsenart,vegeta,https://github.com/tsenart/vegeta

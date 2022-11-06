@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-06,rust,14791,101,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2022-11-06,rust,2074,9,Rust bindings for the C++ api of PyTorch.,LaurentMazare,tch-rs,https://github.com/LaurentMazare/tch-rs
+2022-11-06,rust,8402,15,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2022-11-06,rust,1707,2,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2022-11-06,rust,74100,47,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-11-06,rust,19620,5,"The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",rome,tools,https://github.com/rome/tools
+2022-11-06,rust,2736,24,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff
+2022-11-06,rust,1998,99,🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.,tw93,Pake,https://github.com/tw93/Pake
+2022-11-06,rust,34057,15,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2022-11-06,rust,25153,12,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2022-11-06,rust,4598,9,The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.,MaterializeInc,materialize,https://github.com/MaterializeInc/materialize
+2022-11-06,rust,2421,13,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-11-06,rust,3893,10,A secure embedded operating system for microcontrollers,tock,tock,https://github.com/tock/tock
+2022-11-06,rust,53656,52,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-11-06,rust,10441,10,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-11-06,rust,1031,13,"An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.",cnosdb,cnosdb,https://github.com/cnosdb/cnosdb
+2022-11-06,rust,11612,7,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-11-06,rust,229,2,A Software Development Kit (SDK) for Zero-Knowledge Transactions,AleoHQ,aleo,https://github.com/AleoHQ/aleo
+2022-11-06,rust,31299,40,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-11-06,rust,4623,8,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2022-11-06,rust,7203,18,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-11-06,rust,6835,10,Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2022-11-06,rust,1035,19,A state-driven web development framework for Rust with full support for server-side rendering and static generation.,framesurge,perseus,https://github.com/framesurge/perseus
+2022-11-06,rust,2245,1,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2022-11-06,rust,6223,25,Cross-platform Text Expander written in Rust,espanso,espanso,https://github.com/espanso/espanso

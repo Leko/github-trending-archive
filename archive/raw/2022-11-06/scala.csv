@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-06,scala,5371,5,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-11-06,scala,8380,3,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-11-06,scala,1796,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-11-06,scala,13923,1,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-11-06,scala,2787,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-11-06,scala,11089,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-11-06,scala,3611,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-11-06,scala,1274,1,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2022-11-06,scala,34283,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-11-06,scala,1275,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-11-06,scala,12536,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-11-06,scala,2571,0,Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala,slick,slick,https://github.com/slick/slick
+2022-11-06,scala,213,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-11-06,scala,5468,1,"Code, exercises, answers, and hints to go along with the book ""Functional Programming in Scala""",fpinscala,fpinscala,https://github.com/fpinscala/fpinscala
+2022-11-06,scala,322,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-11-06,scala,2564,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-11-06,scala,860,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-11-06,scala,6,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-11-06,scala,717,0,Mirror of Apache livy (Incubating),apache,incubator-livy,https://github.com/apache/incubator-livy
+2022-11-06,scala,3153,0,In-memory dimensional time series database.,Netflix,atlas,https://github.com/Netflix/atlas
+2022-11-06,scala,3828,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-11-06,scala,2989,0,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-11-06,scala,84,2,"Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",apache,incubator-pekko,https://github.com/apache/incubator-pekko
+2022-11-06,scala,818,0,This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition],databricks,LearningSparkV2,https://github.com/databricks/LearningSparkV2
+2022-11-06,scala,2436,1,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
