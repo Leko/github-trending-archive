@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-08,haskell,1422,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-11-08,haskell,6993,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-11-08,haskell,2205,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-11-08,haskell,26891,9,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-11-08,haskell,19402,2,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-11-08,haskell,3719,1,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-11-08,haskell,1802,0,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-11-08,haskell,1961,3,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-11-08,haskell,79,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2022-11-08,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-11-08,haskell,1779,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-11-08,haskell,104,0,"A minimal, fast Datalog implementation in Haskell that compiles to LLVM",luc-tielen,eclair-lang,https://github.com/luc-tielen/eclair-lang
+2022-11-08,haskell,2205,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-11-08,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-11-08,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-11-08,haskell,542,2,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-11-08,haskell,47,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-11-08,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-11-08,haskell,311,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-11-08,haskell,2202,0,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-11-08,haskell,2826,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-11-08,haskell,163,0,Proof of concept for the Hydra Head protocol,input-output-hk,hydra-poc,https://github.com/input-output-hk/hydra-poc
+2022-11-08,haskell,54,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2022-11-08,haskell,400,0,The SAW scripting language.,GaloisInc,saw-script,https://github.com/GaloisInc/saw-script
+2022-11-08,haskell,9,0,Fork of GHC (https://gitlab.haskell.org/ghc/ghc.git),digital-asset,ghc,https://github.com/digital-asset/ghc
