@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-10,r,3759,3,R for data science: a book,hadley,r4ds,https://github.com/hadley/r4ds
+2022-11-10,r,5656,3,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2022-11-10,r,1618,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2022-11-10,r,4821,2,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2022-11-10,r,1068,3,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2022-11-10,r,659,2,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2022-11-10,r,3153,3,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2022-11-10,r,672,0,Visualization and annotation of phylogenetic trees,YuLab-SMU,ggtree,https://github.com/YuLab-SMU/ggtree
+2022-11-10,r,194,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2022-11-10,r,4253,2,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2022-11-10,r,1193,2,Tidy Messy Data,tidyverse,tidyr,https://github.com/tidyverse/tidyr
+2022-11-10,r,460,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2022-11-10,r,370,1,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2022-11-10,r,357,1,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2022-11-10,r,1057,1,brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan,paul-buerkner,brms,https://github.com/paul-buerkner/brms
+2022-11-10,r,930,1,"Read flat files (csv, tsv, fwf) into R",tidyverse,readr,https://github.com/tidyverse/readr
+2022-11-10,r,946,0,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2022-11-10,r,1492,2,caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models,topepo,caret,https://github.com/topepo/caret
+2022-11-10,r,1044,1,"Learn R, in R.",swirldev,swirl,https://github.com/swirldev/swirl
+2022-11-10,r,582,0,A modern re-imagining of the data frame,tidyverse,tibble,https://github.com/tidyverse/tibble
+2022-11-10,r,789,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2022-11-10,r,470,0,A collection of datasets of ML problem solving,selva86,datasets,https://github.com/selva86/datasets
+2022-11-10,r,758,0,R client for interacting with Twitter's [stream and REST] APIs,ropensci,rtweet,https://github.com/ropensci/rtweet
+2022-11-10,r,762,0,Repository for Programming Assignment 2 for R Programming on Coursera,rdpeng,ProgrammingAssignment2,https://github.com/rdpeng/ProgrammingAssignment2
+2022-11-10,r,232,0,,cole-trapnell-lab,monocle-release,https://github.com/cole-trapnell-lab/monocle-release
