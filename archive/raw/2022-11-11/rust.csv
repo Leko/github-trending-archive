@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-11,rust,1327,275,"A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms",cozodb,cozo,https://github.com/cozodb/cozo
+2022-11-11,rust,20067,153,"Unified developer tools for JavaScript, TypeScript, and the web",rome,tools,https://github.com/rome/tools
+2022-11-11,rust,736,93,"A fast, secure, and portable light client for Ethereum",a16z,helios,https://github.com/a16z/helios
+2022-11-11,rust,8190,171,The Modern Port Scanner,RustScan,RustScan,https://github.com/RustScan/RustScan
+2022-11-11,rust,30272,45,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-11-11,rust,32281,55,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-11-11,rust,1909,3,Reference client for NEAR Protocol,near,nearcore,https://github.com/near/nearcore
+2022-11-11,rust,776,41,"A tiny, self-contained, configurable paste bin and URL shortener written in Rust.",szabodanika,microbin,https://github.com/szabodanika/microbin
+2022-11-11,rust,2387,69,🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.,tw93,Pake,https://github.com/tw93/Pake
+2022-11-11,rust,3353,12,sccache is ccache with cloud storage,mozilla,sccache,https://github.com/mozilla/sccache
+2022-11-11,rust,53942,73,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-11-11,rust,1674,3,zkSync: trustless scaling and privacy engine for Ethereum,matter-labs,zksync,https://github.com/matter-labs/zksync
+2022-11-11,rust,1095,15,"PostgreSQL pooler with sharding, load balancing and failover support.",levkk,pgcat,https://github.com/levkk/pgcat
+2022-11-11,rust,2280,11,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-11-11,rust,11666,25,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2022-11-11,rust,6368,2,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2022-11-11,rust,1460,6,"Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages",PyO3,maturin,https://github.com/PyO3/maturin
+2022-11-11,rust,5401,9,Yet another cross-platform graphical process/system monitor.,ClementTsang,bottom,https://github.com/ClementTsang/bottom
+2022-11-11,rust,15639,12,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2022-11-11,rust,1732,16,A Decentralized Operating System for Zero-Knowledge Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2022-11-11,rust,1583,8,[2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/),LearningOS,rust-based-os-comp2022,https://github.com/LearningOS/rust-based-os-comp2022
+2022-11-11,rust,11719,23,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-11-11,rust,14083,13,Cube — Headless Business Intelligence for Building Data Applications,cube-js,cube.js,https://github.com/cube-js/cube.js
+2022-11-11,rust,2149,23,"PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.",postgresml,postgresml,https://github.com/postgresml/postgresml
+2022-11-11,rust,8862,26,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-11,haskell,7768,8,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-11-11,haskell,1828,7,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-11-11,haskell,2209,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-11-11,haskell,19414,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-11-11,haskell,543,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-11-11,haskell,1963,2,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-11-11,haskell,280,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-11-11,haskell,113,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-11-11,haskell,1126,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-11-11,haskell,689,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-11-11,haskell,238,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-11-11,haskell,1616,1,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2022-11-11,haskell,495,0,Command line client for Nix binary cache hosting:,cachix,cachix,https://github.com/cachix/cachix
+2022-11-11,haskell,30460,13,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-11-11,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-11-11,haskell,79,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2022-11-11,haskell,14,1,A library for benign effects in Haskell,aspiwack,haskell-benign,https://github.com/aspiwack/haskell-benign
+2022-11-11,haskell,74,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2022-11-11,haskell,51,0,Principled and efficient binary serialization,Quid2,flat,https://github.com/Quid2/flat
+2022-11-11,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-11-11,haskell,47,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-11-11,haskell,0,0,Bot for icpf2012 lifter game reimplemented in haskell,alexandermorozov,icfp2012-haskell,https://github.com/alexandermorozov/icfp2012-haskell
+2022-11-11,haskell,2770,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-11-11,haskell,1979,0,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-11-11,haskell,1416,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
