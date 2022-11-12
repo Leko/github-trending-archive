@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-12,go,3062,794,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2022-11-12,go,6671,565,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2022-11-12,go,14229,93,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2022-11-12,go,24261,16,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-11-12,go,19236,7,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-11-12,go,3402,51,High speed downloader that supports all platforms.,monkeyWie,gopeed,https://github.com/monkeyWie/gopeed
+2022-11-12,go,6477,15,Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2022-11-12,go,18168,11,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-11-12,go,6552,203,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2022-11-12,go,3940,9,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,projectdiscovery,httpx,https://github.com/projectdiscovery/httpx
+2022-11-12,go,2493,16,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",grafana,tempo,https://github.com/grafana/tempo
+2022-11-12,go,17088,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-11-12,go,11257,21,Simple and flexible tool for managing secrets,mozilla,sops,https://github.com/mozilla/sops
+2022-11-12,go,3116,30,Automated service health dashboard,TwiN,gatus,https://github.com/TwiN/gatus
+2022-11-12,go,9739,10,即时通讯IM,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-11-12,go,12812,17,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2022-11-12,go,9740,10,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2022-11-12,go,3678,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-11-12,go,8971,10,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-11-12,go,2332,4,Samples for Hyperledger Fabric,hyperledger,fabric-samples,https://github.com/hyperledger/fabric-samples
+2022-11-12,go,19485,11,Delve is a debugger for the Go programming language.,go-delve,delve,https://github.com/go-delve/delve
+2022-11-12,go,105684,43,The Go programming language,golang,go,https://github.com/golang/go
+2022-11-12,go,11399,14,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2022-11-12,go,2625,8,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-11-12,go,5429,142,Love Freedom -  Block Mass Surveillance,safing,portmaster,https://github.com/safing/portmaster
