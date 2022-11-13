@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-13,haskell,30471,2,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-11-13,haskell,2775,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-11-13,haskell,2824,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-11-13,haskell,1784,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-11-13,haskell,26937,6,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-11-13,haskell,2213,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-11-13,haskell,0,0,Back-end RRD writer for time-series power usage and environmental data collected from distributed wireless probes.,djoyner,hap-probe-rrd-writer,https://github.com/djoyner/hap-probe-rrd-writer
+2022-11-13,haskell,2484,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-11-13,haskell,7000,3,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-11-13,haskell,4676,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-11-13,haskell,51,0,Principled and efficient binary serialization,Quid2,flat,https://github.com/Quid2/flat
+2022-11-13,haskell,1424,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-11-13,haskell,316,1,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-11-13,haskell,7922,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-11-13,haskell,3,0,EKG forwarding library,input-output-hk,ekg-forward,https://github.com/input-output-hk/ekg-forward
+2022-11-13,haskell,1052,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2022-11-13,haskell,178,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2022-11-13,haskell,113,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-11-13,haskell,7777,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-11-13,haskell,1332,2,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-11-13,haskell,749,2,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly
+2022-11-13,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-11-13,haskell,417,0,Exercism exercises in Haskell.,exercism,haskell,https://github.com/exercism/haskell
+2022-11-13,haskell,5,0,Simple time tracker,divarvel,hammertime,https://github.com/divarvel/hammertime
+2022-11-13,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error

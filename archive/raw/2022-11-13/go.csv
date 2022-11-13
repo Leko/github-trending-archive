@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-13,go,415,51,Sonic is a blogging platform developed by Go. Simple and powerful,go-sonic,sonic,https://github.com/go-sonic/sonic
+2022-11-13,go,3484,443,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2022-11-13,go,6666,119,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2022-11-13,go,12820,8,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2022-11-13,go,64291,24,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-11-13,go,4334,5,HCL is the HashiCorp configuration language.,hashicorp,hcl,https://github.com/hashicorp/hcl
+2022-11-13,go,12168,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-11-13,go,2954,14,"A clean, Markdown-based publishing platform made for writers. Write together and build a community.",writefreely,writefreely,https://github.com/writefreely/writefreely
+2022-11-13,go,6934,265,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2022-11-13,go,23220,18,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-11-13,go,14311,84,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2022-11-13,go,457,7,"凹语言-专注于 WASM 平台的简单、可维护的编译型通用语言 Simple, maintainable, compiled language for developing WebAssembly software",wa-lang,wa,https://github.com/wa-lang/wa
+2022-11-13,go,48124,30,A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2022-11-13,go,2493,10,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,cloudwego,hertz,https://github.com/cloudwego/hertz
+2022-11-13,go,29451,8,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-11-13,go,3496,4,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-11-13,go,31468,9,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2022-11-13,go,15854,6,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-11-13,go,1176,37,"Your shell history: synced, queryable, and in context",ddworken,hishtory,https://github.com/ddworken/hishtory
+2022-11-13,go,11404,6,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2022-11-13,go,19477,19,Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2022-11-13,go,23473,12,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2022-11-13,go,4055,5,"Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.",turbot,steampipe,https://github.com/turbot/steampipe
+2022-11-13,go,2630,5,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-11-13,go,1924,2,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-13,scala,34327,5,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-11-13,scala,1296,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-11-13,scala,2799,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-11-13,scala,3828,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-11-13,scala,573,1,A scala library to write Http apps.,zio,zio-http,https://github.com/zio/zio-http
+2022-11-13,scala,5393,0,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-11-13,scala,8782,3,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-11-13,scala,12253,2,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-11-13,scala,4585,1,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-11-13,scala,12535,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-11-13,scala,1219,1,A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs.,scalikejdbc,scalikejdbc,https://github.com/scalikejdbc/scalikejdbc
+2022-11-13,scala,189,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-11-13,scala,5836,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-11-13,scala,2395,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-11-13,scala,2442,0,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2022-11-13,scala,1876,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-11-13,scala,2346,1,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2022-11-13,scala,1651,1,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-11-13,scala,6261,1,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-11-13,scala,5374,0,Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.,linkerd,linkerd,https://github.com/linkerd/linkerd
+2022-11-13,scala,79,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2022-11-13,scala,6,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-11-13,scala,52,0,TensorFlow TFRecord reader CLI tool,spotify,tfreader,https://github.com/spotify/tfreader
+2022-11-13,scala,234,0,SBT Plugin for OWASP DependencyCheck. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs).,albuch,sbt-dependency-check,https://github.com/albuch/sbt-dependency-check
+2022-11-13,scala,1311,0,Code formatter for Scala,scalameta,scalafmt,https://github.com/scalameta/scalafmt
