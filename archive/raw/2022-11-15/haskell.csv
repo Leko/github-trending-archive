@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-15,haskell,319,2,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-11-15,haskell,2214,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-11-15,haskell,1337,2,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-11-15,haskell,178,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2022-11-15,haskell,2231,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-11-15,haskell,0,0,,upenn-cis5520,11-transformers,https://github.com/upenn-cis5520/11-transformers
+2022-11-15,haskell,26949,7,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-11-15,haskell,30494,13,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-11-15,haskell,203,0,A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!,fourmolu,fourmolu,https://github.com/fourmolu/fourmolu
+2022-11-15,haskell,964,1,Simple clipboard manager to be integrated with rofi - Static binary available,erebe,greenclip,https://github.com/erebe/greenclip
+2022-11-15,haskell,7926,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2022-11-15,haskell,1052,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2022-11-15,haskell,2207,2,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-11-15,haskell,663,0,Tool for scaffolding batteries-included production-level Haskell projects,kowainik,summoner,https://github.com/kowainik/summoner
+2022-11-15,haskell,2829,5,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-11-15,haskell,3794,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-11-15,haskell,1,0,"UnGADTagger encapsulates abstraction-from-GADT-tag workflow by utilizing existentials, rank2-types and kind polymorphism.",apskii,ungadtagger,https://github.com/apskii/ungadtagger
+2022-11-15,haskell,19421,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-11-15,haskell,2774,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-11-15,haskell,749,0,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly
+2022-11-15,haskell,771,1,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2022-11-15,haskell,240,0,Flexible and configurable modern #Haskell logging framework,co-log,co-log,https://github.com/co-log/co-log
+2022-11-15,haskell,3734,1,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-11-15,haskell,840,4,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2022-11-15,haskell,1616,1,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
