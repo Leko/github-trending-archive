@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-16,haskell,30499,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-11-16,haskell,0,0,,upenn-cis5520,11-transformers,https://github.com/upenn-cis5520/11-transformers
+2022-11-16,haskell,5,0,Simple time tracker,divarvel,hammertime,https://github.com/divarvel/hammertime
+2022-11-16,haskell,345,0,An experimental programming language created by Heliax as a first step toward creating more robust and reliable alternatives for formally verified smart contracts than existing languages.,anoma,juvix,https://github.com/anoma/juvix
+2022-11-16,haskell,7786,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-11-16,haskell,4717,1,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-11-16,haskell,543,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-11-16,haskell,2213,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-11-16,haskell,178,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2022-11-16,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-11-16,haskell,47,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-11-16,haskell,2831,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-11-16,haskell,0,0,Project euler,adambaker,euler,https://github.com/adambaker/euler
+2022-11-16,haskell,275,0,Fake dependent types in Haskell using singletons,goldfirere,singletons,https://github.com/goldfirere/singletons
+2022-11-16,haskell,2775,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-11-16,haskell,322,3,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-11-16,haskell,1,0,,upenn-cis5520,empty-project,https://github.com/upenn-cis5520/empty-project
+2022-11-16,haskell,1970,3,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2022-11-16,haskell,1340,3,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-11-16,haskell,3795,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-11-16,haskell,1052,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2022-11-16,haskell,97,1,Compiling Agda code to readable Haskell,agda,agda2hs,https://github.com/agda/agda2hs
+2022-11-16,haskell,0,0,,danchoi,heist-tests,https://github.com/danchoi/heist-tests
+2022-11-16,haskell,7003,2,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-11-16,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-16,scala,1115,3,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-11-16,scala,8397,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-11-16,scala,34351,9,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-11-16,scala,3828,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-11-16,scala,4798,1,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2022-11-16,scala,131,5,"Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",apache,incubator-pekko,https://github.com/apache/incubator-pekko
+2022-11-16,scala,8785,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-11-16,scala,6,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2022-11-16,scala,1654,2,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-11-16,scala,9095,5,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-11-16,scala,5402,4,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-11-16,scala,1304,5,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-11-16,scala,141,0,,rockthejvm,udemy-scala-beginners,https://github.com/rockthejvm/udemy-scala-beginners
+2022-11-16,scala,34,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2022-11-16,scala,36,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo
+2022-11-16,scala,1101,0,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-11-16,scala,3624,4,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-11-16,scala,324,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-11-16,scala,1876,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2022-11-16,scala,4588,3,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-11-16,scala,2996,0,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-11-16,scala,471,1,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-11-16,scala,6,0,Cognite Scala SDK,cognitedata,cognite-sdk-scala,https://github.com/cognitedata/cognite-sdk-scala
+2022-11-16,scala,1,0,A Spark metrics sink for databases using JDBC,cognitedata,spark-jdbc-sink,https://github.com/cognitedata/spark-jdbc-sink
+2022-11-16,scala,18,0,Spark data source for Cognite Data Fusion,cognitedata,cdp-spark-datasource,https://github.com/cognitedata/cdp-spark-datasource

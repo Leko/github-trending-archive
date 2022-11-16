@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-16,lua,55,4,Nmap scripts to detect exchange 0-day (CVE-2022-41082) vulnerability,Diverto,nse-exchange,https://github.com/Diverto/nse-exchange
+2022-11-16,lua,237,24,Treesitter based structural search and replace plugin for Neovim.,cshuaimin,ssr.nvim,https://github.com/cshuaimin/ssr.nvim
+2022-11-16,lua,43,14,,Mycroft-Studios,Mycroft-Farewell,https://github.com/Mycroft-Studios/Mycroft-Farewell
+2022-11-16,lua,2958,7,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2022-11-16,lua,1145,7,Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2022-11-16,lua,207,0,A configuration for Neovim beginners.,alpha2phi,neovim-for-beginner,https://github.com/alpha2phi/neovim-for-beginner
+2022-11-16,lua,3975,5,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2022-11-16,lua,1553,5,,ThePrimeagen,.dotfiles,https://github.com/ThePrimeagen/.dotfiles
+2022-11-16,lua,739,0,Official Alpine Linux Docker image. Win at minimalism!,alpinelinux,docker-alpine,https://github.com/alpinelinux/docker-alpine
+2022-11-16,lua,5532,16,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-11-16,lua,186,0,Hekili Priority Helper for DPS and Tanks (WoW Retail),Hekili,hekili,https://github.com/Hekili/hekili
+2022-11-16,lua,2522,2,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2022-11-16,lua,1644,11,"// Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",numToStr,Comment.nvim,https://github.com/numToStr/Comment.nvim
+2022-11-16,lua,33360,13,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-11-16,lua,11671,8,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-11-16,lua,6064,10,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-11-16,lua,3797,8,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-11-16,lua,1829,8,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-11-16,lua,34,1,"Laptop script for fivem, that has boosting, darkweb, and bennys shop apps",JustLazzy,jl-laptop,https://github.com/JustLazzy/jl-laptop
+2022-11-16,lua,10672,11,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2022-11-16,lua,15,2,Neovim plugin for splitting/joining blocks of code,Wansmer,treesj,https://github.com/Wansmer/treesj
+2022-11-16,lua,98,0,Feedbacks & suggestion are very appreciated on ETHOS of FrSky,FrSkyRC,ETHOS-Feedback-Community,https://github.com/FrSkyRC/ETHOS-Feedback-Community
+2022-11-16,lua,584,5,"Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2022-11-16,lua,2438,1,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2022-11-16,lua,2343,6,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
