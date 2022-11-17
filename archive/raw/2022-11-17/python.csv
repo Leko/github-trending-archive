@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-17,python,203118,122,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer
+2022-11-17,python,127565,100,Python - 100天从新手到大师,jackfrued,Python-100-Days,https://github.com/jackfrued/Python-100-Days
+2022-11-17,python,148499,169,All Algorithms implemented in Python,TheAlgorithms,Python,https://github.com/TheAlgorithms/Python
+2022-11-17,python,15064,101,Collection of Summer 2023 tech internships!,pittcsc,Summer2023-Internships,https://github.com/pittcsc/Summer2023-Internships
+2022-11-17,python,4962,209,Generates LaTeX math description from Python functions.,google,latexify_py,https://github.com/google/latexify_py
+2022-11-17,python,147,7,中国场外基金数据爬取&汇总分析,jackluson,fund-morning-star-crawler,https://github.com/jackluson/fund-morning-star-crawler
+2022-11-17,python,7101,195,Rembg is a tool to remove images background.,danielgatis,rembg,https://github.com/danielgatis/rembg
+2022-11-17,python,1598,17,"High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)",vwxyzjn,cleanrl,https://github.com/vwxyzjn/cleanrl
+2022-11-17,python,20626,7,"Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.",Lightning-AI,lightning,https://github.com/Lightning-AI/lightning
+2022-11-17,python,5863,6,A unified framework for machine learning with time series,sktime,sktime,https://github.com/sktime/sktime
+2022-11-17,python,28185,13,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",apache,airflow,https://github.com/apache/airflow
+2022-11-17,python,2672,8,AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.,facebookincubator,AITemplate,https://github.com/facebookincubator/AITemplate
+2022-11-17,python,1256,67,Python code to parse a Twitter archive and output in various ways,timhutton,twitter-archive-parser,https://github.com/timhutton/twitter-archive-parser
+2022-11-17,python,2433,10,"flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.",PyCQA,flake8,https://github.com/PyCQA/flake8
+2022-11-17,python,6056,6,"Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications.",deepset-ai,haystack,https://github.com/deepset-ai/haystack
+2022-11-17,python,12851,27,deep learning for image processing including classification and object-detection etc.,WZMIAOMIAO,deep-learning-for-image-processing,https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+2022-11-17,python,33637,45,"Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",bregman-arie,devops-exercises,https://github.com/bregman-arie/devops-exercises
+2022-11-17,python,32817,45,YOLOv5  in PyTorch > ONNX > CoreML > TFLite,ultralytics,yolov5,https://github.com/ultralytics/yolov5
+2022-11-17,python,2172,3,A linter for YAML files.,adrienverge,yamllint,https://github.com/adrienverge/yamllint
+2022-11-17,python,6005,10,NVR with realtime local object detection for IP cameras,blakeblackshear,frigate,https://github.com/blakeblackshear/frigate
+2022-11-17,python,51605,47,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",tiangolo,fastapi,https://github.com/tiangolo/fastapi
+2022-11-17,python,7807,10,"A Python framework for creating reproducible, maintainable and modular data science code.",kedro-org,kedro,https://github.com/kedro-org/kedro
+2022-11-17,python,341,2,"Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch",lucidrains,audiolm-pytorch,https://github.com/lucidrains/audiolm-pytorch
+2022-11-17,python,2575,8,An enterprise friendly way of detecting and preventing secrets in code.,Yelp,detect-secrets,https://github.com/Yelp/detect-secrets
+2022-11-17,python,3457,8,Some out-of-the-box hooks for pre-commit,pre-commit,pre-commit-hooks,https://github.com/pre-commit/pre-commit-hooks

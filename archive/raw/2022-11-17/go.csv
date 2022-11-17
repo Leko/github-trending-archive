@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-17,go,12216,35,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2022-11-17,go,90894,90,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-11-17,go,13345,25,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2022-11-17,go,6162,4,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2022-11-17,go,29522,14,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-11-17,go,2789,6,protoc plugin to generate polyglot message validators,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2022-11-17,go,8942,3,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2022-11-17,go,2995,7,Golang LRU cache,hashicorp,golang-lru,https://github.com/hashicorp/golang-lru
+2022-11-17,go,12806,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2022-11-17,go,41824,19,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2022-11-17,go,17420,14,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-11-17,go,4022,3,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2022-11-17,go,452,34,Command-line XML and HTML beautifier and content extractor,sibprogrammer,xq,https://github.com/sibprogrammer/xq
+2022-11-17,go,8151,9,In-depth Attack Surface Mapping and Asset Discovery,OWASP,Amass,https://github.com/OWASP/Amass
+2022-11-17,go,982,28,An automated e-mail OSINT tool,alpkeskin,mosint,https://github.com/alpkeskin/mosint
+2022-11-17,go,15887,7,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-11-17,go,12180,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-11-17,go,6375,7,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2022-11-17,go,7747,13,基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2022-11-17,go,1242,3,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2022-11-17,go,26181,20,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-11-17,go,30444,18,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-11-17,go,3980,3,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,google,uuid,https://github.com/google/uuid
+2022-11-17,go,5975,5,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2022-11-17,go,45495,22,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
