@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-19,scala,34381,6,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-11-19,scala,8406,4,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-11-19,scala,5413,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-11-19,scala,3626,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-11-19,scala,3834,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-11-19,scala,1108,1,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-11-19,scala,2520,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-11-19,scala,324,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-11-19,scala,732,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2022-11-19,scala,1798,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-11-19,scala,5743,8,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-11-19,scala,1390,0,"Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",akka,alpakka-kafka,https://github.com/akka/alpakka-kafka
+2022-11-19,scala,577,1,A scala library to write Http apps.,zio,zio-http,https://github.com/zio/zio-http
+2022-11-19,scala,4590,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-11-19,scala,474,3,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-11-19,scala,472,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2022-11-19,scala,167,2,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-11-19,scala,11103,2,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-11-19,scala,425,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2022-11-19,scala,215,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-11-19,scala,25,2,Mattermost API v4 Client for Scala,Tinkoff,muffin,https://github.com/Tinkoff/muffin
+2022-11-19,scala,1157,2,Scala based HDL,SpinalHDL,SpinalHDL,https://github.com/SpinalHDL/SpinalHDL
+2022-11-19,scala,1313,1,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2022-11-19,scala,863,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-11-19,scala,9103,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-19,go,7021,8,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-11-19,go,5543,7,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2022-11-19,go,1097,47,An automated e-mail OSINT tool,alpkeskin,mosint,https://github.com/alpkeskin/mosint
+2022-11-19,go,93832,31,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-11-19,go,29582,20,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-11-19,go,12803,4,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2022-11-19,go,12823,6,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",emirpasic,gods,https://github.com/emirpasic/gods
+2022-11-19,go,7805,19,基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2022-11-19,go,2153,23,vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,loft-sh,vcluster,https://github.com/loft-sh/vcluster
+2022-11-19,go,91111,81,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-11-19,go,3039,30,Golang LRU cache,hashicorp,golang-lru,https://github.com/hashicorp/golang-lru
+2022-11-19,go,7994,4,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-11-19,go,1816,31,A dead simple Go library for sending notifications to various messaging services.,nikoksr,notify,https://github.com/nikoksr/notify
+2022-11-19,go,136,8,,chainreactors,gogo,https://github.com/chainreactors/gogo
+2022-11-19,go,25668,12,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-11-19,go,12529,12,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-11-19,go,9376,4,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-11-19,go,11830,5,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-11-19,go,45527,15,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-11-19,go,3455,2,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2022-11-19,go,13545,14,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-11-19,go,11281,12,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-11-19,go,15096,20,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-11-19,go,11842,7,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-11-19,go,41857,16,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
