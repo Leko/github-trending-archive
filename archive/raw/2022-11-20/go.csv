@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-20,go,3088,49,Golang LRU cache,hashicorp,golang-lru,https://github.com/hashicorp/golang-lru
+2022-11-20,go,218,30,无环境依赖开箱即用的代理IP池,pingc0y,go_proxy_pool,https://github.com/pingc0y/go_proxy_pool
+2022-11-20,go,25674,7,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-11-20,go,1140,43,An automated e-mail OSINT tool,alpkeskin,mosint,https://github.com/alpkeskin/mosint
+2022-11-20,go,19318,9,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2022-11-20,go,1710,2,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2022-11-20,go,7997,3,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-11-20,go,105905,31,The Go programming language,golang,go,https://github.com/golang/go
+2022-11-20,go,1183,11,VMware macOS utilities,DrDonk,unlocker,https://github.com/DrDonk/unlocker
+2022-11-20,go,15947,17,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2022-11-20,go,2164,12,vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,loft-sh,vcluster,https://github.com/loft-sh/vcluster
+2022-11-20,go,7041,20,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-11-20,go,8242,7,Cloud cost estimates for Terraform in pull requests Love your cloud bill!,infracost,infracost,https://github.com/infracost/infracost
+2022-11-20,go,26208,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-11-20,go,13554,10,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-11-20,go,23345,9,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-11-20,go,2334,0,Samples for Hyperledger Fabric,hyperledger,fabric-samples,https://github.com/hyperledger/fabric-samples
+2022-11-20,go,8654,20,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-11-20,go,1762,2,MinIO Go client SDK for S3 compatible object storage,minio,minio-go,https://github.com/minio/minio-go
+2022-11-20,go,7604,1,"flannel is a network fabric for containers, designed for Kubernetes",flannel-io,flannel,https://github.com/flannel-io/flannel
+2022-11-20,go,64471,20,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-11-20,go,2695,7,Tool integration platform for Kubernetes,devtron-labs,devtron,https://github.com/devtron-labs/devtron
+2022-11-20,go,331,1,Digital planner for Supernote and ReMarkable // Support Ukraine  https://www.comebackalive.in.ua/,kudrykv,latex-yearly-planner,https://github.com/kudrykv/latex-yearly-planner
+2022-11-20,go,15875,14,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2022-11-20,go,2801,2,protoc plugin to generate polyglot message validators,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate

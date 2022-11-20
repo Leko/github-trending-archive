@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-20,rust,1323,231,"GreptimeDB, an open-source, cloud-native, distributed time-series database.",GreptimeTeam,greptimedb,https://github.com/GreptimeTeam/greptimedb
+2022-11-20,rust,3338,322,"A Scalable, User-Friendly Source Control System.",facebook,sapling,https://github.com/facebook/sapling
+2022-11-20,rust,2610,17,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-11-20,rust,2289,20,"High-velocity, monorepo-scale workflow for Git",arxanas,git-branchless,https://github.com/arxanas/git-branchless
+2022-11-20,rust,19955,12,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2022-11-20,rust,2354,17,A tiling window manager for Windows,LGUG2Z,komorebi,https://github.com/LGUG2Z/komorebi
+2022-11-20,rust,7638,5,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-11-20,rust,1702,4,zkSync: trustless scaling and privacy engine for Ethereum,matter-labs,zksync,https://github.com/matter-labs/zksync
+2022-11-20,rust,5328,14,"A massively parallel, optimal functional runtime in Rust",Kindelia,HVM,https://github.com/Kindelia/HVM
+2022-11-20,rust,6742,18,A nonsense activity generator,svenstaro,genact,https://github.com/svenstaro/genact
+2022-11-20,rust,9680,6,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-11-20,rust,10586,19,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-11-20,rust,133,14,Concurrency extensions for async Rust,yoshuawuyts,futures-concurrency,https://github.com/yoshuawuyts/futures-concurrency
+2022-11-20,rust,2322,12,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2022-11-20,rust,6895,4,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2022-11-20,rust,6361,17,Cross-platform Text Expander written in Rust,espanso,espanso,https://github.com/espanso/espanso
+2022-11-20,rust,3527,4,RisingWave: the next-generation streaming database in the cloud.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2022-11-20,rust,19,3,Fix the simple rust script as shown in README.md,gchandra10,rust_fixme,https://github.com/gchandra10/rust_fixme
+2022-11-20,rust,9236,15,"Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2022-11-20,rust,2766,8,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2022-11-20,rust,1340,0,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
+2022-11-20,rust,3391,2,sccache is ccache with cloud storage,mozilla,sccache,https://github.com/mozilla/sccache
+2022-11-20,rust,5797,6,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2022-11-20,rust,2586,13,🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App 🤱🏻 A simple way to make any web page a desktop application using Rust.,tw93,Pake,https://github.com/tw93/Pake
+2022-11-20,rust,3820,8,“Zero setup” cross compilation and “cross testing” of Rust crates,cross-rs,cross,https://github.com/cross-rs/cross
