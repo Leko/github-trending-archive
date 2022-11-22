@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-22,lua,2795,10,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-11-22,lua,13212,17,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-11-22,lua,2567,14,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-11-22,lua,3854,8,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-11-22,lua,6111,9,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-11-22,lua,1574,5,,ThePrimeagen,.dotfiles,https://github.com/ThePrimeagen/.dotfiles
+2022-11-22,lua,313,8,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2022-11-22,lua,2318,10,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-11-22,lua,19281,6,A community-driven modular vim/neovim distribution - The ultimate vimrc,SpaceVim,SpaceVim,https://github.com/SpaceVim/SpaceVim
+2022-11-22,lua,557,3,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2022-11-22,lua,5618,18,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-11-22,lua,1472,5,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-11-22,lua,215,1,Official Repo For ESX-Legacy,esx-framework,esx-legacy,https://github.com/esx-framework/esx-legacy
+2022-11-22,lua,678,1,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2022-11-22,lua,918,2,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2022-11-22,lua,4607,11,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-11-22,lua,649,0,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
+2022-11-22,lua,777,2,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2022-11-22,lua,1002,0,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2022-11-22,lua,196,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2022-11-22,lua,1861,8,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2022-11-22,lua,1825,1,A language server that offers Lua language support - programmed in Lua,sumneko,lua-language-server,https://github.com/sumneko/lua-language-server
+2022-11-22,lua,13,0,Some Lua internals and more built-in scripts for reference,ac-custom-shaders-patch,acc-lua-internal,https://github.com/ac-custom-shaders-patch/acc-lua-internal
+2022-11-22,lua,7886,15,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-11-22,lua,38,0,Slot Based Inventory System Used With QB-Core,qbcore-framework,qb-inventory,https://github.com/qbcore-framework/qb-inventory
