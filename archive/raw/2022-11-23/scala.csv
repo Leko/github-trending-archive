@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-23,scala,735,1,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2022-11-23,scala,34412,12,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-11-23,scala,580,2,A scala library to write Http apps.,zio,zio-http,https://github.com/zio/zio-http
+2022-11-23,scala,2534,3,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-11-23,scala,3837,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-11-23,scala,5846,1,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-11-23,scala,11112,5,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-11-23,scala,12277,10,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-11-23,scala,475,1,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-11-23,scala,1114,1,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-11-23,scala,12545,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-11-23,scala,12258,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-11-23,scala,5428,6,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-11-23,scala,5745,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-11-23,scala,34,3,Scala compiler plugin to detect unused expressions,ghik,zerowaste,https://github.com/ghik/zerowaste
+2022-11-23,scala,863,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-11-23,scala,164,5,"Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",apache,incubator-pekko,https://github.com/apache/incubator-pekko
+2022-11-23,scala,1118,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2022-11-23,scala,4592,1,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-11-23,scala,1304,2,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2022-11-23,scala,167,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-11-23,scala,2344,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2022-11-23,scala,2,0,"Straight forward (non-optimised) implementation of the PDB library, backed by Scala's immutable data structures.",msteindorfer,pdb.values.persistent.scala,https://github.com/msteindorfer/pdb.values.persistent.scala
+2022-11-23,scala,79,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2022-11-23,scala,426,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
