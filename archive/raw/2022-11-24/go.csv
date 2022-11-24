@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-24,go,1631,43,"Fast, fun, ActivityPub server, powered by Go.",superseriousbusiness,gotosocial,https://github.com/superseriousbusiness/gotosocial
+2022-11-24,go,9775,6,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2022-11-24,go,8317,7,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2022-11-24,go,4259,4,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2022-11-24,go,18871,59,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2022-11-24,go,13603,17,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-11-24,go,523,88,Code snippets in your terminal,maaslalani,nap,https://github.com/maaslalani/nap
+2022-11-24,go,324,74,Primary Kite repo — private bits replaced with XXXXXXX,kiteco,kiteco-public,https://github.com/kiteco/kiteco-public
+2022-11-24,go,28394,32,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2022-11-24,go,7455,7,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2022-11-24,go,7856,7,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2022-11-24,go,17709,5,A powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2022-11-24,go,3307,5,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-11-24,go,7615,4,"flannel is a network fabric for containers, designed for Kubernetes",flannel-io,flannel,https://github.com/flannel-io/flannel
+2022-11-24,go,7921,4,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-11-24,go,9653,5,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2022-11-24,go,2933,7,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2022-11-24,go,5285,4,⟁ Tendermint Core (BFT Consensus) in Go,tendermint,tendermint,https://github.com/tendermint/tendermint
+2022-11-24,go,17682,6,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-11-24,go,21284,14,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-11-24,go,4826,4,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2022-11-24,go,106025,43,The Go programming language,golang,go,https://github.com/golang/go
+2022-11-24,go,3690,6,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2022-11-24,go,4139,3,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2022-11-24,go,3724,5,The Docker CLI,docker,cli,https://github.com/docker/cli

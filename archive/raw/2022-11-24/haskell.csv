@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-24,haskell,30590,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-11-24,haskell,4,0,"metamorphisms (aka playing with: (fold, (.), unfold)",technogeeky,metamorphic,https://github.com/technogeeky/metamorphic
+2022-11-24,haskell,64,1,Haskell dependencies build times profiler,chshersh,dr-cabal,https://github.com/chshersh/dr-cabal
+2022-11-24,haskell,7817,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-11-24,haskell,2222,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-11-24,haskell,9,0,Fork of GHC (https://gitlab.haskell.org/ghc/ghc.git),digital-asset,ghc,https://github.com/digital-asset/ghc
+2022-11-24,haskell,1,0,,upenn-cis5520,empty-project,https://github.com/upenn-cis5520/empty-project
+2022-11-24,haskell,19457,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-11-24,haskell,17,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-11-24,haskell,2485,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2022-11-24,haskell,4,0,Integrations with Vinyl/Frames records.,composite-hs,composite,https://github.com/composite-hs/composite
+2022-11-24,haskell,190,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-11-24,haskell,2253,7,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-11-24,haskell,3799,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-11-24,haskell,83,0,Framework for running and organising QuickCheck test properties and HUnit test cases,batterseapower,test-framework,https://github.com/batterseapower/test-framework
+2022-11-24,haskell,543,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-11-24,haskell,333,2,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-11-24,haskell,1864,3,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2022-11-24,haskell,1,0,,imsut,starthaskell,https://github.com/imsut/starthaskell
+2022-11-24,haskell,2831,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-11-24,haskell,13,1,Online interactive parser and translator of EO and 𝜑-calculus,objectionary,try-phi,https://github.com/objectionary/try-phi
+2022-11-24,haskell,252,0,Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.,VinylRecords,Vinyl,https://github.com/VinylRecords/Vinyl
+2022-11-24,haskell,12,0,A protolude-based custom prelude for the Cardano project,input-output-hk,cardano-prelude,https://github.com/input-output-hk/cardano-prelude
+2022-11-24,haskell,9,0,JSON to YAML Adapter,haskell-hvr,HsYAML-aeson,https://github.com/haskell-hvr/HsYAML-aeson

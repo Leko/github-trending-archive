@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-24,r,1632,0,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2022-11-24,r,3823,6,Statistical Rethinking course winter 2022,rmcelreath,stat_rethinking_2022,https://github.com/rmcelreath/stat_rethinking_2022
+2022-11-24,r,673,2,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2022-11-24,r,196,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2022-11-24,r,467,1,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2022-11-24,r,705,0,shinyWidgets : Extend widgets available in shiny,dreamRs,shinyWidgets,https://github.com/dreamRs/shinyWidgets
+2022-11-24,r,1070,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2022-11-24,r,363,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2022-11-24,r,377,1,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2022-11-24,r,1478,0,R Interface to Python,rstudio,reticulate,https://github.com/rstudio/reticulate
+2022-11-24,r,887,0,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
+2022-11-24,r,0,0,,gexijin,openPay,https://github.com/gexijin/openPay
+2022-11-24,r,792,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2022-11-24,r,25,1,One-step to Cluster and Visualize Gene Expression Matrix,junjunlab,ClusterGVis,https://github.com/junjunlab/ClusterGVis
+2022-11-24,r,221,0,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2022-11-24,r,252,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2022-11-24,r,582,0,Construct Complex Table with knitr::kable() + pipe.,haozhu233,kableExtra,https://github.com/haozhu233/kableExtra
+2022-11-24,r,369,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2022-11-24,r,2283,1,An interactive graphing library for R,plotly,plotly.R,https://github.com/plotly/plotly.R
+2022-11-24,r,5674,2,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2022-11-24,r,4264,0,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2022-11-24,r,26,1,Modeling and simulations for the 2022 FIFA World Cup,lbenz730,world_cup_2022,https://github.com/lbenz730/world_cup_2022
+2022-11-24,r,745,1,Presentation-Ready Data Summary and Analytic Result Tables,ddsjoberg,gtsummary,https://github.com/ddsjoberg/gtsummary
+2022-11-24,r,114,0,ADaM in R Asset Library,pharmaverse,admiral,https://github.com/pharmaverse/admiral
+2022-11-24,r,1494,1,caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models,topepo,caret,https://github.com/topepo/caret
