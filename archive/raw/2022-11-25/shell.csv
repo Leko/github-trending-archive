@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-25,shell,3367,4,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,https://github.com/six2dez/reconftw
+2022-11-25,shell,677,1,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2022-11-25,shell,5273,3,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2022-11-25,shell,1594,23,Offline private voice assistant for many human languages,rhasspy,rhasspy,https://github.com/rhasspy/rhasspy
+2022-11-25,shell,17043,6,Node version management,tj,n,https://github.com/tj/n
+2022-11-25,shell,5755,1,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2022-11-25,shell,8070,8,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2022-11-25,shell,6572,5,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2022-11-25,shell,543,1,"A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.",fluxcd,flux2-kustomize-helm-example,https://github.com/fluxcd/flux2-kustomize-helm-example
+2022-11-25,shell,64,1,Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!,devcontainers,templates,https://github.com/devcontainers/templates
+2022-11-25,shell,26,3,A diagram layout engine designed specifically for software architecture diagrams,terrastruct,TALA,https://github.com/terrastruct/TALA
+2022-11-25,shell,62765,22,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-11-25,shell,6988,1,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-11-25,shell,590,3,A collection of snippets of codes and commands to make your life easier!,Kitsun3Sec,Pentest-Cheat-Sheets,https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets
+2022-11-25,shell,1613,4,"Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.",ophub,amlogic-s9xxx-armbian,https://github.com/ophub/amlogic-s9xxx-armbian
+2022-11-25,shell,3496,0,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-11-25,shell,189,0,,microverseinc,linters-config,https://github.com/microverseinc/linters-config
+2022-11-25,shell,667,1,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2022-11-25,shell,6462,4,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2022-11-25,shell,3599,4,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-11-25,shell,5122,1,"Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,docker-ipsec-vpn-server,https://github.com/hwdsl2/docker-ipsec-vpn-server
+2022-11-25,shell,1740,0,[MIRROR] Official Gentoo ebuild repository,gentoo,gentoo,https://github.com/gentoo/gentoo
+2022-11-25,shell,198,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2022-11-25,shell,1203,1,Docker files for running a basic Laravel application.,laravel,sail,https://github.com/laravel/sail
+2022-11-25,shell,1707,5,"YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench",masonr,yet-another-bench-script,https://github.com/masonr/yet-another-bench-script

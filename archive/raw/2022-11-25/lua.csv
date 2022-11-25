@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-25,lua,7917,11,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-11-25,lua,2140,1,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2022-11-25,lua,13270,27,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms",NvChad,NvChad,https://github.com/NvChad/NvChad
+2022-11-25,lua,376,56,Treesitter based structural search and replace plugin for Neovim.,cshuaimin,ssr.nvim,https://github.com/cshuaimin/ssr.nvim
+2022-11-25,lua,1229,1,Edit and review GitHub issues and pull requests from the comfort of your favorite editor,pwntester,octo.nvim,https://github.com/pwntester/octo.nvim
+2022-11-25,lua,2372,5,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2022-11-25,lua,6133,10,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-11-25,lua,1519,5,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2022-11-25,lua,1011,1,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2022-11-25,lua,33427,10,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-11-25,lua,330,5,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2022-11-25,lua,2980,4,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2022-11-25,lua,2597,9,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-11-25,lua,2200,5,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2022-11-25,lua,3867,7,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-11-25,lua,687,3,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2022-11-25,lua,570,5,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2022-11-25,lua,1164,2,A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.,simrat39,symbols-outline.nvim,https://github.com/simrat39/symbols-outline.nvim
+2022-11-25,lua,361,0,FiveM RP Framework Core,qbcore-framework,qb-core,https://github.com/qbcore-framework/qb-core
+2022-11-25,lua,115,32,Neovim plugin for splitting/joining blocks of code,Wansmer,treesj,https://github.com/Wansmer/treesj
+2022-11-25,lua,4253,5,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-11-25,lua,83,0,Mod for FS22. Please download latest release below.,loki79uk,FS22_UniversalAutoload,https://github.com/loki79uk/FS22_UniversalAutoload
+2022-11-25,lua,410,1,git mirror of the user interface source code for World of Warcraft,Gethe,wow-ui-source,https://github.com/Gethe/wow-ui-source
+2022-11-25,lua,2807,1,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2022-11-25,lua,196,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory

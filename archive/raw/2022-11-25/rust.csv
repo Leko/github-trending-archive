@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-25,rust,1375,61,Build fast web applications with Rust.,gbj,leptos,https://github.com/gbj/leptos
+2022-11-25,rust,858,207,Cross-platform application to monitor your network traffic with ease,GyulyVGC,sniffnet,https://github.com/GyulyVGC/sniffnet
+2022-11-25,rust,4472,42,"Distributed SQL database in Rust, written as a learning project",erikgrinaker,toydb,https://github.com/erikgrinaker/toydb
+2022-11-25,rust,1241,161,Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.,1Password,typeshare,https://github.com/1Password/typeshare
+2022-11-25,rust,254,72,"Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis.",facebookexperimental,hermit,https://github.com/facebookexperimental/hermit
+2022-11-25,rust,4928,16,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2022-11-25,rust,2685,5,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-11-25,rust,1149,4,Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.,geph-official,geph4-client,https://github.com/geph-official/geph4-client
+2022-11-25,rust,10148,20,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2022-11-25,rust,30982,25,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-11-25,rust,1007,42,Customize your git commit hashes!,not-an-aardvark,lucky-commit,https://github.com/not-an-aardvark/lucky-commit
+2022-11-25,rust,5373,15,"Friendly React-like GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2022-11-25,rust,11000,7,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2022-11-25,rust,11457,13,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2022-11-25,rust,9533,9,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2022-11-25,rust,253,6,"Simple, safe way to store and distribute tensors",huggingface,safetensors,https://github.com/huggingface/safetensors
+2022-11-25,rust,13597,107,The leading WebAssembly Runtime supporting WASI and Emscripten,wasmerio,wasmer,https://github.com/wasmerio/wasmer
+2022-11-25,rust,2801,10,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-11-25,rust,3248,9,WebAssembly System Interface,WebAssembly,WASI,https://github.com/WebAssembly/WASI
+2022-11-25,rust,7654,2,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-11-25,rust,6284,14,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2022-11-25,rust,6399,4,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2022-11-25,rust,772,22,Fast Ethereum archive node implementation,akula-bft,akula,https://github.com/akula-bft/akula
+2022-11-25,rust,7275,25,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2022-11-25,rust,2281,3,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
