@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-26,go,730,151,The Finch CLI an open source client for container development,runfinch,finch,https://github.com/runfinch/finch
+2022-11-26,go,5972,1097,D2 is a modern diagram scripting language that turns text to diagrams.,terrastruct,d2,https://github.com/terrastruct/d2
+2022-11-26,go,7203,15,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-11-26,go,7191,5,A most popular sql audit platform for mysql,cookieY,Yearning,https://github.com/cookieY/Yearning
+2022-11-26,go,2685,2,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2022-11-26,go,17699,9,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2022-11-26,go,4838,6,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2022-11-26,go,10688,11,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-11-26,go,4340,27,"An open-source knowledge-based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.",answerdev,answer,https://github.com/answerdev/answer
+2022-11-26,go,4337,27,"ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams",aler9,rtsp-simple-server,https://github.com/aler9/rtsp-simple-server
+2022-11-26,go,1744,5,Event-driven automation framework,argoproj,argo-events,https://github.com/argoproj/argo-events
+2022-11-26,go,24359,7,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-11-26,go,3314,2,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-11-26,go,12215,5,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-11-26,go,15170,14,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2022-11-26,go,8342,13,The effortless CI/CD framework that runs anywhere,earthly,earthly,https://github.com/earthly/earthly
+2022-11-26,go,2177,3,Golang driver for ClickHouse,ClickHouse,clickhouse-go,https://github.com/ClickHouse/clickhouse-go
+2022-11-26,go,6125,11,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2022-11-26,go,5088,13,Fancy stream processing made operationally mundane,benthosdev,benthos,https://github.com/benthosdev/benthos
+2022-11-26,go,64636,31,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-11-26,go,19720,6,A Go microservices framework,go-micro,go-micro,https://github.com/go-micro/go-micro
+2022-11-26,go,40303,17,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-11-26,go,1964,8,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-11-26,go,45615,18,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-11-26,go,10720,14,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core

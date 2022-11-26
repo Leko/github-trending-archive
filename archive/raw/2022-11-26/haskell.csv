@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-26,haskell,27047,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-11-26,haskell,2837,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-11-26,haskell,30617,17,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-11-26,haskell,10,1,,digital-asset,daml-finance,https://github.com/digital-asset/daml-finance
+2022-11-26,haskell,336,1,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-11-26,haskell,7012,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2022-11-26,haskell,13,0,Yet another Blog engine written in Haskell powered by yesod.,konn,Yablog,https://github.com/konn/Yablog
+2022-11-26,haskell,6,0,Simple time tracker,divarvel,hammertime,https://github.com/divarvel/hammertime
+2022-11-26,haskell,19473,9,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-11-26,haskell,79,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2022-11-26,haskell,178,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2022-11-26,haskell,17,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-11-26,haskell,2226,3,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-11-26,haskell,47,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-11-26,haskell,53,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-11-26,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-11-26,haskell,67,0,Haskell dependencies build times profiler,chshersh,dr-cabal,https://github.com/chshersh/dr-cabal
+2022-11-26,haskell,31,0,"Node shell, a thin layer for running the node and it's modules.",input-output-hk,cardano-shell,https://github.com/input-output-hk/cardano-shell
+2022-11-26,haskell,2,0,Server for accumulating CSL logs,input-output-hk,cardano-report-server,https://github.com/input-output-hk/cardano-report-server
+2022-11-26,haskell,231,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2022-11-26,haskell,35,0,Stakepool Metadata Aggregation Server,input-output-hk,smash,https://github.com/input-output-hk/smash
+2022-11-26,haskell,21,0,Backend solution powering the cardano-explorer.  See disclaimer below.,input-output-hk,cardano-explorer,https://github.com/input-output-hk/cardano-explorer
+2022-11-26,haskell,5,0,Benchmarking the Cardano node,input-output-hk,cardano-benchmarking,https://github.com/input-output-hk/cardano-benchmarking
+2022-11-26,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-11-26,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm

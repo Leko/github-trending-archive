@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-26,rust,10207,41,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2022-11-26,rust,10698,30,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-11-26,rust,1159,11,"Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...",AFLplusplus,LibAFL,https://github.com/AFLplusplus/LibAFL
+2022-11-26,rust,1120,264,Cross-platform application to monitor your network traffic with ease,GyulyVGC,sniffnet,https://github.com/GyulyVGC/sniffnet
+2022-11-26,rust,54457,41,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-11-26,rust,15715,33,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2022-11-26,rust,3256,8,WebAssembly System Interface,WebAssembly,WASI,https://github.com/WebAssembly/WASI
+2022-11-26,rust,31009,30,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2022-11-26,rust,3428,8,sccache is ccache with cloud storage,mozilla,sccache,https://github.com/mozilla/sccache
+2022-11-26,rust,12344,30,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2022-11-26,rust,280,26,"Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis.",facebookexperimental,hermit,https://github.com/facebookexperimental/hermit
+2022-11-26,rust,11848,14,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-11-26,rust,13641,46,The leading WebAssembly Runtime supporting WASI and Emscripten,wasmerio,wasmer,https://github.com/wasmerio/wasmer
+2022-11-26,rust,1467,94,Build fast web applications with Rust.,gbj,leptos,https://github.com/gbj/leptos
+2022-11-26,rust,20063,15,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-11-26,rust,2871,2,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2022-11-26,rust,189,30,"Secure, Fast and Light remote desktop & file manager tool powered by Tauri and egui.",MirrorX-Desktop,MirrorX,https://github.com/MirrorX-Desktop/MirrorX
+2022-11-26,rust,777,5,Fast Ethereum archive node implementation,akula-bft,akula,https://github.com/akula-bft/akula
+2022-11-26,rust,1037,31,Customize your git commit hashes!,not-an-aardvark,lucky-commit,https://github.com/not-an-aardvark/lucky-commit
+2022-11-26,rust,74840,41,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-11-26,rust,1049,65,"A fast, secure, and portable light client for Ethereum",a16z,helios,https://github.com/a16z/helios
+2022-11-26,rust,13740,12,Spotify for the terminal written in Rust,Rigellute,spotify-tui,https://github.com/Rigellute/spotify-tui
+2022-11-26,rust,1408,5,,move-language,move,https://github.com/move-language/move
+2022-11-26,rust,826,8,Notion as a platform for offensive operations,mttaggart,OffensiveNotion,https://github.com/mttaggart/OffensiveNotion
+2022-11-26,rust,15902,12,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",actix,actix-web,https://github.com/actix/actix-web
