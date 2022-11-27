@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-27,go,91660,94,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-11-27,go,987,286,The Finch CLI an open source client for container development,runfinch,finch,https://github.com/runfinch/finch
+2022-11-27,go,20243,5,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-11-27,go,1959,15,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2022-11-27,go,6766,98,"Distributed, offline-first bug tracker embedded in git, with bridges",MichaelMure,git-bug,https://github.com/MichaelMure/git-bug
+2022-11-27,go,7211,8,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-11-27,go,3855,11,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2022-11-27,go,4345,9,"ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams",aler9,rtsp-simple-server,https://github.com/aler9/rtsp-simple-server
+2022-11-27,go,4315,21,"Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",apernet,hysteria,https://github.com/apernet/hysteria
+2022-11-27,go,21234,14,Easily and securely send things from one computer to another,schollz,croc,https://github.com/schollz/croc
+2022-11-27,go,7382,7,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2022-11-27,go,23702,17,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2022-11-27,go,36450,10,Multi-Cloud  Object Storage,minio,minio,https://github.com/minio/minio
+2022-11-27,go,20585,19,"Curated list of Go design patterns, recipes and idioms",tmrts,go-patterns,https://github.com/tmrts/go-patterns
+2022-11-27,go,13266,5,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-11-27,go,3835,41,100 Go Mistakes and How to Avoid Them,teivah,100-go-mistakes,https://github.com/teivah/100-go-mistakes
+2022-11-27,go,24303,10,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2022-11-27,go,6362,6,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2022-11-27,go,6322,350,D2 is a modern diagram scripting language that turns text to diagrams.,terrastruct,d2,https://github.com/terrastruct/d2
+2022-11-27,go,15952,10,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-11-27,go,6997,1,Simple HTTP and REST client library for Go,go-resty,resty,https://github.com/go-resty/resty
+2022-11-27,go,763,13,minerproxy charge for mining pool，original minerproxy ，high performance minerproxy ，minerproxy development by golang. 矿池抽水/BTC无损跨矿池抽水/原创矿池中转，代理minerproxy，挖矿minerproxy，矿场minerproxy，比特币minerproxy，最强大的minerproxy，最稳定minerproxy，功能最全minerproxy，界面最好minerproxy，费用最低minerproxy，BTCminerproxy，LTCminerproxy,FxPool,FXMinerProxy,https://github.com/FxPool/FXMinerProxy
+2022-11-27,go,31592,8,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2022-11-27,go,4632,10,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-11-27,go,1912,0,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
