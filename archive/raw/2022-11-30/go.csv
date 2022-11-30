@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-11-30,go,713,198,,google,mangle,https://github.com/google/mangle
+2022-11-30,go,4998,43,"An organizer for your porn, written in Go",stashapp,stash,https://github.com/stashapp/stash
+2022-11-30,go,31808,273,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2022-11-30,go,12232,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-11-30,go,511,76,Lightweight Linux VMs on MacOS,beringresearch,macpine,https://github.com/beringresearch/macpine
+2022-11-30,go,4069,5,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2022-11-30,go,7075,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-11-30,go,3706,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-11-30,go,4920,50,jq for binary formats,wader,fq,https://github.com/wader/fq
+2022-11-30,go,13647,10,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-11-30,go,1511,122,The Finch CLI an open source client for container development,runfinch,finch,https://github.com/runfinch/finch
+2022-11-30,go,11455,14,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2022-11-30,go,33769,43,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-11-30,go,24734,83,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2022-11-30,go,15974,11,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-11-30,go,9792,10,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2022-11-30,go,8184,15,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2022-11-30,go,1281,9,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot",helmfile,helmfile,https://github.com/helmfile/helmfile
+2022-11-30,go,11555,10,Fast key-value DB in Go.,dgraph-io,badger,https://github.com/dgraph-io/badger
+2022-11-30,go,1280,4,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2022-11-30,go,3051,8,Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.,ory,dockertest,https://github.com/ory/dockertest
+2022-11-30,go,7423,9,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2022-11-30,go,5380,11,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
+2022-11-30,go,1890,3,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2022-11-30,go,4023,3,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
