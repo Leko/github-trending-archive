@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-01,scala,34474,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-12-01,scala,5456,5,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-12-01,scala,1321,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-12-01,scala,1130,1,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-12-01,scala,9134,4,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-12-01,scala,8798,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2022-12-01,scala,12266,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-12-01,scala,427,0,"This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language",spark-examples,spark-scala-examples,https://github.com/spark-examples/spark-scala-examples
+2022-12-01,scala,12550,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-12-01,scala,2552,3,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-12-01,scala,3845,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-12-01,scala,5143,4,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-12-01,scala,17,0,Flexible mock server,Tinkoff,mockingbird,https://github.com/Tinkoff/mockingbird
+2022-12-01,scala,91,8,ECMAScript Specification (ECMA-262) Metalanguage,es-meta,esmeta,https://github.com/es-meta/esmeta
+2022-12-01,scala,6275,2,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-12-01,scala,481,1,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-12-01,scala,1659,1,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-12-01,scala,326,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-12-01,scala,425,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2022-12-01,scala,11121,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-12-01,scala,585,1,Redshift data source for Apache Spark,databricks,spark-redshift,https://github.com/databricks/spark-redshift
+2022-12-01,scala,12314,4,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-12-01,scala,13945,2,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-12-01,scala,2400,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-12-01,scala,294,3,Apache Celeborn is an elastic and high-performance service for shuffle and spilled data.,apache,incubator-celeborn,https://github.com/apache/incubator-celeborn

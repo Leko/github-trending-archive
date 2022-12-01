@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-01,rust,2267,279,Build fast web applications with Rust.,gbj,leptos,https://github.com/gbj/leptos
+2022-12-01,rust,13632,20,a structural diff that understands syntax,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2022-12-01,rust,4628,2,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-12-01,rust,86610,29,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2022-12-01,rust,4671,8,The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.,MaterializeInc,materialize,https://github.com/MaterializeInc/materialize
+2022-12-01,rust,1898,3,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2022-12-01,rust,20082,20,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2022-12-01,rust,7685,8,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2022-12-01,rust,7338,15,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2022-12-01,rust,2442,14,A pure Rust implementation of WebRTC,webrtc-rs,webrtc,https://github.com/webrtc-rs/webrtc
+2022-12-01,rust,2895,5,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2022-12-01,rust,9710,5,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-12-01,rust,1552,4,Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.,signalapp,libsignal,https://github.com/signalapp/libsignal
+2022-12-01,rust,18400,14,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2022-12-01,rust,4884,21,"Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",vi,websocat,https://github.com/vi/websocat
+2022-12-01,rust,20173,23,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-12-01,rust,1527,8,"Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages",PyO3,maturin,https://github.com/PyO3/maturin
+2022-12-01,rust,3514,39,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff
+2022-12-01,rust,6427,11,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2022-12-01,rust,20751,28,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-12-01,rust,2740,7,"Code for ""Zero To Production In Rust"", a book on API development using Rust.",LukeMathWalker,zero-to-production,https://github.com/LukeMathWalker/zero-to-production
+2022-12-01,rust,276,6,A Virtual Machine for Zero-Knowledge Executions,AleoHQ,snarkVM,https://github.com/AleoHQ/snarkVM
+2022-12-01,rust,16959,10,"x86 virtualization in your browser, recompiling x86 to wasm on the fly",copy,v86,https://github.com/copy/v86
+2022-12-01,rust,14196,6,Cube — Headless Business Intelligence for Building Data Applications,cube-js,cube.js,https://github.com/cube-js/cube.js
+2022-12-01,rust,10077,10,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap

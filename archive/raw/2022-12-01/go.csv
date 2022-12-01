@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-01,go,829,120,,google,mangle,https://github.com/google/mangle
+2022-12-01,go,8034,23,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-12-01,go,4727,21,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2022-12-01,go,7963,20,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-12-01,go,26332,82,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-12-01,go,14823,69,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2022-12-01,go,21698,17,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-12-01,go,1738,77,"Memphis is an Open-Source, Real-Time Data Processing Platform",memphisdev,memphis-broker,https://github.com/memphisdev/memphis-broker
+2022-12-01,go,2533,2,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2022-12-01,go,84,20,A PoC ransomware sample to test out your ransomware response strategy.,hazcod,ransomwhere,https://github.com/hazcod/ransomwhere
+2022-12-01,go,17527,12,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-12-01,go,11382,12,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-12-01,go,1269,7,"Reproducible development environment for Python, R and Julia",tensorchord,envd,https://github.com/tensorchord/envd
+2022-12-01,go,2627,6,The open-source data integration platform for security and infrastructure teams,cloudquery,cloudquery,https://github.com/cloudquery/cloudquery
+2022-12-01,go,24801,68,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2022-12-01,go,5388,8,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
+2022-12-01,go,6651,16,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2022-12-01,go,14212,10,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2022-12-01,go,6337,8,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-12-01,go,2864,5,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2022-12-01,go,7431,9,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2022-12-01,go,25722,11,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-12-01,go,2399,6,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2022-12-01,go,12690,16,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2022-12-01,go,5072,7,Staticcheck - The advanced Go linter,dominikh,go-tools,https://github.com/dominikh/go-tools
