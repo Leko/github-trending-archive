@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-02,go,8060,28,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-12-02,go,26428,99,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-12-02,go,35350,51,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-12-02,go,6345,10,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-12-02,go,25223,10,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-12-02,go,3713,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-12-02,go,10614,10,GitHub's Online Schema-migration Tool for MySQL,github,gh-ost,https://github.com/github/gh-ost
+2022-12-02,go,326,61,Watch live World Cup 2022 matches in your terminal.,cedricblondeau,world-cup-2022-cli-dashboard,https://github.com/cedricblondeau/world-cup-2022-cli-dashboard
+2022-12-02,go,1047,6,Crane is a FinOps Platform for Cloud Resource Analytics and Economics in Kubernetes clusters. The goal is not only help user to manage cloud cost easier but also ensure the quality of applications. https://gocrane.io/,gocrane,crane,https://github.com/gocrane/crane
+2022-12-02,go,1731,0,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2022-12-02,go,4145,21,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-12-02,go,7981,18,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-12-02,go,3323,10,"Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",ThreeDotsLabs,wild-workouts-go-ddd-example,https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+2022-12-02,go,3232,7,The new home of the CUE language! Validate and define text-based and dynamic configuration,cue-lang,cue,https://github.com/cue-lang/cue
+2022-12-02,go,6747,8,Take control over your live stream video by running it yourself. Streaming + chat out of the box.,owncast,owncast,https://github.com/owncast/owncast
+2022-12-02,go,5082,10,Staticcheck - The advanced Go linter,dominikh,go-tools,https://github.com/dominikh/go-tools
+2022-12-02,go,14089,4,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-12-02,go,5342,3,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2022-12-02,go,3047,6,Cross-cloud cost allocation models for Kubernetes workloads,opencost,opencost,https://github.com/opencost/opencost
+2022-12-02,go,24834,34,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2022-12-02,go,20265,7,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-12-02,go,11398,17,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-12-02,go,3208,6,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2022-12-02,go,12244,7,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf

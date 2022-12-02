@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-02,shell,24768,54,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2022-12-02,shell,3514,4,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-12-02,shell,48683,32,程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).,Anduin2017,HowToCook,https://github.com/Anduin2017/HowToCook
+2022-12-02,shell,8173,10,Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本,wulabing,Xray_onekey,https://github.com/wulabing/Xray_onekey
+2022-12-02,shell,7002,3,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-12-02,shell,1404,9,Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。,emptysuns,Hi_Hysteria,https://github.com/emptysuns/Hi_Hysteria
+2022-12-02,shell,611,2,,vcheckzen,KeepAliveE5,https://github.com/vcheckzen/KeepAliveE5
+2022-12-02,shell,62938,39,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-12-02,shell,5288,1,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2022-12-02,shell,4717,2,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2022-12-02,shell,5021,4,Mac setup and configuration via Ansible.,geerlingguy,mac-dev-playbook,https://github.com/geerlingguy/mac-dev-playbook
+2022-12-02,shell,3619,5,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-12-02,shell,9372,2,Persists tmux environment across system restarts.,tmux-plugins,tmux-resurrect,https://github.com/tmux-plugins/tmux-resurrect
+2022-12-02,shell,1485,5,,wulabing,V2Ray_ws-tls_bash_onekey,https://github.com/wulabing/V2Ray_ws-tls_bash_onekey
+2022-12-02,shell,17350,15,最好用的 V2Ray 一键安装脚本 & 管理脚本,233boy,v2ray,https://github.com/233boy/v2ray
+2022-12-02,shell,650,1,"Redpill 定制化编译，自定义配置及驱动并通过 Github Action 编译 DSM redpill 引导的平台. 理论上与本地编并无区别, 优点只是不需要linux基础.而且编译速度快., 适合没有linux基础的人使用，或者批量测试。",wjz304,Redpill_CustomBuild,https://github.com/wjz304/Redpill_CustomBuild
+2022-12-02,shell,5188,2,A standard style for README files,RichardLitt,standard-readme,https://github.com/RichardLitt/standard-readme
+2022-12-02,shell,5671,5,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2022-12-02,shell,16219,5,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-12-02,shell,3398,17,install latest or LTS linux kernel and enable BBR or BBR plus,jinwyp,one_click_script,https://github.com/jinwyp/one_click_script
+2022-12-02,shell,763,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2022-12-02,shell,4067,3,A repository of development container definitions for the VS Code Dev Containers extension and GitHub Codespaces,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-12-02,shell,35778,29,Official electron build of draw.io,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2022-12-02,shell,242,11,基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5S、香橙派 R1 Plus、树莓派3B/B+、树莓派4B、R66S、R68S、H66K、H68K、H88K、Rock5b、M68S、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等,haiibo,OpenWrt,https://github.com/haiibo/OpenWrt
+2022-12-02,shell,801,1,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
