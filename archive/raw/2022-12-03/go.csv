@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-03,go,1312,509,"A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",thangchung,go-coffeeshop,https://github.com/thangchung/go-coffeeshop
+2022-12-03,go,10322,32,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2022-12-03,go,45752,54,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2022-12-03,go,4152,7,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-12-03,go,8819,2,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2022-12-03,go,21371,10,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-12-03,go,1429,32,An automated e-mail OSINT tool,alpkeskin,mosint,https://github.com/alpkeskin/mosint
+2022-12-03,go,369,43,Watch live World Cup 2022 matches in your terminal.,cedricblondeau,world-cup-2022-cli-dashboard,https://github.com/cedricblondeau/world-cup-2022-cli-dashboard
+2022-12-03,go,6347,3,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2022-12-03,go,12249,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-12-03,go,24546,11,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2022-12-03,go,30648,13,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-12-03,go,561,10,Kubernetes Operator for OpenTelemetry Collector,open-telemetry,opentelemetry-operator,https://github.com/open-telemetry/opentelemetry-operator
+2022-12-03,go,13518,10,Easy and Repeatable Kubernetes Development,GoogleContainerTools,skaffold,https://github.com/GoogleContainerTools/skaffold
+2022-12-03,go,5295,45,Fancy stream processing made operationally mundane,benthosdev,benthos,https://github.com/benthosdev/benthos
+2022-12-03,go,17546,10,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2022-12-03,go,4399,9,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2022-12-03,go,8075,16,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-12-03,go,3290,3,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2022-12-03,go,6909,13,"yq is a portable command-line YAML, JSON, XML, CSV and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2022-12-03,go,2826,5,protoc plugin to generate polyglot message validators,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2022-12-03,go,28577,23,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2022-12-03,go,6308,5,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-12-03,go,9077,5,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2022-12-03,go,7428,8,Ebitengine - A dead simple 2D game engine for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten

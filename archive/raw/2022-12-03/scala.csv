@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-03,scala,5465,4,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-12-03,scala,2557,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-12-03,scala,3644,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-12-03,scala,1806,1,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2022-12-03,scala,34483,7,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-12-03,scala,6279,4,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2022-12-03,scala,13948,2,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-12-03,scala,2829,2,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-12-03,scala,3120,3,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2022-12-03,scala,353,1,,oap-project,gluten,https://github.com/oap-project/gluten
+2022-12-03,scala,1694,0,深圳地铁大数据客流分析系统,geekyouth,SZT-bigdata,https://github.com/geekyouth/SZT-bigdata
+2022-12-03,scala,12268,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-12-03,scala,24,1,Rawls service for DSDE,broadinstitute,rawls,https://github.com/broadinstitute/rawls
+2022-12-03,scala,3,0,"This is an Image transformation webservice where we can see 3 algorithms performing updates on images. It implements a contour for images, the Kuwahara blur filter and finally an algorithm I made myself called chartizate. The latter creates images where the foreground is written text.",jesperancinha,image-train-filters-web,https://github.com/jesperancinha/image-train-filters-web
+2022-12-03,scala,0,0,A holiday tracking web app built using the play framework. To aid in Scala study,irishshagua,holiday-tracker,https://github.com/irishshagua/holiday-tracker
+2022-12-03,scala,218,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2022-12-03,scala,5860,1,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2022-12-03,scala,482,1,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-12-03,scala,8,0,"Network components (NIC, Switch) for FireBox",firesim,icenet,https://github.com/firesim/icenet
+2022-12-03,scala,1319,1,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2022-12-03,scala,0,0,A simple introduction to Akka. Presented at enflick inc's Dec5 2012 TechTalk,JakeGreene,EnflickAkka,https://github.com/JakeGreene/EnflickAkka
+2022-12-03,scala,2400,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2022-12-03,scala,865,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2022-12-03,scala,2171,0,"Compositional, streaming I/O library for Scala",typelevel,fs2,https://github.com/typelevel/fs2
+2022-12-03,scala,34,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
