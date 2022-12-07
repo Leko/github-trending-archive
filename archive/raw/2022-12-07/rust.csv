@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-12-07,rust,2889,10,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
-2022-12-07,rust,276,47,An experimental Rust native UI framework,linebender,xilem,https://github.com/linebender/xilem
-2022-12-07,rust,2156,26,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
-2022-12-07,rust,7354,19,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
-2022-12-07,rust,6064,58,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
-2022-12-07,rust,12119,34,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
-2022-12-07,rust,32310,45,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
-2022-12-07,rust,54918,51,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
-2022-12-07,rust,341,68,"Build system, successor to Buck",facebookincubator,buck2,https://github.com/facebookincubator/buck2
-2022-12-07,rust,79,9,Light standalone prover,HarukaMa,aleo-prover,https://github.com/HarukaMa/aleo-prover
-2022-12-07,rust,4643,5,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
-2022-12-07,rust,47,8,My Advent of Code solutions in Rust. http://adventofcode.com/2022,timvisee,advent-of-code-2022,https://github.com/timvisee/advent-of-code-2022
-2022-12-07,rust,3229,72,🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
-2022-12-07,rust,308,9,A Virtual Machine for Zero-Knowledge Executions,AleoHQ,snarkVM,https://github.com/AleoHQ/snarkVM
-2022-12-07,rust,488,17,Rust 版 ServerStatus 探针、威力加强版,zdz,ServerStatus-Rust,https://github.com/zdz/ServerStatus-Rust
-2022-12-07,rust,410,67,"jq, but for HTML",orf,hq,https://github.com/orf/hq
-2022-12-07,rust,106,32,*slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it,betaveros,noulith,https://github.com/betaveros/noulith
-2022-12-07,rust,299,64,Starter template for solving Advent of Code in Rust.,fspoettel,advent-of-code-rust,https://github.com/fspoettel/advent-of-code-rust
-2022-12-07,rust,52,29,Copilot-assisted Advent of Code 2022 to learn Rust,simonw,advent-of-code-2022-in-rust,https://github.com/simonw/advent-of-code-2022-in-rust
-2022-12-07,rust,12798,32,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
-2022-12-07,rust,9735,8,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
-2022-12-07,rust,2724,1,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
-2022-12-07,rust,6417,5,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
-2022-12-07,rust,3429,1,Open Source Spotify client library,librespot-org,librespot,https://github.com/librespot-org/librespot
-2022-12-07,rust,3336,5,"Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",hrkfdn,ncspot,https://github.com/hrkfdn/ncspot
+2022-12-07,rust,212,40,"Unofficial open source OpenAI ChatGPT desktop app for mac, windows, and linux menubar using tauri & rust",sonnylazuardi,chatgpt-desktop,https://github.com/sonnylazuardi/chatgpt-desktop
+2022-12-07,rust,12837,95,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2022-12-07,rust,6089,44,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-12-07,rust,81,2,Light standalone prover,HarukaMa,aleo-prover,https://github.com/HarukaMa/aleo-prover
+2022-12-07,rust,4642,6,A layer 1 for everyone!,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2022-12-07,rust,3309,10,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-12-07,rust,2256,5,a debugger for async rust!,tokio-rs,console,https://github.com/tokio-rs/console
+2022-12-07,rust,63,11,Copilot-assisted Advent of Code 2022 to learn Rust,simonw,advent-of-code-2022-in-rust,https://github.com/simonw/advent-of-code-2022-in-rust
+2022-12-07,rust,21701,32,"Unified developer tools for JavaScript, TypeScript, and the web",rome,tools,https://github.com/rome/tools
+2022-12-07,rust,34054,46,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-12-07,rust,2730,1,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-12-07,rust,32343,45,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-12-07,rust,2693,9,"Memory safe, blazing fast, configurable, minimal hello world written in rust() in a few lines of code with few(1092) dependencies",mTvare6,hello-world.rs,https://github.com/mTvare6/hello-world.rs
+2022-12-07,rust,56,10,My Advent of Code solutions in Rust. http://adventofcode.com/2022,timvisee,advent-of-code-2022,https://github.com/timvisee/advent-of-code-2022
+2022-12-07,rust,165,56,*slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it,betaveros,noulith,https://github.com/betaveros/noulith
+2022-12-07,rust,255,7,A Software Development Kit (SDK) for Zero-Knowledge Transactions,AleoHQ,aleo,https://github.com/AleoHQ/aleo
+2022-12-07,rust,7370,17,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
+2022-12-07,rust,5311,11,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2022-12-07,rust,5508,15,"Friendly React-like GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2022-12-07,rust,38458,25,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2022-12-07,rust,3720,27,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff
+2022-12-07,rust,4033,8,A container runtime written in Rust,containers,youki,https://github.com/containers/youki
+2022-12-07,rust,2891,14,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2022-12-07,rust,12140,30,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2022-12-07,rust,477,3,"A configurable, high-performance routing runtime for Apollo Federation",apollographql,router,https://github.com/apollographql/router

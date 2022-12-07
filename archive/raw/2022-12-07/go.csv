@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-12-07,go,832,211,"Run your own GPTChat Telegram bot, with a single command!",m1guelpf,chatgpt-telegram,https://github.com/m1guelpf/chatgpt-telegram
-2022-12-07,go,4145,37,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
-2022-12-07,go,2746,43,"This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.",MariaLetta,free-gophers-pack,https://github.com/MariaLetta/free-gophers-pack
-2022-12-07,go,2458,13,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
-2022-12-07,go,2333,153,"A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",thangchung,go-coffeeshop,https://github.com/thangchung/go-coffeeshop
-2022-12-07,go,2898,2,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
-2022-12-07,go,16090,29,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
-2022-12-07,go,23269,7,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
-2022-12-07,go,4290,5,End to end stack for WebRTC. SFU media server and SDKs,livekit,livekit,https://github.com/livekit/livekit
-2022-12-07,go,579,85,,danielgross,whatsapp-gpt,https://github.com/danielgross/whatsapp-gpt
-2022-12-07,go,106402,34,The Go programming language,golang,go,https://github.com/golang/go
-2022-12-07,go,5883,11,"Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",johnkerl,miller,https://github.com/johnkerl/miller
-2022-12-07,go,42042,12,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
-2022-12-07,go,7629,9,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
-2022-12-07,go,4285,3,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
-2022-12-07,go,18965,10,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
-2022-12-07,go,24274,8,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
-2022-12-07,go,876,21,minerproxy charge for mining pool，original minerproxy ，high performance minerproxy ，minerproxy development by golang. 矿池抽水/BTC无损跨矿池抽水/原创矿池中转，代理minerproxy，挖矿minerproxy，矿场minerproxy，比特币minerproxy，最强大的minerproxy，最稳定minerproxy，功能最全minerproxy，界面最好minerproxy，费用最低minerproxy，BTCminerproxy，LTCminerproxy,FxPool,FXMinerProxy,https://github.com/FxPool/FXMinerProxy
-2022-12-07,go,1329,13,Easily check your clusters for use of deprecated APIs,doitintl,kube-no-trouble,https://github.com/doitintl/kube-no-trouble
-2022-12-07,go,4159,1,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
-2022-12-07,go,3117,3,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
-2022-12-07,go,10623,6,a cron library for go,robfig,cron,https://github.com/robfig/cron
-2022-12-07,go,7986,16,"A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.",dtm-labs,dtm,https://github.com/dtm-labs/dtm
-2022-12-07,go,6369,5,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
-2022-12-07,go,3719,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-12-07,go,1133,232,"Run your own GPTChat Telegram bot, with a single command!",m1guelpf,chatgpt-telegram,https://github.com/m1guelpf/chatgpt-telegram
+2022-12-07,go,17824,16,A powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2022-12-07,go,46,15,,devfullcycle,imersao11,https://github.com/devfullcycle/imersao11
+2022-12-07,go,10826,21,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2022-12-07,go,4285,2,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2022-12-07,go,7018,19,"Distributed, offline-first bug tracker embedded in git, with bridges",MichaelMure,git-bug,https://github.com/MichaelMure/git-bug
+2022-12-07,go,489,1,Official repository for the Matic Blockchain,maticnetwork,bor,https://github.com/maticnetwork/bor
+2022-12-07,go,2810,66,"This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.",MariaLetta,free-gophers-pack,https://github.com/MariaLetta/free-gophers-pack
+2022-12-07,go,4205,107,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2022-12-07,go,9704,2,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2022-12-07,go,7100,6,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2022-12-07,go,6948,9,"yq is a portable command-line YAML, JSON, XML, CSV and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2022-12-07,go,2907,20,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2022-12-07,go,17224,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-12-07,go,24620,23,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2022-12-07,go,12676,9,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-12-07,go,4450,27,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2022-12-07,go,18787,13,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2022-12-07,go,8838,6,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2022-12-07,go,10636,6,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2022-12-07,go,6169,8,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2022-12-07,go,40658,18,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2022-12-07,go,35419,15,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2022-12-07,go,9425,0,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-12-07,go,7009,3,A vault for securely storing and accessing AWS credentials in development environments,99designs,aws-vault,https://github.com/99designs/aws-vault

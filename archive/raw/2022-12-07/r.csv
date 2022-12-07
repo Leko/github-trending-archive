@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-12-07,r,0,0,,logantmonks,Biocomputing_RProject,https://github.com/logantmonks/Biocomputing_RProject
+2022-12-07,r,50,10,An experimental and unofficial wrapper for interacting with ChatGPT in R.,isinaltinkaya,gptchatteR,https://github.com/isinaltinkaya/gptchatteR
 2022-12-07,r,1641,0,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
-2022-12-07,r,4858,2,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
-2022-12-07,r,35,0,"Data Analysis and Statistical Inference, Duke University",guindilla,coursera-statistics-002,https://github.com/guindilla/coursera-statistics-002
-2022-12-07,r,40,0,My GitHub profile README.md with self-updating badges,terrytangyuan,terrytangyuan,https://github.com/terrytangyuan/terrytangyuan
-2022-12-07,r,445,0,Interactive viewing of spatial data in R,r-spatial,mapview,https://github.com/r-spatial/mapview
-2022-12-07,r,470,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
-2022-12-07,r,251,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
-2022-12-07,r,6,0,,bellevue-university,dsc520,https://github.com/bellevue-university/dsc520
-2022-12-07,r,372,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2022-12-07,r,1648,0,A Wes Anderson color palette for R,karthik,wesanderson,https://github.com/karthik/wesanderson
+2022-12-07,r,1575,2,RStudio add-in to make plots interactively with ggplot2,dreamRs,esquisse,https://github.com/dreamRs/esquisse
+2022-12-07,r,681,1,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
 2022-12-07,r,382,0,Database (DBI) backend for dplyr,tidyverse,dbplyr,https://github.com/tidyverse/dbplyr
+2022-12-07,r,793,1,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2022-12-07,r,470,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2022-12-07,r,508,1,A fresh approach to string manipulation in R,tidyverse,stringr,https://github.com/tidyverse/stringr
+2022-12-07,r,681,0,Visualization and annotation of phylogenetic trees,YuLab-SMU,ggtree,https://github.com/YuLab-SMU/ggtree
+2022-12-07,r,251,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
 2022-12-07,r,216,0,,cole-trapnell-lab,monocle3,https://github.com/cole-trapnell-lab/monocle3
-2022-12-07,r,188,0,Community-provided extensions to Seurat,satijalab,seurat-wrappers,https://github.com/satijalab/seurat-wrappers
-2022-12-07,r,200,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
-2022-12-07,r,369,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
-2022-12-07,r,381,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
-2022-12-07,r,1074,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2022-12-07,r,322,1,Equipment Loss Tracking,leedrake5,Russia-Ukraine,https://github.com/leedrake5/Russia-Ukraine
 2022-12-07,r,649,0,Generate static html documentation for an R package,r-lib,pkgdown,https://github.com/r-lib/pkgdown
-2022-12-07,r,236,0,,cole-trapnell-lab,monocle-release,https://github.com/cole-trapnell-lab/monocle-release
-2022-12-07,r,3986,0,A collection of interactive courses for the swirl R package.,swirldev,swirl_courses,https://github.com/swirldev/swirl_courses
-2022-12-07,r,678,0,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
 2022-12-07,r,75,0,Dataset distribution for Seurat,satijalab,seurat-data,https://github.com/satijalab/seurat-data
-2022-12-07,r,28,0,,cdcepi,Flusight-forecast-data,https://github.com/cdcepi/Flusight-forecast-data
-2022-12-07,r,56,0,,kpatel427,YouTubeTutorials,https://github.com/kpatel427/YouTubeTutorials
+2022-12-07,r,1075,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2022-12-07,r,725,0,A great intro dataset for data exploration & visualization (alternative to iris).,allisonhorst,palmerpenguins,https://github.com/allisonhorst/palmerpenguins
+2022-12-07,r,1011,1,forecast package for R,robjhyndman,forecast,https://github.com/robjhyndman/forecast
+2022-12-07,r,3986,0,A collection of interactive courses for the swirl R package.,swirldev,swirl_courses,https://github.com/swirldev/swirl_courses
+2022-12-07,r,2289,0,An interactive graphing library for R,plotly,plotly.R,https://github.com/plotly/plotly.R
+2022-12-07,r,414,0,Low-level API for programming with R,r-lib,rlang,https://github.com/r-lib/rlang
 2022-12-07,r,0,0,,HighlanderLab,SIMplyBee,https://github.com/HighlanderLab/SIMplyBee
+2022-12-07,r,1,0,,Chishio318,Peanuts-Data-Project,https://github.com/Chishio318/Peanuts-Data-Project
+2022-12-07,r,26,0,Machine learning-based integrative analysis develops an immune-derived lncRNA signature for improving clinical outcomes in colorectal cancer,Zaoqu-Liu,IRLS,https://github.com/Zaoqu-Liu/IRLS
+2022-12-07,r,4859,1,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny

@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-12-07,kotlin,1765,11,"Android app for streaming and downloading Movies, TV-Series and Anime.",recloudstream,cloudstream,https://github.com/recloudstream/cloudstream
-2022-12-07,kotlin,7002,19,短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正,pppscn,SmsForwarder,https://github.com/pppscn/SmsForwarder
-2022-12-07,kotlin,41901,13,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,android,architecture-samples,https://github.com/android/architecture-samples
-2022-12-07,kotlin,5038,4,Static code analysis for Kotlin,detekt,detekt,https://github.com/detekt/detekt
-2022-12-07,kotlin,7458,24,K-9 Mail – Open Source Email App for Android,thundernest,k-9,https://github.com/thundernest/k-9
-2022-12-07,kotlin,3795,19,"An alternative YouTube front end, for Android.",libre-tube,LibreTube,https://github.com/libre-tube/LibreTube
-2022-12-07,kotlin,9852,5,"Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",JetBrains,compose-jb,https://github.com/JetBrains/compose-jb
-2022-12-07,kotlin,13935,26,Official Jetpack Compose samples.,android,compose-samples,https://github.com/android/compose-samples
-2022-12-07,kotlin,1883,3,Template repository for creating plugins for IntelliJ Platform,JetBrains,intellij-platform-plugin-template,https://github.com/JetBrains/intellij-platform-plugin-template
-2022-12-07,kotlin,3611,5,An open-source keyboard for Android which respects your privacy. Currently in early-beta.,florisboard,florisboard,https://github.com/florisboard/florisboard
-2022-12-07,kotlin,1998,21,An Android application for streaming music from YouTube Music.,vfsfitvnm,ViMusic,https://github.com/vfsfitvnm/ViMusic
-2022-12-07,kotlin,43249,7,"Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",square,okhttp,https://github.com/square/okhttp
-2022-12-07,kotlin,4215,2,Kotlin multiplatform / multi-format serialization,Kotlin,kotlinx.serialization,https://github.com/Kotlin/kotlinx.serialization
-2022-12-07,kotlin,5738,4,AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.,ankidroid,Anki-Android,https://github.com/ankidroid/Anki-Android
-2022-12-07,kotlin,4896,2,SQLDelight - Generates typesafe Kotlin APIs from SQL,cashapp,sqldelight,https://github.com/cashapp/sqldelight
-2022-12-07,kotlin,3678,6,Multiple samples showing the best practices in the user interface on Android.,android,user-interface-samples,https://github.com/android/user-interface-samples
-2022-12-07,kotlin,8756,4,Image loading for Android backed by Kotlin Coroutines.,coil-kt,coil,https://github.com/coil-kt/coil
-2022-12-07,kotlin,951,3,Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.,bytedance,appshark,https://github.com/bytedance/appshark
-2022-12-07,kotlin,10553,3,Framework for quickly creating connected applications in Kotlin with minimal effort,ktorio,ktor,https://github.com/ktorio/ktor
-2022-12-07,kotlin,236,0,"Interactive, thoroughly customizable maps in native Android powered by vector tiles and OpenGL.",mapbox,mapbox-maps-android,https://github.com/mapbox/mapbox-maps-android
-2022-12-07,kotlin,1442,1,Great UI test framework,KasperskyLab,Kaspresso,https://github.com/KasperskyLab/Kaspresso
-2022-12-07,kotlin,43259,12,The Kotlin Programming Language.,JetBrains,kotlin,https://github.com/JetBrains/kotlin
-2022-12-07,kotlin,4479,9,The universal proxy toolchain for Android,SagerNet,SagerNet,https://github.com/SagerNet/SagerNet
-2022-12-07,kotlin,1739,2,"VLC for Android, Android TV and ChromeOS",videolan,vlc-android,https://github.com/videolan/vlc-android
-2022-12-07,kotlin,22436,3,Samples for Android Architecture Components.,android,architecture-components-samples,https://github.com/android/architecture-components-samples
+2022-12-07,kotlin,13942,22,Official Jetpack Compose samples.,android,compose-samples,https://github.com/android/compose-samples
+2022-12-07,kotlin,6155,1,"Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.",skydoves,Pokedex,https://github.com/skydoves/Pokedex
+2022-12-07,kotlin,4031,6,Multiple samples showing the best practices in camera APIs on Android.,android,camera-samples,https://github.com/android/camera-samples
+2022-12-07,kotlin,3315,3,"A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.",apollographql,apollo-kotlin,https://github.com/apollographql/apollo-kotlin
+2022-12-07,kotlin,2525,4,GraphQL for Java with Spring Boot made easy.,Netflix,dgs-framework,https://github.com/Netflix/dgs-framework
+2022-12-07,kotlin,7466,15,K-9 Mail – Open Source Email App for Android,thundernest,k-9,https://github.com/thundernest/k-9
+2022-12-07,kotlin,2706,16,Painless Mobile UI Automation,mobile-dev-inc,maestro,https://github.com/mobile-dev-inc/maestro
+2022-12-07,kotlin,8718,27,A fully functional Android app built entirely with Kotlin and Jetpack Compose,android,nowinandroid,https://github.com/android/nowinandroid
+2022-12-07,kotlin,41902,13,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,android,architecture-samples,https://github.com/android/architecture-samples
+2022-12-07,kotlin,11032,12,高效率 QQ 机器人支持库,mamoe,mirai,https://github.com/mamoe/mirai
+2022-12-07,kotlin,7009,12,短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正,pppscn,SmsForwarder,https://github.com/pppscn/SmsForwarder
+2022-12-07,kotlin,799,7,Port of Now Playing from Pixels to other Android devices,KieronQuinn,AmbientMusicMod,https://github.com/KieronQuinn/AmbientMusicMod
+2022-12-07,kotlin,179,3,在安卓本地搭建服务器以转发微软TTS，用于在阅读APP中网络朗读。(现已支持系统TTS 可被其他APP调用),jing332,tts-server-android,https://github.com/jing332/tts-server-android
+2022-12-07,kotlin,5079,5,The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.,skydoves,android-developer-roadmap,https://github.com/skydoves/android-developer-roadmap
+2022-12-07,kotlin,2023,21,An Android application for streaming music from YouTube Music.,vfsfitvnm,ViMusic,https://github.com/vfsfitvnm/ViMusic
+2022-12-07,kotlin,1293,12,Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet,MatsuriDayo,Matsuri,https://github.com/MatsuriDayo/Matsuri
+2022-12-07,kotlin,40,15,Aprende a PROGRAMAR aplicaciones ANDROID en KOTLIN sin conocimientos previos,ArisGuimera,Android-Expert,https://github.com/ArisGuimera/Android-Expert
+2022-12-07,kotlin,16366,4,A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.,android,sunflower,https://github.com/android/sunflower
+2022-12-07,kotlin,18544,29,A rule-based tunnel for Android.,Kr328,ClashForAndroid,https://github.com/Kr328/ClashForAndroid
+2022-12-07,kotlin,5680,4,"Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",iSoron,uhabits,https://github.com/iSoron/uhabits
+2022-12-07,kotlin,953,3,Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.,bytedance,appshark,https://github.com/bytedance/appshark
+2022-12-07,kotlin,11483,3,Library support for Kotlin coroutines,Kotlin,kotlinx.coroutines,https://github.com/Kotlin/kotlinx.coroutines
+2022-12-07,kotlin,4216,3,Kotlin multiplatform / multi-format serialization,Kotlin,kotlinx.serialization,https://github.com/Kotlin/kotlinx.serialization
+2022-12-07,kotlin,19977,16,Free and open source manga reader for Android.,tachiyomiorg,tachiyomi,https://github.com/tachiyomiorg/tachiyomi
+2022-12-07,kotlin,17700,2,Flexbox for Android,google,flexbox-layout,https://github.com/google/flexbox-layout

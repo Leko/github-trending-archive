@@ -1,26 +1,26 @@
 date,language,stargazers,starsToday,description,owner,name,url
-2022-12-07,python,2442,1240,Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.,acheong08,ChatGPT,https://github.com/acheong08/ChatGPT
-2022-12-07,python,346,40,Solve Advent of Code puzzles with GPT-3,max-sixty,aoc-gpt,https://github.com/max-sixty/aoc-gpt
-2022-12-07,python,496,180,This is a very early attempt at having chatGPT work within a telegram bot,altryne,chatGPT-telegram-bot,https://github.com/altryne/chatGPT-telegram-bot
-2022-12-07,python,1161,112,"Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",Visualize-ML,Book4_Power-of-Matrix,https://github.com/Visualize-ML/Book4_Power-of-Matrix
-2022-12-07,python,150,33,A Python script that aggregates recent popular tweets from your Mastodon timeline,hodgesmr,mastodon_digest,https://github.com/hodgesmr/mastodon_digest
-2022-12-07,python,288,42,An index created by GPT to organize external information and answer queries!,jerryjliu,gpt_index,https://github.com/jerryjliu/gpt_index
-2022-12-07,python,394,98,This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT,taranjeet,chatgpt-api,https://github.com/taranjeet/chatgpt-api
-2022-12-07,python,181,93,API for interacting with ChatGPT using Python and from Shell.,mmabrouk,chatgpt-wrapper,https://github.com/mmabrouk/chatgpt-wrapper
-2022-12-07,python,4950,13,A PyTorch-based Speech Toolkit,speechbrain,speechbrain,https://github.com/speechbrain/speechbrain
-2022-12-07,python,966,313,IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering,JusticeRage,Gepetto,https://github.com/JusticeRage/Gepetto
-2022-12-07,python,6572,12,An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.,EleutherAI,gpt-neo,https://github.com/EleutherAI/gpt-neo
-2022-12-07,python,12509,119,Offensive Google framework.,mxrch,GHunt,https://github.com/mxrch/GHunt
-2022-12-07,python,16299,11,Graph Neural Network Library for PyTorch,pyg-team,pytorch_geometric,https://github.com/pyg-team/pytorch_geometric
-2022-12-07,python,29205,28,A toolkit for developing and comparing reinforcement learning algorithms.,openai,gym,https://github.com/openai/gym
-2022-12-07,python,6142,8,dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.,dbt-labs,dbt-core,https://github.com/dbt-labs/dbt-core
-2022-12-07,python,1034,49,,openai,openai-python,https://github.com/openai/openai-python
-2022-12-07,python,125,5,My Advent of Code solutions. I also upload videos of my solves: https://www.youtube.com/channel/UCuWLIm0l4sDpEe28t41WITA,jonathanpaulson,AdventOfCode,https://github.com/jonathanpaulson/AdventOfCode
-2022-12-07,python,548,17,A standard API for reinforcement learning and a diverse set of reference environments (formerly Gym),Farama-Foundation,Gymnasium,https://github.com/Farama-Foundation/Gymnasium
-2022-12-07,python,73,12,"Web application with vulnerabilities found in real cases, both in pentests and in Bug Bounty programs.",takito1812,web-hacking-playground,https://github.com/takito1812/web-hacking-playground
-2022-12-07,python,5692,5,"AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库",akfamily,akshare,https://github.com/akfamily/akshare
-2022-12-07,python,16920,10,Python sample codes for robotics algorithms.,AtsushiSakai,PythonRobotics,https://github.com/AtsushiSakai/PythonRobotics
-2022-12-07,python,185,8,"User-Agent , X-Forwarded-For and Referer SQLI Fuzzer",root-tanishq,userefuzz,https://github.com/root-tanishq/userefuzz
-2022-12-07,python,1746,2,OpenMMLab Image Classification Toolbox and Benchmark,open-mmlab,mmclassification,https://github.com/open-mmlab/mmclassification
-2022-12-07,python,5453,17,"Chinese version of GPT2 training code, using BERT tokenizer.",Morizeyao,GPT2-Chinese,https://github.com/Morizeyao/GPT2-Chinese
-2022-12-07,python,1110,4,Release for Improved Denoising Diffusion Probabilistic Models,openai,improved-diffusion,https://github.com/openai/improved-diffusion
+2022-12-07,python,765,321,"TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",rawandahmad698,PyChatGPT,https://github.com/rawandahmad698/PyChatGPT
+2022-12-07,python,3471,1240,Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.,acheong08,ChatGPT,https://github.com/acheong08/ChatGPT
+2022-12-07,python,1107,313,IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering,JusticeRage,Gepetto,https://github.com/JusticeRage/Gepetto
+2022-12-07,python,308,102,中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。,bupticybee,ChineseAiDungeonChatGPT,https://github.com/bupticybee/ChineseAiDungeonChatGPT
+2022-12-07,python,275,93,API for interacting with ChatGPT using Python and from Shell.,mmabrouk,chatgpt-wrapper,https://github.com/mmabrouk/chatgpt-wrapper
+2022-12-07,python,1079,54,,openai,openai-python,https://github.com/openai/openai-python
+2022-12-07,python,8286,21,"DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",microsoft,DeepSpeed,https://github.com/microsoft/DeepSpeed
+2022-12-07,python,13205,25,OpenAI Baselines: high-quality implementations of reinforcement learning algorithms,openai,baselines,https://github.com/openai/baselines
+2022-12-07,python,13743,35,让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）,521xueweihan,GitHub520,https://github.com/521xueweihan/GitHub520
+2022-12-07,python,1241,112,"Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",Visualize-ML,Book4_Power-of-Matrix,https://github.com/Visualize-ML/Book4_Power-of-Matrix
+2022-12-07,python,826,99,Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning,shankarpandala,lazypredict,https://github.com/shankarpandala/lazypredict
+2022-12-07,python,1236,16,Pytorch domain library for recommendation systems,pytorch,torchrec,https://github.com/pytorch/torchrec
+2022-12-07,python,585,180,This is a very early attempt at having chatGPT work within a telegram bot,altryne,chatGPT-telegram-bot,https://github.com/altryne/chatGPT-telegram-bot
+2022-12-07,python,2793,15,"An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.",EleutherAI,gpt-neox,https://github.com/EleutherAI/gpt-neox
+2022-12-07,python,3336,4,This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.,Azure,azure-sdk-for-python,https://github.com/Azure/azure-sdk-for-python
+2022-12-07,python,29241,27,A toolkit for developing and comparing reinforcement learning algorithms.,openai,gym,https://github.com/openai/gym
+2022-12-07,python,4633,13,Model parallel transformers in JAX and Haiku,kingoflolz,mesh-transformer-jax,https://github.com/kingoflolz/mesh-transformer-jax
+2022-12-07,python,8668,15,A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training,karpathy,minGPT,https://github.com/karpathy/minGPT
+2022-12-07,python,3517,6,Some out-of-the-box hooks for pre-commit,pre-commit,pre-commit-hooks,https://github.com/pre-commit/pre-commit-hooks
+2022-12-07,python,504,5,A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.,EverythingSuckz,TG-FileStreamBot,https://github.com/EverythingSuckz/TG-FileStreamBot
+2022-12-07,python,4968,13,A PyTorch-based Speech Toolkit,speechbrain,speechbrain,https://github.com/speechbrain/speechbrain
+2022-12-07,python,8253,2,Pure bash script to test and wait on the availability of a TCP host and port,vishnubob,wait-for-it,https://github.com/vishnubob/wait-for-it
+2022-12-07,python,20275,9,Scalable load testing tool written in Python,locustio,locust,https://github.com/locustio/locust
+2022-12-07,python,9392,19,You like pytorch? You like micrograd? You love tinygrad!,geohot,tinygrad,https://github.com/geohot/tinygrad
+2022-12-07,python,5463,14,"Chinese version of GPT2 training code, using BERT tokenizer.",Morizeyao,GPT2-Chinese,https://github.com/Morizeyao/GPT2-Chinese
