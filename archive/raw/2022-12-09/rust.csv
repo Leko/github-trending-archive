@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-09,rust,16953,87,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-12-09,rust,3486,10,sccache is ccache with cloud storage,mozilla,sccache,https://github.com/mozilla/sccache
+2022-12-09,rust,12851,19,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2022-12-09,rust,286,89,"OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust",sonnylazuardi,chatgpt-desktop,https://github.com/sonnylazuardi/chatgpt-desktop
+2022-12-09,rust,5318,8,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2022-12-09,rust,34088,40,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-12-09,rust,21724,24,"Unified developer tools for JavaScript, TypeScript, and the web",rome,tools,https://github.com/rome/tools
+2022-12-09,rust,16020,30,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2022-12-09,rust,12595,16,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2022-12-09,rust,5523,16,"Friendly React-like GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2022-12-09,rust,8448,13,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2022-12-09,rust,11927,12,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2022-12-09,rust,2112,2,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2022-12-09,rust,276,161,A Rust DHCP server,bluecatengineering,dora,https://github.com/bluecatengineering/dora
+2022-12-09,rust,249,66,*slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it,betaveros,noulith,https://github.com/betaveros/noulith
+2022-12-09,rust,688,21,"ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient JavaScript/TypeScript business logic layer",chiselstrike,chiselstrike,https://github.com/chiselstrike/chiselstrike
+2022-12-09,rust,4064,36,A container runtime written in Rust,containers,youki,https://github.com/containers/youki
+2022-12-09,rust,7383,13,Rust parser combinator framework,Geal,nom,https://github.com/Geal/nom
+2022-12-09,rust,4013,6,A secure embedded operating system for microcontrollers,tock,tock,https://github.com/tock/tock
+2022-12-09,rust,3323,11,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-12-09,rust,2738,7,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2022-12-09,rust,6101,15,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-12-09,rust,1996,10,High-level memory-safe binding generator for Flutter/Dart <-> Rust,fzyzcjy,flutter_rust_bridge,https://github.com/fzyzcjy/flutter_rust_bridge
+2022-12-09,rust,20407,25,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-12-09,rust,6892,11,"Ping, but with a graph",orf,gping,https://github.com/orf/gping
