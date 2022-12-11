@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-11,shell,646,36,支持Xray/Trojan-Go/Hysteria/NaiveProxy的多用户Web管理面板,trojanpanel,install-script,https://github.com/trojanpanel/install-script
+2022-12-11,shell,1564,24,Automated Redpill Loader,fbelavenuto,arpl,https://github.com/fbelavenuto/arpl
+2022-12-11,shell,4097,2,NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2022-12-11,shell,339,1,基于 Lean&Lienol 源码的 x86 的 OpenWrt 固件。,DHDAXCW,OpenWRT_x86_x64,https://github.com/DHDAXCW/OpenWRT_x86_x64
+2022-12-11,shell,76,5,"Command-line clipboard with automatic copy and paste detection. Eg, `cb|sort|cb`.",niedzielski,cb,https://github.com/niedzielski/cb
+2022-12-11,shell,28538,3,".files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles
+2022-12-11,shell,1302,4,,pocopico,tinycore-redpill,https://github.com/pocopico/tinycore-redpill
+2022-12-11,shell,1505,47,Open Source Metering and Usage Based Billing,getlago,lago,https://github.com/getlago/lago
+2022-12-11,shell,770,1,Advanced Charging Controller,VR-25,acc,https://github.com/VR-25/acc
+2022-12-11,shell,24,1,,LandmakTechnology,package-management,https://github.com/LandmakTechnology/package-management
+2022-12-11,shell,5309,1,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2022-12-11,shell,783,2,The ReVanced Magisk module. Updated daily and actually supports non-root too for some reason.,j-hc,revanced-magisk-module,https://github.com/j-hc/revanced-magisk-module
+2022-12-11,shell,7025,2,"Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-12-11,shell,226,1,A collection of Dev Container Features managed by Dev Container spec maintainers. See https://github.com/devcontainers/feature-starter to publish your own,devcontainers,features,https://github.com/devcontainers/features
+2022-12-11,shell,1640,2,Apache Kafka and Confluent Platform examples and demos,confluentinc,examples,https://github.com/confluentinc/examples
+2022-12-11,shell,765,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2022-12-11,shell,189,1,Zap is a minimal zsh plugin manager,zap-zsh,zap,https://github.com/zap-zsh/zap
+2022-12-11,shell,153128,28,"A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-12-11,shell,2733,0,Easily install PHP extension in Docker containers,mlocati,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer
+2022-12-11,shell,1743,8,"Armbian for Amlogic and Rockchip. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, rk3588, rk3568, rk3328, etc. including install to EMMC and update related functions.",ophub,amlogic-s9xxx-armbian,https://github.com/ophub/amlogic-s9xxx-armbian
+2022-12-11,shell,60,4,ReVanced Extended YT and YT-M for both root and non-root users.,NoName-exe,revanced-extended,https://github.com/NoName-exe/revanced-extended
+2022-12-11,shell,407,0,The docker-compose files for setting up a SearXNG instance with docker.,searxng,searxng-docker,https://github.com/searxng/searxng-docker
+2022-12-11,shell,5966,4,Pi-hole in a docker container,pi-hole,docker-pi-hole,https://github.com/pi-hole/docker-pi-hole
+2022-12-11,shell,1986,3,"Hestia Control Panel | A lightweight and powerful control panel for the modern web.",hestiacp,hestiacp,https://github.com/hestiacp/hestiacp
+2022-12-11,shell,2434,6,"WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",fscarmen,warp,https://github.com/fscarmen/warp
