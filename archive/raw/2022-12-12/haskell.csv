@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-12,haskell,2852,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-12-12,haskell,1425,1,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2022-12-12,haskell,351,2,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-12-12,haskell,1437,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-12-12,haskell,19581,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-12-12,haskell,193,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-12-12,haskell,1619,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2022-12-12,haskell,2315,5,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-12-12,haskell,1060,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2022-12-12,haskell,697,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-12-12,haskell,30769,15,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-12-12,haskell,27,0,,runtimeverification,plutus-core-semantics,https://github.com/runtimeverification/plutus-core-semantics
+2022-12-12,haskell,4738,3,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-12-12,haskell,2783,0,Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).,ghc,ghc,https://github.com/ghc/ghc
+2022-12-12,haskell,3767,2,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-12-12,haskell,546,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-12-12,haskell,13,0,,digital-asset,daml-finance,https://github.com/digital-asset/daml-finance
+2022-12-12,haskell,2134,2,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-12-12,haskell,210,0,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
+2022-12-12,haskell,2239,2,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-12-12,haskell,173,0,Implementation of the Hydra Head protocol,input-output-hk,hydra,https://github.com/input-output-hk/hydra
+2022-12-12,haskell,1901,0,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2022-12-12,haskell,219,0,A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!,fourmolu,fourmolu,https://github.com/fourmolu/fourmolu
+2022-12-12,haskell,2241,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-12-12,haskell,1810,1,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools

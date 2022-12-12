@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-12,rust,4052,464,🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2022-12-12,rust,16278,97,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2022-12-12,rust,451,34,"OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust",sonnylazuardi,chatgpt-desktop,https://github.com/sonnylazuardi/chatgpt-desktop
+2022-12-12,rust,20760,37,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2022-12-12,rust,238,51,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2022-12-12,rust,55276,75,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2022-12-12,rust,6246,15,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2022-12-12,rust,75379,32,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2022-12-12,rust,34254,67,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2022-12-12,rust,1227,3,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2022-12-12,rust,1622,9,Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.,signalapp,libsignal,https://github.com/signalapp/libsignal
+2022-12-12,rust,7434,9,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-12-12,rust,9088,20,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2022-12-12,rust,20968,37,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2022-12-12,rust,31120,18,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2022-12-12,rust,6173,21,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-12-12,rust,22152,12,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2022-12-12,rust,9167,12,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2022-12-12,rust,25496,18,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2022-12-12,rust,21788,23,"Unified developer tools for JavaScript, TypeScript, and the web",rome,tools,https://github.com/rome/tools
+2022-12-12,rust,18043,15,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2022-12-12,rust,32550,43,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-12-12,rust,3011,1,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2022-12-12,rust,5565,17,"Friendly React-like GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2022-12-12,rust,353,20,An experimental Rust native UI framework,linebender,xilem,https://github.com/linebender/xilem

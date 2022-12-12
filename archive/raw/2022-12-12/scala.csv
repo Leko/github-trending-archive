@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-12,scala,12390,11,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-12-12,scala,2833,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-12-12,scala,1336,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,incubator-kyuubi,https://github.com/apache/incubator-kyuubi
+2022-12-12,scala,601,0,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-12-12,scala,429,1,"This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language",spark-examples,spark-scala-examples,https://github.com/spark-examples/spark-scala-examples
+2022-12-12,scala,3029,1,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-12-12,scala,311,0,Bitcoin Implementation in Scala,bitcoin-s,bitcoin-s,https://github.com/bitcoin-s/bitcoin-s
+2022-12-12,scala,8457,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-12-12,scala,727,1,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2022-12-12,scala,538,0,educational microarchitectures for risc-v isa,ucb-bar,riscv-sodor,https://github.com/ucb-bar/riscv-sodor
+2022-12-12,scala,17,0,Wrapper for ETH Ariane Core,ucb-bar,cva6-wrapper,https://github.com/ucb-bar/cva6-wrapper
+2022-12-12,scala,77,0,A Chisel RTL generator for network-on-chip interconnects,ucb-bar,constellation,https://github.com/ucb-bar/constellation
+2022-12-12,scala,7,0,Tools for integrating DspTools components into a rocket-chip,ucb-bar,rocket-dsp-utils,https://github.com/ucb-bar/rocket-dsp-utils
+2022-12-12,scala,111,0,Microarchitecture implementation of the decoupled vector-fetch accelerator,ucb-bar,hwacha,https://github.com/ucb-bar/hwacha
+2022-12-12,scala,55,0,,ucb-bar,testchipip,https://github.com/ucb-bar/testchipip
+2022-12-12,scala,156,0,The repository for the free Scala at Light Speed mini-course,rockthejvm,scala-at-light-speed,https://github.com/rockthejvm/scala-at-light-speed
+2022-12-12,scala,28,0,Useful utilities for BAR projects,ucb-bar,barstools,https://github.com/ucb-bar/barstools
+2022-12-12,scala,2,0,RTL blocks compatible with the Rocket Chip Generator,chipsalliance,rocket-chip-blocks,https://github.com/chipsalliance/rocket-chip-blocks
+2022-12-12,scala,175,0,A Library of Chisel3 Tools for Digital Signal Processing,ucb-bar,dsptools,https://github.com/ucb-bar/dsptools
+2022-12-12,scala,117,0,RISC-V Torture Test,ucb-bar,riscv-torture,https://github.com/ucb-bar/riscv-torture
+2022-12-12,scala,2,0,Wrapper for lowRISC Ibex,ucb-bar,ibex-wrapper,https://github.com/ucb-bar/ibex-wrapper
+2022-12-12,scala,4,0,,ucb-bar,FFTGenerator,https://github.com/ucb-bar/FFTGenerator
+2022-12-12,scala,1238,0,SonicBOOM: The Berkeley Out-of-Order Machine,riscv-boom,riscv-boom,https://github.com/riscv-boom/riscv-boom
+2022-12-12,scala,0,0,,samanz,OntoNER,https://github.com/samanz/OntoNER
+2022-12-12,scala,12561,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
