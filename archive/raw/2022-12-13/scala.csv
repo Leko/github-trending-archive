@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-13,scala,31,0,Scala Center's solution of Advent of Code,scalacenter,scala-advent-of-code,https://github.com/scalacenter/scala-advent-of-code
+2022-12-13,scala,8458,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-12-13,scala,13954,0,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2022-12-13,scala,12397,8,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-12-13,scala,42,11,,oyvindberg,tui-scala,https://github.com/oyvindberg/tui-scala
+2022-12-13,scala,509,2,Chess API written in scala. Immutable and free of side effects.,lichess-org,scalachess,https://github.com/lichess-org/scalachess
+2022-12-13,scala,575,5,Scala macros for compile-time generation of safe and ultra-fast JSON codecs,plokhotnyuk,jsoniter-scala,https://github.com/plokhotnyuk/jsoniter-scala
+2022-12-13,scala,1664,1,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-12-13,scala,12560,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-12-13,scala,727,0,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2022-12-13,scala,3,0,An RTL generator for a last-level shared inclusive TileLink cache controller,chipsalliance,rocket-chip-inclusive-cache,https://github.com/chipsalliance/rocket-chip-inclusive-cache
+2022-12-13,scala,2440,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-12-13,scala,3851,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-12-13,scala,738,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2022-12-13,scala,601,0,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-12-13,scala,170,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2022-12-13,scala,4599,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2022-12-13,scala,5370,0,Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.,linkerd,linkerd,https://github.com/linkerd/linkerd
+2022-12-13,scala,3,0,"This is an Image transformation webservice where we can see 3 algorithms performing updates on images. It implements a contour for images, the Kuwahara blur filter and finally an algorithm I made myself called chartizate. The latter creates images where the foreground is written text.",jesperancinha,image-train-filters-web,https://github.com/jesperancinha/image-train-filters-web
+2022-12-13,scala,1427,0,The Guardian’s image management system,guardian,grid,https://github.com/guardian/grid
+2022-12-13,scala,194,0,,ucb-bar,berkeley-hardfloat,https://github.com/ucb-bar/berkeley-hardfloat
+2022-12-13,scala,24,0,A Scala library for Context-Dependent Environments,chipsalliance,cde,https://github.com/chipsalliance/cde
+2022-12-13,scala,138,0,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2022-12-13,scala,1046,0,Compiler for the Vale programming language - http://vale.dev/,ValeLang,Vale,https://github.com/ValeLang/Vale
+2022-12-13,scala,5874,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
