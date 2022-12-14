@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-14,go,893,71,golang版微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2022-12-14,go,299,45,EKS Node Viewer,awslabs,eks-node-viewer,https://github.com/awslabs/eks-node-viewer
+2022-12-14,go,16055,9,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-12-14,go,7244,366,"The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes",kubeshark,kubeshark,https://github.com/kubeshark/kubeshark
+2022-12-14,go,3731,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-12-14,go,11509,15,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2022-12-14,go,3352,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-12-14,go,3770,1,Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.,tenable,terrascan,https://github.com/tenable/terrascan
+2022-12-14,go,12896,7,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2022-12-14,go,12722,25,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2022-12-14,go,12006,1,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-12-14,go,47,13,模拟v2ex的论坛系统,mtgnorton,cp-v2,https://github.com/mtgnorton/cp-v2
+2022-12-14,go,169,54,实现微信公众号被动返回接口的ChatGPT,gtoxlili,wechat-chatGPT,https://github.com/gtoxlili/wechat-chatGPT
+2022-12-14,go,3665,13,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2022-12-14,go,16568,17,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.  Learn Go by fixing 1000+ tiny programs.",inancgumus,learngo,https://github.com/inancgumus/learngo
+2022-12-14,go,65041,32,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-12-14,go,7532,9,Ebitengine - A dead simple 2D game engine for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2022-12-14,go,12292,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-12-14,go,7104,3,The Official Golang driver for MongoDB,mongodb,mongo-go-driver,https://github.com/mongodb/mongo-go-driver
+2022-12-14,go,40765,13,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2022-12-14,go,5768,6,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2022-12-14,go,17259,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2022-12-14,go,28003,9,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2022-12-14,go,5903,3,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
