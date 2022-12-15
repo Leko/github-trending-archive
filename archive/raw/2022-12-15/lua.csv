@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-15,lua,104,10,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2022-12-15,lua,91,15,A minimalist Neovim plugin for generating and editing text using OpenAI and GPT.,aduros,ai.vim,https://github.com/aduros/ai.vim
+2022-12-15,lua,2432,8,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-12-15,lua,75,0,Modules to utilise in other resources via imports and exports.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2022-12-15,lua,35,1,"Standalone ""third-eye"" targeting resource.",overextended,ox_target,https://github.com/overextended/ox_target
+2022-12-15,lua,10877,12,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2022-12-15,lua,33586,12,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-12-15,lua,19367,6,A community-driven modular vim/neovim distribution - The ultimate vimrc,SpaceVim,SpaceVim,https://github.com/SpaceVim/SpaceVim
+2022-12-15,lua,8105,9,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-12-15,lua,1237,4,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
+2022-12-15,lua,1721,4,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2022-12-15,lua,26,0,Multi-Character System Used With QB-Core,qbcore-framework,qb-multicharacter,https://github.com/qbcore-framework/qb-multicharacter
+2022-12-15,lua,629,3,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2022-12-15,lua,1250,6,A well configured and structured Neovim.,ayamir,nvimdots,https://github.com/ayamir/nvimdots
+2022-12-15,lua,12205,27,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-12-15,lua,1056,2,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2022-12-15,lua,3023,1,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2022-12-15,lua,204,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2022-12-15,lua,5957,16,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-12-15,lua,785,14,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2022-12-15,lua,1808,3,Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2022-12-15,lua,436,4,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2022-12-15,lua,1834,0,magit for neovim,TimUntersberger,neogit,https://github.com/TimUntersberger/neogit
+2022-12-15,lua,186,0,A monorepo for code used in videos/tutorials for Jeva. Created and maintained by @ThatZiv,jevajs,Jeva,https://github.com/jevajs/Jeva
+2022-12-15,lua,219,3,Smoothly navigate between neovim and multiplexer,numToStr,Navigator.nvim,https://github.com/numToStr/Navigator.nvim

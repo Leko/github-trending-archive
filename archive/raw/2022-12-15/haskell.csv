@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-15,haskell,30808,15,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-12-15,haskell,27192,8,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-12-15,haskell,1377,2,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2022-12-15,haskell,24,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-12-15,haskell,284,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-12-15,haskell,545,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-12-15,haskell,39,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-12-15,haskell,567,1,Reach: The Safest and Smartest DApp Programming Language,reach-sh,reach-lang,https://github.com/reach-sh/reach-lang
+2022-12-15,haskell,224,1,,nasa,ogma,https://github.com/nasa/ogma
+2022-12-15,haskell,19585,2,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-12-15,haskell,115,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-12-15,haskell,2242,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-12-15,haskell,7916,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-12-15,haskell,1438,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2022-12-15,haskell,243,1,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-12-15,haskell,55,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-12-15,haskell,2145,4,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2022-12-15,haskell,2786,1,Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).,ghc,ghc,https://github.com/ghc/ghc
+2022-12-15,haskell,2855,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-12-15,haskell,4830,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-12-15,haskell,2320,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-12-15,haskell,2798,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2022-12-15,haskell,1905,1,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2022-12-15,haskell,3750,0,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",facebook,duckling,https://github.com/facebook/duckling
+2022-12-15,haskell,5,0,Integrations with Vinyl/Frames records.,composite-hs,composite,https://github.com/composite-hs/composite

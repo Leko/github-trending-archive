@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-15,go,4522,21,"ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams",aler9,rtsp-simple-server,https://github.com/aler9/rtsp-simple-server
+2022-12-15,go,13702,39,Dolt – Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2022-12-15,go,2514,11,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2022-12-15,go,3676,11,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2022-12-15,go,181,13,实现微信公众号被动返回接口的ChatGPT,gtoxlili,wechat-chatGPT,https://github.com/gtoxlili/wechat-chatGPT
+2022-12-15,go,7352,139,"The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes",kubeshark,kubeshark,https://github.com/kubeshark/kubeshark
+2022-12-15,go,3469,6,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2022-12-15,go,8223,21,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2022-12-15,go,92840,64,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-12-15,go,11292,4,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-12-15,go,20329,3,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2022-12-15,go,980,91,golang版微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2022-12-15,go,7287,54,"Distributed, offline-first bug tracker embedded in git, with bridges",MichaelMure,git-bug,https://github.com/MichaelMure/git-bug
+2022-12-15,go,1063,10,"Helper Utils For Go: int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等",gookit,goutil,https://github.com/gookit/goutil
+2022-12-15,go,14115,6,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-12-15,go,10133,9,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2022-12-15,go,5723,7,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2022-12-15,go,5410,9,Generate a Go ORM tailored to your database schema.,volatiletech,sqlboiler,https://github.com/volatiletech/sqlboiler
+2022-12-15,go,6343,2,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-12-15,go,12732,7,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-12-15,go,1353,13,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot",helmfile,helmfile,https://github.com/helmfile/helmfile
+2022-12-15,go,769,0,MongoDB Community Kubernetes Operator,mongodb,mongodb-kubernetes-operator,https://github.com/mongodb/mongodb-kubernetes-operator
+2022-12-15,go,189,0,Nitro goes vroom and fixes everything,OffchainLabs,nitro,https://github.com/OffchainLabs/nitro
+2022-12-15,go,4904,6,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
