@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-16,scala,5500,1,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-12-16,scala,34566,2,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-12-16,scala,9167,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2022-12-16,scala,12426,13,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-12-16,scala,2091,0,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2022-12-16,scala,181,2,Strong type constraints for Scala,Iltotore,iron,https://github.com/Iltotore/iron
+2022-12-16,scala,2579,3,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-12-16,scala,489,1,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2022-12-16,scala,12557,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-12-16,scala,5149,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-12-16,scala,426,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2022-12-16,scala,66,0,A STAC/OGC API Features Web Service,azavea,franklin,https://github.com/azavea/franklin
+2022-12-16,scala,5370,0,Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.,linkerd,linkerd,https://github.com/linkerd/linkerd
+2022-12-16,scala,2446,2,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-12-16,scala,1393,0,"Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",akka,alpakka-kafka,https://github.com/akka/alpakka-kafka
+2022-12-16,scala,5763,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2022-12-16,scala,486,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2022-12-16,scala,2460,2,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2022-12-16,scala,326,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2022-12-16,scala,33,0,Scala Center's solution of Advent of Code,scalacenter,scala-advent-of-code,https://github.com/scalacenter/scala-advent-of-code
+2022-12-16,scala,3653,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-12-16,scala,8462,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-12-16,scala,601,0,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2022-12-16,scala,1311,0,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2022-12-16,scala,2836,1,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3

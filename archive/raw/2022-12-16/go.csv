@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-16,go,18393,10,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-12-16,go,3363,5,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2022-12-16,go,1724,32,The missing UI for Helm - visualize your releases,komodorio,helm-dashboard,https://github.com/komodorio/helm-dashboard
+2022-12-16,go,61,16,wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）,houko,wechatgpt,https://github.com/houko/wechatgpt
+2022-12-16,go,867,47,Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe,hahwul,DevSecOps,https://github.com/hahwul/DevSecOps
+2022-12-16,go,845,375,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,google,osv-scanner,https://github.com/google/osv-scanner
+2022-12-16,go,4872,4,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2022-12-16,go,1002,22,golang版微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2022-12-16,go,13678,10,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2022-12-16,go,14536,15,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-12-16,go,275,65,Artificial Intelligence Infrastructure-as-Code Generator.,gofireflyio,aiac,https://github.com/gofireflyio/aiac
+2022-12-16,go,11671,14,A compiler from Go to JavaScript for running Go code in a browser,gopherjs,gopherjs,https://github.com/gopherjs/gopherjs
+2022-12-16,go,5441,4,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
+2022-12-16,go,9681,2,"Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",future-architect,vuls,https://github.com/future-architect/vuls
+2022-12-16,go,4788,9,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2022-12-16,go,2763,12,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2022-12-16,go,3121,11,Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.,ory,dockertest,https://github.com/ory/dockertest
+2022-12-16,go,7003,7,"yq is a portable command-line YAML, JSON, XML, CSV and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2022-12-16,go,7525,5,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2022-12-16,go,2504,2,OCI Image Format,opencontainers,image-spec,https://github.com/opencontainers/image-spec
+2022-12-16,go,4603,6,Arbitrary-precision fixed-point decimal numbers in go,shopspring,decimal,https://github.com/shopspring/decimal
+2022-12-16,go,8038,5,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2022-12-16,go,1696,3,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,WireGuard,wireguard-go,https://github.com/WireGuard/wireguard-go
+2022-12-16,go,2014,10,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2022-12-16,go,4033,5,"trojan多用户管理部署程序, 支持web页面管理",Jrohy,trojan,https://github.com/Jrohy/trojan

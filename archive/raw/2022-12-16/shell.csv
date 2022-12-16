@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-16,shell,355,102,Running Rails from Docker for easy start to development,rails,docked,https://github.com/rails/docked
+2022-12-16,shell,1660,99,iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak,palera1n,palera1n,https://github.com/palera1n/palera1n
+2022-12-16,shell,10508,1,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2022-12-16,shell,63292,34,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-12-16,shell,12202,1,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2022-12-16,shell,389,4,,dreamncn,ParallelsDesktopCrack,https://github.com/dreamncn/ParallelsDesktopCrack
+2022-12-16,shell,6619,2,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2022-12-16,shell,6508,4,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2022-12-16,shell,7042,4,"Prowler is an Open Source security tool to perform cloud security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-12-16,shell,4549,14,Soothing pastel theme for the high-spirited!,catppuccin,catppuccin,https://github.com/catppuccin/catppuccin
+2022-12-16,shell,1269,4,"Scripts and samples to support Confluent Demos and Talks. Might be rough around the edges ;-) For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/",confluentinc,demo-scene,https://github.com/confluentinc/demo-scene
+2022-12-16,shell,11800,1,Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier,alex000kim,nsfw_data_scraper,https://github.com/alex000kim/nsfw_data_scraper
+2022-12-16,shell,2217,0,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2022-12-16,shell,538,0,Some Note,MoeClub,Note,https://github.com/MoeClub/Note
+2022-12-16,shell,3107,6,SteamOS 3 (Holo) archiso configuration,theVakhovskeIsTaken,holoiso,https://github.com/theVakhovskeIsTaken/holoiso
+2022-12-16,shell,3646,0,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2022-12-16,shell,199,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2022-12-16,shell,809,1,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2022-12-16,shell,14338,3,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2022-12-16,shell,3537,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-12-16,shell,4276,2,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2022-12-16,shell,741,4,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2022-12-16,shell,603,0,Installation script to deploy standard software on Macs,Installomator,Installomator,https://github.com/Installomator/Installomator
+2022-12-16,shell,550,1,"A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process.",grahampugh,erase-install,https://github.com/grahampugh/erase-install
+2022-12-16,shell,8154,1,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
