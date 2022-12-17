@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-17,python,2170,58,"Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",Jxck-S,plane-notify,https://github.com/Jxck-S/plane-notify
+2022-12-17,python,914,92,京东抢购自动下单助手，GUI 支持 Windows 和 macOS,zas023,JdBuyer,https://github.com/zas023/JdBuyer
+2022-12-17,python,1151,235,SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.,skypilot-org,skypilot,https://github.com/skypilot-org/skypilot
+2022-12-17,python,76297,94,"Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",huggingface,transformers,https://github.com/huggingface/transformers
+2022-12-17,python,49521,21,The Python programming language,python,cpython,https://github.com/python/cpython
+2022-12-17,python,730,3,Utility functions for dbt projects.,dbt-labs,dbt-utils,https://github.com/dbt-labs/dbt-utils
+2022-12-17,python,32830,23,Developer-first error tracking and performance monitoring,getsentry,sentry,https://github.com/getsentry/sentry
+2022-12-17,python,14349,6,Optional static typing for Python,python,mypy,https://github.com/python/mypy
+2022-12-17,python,5478,38,"Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",Sanster,lama-cleaner,https://github.com/Sanster/lama-cleaner
+2022-12-17,python,33781,29,YOLOv5  in PyTorch > ONNX > CoreML > TFLite,ultralytics,yolov5,https://github.com/ultralytics/yolov5
+2022-12-17,python,20292,21,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.,facebookresearch,fairseq,https://github.com/facebookresearch/fairseq
+2022-12-17,python,289,50,,google-research,robotics_transformer,https://github.com/google-research/robotics_transformer
+2022-12-17,python,63,10,GPT-Linebot using python flask for vercel,howarder3,GPT-Linebot-python-flask-on-vercel,https://github.com/howarder3/GPT-Linebot-python-flask-on-vercel
+2022-12-17,python,3370,10,"A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",huggingface,accelerate,https://github.com/huggingface/accelerate
+2022-12-17,python,1674,9,WPA/WPA2 密码字典，用于 wifi 密码暴力破解,conwnet,wpa-dictionary,https://github.com/conwnet/wpa-dictionary
+2022-12-17,python,755,21,Open source vulnerability DB and triage service.,google,osv.dev,https://github.com/google/osv.dev
+2022-12-17,python,36265,18,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",pandas-dev,pandas,https://github.com/pandas-dev/pandas
+2022-12-17,python,175,29,基于OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ实现，多平台一键部署，高稳定性，支持多api-key自动切换,RockChinQ,QChatGPT,https://github.com/RockChinQ/QChatGPT
+2022-12-17,python,13127,10,State-of-the-art 2D and 3D Face Analysis Project,deepinsight,insightface,https://github.com/deepinsight/insightface
+2022-12-17,python,4526,30,Experience macOS just like before,dortania,OpenCore-Legacy-Patcher,https://github.com/dortania/OpenCore-Legacy-Patcher
+2022-12-17,python,658,71,A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF),CarperAI,trlx,https://github.com/CarperAI/trlx
+2022-12-17,python,4528,11,The Triton Inference Server provides an optimized cloud and edge inferencing solution.,triton-inference-server,server,https://github.com/triton-inference-server/server
+2022-12-17,python,359,12,"Lightweight library to accelerate Stable-Diffusion, Dreambooth into fastest inference models with single line of code",VoltaML,voltaML-fast-stable-diffusion,https://github.com/VoltaML/voltaML-fast-stable-diffusion
+2022-12-17,python,20971,17,"Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.",Lightning-AI,lightning,https://github.com/Lightning-AI/lightning
+2022-12-17,python,1216,16,"TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",microsoft,torchgeo,https://github.com/microsoft/torchgeo

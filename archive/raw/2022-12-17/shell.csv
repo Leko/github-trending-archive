@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-17,shell,63323,35,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2022-12-17,shell,357,27,"apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.",ax,apk.sh,https://github.com/ax/apk.sh
+2022-12-17,shell,7040,0,"Prowler is an Open Source Security tool to perform Cloud security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-12-17,shell,9444,6,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-12-17,shell,400,56,Running Rails from Docker for easy start to development,rails,docked,https://github.com/rails/docked
+2022-12-17,shell,153337,39,"A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2022-12-17,shell,4855,5,RFCs for changes to Rust,rust-lang,rfcs,https://github.com/rust-lang/rfcs
+2022-12-17,shell,8158,4,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2022-12-17,shell,743,1,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2022-12-17,shell,16311,8,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2022-12-17,shell,34068,15,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 来看看，你会发现相见恨晚！,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2022-12-17,shell,1723,64,iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak,palera1n,palera1n,https://github.com/palera1n/palera1n
+2022-12-17,shell,8410,3,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2022-12-17,shell,663,2,,vcheckzen,KeepAliveE5,https://github.com/vcheckzen/KeepAliveE5
+2022-12-17,shell,2942,3,A collection of enhancements for UnifiOS based devices,unifi-utilities,unifios-utilities,https://github.com/unifi-utilities/unifios-utilities
+2022-12-17,shell,366,1,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2022-12-17,shell,8746,2,"Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",spinnaker,spinnaker,https://github.com/spinnaker/spinnaker
+2022-12-17,shell,677,0,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2022-12-17,shell,3538,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2022-12-17,shell,2623,5,"Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",Jeevan-kumar-Raj,Grokking-System-Design,https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+2022-12-17,shell,4279,3,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2022-12-17,shell,5280,2,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2022-12-17,shell,20101,14,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-12-17,shell,809,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2022-12-17,shell,612,1,"Voilà, install macOS on ANY Computer! This is really and magic easiest way!",luchina-gabriel,OSX-PROXMOX,https://github.com/luchina-gabriel/OSX-PROXMOX
