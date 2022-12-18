@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-18,go,153,13,ChatGPT机器人在钉钉群聊中交互,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2022-12-18,go,1562,384,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,google,osv-scanner,https://github.com/google/osv-scanner
+2022-12-18,go,14124,5,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2022-12-18,go,94505,20,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2022-12-18,go,17314,33,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-12-18,go,2347,8,Linux Runtime Security and Forensics using eBPF,aquasecurity,tracee,https://github.com/aquasecurity/tracee
+2022-12-18,go,32884,40,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2022-12-18,go,5393,6,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2022-12-18,go,15088,15,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2022-12-18,go,7307,6,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-12-18,go,18917,14,Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2022-12-18,go,23318,4,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2022-12-18,go,12232,1,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-12-18,go,7786,28,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2022-12-18,go,10068,5,CoreDNS is a DNS server that chains plugins,coredns,coredns,https://github.com/coredns/coredns
+2022-12-18,go,10900,4,Git extension for versioning large files,git-lfs,git-lfs,https://github.com/git-lfs/git-lfs
+2022-12-18,go,2547,1,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2022-12-18,go,3279,6,The new home of the CUE language! Validate and define text-based and dynamic configuration,cue-lang,cue,https://github.com/cue-lang/cue
+2022-12-18,go,4619,4,The official Go client for Elasticsearch,elastic,go-elasticsearch,https://github.com/elastic/go-elasticsearch
+2022-12-18,go,1324,1,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2022-12-18,go,4007,5,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",fluxcd,flagger,https://github.com/fluxcd/flagger
+2022-12-18,go,7141,2,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2022-12-18,go,48220,16,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-12-18,go,17866,13,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
