@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-19,go,1969,9,"**ON HOLIDAY UNTIL JAN 2023 -- REPO IS READ ONLY UNTIL THEN** Fast, fun, ActivityPub server, powered by Go.",superseriousbusiness,gotosocial,https://github.com/superseriousbusiness/gotosocial
+2022-12-19,go,3580,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2022-12-19,go,1928,211,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,google,osv-scanner,https://github.com/google/osv-scanner
+2022-12-19,go,4626,1,"A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
+2022-12-19,go,2026,1,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2022-12-19,go,10080,16,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2022-12-19,go,16809,10,"支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2022-12-19,go,34579,34,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2022-12-19,go,11059,16,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2022-12-19,go,176,23,ChatGPT机器人在钉钉群聊中交互,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2022-12-19,go,44925,21,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2022-12-19,go,33012,8,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2022-12-19,go,13769,35,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2022-12-19,go,1870,4,Community managed domain list. Generate geosite.dat for V2Ray.,v2fly,domain-list-community,https://github.com/v2fly/domain-list-community
+2022-12-19,go,4008,5,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",fluxcd,flagger,https://github.com/fluxcd/flagger
+2022-12-19,go,48238,17,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-12-19,go,2348,2,Linux Runtime Security and Forensics using eBPF,aquasecurity,tracee,https://github.com/aquasecurity/tracee
+2022-12-19,go,4619,8,"Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",apernet,hysteria,https://github.com/apernet/hysteria
+2022-12-19,go,4484,1,syzkaller is an unsupervised coverage-guided kernel fuzzer,google,syzkaller,https://github.com/google/syzkaller
+2022-12-19,go,7962,10,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk
+2022-12-19,go,802,16,Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs,optiv,Mangle,https://github.com/optiv/Mangle
+2022-12-19,go,2109,6,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2022-12-19,go,7814,29,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2022-12-19,go,3007,13,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2022-12-19,go,21759,12,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s

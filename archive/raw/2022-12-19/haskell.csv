@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-19,haskell,2244,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2022-12-19,haskell,351,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-12-19,haskell,4803,13,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-12-19,haskell,27,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2022-12-19,haskell,104,1,,haskell,ghcup-hs,https://github.com/haskell/ghcup-hs
+2022-12-19,haskell,19609,9,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2022-12-19,haskell,2328,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2022-12-19,haskell,27,0,,runtimeverification,plutus-core-semantics,https://github.com/runtimeverification/plutus-core-semantics
+2022-12-19,haskell,5,0,Integrations with Vinyl/Frames records.,composite-hs,composite,https://github.com/composite-hs/composite
+2022-12-19,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2022-12-19,haskell,48,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2022-12-19,haskell,39,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2022-12-19,haskell,545,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-12-19,haskell,55,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2022-12-19,haskell,799,0,"Functional reactive web and mobile applications, with batteries included.",obsidiansystems,obelisk,https://github.com/obsidiansystems/obelisk
+2022-12-19,haskell,81,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2022-12-19,haskell,697,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2022-12-19,haskell,116,0,Addresses and mnemonic manipulation & derivations,input-output-hk,cardano-addresses,https://github.com/input-output-hk/cardano-addresses
+2022-12-19,haskell,24,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2022-12-19,haskell,3773,0,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-12-19,haskell,7946,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-12-19,haskell,1146,0,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2022-12-19,haskell,3805,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-12-19,haskell,1,0,Binary Indexed Trees in Haskell,maxwellsayles,binary-indexed-tree,https://github.com/maxwellsayles/binary-indexed-tree
+2022-12-19,haskell,2040,6,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
