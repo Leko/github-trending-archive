@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-20,shell,1454,204,"apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.",ax,apk.sh,https://github.com/ax/apk.sh
+2022-12-20,shell,3558,19,Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android),LSPosed,MagiskOnWSALocal,https://github.com/LSPosed/MagiskOnWSALocal
+2022-12-20,shell,9468,7,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2022-12-20,shell,476,24,世界上最简单的Trojan部署脚本，仅需一行命令即可搭建一台代理服务器,maplecool,easytrojan,https://github.com/maplecool/easytrojan
+2022-12-20,shell,40028,8,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2022-12-20,shell,20172,17,This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.,MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2022-12-20,shell,1184,6,Emulator configurator for Steam Deck,dragoonDorise,EmuDeck,https://github.com/dragoonDorise/EmuDeck
+2022-12-20,shell,1861,0,"Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...",nextcloud,nextcloudpi,https://github.com/nextcloud/nextcloudpi
+2022-12-20,shell,2849,5,Proxmox Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2022-12-20,shell,4580,3,"A huge collection of Rofi based custom Applets, Launchers & Powermenus.",adi1090x,rofi,https://github.com/adi1090x/rofi
+2022-12-20,shell,4234,1,Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩,stupidloud,nanopi-openwrt,https://github.com/stupidloud/nanopi-openwrt
+2022-12-20,shell,1334,1,"Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.",PurpurMC,Purpur,https://github.com/PurpurMC/Purpur
+2022-12-20,shell,3487,2,install latest or LTS linux kernel and enable BBR or BBR plus,jinwyp,one_click_script,https://github.com/jinwyp/one_click_script
+2022-12-20,shell,5328,1,Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update),SuLingGG,OpenWrt-Rpi,https://github.com/SuLingGG/OpenWrt-Rpi
+2022-12-20,shell,20597,5,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2022-12-20,shell,59,26,在 Replit 免费服务上部署 Trojan Websocket 协议,wy580477,replit-trojan,https://github.com/wy580477/replit-trojan
+2022-12-20,shell,10063,6,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2022-12-20,shell,5989,4,Pi-hole in a docker container,pi-hole,docker-pi-hole,https://github.com/pi-hole/docker-pi-hole
+2022-12-20,shell,4708,2,"A huge collection of polybar themes with different styles, colors and variants.",adi1090x,polybar-themes,https://github.com/adi1090x/polybar-themes
+2022-12-20,shell,7481,1,"A set of vim, zsh, git, and tmux configuration files.",thoughtbot,dotfiles,https://github.com/thoughtbot/dotfiles
+2022-12-20,shell,699,1,"Redpill 定制化编译，自定义配置及驱动并通过 Github Action 编译 DSM redpill 引导的平台. 理论上与本地编并无区别, 优点只是不需要linux基础.而且编译速度快., 适合没有linux基础的人使用，或者批量测试。",wjz304,Redpill_CustomBuild,https://github.com/wjz304/Redpill_CustomBuild
+2022-12-20,shell,1804,31,iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak,palera1n,palera1n,https://github.com/palera1n/palera1n
+2022-12-20,shell,16819,9,A command-line system information tool written in bash 3.2+,dylanaraps,neofetch,https://github.com/dylanaraps/neofetch
+2022-12-20,shell,2686,4,"Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",urbanadventurer,Android-PIN-Bruteforce,https://github.com/urbanadventurer/Android-PIN-Bruteforce
+2022-12-20,shell,1375,1,Klipper Installation And Update Helper,th33xitus,kiauh,https://github.com/th33xitus/kiauh
