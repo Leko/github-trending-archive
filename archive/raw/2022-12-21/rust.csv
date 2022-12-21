@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-21,rust,3369,49,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2022-12-21,rust,8138,872,A spotify daemon,Spotifyd,spotifyd,https://github.com/Spotifyd/spotifyd
+2022-12-21,rust,1916,169,An efficient vector-graphics renderer,google,forma,https://github.com/google/forma
+2022-12-21,rust,884,130,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2022-12-21,rust,6440,37,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2022-12-21,rust,2570,15,A pure Rust implementation of WebRTC,webrtc-rs,webrtc,https://github.com/webrtc-rs/webrtc
+2022-12-21,rust,3491,29,Open Source Spotify client library,librespot-org,librespot,https://github.com/librespot-org/librespot
+2022-12-21,rust,12706,18,Anki for desktop computers,ankitects,anki,https://github.com/ankitects/anki
+2022-12-21,rust,20673,39,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-12-21,rust,823,54,Copilot for your terminal,m1guelpf,plz-cli,https://github.com/m1guelpf/plz-cli
+2022-12-21,rust,34827,19,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2022-12-21,rust,1418,3,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
+2022-12-21,rust,3379,8,"Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",hrkfdn,ncspot,https://github.com/hrkfdn/ncspot
+2022-12-21,rust,3389,1,RedisJSON - a JSON data type for Redis,RedisJSON,RedisJSON,https://github.com/RedisJSON/RedisJSON
+2022-12-21,rust,1306,15,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2022-12-21,rust,13983,28,Spotify for the terminal written in Rust,Rigellute,spotify-tui,https://github.com/Rigellute/spotify-tui
+2022-12-21,rust,72,12,Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/,scsibug,nostr-rs-relay,https://github.com/scsibug/nostr-rs-relay
+2022-12-21,rust,1164,0,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2022-12-21,rust,13762,18,a structural diff that understands syntax,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2022-12-21,rust,2857,6,derive(Error) for struct and enum error types,dtolnay,thiserror,https://github.com/dtolnay/thiserror
+2022-12-21,rust,6989,9,Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2022-12-21,rust,1151,20,Salvo is a powerful and simplest web server framework in Rust world,salvo-rs,salvo,https://github.com/salvo-rs/salvo
+2022-12-21,rust,2739,12,"Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.",build-trust,ockam,https://github.com/build-trust/ockam
+2022-12-21,rust,10968,12,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2022-12-21,rust,5782,22,"Friendly React-like GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus

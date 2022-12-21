@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-21,go,8204,47,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2022-12-21,go,2519,370,The missing UI for Helm - visualize your releases,komodorio,helm-dashboard,https://github.com/komodorio/helm-dashboard
+2022-12-21,go,64759,16,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-12-21,go,15770,41,Terminal JSON viewer,antonmedv,fx,https://github.com/antonmedv/fx
+2022-12-21,go,9853,6,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2022-12-21,go,12780,8,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-12-21,go,25798,2,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-12-21,go,4738,85,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",answerdev,answer,https://github.com/answerdev/answer
+2022-12-21,go,2435,179,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,google,osv-scanner,https://github.com/google/osv-scanner
+2022-12-21,go,2553,3,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2022-12-21,go,2005,19,"**ON HOLIDAY UNTIL JAN 2023 -- REPO IS READ ONLY UNTIL THEN** Fast, fun, ActivityPub server, powered by Go.",superseriousbusiness,gotosocial,https://github.com/superseriousbusiness/gotosocial
+2022-12-21,go,8796,17,Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2022-12-21,go,33161,103,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2022-12-21,go,19033,8,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2022-12-21,go,9453,4,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-12-21,go,11312,5,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-12-21,go,42146,9,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2022-12-21,go,9082,5,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2022-12-21,go,7494,4,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2022-12-21,go,2939,1,Go implementation of Ethereum proof of stake,prysmaticlabs,prysm,https://github.com/prysmaticlabs/prysm
+2022-12-21,go,8413,6,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2022-12-21,go,5098,7,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2022-12-21,go,1760,31,An automated e-mail OSINT tool,alpkeskin,mosint,https://github.com/alpkeskin/mosint
+2022-12-21,go,12308,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2022-12-21,go,15319,15,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
