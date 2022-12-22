@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-22,go,17887,174,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-12-22,go,8743,243,D2 is a modern diagram scripting language that turns text to diagrams.,terrastruct,d2,https://github.com/terrastruct/d2
+2022-12-22,go,8350,183,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2022-12-22,go,26631,16,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-12-22,go,4897,143,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",answerdev,answer,https://github.com/answerdev/answer
+2022-12-22,go,64786,39,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2022-12-22,go,9859,8,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2022-12-22,go,3072,1,Open source fine-grained permissions database inspired by Google Zanzibar,authzed,spicedb,https://github.com/authzed/spicedb
+2022-12-22,go,83,6,"web frontend for git, written in go",icyphox,legit,https://github.com/icyphox/legit
+2022-12-22,go,40590,21,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2022-12-22,go,2629,173,The missing UI for Helm - visualize your releases,komodorio,helm-dashboard,https://github.com/komodorio/helm-dashboard
+2022-12-22,go,33229,71,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2022-12-22,go,2365,2,"Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.",gardener,gardener,https://github.com/gardener/gardener
+2022-12-22,go,14580,5,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2022-12-22,go,6989,16,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2022-12-22,go,24512,6,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2022-12-22,go,18425,13,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-12-22,go,7327,5,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-12-22,go,14371,16,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
+2022-12-22,go,5105,8,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2022-12-22,go,12258,12,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-12-22,go,12054,11,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-12-22,go,34984,32,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2022-12-22,go,6374,7,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2022-12-22,go,23349,15,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm

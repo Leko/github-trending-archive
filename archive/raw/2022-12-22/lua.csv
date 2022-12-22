@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-22,lua,1870,177,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2022-12-22,lua,3042,16,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2022-12-22,lua,533,36,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2022-12-22,lua,5017,19,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2022-12-22,lua,1651,9,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2022-12-22,lua,2472,5,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-12-22,lua,479,16,"Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.",jackMort,ChatGPT.nvim,https://github.com/jackMort/ChatGPT.nvim
+2022-12-22,lua,6315,4,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-12-22,lua,1628,8,"A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2022-12-22,lua,980,2,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2022-12-22,lua,6020,11,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2022-12-22,lua,2718,16,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2022-12-22,lua,2661,3,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2022-12-22,lua,1959,3,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2022-12-22,lua,4414,4,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2022-12-22,lua,910,3,Standalone UI for nvim-lsp progress,j-hui,fidget.nvim,https://github.com/j-hui/fidget.nvim
+2022-12-22,lua,11871,4,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-12-22,lua,5287,2,awesome window manager,awesomeWM,awesome,https://github.com/awesomeWM/awesome
+2022-12-22,lua,743,1,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2022-12-22,lua,1357,8,"Highlight, list and search todo comments in your projects",folke,todo-comments.nvim,https://github.com/folke/todo-comments.nvim
+2022-12-22,lua,33627,9,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-12-22,lua,3027,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2022-12-22,lua,1301,3,The Refactoring library based off the Refactoring book by Martin Fowler,ThePrimeagen,refactoring.nvim,https://github.com/ThePrimeagen/refactoring.nvim
+2022-12-22,lua,8229,15,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-12-22,lua,2962,10,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
