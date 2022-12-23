@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-23,go,106869,53,The Go programming language,golang,go,https://github.com/golang/go
+2022-12-23,go,8109,7,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-12-23,go,1868,25,An automated e-mail OSINT tool,alpkeskin,mosint,https://github.com/alpkeskin/mosint
+2022-12-23,go,13849,17,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2022-12-23,go,18132,319,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-12-23,go,3334,3,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2022-12-23,go,3166,4,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2022-12-23,go,3277,6,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2022-12-23,go,9013,286,D2 is a modern diagram scripting language that turns text to diagrams.,terrastruct,d2,https://github.com/terrastruct/d2
+2022-12-23,go,8414,85,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2022-12-23,go,14054,4,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-12-23,go,1268,8,Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data),ipinfo,cli,https://github.com/ipinfo/cli
+2022-12-23,go,2767,56,"A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",thangchung,go-coffeeshop,https://github.com/thangchung/go-coffeeshop
+2022-12-23,go,5057,164,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",answerdev,answer,https://github.com/answerdev/answer
+2022-12-23,go,8415,44,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2022-12-23,go,35018,35,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2022-12-23,go,3092,20,Open source fine-grained permissions database inspired by Google Zanzibar,authzed,spicedb,https://github.com/authzed/spicedb
+2022-12-23,go,4670,16,"ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams",aler9,rtsp-simple-server,https://github.com/aler9/rtsp-simple-server
+2022-12-23,go,1855,14,ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.,zitadel,zitadel,https://github.com/zitadel/zitadel
+2022-12-23,go,2565,5,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2022-12-23,go,21799,10,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2022-12-23,go,11327,8,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2022-12-23,go,14391,19,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
+2022-12-23,go,36793,16,Multi-Cloud  Object Storage,minio,minio,https://github.com/minio/minio
+2022-12-23,go,8317,5,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock

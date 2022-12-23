@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-23,lua,733,137,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2022-12-23,lua,1972,102,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2022-12-23,lua,684,5,"Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2022-12-23,lua,87,4,A telescope extension to view and search your undo tree,debugloop,telescope-undo.nvim,https://github.com/debugloop/telescope-undo.nvim
+2022-12-23,lua,1655,4,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2022-12-23,lua,1212,4,Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2022-12-23,lua,4041,10,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2022-12-23,lua,33633,7,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2022-12-23,lua,3912,9,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2022-12-23,lua,8241,15,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2022-12-23,lua,73,1,Fun little plugin that can be used as a screensaver and on your dashboard,folke,drop.nvim,https://github.com/folke/drop.nvim
+2022-12-23,lua,221,8,My Dot Files,folke,dot,https://github.com/folke/dot
+2022-12-23,lua,683,1,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
+2022-12-23,lua,1635,7,"A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2022-12-23,lua,29,0,Admin Menu Using MenuV,qbcore-framework,qb-adminmenu,https://github.com/qbcore-framework/qb-adminmenu
+2022-12-23,lua,2724,10,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2022-12-23,lua,76,0,Modules to utilise in other resources via imports and exports.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2022-12-23,lua,6323,8,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-12-23,lua,818,2,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2022-12-23,lua,1588,7,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2022-12-23,lua,10930,5,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2022-12-23,lua,1334,4,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2022-12-23,lua,908,24,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2022-12-23,lua,2,1,yes,rouxhaver,scripts,https://github.com/rouxhaver/scripts
+2022-12-23,lua,2266,8,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim

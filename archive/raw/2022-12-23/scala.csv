@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-23,scala,5161,4,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-12-23,scala,8463,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-12-23,scala,2454,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2022-12-23,scala,5518,4,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2022-12-23,scala,2745,2,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2022-12-23,scala,302,0,Server-side Web Authentication library for Java https://www.w3.org/TR/webauthn/#rp-operations,Yubico,java-webauthn-server,https://github.com/Yubico/java-webauthn-server
+2022-12-23,scala,34602,4,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-12-23,scala,3662,3,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2022-12-23,scala,12281,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2022-12-23,scala,493,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2022-12-23,scala,0,0,,gauthamsam,cs260-hw6,https://github.com/gauthamsam/cs260-hw6
+2022-12-23,scala,2585,3,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2022-12-23,scala,2,0,Wrapper for lowRISC Ibex,ucb-bar,ibex-wrapper,https://github.com/ucb-bar/ibex-wrapper
+2022-12-23,scala,4,0,,ucb-bar,FFTGenerator,https://github.com/ucb-bar/FFTGenerator
+2022-12-23,scala,7,0,Tools for integrating DspTools components into a rocket-chip,ucb-bar,rocket-dsp-utils,https://github.com/ucb-bar/rocket-dsp-utils
+2022-12-23,scala,728,0,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2022-12-23,scala,111,0,Microarchitecture implementation of the decoupled vector-fetch accelerator,ucb-bar,hwacha,https://github.com/ucb-bar/hwacha
+2022-12-23,scala,541,0,educational microarchitectures for risc-v isa,ucb-bar,riscv-sodor,https://github.com/ucb-bar/riscv-sodor
+2022-12-23,scala,28,0,Useful utilities for BAR projects,ucb-bar,barstools,https://github.com/ucb-bar/barstools
+2022-12-23,scala,189,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-12-23,scala,11162,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2022-12-23,scala,988,1,Cortex: a Powerful Observable Analysis and Active Response Engine,TheHive-Project,Cortex,https://github.com/TheHive-Project/Cortex
+2022-12-23,scala,21,1,"In progress 2022 and complete 2021 to 2015 entries for the annual Advent of Code challenge, written in concise idiomatic functional Scala.",maneatingape,advent-of-code,https://github.com/maneatingape/advent-of-code
+2022-12-23,scala,1160,8,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-12-23,scala,170,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
