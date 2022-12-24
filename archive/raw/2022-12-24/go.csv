@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-24,go,18334,168,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-12-24,go,12109,25,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-12-24,go,3108,17,Open source fine-grained permissions database inspired by Google Zanzibar,authzed,spicedb,https://github.com/authzed/spicedb
+2022-12-24,go,2806,41,"A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",thangchung,go-coffeeshop,https://github.com/thangchung/go-coffeeshop
+2022-12-24,go,425,53,Artificial Intelligence Infrastructure-as-Code Generator.,gofireflyio,aiac,https://github.com/gofireflyio/aiac
+2022-12-24,go,24038,14,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2022-12-24,go,12271,2,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-12-24,go,9110,101,D2 is a modern diagram scripting language that turns text to diagrams.,terrastruct,d2,https://github.com/terrastruct/d2
+2022-12-24,go,5109,54,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",answerdev,answer,https://github.com/answerdev/answer
+2022-12-24,go,9141,15,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2022-12-24,go,35036,18,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2022-12-24,go,8124,16,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-12-24,go,15376,13,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2022-12-24,go,26679,8,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2022-12-24,go,106928,96,The Go programming language,golang,go,https://github.com/golang/go
+2022-12-24,go,7018,11,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2022-12-24,go,93309,68,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-12-24,go,9247,7,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2022-12-24,go,21805,6,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2022-12-24,go,18446,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2022-12-24,go,13292,9,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2022-12-24,go,3062,5,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2022-12-24,go,2945,4,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2022-12-24,go,538,0,CSI Driver for Amazon EFS https://aws.amazon.com/efs/,kubernetes-sigs,aws-efs-csi-driver,https://github.com/kubernetes-sigs/aws-efs-csi-driver
+2022-12-24,go,4374,2,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
