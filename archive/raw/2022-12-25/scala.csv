@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-25,scala,1349,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2022-12-25,scala,12464,4,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2022-12-25,scala,5166,4,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2022-12-25,scala,2850,2,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2022-12-25,scala,1164,2,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2022-12-25,scala,5481,2,"Code, exercises, answers, and hints to go along with the book ""Functional Programming in Scala""",fpinscala,fpinscala,https://github.com/fpinscala/fpinscala
+2022-12-25,scala,831,0,"Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",scalacenter,bloop,https://github.com/scalacenter/bloop
+2022-12-25,scala,2576,1,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2022-12-25,scala,12560,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2022-12-25,scala,3041,1,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2022-12-25,scala,2466,0,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2022-12-25,scala,10,0,All Rudder public plugins in one repository. Licenses are by-plugin.,Normation,rudder-plugins,https://github.com/Normation/rudder-plugins
+2022-12-25,scala,8,0,,yanns,play2-scala-DI,https://github.com/yanns/play2-scala-DI
+2022-12-25,scala,1410,1,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2022-12-25,scala,8462,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2022-12-25,scala,1672,2,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2022-12-25,scala,42,0,An implementation of the Oberon language using Scala,UnBCIC-TP2,Oberon-Scala,https://github.com/UnBCIC-TP2/Oberon-Scala
+2022-12-25,scala,34612,6,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2022-12-25,scala,42,0,Java and Scala SDKs for Kalix,lightbend,kalix-jvm-sdk,https://github.com/lightbend/kalix-jvm-sdk
+2022-12-25,scala,3857,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2022-12-25,scala,189,0,Apache Spark Connector for Azure Cosmos DB,Azure,azure-cosmosdb-spark,https://github.com/Azure/azure-cosmosdb-spark
+2022-12-25,scala,2218,0,"Fast, testable, Scala services built on TwitterServer and Finagle",twitter,finatra,https://github.com/twitter/finatra
+2022-12-25,scala,7194,0,Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.,twitter-archive,snowflake,https://github.com/twitter-archive/snowflake
+2022-12-25,scala,768,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2022-12-25,scala,5521,1,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta

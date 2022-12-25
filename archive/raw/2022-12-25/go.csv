@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-25,go,106992,42,The Go programming language,golang,go,https://github.com/golang/go
+2022-12-25,go,12131,22,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2022-12-25,go,76,24,Complete source of Bitindi Blockhain,bitindi,blockchain-core,https://github.com/bitindi/blockchain-core
+2022-12-25,go,18482,164,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2022-12-25,go,1785,11,Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.,testcontainers,testcontainers-go,https://github.com/testcontainers/testcontainers-go
+2022-12-25,go,2821,19,"A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",thangchung,go-coffeeshop,https://github.com/thangchung/go-coffeeshop
+2022-12-25,go,30849,5,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2022-12-25,go,10235,22,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2022-12-25,go,4534,21,"Instant, easy, and predictable development environments",jetpack-io,devbox,https://github.com/jetpack-io/devbox
+2022-12-25,go,1884,16,ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.,zitadel,zitadel,https://github.com/zitadel/zitadel
+2022-12-25,go,5246,30,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2022-12-25,go,64362,14,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2022-12-25,go,9468,2,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2022-12-25,go,93376,70,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2022-12-25,go,12804,5,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2022-12-25,go,3006,8,The Havoc Framework.,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2022-12-25,go,14355,17,The personal information dashboard for your terminal,wtfutil,wtf,https://github.com/wtfutil/wtf
+2022-12-25,go,19549,5,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2022-12-25,go,26234,8,"Drone is a Container-Native, Continuous Delivery Platform",harness,drone,https://github.com/harness/drone
+2022-12-25,go,14064,3,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2022-12-25,go,8124,2,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2022-12-25,go,30801,7,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2022-12-25,go,9141,21,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-12-25,go,7345,4,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-12-25,go,3699,2,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
