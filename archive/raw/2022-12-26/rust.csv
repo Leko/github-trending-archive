@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-26,rust,1706,350,,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2022-12-26,rust,11033,60,The Rust Programming Language,rust-lang,book,https://github.com/rust-lang/book
+2022-12-26,rust,20933,83,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2022-12-26,rust,680,36,Learn Macros In Rust,tfpk,macrokata,https://github.com/tfpk/macrokata
+2022-12-26,rust,32921,23,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2022-12-26,rust,2125,12,High-level memory-safe binding generator for Flutter/Dart <-> Rust,fzyzcjy,flutter_rust_bridge,https://github.com/fzyzcjy/flutter_rust_bridge
+2022-12-26,rust,43677,15,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2022-12-26,rust,7525,12,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2022-12-26,rust,3428,14,An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2022-12-26,rust,2033,22,"A file server that supports static serving, uploading, searching, accessing control, webdav...",sigoden,dufs,https://github.com/sigoden/dufs
+2022-12-26,rust,1312,131,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2022-12-26,rust,16554,29,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2022-12-26,rust,17431,11,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2022-12-26,rust,9807,5,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2022-12-26,rust,2130,2,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2022-12-26,rust,6277,3,阿里云盘 WebDAV 服务,messense,aliyundrive-webdav,https://github.com/messense/aliyundrive-webdav
+2022-12-26,rust,12997,21,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2022-12-26,rust,17455,24,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2022-12-26,rust,10935,5,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2022-12-26,rust,194,43,"A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process",mitsuhiko,teetty,https://github.com/mitsuhiko/teetty
+2022-12-26,rust,886,19,The enterprise-ready webhooks service,svix,svix-webhooks,https://github.com/svix/svix-webhooks
+2022-12-26,rust,776,15,Synchronize games from other platforms into your Steam library,PhilipK,BoilR,https://github.com/PhilipK/BoilR
+2022-12-26,rust,945,5,Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.,Yamato-Security,hayabusa,https://github.com/Yamato-Security/hayabusa
+2022-12-26,rust,5126,14,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2022-12-26,rust,5338,33,Making Rust a first-class language and ecosystem for GPU shaders,EmbarkStudios,rust-gpu,https://github.com/EmbarkStudios/rust-gpu
