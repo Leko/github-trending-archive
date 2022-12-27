@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-27,python,354,88,"Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.",openai,gpt-discord-bot,https://github.com/openai/gpt-discord-bot
+2022-12-27,python,7323,27,"Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-12-27,python,803,326,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,lucidrains,PaLM-rlhf-pytorch,https://github.com/lucidrains/PaLM-rlhf-pytorch
+2022-12-27,python,4888,124,Python desde cero,mouredev,Hello-Python,https://github.com/mouredev/Hello-Python
+2022-12-27,python,17124,17,Python sample codes for robotics algorithms.,AtsushiSakai,PythonRobotics,https://github.com/AtsushiSakai/PythonRobotics
+2022-12-27,python,2275,41,"Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",rawandahmad698,PyChatGPT,https://github.com/rawandahmad698/PyChatGPT
+2022-12-27,python,62586,30,"分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",521xueweihan,HelloGitHub,https://github.com/521xueweihan/HelloGitHub
+2022-12-27,python,25297,18,GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.,TencentARC,GFPGAN,https://github.com/TencentARC/GFPGAN
+2022-12-27,python,90,10,Combined ChatGPT with Moegoe TTS to create a Chatting Waifu,cjyaddone,ChatWaifu,https://github.com/cjyaddone/ChatWaifu
+2022-12-27,python,386,158,,LAION-AI,Open-Assistant,https://github.com/LAION-AI/Open-Assistant
+2022-12-27,python,2960,14,A collaboration friendly studio for NeRFs,nerfstudio-project,nerfstudio,https://github.com/nerfstudio-project/nerfstudio
+2022-12-27,python,30980,58,Comprehensive Python Cheatsheet,gto76,python-cheatsheet,https://github.com/gto76/python-cheatsheet
+2022-12-27,python,1080,5,Executable file for VITS inference,CjangCjengh,MoeGoe,https://github.com/CjangCjengh/MoeGoe
+2022-12-27,python,2822,10,Train neural networks up to 7x faster,mosaicml,composer,https://github.com/mosaicml/composer
+2022-12-27,python,15950,20,"Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.",d2l-ai,d2l-en,https://github.com/d2l-ai/d2l-en
+2022-12-27,python,206391,96,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer
+2022-12-27,python,4286,31,Repo for external large-scale work,facebookresearch,metaseq,https://github.com/facebookresearch/metaseq
+2022-12-27,python,1422,18,Training and serving large-scale neural networks,alpa-projects,alpa,https://github.com/alpa-projects/alpa
+2022-12-27,python,26226,87,Stable Diffusion web UI,AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2022-12-27,python,12336,9,A community-maintained Python framework for creating mathematical animations.,ManimCommunity,manim,https://github.com/ManimCommunity/manim
+2022-12-27,python,181,3,"A Powerful Pyrogram Based Telegram Mirror Leech Bot Modded by Codewithweeb to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching",weebzone,WZML,https://github.com/weebzone/WZML
+2022-12-27,python,4357,7,3D printer / slicing GUI built on top of the Uranium framework,Ultimaker,Cura,https://github.com/Ultimaker/Cura
+2022-12-27,python,12420,6,Free and Open Source Enterprise Resource Planning (ERP),frappe,erpnext,https://github.com/frappe/erpnext
+2022-12-27,python,17170,26,"Cross-platform, fast, feature-rich, GPU based terminal",kovidgoyal,kitty,https://github.com/kovidgoyal/kitty
+2022-12-27,python,803,64,A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF),CarperAI,trlx,https://github.com/CarperAI/trlx
