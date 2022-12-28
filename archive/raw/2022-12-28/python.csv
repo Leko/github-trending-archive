@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-28,python,596,192,,LAION-AI,Open-Assistant,https://github.com/LAION-AI/Open-Assistant
+2022-12-28,python,926,117,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,lucidrains,PaLM-rlhf-pytorch,https://github.com/lucidrains/PaLM-rlhf-pytorch
+2022-12-28,python,864,52,A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF),CarperAI,trlx,https://github.com/CarperAI/trlx
+2022-12-28,python,1566,39,IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering,JusticeRage,Gepetto,https://github.com/JusticeRage/Gepetto
+2022-12-28,python,8076,119,Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.,acheong08,ChatGPT,https://github.com/acheong08/ChatGPT
+2022-12-28,python,4965,89,Python desde cero,mouredev,Hello-Python,https://github.com/mouredev/Hello-Python
+2022-12-28,python,206496,118,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer
+2022-12-28,python,31116,98,Comprehensive Python Cheatsheet,gto76,python-cheatsheet,https://github.com/gto76/python-cheatsheet
+2022-12-28,python,56918,17,Open source home automation that puts local control and privacy first.,home-assistant,core,https://github.com/home-assistant/core
+2022-12-28,python,396,43,"Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.",openai,gpt-discord-bot,https://github.com/openai/gpt-discord-bot
+2022-12-28,python,1340,60,Building applications with LLMs through composability,hwchase17,langchain,https://github.com/hwchase17/langchain
+2022-12-28,python,1201,18,"「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音|TikTok数据爬取工具，支持API调用，在线批量解析及下载。",Evil0ctal,Douyin_TikTok_Download_API,https://github.com/Evil0ctal/Douyin_TikTok_Download_API
+2022-12-28,python,4368,12,3D printer / slicing GUI built on top of the Uranium framework,Ultimaker,Cura,https://github.com/Ultimaker/Cura
+2022-12-28,python,7366,44,"Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2022-12-28,python,20185,7,"Free, open source crypto trading bot",freqtrade,freqtrade,https://github.com/freqtrade/freqtrade
+2022-12-28,python,3890,1,"OpenMMLab Image and Video Restoration, Editing and Generation Toolbox",open-mmlab,mmediting,https://github.com/open-mmlab/mmediting
+2022-12-28,python,8903,3,"Open deep learning compiler stack for cpu, gpu and specialized accelerators",apache,tvm,https://github.com/apache/tvm
+2022-12-28,python,1429,23,A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks.,chaiNNer-org,chaiNNer,https://github.com/chaiNNer-org/chaiNNer
+2022-12-28,python,62630,48,"分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",521xueweihan,HelloGitHub,https://github.com/521xueweihan/HelloGitHub
+2022-12-28,python,12484,14,"Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",lucidrains,vit-pytorch,https://github.com/lucidrains/vit-pytorch
+2022-12-28,python,2778,5,OpenMMLab Pose Estimation Toolbox and Benchmark.,open-mmlab,mmpose,https://github.com/open-mmlab/mmpose
+2022-12-28,python,221976,146,A collective list of free APIs,public-apis,public-apis,https://github.com/public-apis/public-apis
+2022-12-28,python,52423,21,scikit-learn: machine learning in Python,scikit-learn,scikit-learn,https://github.com/scikit-learn/scikit-learn
+2022-12-28,python,1945,1,Official upstream for the cloud-init: cloud instance initialization,canonical,cloud-init,https://github.com/canonical/cloud-init
+2022-12-28,python,11993,11,An API wrapper for Discord written in Python.,Rapptz,discord.py,https://github.com/Rapptz/discord.py
