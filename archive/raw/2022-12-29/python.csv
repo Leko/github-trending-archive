@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-29,python,971,307,,LAION-AI,Open-Assistant,https://github.com/LAION-AI/Open-Assistant
+2022-12-29,python,8237,162,Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.,acheong08,ChatGPT,https://github.com/acheong08/ChatGPT
+2022-12-29,python,206649,165,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer
+2022-12-29,python,1585,86,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,lucidrains,PaLM-rlhf-pytorch,https://github.com/lucidrains/PaLM-rlhf-pytorch
+2022-12-29,python,38082,84,Hunt down social media accounts by username across social networks,sherlock-project,sherlock,https://github.com/sherlock-project/sherlock
+2022-12-29,python,7481,26,"- a deep learning toolkit for Text-to-Speech, battle-tested in research and production",coqui-ai,TTS,https://github.com/coqui-ai/TTS
+2022-12-29,python,35013,25,"Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",bregman-arie,devops-exercises,https://github.com/bregman-arie/devops-exercises
+2022-12-29,python,1381,40,Building applications with LLMs through composability,hwchase17,langchain,https://github.com/hwchase17/langchain
+2022-12-29,python,9840,7,"This is an official implementation for ""Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"".",microsoft,Swin-Transformer,https://github.com/microsoft/Swin-Transformer
+2022-12-29,python,150409,60,All Algorithms implemented in Python,TheAlgorithms,Python,https://github.com/TheAlgorithms/Python
+2022-12-29,python,188,30,Asymmetric upload and download,malkemit,namizun,https://github.com/malkemit/namizun
+2022-12-29,python,1597,31,IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering,JusticeRage,Gepetto,https://github.com/JusticeRage/Gepetto
+2022-12-29,python,3773,9,"holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",megadose,holehe,https://github.com/megadose/holehe
+2022-12-29,python,79,13,Try to find the origin IP of a webapp protected by Cloudflare.,gwen001,cloudflare-origin-ip,https://github.com/gwen001/cloudflare-origin-ip
+2022-12-29,python,31271,162,Comprehensive Python Cheatsheet,gto76,python-cheatsheet,https://github.com/gto76/python-cheatsheet
+2022-12-29,python,9088,35,Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch,huggingface,diffusers,https://github.com/huggingface/diffusers
+2022-12-29,python,878,36,Repository for suggesting new lineages that should be added to the current scheme,cov-lineages,pango-designation,https://github.com/cov-lineages/pango-designation
+2022-12-29,python,3523,12,High-performance TensorFlow library for quantitative finance.,google,tf-quant-finance,https://github.com/google/tf-quant-finance
+2022-12-29,python,4378,11,3D printer / slicing GUI built on top of the Uranium framework,Ultimaker,Cura,https://github.com/Ultimaker/Cura
+2022-12-29,python,5014,52,"A community-supported supercharged version of paperless: scan, index and archive all your physical documents",paperless-ngx,paperless-ngx,https://github.com/paperless-ngx/paperless-ngx
+2022-12-29,python,115,7,Combined ChatGPT with Moegoe TTS to create a Chatting Waifu,cjyaddone,ChatWaifu,https://github.com/cjyaddone/ChatWaifu
+2022-12-29,python,904,74,Stable diffusion for real-time music generation,riffusion,riffusion,https://github.com/riffusion/riffusion
+2022-12-29,python,27359,24,"Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",PaddlePaddle,PaddleOCR,https://github.com/PaddlePaddle/PaddleOCR
+2022-12-29,python,26440,119,Stable Diffusion web UI,AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2022-12-29,python,923,59,A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF),CarperAI,trlx,https://github.com/CarperAI/trlx

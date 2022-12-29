@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-29,go,173,50,API server for ChatGPT,ChatGPT-Hackers,ChatGPT-API-server,https://github.com/ChatGPT-Hackers/ChatGPT-API-server
+2022-12-29,go,3157,41,The Havoc Framework.,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2022-12-29,go,65389,49,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-12-29,go,11207,13,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2022-12-29,go,18861,5,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2022-12-29,go,9208,16,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2022-12-29,go,36231,22,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2022-12-29,go,6779,3,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",patrickmn,go-cache,https://github.com/patrickmn/go-cache
+2022-12-29,go,840,6,"A FAST Kubernetes manifests validator, with support for Custom Resources!",yannh,kubeconform,https://github.com/yannh/kubeconform
+2022-12-29,go,6677,6,DNS library in Go,miekg,dns,https://github.com/miekg/dns
+2022-12-29,go,42196,8,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2022-12-29,go,7775,33,"The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes",kubeshark,kubeshark,https://github.com/kubeshark/kubeshark
+2022-12-29,go,11631,15,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2022-12-29,go,13764,17,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2022-12-29,go,14170,68,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2022-12-29,go,48416,25,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2022-12-29,go,5051,8,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2022-12-29,go,23781,14,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2022-12-29,go,19907,12,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2022-12-29,go,13450,8,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2022-12-29,go,9988,9,即时通讯IM,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2022-12-29,go,4809,6,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS",casdoor,casdoor,https://github.com/casdoor/casdoor
+2022-12-29,go,6715,5,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2022-12-29,go,70,25,An adaptive video streaming self-deployable service,ZeStream,zestream-server,https://github.com/ZeStream/zestream-server
+2022-12-29,go,15219,15,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
