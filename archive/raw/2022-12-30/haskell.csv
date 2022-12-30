@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-30,haskell,30955,9,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2022-12-30,haskell,182,1,Exercises for the Haskell Beginners 2022 course,haskell-beginners-2022,exercises,https://github.com/haskell-beginners-2022/exercises
+2022-12-30,haskell,252,2,"Site infrastructure for gwern.net (CSS/JS/HS/images/icons). Custom Hakyll website with unique automatic link archiving, recursive tooltip popup UX, dark mode, and typography (sidenotes+dropcaps+admonitions+inflation-adjuster).",gwern,gwern.net,https://github.com/gwern/gwern.net
+2022-12-30,haskell,1915,0,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2022-12-30,haskell,2864,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2022-12-30,haskell,2256,0,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2022-12-30,haskell,18,0,Reference DAML application demonstrating a bond issuance use case.,digital-asset,ex-bond-issuance,https://github.com/digital-asset/ex-bond-issuance
+2022-12-30,haskell,544,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2022-12-30,haskell,27325,7,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2022-12-30,haskell,7983,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2022-12-30,haskell,360,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2022-12-30,haskell,3789,1,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2022-12-30,haskell,3807,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2022-12-30,haskell,29,0,The main concordium node implementation.,Concordium,concordium-node,https://github.com/Concordium/concordium-node
+2022-12-30,haskell,241,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2022-12-30,haskell,4843,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2022-12-30,haskell,4819,2,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2022-12-30,haskell,193,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2022-12-30,haskell,1824,2,"Dapp, Seth, Hevm, and more",dapphub,dapptools,https://github.com/dapphub/dapptools
+2022-12-30,haskell,288,0,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2022-12-30,haskell,1399,1,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel

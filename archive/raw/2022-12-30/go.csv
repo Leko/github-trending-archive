@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-30,go,292,144,API server for ChatGPT,ChatGPT-Hackers,ChatGPT-API-server,https://github.com/ChatGPT-Hackers/ChatGPT-API-server
+2022-12-30,go,13034,43,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-12-30,go,3753,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2022-12-30,go,5365,54,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",answerdev,answer,https://github.com/answerdev/answer
+2022-12-30,go,12307,11,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2022-12-30,go,12644,9,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2022-12-30,go,2669,12,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",kopia,kopia,https://github.com/kopia/kopia
+2022-12-30,go,9111,41,A prompt theme engine for any shell.,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2022-12-30,go,10726,6,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2022-12-30,go,18906,16,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2022-12-30,go,82,12,An adaptive video streaming self-deployable service [alpha version under dev].,ZeStream,zestream-server,https://github.com/ZeStream/zestream-server
+2022-12-30,go,1940,51,A monitoring and troubleshooting tool for microservice architectures.,coroot,coroot,https://github.com/coroot/coroot
+2022-12-30,go,4646,1,The official Go client for Elasticsearch,elastic,go-elasticsearch,https://github.com/elastic/go-elasticsearch
+2022-12-30,go,65436,50,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2022-12-30,go,3286,6,A Devtools driver for web automation and scraping,go-rod,rod,https://github.com/go-rod/rod
+2022-12-30,go,14238,73,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2022-12-30,go,25833,5,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2022-12-30,go,12011,6,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2022-12-30,go,8722,22,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2022-12-30,go,3892,8,"Copier for golang, copy value from struct to struct and more",jinzhu,copier,https://github.com/jinzhu/copier
+2022-12-30,go,30093,14,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-12-30,go,11644,13,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2022-12-30,go,6680,3,DNS library in Go,miekg,dns,https://github.com/miekg/dns
+2022-12-30,go,7578,8,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2022-12-30,go,20823,5,A modern and intuitive terminal-based text editor,zyedidia,micro,https://github.com/zyedidia/micro

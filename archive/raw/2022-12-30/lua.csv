@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-30,lua,3382,45,A lightweight text editor written in Lua,lite-xl,lite-xl,https://github.com/lite-xl/lite-xl
+2022-12-30,lua,39,1,"A functionality fuel system based off of PS-Fuel that uses PolyZones that target fueling pumps and vehicles to allow you to refuel your vehicle, as well as interact-sound to play accurate refueling sounds, Syphoning, Jerry Cans and more!",CodineDev,cdn-fuel,https://github.com/CodineDev/cdn-fuel
+2022-12-30,lua,157,0,Plugins for the Lite XL editor,lite-xl,lite-xl-plugins,https://github.com/lite-xl/lite-xl-plugins
+2022-12-30,lua,6910,0,A lightweight text editor written in Lua,rxi,lite,https://github.com/rxi/lite
+2022-12-30,lua,23,2,Some Lua internals and more built-in scripts for reference,ac-custom-shaders-patch,acc-lua-internal,https://github.com/ac-custom-shaders-patch/acc-lua-internal
+2022-12-30,lua,11919,7,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2022-12-30,lua,54,7,Mastodon client for Neovim,kode-team,mastodon.nvim,https://github.com/kode-team/mastodon.nvim
+2022-12-30,lua,225,0,Official Repo For ESX-Legacy,esx-framework,esx-legacy,https://github.com/esx-framework/esx-legacy
+2022-12-30,lua,993,2,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2022-12-30,lua,104,0,Canary Server 12.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2022-12-30,lua,696,9,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2022-12-30,lua,695,5,Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.,folke,twilight.nvim,https://github.com/folke/twilight.nvim
+2022-12-30,lua,1356,50,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2022-12-30,lua,2519,7,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2022-12-30,lua,1093,2,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2022-12-30,lua,859,1,Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead,p00f,nvim-ts-rainbow,https://github.com/p00f/nvim-ts-rainbow
+2022-12-30,lua,2033,4,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2022-12-30,lua,10963,6,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2022-12-30,lua,1696,7,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2022-12-30,lua,6400,19,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2022-12-30,lua,1285,5,A well configured and structured Neovim.,ayamir,nvimdots,https://github.com/ayamir/nvimdots
+2022-12-30,lua,12467,22,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2022-12-30,lua,2309,4,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2022-12-30,lua,1329,3,The Refactoring library based off the Refactoring book by Martin Fowler,ThePrimeagen,refactoring.nvim,https://github.com/ThePrimeagen/refactoring.nvim
+2022-12-30,lua,252,3,My Dot Files,folke,dot,https://github.com/folke/dot
