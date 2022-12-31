@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-31,go,14313,77,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2022-12-31,go,363,74,API server for ChatGPT,ChatGPT-Hackers,ChatGPT-API-server,https://github.com/ChatGPT-Hackers/ChatGPT-API-server
+2022-12-31,go,3111,21,"BTree provides a simple, ordered, in-memory data structure for Go programs.",google,btree,https://github.com/google/btree
+2022-12-31,go,21887,7,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2022-12-31,go,13102,70,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zinc,https://github.com/zinclabs/zinc
+2022-12-31,go,3226,24,The Havoc Framework.,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2022-12-31,go,3233,202,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,google,osv-scanner,https://github.com/google/osv-scanner
+2022-12-31,go,3759,4,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2022-12-31,go,11652,9,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2022-12-31,go,36274,22,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2022-12-31,go,25388,6,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2022-12-31,go,22056,11,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2022-12-31,go,5916,6,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2022-12-31,go,6648,14,Golang implementation of the Raft consensus protocol,hashicorp,raft,https://github.com/hashicorp/raft
+2022-12-31,go,5888,6,A tool that facilitates building OCI images.,containers,buildah,https://github.com/containers/buildah
+2022-12-31,go,16137,5,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2022-12-31,go,7582,5,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2022-12-31,go,30110,18,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2022-12-31,go,7371,7,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2022-12-31,go,16260,6,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2022-12-31,go,24366,5,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2022-12-31,go,4261,10,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2022-12-31,go,761,4,Go library for the WhatsApp web multidevice API,tulir,whatsmeow,https://github.com/tulir/whatsmeow
+2022-12-31,go,21606,11,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2022-12-31,go,11054,12,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei

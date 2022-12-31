@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2022-12-31,python,3235,595,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,lucidrains,PaLM-rlhf-pytorch,https://github.com/lucidrains/PaLM-rlhf-pytorch
+2022-12-31,python,1781,371,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",LAION-AI,Open-Assistant,https://github.com/LAION-AI/Open-Assistant
+2022-12-31,python,4686,127,Stable Diffusion with Core ML on Apple Silicon,apple,ml-stable-diffusion,https://github.com/apple/ml-stable-diffusion
+2022-12-31,python,2558,116,京东抢购自动下单助手，GUI 支持 Windows 和 macOS,zas023,JdBuyer,https://github.com/zas023/JdBuyer
+2022-12-31,python,1309,36,"「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音|TikTok数据爬取工具，支持API调用，在线批量解析及下载。",Evil0ctal,Douyin_TikTok_Download_API,https://github.com/Evil0ctal/Douyin_TikTok_Download_API
+2022-12-31,python,62875,128,"分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",521xueweihan,HelloGitHub,https://github.com/521xueweihan/HelloGitHub
+2022-12-31,python,206836,78,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer
+2022-12-31,python,52,13,"We implemented a FC that uses pixel-wise T1-weighted signals and corresponding inversion time to estimate T1 values from a limited number of T1-weighted images. we studied how training the model using native, post-contrast T1 and a combination of both could impact performance of the MyoMapNet. We also explored two choices of number of T1 weighte…",HMS-CardiacMR,MyoMapNet,https://github.com/HMS-CardiacMR/MyoMapNet
+2022-12-31,python,851,24,"Cloudflare, Sucuri, Incapsula real IP tracker.",mrh0wl,Cloudmare,https://github.com/mrh0wl/Cloudmare
+2022-12-31,python,11596,11,Label Studio is a multi-type data labeling and annotation tool with standardized output format,heartexlabs,label-studio,https://github.com/heartexlabs/label-studio
+2022-12-31,python,909,4,OpenMMLab YOLO series toolbox and benchmark,open-mmlab,mmyolo,https://github.com/open-mmlab/mmyolo
+2022-12-31,python,1745,28,Accelerate AI models leveraging best-of-breed optimization techniques,nebuly-ai,nebullvm,https://github.com/nebuly-ai/nebullvm
+2022-12-31,python,4565,7,Code release for ConvNeXt model,facebookresearch,ConvNeXt,https://github.com/facebookresearch/ConvNeXt
+2022-12-31,python,44080,33,A list of useful payloads and bypass for Web Application Security and Pentest/CTF,swisskyrepo,PayloadsAllTheThings,https://github.com/swisskyrepo/PayloadsAllTheThings
+2022-12-31,python,151259,144,"A curated list of awesome Python frameworks, libraries, software and resources",vinta,awesome-python,https://github.com/vinta/awesome-python
+2022-12-31,python,26655,111,Stable Diffusion web UI,AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2022-12-31,python,10157,13,"短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",OpenEthan,SMSBoom,https://github.com/OpenEthan/SMSBoom
+2022-12-31,python,5058,19,"A community-supported supercharged version of paperless: scan, index and archive all your physical documents",paperless-ngx,paperless-ngx,https://github.com/paperless-ngx/paperless-ngx
+2022-12-31,python,990,24,A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF),CarperAI,trlx,https://github.com/CarperAI/trlx
+2022-12-31,python,956,54,"文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）",vastsa,FileCodeBox,https://github.com/vastsa/FileCodeBox
+2022-12-31,python,3330,4,코딩테스트 대비 문제집(Baekjoon Online Judge),tony9402,baekjoon,https://github.com/tony9402/baekjoon
+2022-12-31,python,3711,67,OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。,hiroi-sora,Umi-OCR,https://github.com/hiroi-sora/Umi-OCR
+2022-12-31,python,27391,16,"Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",PaddlePaddle,PaddleOCR,https://github.com/PaddlePaddle/PaddleOCR
+2022-12-31,python,8397,62,Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.,acheong08,ChatGPT,https://github.com/acheong08/ChatGPT
+2022-12-31,python,46885,17,The world's simplest facial recognition api for Python and the command line,ageitgey,face_recognition,https://github.com/ageitgey/face_recognition
