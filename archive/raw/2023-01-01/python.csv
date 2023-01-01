@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-01,python,151415,166,"A curated list of awesome Python frameworks, libraries, software and resources",vinta,awesome-python,https://github.com/vinta/awesome-python
+2023-01-01,python,2192,415,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",LAION-AI,Open-Assistant,https://github.com/LAION-AI/Open-Assistant
+2023-01-01,python,319,109,Cramming the training of a (BERT-type) language model into limited compute.,JonasGeiping,cramming,https://github.com/JonasGeiping/cramming
+2023-01-01,python,3454,222,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,lucidrains,PaLM-rlhf-pytorch,https://github.com/lucidrains/PaLM-rlhf-pytorch
+2023-01-01,python,1932,42,[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer,sczhou,CodeFormer,https://github.com/sczhou/CodeFormer
+2023-01-01,python,565,51,An index created by GPT to organize external information and answer queries!,jerryjliu,gpt_index,https://github.com/jerryjliu/gpt_index
+2023-01-01,python,62923,51,"分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",521xueweihan,HelloGitHub,https://github.com/521xueweihan/HelloGitHub
+2023-01-01,python,6936,17,"Easy-to-use and powerful NLP library with  Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Text Classification,  Neural Search,  Question Answering,  Information Extraction,  Document Intelligence,  Sentiment Analysis and  Diffusion AIGC system etc.",PaddlePaddle,PaddleNLP,https://github.com/PaddlePaddle/PaddleNLP
+2023-01-01,python,5089,5,The Sphinx documentation generator,sphinx-doc,sphinx,https://github.com/sphinx-doc/sphinx
+2023-01-01,python,2599,41,京东抢购自动下单助手，GUI 支持 Windows 和 macOS,zas023,JdBuyer,https://github.com/zas023/JdBuyer
+2023-01-01,python,29569,14,A toolkit for developing and comparing reinforcement learning algorithms.,openai,gym,https://github.com/openai/gym
+2023-01-01,python,610,239,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",karpathy,nanoGPT,https://github.com/karpathy/nanoGPT
+2023-01-01,python,72,5,,kuca-belludo,urnas,https://github.com/kuca-belludo/urnas
+2023-01-01,python,48878,17,Animation engine for explanatory math videos,3b1b,manim,https://github.com/3b1b/manim
+2023-01-01,python,920,11,OpenMMLab YOLO series toolbox and benchmark,open-mmlab,mmyolo,https://github.com/open-mmlab/mmyolo
+2023-01-01,python,3732,21,OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。,hiroi-sora,Umi-OCR,https://github.com/hiroi-sora/Umi-OCR
+2023-01-01,python,53,1,"We implemented a FC that uses pixel-wise T1-weighted signals and corresponding inversion time to estimate T1 values from a limited number of T1-weighted images. we studied how training the model using native, post-contrast T1 and a combination of both could impact performance of the MyoMapNet. We also explored two choices of number of T1 weighte…",HMS-CardiacMR,MyoMapNet,https://github.com/HMS-CardiacMR/MyoMapNet
+2023-01-01,python,34422,2,AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2,apachecn,ailearning,https://github.com/apachecn/ailearning
+2023-01-01,python,4733,49,Stable Diffusion with Core ML on Apple Silicon,apple,ml-stable-diffusion,https://github.com/apple/ml-stable-diffusion
+2023-01-01,python,21620,28,"Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers",Ebazhanov,linkedin-skill-assessments-quizzes,https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
+2023-01-01,python,3509,8,"Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)",ultrafunkamsterdam,undetected-chromedriver,https://github.com/ultrafunkamsterdam/undetected-chromedriver
+2023-01-01,python,1785,3,"Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",Visualize-ML,Book3_Elements-of-Mathematics,https://github.com/Visualize-ML/Book3_Elements-of-Mathematics
+2023-01-01,python,983,27,"文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）",vastsa,FileCodeBox,https://github.com/vastsa/FileCodeBox
+2023-01-01,python,13580,8,deep learning for image processing including classification and object-detection etc.,WZMIAOMIAO,deep-learning-for-image-processing,https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+2023-01-01,python,191,23,"A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.",Aeternalis-Ingenium,FastAPI-Backend-Template,https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template
