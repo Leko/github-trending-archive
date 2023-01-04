@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-04,go,25465,58,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2023-01-04,go,48518,33,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-01-04,go,4094,2,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-01-04,go,23848,17,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2023-01-04,go,11331,5,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-01-04,go,26729,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-01-04,go,12985,10,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-01-04,go,50,9,Go实现简易redis,Carpe-Wang,GoRedis,https://github.com/Carpe-Wang/GoRedis
+2023-01-04,go,7083,12,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2023-01-04,go,4431,7,Minimalist and opinionated feed reader,miniflux,v2,https://github.com/miniflux/v2
+2023-01-04,go,9164,3,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2023-01-04,go,969,15,go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.0 (for REST) spec and Protobuf v3 (for grpc) based lightweight microservice framework. It supports monolith service application as well.,unionj-cloud,go-doudou,https://github.com/unionj-cloud/go-doudou
+2023-01-04,go,1777,3,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2023-01-04,go,5850,18,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2023-01-04,go,3785,1,The Docker CLI,docker,cli,https://github.com/docker/cli
+2023-01-04,go,24687,4,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2023-01-04,go,6919,6,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2023-01-04,go,6636,10,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2023-01-04,go,2169,3,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-01-04,go,2208,11,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2023-01-04,go,1536,10,基于 ZeroBot 的 OneBot 插件,FloatTech,ZeroBot-Plugin,https://github.com/FloatTech/ZeroBot-Plugin
+2023-01-04,go,2485,5,"A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.",yuin,goldmark,https://github.com/yuin/goldmark
+2023-01-04,go,64838,6,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-01-04,go,18972,7,Learn Go with test-driven development,quii,learn-go-with-tests,https://github.com/quii/learn-go-with-tests
+2023-01-04,go,19135,26,Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
