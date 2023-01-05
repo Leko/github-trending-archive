@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-05,go,40723,15,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-01-05,go,14848,96,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-01-05,go,30957,16,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-01-05,go,7530,8,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2023-01-05,go,11338,7,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-01-05,go,8553,11,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2023-01-05,go,13367,13,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-01-05,go,42246,15,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-01-05,go,11123,18,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-01-05,go,18533,18,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-01-05,go,7188,7,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-01-05,go,25523,60,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2023-01-05,go,6676,24,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2023-01-05,go,8081,6,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-01-05,go,4811,15,"ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams",aler9,rtsp-simple-server,https://github.com/aler9/rtsp-simple-server
+2023-01-05,go,14463,9,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
+2023-01-05,go,3142,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2023-01-05,go,14112,11,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-01-05,go,21643,10,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-01-05,go,30871,10,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2023-01-05,go,22118,25,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2023-01-05,go,2930,9,Signing containers (and other artifacts) using Sigstore,sigstore,cosign,https://github.com/sigstore/cosign
+2023-01-05,go,14743,5,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-01-05,go,26741,14,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-01-05,go,71,10,,sjkhsl,study_xxqg,https://github.com/sjkhsl/study_xxqg
