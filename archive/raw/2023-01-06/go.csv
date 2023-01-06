@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-06,go,1139,333,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2023-01-06,go,13022,40,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-01-06,go,7434,39,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-01-06,go,12365,31,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-01-06,go,25586,67,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2023-01-06,go,39050,22,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2023-01-06,go,3329,4,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2023-01-06,go,30978,22,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-01-06,go,5526,12,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2023-01-06,go,7329,10,A most popular sql audit platform for mysql,cookieY,Yearning,https://github.com/cookieY/Yearning
+2023-01-06,go,2640,3,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2023-01-06,go,2721,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2023-01-06,go,805,6,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,kubernetes-sigs,gateway-api,https://github.com/kubernetes-sigs/gateway-api
+2023-01-06,go,14591,6,An IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
+2023-01-06,go,3143,1,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2023-01-06,go,14678,6,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-01-06,go,64857,13,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-01-06,go,7194,7,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-01-06,go,24702,7,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2023-01-06,go,10628,4,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2023-01-06,go,14142,3,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2023-01-06,go,5636,4,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2023-01-06,go,12042,6,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-01-06,go,3219,3,Generate documentation from Terraform modules in various output formats,terraform-docs,terraform-docs,https://github.com/terraform-docs/terraform-docs
+2023-01-06,go,3543,3,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
