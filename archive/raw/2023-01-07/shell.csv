@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-07,shell,67791,165,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2023-01-07,shell,63778,22,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-01-07,shell,3561,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-01-07,shell,14700,4,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2023-01-07,shell,1714,7,Easy Docker setup for Stable Diffusion with user-friendly UI,AbdBarho,stable-diffusion-webui-docker,https://github.com/AbdBarho/stable-diffusion-webui-docker
+2023-01-07,shell,17164,4,Node version management,tj,n,https://github.com/tj/n
+2023-01-07,shell,10730,2,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2023-01-07,shell,5340,0,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2023-01-07,shell,10152,4,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2023-01-07,shell,3688,4,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2023-01-07,shell,36638,28,Official electron build of draw.io,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2023-01-07,shell,8,0,aws-real-world-projects,awanmbandi,aws-real-world-projects,https://github.com/awanmbandi/aws-real-world-projects
+2023-01-07,shell,1177,1,Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.,stefanzweifel,git-auto-commit-action,https://github.com/stefanzweifel/git-auto-commit-action
+2023-01-07,shell,5819,2,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2023-01-07,shell,3192,4,"Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.",opencv,opencv-python,https://github.com/opencv/opencv-python
+2023-01-07,shell,831,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2023-01-07,shell,5301,3,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2023-01-07,shell,2372,2,To fix the Docker and UFW security flaw without disabling iptables,chaifeng,ufw-docker,https://github.com/chaifeng/ufw-docker
+2023-01-07,shell,4764,4,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2023-01-07,shell,2248,1,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2023-01-07,shell,2209,2,Guia rápido do WSL2 + Docker,codeedu,wsl2-docker-quickstart,https://github.com/codeedu/wsl2-docker-quickstart
+2023-01-07,shell,20705,7,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2023-01-07,shell,34486,19,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 来看看，你会发现相见恨晚！,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2023-01-07,shell,16085,10,Fish shell like syntax highlighting for Zsh.,zsh-users,zsh-syntax-highlighting,https://github.com/zsh-users/zsh-syntax-highlighting
+2023-01-07,shell,5758,5,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted

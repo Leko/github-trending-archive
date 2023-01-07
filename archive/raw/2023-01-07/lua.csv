@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-07,lua,11000,4,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-01-07,lua,33727,13,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-01-07,lua,3236,11,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-01-07,lua,151,14,Starter template for lazy Neovim users,folke,LazyVim,https://github.com/folke/LazyVim
+2023-01-07,lua,4534,13,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-01-07,lua,1906,3,Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2023-01-07,lua,865,1,Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead,p00f,nvim-ts-rainbow,https://github.com/p00f/nvim-ts-rainbow
+2023-01-07,lua,1371,2,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2023-01-07,lua,11973,5,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-01-07,lua,3123,5,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2023-01-07,lua,2,0,,x2Swiftz,List-Leaderboard,https://github.com/x2Swiftz/List-Leaderboard
+2023-01-07,lua,116,2,A telescope extension to view and search your undo tree,debugloop,telescope-undo.nvim,https://github.com/debugloop/telescope-undo.nvim
+2023-01-07,lua,1290,0,Edit and review GitHub issues and pull requests from the comfort of your favorite editor,pwntester,octo.nvim,https://github.com/pwntester/octo.nvim
+2023-01-07,lua,252,0,A configuration for Neovim beginners.,alpha2phi,neovim-for-beginner,https://github.com/alpha2phi/neovim-for-beginner
+2023-01-07,lua,12,1,Another statusline ? - this statusline is a personal pursuit in a less bloated option,leath-dub,stat.nvim,https://github.com/leath-dub/stat.nvim
+2023-01-07,lua,761,0,Official Alpine Linux Docker image. Win at minimalism!,alpinelinux,docker-alpine,https://github.com/alpinelinux/docker-alpine
+2023-01-07,lua,104,0,Tooling to run plugin tests with Kong and Kong Enterprise,Kong,kong-pongo,https://github.com/Kong/kong-pongo
+2023-01-07,lua,1786,2,Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）,ssnhd,rime,https://github.com/ssnhd/rime
+2023-01-07,lua,1321,35,Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2023-01-07,lua,224,2,Gruvbox theme for neovim with full TreeSitter support.,luisiacc,gruvbox-baby,https://github.com/luisiacc/gruvbox-baby
+2023-01-07,lua,208,0,ripgrep source for nvim-cmp,lukas-reineke,cmp-rg,https://github.com/lukas-reineke/cmp-rg
+2023-01-07,lua,58,0,watch environment variables with telescope,LinArcX,telescope-env.nvim,https://github.com/LinArcX/telescope-env.nvim
+2023-01-07,lua,9273,2,Image-to-image translation with conditional adversarial nets,phillipi,pix2pix,https://github.com/phillipi/pix2pix
+2023-01-07,lua,1435,6,Tools for better development in rust using neovim's builtin lsp,simrat39,rust-tools.nvim,https://github.com/simrat39/rust-tools.nvim
+2023-01-07,lua,653,1,A small automated session manager for Neovim,rmagatti,auto-session,https://github.com/rmagatti/auto-session

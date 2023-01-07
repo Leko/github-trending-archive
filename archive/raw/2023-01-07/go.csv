@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-07,go,1709,574,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2023-01-07,go,12393,29,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-01-07,go,8572,6,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2023-01-07,go,28201,24,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-01-07,go,18664,12,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-01-07,go,7476,44,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-01-07,go,4534,33,Minimalist and opinionated feed reader,miniflux,v2,https://github.com/miniflux/v2
+2023-01-07,go,8741,29,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2023-01-07,go,13385,8,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-01-07,go,8089,6,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-01-07,go,13057,36,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-01-07,go,23077,10,A realtime distributed messaging platform,nsqio,nsq,https://github.com/nsqio/nsq
+2023-01-07,go,30220,29,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-01-07,go,9056,8,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2023-01-07,go,11453,3,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2023-01-07,go,9810,6,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2023-01-07,go,19031,6,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2023-01-07,go,1804,3,Event-driven automation framework,argoproj,argo-events,https://github.com/argoproj/argo-events
+2023-01-07,go,14425,14,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2023-01-07,go,4578,8,The Modern Application Platform.,kubevela,kubevela,https://github.com/kubevela/kubevela
+2023-01-07,go,11392,9,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2023-01-07,go,3421,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-01-07,go,11601,10,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2023-01-07,go,40749,11,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-01-07,go,3763,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
