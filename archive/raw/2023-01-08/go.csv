@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-08,go,2120,413,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2023-01-08,go,15320,198,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-01-08,go,13060,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-01-08,go,35715,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-01-08,go,30229,10,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-01-08,go,3425,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-01-08,go,4552,19,Minimalist and opinionated feed reader,miniflux,v2,https://github.com/miniflux/v2
+2023-01-08,go,23927,14,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2023-01-08,go,13095,14,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",emirpasic,gods,https://github.com/emirpasic/gods
+2023-01-08,go,20421,3,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-01-08,go,14700,10,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-01-08,go,18569,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-01-08,go,5411,2,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-01-08,go,19565,5,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2023-01-08,go,10532,5,Pure Go implementation of the WebRTC API,pion,webrtc,https://github.com/pion/webrtc
+2023-01-08,go,4192,5,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-01-08,go,28215,16,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-01-08,go,2868,8,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-01-08,go,5647,1,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2023-01-08,go,12694,8,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2023-01-08,go,12052,2,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-01-08,go,11611,11,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2023-01-08,go,6714,13,Golang implementation of the Raft consensus protocol,hashicorp,raft,https://github.com/hashicorp/raft
+2023-01-08,go,26758,7,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-01-08,go,4677,10,Arbitrary-precision fixed-point decimal numbers in go,shopspring,decimal,https://github.com/shopspring/decimal
