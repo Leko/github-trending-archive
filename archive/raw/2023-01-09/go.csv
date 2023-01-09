@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-09,go,15523,208,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-01-09,go,2402,285,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2023-01-09,go,12949,5,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2023-01-09,go,2213,16,"Run your own GPTChat Telegram bot, with a single command!",m1guelpf,chatgpt-telegram,https://github.com/m1guelpf/chatgpt-telegram
+2023-01-09,go,4365,4,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2023-01-09,go,35127,34,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2023-01-09,go,1223,17,,danielgross,whatsapp-gpt,https://github.com/danielgross/whatsapp-gpt
+2023-01-09,go,11350,28,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-01-09,go,1967,1,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
+2023-01-09,go,41245,4,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2023-01-09,go,20044,11,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2023-01-09,go,6716,2,Golang implementation of the Raft consensus protocol,hashicorp,raft,https://github.com/hashicorp/raft
+2023-01-09,go,7988,64,"The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes",kubeshark,kubeshark,https://github.com/kubeshark/kubeshark
+2023-01-09,go,12119,3,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2023-01-09,go,19005,16,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2023-01-09,go,171,4,"Run your own GPTChat Discord bot, with a single command!",m1guelpf,chatgpt-discord,https://github.com/m1guelpf/chatgpt-discord
+2023-01-09,go,2070,4,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2023-01-09,go,1571,4,"Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support",AdguardTeam,dnsproxy,https://github.com/AdguardTeam/dnsproxy
+2023-01-09,go,15840,28,Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),slimtoolkit,slim,https://github.com/slimtoolkit/slim
+2023-01-09,go,13426,30,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-01-09,go,35236,8,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2023-01-09,go,3615,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-01-09,go,4758,5,"Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",apernet,hysteria,https://github.com/apernet/hysteria
+2023-01-09,go,36438,20,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2023-01-09,go,64635,22,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
