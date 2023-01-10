@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-10,rust,7961,360,🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-01-10,rust,9435,23,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2023-01-10,rust,125,19,sqld is a server mode for libSQL,libsql,sqld,https://github.com/libsql/sqld
+2023-01-10,rust,12779,82,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-01-10,rust,11249,10,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2023-01-10,rust,6477,12,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-01-10,rust,5044,17,A powerful cloud data warehouse. Built for elasticity and efficiency. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-01-10,rust,11027,11,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-01-10,rust,1404,15,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2023-01-10,rust,1287,5,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2023-01-10,rust,17875,70,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-01-10,rust,8806,28,The Modern Port Scanner,RustScan,RustScan,https://github.com/RustScan/RustScan
+2023-01-10,rust,975,14,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-01-10,rust,21180,23,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-01-10,rust,6429,11,阿里云盘 WebDAV 服务,messense,aliyundrive-webdav,https://github.com/messense/aliyundrive-webdav
+2023-01-10,rust,14377,5,Cube — Headless Business Intelligence for Building Data Applications,cube-js,cube.js,https://github.com/cube-js/cube.js
+2023-01-10,rust,4743,5,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-01-10,rust,17555,17,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-01-10,rust,202,38,Tooling for creating your own distributed systems.,lnx-search,datacake,https://github.com/lnx-search/datacake
+2023-01-10,rust,2534,8,"Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",dtolnay,proc-macro-workshop,https://github.com/dtolnay/proc-macro-workshop
+2023-01-10,rust,4429,6,Safe interop between Rust and C++,dtolnay,cxx,https://github.com/dtolnay/cxx
+2023-01-10,rust,8028,15,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-01-10,rust,87155,30,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-01-10,rust,492,12,Cairo is the first Turing-complete language for creating provable programs for general computation.,starkware-libs,cairo,https://github.com/starkware-libs/cairo
+2023-01-10,rust,9351,15,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide

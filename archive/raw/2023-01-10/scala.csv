@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-10,scala,12545,7,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2023-01-10,scala,5173,3,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-01-10,scala,2877,0,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2023-01-10,scala,8468,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2023-01-10,scala,176,0,A Library of Chisel3 Tools for Digital Signal Processing,ucb-bar,dsptools,https://github.com/ucb-bar/dsptools
+2023-01-10,scala,734,1,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2023-01-10,scala,584,0,Flexible Intermediate Representation for RTL,chipsalliance,firrtl,https://github.com/chipsalliance/firrtl
+2023-01-10,scala,4829,0,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2023-01-10,scala,13974,3,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2023-01-10,scala,4,0,RTL blocks compatible with the Rocket Chip Generator,chipsalliance,rocket-chip-blocks,https://github.com/chipsalliance/rocket-chip-blocks
+2023-01-10,scala,543,1,educational microarchitectures for risc-v isa,ucb-bar,riscv-sodor,https://github.com/ucb-bar/riscv-sodor
+2023-01-10,scala,113,0,Microarchitecture implementation of the decoupled vector-fetch accelerator,ucb-bar,hwacha,https://github.com/ucb-bar/hwacha
+2023-01-10,scala,7,0,Tools for integrating DspTools components into a rocket-chip,ucb-bar,rocket-dsp-utils,https://github.com/ucb-bar/rocket-dsp-utils
+2023-01-10,scala,631,1,"FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud",firesim,firesim,https://github.com/firesim/firesim
+2023-01-10,scala,34704,13,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-01-10,scala,29,0,Useful utilities for BAR projects,ucb-bar,barstools,https://github.com/ucb-bar/barstools
+2023-01-10,scala,389,2,Berkeley's Spatial Array Generator,ucb-bar,gemmini,https://github.com/ucb-bar/gemmini
+2023-01-10,scala,21,0,A minimal quickstart ZIO application for writing a RESTful Web Service,zio,zio-quickstart-restful-webservice,https://github.com/zio/zio-quickstart-restful-webservice
+2023-01-10,scala,12586,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-01-10,scala,25,0,A Scala library for Context-Dependent Environments,chipsalliance,cde,https://github.com/chipsalliance/cde
+2023-01-10,scala,1250,1,SonicBOOM: The Berkeley Out-of-Order Machine,riscv-boom,riscv-boom,https://github.com/riscv-boom/riscv-boom
+2023-01-10,scala,55,0,,ucb-bar,testchipip,https://github.com/ucb-bar/testchipip
+2023-01-10,scala,1078,0,Compiler for the Vale programming language - http://vale.dev/,ValeLang,Vale,https://github.com/ValeLang/Vale
+2023-01-10,scala,173,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2023-01-10,scala,201,0,,ucb-bar,berkeley-hardfloat,https://github.com/ucb-bar/berkeley-hardfloat

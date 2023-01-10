@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-10,go,11384,31,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-01-10,go,1286,63,,danielgross,whatsapp-gpt,https://github.com/danielgross/whatsapp-gpt
+2023-01-10,go,15731,212,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-01-10,go,35175,51,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2023-01-10,go,263,31,Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.,kubernetes-sigs,kwok,https://github.com/kubernetes-sigs/kwok
+2023-01-10,go,7058,13,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2023-01-10,go,2073,3,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2023-01-10,go,9586,2,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",DNSCrypt,dnscrypt-proxy,https://github.com/DNSCrypt/dnscrypt-proxy
+2023-01-10,go,12719,17,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2023-01-10,go,8028,43,"The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes",kubeshark,kubeshark,https://github.com/kubeshark/kubeshark
+2023-01-10,go,2093,9,A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.,u-root,u-root,https://github.com/u-root/u-root
+2023-01-10,go,2822,422,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2023-01-10,go,5892,13,Automated code review tool integrated with any code analysis tools regardless of programming language,reviewdog,reviewdog,https://github.com/reviewdog/reviewdog
+2023-01-10,go,2235,23,"Run your own GPTChat Telegram bot, with a single command!",m1guelpf,chatgpt-telegram,https://github.com/m1guelpf/chatgpt-telegram
+2023-01-10,go,173,2,"Run your own GPTChat Discord bot, with a single command!",m1guelpf,chatgpt-discord,https://github.com/m1guelpf/chatgpt-discord
+2023-01-10,go,19524,50,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-01-10,go,94281,75,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-01-10,go,16475,17,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2023-01-10,go,12130,11,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2023-01-10,go,24592,7,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2023-01-10,go,4764,7,"Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",apernet,hysteria,https://github.com/apernet/hysteria
+2023-01-10,go,13592,21,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2023-01-10,go,11705,39,A tool for glamorous shell scripts,charmbracelet,gum,https://github.com/charmbracelet/gum
+2023-01-10,go,5383,5,"A shell parser, formatter, and interpreter with bash support; includes shfmt",mvdan,sh,https://github.com/mvdan/sh
+2023-01-10,go,1638,4,Docker-based local PHP+Node.js web development environments,drud,ddev,https://github.com/drud/ddev
