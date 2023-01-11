@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-11,haskell,19857,14,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-01-11,haskell,31075,16,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-01-11,haskell,2216,3,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-01-11,haskell,6,0,,ArtixLabs,Ark,https://github.com/ArtixLabs/Ark
+2023-01-11,haskell,27,3,GHC plugin to desugar ! into do-notation,JakobBruenker,monadic-bang,https://github.com/JakobBruenker/monadic-bang
+2023-01-11,haskell,5,2,A monorepo for Liqwid Labs plutarch libraries.,Liqwid-Labs,liqwid-libs,https://github.com/Liqwid-Labs/liqwid-libs
+2023-01-11,haskell,2495,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-01-11,haskell,2263,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-01-11,haskell,1,0,,dataartisan,cat-n-count-haskell,https://github.com/dataartisan/cat-n-count-haskell
+2023-01-11,haskell,7070,3,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-01-11,haskell,4885,10,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-01-11,haskell,27429,10,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-01-11,haskell,1445,2,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-01-11,haskell,3812,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2023-01-11,haskell,195,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2023-01-11,haskell,1930,2,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2023-01-11,haskell,8018,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-01-11,haskell,1165,4,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-01-11,haskell,175,0,Implementation of the Hydra Head protocol,input-output-hk,hydra,https://github.com/input-output-hk/hydra
+2023-01-11,haskell,4,0,Experiment in testable IO in Haskell,yairchu,testableio,https://github.com/yairchu/testableio
+2023-01-11,haskell,2870,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-01-11,haskell,27,0,Reference DAML application demonstrating a healthcare use case.,digital-asset,ex-healthcare-claims-processing,https://github.com/digital-asset/ex-healthcare-claims-processing
+2023-01-11,haskell,9,0,Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.,digital-asset,ex-mortgage-repackaging,https://github.com/digital-asset/ex-mortgage-repackaging
+2023-01-11,haskell,12,0,,digital-asset,daml-finance,https://github.com/digital-asset/daml-finance
+2023-01-11,haskell,2273,2,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
