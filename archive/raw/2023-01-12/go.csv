@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-12,go,736,269,"A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",amitshekhariitbhu,go-backend-clean-architecture,https://github.com/amitshekhariitbhu/go-backend-clean-architecture
+2023-01-12,go,1542,119,,danielgross,whatsapp-gpt,https://github.com/danielgross/whatsapp-gpt
+2023-01-12,go,6129,6,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2023-01-12,go,17379,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-01-12,go,4698,6,Arbitrary-precision fixed-point decimal numbers in go,shopspring,decimal,https://github.com/shopspring/decimal
+2023-01-12,go,19078,21,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2023-01-12,go,2190,64,ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.,zitadel,zitadel,https://github.com/zitadel/zitadel
+2023-01-12,go,1367,4,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2023-01-12,go,2586,4,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2023-01-12,go,65714,20,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-01-12,go,16187,9,Type-safe Redis client for Golang,go-redis,redis,https://github.com/go-redis/redis
+2023-01-12,go,21951,9,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2023-01-12,go,2663,8,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2023-01-12,go,9371,12,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2023-01-12,go,20439,10,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-01-12,go,14772,5,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-01-12,go,7773,5,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2023-01-12,go,9913,4,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2023-01-12,go,25884,4,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-01-12,go,14078,80,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-01-12,go,95048,39,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-01-12,go,6026,14,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2023-01-12,go,5373,12,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2023-01-12,go,3439,6,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-01-12,go,5916,10,Automated code review tool integrated with any code analysis tools regardless of programming language,reviewdog,reviewdog,https://github.com/reviewdog/reviewdog
