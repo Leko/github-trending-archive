@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-13,shell,26316,67,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2023-01-13,shell,8264,8,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2023-01-13,shell,7220,22,（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2023-01-13,shell,1746,0,"ReDroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here",remote-android,redroid-doc,https://github.com/remote-android/redroid-doc
+2023-01-13,shell,63922,31,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-01-13,shell,6573,0,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2023-01-13,shell,5828,3,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2023-01-13,shell,3568,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-01-13,shell,200,0,,microverseinc,linters-config,https://github.com/microverseinc/linters-config
+2023-01-13,shell,847,5,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2023-01-13,shell,1786,3,"An open-source, next-generation ""runc"" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",nestybox,sysbox,https://github.com/nestybox/sysbox
+2023-01-13,shell,18853,17,binary releases of VS Code without MS branding/telemetry/licensing,VSCodium,vscodium,https://github.com/VSCodium/vscodium
+2023-01-13,shell,1662,2,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2023-01-13,shell,2005,6,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2023-01-13,shell,226,3,A program almost identical to the 42 EXAMS for practice. (Pool EXAM & Stud EXAM),JCluzet,42_EXAM,https://github.com/JCluzet/42_EXAM
+2023-01-13,shell,6505,2,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2023-01-13,shell,4771,1,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2023-01-13,shell,5774,3,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2023-01-13,shell,7503,3,Color Scheme for your Terminal,Gogh-Co,Gogh,https://github.com/Gogh-Co/Gogh
+2023-01-13,shell,293,5,一键注入SSHD进程记录并发送ssh登录的密码,9bie,sshdHooker,https://github.com/9bie/sshdHooker
+2023-01-13,shell,16400,6,"OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",Nyr,openvpn-install,https://github.com/Nyr/openvpn-install
+2023-01-13,shell,1180,1,Docker Image of NetBox,netbox-community,netbox-docker,https://github.com/netbox-community/netbox-docker
+2023-01-13,shell,203,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2023-01-13,shell,0,0,,Spring23-EE595,helloworld,https://github.com/Spring23-EE595/helloworld
+2023-01-13,shell,1429,0,ARCHIVED Containers for the no longer supported WildFly distribution of Keycloak,keycloak,keycloak-containers,https://github.com/keycloak/keycloak-containers

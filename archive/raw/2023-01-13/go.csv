@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-13,go,1078,403,"A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",amitshekhariitbhu,go-backend-clean-architecture,https://github.com/amitshekhariitbhu/go-backend-clean-architecture
+2023-01-13,go,1642,129,,danielgross,whatsapp-gpt,https://github.com/danielgross/whatsapp-gpt
+2023-01-13,go,2616,20,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2023-01-13,go,823,2,Manages Envoy Proxy as a standalone or Kubernetes-based application gateway,envoyproxy,gateway,https://github.com/envoyproxy/gateway
+2023-01-13,go,41103,24,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2023-01-13,go,5384,12,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2023-01-13,go,1796,10,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2023-01-13,go,14100,22,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-01-13,go,7537,0,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2023-01-13,go,6137,8,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2023-01-13,go,10567,13,Pure Go implementation of the WebRTC API,pion,webrtc,https://github.com/pion/webrtc
+2023-01-13,go,1657,2,Common Expression Language -- specification and binary representation,google,cel-spec,https://github.com/google/cel-spec
+2023-01-13,go,2334,4,Docker CLI plugin for extended build capabilities with BuildKit,docker,buildx,https://github.com/docker/buildx
+2023-01-13,go,11755,11,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-01-13,go,2235,47,ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.,zitadel,zitadel,https://github.com/zitadel/zitadel
+2023-01-13,go,12083,8,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-01-13,go,3009,7,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2023-01-13,go,3044,9,"A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",thangchung,go-coffeeshop,https://github.com/thangchung/go-coffeeshop
+2023-01-13,go,2117,8,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2023-01-13,go,6507,2,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-01-13,go,33855,46,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2023-01-13,go,3220,8,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-01-13,go,24203,7,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2023-01-13,go,4183,3,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2023-01-13,go,34148,21,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea

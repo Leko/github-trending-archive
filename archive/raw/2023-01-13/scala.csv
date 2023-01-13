@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-13,scala,2824,2,"StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",apache,incubator-streampark,https://github.com/apache/incubator-streampark
+2023-01-13,scala,3674,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-01-13,scala,34734,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-01-13,scala,2885,4,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2023-01-13,scala,1429,4,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-01-13,scala,3869,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-01-13,scala,594,0,A scala library to write Http apps.,zio,zio-http,https://github.com/zio/zio-http
+2023-01-13,scala,5574,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-01-13,scala,13976,0,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2023-01-13,scala,12300,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2023-01-13,scala,2611,2,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-01-13,scala,1,0,,gunrok,bp,https://github.com/gunrok/bp
+2023-01-13,scala,2473,3,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-01-13,scala,1826,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2023-01-13,scala,2361,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2023-01-13,scala,8469,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2023-01-13,scala,173,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2023-01-13,scala,430,1,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2023-01-13,scala,2757,0,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2023-01-13,scala,8,0,,yanns,play2-scala-DI,https://github.com/yanns/play2-scala-DI
+2023-01-13,scala,2575,1,Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala,slick,slick,https://github.com/slick/slick
+2023-01-13,scala,492,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2023-01-13,scala,6305,1,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2023-01-13,scala,35,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2023-01-13,scala,21,0,"Integrations between Natchez, Doobie, HTTP4s, Log4cats and Datadog. Formerly called effect-utils.",ovotech,natchez-extras,https://github.com/ovotech/natchez-extras
