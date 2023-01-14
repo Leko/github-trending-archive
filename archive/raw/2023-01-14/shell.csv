@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-14,shell,7239,20,（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2023-01-14,shell,26484,175,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2023-01-14,shell,651,10,"OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.",sickcodes,osx-optimizer,https://github.com/sickcodes/osx-optimizer
+2023-01-14,shell,33634,24,A Zsh theme,romkatv,powerlevel10k,https://github.com/romkatv/powerlevel10k
+2023-01-14,shell,63951,31,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-01-14,shell,10210,11,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2023-01-14,shell,920,0,Example usage of HashiCorp Vault secrets management,hashicorp,vault-guides,https://github.com/hashicorp/vault-guides
+2023-01-14,shell,3569,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-01-14,shell,249,42,Guias e boas práticas de programação para um melhor desenvolvimento de software,luizalabs,dev-guide,https://github.com/luizalabs/dev-guide
+2023-01-14,shell,34640,30,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 来看看，你会发现相见恨晚！,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2023-01-14,shell,852,1,Helm chart to install Vault and other associated components.,hashicorp,vault-helm,https://github.com/hashicorp/vault-helm
+2023-01-14,shell,2005,0,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2023-01-14,shell,9243,3,"Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.",angristan,openvpn-install,https://github.com/angristan/openvpn-install
+2023-01-14,shell,4774,3,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2023-01-14,shell,14462,5,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2023-01-14,shell,4915,2,RFCs for changes to Rust,rust-lang,rfcs,https://github.com/rust-lang/rfcs
+2023-01-14,shell,773,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2023-01-14,shell,1390,4,Kubernetes playground,justmeandopensource,kubernetes,https://github.com/justmeandopensource/kubernetes
+2023-01-14,shell,10966,7,NodeSource Node.js Binary Distributions,nodesource,distributions,https://github.com/nodesource/distributions
+2023-01-14,shell,16485,10,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2023-01-14,shell,3696,0,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2023-01-14,shell,5829,2,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2023-01-14,shell,36823,37,Official electron build of draw.io,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2023-01-14,shell,3066,11,Proxmox Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2023-01-14,shell,3736,4,"A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmybash,oh-my-bash,https://github.com/ohmybash/oh-my-bash
