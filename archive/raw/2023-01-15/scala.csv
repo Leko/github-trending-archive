@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-15,scala,5581,6,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-01-15,scala,1689,1,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2023-01-15,scala,3677,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-01-15,scala,9266,2,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-01-15,scala,2759,0,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2023-01-15,scala,5188,3,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-01-15,scala,594,0,A scala library to write Http apps.,zio,zio-http,https://github.com/zio/zio-http
+2023-01-15,scala,12585,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-01-15,scala,1,0,works,kazua,works,https://github.com/kazua/works
+2023-01-15,scala,2672,3,A simple client for Android,xxf098,shadowsocksr-v2ray-trojan-android,https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+2023-01-15,scala,2613,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-01-15,scala,449,1,"This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language",spark-examples,spark-scala-examples,https://github.com/spark-examples/spark-scala-examples
+2023-01-15,scala,492,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2023-01-15,scala,34754,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-01-15,scala,0,0,Scala Practice in the form of a game,dalehamill,Rowbit,https://github.com/dalehamill/Rowbit
+2023-01-15,scala,5784,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-01-15,scala,115,0,Direct-Style Programming for ZIO,zio,zio-direct,https://github.com/zio/zio-direct
+2023-01-15,scala,15,0,This new version of CSYE7200 is to replace the old version.,rchillyard,CSYE7200,https://github.com/rchillyard/CSYE7200
+2023-01-15,scala,5490,1,"Code, exercises, answers, and hints to go along with the book ""Functional Programming in Scala""",fpinscala,fpinscala,https://github.com/fpinscala/fpinscala
+2023-01-15,scala,1396,0,"Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",akka,alpakka-kafka,https://github.com/akka/alpakka-kafka
+2023-01-15,scala,483,0,Add-on module for Jackson (https://github.com/FasterXML/jackson) to support Scala-specific datatypes,FasterXML,jackson-module-scala,https://github.com/FasterXML/jackson-module-scala
+2023-01-15,scala,64,0,A STAC/OGC API Features Web Service,azavea,franklin,https://github.com/azavea/franklin
+2023-01-15,scala,254,3,"Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",apache,incubator-pekko,https://github.com/apache/incubator-pekko
+2023-01-15,scala,1407,0,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2023-01-15,scala,430,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
