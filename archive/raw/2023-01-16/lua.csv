@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-16,lua,4259,3,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-01-16,lua,4161,2,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2023-01-16,lua,1087,47,"A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content of neovim buffer.",Eandrju,cellular-automaton.nvim,https://github.com/Eandrju/cellular-automaton.nvim
+2023-01-16,lua,2376,3,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2023-01-16,lua,581,0,Treesitter playground integrated into Neovim,nvim-treesitter,playground,https://github.com/nvim-treesitter/playground
+2023-01-16,lua,758,7,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-01-16,lua,2618,2,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-01-16,lua,8577,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-01-16,lua,3335,13,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-01-16,lua,1634,2,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-01-16,lua,5301,17,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2023-01-16,lua,2318,2,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2023-01-16,lua,6529,9,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-01-16,lua,768,1,"One dark and light colorscheme for neovim >= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles",navarasu,onedark.nvim,https://github.com/navarasu/onedark.nvim
+2023-01-16,lua,117,1,"fivem-appearance for qb-core and ESX framework, packed with a lot of features",iLLeniumStudios,illenium-appearance,https://github.com/iLLeniumStudios/illenium-appearance
+2023-01-16,lua,1801,4,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2023-01-16,lua,330,0,tmux integration for nvim features pane movement and resizing from within nvim.,aserowy,tmux.nvim,https://github.com/aserowy/tmux.nvim
+2023-01-16,lua,1982,24,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-01-16,lua,39,1,Slot Based Inventory System Used With QB-Core,qbcore-framework,qb-inventory,https://github.com/qbcore-framework/qb-inventory
+2023-01-16,lua,2780,6,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-01-16,lua,26,0,Some Lua internals and more built-in scripts for reference,ac-custom-shaders-patch,acc-lua-internal,https://github.com/ac-custom-shaders-patch/acc-lua-internal
+2023-01-16,lua,1820,2,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2023-01-16,lua,2861,31,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-01-16,lua,966,10,Standalone UI for nvim-lsp progress,j-hui,fidget.nvim,https://github.com/j-hui/fidget.nvim
+2023-01-16,lua,431,0,,theHamsta,nvim-dap-virtual-text,https://github.com/theHamsta/nvim-dap-virtual-text
