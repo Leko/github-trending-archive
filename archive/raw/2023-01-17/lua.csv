@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-17,lua,2886,28,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-01-17,lua,1415,27,Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2023-01-17,lua,6539,10,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-01-17,lua,4150,12,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2023-01-17,lua,2388,12,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2023-01-17,lua,12760,16,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-01-17,lua,968,2,Standalone UI for nvim-lsp progress,j-hui,fidget.nvim,https://github.com/j-hui/fidget.nvim
+2023-01-17,lua,8595,19,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-01-17,lua,3345,10,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-01-17,lua,762,4,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-01-17,lua,805,1,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2023-01-17,lua,158,1,My config for LunarVim,ChristianChiarulli,lvim,https://github.com/ChristianChiarulli/lvim
+2023-01-17,lua,2094,3,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2023-01-17,lua,5345,2,awesome window manager,awesomeWM,awesome,https://github.com/awesomeWM/awesome
+2023-01-17,lua,5319,18,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2023-01-17,lua,12055,13,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-01-17,lua,1948,15,Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2023-01-17,lua,3135,9,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2023-01-17,lua,2014,32,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-01-17,lua,4,0,,qbcore-framework,qb-vehicleshop,https://github.com/qbcore-framework/qb-vehicleshop
+2023-01-17,lua,13870,7,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-01-17,lua,173,1,An easy drag n' drop resource that gives you a wrapper to use FiveM's built-in mumble voice.,AvarianKnight,pma-voice,https://github.com/AvarianKnight/pma-voice
+2023-01-17,lua,2788,8,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-01-17,lua,582,1,Treesitter playground integrated into Neovim,nvim-treesitter,playground,https://github.com/nvim-treesitter/playground
+2023-01-17,lua,412,0,A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.,nvim-telescope,telescope-frecency.nvim,https://github.com/nvim-telescope/telescope-frecency.nvim
