@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-18,go,191,19,,Moonlight-Zhao,go-project-example,https://github.com/Moonlight-Zhao/go-project-example
+2023-01-18,go,1082,46,Sonne tanken,evcc-io,evcc,https://github.com/evcc-io/evcc
+2023-01-18,go,3854,39,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2023-01-18,go,20028,139,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-01-18,go,24697,4,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2023-01-18,go,340,8,Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.,kubernetes-sigs,kwok,https://github.com/kubernetes-sigs/kwok
+2023-01-18,go,5572,7,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2023-01-18,go,6653,3,Lightning Network Daemon,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2023-01-18,go,65861,44,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-01-18,go,32078,37,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-01-18,go,3780,14,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2023-01-18,go,8897,24,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2023-01-18,go,6534,3,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-01-18,go,18066,17,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-01-18,go,14869,8,A high performance HTTP request router that scales well,julienschmidt,httprouter,https://github.com/julienschmidt/httprouter
+2023-01-18,go,8405,10,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2023-01-18,go,12276,7,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-01-18,go,24625,3,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2023-01-18,go,469,35,,wangkechun,go-by-example,https://github.com/wangkechun/go-by-example
+2023-01-18,go,16372,10,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2023-01-18,go,15564,20,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2023-01-18,go,2838,18,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",kopia,kopia,https://github.com/kopia/kopia
+2023-01-18,go,13098,16,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-01-18,go,11275,8,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-01-18,go,14644,5,An IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
