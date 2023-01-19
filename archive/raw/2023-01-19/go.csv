@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-19,go,2347,85,An automated e-mail OSINT tool,alpkeskin,mosint,https://github.com/alpkeskin/mosint
+2023-01-19,go,322,21,go pprof practice.,wolfogre,go-pprof-practice,https://github.com/wolfogre/go-pprof-practice
+2023-01-19,go,3859,58,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2023-01-19,go,9091,15,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2023-01-19,go,18082,17,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-01-19,go,25906,7,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-01-19,go,5434,11,"High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com",ddosify,ddosify,https://github.com/ddosify/ddosify
+2023-01-19,go,8918,19,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2023-01-19,go,20145,127,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-01-19,go,4660,7,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2023-01-19,go,64796,29,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2023-01-19,go,7678,12,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2023-01-19,go,732,46,Artificial Intelligence Infrastructure-as-Code Generator.,gofireflyio,aiac,https://github.com/gofireflyio/aiac
+2023-01-19,go,10466,10,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2023-01-19,go,3783,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-01-19,go,222,31,,Moonlight-Zhao,go-project-example,https://github.com/Moonlight-Zhao/go-project-example
+2023-01-19,go,23463,9,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2023-01-19,go,11376,7,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-01-19,go,10636,10,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-01-19,go,26818,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-01-19,go,16991,7,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2023-01-19,go,6612,6,Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,gruntwork-io,terratest,https://github.com/gruntwork-io/terratest
+2023-01-19,go,7519,3,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-01-19,go,3168,6,"Open Source, Zanzibar-Inspired Fine-Grained Permissions Database",authzed,spicedb,https://github.com/authzed/spicedb
+2023-01-19,go,15720,22,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
