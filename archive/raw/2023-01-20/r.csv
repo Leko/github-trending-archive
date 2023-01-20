@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-20,r,1664,0,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2023-01-20,r,192,34,this project contains R code about analysing data from the book Analisis de datos con R,XSaintX,libroR-AnalisisDatos,https://github.com/XSaintX/libroR-AnalisisDatos
+2023-01-20,r,473,1,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2023-01-20,r,374,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2023-01-20,r,525,0,A fresh approach to string manipulation in R,tidyverse,stringr,https://github.com/tidyverse/stringr
+2023-01-20,r,259,0,Personal data visualization side projects.,tashapiro,tanya-data-viz,https://github.com/tashapiro/tanya-data-viz
+2023-01-20,r,2908,2,A curated list of awesome network analysis resources.,briatte,awesome-network-analysis,https://github.com/briatte/awesome-network-analysis
+2023-01-20,r,20,3,Interface to ChatGPT from R,jcrodriguez1989,chatgpt,https://github.com/jcrodriguez1989/chatgpt
+2023-01-20,r,4000,0,A collection of interactive courses for the swirl R package.,swirldev,swirl_courses,https://github.com/swirldev/swirl_courses
+2023-01-20,r,203,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2023-01-20,r,958,1,'ggplot2' Based Publication Ready Plots,kassambara,ggpubr,https://github.com/kassambara/ggpubr
+2023-01-20,r,263,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2023-01-20,r,707,1,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2023-01-20,r,1632,1,"Easily generate information-rich, publication-quality tables from R",rstudio,gt,https://github.com/rstudio/gt
+2023-01-20,r,1095,2,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2023-01-20,r,3202,2,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2023-01-20,r,415,0,Survival Analysis and Visualization,kassambara,survminer,https://github.com/kassambara/survminer
+2023-01-20,r,2231,0,A general-purpose tool for dynamic report generation in R,yihui,knitr,https://github.com/yihui/knitr
+2023-01-20,r,897,0,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
+2023-01-20,r,1060,0,Repel overlapping text labels away from each other.,slowkow,ggrepel,https://github.com/slowkow/ggrepel
+2023-01-20,r,14,0,,rpodcast,nhl_analysis,https://github.com/rpodcast/nhl_analysis
+2023-01-20,r,6,0,"This is a solution that allows you to offload a resource intensive Monte-Carlo simulation to more powerful machines on Amazon SageMaker, while still being able to develop your scripts in your RStudio IDE.",aws-samples,amazon-sagemaker-statistical-simulation-rstudio,https://github.com/aws-samples/amazon-sagemaker-statistical-simulation-rstudio
+2023-01-20,r,5,0,,aws-samples,rstudio-on-sagemaker-workshop,https://github.com/aws-samples/rstudio-on-sagemaker-workshop
+2023-01-20,r,14,0,"Customers using R can run simulation and machine learning securely and at scale with Amazon SageMaker while also reducing the cost of development by using the fully elastic resources in the cloud. In this demo, learn how to build, train, and deploy statistical and ML models in R at scale using Amazon SageMaker from your IDE.",aws-samples,reinvent2020-aim404-productionize-r-using-amazon-sagemaker,https://github.com/aws-samples/reinvent2020-aim404-productionize-r-using-amazon-sagemaker
+2023-01-20,r,394,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat

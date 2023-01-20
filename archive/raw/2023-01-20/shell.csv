@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-20,shell,64077,29,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-01-20,shell,6520,5,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2023-01-20,shell,3580,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-01-20,shell,7500,0,Dockerized GitLab,sameersbn,docker-gitlab,https://github.com/sameersbn/docker-gitlab
+2023-01-20,shell,3312,1,"A sample MySQL database with an integrated test suite, used to test your applications and database servers",datacharmer,test_db,https://github.com/datacharmer/test_db
+2023-01-20,shell,14736,2,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2023-01-20,shell,16529,6,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2023-01-20,shell,694,1,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2023-01-20,shell,248,6,A program almost identical to the 42 EXAMS for practice. (Pool EXAM & Stud EXAM),JCluzet,42_EXAM,https://github.com/JCluzet/42_EXAM
+2023-01-20,shell,2439,5,To fix the Docker and UFW security flaw without disabling iptables,chaifeng,ufw-docker,https://github.com/chaifeng/ufw-docker
+2023-01-20,shell,4187,2,NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2023-01-20,shell,8463,0,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2023-01-20,shell,69,4,naiveproxy in docker,RayWangQvQ,naiveproxy-docker,https://github.com/RayWangQvQ/naiveproxy-docker
+2023-01-20,shell,814,2,A set of exercises for deliberate Git Practice,eficode-academy,git-katas,https://github.com/eficode-academy/git-katas
+2023-01-20,shell,1665,0,Apache Kafka and Confluent Platform examples and demos,confluentinc,examples,https://github.com/confluentinc/examples
+2023-01-20,shell,6677,4,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2023-01-20,shell,204,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2023-01-20,shell,1398,3,Kubernetes playground,justmeandopensource,kubernetes,https://github.com/justmeandopensource/kubernetes
+2023-01-20,shell,585,1,"A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.",fluxcd,flux2-kustomize-helm-example,https://github.com/fluxcd/flux2-kustomize-helm-example
+2023-01-20,shell,3178,8,A conda-forge distribution.,conda-forge,miniforge,https://github.com/conda-forge/miniforge
+2023-01-20,shell,4780,1,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2023-01-20,shell,421,1,Helm chart to install Consul and other associated components.,hashicorp,consul-helm,https://github.com/hashicorp/consul-helm
+2023-01-20,shell,34762,18,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 来看看，你会发现相见恨晚！,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2023-01-20,shell,8161,3,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.,docker,docker-bench-security,https://github.com/docker/docker-bench-security
+2023-01-20,shell,5685,1,"Primary source of truth for the Docker ""Official Images"" program",docker-library,official-images,https://github.com/docker-library/official-images
