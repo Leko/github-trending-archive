@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-21,rust,7824,23,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-01-21,rust,1931,201,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2023-01-21,rust,3188,8,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-01-21,rust,9932,6,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2023-01-21,rust,7523,5,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2023-01-21,rust,6920,16,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2023-01-21,rust,1566,1,Raw bindings to platform APIs for Rust,rust-lang,libc,https://github.com/rust-lang/libc
+2023-01-21,rust,5978,7,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2023-01-21,rust,860,19,"Parseable is a modern log store and analysis engine built for developers. It is a lightweight, low latency, cloud native alternative to Elastic.",parseablehq,parseable,https://github.com/parseablehq/parseable
+2023-01-21,rust,44102,23,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2023-01-21,rust,87381,17,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-01-21,rust,5219,13,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-01-21,rust,35305,24,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2023-01-21,rust,7271,23,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2023-01-21,rust,4443,37,Use your tablet as graphic tablet/touch screen on your computer.,H-M-H,Weylus,https://github.com/H-M-H/Weylus
+2023-01-21,rust,7039,6,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2023-01-21,rust,7882,16,Rayon: A data parallelism library for Rust,rayon-rs,rayon,https://github.com/rayon-rs/rayon
+2023-01-21,rust,14351,36,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2023-01-21,rust,589,7,"A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems",electric-capital,crypto-ecosystems,https://github.com/electric-capital/crypto-ecosystems
+2023-01-21,rust,1530,12,"Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.",aya-rs,aya,https://github.com/aya-rs/aya
+2023-01-21,rust,2480,11,A Rust runtime for AWS Lambda,awslabs,aws-lambda-rust-runtime,https://github.com/awslabs/aws-lambda-rust-runtime
+2023-01-21,rust,7347,18,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2023-01-21,rust,18949,10,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-01-21,rust,33660,43,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2023-01-21,rust,6550,85,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff

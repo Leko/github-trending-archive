@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-21,go,833,55,Artificial Intelligence Infrastructure-as-Code Generator.,gofireflyio,aiac,https://github.com/gofireflyio/aiac
+2023-01-21,go,16547,15,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-01-21,go,2111,6,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2023-01-21,go,7241,13,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2023-01-21,go,828,31,Feature-rich terminal-based text viewer. It is a so-called terminal pager.,noborus,ov,https://github.com/noborus/ov
+2023-01-21,go,11458,5,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2023-01-21,go,11819,11,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-01-21,go,102,10,CLI tool for directly patching container images using reports from vulnerability scanners,project-copacetic,copacetic,https://github.com/project-copacetic/copacetic
+2023-01-21,go,7810,54,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2023-01-21,go,15829,51,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-01-21,go,5539,53,"High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com",ddosify,ddosify,https://github.com/ddosify/ddosify
+2023-01-21,go,3034,3,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2023-01-21,go,6627,3,Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,gruntwork-io,terratest,https://github.com/gruntwork-io/terratest
+2023-01-21,go,99,1,Public Chainguard Images,chainguard-images,images,https://github.com/chainguard-images/images
+2023-01-21,go,2691,10,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2023-01-21,go,6493,7,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2023-01-21,go,13526,8,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-01-21,go,8127,4,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-01-21,go,35401,13,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2023-01-21,go,12983,8,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-01-21,go,8957,17,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2023-01-21,go,19163,12,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2023-01-21,go,1823,4,SQL-first Golang ORM,uptrace,bun,https://github.com/uptrace/bun
+2023-01-21,go,965,4,A tool to bring existing Azure resources under Terraform's management,Azure,aztfy,https://github.com/Azure/aztfy
+2023-01-21,go,3927,14,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
