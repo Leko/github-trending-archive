@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-22,go,187,51,ProjectDiscovery's Open Source Tool Manager,projectdiscovery,pdtm,https://github.com/projectdiscovery/pdtm
+2023-01-22,go,14844,11,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-01-22,go,731,51,Instant distributed traces without code changes.  Boost existing monitoring tools with higher-quality data,keyval-dev,odigos,https://github.com/keyval-dev/odigos
+2023-01-22,go,25918,6,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-01-22,go,35863,10,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-01-22,go,245,2,Examples for Kitex.,cloudwego,kitex-examples,https://github.com/cloudwego/kitex-examples
+2023-01-22,go,42366,2,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-01-22,go,21185,21,"Curated list of Go design patterns, recipes and idioms",tmrts,go-patterns,https://github.com/tmrts/go-patterns
+2023-01-22,go,12104,6,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-01-22,go,2758,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2023-01-22,go,2661,24,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",qdm12,gluetun,https://github.com/qdm12/gluetun
+2023-01-22,go,7723,2,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2023-01-22,go,3828,4,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-01-22,go,3063,8,Go HTTP framework with high-performance and strong-extensibility for building micro-services.,cloudwego,hertz,https://github.com/cloudwego/hertz
+2023-01-22,go,4434,2,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
+2023-01-22,go,14170,5,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2023-01-22,go,8372,2,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2023-01-22,go,7816,6,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2023-01-22,go,1966,1,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2023-01-22,go,6457,4,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2023-01-22,go,34291,20,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2023-01-22,go,11934,19,A tool for glamorous shell scripts,charmbracelet,gum,https://github.com/charmbracelet/gum
+2023-01-22,go,8129,2,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-01-22,go,16555,9,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-01-22,go,11024,1,Git extension for versioning large files,git-lfs,git-lfs,https://github.com/git-lfs/git-lfs

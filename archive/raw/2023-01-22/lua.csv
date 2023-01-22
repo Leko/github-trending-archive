@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-22,lua,623,63,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-01-22,lua,2650,10,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-01-22,lua,72,3,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-01-22,lua,2189,37,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-01-22,lua,4183,5,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2023-01-22,lua,1811,2,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2023-01-22,lua,592,3,Treesitter playground integrated into Neovim,nvim-treesitter,playground,https://github.com/nvim-treesitter/playground
+2023-01-22,lua,244,0,Official Repo For core resources for esx-legacy,esx-framework,esx_core,https://github.com/esx-framework/esx_core
+2023-01-22,lua,729,2,Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.,folke,twilight.nvim,https://github.com/folke/twilight.nvim
+2023-01-22,lua,525,1,Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls,mfussenegger,nvim-jdtls,https://github.com/mfussenegger/nvim-jdtls
+2023-01-22,lua,3174,11,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2023-01-22,lua,116,0,Canary Server 12.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2023-01-22,lua,13920,9,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-01-22,lua,48,0,FIFA 23 Live Editor,xAranaktu,FIFA-23-Live-Editor,https://github.com/xAranaktu/FIFA-23-Live-Editor
+2023-01-22,lua,378,0,FiveM RP Framework Core,qbcore-framework,qb-core,https://github.com/qbcore-framework/qb-core
+2023-01-22,lua,5138,2,Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets,lsyncd,lsyncd,https://github.com/lsyncd/lsyncd
+2023-01-22,lua,4295,2,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-01-22,lua,1382,1,The Refactoring library based off the Refactoring book by Martin Fowler,ThePrimeagen,refactoring.nvim,https://github.com/ThePrimeagen/refactoring.nvim
+2023-01-22,lua,33857,7,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-01-22,lua,12840,18,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-01-22,lua,194,4,Neovim plugin to manage global and project-local settings,folke,neoconf.nvim,https://github.com/folke/neoconf.nvim
+2023-01-22,lua,3043,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2023-01-22,lua,1463,0,The neovim tabline plugin.,romgrk,barbar.nvim,https://github.com/romgrk/barbar.nvim
+2023-01-22,lua,781,4,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-01-22,lua,4187,6,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
