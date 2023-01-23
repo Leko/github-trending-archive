@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-23,lua,716,65,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-01-23,lua,76,4,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-01-23,lua,3175,1,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2023-01-23,lua,2654,6,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-01-23,lua,1700,4,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2023-01-23,lua,2214,26,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-01-23,lua,3012,15,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-01-23,lua,6575,5,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-01-23,lua,5383,13,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2023-01-23,lua,883,8,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-01-23,lua,1078,3,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-01-23,lua,1997,8,Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2023-01-23,lua,1832,4,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2023-01-23,lua,2927,10,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-01-23,lua,8662,11,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-01-23,lua,1966,3,A language server that offers Lua language support - programmed in Lua,sumneko,lua-language-server,https://github.com/sumneko/lua-language-server
+2023-01-23,lua,810,5,"Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2023-01-23,lua,12853,14,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-01-23,lua,3400,10,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-01-23,lua,4633,7,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-01-23,lua,599,4,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-01-23,lua,194,0,Neovim plugin to manage global and project-local settings,folke,neoconf.nvim,https://github.com/folke/neoconf.nvim
+2023-01-23,lua,973,1,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2023-01-23,lua,116,0,Canary Server 12.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2023-01-23,lua,2589,4,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
