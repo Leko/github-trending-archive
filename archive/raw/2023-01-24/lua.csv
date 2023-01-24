@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-24,lua,1234,371,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-01-24,lua,1708,8,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2023-01-24,lua,13934,10,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-01-24,lua,80,4,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-01-24,lua,600,1,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-01-24,lua,12097,3,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-01-24,lua,4196,3,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2023-01-24,lua,3411,11,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-01-24,lua,2255,43,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-01-24,lua,1828,10,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2023-01-24,lua,6582,7,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-01-24,lua,811,1,"Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2023-01-24,lua,8672,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-01-24,lua,6359,11,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-01-24,lua,1656,2,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-01-24,lua,2941,14,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-01-24,lua,1080,2,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-01-24,lua,19515,6,A community-driven modular vim/neovim distribution - The ultimate vimrc,SpaceVim,SpaceVim,https://github.com/SpaceVim/SpaceVim
+2023-01-24,lua,1302,11,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-01-24,lua,2655,1,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-01-24,lua,886,3,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-01-24,lua,3034,22,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-01-24,lua,24,0,FIFA 23 Career Mode Cheat Table,xAranaktu,FIFA-23-CM-Cheat-Table,https://github.com/xAranaktu/FIFA-23-CM-Cheat-Table
+2023-01-24,lua,843,1,My configuration files and tools,tjdevries,config_manager,https://github.com/tjdevries/config_manager
+2023-01-24,lua,2621,1,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
