@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-25,rust,7933,416,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2023-01-25,rust,103,18,,njsmith,posy,https://github.com/njsmith/posy
+2023-01-25,rust,172,27,ROS visualisation on the terminal,carzum,termviz,https://github.com/carzum/termviz
+2023-01-25,rust,11360,16,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2023-01-25,rust,4785,7,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-01-25,rust,8985,19,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2023-01-25,rust,2614,2,Solana Sealevel Framework,coral-xyz,anchor,https://github.com/coral-xyz/anchor
+2023-01-25,rust,33813,38,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2023-01-25,rust,181,32,A git prepare-commit-msg hook for authoring commit messages with GPT-3.,zurawiki,gptcommit,https://github.com/zurawiki/gptcommit
+2023-01-25,rust,3214,9,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-01-25,rust,1583,2,Raw bindings to platform APIs for Rust,rust-lang,libc,https://github.com/rust-lang/libc
+2023-01-25,rust,65,1,EVM-compatible chain indexer.,llamafolio,evm-indexer,https://github.com/llamafolio/evm-indexer
+2023-01-25,rust,5434,40,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2023-01-25,rust,5907,36,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2023-01-25,rust,7595,35,Terminal bandwidth utilization tool,imsnif,bandwhich,https://github.com/imsnif/bandwhich
+2023-01-25,rust,11265,6,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2023-01-25,rust,7740,13,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-01-25,rust,743,0,"A new FRAME-based Substrate node, ready for hacking.",substrate-developer-hub,substrate-node-template,https://github.com/substrate-developer-hub/substrate-node-template
+2023-01-25,rust,22301,16,"Unified developer tools for JavaScript, TypeScript, and the web",rome,tools,https://github.com/rome/tools
+2023-01-25,rust,20462,28,A modern replacement for ‘ls’.,ogham,exa,https://github.com/ogham/exa
+2023-01-25,rust,12522,12,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-01-25,rust,658,9,An experimental Rust native UI framework,linebender,xilem,https://github.com/linebender/xilem
+2023-01-25,rust,9526,11,Build terminal user interfaces and dashboards using Rust,fdehau,tui-rs,https://github.com/fdehau/tui-rs
+2023-01-25,rust,39229,25,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2023-01-25,rust,7364,23,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater

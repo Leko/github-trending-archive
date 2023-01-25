@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-25,haskell,2876,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-01-25,haskell,2470,1,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2023-01-25,haskell,31200,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-01-25,haskell,27693,25,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-01-25,haskell,1435,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2023-01-25,haskell,2024,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2023-01-25,haskell,8065,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-01-25,haskell,2275,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-01-25,haskell,19947,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-01-25,haskell,127,1,,haskell,ghcup-hs,https://github.com/haskell/ghcup-hs
+2023-01-25,haskell,3826,0,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2023-01-25,haskell,2246,3,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2023-01-25,haskell,198,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2023-01-25,haskell,1450,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-01-25,haskell,2502,2,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-01-25,haskell,2288,0,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2023-01-25,haskell,1071,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-01-25,haskell,80,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2023-01-25,haskell,2848,3,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-01-25,haskell,2604,2,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
+2023-01-25,haskell,548,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka

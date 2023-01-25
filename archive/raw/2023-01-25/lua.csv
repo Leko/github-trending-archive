@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-25,lua,1849,652,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-01-25,lua,9301,1,Image-to-image translation with conditional adversarial nets,phillipi,pix2pix,https://github.com/phillipi/pix2pix
+2023-01-25,lua,2303,48,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-01-25,lua,88,8,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-01-25,lua,3044,1,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2023-01-25,lua,1853,3,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2023-01-25,lua,6371,13,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-01-25,lua,6591,9,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-01-25,lua,1856,3,"A fancy, configurable, notification manager for NeoVim",rcarriga,nvim-notify,https://github.com/rcarriga/nvim-notify
+2023-01-25,lua,744,4,Simple winbar/statusline plugin that shows your current code context,SmiteshP,nvim-navic,https://github.com/SmiteshP/nvim-navic
+2023-01-25,lua,5154,5,Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets,lsyncd,lsyncd,https://github.com/lsyncd/lsyncd
+2023-01-25,lua,91,12,"A Neovim colorscheme based on Nord, but Aurora > Frost.",AlexvZyl,nordic.nvim,https://github.com/AlexvZyl/nordic.nvim
+2023-01-25,lua,1351,5,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
+2023-01-25,lua,1719,12,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2023-01-25,lua,136,5,A VS Code like winbar for Neovim,utilyre,barbecue.nvim,https://github.com/utilyre/barbecue.nvim
+2023-01-25,lua,747,1,Distraction-free coding for Neovim,folke,zen-mode.nvim,https://github.com/folke/zen-mode.nvim
+2023-01-25,lua,5062,1,Web-based Traffic and Security Network Traffic Monitoring,ntop,ntopng,https://github.com/ntop/ntopng
+2023-01-25,lua,1659,4,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-01-25,lua,8687,15,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-01-25,lua,1832,5,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2023-01-25,lua,759,2,The superior project management solution for neovim.,ahmedkhalf,project.nvim,https://github.com/ahmedkhalf/project.nvim
+2023-01-25,lua,1003,2,"A minimal, stylish and customizable statusline for Neovim written in Lua",feline-nvim,feline.nvim,https://github.com/feline-nvim/feline.nvim
+2023-01-25,lua,2107,5,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2023-01-25,lua,2952,12,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-01-25,lua,6154,5,A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
