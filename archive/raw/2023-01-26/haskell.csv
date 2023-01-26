@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-26,haskell,8069,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-01-26,haskell,97,1,symbolic EVM evaluator. https://hevm.dev,ethereum,hevm,https://github.com/ethereum/hevm
+2023-01-26,haskell,190,2,Exercises for the Haskell Beginners 2022 course,haskell-beginners-2022,exercises,https://github.com/haskell-beginners-2022/exercises
+2023-01-26,haskell,0,0,Scheme interpreter and try-server,leventov,Scheme,https://github.com/leventov/Scheme
+2023-01-26,haskell,8580,0,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2023-01-26,haskell,548,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-01-26,haskell,2250,4,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2023-01-26,haskell,7991,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-01-26,haskell,2426,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-01-26,haskell,1452,2,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-01-26,haskell,31206,9,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-01-26,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2023-01-26,haskell,81,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2023-01-26,haskell,48,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2023-01-26,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2023-01-26,haskell,19953,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-01-26,haskell,54,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2023-01-26,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2023-01-26,haskell,2334,5,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-01-26,haskell,4995,4,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-01-26,haskell,1178,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-01-26,haskell,2849,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-01-26,haskell,2502,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-01-26,haskell,13,1,Bulk-rename TV episode files with minimal fuss,keithfancher,tvmv,https://github.com/keithfancher/tvmv

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-26,go,306,40,Sangfor EasyConnect protocol reimplementation in Go,lyc8503,EasierConnect,https://github.com/lyc8503/EasierConnect
+2023-01-26,go,2991,22,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-01-26,go,2665,6,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2023-01-26,go,35905,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-01-26,go,18043,5,A powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2023-01-26,go,927,3,"A FAST Kubernetes manifests validator, with support for Custom Resources!",yannh,kubeconform,https://github.com/yannh/kubeconform
+2023-01-26,go,1880,5,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2023-01-26,go,14186,6,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2023-01-26,go,6574,8,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-01-26,go,5752,60,"High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com",ddosify,ddosify,https://github.com/ddosify/ddosify
+2023-01-26,go,5985,0,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-01-26,go,4232,5,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-01-26,go,9564,22,A blazing fast cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2023-01-26,go,7519,8,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2023-01-26,go,24652,5,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2023-01-26,go,2444,8,"Hubble - Network, Service & Security Observability for Kubernetes using eBPF",cilium,hubble,https://github.com/cilium/hubble
+2023-01-26,go,11861,14,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-01-26,go,13658,3,Easy and Repeatable Kubernetes Development,GoogleContainerTools,skaffold,https://github.com/GoogleContainerTools/skaffold
+2023-01-26,go,3169,3,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2023-01-26,go,2493,8,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2023-01-26,go,107809,23,The Go programming language,golang,go,https://github.com/golang/go
+2023-01-26,go,1907,4,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2023-01-26,go,26846,8,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-01-26,go,8562,2,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2023-01-26,go,8382,12,"Manage your dotfiles across multiple diverse machines, securely.",twpayne,chezmoi,https://github.com/twpayne/chezmoi

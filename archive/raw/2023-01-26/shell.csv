@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-26,shell,64178,23,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-01-26,shell,3731,3,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2023-01-26,shell,646,2,Installation script to deploy standard software on Macs,Installomator,Installomator,https://github.com/Installomator/Installomator
+2023-01-26,shell,854,3,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2023-01-26,shell,2280,4,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2023-01-26,shell,5804,0,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2023-01-26,shell,2349,4,docker compose files to create a fully working kafka stack,conduktor,kafka-stack-docker-compose,https://github.com/conduktor/kafka-stack-docker-compose
+2023-01-26,shell,151,1,The little hot-reloadin' static site maker from shell.,adityaathalye,shite,https://github.com/adityaathalye/shite
+2023-01-26,shell,731,3,,vcheckzen,KeepAliveE5,https://github.com/vcheckzen/KeepAliveE5
+2023-01-26,shell,2078,1,A script that you can run in the background!,21y4d,nmapAutomator,https://github.com/21y4d/nmapAutomator
+2023-01-26,shell,689,6,helloSystem Live and installation ISO,helloSystem,ISO,https://github.com/helloSystem/ISO
+2023-01-26,shell,299,3,A collection of Dev Container Features managed by Dev Container spec maintainers. See https://github.com/devcontainers/feature-starter to publish your own,devcontainers,features,https://github.com/devcontainers/features
+2023-01-26,shell,28681,6,".files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles
+2023-01-26,shell,3591,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-01-26,shell,18,1,,cyberomanov,ironfish-mbs,https://github.com/cyberomanov/ironfish-mbs
+2023-01-26,shell,45,5,A action for build KernelSU to your kernel,xiaoleGun,KernelSU_Action,https://github.com/xiaoleGun/KernelSU_Action
+2023-01-26,shell,2247,5,Guia rápido do WSL2 + Docker,codeedu,wsl2-docker-quickstart,https://github.com/codeedu/wsl2-docker-quickstart
+2023-01-26,shell,891,4,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2023-01-26,shell,41055,17,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2023-01-26,shell,2803,3,Programmatically generated handy kubectl aliases.,ahmetb,kubectl-aliases,https://github.com/ahmetb/kubectl-aliases
+2023-01-26,shell,205,1,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2023-01-26,shell,5362,0,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2023-01-26,shell,5844,4,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2023-01-26,shell,21163,14,"I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2023-01-26,shell,2838,4,Easily install PHP extension in Docker containers,mlocati,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer
