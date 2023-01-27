@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-27,shell,7813,16,"List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",toniblyx,my-arsenal-of-aws-security-tools,https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+2023-01-27,shell,21174,12,"I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2023-01-27,shell,2154,6,Automated Redpill Loader,fbelavenuto,arpl,https://github.com/fbelavenuto/arpl
+2023-01-27,shell,2282,2,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2023-01-27,shell,298,0,A collection of Dev Container Features managed by Dev Container spec maintainers. See https://github.com/devcontainers/feature-starter to publish your own,devcontainers,features,https://github.com/devcontainers/features
+2023-01-27,shell,2349,1,docker compose files to create a fully working kafka stack,conduktor,kafka-stack-docker-compose,https://github.com/conduktor/kafka-stack-docker-compose
+2023-01-27,shell,9745,6,A build system and primary set of packages for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2023-01-27,shell,16116,2,"GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",tj,git-extras,https://github.com/tj/git-extras
+2023-01-27,shell,856,2,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2023-01-27,shell,6475,0,Dockerfile for Apache Kafka,wurstmeister,kafka-docker,https://github.com/wurstmeister/kafka-docker
+2023-01-27,shell,5454,5,Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update),SuLingGG,OpenWrt-Rpi,https://github.com/SuLingGG/OpenWrt-Rpi
+2023-01-27,shell,153,0,Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!,devcontainers,templates,https://github.com/devcontainers/templates
+2023-01-27,shell,3593,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-01-27,shell,41,5,My config files for Hyprland Wayland Window Manager,ChrisTitusTech,hyprland-titus,https://github.com/ChrisTitusTech/hyprland-titus
+2023-01-27,shell,4789,1,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).",aws,containers-roadmap,https://github.com/aws/containers-roadmap
+2023-01-27,shell,6689,2,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2023-01-27,shell,3107,2,"The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!",pry0cc,axiom,https://github.com/pry0cc/axiom
+2023-01-27,shell,733,2,,vcheckzen,KeepAliveE5,https://github.com/vcheckzen/KeepAliveE5
+2023-01-27,shell,687,6,"Central Repository for the Epoch 0 coursework and quizzes. Contains all the content, cross-referenced and linked.",x676f64,secureum-mind_map,https://github.com/x676f64/secureum-mind_map
+2023-01-27,shell,6028,8,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2023-01-27,shell,16590,8,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2023-01-27,shell,6536,1,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2023-01-27,shell,205,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2023-01-27,shell,5846,3,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2023-01-27,shell,64204,27,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
