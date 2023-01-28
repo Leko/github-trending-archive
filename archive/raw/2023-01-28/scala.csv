@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-28,scala,5630,7,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-01-28,scala,3891,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-01-28,scala,283,5,"Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",apache,incubator-pekko,https://github.com/apache/incubator-pekko
+2023-01-28,scala,5803,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-01-28,scala,13997,3,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2023-01-28,scala,2775,2,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2023-01-28,scala,3695,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-01-28,scala,31,1,,leisuremeta,leisuremeta-chain,https://github.com/leisuremeta/leisuremeta-chain
+2023-01-28,scala,9301,2,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-01-28,scala,514,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2023-01-28,scala,853,0,This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition],databricks,LearningSparkV2,https://github.com/databricks/LearningSparkV2
+2023-01-28,scala,43,0,"Java, Scala and Spring SDKs for Kalix",lightbend,kalix-jvm-sdk,https://github.com/lightbend/kalix-jvm-sdk
+2023-01-28,scala,600,1,A scala library to write Http apps.,zio,zio-http,https://github.com/zio/zio-http
+2023-01-28,scala,831,0,"Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",scalacenter,bloop,https://github.com/scalacenter/bloop
+2023-01-28,scala,5370,0,Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.,linkerd,linkerd,https://github.com/linkerd/linkerd
+2023-01-28,scala,2579,0,Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala,slick,slick,https://github.com/slick/slick
+2023-01-28,scala,501,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2023-01-28,scala,2635,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-01-28,scala,2365,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2023-01-28,scala,2113,0,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2023-01-28,scala,5916,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2023-01-28,scala,2488,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-01-28,scala,5205,3,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-01-28,scala,1897,1,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2023-01-28,scala,4837,1,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
