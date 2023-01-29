@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-29,go,14683,17,An IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
+2023-01-29,go,19250,10,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2023-01-29,go,14177,9,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-01-29,go,16607,6,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-01-29,go,17525,106,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-01-29,go,46495,17,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-01-29,go,25940,4,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-01-29,go,1756,6,"OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)",getkin,kin-openapi,https://github.com/getkin/kin-openapi
+2023-01-29,go,42410,11,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-01-29,go,13591,3,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2023-01-29,go,25779,12,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2023-01-29,go,16282,5,Type-safe Redis client for Golang,redis,go-redis,https://github.com/redis/go-redis
+2023-01-29,go,2037,0,Go library for the VMware vSphere API,vmware,govmomi,https://github.com/vmware/govmomi
+2023-01-29,go,464,16,"Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监控和控制所有设备。",XZB-1248,Spark,https://github.com/XZB-1248/Spark
+2023-01-29,go,4995,10,"ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams",aler9,rtsp-simple-server,https://github.com/aler9/rtsp-simple-server
+2023-01-29,go,7268,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-01-29,go,18506,23,Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2023-01-29,go,816,4,"Telegram Downloader, but more than a downloader",iyear,tdl,https://github.com/iyear/tdl
+2023-01-29,go,4976,7,libp2p implementation in Go,libp2p,go-libp2p,https://github.com/libp2p/go-libp2p
+2023-01-29,go,13580,8,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-01-29,go,20496,0,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-01-29,go,5167,3,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2023-01-29,go,4654,87,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2023-01-29,go,2213,11,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2023-01-29,go,4521,5,Go OAuth2,golang,oauth2,https://github.com/golang/oauth2

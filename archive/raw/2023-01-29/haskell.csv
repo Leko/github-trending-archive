@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-01-29,haskell,19969,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-01-29,haskell,31247,19,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-01-29,haskell,0,0,Haskell implementation of Core Language described in the Implementing Functional Languages book,abi,core-lang,https://github.com/abi/core-lang
+2023-01-29,haskell,2881,3,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-01-29,haskell,248,0,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2023-01-29,haskell,548,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-01-29,haskell,5,0,bindings to quadprog++,tsurucapital,hmatrix-quadprogpp,https://github.com/tsurucapital/hmatrix-quadprogpp
+2023-01-29,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2023-01-29,haskell,2279,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-01-29,haskell,48,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2023-01-29,haskell,81,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2023-01-29,haskell,38,0,Clearly-delineated error-handling,Simspace,on-error,https://github.com/Simspace/on-error
+2023-01-29,haskell,8078,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-01-29,haskell,54,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2023-01-29,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2023-01-29,haskell,1452,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-01-29,haskell,5013,5,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-01-29,haskell,191,1,Exercises for the Haskell Beginners 2022 course,haskell-beginners-2022,exercises,https://github.com/haskell-beginners-2022/exercises
+2023-01-29,haskell,1955,0,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2023-01-29,haskell,3781,1,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",facebook,duckling,https://github.com/facebook/duckling
+2023-01-29,haskell,27767,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-01-29,haskell,6,0,CS 340 lecture notes,cs340ppp,lectures,https://github.com/cs340ppp/lectures
+2023-01-29,haskell,1033,1,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2023-01-29,haskell,104,2,symbolic EVM evaluator. https://hevm.dev,ethereum,hevm,https://github.com/ethereum/hevm
+2023-01-29,haskell,1,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
