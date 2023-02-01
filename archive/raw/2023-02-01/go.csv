@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-01,go,5154,60,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2023-02-01,go,18745,7,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-02-01,go,7284,6,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-02-01,go,2580,6,OCI Image Format,opencontainers,image-spec,https://github.com/opencontainers/image-spec
+2023-02-01,go,13059,17,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-02-01,go,16305,8,Type-safe Redis client for Golang,redis,go-redis,https://github.com/redis/go-redis
+2023-02-01,go,346,12,Kubernetes-native security toolkit,aquasecurity,trivy-operator,https://github.com/aquasecurity/trivy-operator
+2023-02-01,go,15778,46,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2023-02-01,go,12349,5,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-02-01,go,30527,27,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-02-01,go,13629,15,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2023-02-01,go,12460,11,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-02-01,go,33267,14,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-02-01,go,107985,47,The Go programming language,golang,go,https://github.com/golang/go
+2023-02-01,go,3250,6,Cross-cloud cost allocation models for Kubernetes workloads,opencost,opencost,https://github.com/opencost/opencost
+2023-02-01,go,11867,9,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2023-02-01,go,25954,7,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-02-01,go,2785,9,Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron,go-co-op,gocron,https://github.com/go-co-op/gocron
+2023-02-01,go,5186,6,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2023-02-01,go,25586,25,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2023-02-01,go,7579,12,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-02-01,go,8470,5,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2023-02-01,go,35794,46,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2023-02-01,go,11760,8,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2023-02-01,go,24513,20,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
