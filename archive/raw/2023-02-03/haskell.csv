@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-03,haskell,8096,8,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-02-03,haskell,21,2,"Horus, a formal verification tool for StarkNet smart contracts.",NethermindEth,horus-checker,https://github.com/NethermindEth/horus-checker
+2023-02-03,haskell,548,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-02-03,haskell,107,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2023-02-03,haskell,2,0,IO concurrent promitives for conduit,qnikst,iochan-conduit,https://github.com/qnikst/iochan-conduit
+2023-02-03,haskell,48,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2023-02-03,haskell,1958,0,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2023-02-03,haskell,5028,5,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-02-03,haskell,192,0,Exercises for the Haskell Beginners 2022 course,haskell-beginners-2022,exercises,https://github.com/haskell-beginners-2022/exercises
+2023-02-03,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2023-02-03,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2023-02-03,haskell,7999,4,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-02-03,haskell,19995,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-02-03,haskell,54,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2023-02-03,haskell,2281,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-02-03,haskell,0,0,Haskell implementation of Core Language described in the Implementing Functional Languages book,abi,core-lang,https://github.com/abi/core-lang
+2023-02-03,haskell,379,0,A collection of my config files.,NeuralNine,config-files,https://github.com/NeuralNine/config-files
+2023-02-03,haskell,1071,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-02-03,haskell,254,0,A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2023-02-03,haskell,1453,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-02-03,haskell,186,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend

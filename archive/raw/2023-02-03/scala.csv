@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-03,scala,34897,13,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-02-03,scala,5215,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-02-03,scala,3079,3,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2023-02-03,scala,3896,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-02-03,scala,14005,1,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2023-02-03,scala,2855,3,"StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",apache,incubator-streampark,https://github.com/apache/incubator-streampark
+2023-02-03,scala,25,7,,zio,zio-openai,https://github.com/zio/zio-openai
+2023-02-03,scala,761,0,Akka Sample Projects,akka,akka-samples,https://github.com/akka/akka-samples
+2023-02-03,scala,26,0,A minimal quickstart ZIO application for writing a RESTful Web Service,zio,zio-quickstart-restful-webservice,https://github.com/zio/zio-quickstart-restful-webservice
+2023-02-03,scala,5644,4,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-02-03,scala,105,0,Algebraic effects for Scala 3,fwbrasil,kyo,https://github.com/fwbrasil/kyo
+2023-02-03,scala,1680,1,"A low code Machine Learning peersonalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine",metarank,metarank,https://github.com/metarank/metarank
+2023-02-03,scala,340,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2023-02-03,scala,516,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2023-02-03,scala,23,9,"ZIO Elasticsearch is a type-safe, testable and streaming-friendly ZIO native Elasticsearch client.",lambdaworks,zio-elasticsearch,https://github.com/lambdaworks/zio-elasticsearch
+2023-02-03,scala,11213,2,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2023-02-03,scala,224,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2023-02-03,scala,3694,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-02-03,scala,1457,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-02-03,scala,592,0,Flexible Intermediate Representation for RTL,chipsalliance,firrtl,https://github.com/chipsalliance/firrtl
+2023-02-03,scala,144,0,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2023-02-03,scala,292,1,"Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",apache,incubator-pekko,https://github.com/apache/incubator-pekko
+2023-02-03,scala,34,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2023-02-03,scala,2636,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-02-03,scala,9316,2,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
