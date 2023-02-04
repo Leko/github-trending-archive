@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-04,go,108155,81,The Go programming language,golang,go,https://github.com/golang/go
+2023-02-04,go,14286,12,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-02-04,go,65023,14,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-02-04,go,22182,31,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-02-04,go,985,76,A document management system,hashicorp-forge,hermes,https://github.com/hashicorp-forge/hermes
+2023-02-04,go,83,14,"A Safe, Scalable, and Upgradeable Web3 Infrastructure enabling real-time transactions, and ~2 seconds block finality.",ExzoNetwork,ExzoCoin,https://github.com/ExzoNetwork/ExzoCoin
+2023-02-04,go,9596,8,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2023-02-04,go,23661,11,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2023-02-04,go,1362,21,golang微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2023-02-04,go,1777,74,"tbls is a CI-Friendly tool for document a database, written in Go.",k1LoW,tbls,https://github.com/k1LoW/tbls
+2023-02-04,go,12471,2,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-02-04,go,12169,5,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-02-04,go,2916,13,The open source high performance data integration platform built for developers.,cloudquery,cloudquery,https://github.com/cloudquery/cloudquery
+2023-02-04,go,6558,5,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2023-02-04,go,12456,8,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2023-02-04,go,4414,5,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2023-02-04,go,89,8,为个人微信接入ChatGPT,djun,wechatbot,https://github.com/djun/wechatbot
+2023-02-04,go,11951,15,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-02-04,go,13100,10,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-02-04,go,46587,24,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-02-04,go,10754,7,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-02-04,go,20544,11,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-02-04,go,95595,37,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-02-04,go,4293,3,A mock code autogenerator for Golang,vektra,mockery,https://github.com/vektra/mockery
+2023-02-04,go,30570,12,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra

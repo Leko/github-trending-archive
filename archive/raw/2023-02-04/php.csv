@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-04,php,28810,8,The Laravel Framework.,laravel,framework,https://github.com/laravel/framework
+2023-02-04,php,3150,26,DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。,kuaifan,dootask,https://github.com/kuaifan/dootask
+2023-02-04,php,27972,10,The Symfony PHP framework,symfony,symfony,https://github.com/symfony/symfony
+2023-02-04,php,9419,4,HTML to PDF converter for PHP,dompdf,dompdf,https://github.com/dompdf/dompdf
+2023-02-04,php,1126,37,AWSGoat : A Damn Vulnerable AWS Infrastructure,ine-labs,AWSGoat,https://github.com/ine-labs/AWSGoat
+2023-02-04,php,5693,4,A DOMPDF Wrapper for Laravel,barryvdh,laravel-dompdf,https://github.com/barryvdh/laravel-dompdf
+2023-02-04,php,4365,9,"World countries, states, regions, provinces, cities, towns in JSON, SQL, XML, YAML, and CSV. All Countries, States, Cities with ISO2, ISO3, Country Code, Phone Code, Capital, Native Language, Timezones, Latitude, Longitude, Region, Subregion, Flag Emoji, and Currency. #countries #states #cities",dr5hn,countries-states-cities-database,https://github.com/dr5hn/countries-states-cities-database
+2023-02-04,php,10447,1,"Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",magento,magento2,https://github.com/magento/magento2
+2023-02-04,php,7703,1,"Twig, the flexible, fast, and secure template language for PHP",twigphp,Twig,https://github.com/twigphp/Twig
+2023-02-04,php,2979,4,"GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",glpi-project,glpi,https://github.com/glpi-project/glpi
+2023-02-04,php,1702,2,A set of HTTP client abstractions extracted out of the Symfony components,symfony,http-client-contracts,https://github.com/symfony/http-client-contracts
+2023-02-04,php,8156,2,The Finder component finds files and directories via an intuitive fluent interface.,symfony,finder,https://github.com/symfony/finder
+2023-02-04,php,3894,2,The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.,symfony,dependency-injection,https://github.com/symfony/dependency-injection
+2023-02-04,php,9987,5,PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.,squizlabs,PHP_CodeSniffer,https://github.com/squizlabs/PHP_CodeSniffer
+2023-02-04,php,4026,2,Main repository for pfSense,pfsense,pfsense,https://github.com/pfsense/pfsense
+2023-02-04,php,9397,3,The Console component eases the creation of beautiful and testable command line interfaces.,symfony,console,https://github.com/symfony/console
+2023-02-04,php,2247,3,Fast and beautiful Log Viewer for Laravel,opcodesio,log-viewer,https://github.com/opcodesio/log-viewer
+2023-02-04,php,5620,3,Mautic: Open Source Marketing Automation Software.,mautic,mautic,https://github.com/mautic/mautic
+2023-02-04,php,10865,8,A platform to create documentation/wiki content built with PHP & Laravel,BookStackApp,BookStack,https://github.com/BookStackApp/BookStack
+2023-02-04,php,3734,2,The DomCrawler component eases DOM navigation for HTML and XML documents.,symfony,dom-crawler,https://github.com/symfony/dom-crawler
+2023-02-04,php,8258,2,The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.,symfony,event-dispatcher,https://github.com/symfony/event-dispatcher
+2023-02-04,php,7847,3,The HttpKernel component provides a structured process for converting a Request into a Response.,symfony,http-kernel,https://github.com/symfony/http-kernel
+2023-02-04,php,4033,2,"The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).",symfony,config,https://github.com/symfony/config
+2023-02-04,php,6428,1,The Translation component provides tools to internationalize your application.,symfony,translation,https://github.com/symfony/translation
+2023-02-04,php,20147,3,"Sends your logs to files, sockets, inboxes, databases and various web services",Seldaek,monolog,https://github.com/Seldaek/monolog
