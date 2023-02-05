@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-05,go,65055,34,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-02-05,go,24474,33,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2023-02-05,go,95610,21,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-02-05,go,6657,6,Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,gruntwork-io,terratest,https://github.com/gruntwork-io/terratest
+2023-02-05,go,16076,6,Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),slimtoolkit,slim,https://github.com/slimtoolkit/slim
+2023-02-05,go,108205,56,The Go programming language,golang,go,https://github.com/golang/go
+2023-02-05,go,90,1,为个人微信接入ChatGPT,djun,wechatbot,https://github.com/djun/wechatbot
+2023-02-05,go,39468,27,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2023-02-05,go,26896,1,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-02-05,go,16338,7,Type-safe Redis client for Golang,redis,go-redis,https://github.com/redis/go-redis
+2023-02-05,go,5187,6,Staticcheck - The advanced Go linter,dominikh,go-tools,https://github.com/dominikh/go-tools
+2023-02-05,go,18191,12,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-02-05,go,95796,64,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-02-05,go,14298,12,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-02-05,go,6969,19,Continuous Profiling Platform. Debug performance issues down to a single line of code,pyroscope-io,pyroscope,https://github.com/pyroscope-io/pyroscope
+2023-02-05,go,9599,3,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2023-02-05,go,12477,7,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-02-05,go,2712,6,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",grafana,tempo,https://github.com/grafana/tempo
+2023-02-05,go,5548,5,Go RPC framework with high-performance and strong-extensibility for building micro-services.,cloudwego,kitex,https://github.com/cloudwego/kitex
+2023-02-05,go,14984,13,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-02-05,go,2681,3,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2023-02-05,go,1375,14,golang微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2023-02-05,go,46597,14,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-02-05,go,20547,3,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-02-05,go,19933,13,Delve is a debugger for the Go programming language.,go-delve,delve,https://github.com/go-delve/delve

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-05,scala,34916,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-02-05,scala,2874,1,"StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",apache,incubator-streampark,https://github.com/apache/incubator-streampark
+2023-02-05,scala,1463,2,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-02-05,scala,9322,2,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-02-05,scala,2495,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-02-05,scala,2906,2,Chisel 3: A Modern Hardware Design Language,chipsalliance,chisel3,https://github.com/chipsalliance/chisel3
+2023-02-05,scala,3,0,An RTL generator for a last-level shared inclusive TileLink cache controller,chipsalliance,rocket-chip-inclusive-cache,https://github.com/chipsalliance/rocket-chip-inclusive-cache
+2023-02-05,scala,18,0,Wrapper for ETH Ariane Core,ucb-bar,cva6-wrapper,https://github.com/ucb-bar/cva6-wrapper
+2023-02-05,scala,5,1,RTL blocks compatible with the Rocket Chip Generator,chipsalliance,rocket-chip-blocks,https://github.com/chipsalliance/rocket-chip-blocks
+2023-02-05,scala,3897,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-02-05,scala,12679,7,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2023-02-05,scala,1841,2,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2023-02-05,scala,91,0,A Chisel RTL generator for network-on-chip interconnects,ucb-bar,constellation,https://github.com/ucb-bar/constellation
+2023-02-05,scala,1267,0,SonicBOOM: The Berkeley Out-of-Order Machine,riscv-boom,riscv-boom,https://github.com/riscv-boom/riscv-boom
+2023-02-05,scala,639,3,FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility,firesim,firesim,https://github.com/firesim/firesim
+2023-02-05,scala,3,1,works,kazua,works,https://github.com/kazua/works
+2023-02-05,scala,2,0,Wrapper for lowRISC Ibex,ucb-bar,ibex-wrapper,https://github.com/ucb-bar/ibex-wrapper
+2023-02-05,scala,556,0,educational microarchitectures for risc-v isa,ucb-bar,riscv-sodor,https://github.com/ucb-bar/riscv-sodor
+2023-02-05,scala,114,0,Microarchitecture implementation of the decoupled vector-fetch accelerator,ucb-bar,hwacha,https://github.com/ucb-bar/hwacha
+2023-02-05,scala,9,0,"Network components (NIC, Switch) for FireBox",firesim,icenet,https://github.com/firesim/icenet
+2023-02-05,scala,1706,1,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2023-02-05,scala,31,2,"ZIO Elasticsearch is a type-safe, testable and streaming-friendly ZIO native Elasticsearch client.",lambdaworks,zio-elasticsearch,https://github.com/lambdaworks/zio-elasticsearch
+2023-02-05,scala,503,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2023-02-05,scala,84,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2023-02-05,scala,403,0,Berkeley's Spatial Array Generator,ucb-bar,gemmini,https://github.com/ucb-bar/gemmini

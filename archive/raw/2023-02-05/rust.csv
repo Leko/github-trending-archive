@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-05,rust,409,52,Runtime Executor (asdf rust clone),jdxcode,rtx,https://github.com/jdxcode/rtx
+2023-02-05,rust,8887,197,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-02-05,rust,202,15,Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/,scsibug,nostr-rs-relay,https://github.com/scsibug/nostr-rs-relay
+2023-02-05,rust,2868,9,Redis library for rust,redis-rs,redis-rs,https://github.com/redis-rs/redis-rs
+2023-02-05,rust,14497,6,Cube — The Semantic Layer for Building Data Applications,cube-js,cube.js,https://github.com/cube-js/cube.js
+2023-02-05,rust,32112,51,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2023-02-05,rust,16353,19,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2023-02-05,rust,21665,21,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-02-05,rust,5300,8,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-02-05,rust,1721,6,"Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages",PyO3,maturin,https://github.com/PyO3/maturin
+2023-02-05,rust,9791,18,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2023-02-05,rust,9980,6,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2023-02-05,rust,25850,34,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2023-02-05,rust,3452,5,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2023-02-05,rust,106,10,A Rust hyper/tower service that implements load shedding with queuing & concurrency limiting based on latency.,Skepfyr,little-loadshedder,https://github.com/Skepfyr/little-loadshedder
+2023-02-05,rust,185,6,Compositor for the COSMIC desktop environment,pop-os,cosmic-comp,https://github.com/pop-os/cosmic-comp
+2023-02-05,rust,3173,5,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2023-02-05,rust,1020,10,一键安装BetterNCM,MicroCBer,BetterNCM-Installer,https://github.com/MicroCBer/BetterNCM-Installer
+2023-02-05,rust,323,25,Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries,fiberplane,autometrics-rs,https://github.com/fiberplane/autometrics-rs
+2023-02-05,rust,20587,13,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2023-02-05,rust,17883,22,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-02-05,rust,625,8,Rust 版 ServerStatus 探针、威力加强版,zdz,ServerStatus-Rust,https://github.com/zdz/ServerStatus-Rust
+2023-02-05,rust,1124,5,Universal shader translation in Rust,gfx-rs,naga,https://github.com/gfx-rs/naga
+2023-02-05,rust,2525,6,A Rust runtime for AWS Lambda,awslabs,aws-lambda-rust-runtime,https://github.com/awslabs/aws-lambda-rust-runtime
+2023-02-05,rust,5678,21,"Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
