@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-07,rust,87720,63,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-02-07,rust,668,159,High-level emulator for iPhone OS apps,hikari-no-yume,touchHLE,https://github.com/hikari-no-yume/touchHLE
+2023-02-07,rust,1091,172,"A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.",orlp,glidesort,https://github.com/orlp/glidesort
+2023-02-07,rust,4965,44,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2023-02-07,rust,21706,20,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-02-07,rust,7631,29,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2023-02-07,rust,17537,36,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2023-02-07,rust,13243,18,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-02-07,rust,4150,39,Speedy TypeScript type checker,dudykr,stc,https://github.com/dudykr/stc
+2023-02-07,rust,9496,8,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2023-02-07,rust,240,21,Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/,scsibug,nostr-rs-relay,https://github.com/scsibug/nostr-rs-relay
+2023-02-07,rust,32179,32,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2023-02-07,rust,2642,18,"Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",dtolnay,proc-macro-workshop,https://github.com/dtolnay/proc-macro-workshop
+2023-02-07,rust,8446,25,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-02-07,rust,3554,14,Encoding and decoding images in Rust,image-rs,image,https://github.com/image-rs/image
+2023-02-07,rust,13101,10,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2023-02-07,rust,25898,28,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2023-02-07,rust,77446,40,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-02-07,rust,7691,9,Rust parser combinator framework,rust-bakery,nom,https://github.com/rust-bakery/nom
+2023-02-07,rust,9829,21,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2023-02-07,rust,3476,10,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2023-02-07,rust,4681,4,"A Scalable, User-Friendly Source Control System.",facebook,sapling,https://github.com/facebook/sapling
+2023-02-07,rust,2304,14,High-level memory-safe binding generator for Flutter/Dart <-> Rust,fzyzcjy,flutter_rust_bridge,https://github.com/fzyzcjy/flutter_rust_bridge
+2023-02-07,rust,34206,41,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2023-02-07,rust,4505,12,Safe interop between Rust and C++,dtolnay,cxx,https://github.com/dtolnay/cxx

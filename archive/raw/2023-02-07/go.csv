@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-07,go,110,10,为个人微信接入ChatGPT,djun,wechatbot,https://github.com/djun/wechatbot
+2023-02-07,go,7728,54,"yq is a portable command-line YAML, JSON, XML, CSV and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2023-02-07,go,18808,184,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-02-07,go,1474,50,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,youshandefeiyang,IPTV,https://github.com/youshandefeiyang/IPTV
+2023-02-07,go,24747,9,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,mattermost,mattermost-server,https://github.com/mattermost/mattermost-server
+2023-02-07,go,20861,40,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-02-07,go,2361,19,,danielgross,whatsapp-gpt,https://github.com/danielgross/whatsapp-gpt
+2023-02-07,go,211,20,wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）,houko,wechatgpt,https://github.com/houko/wechatgpt
+2023-02-07,go,1526,7,VMware macOS utilities,DrDonk,unlocker,https://github.com/DrDonk/unlocker
+2023-02-07,go,12003,21,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2023-02-07,go,24435,19,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2023-02-07,go,1156,5,Sonne tanken,evcc-io,evcc,https://github.com/evcc-io/evcc
+2023-02-07,go,24407,24,AI-Powered Photos App for the Decentralized Web,photoprism,photoprism,https://github.com/photoprism/photoprism
+2023-02-07,go,834,3,Go library for the WhatsApp web multidevice API,tulir,whatsmeow,https://github.com/tulir/whatsmeow
+2023-02-07,go,65152,29,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2023-02-07,go,36917,28,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2023-02-07,go,25838,4,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2023-02-07,go,869,9,"Telegram Downloader, but more than a downloader",iyear,tdl,https://github.com/iyear/tdl
+2023-02-07,go,376,24,Reference implementation for Helm charts integrationsupport,score-spec,score-helm,https://github.com/score-spec/score-helm
+2023-02-07,go,4925,3,"Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",apernet,hysteria,https://github.com/apernet/hysteria
+2023-02-07,go,631,3,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
+2023-02-07,go,7937,25,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-02-07,go,11780,13,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-02-07,go,15838,22,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2023-02-07,go,8627,24,Fast web fuzzer written in Go,ffuf,ffuf,https://github.com/ffuf/ffuf
