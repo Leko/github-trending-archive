@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-08,scala,1473,7,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-02-08,scala,2884,6,"StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",apache,incubator-streampark,https://github.com/apache/incubator-streampark
+2023-02-08,scala,5657,4,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-02-08,scala,5813,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-02-08,scala,2365,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2023-02-08,scala,3699,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-02-08,scala,38,13,An introduction to functional programming for scalable statistical computing,darrenjw,fp-ssc-course,https://github.com/darrenjw/fp-ssc-course
+2023-02-08,scala,505,2,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2023-02-08,scala,12314,2,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2023-02-08,scala,3087,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2023-02-08,scala,4,1,"This is an Image transformation webservice where we can see 3 algorithms performing updates on images. It implements a contour for images, the Kuwahara blur filter and finally an algorithm I made myself called chartizate. The latter creates images where the foreground is written text.",jesperancinha,image-train-filters-web,https://github.com/jesperancinha/image-train-filters-web
+2023-02-08,scala,1225,2,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs,joernio,joern,https://github.com/joernio/joern
+2023-02-08,scala,177,1,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2023-02-08,scala,12600,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-02-08,scala,9347,25,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-02-08,scala,2641,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-02-08,scala,3,0,,gemini-hlsw,lucuma-react,https://github.com/gemini-hlsw/lucuma-react
+2023-02-08,scala,741,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2023-02-08,scala,34,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2023-02-08,scala,36,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo
+2023-02-08,scala,3899,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-02-08,scala,1900,1,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2023-02-08,scala,2120,1,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2023-02-08,scala,1315,1,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2023-02-08,scala,1442,1,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr

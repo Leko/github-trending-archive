@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-08,go,1574,103,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,youshandefeiyang,IPTV,https://github.com/youshandefeiyang/IPTV
+2023-02-08,go,1484,56,golang微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2023-02-08,go,7651,10,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2023-02-08,go,3707,24,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2023-02-08,go,13040,6,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-02-08,go,243,32,wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）,houko,wechatgpt,https://github.com/houko/wechatgpt
+2023-02-08,go,2192,0,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2023-02-08,go,4283,33,100 Go Mistakes and How to Avoid Them,teivah,100-go-mistakes,https://github.com/teivah/100-go-mistakes
+2023-02-08,go,15500,11,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2023-02-08,go,140,30,为个人微信接入ChatGPT,djun,wechatbot,https://github.com/djun/wechatbot
+2023-02-08,go,18947,147,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-02-08,go,2398,6,Docker CLI plugin for extended build capabilities with BuildKit,docker,buildx,https://github.com/docker/buildx
+2023-02-08,go,12503,5,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-02-08,go,8615,6,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2023-02-08,go,36054,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-02-08,go,32331,7,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2023-02-08,go,31341,11,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-02-08,go,8643,16,Fast web fuzzer written in Go,ffuf,ffuf,https://github.com/ffuf/ffuf
+2023-02-08,go,529,26,Creates Helm chart from Kubernetes yaml,arttor,helmify,https://github.com/arttor/helmify
+2023-02-08,go,7803,9,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2023-02-08,go,6538,6,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2023-02-08,go,14893,18,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-02-08,go,2736,7,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",grafana,tempo,https://github.com/grafana/tempo
+2023-02-08,go,2717,3,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2023-02-08,go,12178,11,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
