@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-09,go,180,41,为个人微信接入ChatGPT,djun,wechatbot,https://github.com/djun/wechatbot
+2023-02-09,go,1572,88,golang微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2023-02-09,go,16379,12,Type-safe Redis client for Golang,redis,go-redis,https://github.com/redis/go-redis
+2023-02-09,go,42519,12,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-02-09,go,9958,8,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2023-02-09,go,17997,10,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-02-09,go,4184,3,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-02-09,go,2161,3,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2023-02-09,go,4311,2,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2023-02-09,go,12199,8,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-02-09,go,5399,4,⟁ Tendermint Core (BFT Consensus) in Go,tendermint,tendermint,https://github.com/tendermint/tendermint
+2023-02-09,go,2783,6,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2023-02-09,go,283,40,wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）,houko,wechatgpt,https://github.com/houko/wechatgpt
+2023-02-09,go,1752,190,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,youshandefeiyang,IPTV,https://github.com/youshandefeiyang/IPTV
+2023-02-09,go,4036,8,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2023-02-09,go,2563,2,Repository for sample controller. Complements sample-apiserver,kubernetes,sample-controller,https://github.com/kubernetes/sample-controller
+2023-02-09,go,325,17,ChatGPT机器人在钉钉群聊中交互,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2023-02-09,go,12412,15,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-02-09,go,7809,7,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2023-02-09,go,14903,14,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-02-09,go,902,7,"Telegram Downloader, but more than a downloader",iyear,tdl,https://github.com/iyear/tdl
+2023-02-09,go,14895,7,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-02-09,go,20394,23,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2023-02-09,go,6544,7,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2023-02-09,go,5972,2,An example of gin,eddycjy,go-gin-example,https://github.com/eddycjy/go-gin-example
