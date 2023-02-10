@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-10,go,229,53,为个人微信接入ChatGPT,djun,wechatbot,https://github.com/djun/wechatbot
+2023-02-10,go,325,44,wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）,houko,wechatgpt,https://github.com/houko/wechatgpt
+2023-02-10,go,1684,117,golang微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2023-02-10,go,350,26,ChatGPT机器人在钉钉群聊中交互,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2023-02-10,go,20416,25,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2023-02-10,go,1816,68,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,youshandefeiyang,IPTV,https://github.com/youshandefeiyang/IPTV
+2023-02-10,go,258,6,Nitro goes vroom and fixes everything,OffchainLabs,nitro,https://github.com/OffchainLabs/nitro
+2023-02-10,go,17529,9,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-02-10,go,6151,23,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",answerdev,answer,https://github.com/answerdev/answer
+2023-02-10,go,2749,40,"Run your own GPTChat Telegram bot, with a single command!",m1guelpf,chatgpt-telegram,https://github.com/m1guelpf/chatgpt-telegram
+2023-02-10,go,6647,8,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-02-10,go,7586,3,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2023-02-10,go,4946,8,"Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",apernet,hysteria,https://github.com/apernet/hysteria
+2023-02-10,go,12200,10,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-02-10,go,85,4,Lark chatgpt bot,bytemate,larkgpt,https://github.com/bytemate/larkgpt
+2023-02-10,go,19907,13,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2023-02-10,go,36085,9,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-02-10,go,11940,14,Simple and flexible tool for managing secrets,mozilla,sops,https://github.com/mozilla/sops
+2023-02-10,go,5585,3,Local development against a remote Kubernetes or OpenShift cluster,telepresenceio,telepresence,https://github.com/telepresenceio/telepresence
+2023-02-10,go,845,3,Go library for the WhatsApp web multidevice API,tulir,whatsmeow,https://github.com/tulir/whatsmeow
+2023-02-10,go,7296,9,Simple HTTP and REST client library for Go,go-resty,resty,https://github.com/go-resty/resty
+2023-02-10,go,9313,7,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2023-02-10,go,3477,8,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-02-10,go,36170,56,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2023-02-10,go,5623,6,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge

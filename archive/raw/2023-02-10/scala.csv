@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-10,scala,9410,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-02-10,scala,3088,0,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2023-02-10,scala,5666,7,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-02-10,scala,12318,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2023-02-10,scala,11222,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2023-02-10,scala,3903,3,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-02-10,scala,14015,3,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2023-02-10,scala,3,0,Structured and contextual logging for Scala,avast,slog4s,https://github.com/avast/slog4s
+2023-02-10,scala,34953,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-02-10,scala,2367,1,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2023-02-10,scala,171,1,,rockthejvm,udemy-scala-beginners,https://github.com/rockthejvm/udemy-scala-beginners
+2023-02-10,scala,4,0,"This is an Image transformation webservice where we can see 3 algorithms performing updates on images. It implements a contour for images, the Kuwahara blur filter and finally an algorithm I made myself called chartizate. The latter creates images where the foreground is written text.",jesperancinha,image-train-filters-web,https://github.com/jesperancinha/image-train-filters-web
+2023-02-10,scala,213,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2023-02-10,scala,1444,1,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2023-02-10,scala,5815,0,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-02-10,scala,741,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2023-02-10,scala,4626,2,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2023-02-10,scala,2649,4,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-02-10,scala,2502,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-02-10,scala,2508,1,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2023-02-10,scala,1476,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-02-10,scala,12604,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-02-10,scala,1398,0,"Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",akka,alpakka-kafka,https://github.com/akka/alpakka-kafka
+2023-02-10,scala,2429,1,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2023-02-10,scala,36,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo
