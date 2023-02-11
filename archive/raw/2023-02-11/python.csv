@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-11,python,1931,234,"使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",zhayujie,chatgpt-on-wechat,https://github.com/zhayujie/chatgpt-on-wechat
+2023-02-11,python,16666,50,"Code for the paper ""Language Models are Unsupervised Multitask Learners""",openai,gpt-2,https://github.com/openai/gpt-2
+2023-02-11,python,212,53,,YuxinWenRick,hard-prompts-made-easy,https://github.com/YuxinWenRick/hard-prompts-made-easy
+2023-02-11,python,370,32,afetharita.com backend projesi,acikkaynak,deprem-yardim-backend,https://github.com/acikkaynak/deprem-yardim-backend
+2023-02-11,python,1425,49,"RWKV is a RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, ""infinite"" ctx_len, and free sentence embedding.",BlinkDL,RWKV-LM,https://github.com/BlinkDL/RWKV-LM
+2023-02-11,python,660,110,Convert any music library into a music production sample-library with ML,samim23,polymath,https://github.com/samim23/polymath
+2023-02-11,python,29954,16,A toolkit for developing and comparing reinforcement learning algorithms.,openai,gym,https://github.com/openai/gym
+2023-02-11,python,5112,33,Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM,lucidrains,PaLM-rlhf-pytorch,https://github.com/lucidrains/PaLM-rlhf-pytorch
+2023-02-11,python,21780,23,"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",google,jax,https://github.com/google/jax
+2023-02-11,python,443,35,OpenAI ChatGPT for Mirai QQ Bot，QQ 聊天机器人！ 每个群组/好友单独一个 Conversation，文字转图片发送， Docker 快速部署，反向代理加速 (部分代码由 ChatGPT 生成）,lss233,chatgpt-mirai-qq-bot,https://github.com/lss233/chatgpt-mirai-qq-bot
+2023-02-11,python,152861,156,All Algorithms implemented in Python,TheAlgorithms,Python,https://github.com/TheAlgorithms/Python
+2023-02-11,python,3108,1,"OpenMMLab Text Detection, Recognition and Understanding Toolbox",open-mmlab,mmocr,https://github.com/open-mmlab/mmocr
+2023-02-11,python,1085,44,Integrate ChatGPT into your own discord bot,Zero6992,chatGPT-discord-bot,https://github.com/Zero6992/chatGPT-discord-bot
+2023-02-11,python,1191,16,,karpathy,ng-video-lecture,https://github.com/karpathy/ng-video-lecture
+2023-02-11,python,278,44,"This is an application project of 'chatgpt',only applicable to desktop environment.",AIGCT,EASYChatGPT,https://github.com/AIGCT/EASYChatGPT
+2023-02-11,python,5459,6,Official Python client library for kubernetes,kubernetes-client,python,https://github.com/kubernetes-client/python
+2023-02-11,python,12797,43,A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training,karpathy,minGPT,https://github.com/karpathy/minGPT
+2023-02-11,python,642,36,基于OpenAI ChatGPT+mirai QQ 的 QQ 机器人，多平台一键部署，支持绘图模型，支持多api-key，支持自定义插件,RockChinQ,QChatGPT,https://github.com/RockChinQ/QChatGPT
+2023-02-11,python,158,12,clueai工具包: 3行代码3分钟，自定义需要的API！,clue-ai,clueai-python,https://github.com/clue-ai/clueai-python
+2023-02-11,python,80285,108,"Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",huggingface,transformers,https://github.com/huggingface/transformers
+2023-02-11,python,704,31,"ChatGPT Chatbot/Voice Assistant | Cross-Platform |  Async |  Good Contextual Support |  sh & docker Deployment| API Server Provided|  Azure/Vits for Voice Chatting | Real-time Information Searching| Multi-modal/Image Understanding | Self-maintained LLM Framework|ChatGPT Like",LlmKira,Openaibot,https://github.com/LlmKira/Openaibot
+2023-02-11,python,1121,43,An unofficial PyTorch implementation of the audio LM VALL-E,enhuiz,vall-e,https://github.com/enhuiz/vall-e
+2023-02-11,python,4725,4,The Triton Inference Server provides an optimized cloud and edge inferencing solution.,triton-inference-server,server,https://github.com/triton-inference-server/server
+2023-02-11,python,205,25,"A command-line interface (CLI) productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.",TheR1D,shell_gpt,https://github.com/TheR1D/shell_gpt
+2023-02-11,python,8722,19,"Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",microsoft,unilm,https://github.com/microsoft/unilm

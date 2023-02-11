@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-11,go,502,29,OpenAI GPT-3 and DALL·E API wrapper for Go,sashabaranov,go-gpt3,https://github.com/sashabaranov/go-gpt3
+2023-02-11,go,4830,22,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2023-02-11,go,286,58,为个人微信接入ChatGPT,djun,wechatbot,https://github.com/djun/wechatbot
+2023-02-11,go,49419,65,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-02-11,go,379,53,wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）,houko,wechatgpt,https://github.com/houko/wechatgpt
+2023-02-11,go,1780,99,golang微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2023-02-11,go,95758,34,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-02-11,go,12235,20,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-02-11,go,8184,2,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-02-11,go,69,29,,acikkaynak,deprem-yardim-backend-go,https://github.com/acikkaynak/deprem-yardim-backend-go
+2023-02-11,go,481,45,"Geo-scale, next-generation sharing platform built on top of OpenZiti.",openziti,zrok,https://github.com/openziti/zrok
+2023-02-11,go,386,36,ChatGPT机器人在钉钉群聊中交互,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2023-02-11,go,7344,2,Code Intelligence Platform,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2023-02-11,go,9316,5,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2023-02-11,go,284,13,实现微信公众号被动返回接口的ChatGPT,gtoxlili,wechat-chatGPT,https://github.com/gtoxlili/wechat-chatGPT
+2023-02-11,go,11960,19,Simple and flexible tool for managing secrets,mozilla,sops,https://github.com/mozilla/sops
+2023-02-11,go,649,5,Kubernetes Operator for OpenTelemetry Collector,open-telemetry,opentelemetry-operator,https://github.com/open-telemetry/opentelemetry-operator
+2023-02-11,go,6932,10,Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2023-02-11,go,26039,6,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-02-11,go,33355,9,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-02-11,go,12043,20,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-02-11,go,16406,13,Type-safe Redis client for Golang,redis,go-redis,https://github.com/redis/go-redis
+2023-02-11,go,42534,7,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-02-11,go,2787,39,"Run your own GPTChat Telegram bot, with a single command!",m1guelpf,chatgpt-telegram,https://github.com/m1guelpf/chatgpt-telegram
+2023-02-11,go,5978,5,An example of gin,eddycjy,go-gin-example,https://github.com/eddycjy/go-gin-example
