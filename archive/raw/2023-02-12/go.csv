@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-12,go,128,29,,acikkaynak,deprem-yardim-backend-go,https://github.com/acikkaynak/deprem-yardim-backend-go
+2023-02-12,go,306,22,为个人微信接入ChatGPT,djun,wechatbot,https://github.com/djun/wechatbot
+2023-02-12,go,409,21,ChatGPT机器人在钉钉群聊中交互,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2023-02-12,go,16153,48,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-02-12,go,44,5,Feishu ChatGpt 在飞书上与ChatGPT随时对话~,Leizhenpeng,feishu-chatGpt,https://github.com/Leizhenpeng/feishu-chatGpt
+2023-02-12,go,2273,3,Golang driver for ClickHouse,ClickHouse,clickhouse-go,https://github.com/ClickHouse/clickhouse-go
+2023-02-12,go,64201,28,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2023-02-12,go,36114,16,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-02-12,go,2610,15,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2023-02-12,go,12248,14,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-02-12,go,11555,8,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-02-12,go,1808,26,golang微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2023-02-12,go,8077,46,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-02-12,go,292,8,实现微信公众号被动返回接口的ChatGPT,gtoxlili,wechat-chatGPT,https://github.com/gtoxlili/wechat-chatGPT
+2023-02-12,go,20627,30,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2023-02-12,go,553,66,OpenAI GPT-3 and DALL·E API wrapper for Go,sashabaranov,go-gpt3,https://github.com/sashabaranov/go-gpt3
+2023-02-12,go,404,21,wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）,houko,wechatgpt,https://github.com/houko/wechatgpt
+2023-02-12,go,6038,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-02-12,go,13194,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-02-12,go,5635,0,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2023-02-12,go,4281,4,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-02-12,go,5763,49,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2023-02-12,go,12049,13,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-02-12,go,3228,0,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2023-02-12,go,650,2,Kubernetes Operator for OpenTelemetry Collector,open-telemetry,opentelemetry-operator,https://github.com/open-telemetry/opentelemetry-operator
