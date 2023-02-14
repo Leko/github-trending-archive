@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-14,haskell,31395,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-02-14,haskell,2495,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-02-14,haskell,70,1,Marlowe smart contract language Cardano implementation,input-output-hk,marlowe-cardano,https://github.com/input-output-hk/marlowe-cardano
+2023-02-14,haskell,2288,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-02-14,haskell,113,0,symbolic EVM evaluator. https://hevm.dev,ethereum,hevm,https://github.com/ethereum/hevm
+2023-02-14,haskell,2868,3,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-02-14,haskell,17,2,Haskell Playground,tomsmeding,play-haskell,https://github.com/tomsmeding/play-haskell
+2023-02-14,haskell,2886,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-02-14,haskell,2282,4,A programming language that understands what a web app is.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2023-02-14,haskell,869,0,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2023-02-14,haskell,4982,2,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2023-02-14,haskell,1408,19,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-02-14,haskell,1456,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-02-14,haskell,549,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-02-14,haskell,8017,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-02-14,haskell,82,1,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2023-02-14,haskell,23,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2023-02-14,haskell,54,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2023-02-14,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2023-02-14,haskell,245,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2023-02-14,haskell,56,6,Rules for & examples of tiny haskell games,haskell-game,tiny-games-hs,https://github.com/haskell-game/tiny-games-hs
+2023-02-14,haskell,9,0,Fork of GHC (https://gitlab.haskell.org/ghc/ghc.git),digital-asset,ghc,https://github.com/digital-asset/ghc
+2023-02-14,haskell,2300,3,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2023-02-14,haskell,2807,1,Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).,ghc,ghc,https://github.com/ghc/ghc
+2023-02-14,haskell,1015,2,Simple clipboard manager to be integrated with rofi - Static binary available,erebe,greenclip,https://github.com/erebe/greenclip
