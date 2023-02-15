@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-15,go,7628,2,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2023-02-15,go,490,25,ChatGPT机器人在钉钉群聊中交互,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2023-02-15,go,11015,111,GO Simple Tunnel - a simple tunnel written in golang,ginuerzh,gost,https://github.com/ginuerzh/gost
+2023-02-15,go,221,32,Lark chatgpt bot,bytemate,larkgpt,https://github.com/bytemate/larkgpt
+2023-02-15,go,179,43,"APKHunt is a comprehensive static code analysis tool for Android apps that is based on the OWASP MASVS framework. Although APKHunt is intended primarily for mobile app developers and security testers, it can be used by anyone to identify and address potential security vulnerabilities in their code.",Cyber-Buddy,APKHunt,https://github.com/Cyber-Buddy/APKHunt
+2023-02-15,go,66445,32,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-02-15,go,19779,181,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-02-15,go,13737,7,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2023-02-15,go,9982,6,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2023-02-15,go,76,9,Feishu ChatGpt 在飞书上与ChatGPT随时对话~,Leizhenpeng,feishu-chatGpt,https://github.com/Leizhenpeng/feishu-chatGpt
+2023-02-15,go,9177,12,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2023-02-15,go,9589,35,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2023-02-15,go,3479,7,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2023-02-15,go,3062,3,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2023-02-15,go,647,29,OpenAI GPT-3 and DALL·E API wrapper for Go,sashabaranov,go-gpt3,https://github.com/sashabaranov/go-gpt3
+2023-02-15,go,2969,4,protoc plugin to generate polyglot message validators,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2023-02-15,go,5190,15,"ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams",aler9,rtsp-simple-server,https://github.com/aler9/rtsp-simple-server
+2023-02-15,go,3854,3,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2023-02-15,go,6682,3,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-02-15,go,2702,2,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2023-02-15,go,66,13,一键部署属于自己定制化的 chatgpt web程序,869413421,chatgpt-web,https://github.com/869413421/chatgpt-web
+2023-02-15,go,15933,10,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2023-02-15,go,22135,11,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2023-02-15,go,7858,16,Ebitengine - A dead simple 2D game engine for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2023-02-15,go,37483,22,Multi-Cloud  Object Storage,minio,minio,https://github.com/minio/minio

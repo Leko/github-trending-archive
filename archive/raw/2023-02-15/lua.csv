@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-15,lua,999,4,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-02-15,lua,2045,8,A language server that offers Lua language support - programmed in Lua,LuaLS,lua-language-server,https://github.com/LuaLS/lua-language-server
+2023-02-15,lua,3641,25,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-02-15,lua,3452,11,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-02-15,lua,1180,7,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-02-15,lua,6719,5,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-02-15,lua,1562,7,Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2023-02-15,lua,11229,8,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-02-15,lua,3322,26,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-02-15,lua,2175,2,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2023-02-15,lua,3297,7,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2023-02-15,lua,687,7,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-02-15,lua,2706,2,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2023-02-15,lua,869,2,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-02-15,lua,34051,10,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-02-15,lua,3054,2,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2023-02-15,lua,2913,5,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-02-15,lua,1456,4,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-02-15,lua,4383,6,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-02-15,lua,2741,4,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-02-15,lua,14092,13,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-02-15,lua,41,6,Moonbow is a theme for nvim inspired by Gruvbox and Ayu dark,arturgoms,moonbow.nvim,https://github.com/arturgoms/moonbow.nvim
+2023-02-15,lua,33,0,A community mod for Project Zomboid for LoversLab (+18),G-Vodan,LLZomboLewd,https://github.com/G-Vodan/LLZomboLewd
+2023-02-15,lua,2532,2,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2023-02-15,lua,155,0,Enhanced f/t motions for Leap,ggandor,flit.nvim,https://github.com/ggandor/flit.nvim
