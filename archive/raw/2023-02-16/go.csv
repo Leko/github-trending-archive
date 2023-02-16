@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-16,go,19978,194,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-02-16,go,14944,11,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-02-16,go,7393,4,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2023-02-16,go,84,20,一键部署属于自己定制化的 chatgpt web程序,869413421,chatgpt-web,https://github.com/869413421/chatgpt-web
+2023-02-16,go,7861,17,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",kubescape,kubescape,https://github.com/kubescape/kubescape
+2023-02-16,go,1427,34,"A minimalist, easy-to-host service for sharing images and other files",mtlynch,picoshare,https://github.com/mtlynch/picoshare
+2023-02-16,go,7654,27,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2023-02-16,go,18877,15,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-02-16,go,5213,32,"ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams",aler9,rtsp-simple-server,https://github.com/aler9/rtsp-simple-server
+2023-02-16,go,66476,34,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-02-16,go,17561,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-02-16,go,10747,11,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2023-02-16,go,18783,7,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-02-16,go,7777,1,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2023-02-16,go,19716,45,Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2023-02-16,go,1839,1,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2023-02-16,go,34995,65,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2023-02-16,go,2012,3,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
+2023-02-16,go,1168,1,SNMP Exporter for Prometheus,prometheus,snmp_exporter,https://github.com/prometheus/snmp_exporter
+2023-02-16,go,4198,2,"Slack API in Go - community-maintained fork created by the original author, @nlopes",slack-go,slack,https://github.com/slack-go/slack
+2023-02-16,go,11038,29,GO Simple Tunnel - a simple tunnel written in golang,ginuerzh,gost,https://github.com/ginuerzh/gost
+2023-02-16,go,3540,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-02-16,go,666,3,Collection of extensions for OpenTelemetry-Go.,open-telemetry,opentelemetry-go-contrib,https://github.com/open-telemetry/opentelemetry-go-contrib
+2023-02-16,go,31435,15,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-02-16,go,5402,16,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
