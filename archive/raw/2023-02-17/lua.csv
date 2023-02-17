@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-17,lua,14339,141,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-02-17,lua,11243,7,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-02-17,lua,4373,11,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2023-02-17,lua,4766,6,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-02-17,lua,3339,16,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2023-02-17,lua,8963,19,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-02-17,lua,2787,12,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2023-02-17,lua,6729,7,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-02-17,lua,812,3,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
+2023-02-17,lua,3514,42,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-02-17,lua,4400,9,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-02-17,lua,3399,37,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-02-17,lua,982,20,Improved fzf.vim written in lua,ibhagwan,fzf-lua,https://github.com/ibhagwan/fzf-lua
+2023-02-17,lua,1467,5,A well configured and structured Neovim.,ayamir,nvimdots,https://github.com/ayamir/nvimdots
+2023-02-17,lua,699,8,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-02-17,lua,6583,18,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-02-17,lua,1466,4,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-02-17,lua,2754,6,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-02-17,lua,819,2,OpenID Connect Relying Party and OAuth 2.0 Resource Server implementation in Lua for NGINX / OpenResty,zmartzone,lua-resty-openidc,https://github.com/zmartzone/lua-resty-openidc
+2023-02-17,lua,3054,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2023-02-17,lua,107,1,Easily add additional highlights to your buffers,folke,paint.nvim,https://github.com/folke/paint.nvim
+2023-02-17,lua,38,1,,ziontee113,SnippetGenie,https://github.com/ziontee113/SnippetGenie
+2023-02-17,lua,1016,3,"Better quickfix window in Neovim, polish old quickfix window.",kevinhwang91,nvim-bqf,https://github.com/kevinhwang91/nvim-bqf
+2023-02-17,lua,187,2,A minimalist Neovim plugin that auto pairs & closes brackets written in 100% Lua.,m4xshen,autoclose.nvim,https://github.com/m4xshen/autoclose.nvim
+2023-02-17,lua,1906,25,Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）,ssnhd,rime,https://github.com/ssnhd/rime
