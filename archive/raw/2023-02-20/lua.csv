@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-20,lua,3669,67,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-02-20,lua,3501,37,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-02-20,lua,14760,89,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-02-20,lua,3164,26,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-02-20,lua,1246,6,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2023-02-20,lua,711,2,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-02-20,lua,1031,6,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-02-20,lua,2936,5,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-02-20,lua,2772,6,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-02-20,lua,9001,8,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-02-20,lua,2242,6,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2023-02-20,lua,1089,1,,nvim-treesitter,nvim-treesitter-textobjects,https://github.com/nvim-treesitter/nvim-treesitter-textobjects
+2023-02-20,lua,2810,10,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2023-02-20,lua,1728,2,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-02-20,lua,2555,5,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2023-02-20,lua,13251,13,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-02-20,lua,6609,9,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-02-20,lua,954,1,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2023-02-20,lua,1963,2,Neovim motions on speed!,phaazon,hop.nvim,https://github.com/phaazon/hop.nvim
+2023-02-20,lua,4418,10,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-02-20,lua,4796,10,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-02-20,lua,1024,3,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2023-02-20,lua,1041,4,Standalone UI for nvim-lsp progress,j-hui,fidget.nvim,https://github.com/j-hui/fidget.nvim
+2023-02-20,lua,224,2,A V2fly core for Openwrt LuCI Application.,xiaorouji,openwrt-passwall2,https://github.com/xiaorouji/openwrt-passwall2
+2023-02-20,lua,129,1,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
