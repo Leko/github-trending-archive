@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-22,lua,3786,67,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-02-22,lua,3684,82,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-02-22,lua,1022,2,"A minimal, stylish and customizable statusline for Neovim written in Lua",feline-nvim,feline.nvim,https://github.com/feline-nvim/feline.nvim
+2023-02-22,lua,215,44,Display pets in your editor,giusgad,pets.nvim,https://github.com/giusgad/pets.nvim
+2023-02-22,lua,3226,37,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-02-22,lua,744,3,A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js,ecosse3,nvim,https://github.com/ecosse3/nvim
+2023-02-22,lua,1975,5,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2023-02-22,lua,535,2,Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.,rebelot,heirline.nvim,https://github.com/rebelot/heirline.nvim
+2023-02-22,lua,850,6,"Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.",jackMort,ChatGPT.nvim,https://github.com/jackMort/ChatGPT.nvim
+2023-02-22,lua,73,12,A Neovim plugin hiding your colorcolumn when unneeded.,m4xshen,smartcolumn.nvim,https://github.com/m4xshen/smartcolumn.nvim
+2023-02-22,lua,3056,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2023-02-22,lua,4430,3,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-02-22,lua,393,2,"Neovim plugin for Obsidian, written in Lua",epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2023-02-22,lua,9041,23,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-02-22,lua,426,1,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2023-02-22,lua,321,1,Neovim plugin for splitting/joining blocks of code,Wansmer,treesj,https://github.com/Wansmer/treesj
+2023-02-22,lua,145,1,,SmartThingsCommunity,SmartThingsEdgeDrivers,https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers
+2023-02-22,lua,1211,7,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-02-22,lua,5189,2,Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets,lsyncd,lsyncd,https://github.com/lsyncd/lsyncd
+2023-02-22,lua,2564,5,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2023-02-22,lua,131,0,"fivem-appearance for qb-core and ESX framework, packed with a lot of features",iLLeniumStudios,illenium-appearance,https://github.com/iLLeniumStudios/illenium-appearance
+2023-02-22,lua,34097,13,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-02-22,lua,1505,10,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-02-22,lua,254,1,Official Repo For core resources for esx-legacy,esx-framework,esx_core,https://github.com/esx-framework/esx_core
+2023-02-22,lua,1794,3,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip

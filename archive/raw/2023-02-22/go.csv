@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-22,go,13683,122,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zincsearch,https://github.com/zinclabs/zincsearch
+2023-02-22,go,14396,15,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-02-22,go,602,75,THE NEXT FUTURE,XTLS,REALITY,https://github.com/XTLS/REALITY
+2023-02-22,go,1826,20,Table-writer and more in golang!,jedib0t,go-pretty,https://github.com/jedib0t/go-pretty
+2023-02-22,go,16307,22,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-02-22,go,10889,9,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-02-22,go,2199,2,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2023-02-22,go,33442,10,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-02-22,go,7939,7,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",kubescape,kubescape,https://github.com/kubescape/kubescape
+2023-02-22,go,34792,19,"Git with a cup of tea, painless self-hosted git service",go-gitea,gitea,https://github.com/go-gitea/gitea
+2023-02-22,go,20624,9,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-02-22,go,10090,16,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2023-02-22,go,11717,14,Protect and discover secrets using Gitleaks,zricethezav,gitleaks,https://github.com/zricethezav/gitleaks
+2023-02-22,go,8446,16,基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2023-02-22,go,96813,85,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-02-22,go,4698,6,Container Network Interface - networking for Linux containers,containernetworking,cni,https://github.com/containernetworking/cni
+2023-02-22,go,11520,3,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2023-02-22,go,4094,6,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2023-02-22,go,46829,22,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-02-22,go,175,1,"CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine, and fork of Tendermint Core.",cometbft,cometbft,https://github.com/cometbft/cometbft
+2023-02-22,go,4333,1,The official CLI for Amazon EKS,weaveworks,eksctl,https://github.com/weaveworks/eksctl
+2023-02-22,go,1847,1,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2023-02-22,go,5631,10,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",drakkan,sftpgo,https://github.com/drakkan/sftpgo
+2023-02-22,go,2358,10,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2023-02-22,go,12159,10,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd

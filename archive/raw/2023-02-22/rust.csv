@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-22,rust,1850,1008,"ISG lets you use YouTube as cloud storage for ANY files, not just video",DvorakDwarf,Infinite-Storage-Glitch,https://github.com/DvorakDwarf/Infinite-Storage-Glitch
+2023-02-22,rust,3174,12,The Mullvad VPN client app for desktop and mobile,mullvad,mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app
+2023-02-22,rust,14259,57,"Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2023-02-22,rust,6455,174,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-02-22,rust,5639,29,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2023-02-22,rust,32626,55,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2023-02-22,rust,19364,26,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-02-22,rust,1641,8,A proxy to expose real tls handshake to the firewall,ihciah,shadow-tls,https://github.com/ihciah/shadow-tls
+2023-02-22,rust,11252,49,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-02-22,rust,21987,29,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-02-22,rust,6082,8,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2023-02-22,rust,106,30,Apply a divide and conquer approach to bypass EDRs,Kudaes,Split,https://github.com/Kudaes/Split
+2023-02-22,rust,5407,7,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-02-22,rust,8153,51,Rayon: A data parallelism library for Rust,rayon-rs,rayon,https://github.com/rayon-rs/rayon
+2023-02-22,rust,492,18,Facilitates running Wasm / WASI workloads managed by containerd,containerd,runwasi,https://github.com/containerd/runwasi
+2023-02-22,rust,10929,19,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2023-02-22,rust,12683,9,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-02-22,rust,13903,31,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2023-02-22,rust,1254,10,Copilot for your terminal,m1guelpf,plz-cli,https://github.com/m1guelpf/plz-cli
+2023-02-22,rust,1676,2,,move-language,move,https://github.com/move-language/move
+2023-02-22,rust,59254,92,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-02-22,rust,499,12,"OpenDAL: Access data freely, painlessly, and efficiently",datafuselabs,opendal,https://github.com/datafuselabs/opendal
+2023-02-22,rust,38454,48,Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-02-22,rust,6580,3,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-02-22,rust,138,8,"A MITM Proxy Written in Rust ! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.",emanuele-em,man-in-the-middle-proxy,https://github.com/emanuele-em/man-in-the-middle-proxy
