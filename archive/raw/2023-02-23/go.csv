@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-23,go,288,20,Rudimentary web browser written in Golang,psilva261,opossum,https://github.com/psilva261/opossum
+2023-02-23,go,19427,12,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2023-02-23,go,16331,25,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-02-23,go,12576,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-02-23,go,2659,6,企业级的 Go 语言实战项目：认证和授权系统（带配套课程）,marmotedu,iam,https://github.com/marmotedu/iam
+2023-02-23,go,15053,20,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-02-23,go,6328,11,Efficient cache for gigabytes of data written in Go.,allegro,bigcache,https://github.com/allegro/bigcache
+2023-02-23,go,11837,9,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2023-02-23,go,16927,18,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-02-23,go,13782,133,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zincsearch,https://github.com/zinclabs/zincsearch
+2023-02-23,go,25007,22,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2023-02-23,go,21293,33,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-02-23,go,11213,69,GO Simple Tunnel - a simple tunnel written in golang,ginuerzh,gost,https://github.com/ginuerzh/gost
+2023-02-23,go,15151,15,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-02-23,go,18939,13,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-02-23,go,14192,27,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2023-02-23,go,3195,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2023-02-23,go,10018,14,"sealos is a Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications. Demo: https://cloud.sealos.io",labring,sealos,https://github.com/labring/sealos
+2023-02-23,go,14752,8,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
+2023-02-23,go,9740,21,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2023-02-23,go,2506,27,,danielgross,whatsapp-gpt,https://github.com/danielgross/whatsapp-gpt
+2023-02-23,go,4156,9,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2023-02-23,go,46843,19,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-02-23,go,6072,10,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-02-23,go,13308,11,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
