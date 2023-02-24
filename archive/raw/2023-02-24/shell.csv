@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-24,shell,6068,39,"Attack Surface Management Platform | Sn1perSecurity LLC",1N3,Sn1per,https://github.com/1N3/Sn1per
+2023-02-24,shell,64950,38,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-02-24,shell,4477,2,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2023-02-24,shell,844,9,,vcheckzen,KeepAliveE5,https://github.com/vcheckzen/KeepAliveE5
+2023-02-24,shell,5883,2,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2023-02-24,shell,3794,3,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2023-02-24,shell,16858,13,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2023-02-24,shell,16171,3,"GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",tj,git-extras,https://github.com/tj/git-extras
+2023-02-24,shell,477,1,"The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2018, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.",airflow-helm,charts,https://github.com/airflow-helm/charts
+2023-02-24,shell,868,1,Helm chart to install Vault and other associated components.,hashicorp,vault-helm,https://github.com/hashicorp/vault-helm
+2023-02-24,shell,63,3,GLaDOS-checkin，通过 github action 进行自动签到，每天延时一天，签到一定次数后奖励会变少。,QikaiXu,GLaDOS-checkin,https://github.com/QikaiXu/GLaDOS-checkin
+2023-02-24,shell,4725,13,Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd,v2fly,fhs-install-v2ray,https://github.com/v2fly/fhs-install-v2ray
+2023-02-24,shell,4259,3,NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2023-02-24,shell,534,3,"Central place for the engineering/scaling WG: documentation, SLURM scripts and logs, compute environment and data.",bigscience-workshop,bigscience,https://github.com/bigscience-workshop/bigscience
+2023-02-24,shell,21533,18,"I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2023-02-24,shell,2927,19,"WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",fscarmen,warp,https://github.com/fscarmen/warp
+2023-02-24,shell,33009,8,A collection of pure bash alternatives to external processes.,dylanaraps,pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible
+2023-02-24,shell,5878,7,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2023-02-24,shell,5379,1,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2023-02-24,shell,415,3,"Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!",Athena-OS,athena-iso,https://github.com/Athena-OS/athena-iso
+2023-02-24,shell,14837,3,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2023-02-24,shell,1858,0,Apache Hadoop docker image,big-data-europe,docker-hadoop,https://github.com/big-data-europe/docker-hadoop
+2023-02-24,shell,1517,9,"Cloudflare WARP Installer | WARP 一键安装脚本",P3TERX,warp.sh,https://github.com/P3TERX/warp.sh
+2023-02-24,shell,294,3,Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Magisk (root solution) and Google Play Services and Google Play Store (OpenGApps/ MindTheGapps) built in.,MustardChef,WSABuilds,https://github.com/MustardChef/WSABuilds
+2023-02-24,shell,35759,58,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 来看看，你会发现相见恨晚！,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
