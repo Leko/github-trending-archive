@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-02-26,lua,11304,6,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-02-26,lua,34141,11,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-02-26,lua,6549,17,A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2023-02-26,lua,6679,21,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-02-26,lua,1066,6,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-02-26,lua,225,1,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2023-02-26,lua,2803,7,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-02-26,lua,6793,11,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-02-26,lua,1503,5,A well configured and structured Neovim.,ayamir,nvimdots,https://github.com/ayamir/nvimdots
+2023-02-26,lua,849,0,A markdown preview directly in your neovim.,ellisonleao,glow.nvim,https://github.com/ellisonleao/glow.nvim
+2023-02-26,lua,2968,6,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-02-26,lua,1996,2,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2023-02-26,lua,2617,8,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2023-02-26,lua,881,2,Neovim plugin to improve the default vim.ui interfaces,stevearc,dressing.nvim,https://github.com/stevearc/dressing.nvim
+2023-02-26,lua,143,3,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-02-26,lua,3324,25,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-02-26,lua,3763,18,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-02-26,lua,2002,3,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2023-02-26,lua,2066,7,"// Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",numToStr,Comment.nvim,https://github.com/numToStr/Comment.nvim
+2023-02-26,lua,837,4,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
+2023-02-26,lua,2011,0,Orgmode clone written in Lua for Neovim 0.7+.,nvim-orgmode,orgmode,https://github.com/nvim-orgmode/orgmode
+2023-02-26,lua,737,3,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-02-26,lua,378,1,Straight forward and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python and Golang,Allaman,nvim,https://github.com/Allaman/nvim
+2023-02-26,lua,677,0,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2023-02-26,lua,9359,2,Image-to-image translation with conditional adversarial nets,phillipi,pix2pix,https://github.com/phillipi/pix2pix
