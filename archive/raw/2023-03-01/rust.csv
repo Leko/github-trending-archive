@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-01,rust,9797,217,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2023-03-01,rust,14606,79,"Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2023-03-01,rust,1222,84,Runtime Executor (asdf rust clone),jdxcode,rtx,https://github.com/jdxcode/rtx
+2023-03-01,rust,23908,46,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2023-03-01,rust,5309,24,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2023-03-01,rust,2514,69,The multiplayer game engine,AmbientRun,Ambient,https://github.com/AmbientRun/Ambient
+2023-03-01,rust,26360,64,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2023-03-01,rust,23343,32,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2023-03-01,rust,11388,44,Chromium running inside your terminal,fathyb,carbonyl,https://github.com/fathyb/carbonyl
+2023-03-01,rust,10767,10,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2023-03-01,rust,19405,53,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-03-01,rust,9338,77,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff
+2023-03-01,rust,32875,30,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2023-03-01,rust,8795,23,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-03-01,rust,8111,12,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-03-01,rust,14130,26,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2023-03-01,rust,1822,16,Native Spotify client for the GNOME desktop,xou816,spot,https://github.com/xou816/spot
+2023-03-01,rust,2586,5,A Rust runtime for AWS Lambda,awslabs,aws-lambda-rust-runtime,https://github.com/awslabs/aws-lambda-rust-runtime
+2023-03-01,rust,99,19,A utf-8 text rope,noib3,crop,https://github.com/noib3/crop
+2023-03-01,rust,18340,393,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-03-01,rust,85,14,Local Search Engine,tsoding,seroost,https://github.com/tsoding/seroost
+2023-03-01,rust,4869,2,"Materialize is a fast, distributed SQL database built on streaming internals.",MaterializeInc,materialize,https://github.com/MaterializeInc/materialize
+2023-03-01,rust,4514,44,Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://qdrant.to/cloud,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-03-01,rust,22139,19,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-03-01,rust,8156,49,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater

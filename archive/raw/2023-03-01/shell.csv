@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-01,shell,65082,30,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-03-01,shell,2055,1,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2023-03-01,shell,8421,6,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2023-03-01,shell,21599,12,"I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2023-03-01,shell,6666,2,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2023-03-01,shell,35949,58,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 来看看，你会发现相见恨晚！,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2023-03-01,shell,10843,2,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2023-03-01,shell,3830,6,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,https://github.com/six2dez/reconftw
+2023-03-01,shell,3645,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-03-01,shell,4974,12,Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android),LSPosed,MagiskOnWSALocal,https://github.com/LSPosed/MagiskOnWSALocal
+2023-03-01,shell,6613,3,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2023-03-01,shell,48,24,Developer Server Shell Setup 2023,vtempest,developer-setup-2023,https://github.com/vtempest/developer-setup-2023
+2023-03-01,shell,209,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2023-03-01,shell,4273,4,NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2023-03-01,shell,8556,8,Combination of multiple linters to install as a GitHub Action,github,super-linter,https://github.com/github/super-linter
+2023-03-01,shell,9537,7,"Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.",angristan,openvpn-install,https://github.com/angristan/openvpn-install
+2023-03-01,shell,21087,10,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2023-03-01,shell,887,2,"Redpill 定制化编译,自定义配置及驱动并通过 Github Action 编译 DSM redpill 引导的平台.",wjz304,Redpill_CustomBuild,https://github.com/wjz304/Redpill_CustomBuild
+2023-03-01,shell,17343,5,Node version management,tj,n,https://github.com/tj/n
+2023-03-01,shell,1068,4,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2023-03-01,shell,815,2,Convenience shortname repository for asdf community plugins,asdf-vm,asdf-plugins,https://github.com/asdf-vm/asdf-plugins
+2023-03-01,shell,328,8,Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Magisk (root solution) and Google Play Services and Google Play Store (OpenGApps/ MindTheGapps) built in.,MustardChef,WSABuilds,https://github.com/MustardChef/WSABuilds
+2023-03-01,shell,12445,2,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2023-03-01,shell,2333,1,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2023-03-01,shell,14695,6,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
