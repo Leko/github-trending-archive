@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-04,go,903,348,Programming framework for writing and deploying cloud applications.,ServiceWeaver,weaver,https://github.com/ServiceWeaver/weaver
+2023-03-04,go,1063,117,"OpenAI ChatGPT, GPT-3 and DALL·E API wrapper for Go",sashabaranov,go-gpt3,https://github.com/sashabaranov/go-gpt3
+2023-03-04,go,733,22,ChatGPT机器人在钉钉群聊中交互,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2023-03-04,go,204,27,Feishu ChatGpt 在飞书上与ChatGPT随时对话~,Leizhenpeng,feishu-chatGpt,https://github.com/Leizhenpeng/feishu-chatGpt
+2023-03-04,go,4335,17,基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。,xinliangnote,go-gin-api,https://github.com/xinliangnote/go-gin-api
+2023-03-04,go,36359,20,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-03-04,go,12617,7,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-03-04,go,2929,40,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2023-03-04,go,19086,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-03-04,go,11537,3,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2023-03-04,go,639,311,基于ChatGPT3.5 API实现的私有化web程序,869413421,chatgpt-web,https://github.com/869413421/chatgpt-web
+2023-03-04,go,160,10,快速将 ChatGPT 接入飞书，基于 OpenAI 官方接口，作为私人工作助理或者企业员工助理,go-zoox,chatgpt-for-chatbot-feishu,https://github.com/go-zoox/chatgpt-for-chatbot-feishu
+2023-03-04,go,772,43,Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.,kubernetes-sigs,kwok,https://github.com/kubernetes-sigs/kwok
+2023-03-04,go,7756,8,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-03-04,go,13267,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-03-04,go,2953,6,Gatekeeper - Policy Controller for Kubernetes,open-policy-agent,gatekeeper,https://github.com/open-policy-agent/gatekeeper
+2023-03-04,go,3705,13,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-03-04,go,3649,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-03-04,go,14524,16,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-03-04,go,1058,107,THE NEXT FUTURE,XTLS,REALITY,https://github.com/XTLS/REALITY
+2023-03-04,go,14272,3,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2023-03-04,go,3259,3,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2023-03-04,go,28743,16,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-03-04,go,5896,6,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-03-04,go,2434,3,Samples for Hyperledger Fabric,hyperledger,fabric-samples,https://github.com/hyperledger/fabric-samples

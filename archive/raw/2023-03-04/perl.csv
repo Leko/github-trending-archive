@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-04,perl,14348,12,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2023-03-04,perl,0,0,"Social Checklist Example application using Perl, Catalyst, DBIx::Class and related Modern Perl Tools",jjn1056,CatalystX-Example-Checklist,https://github.com/jjn1056/CatalystX-Example-Checklist
+2023-03-04,perl,114,0,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2023-03-04,perl,702,0,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2023-03-04,perl,221,0,Spec and test data for the MaxMind DB file format,maxmind,MaxMind-DB,https://github.com/maxmind/MaxMind-DB
+2023-03-04,perl,242,0,FusionInventory Agent,fusioninventory,fusioninventory-agent,https://github.com/fusioninventory/fusioninventory-agent
+2023-03-04,perl,0,0,"A study tool for German vocabulary, using weighted random selection of words.",patrick-conley,vokab,https://github.com/patrick-conley/vokab
+2023-03-04,perl,0,0,Produce Phabricator-compatible coverage reports from Devel::Cover,mcartmell,Devel-Cover-Report-Phabricator,https://github.com/mcartmell/Devel-Cover-Report-Phabricator
+2023-03-04,perl,2038,0,Client for PPP+SSL VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
+2023-03-04,perl,849,1,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2023-03-04,perl,29,0,Nginx C module to allow deeper control of Nginx behaviors by Kong Lua code,Kong,lua-kong-nginx-module,https://github.com/Kong/lua-kong-nginx-module
+2023-03-04,perl,288,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2023-03-04,perl,447,1,Remote Virtual Desktops Manager,UPC,ravada,https://github.com/UPC/ravada
+2023-03-04,perl,294,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2023-03-04,perl,7982,1,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
+2023-03-04,perl,2916,0,A fast PostgreSQL Log Analyzer,darold,pgbadger,https://github.com/darold/pgbadger
+2023-03-04,perl,1,0,BliStr system,JUrban,BliStr,https://github.com/JUrban/BliStr
+2023-03-04,perl,0,0,Collection of puppet tools,patrickviet,puppet-tools,https://github.com/patrickviet/puppet-tools
+2023-03-04,perl,2,0,Language files for Binary.com Websockets API service,binary-com,translations-websockets-api,https://github.com/binary-com/translations-websockets-api
+2023-03-04,perl,363,0,The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants,Ensembl,ensembl-vep,https://github.com/Ensembl/ensembl-vep
+2023-03-04,perl,110,0,FreeRDP Manuals,awakecoding,FreeRDP-Manuals,https://github.com/awakecoding/FreeRDP-Manuals
+2023-03-04,perl,16296,0,Good-lookin' diffs. Actually… nah… The best-lookin' diffs.,so-fancy,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy
+2023-03-04,perl,15603,4,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2023-03-04,perl,1081,0,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
+2023-03-04,perl,366,1,"A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",FelixKrueger,TrimGalore,https://github.com/FelixKrueger/TrimGalore
