@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-05,go,1197,299,Programming framework for writing and deploying cloud applications.,ServiceWeaver,weaver,https://github.com/ServiceWeaver/weaver
+2023-03-05,go,751,114,基于ChatGPT3.5 API实现的私有化web程序,869413421,chatgpt-web,https://github.com/869413421/chatgpt-web
+2023-03-05,go,225,43,Go client libraries for OpenAI,rakyll,openai-go,https://github.com/rakyll/openai-go
+2023-03-05,go,1151,89,"OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2023-03-05,go,13267,1,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-03-05,go,20622,17,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2023-03-05,go,214,10,Feishu ChatGpt 在飞书上与ChatGPT随时对话~,Leizhenpeng,feishu-chatGpt,https://github.com/Leizhenpeng/feishu-chatGpt
+2023-03-05,go,234,20,"Use ChatGPT to generate PPT automatically, all in one single file.",williamfzc,chat-gpt-ppt,https://github.com/williamfzc/chat-gpt-ppt
+2023-03-05,go,4556,22,A PDF processor written in Go.,pdfcpu,pdfcpu,https://github.com/pdfcpu/pdfcpu
+2023-03-05,go,7194,19,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2023-03-05,go,782,13,Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.,kubernetes-sigs,kwok,https://github.com/kubernetes-sigs/kwok
+2023-03-05,go,742,10,ChatGPT机器人在钉钉群聊中交互,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2023-03-05,go,35936,13,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2023-03-05,go,6774,10,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-03-05,go,14531,8,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-03-05,go,18458,6,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-03-05,go,2931,3,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2023-03-05,go,2957,5,Gatekeeper - Policy Controller for Kubernetes,open-policy-agent,gatekeeper,https://github.com/open-policy-agent/gatekeeper
+2023-03-05,go,333,30,SharpWxDump的Go语言版。微信客户端取证，获取信息(微信号、手机号、昵称)，微信聊天记录分析(Top N聊天的人、统计聊天最频繁的好友排行、关键词列表搜索等),SpenserCai,GoWxDump,https://github.com/SpenserCai/GoWxDump
+2023-03-05,go,11501,3,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-03-05,go,6049,5,A tool that facilitates building OCI images.,containers,buildah,https://github.com/containers/buildah
+2023-03-05,go,520,2,为个人微信接入ChatGPT,djun,wechatbot,https://github.com/djun/wechatbot
+2023-03-05,go,5531,1,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-03-05,go,13909,4,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2023-03-05,go,17670,8,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
