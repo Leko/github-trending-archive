@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-07,rust,18327,15,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-03-07,rust,19904,315,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-03-07,rust,6909,32,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-03-07,rust,88301,20,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-03-07,rust,22270,32,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-03-07,rust,7954,4,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-03-07,rust,539,17,An Anime Game launcher for Linux with automatic patching and telemetry disabling. Our discord server: https://discord.gg/ck37X6UWBp,an-anime-team,an-anime-game-launcher,https://github.com/an-anime-team/an-anime-game-launcher
+2023-03-07,rust,8931,22,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-03-07,rust,26646,29,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2023-03-07,rust,11850,165,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-03-07,rust,78561,40,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-03-07,rust,7438,16,阿里云盘 WebDAV 服务,messense,aliyundrive-webdav,https://github.com/messense/aliyundrive-webdav
+2023-03-07,rust,1209,7,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-03-07,rust,5441,15,A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-03-07,rust,6609,8,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-03-07,rust,8259,14,Rayon: A data parallelism library for Rust,rayon-rs,rayon,https://github.com/rayon-rs/rayon
+2023-03-07,rust,35131,33,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2023-03-07,rust,18528,46,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2023-03-07,rust,9732,12,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2023-03-07,rust,11046,8,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2023-03-07,rust,1144,13,Rare and exotic sats,casey,ord,https://github.com/casey/ord
+2023-03-07,rust,5699,13,Making Rust a first-class language and ecosystem for GPU shaders,EmbarkStudios,rust-gpu,https://github.com/EmbarkStudios/rust-gpu
+2023-03-07,rust,9441,11,The Modern Port Scanner,RustScan,RustScan,https://github.com/RustScan/RustScan
+2023-03-07,rust,19551,17,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-03-07,rust,19555,35,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
