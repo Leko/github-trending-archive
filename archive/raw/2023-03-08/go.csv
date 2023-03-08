@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-08,go,14075,96,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zincsearch,https://github.com/zinclabs/zincsearch
+2023-03-08,go,65329,43,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-03-08,go,2172,391,Programming framework for writing and deploying cloud applications.,ServiceWeaver,weaver,https://github.com/ServiceWeaver/weaver
+2023-03-08,go,1038,63,基于ChatGPT3.5 API实现的私有化web程序,869413421,chatgpt-web,https://github.com/869413421/chatgpt-web
+2023-03-08,go,66991,33,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-03-08,go,317,43,飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验  语音对话、角色扮演、多话题讨论、图片创作、文档导出,Leizhenpeng,feishu-chatgpt,https://github.com/Leizhenpeng/feishu-chatgpt
+2023-03-08,go,9688,9,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2023-03-08,go,1706,2,Docker-based local PHP+Node.js web development environments,ddev,ddev,https://github.com/ddev/ddev
+2023-03-08,go,10261,51,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-03-08,go,13285,4,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-03-08,go,4509,9,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,projectdiscovery,httpx,https://github.com/projectdiscovery/httpx
+2023-03-08,go,1863,0,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2023-03-08,go,1475,83,"OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2023-03-08,go,2391,8,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2023-03-08,go,25010,24,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2023-03-08,go,31648,18,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-03-08,go,16704,16,Type-safe Redis client for Golang,redis,go-redis,https://github.com/redis/go-redis
+2023-03-08,go,2131,2,Elastic Cloud on Kubernetes,elastic,cloud-on-k8s,https://github.com/elastic/cloud-on-k8s
+2023-03-08,go,12324,14,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-03-08,go,9402,7,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2023-03-08,go,4010,4,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-03-08,go,11807,8,Protect and discover secrets using Gitleaks,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2023-03-08,go,5716,7,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",drakkan,sftpgo,https://github.com/drakkan/sftpgo
+2023-03-08,go,2867,16,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2023-03-08,go,1241,23,"A library for creating generic graph data structures and modifying, analyzing, and visualizing them.",dominikbraun,graph,https://github.com/dominikbraun/graph

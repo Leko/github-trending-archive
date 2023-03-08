@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-08,rust,11936,91,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-03-08,rust,10089,126,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff
+2023-03-08,rust,720,54,A multi-threaded file-tree visualizer and disk usage analyzer.,solidiquis,erdtree,https://github.com/solidiquis/erdtree
+2023-03-08,rust,368,32,"Email test server for development, written in Rust",tweedegolf,mailcrab,https://github.com/tweedegolf/mailcrab
+2023-03-08,rust,199,48,A powerful ChatGPT command line tool that allows easy chat with ChatGPT-3.5 in a terminal.,sigoden,aichat,https://github.com/sigoden/aichat
+2023-03-08,rust,13984,190,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2023-03-08,rust,12771,13,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-03-08,rust,15087,31,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2023-03-08,rust,22324,61,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-03-08,rust,4072,14,RisingWave: A Distributed SQL Database for Stream Processing,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2023-03-08,rust,8170,13,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-03-08,rust,20203,311,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-03-08,rust,130,27,A dead simple notification daemon,orhun,runst,https://github.com/orhun/runst
+2023-03-08,rust,6916,15,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-03-08,rust,7962,9,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-03-08,rust,6843,30,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2023-03-08,rust,7843,11,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2023-03-08,rust,23432,18,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2023-03-08,rust,5501,11,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-03-08,rust,5048,3,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-03-08,rust,6620,11,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-03-08,rust,18566,41,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2023-03-08,rust,12898,14,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-03-08,rust,31,7,,letsgetrusty,rsty-stack-example,https://github.com/letsgetrusty/rsty-stack-example
+2023-03-08,rust,14220,23,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course

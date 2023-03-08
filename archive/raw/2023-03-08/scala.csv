@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-08,scala,35160,14,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-03-08,scala,1517,3,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-03-08,scala,3936,3,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-03-08,scala,14028,3,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2023-03-08,scala,3732,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-03-08,scala,52,3,A menagerie of macro utilities and extensions for Scala 3,kitlangton,quotidian,https://github.com/kitlangton/quotidian
+2023-03-08,scala,7,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2023-03-08,scala,5249,2,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-03-08,scala,888,0,This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition],databricks,LearningSparkV2,https://github.com/databricks/LearningSparkV2
+2023-03-08,scala,2429,1,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2023-03-08,scala,2372,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2023-03-08,scala,8494,0,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2023-03-08,scala,1900,1,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2023-03-08,scala,5746,1,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-03-08,scala,533,2,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2023-03-08,scala,1853,1,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2023-03-08,scala,1775,3,深圳地铁大数据客流分析系统,geekyouth,SZT-bigdata,https://github.com/geekyouth/SZT-bigdata
+2023-03-08,scala,6370,0,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2023-03-08,scala,656,0,FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility,firesim,firesim,https://github.com/firesim/firesim
+2023-03-08,scala,349,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2023-03-08,scala,2531,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-03-08,scala,2381,0,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2023-03-08,scala,1555,0,sbt Native Packager,sbt,sbt-native-packager,https://github.com/sbt/sbt-native-packager
+2023-03-08,scala,19,0,"Collector for cloud-native web, mobile and event analytics, running on AWS and GCP",snowplow,stream-collector,https://github.com/snowplow/stream-collector
+2023-03-08,scala,2146,3,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-08,lua,794,6,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-03-08,lua,1535,2,The neovim tabline plugin.,romgrk,barbar.nvim,https://github.com/romgrk/barbar.nvim
+2023-03-08,lua,34234,13,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-03-08,lua,2855,10,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-03-08,lua,1999,6,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
+2023-03-08,lua,173,9,Bundle of more than a dozen new text objects for Neovim.,chrisgrieser,nvim-various-textobjs,https://github.com/chrisgrieser/nvim-various-textobjs
+2023-03-08,lua,11371,10,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-03-08,lua,1132,7,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-03-08,lua,4493,7,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-03-08,lua,130,5,Rainbow delimiters for Neovim through Tree-sitter,HiPhish,nvim-ts-rainbow2,https://github.com/HiPhish/nvim-ts-rainbow2
+2023-03-08,lua,39,0,A compilation of small resources combined into one,qbcore-framework,qb-smallresources,https://github.com/qbcore-framework/qb-smallresources
+2023-03-08,lua,211,0,LuCI - OpenWrt Configuration Interface,coolsnowwolf,luci,https://github.com/coolsnowwolf/luci
+2023-03-08,lua,4077,21,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-03-08,lua,110,2,A Neovim plugin hiding your colorcolumn when unneeded.,m4xshen,smartcolumn.nvim,https://github.com/m4xshen/smartcolumn.nvim
+2023-03-08,lua,1559,10,A well configured and structured Neovim.,ayamir,nvimdots,https://github.com/ayamir/nvimdots
+2023-03-08,lua,1600,3,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-03-08,lua,584,9,Game Tracker: Dota 2,SteamDatabase,GameTracking-Dota2,https://github.com/SteamDatabase/GameTracking-Dota2
+2023-03-08,lua,733,1,Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.,JoosepAlviste,nvim-ts-context-commentstring,https://github.com/JoosepAlviste/nvim-ts-context-commentstring
+2023-03-08,lua,408,3,Peek lines just when you intend,nacro90,numb.nvim,https://github.com/nacro90/numb.nvim
+2023-03-08,lua,177,12,Neovim plugin for improved location list navigation,cbochs,portal.nvim,https://github.com/cbochs/portal.nvim
+2023-03-08,lua,2666,6,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2023-03-08,lua,2160,2,HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。,jerrykuku,luci-app-vssr,https://github.com/jerrykuku/luci-app-vssr
+2023-03-08,lua,3560,20,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-03-08,lua,1412,4,Edit and review GitHub issues and pull requests from the comfort of your favorite editor,pwntester,octo.nvim,https://github.com/pwntester/octo.nvim
+2023-03-08,lua,1469,0,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
