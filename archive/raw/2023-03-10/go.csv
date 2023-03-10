@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-10,go,14288,67,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zincsearch,https://github.com/zinclabs/zincsearch
+2023-03-10,go,65419,32,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-03-10,go,22198,108,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-03-10,go,9744,33,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2023-03-10,go,20,1,,devfullcycle,gointensivo2,https://github.com/devfullcycle/gointensivo2
+2023-03-10,go,67049,32,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-03-10,go,6127,7,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-03-10,go,11911,9,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2023-03-10,go,14476,14,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2023-03-10,go,41446,12,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-03-10,go,35871,72,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2023-03-10,go,32262,8,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2023-03-10,go,31686,18,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-03-10,go,3026,3,Go implementation of Ethereum proof of stake,prysmaticlabs,prysm,https://github.com/prysmaticlabs/prysm
+2023-03-10,go,109199,45,The Go programming language,golang,go,https://github.com/golang/go
+2023-03-10,go,12115,10,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2023-03-10,go,216,21,一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。,msterzhang,onelist,https://github.com/msterzhang/onelist
+2023-03-10,go,13357,11,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-03-10,go,10999,15,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2023-03-10,go,16774,17,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2023-03-10,go,36449,23,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-03-10,go,25049,18,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2023-03-10,go,2550,8,"Hubble - Network, Service & Security Observability for Kubernetes using eBPF",cilium,hubble,https://github.com/cilium/hubble
+2023-03-10,go,2016,4,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2023-03-10,go,1850,1,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,WireGuard,wireguard-go,https://github.com/WireGuard/wireguard-go
