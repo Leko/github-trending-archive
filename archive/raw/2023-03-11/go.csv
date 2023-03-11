@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-11,go,7413,7,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-03-11,go,9748,5,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2023-03-11,go,172,17,k9s like CLI for AWS,one2nc,cloudlens,https://github.com/one2nc/cloudlens
+2023-03-11,go,8578,10,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2023-03-11,go,1418,8,A utility to improve performance and help manage storage on Steam Deck.,CryoByte33,steam-deck-utilities,https://github.com/CryoByte33/steam-deck-utilities
+2023-03-11,go,8794,5,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2023-03-11,go,16788,14,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2023-03-11,go,7801,10,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-03-11,go,2572,25,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-03-11,go,18888,12,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-03-11,go,4411,11,"Golang client for NATS, the cloud native messaging system.",nats-io,nats.go,https://github.com/nats-io/nats.go
+2023-03-11,go,11930,20,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2023-03-11,go,8117,19,"yq is a portable command-line YAML, JSON, XML, CSV and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2023-03-11,go,1720,10,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",helmfile,helmfile,https://github.com/helmfile/helmfile
+2023-03-11,go,5922,8,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-03-11,go,12320,4,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-03-11,go,15320,21,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-03-11,go,1533,2,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2023-03-11,go,9718,9,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2023-03-11,go,16738,14,Type-safe Redis client for Golang,redis,go-redis,https://github.com/redis/go-redis
+2023-03-11,go,14359,77,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zincsearch,https://github.com/zinclabs/zincsearch
+2023-03-11,go,4555,2,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
+2023-03-11,go,10979,13,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-03-11,go,5552,5,A Chaos Engineering Platform for Kubernetes.,chaos-mesh,chaos-mesh,https://github.com/chaos-mesh/chaos-mesh
+2023-03-11,go,15284,17,Vector database for scalable similarity search and AI applications.,milvus-io,milvus,https://github.com/milvus-io/milvus

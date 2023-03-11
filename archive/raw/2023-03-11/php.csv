@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-11,php,738,175,Transcribe and translate your audio files - for free,beyondcode,writeout.ai,https://github.com/beyondcode/writeout.ai
+2023-03-11,php,371,14,PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，采用Stream流模式通信，一边生成一边输出，响应速度超过官网。前端采用JS的EventSource，支持Markdown格式解析，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有两三个文件，没用任何框架，支持所有PHP版本。只需要修改stream.php中的API_KEY即可使用，也可让浏览者使用自定义API_KEY。,dirk1983,chatgpt,https://github.com/dirk1983/chatgpt
+2023-03-11,php,7518,5,A free open source IT asset/license management system,snipe,snipe-it,https://github.com/snipe/snipe-it
+2023-03-11,php,3029,2,"GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",glpi-project,glpi,https://github.com/glpi-project/glpi
+2023-03-11,php,10538,3,"Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",magento,magento2,https://github.com/magento/magento2
+2023-03-11,php,11359,1,Supercharged Excel exports and imports in Laravel,SpartnerNL,Laravel-Excel,https://github.com/SpartnerNL/Laravel-Excel
+2023-03-11,php,12012,4,A pure PHP library for reading and writing spreadsheet files,PHPOffice,PhpSpreadsheet,https://github.com/PHPOffice/PhpSpreadsheet
+2023-03-11,php,5966,6,"Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans.",filamentphp,filament,https://github.com/filamentphp/filament
+2023-03-11,php,92,18,A laravel package for pin confirmation and validation before processing requests to a specified route,ikechukwukalu,requirepin,https://github.com/ikechukwukalu/requirepin
+2023-03-11,php,11786,4,A tool to automatically fix PHP Coding Standards issues,PHP-CS-Fixer,PHP-CS-Fixer,https://github.com/PHP-CS-Fixer/PHP-CS-Fixer
+2023-03-11,php,6599,2,A pure PHP library for reading and writing word processing documents,PHPOffice,PHPWord,https://github.com/PHPOffice/PHPWord
+2023-03-11,php,8423,3,"A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",woocommerce,woocommerce,https://github.com/woocommerce/woocommerce
+2023-03-11,php,2753,2,"Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)",pimcore,pimcore,https://github.com/pimcore/pimcore
+2023-03-11,php,59,7,"dolphin 是一个的资产风险分析系统,仅需将一个主域名添加到系统中,dolphin会自动抓取与该域名相关的信息进行分析; 例如同ICP域名,子域名,对应IP,端口,URL地址,站点截图,端口协议,邮箱地址,泄露信息等.",StarCrossPortal,dolphin,https://github.com/StarCrossPortal/dolphin
+2023-03-11,php,27443,6,Dependency Manager for PHP,composer,composer,https://github.com/composer/composer
+2023-03-11,php,29096,7,The Laravel Framework.,laravel,framework,https://github.com/laravel/framework
+2023-03-11,php,9515,0,Doctrine Object Relational Mapper (ORM),doctrine,orm,https://github.com/doctrine/orm
+2023-03-11,php,16020,2,A PHP parser written in PHP,nikic,PHP-Parser,https://github.com/nikic/PHP-Parser
+2023-03-11,php,3877,17,PanDownload网页复刻版,yuantuo666,baiduwp-php,https://github.com/yuantuo666/baiduwp-php
+2023-03-11,php,1737,6,Instrument headless chrome/chromium instances from PHP,chrome-php,chrome,https://github.com/chrome-php/chrome
+2023-03-11,php,10063,1,PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.,squizlabs,PHP_CodeSniffer,https://github.com/squizlabs/PHP_CodeSniffer
+2023-03-11,php,171,0,omegaUp automatic programming contest evaluator & arena,omegaup,omegaup,https://github.com/omegaup/omegaup
+2023-03-11,php,7721,0,"Twig, the flexible, fast, and secure template language for PHP",twigphp,Twig,https://github.com/twigphp/Twig
+2023-03-11,php,1430,1,Single-file PHP shell,flozz,p0wny-shell,https://github.com/flozz/p0wny-shell
+2023-03-11,php,5755,1,A DOMPDF Wrapper for Laravel,barryvdh,laravel-dompdf,https://github.com/barryvdh/laravel-dompdf

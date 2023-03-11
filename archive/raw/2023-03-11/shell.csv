@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-11,shell,2300,383,"High-speed download of LLaMA, Facebook's 65B parameter GPT model",shawwn,llama-dl,https://github.com/shawwn/llama-dl
+2023-03-11,shell,137,9,This tool is a command line utility that allows you to convert any binary file into a QRcode movie. The data can then be reassembled visually allowing exfiltration of data in air gapped systems,Shell-Company,QRExfil,https://github.com/Shell-Company/QRExfil
+2023-03-11,shell,2062,0,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2023-03-11,shell,65392,40,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-03-11,shell,439,18,甲骨文服务器保活脚本(Oracle Server Keep Alive Script),spiritLHLS,Oracle-server-keep-alive-script,https://github.com/spiritLHLS/Oracle-server-keep-alive-script
+2023-03-11,shell,36280,45,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 来看看，你会发现相见恨晚！,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2023-03-11,shell,452,3,"Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",kubernetes,k8s.io,https://github.com/kubernetes/k8s.io
+2023-03-11,shell,7972,17,（VLESS+TCP+TLS_Vision/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS/Hysteria）+伪装站点、八合一共存脚本，支持多内核安装,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2023-03-11,shell,5927,5,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2023-03-11,shell,88,0,,Dkazem91,holberton-system_engineering-devops,https://github.com/Dkazem91/holberton-system_engineering-devops
+2023-03-11,shell,30614,14,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2023-03-11,shell,3659,3,OpenLDAP container image,osixia,docker-openldap,https://github.com/osixia/docker-openldap
+2023-03-11,shell,5464,2,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2023-03-11,shell,914,1,"Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.",tj-actions,changed-files,https://github.com/tj-actions/changed-files
+2023-03-11,shell,38348,33,Official electron build of draw.io,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
+2023-03-11,shell,659,12,"multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",hiddify,hiddify-config,https://github.com/hiddify/hiddify-config
+2023-03-11,shell,3662,4,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-03-11,shell,5907,2,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2023-03-11,shell,2348,3,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2023-03-11,shell,17010,8,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2023-03-11,shell,14755,4,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2023-03-11,shell,413,1,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2023-03-11,shell,7107,5,"Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",Fmstrat,winapps,https://github.com/Fmstrat/winapps
+2023-03-11,shell,29276,12,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2023-03-11,shell,6632,2,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
