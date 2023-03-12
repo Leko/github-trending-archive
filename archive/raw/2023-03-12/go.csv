@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-12,go,11946,16,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2023-03-12,go,13385,4,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2023-03-12,go,8589,10,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2023-03-12,go,8315,9,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-03-12,go,14372,13,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zinclabs,zincsearch,https://github.com/zinclabs/zincsearch
+2023-03-12,go,24955,8,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2023-03-12,go,16746,8,Type-safe Redis client for Golang,redis,go-redis,https://github.com/redis/go-redis
+2023-03-12,go,12619,4,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2023-03-12,go,7417,5,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-03-12,go,6054,2,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-03-12,go,5927,5,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-03-12,go,19194,3,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2023-03-12,go,67105,26,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-03-12,go,8145,8,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2023-03-12,go,6135,0,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-03-12,go,18530,10,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-03-12,go,5066,4,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2023-03-12,go,42831,9,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-03-12,go,9314,5,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2023-03-12,go,26153,2,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-03-12,go,15063,4,A high performance HTTP request router that scales well,julienschmidt,httprouter,https://github.com/julienschmidt/httprouter
+2023-03-12,go,1878,1,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2023-03-12,go,4905,2,The Modern Application Platform.,kubevela,kubevela,https://github.com/kubevela/kubevela
+2023-03-12,go,32281,7,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2023-03-12,go,3363,6,ReverseProxy in golang,ilanyu,ReverseProxy,https://github.com/ilanyu/ReverseProxy
