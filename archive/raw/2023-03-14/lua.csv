@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-14,lua,4277,99,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-03-14,lua,17,2,An example user configuration with a split up structure,AstroNvim,user_example,https://github.com/AstroNvim/user_example
+2023-03-14,lua,4398,4,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2023-03-14,lua,1308,11,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-03-14,lua,12409,2,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-03-14,lua,1169,9,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-03-14,lua,15184,40,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-03-14,lua,2063,4,Orgmode clone written in Lua for Neovim 0.7+.,nvim-orgmode,orgmode,https://github.com/nvim-orgmode/orgmode
+2023-03-14,lua,3252,9,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-03-14,lua,964,6,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-03-14,lua,3040,10,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-03-14,lua,2122,4,"// Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",numToStr,Comment.nvim,https://github.com/numToStr/Comment.nvim
+2023-03-14,lua,1080,5,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2023-03-14,lua,2882,10,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-03-14,lua,234,1,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2023-03-14,lua,41,0,Some Lua internals and more built-in scripts for reference,ac-custom-shaders-patch,acc-lua-internal,https://github.com/ac-custom-shaders-patch/acc-lua-internal
+2023-03-14,lua,13527,29,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-03-14,lua,2357,11,Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2023-03-14,lua,2263,3,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2023-03-14,lua,1479,6,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
+2023-03-14,lua,880,1,"One dark and light colorscheme for neovim >= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles",navarasu,onedark.nvim,https://github.com/navarasu/onedark.nvim
+2023-03-14,lua,7476,625,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-03-14,lua,102,0,"Vape V4 for Roblox, because bored.",7GrandDadPGN,VapeV4ForRoblox,https://github.com/7GrandDadPGN/VapeV4ForRoblox
+2023-03-14,lua,175,0,A big library of civilian cars you can fork or download for your server,PLOKMJNB,FiveM-Civ-Car-Pack,https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack
+2023-03-14,lua,2345,14,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
