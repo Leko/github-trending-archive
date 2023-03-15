@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-15,go,6018,26,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-03-15,go,1414,358,Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding,pgrok,pgrok,https://github.com/pgrok/pgrok
+2023-03-15,go,3643,32,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2023-03-15,go,14294,5,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2023-03-15,go,12426,12,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-03-15,go,2754,4,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2023-03-15,go,5187,191,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2023-03-15,go,1090,14,"Telegram Downloader, but more than a downloader",iyear,tdl,https://github.com/iyear/tdl
+2023-03-15,go,27141,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-03-15,go,13545,15,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-03-15,go,6108,4,Color package for Go (golang),fatih,color,https://github.com/fatih/color
+2023-03-15,go,9545,5,Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2023-03-15,go,3144,10,"Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.",deepfence,ThreatMapper,https://github.com/deepfence/ThreatMapper
+2023-03-15,go,2102,3,Prometheus exporter for Windows machines,prometheus-community,windows_exporter,https://github.com/prometheus-community/windows_exporter
+2023-03-15,go,3884,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-03-15,go,2521,2,Push acceptor for ephemeral and batch jobs.,prometheus,pushgateway,https://github.com/prometheus/pushgateway
+2023-03-15,go,31746,25,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-03-15,go,14563,17,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-03-15,go,23242,32,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2023-03-15,go,17729,10,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-03-15,go,6734,11,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2023-03-15,go,5049,3,"socket.io library for golang, a realtime application framework.",googollee,go-socket.io,https://github.com/googollee/go-socket.io
+2023-03-15,go,8971,7,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2023-03-15,go,7800,6,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2023-03-15,go,6998,11,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo

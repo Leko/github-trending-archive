@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-15,lua,7643,184,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-03-15,lua,1313,5,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-03-15,lua,4306,31,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-03-15,lua,15264,89,"An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-03-15,lua,3756,28,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-03-15,lua,6919,6,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-03-15,lua,1482,3,This is my attempt at a basic stable starting point for a Neovim IDE.,LunarVim,nvim-basic-ide,https://github.com/LunarVim/nvim-basic-ide
+2023-03-15,lua,2625,2,neovim lsp plugin,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2023-03-15,lua,2886,5,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-03-15,lua,578,1,Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.,rebelot,heirline.nvim,https://github.com/rebelot/heirline.nvim
+2023-03-15,lua,2349,5,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2023-03-15,lua,2827,5,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2023-03-15,lua,19,2,An example user configuration with a split up structure,AstroNvim,user_example,https://github.com/AstroNvim/user_example
+2023-03-15,lua,3048,8,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-03-15,lua,13552,33,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-03-15,lua,1095,3,"Not UFO in the sky, but an ultra fold in Neovim.",kevinhwang91,nvim-ufo,https://github.com/kevinhwang91/nvim-ufo
+2023-03-15,lua,4221,14,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-03-15,lua,61,4,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2023-03-15,lua,9290,9,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-03-15,lua,1616,5,"Highlight, list and search todo comments in your projects",folke,todo-comments.nvim,https://github.com/folke/todo-comments.nvim
+2023-03-15,lua,3099,2,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2023-03-15,lua,4927,6,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-03-15,lua,11422,11,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-03-15,lua,4563,5,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2023-03-15,lua,2365,9,Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim

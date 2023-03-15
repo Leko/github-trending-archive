@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-15,scala,5977,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2023-03-15,scala,5771,7,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-03-15,scala,3943,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-03-15,scala,11275,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2023-03-15,scala,12816,1,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2023-03-15,scala,1530,2,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-03-15,scala,750,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2023-03-15,scala,35226,14,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-03-15,scala,2957,4,Chisel: A Modern Hardware Design Language,chipsalliance,chisel,https://github.com/chipsalliance/chisel
+2023-03-15,scala,3027,1,"StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",apache,incubator-streampark,https://github.com/apache/incubator-streampark
+2023-03-15,scala,5254,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-03-15,scala,3136,5,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2023-03-15,scala,4644,2,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2023-03-15,scala,8,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2023-03-15,scala,19,0,"Collector for cloud-native web, mobile and event analytics, running on AWS and GCP",snowplow,stream-collector,https://github.com/snowplow/stream-collector
+2023-03-15,scala,14,0,Snowplow Enrichment jobs and library,snowplow,enrich,https://github.com/snowplow/enrich
+2023-03-15,scala,2431,2,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2023-03-15,scala,1606,10,"Feathr – An Enterprise-Grade, High Performance Feature Store",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2023-03-15,scala,207,0,,ucb-bar,berkeley-hardfloat,https://github.com/ucb-bar/berkeley-hardfloat
+2023-03-15,scala,425,0,,oap-project,gluten,https://github.com/oap-project/gluten
+2023-03-15,scala,2694,2,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-03-15,scala,9528,5,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-03-15,scala,433,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2023-03-15,scala,350,1,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2023-03-15,scala,5519,0,"Code, exercises, answers, and hints to go along with the book ""Functional Programming in Scala""",fpinscala,fpinscala,https://github.com/fpinscala/fpinscala
