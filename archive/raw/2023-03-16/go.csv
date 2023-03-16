@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-16,go,2061,4,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2023-03-16,go,16583,18,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-03-16,go,26163,6,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-03-16,go,1645,235,Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding,pgrok,pgrok,https://github.com/pgrok/pgrok
+2023-03-16,go,616,52,飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验  语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出,Leizhenpeng,feishu-chatgpt,https://github.com/Leizhenpeng/feishu-chatgpt
+2023-03-16,go,3806,14,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-03-16,go,14901,8,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
+2023-03-16,go,1255,19,THE NEXT FUTURE,XTLS,REALITY,https://github.com/XTLS/REALITY
+2023-03-16,go,15088,8,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-03-16,go,2785,2,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2023-03-16,go,13414,8,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2023-03-16,go,2269,25,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2023-03-16,go,41502,17,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-03-16,go,8220,3,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2023-03-16,go,3688,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-03-16,go,6160,10,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-03-16,go,36533,20,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-03-16,go,5232,46,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2023-03-16,go,7352,8,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2023-03-16,go,9418,5,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2023-03-16,go,13958,16,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-03-16,go,8972,2,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2023-03-16,go,141,19,A CLI written in Go language that writes git commit messages for you using ChatGPT AI (gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.,appleboy,CodeGPT,https://github.com/appleboy/CodeGPT
+2023-03-16,go,7852,7,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2023-03-16,go,10639,11,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
