@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-17,haskell,31676,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-03-17,haskell,2573,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-03-17,haskell,11,0,An interpreter for a Joy like concatenative language using free monads in Haskell,debasishg,joy-free-monads,https://github.com/debasishg/joy-free-monads
+2023-03-17,haskell,422,409,,nammayatri,nammayatri,https://github.com/nammayatri/nammayatri
+2023-03-17,haskell,8315,8,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-03-17,haskell,97,2,An experiment in controlling the size of a thread pool using a PID controller.,stevana,elastically-scalable-thread-pools,https://github.com/stevana/elastically-scalable-thread-pools
+2023-03-17,haskell,20200,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-03-17,haskell,8,1,Simple time tracker,divarvel,hammertime,https://github.com/divarvel/hammertime
+2023-03-17,haskell,6,1,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2023-03-17,haskell,20,1,,awakesecurity,proto3-wire,https://github.com/awakesecurity/proto3-wire
+2023-03-17,haskell,8624,2,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2023-03-17,haskell,87,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2023-03-17,haskell,57,1,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2023-03-17,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2023-03-17,haskell,2322,0,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2023-03-17,haskell,13,1,Symbolic execution of LLVM IR traces for program understanding.,phulin,symbolic-trace,https://github.com/phulin/symbolic-trace
+2023-03-17,haskell,1086,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-03-17,haskell,293,1,The Plutus application platform,input-output-hk,plutus-apps,https://github.com/input-output-hk/plutus-apps
+2023-03-17,haskell,3,0,Integrations with Vinyl/Frames records (core library).,composite-hs,composite-base,https://github.com/composite-hs/composite-base
+2023-03-17,haskell,24,1,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2023-03-17,haskell,28234,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-03-17,haskell,2298,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-03-17,haskell,0,0,I noted that music genres have a specific naming structure. This repo has a generator for this kind of names. So if your indie band does not know what kind of music to play - run it and find out!,zombiecalypse,genre-gen,https://github.com/zombiecalypse/genre-gen
+2023-03-17,haskell,2520,1,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-03-17,haskell,777,1,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly

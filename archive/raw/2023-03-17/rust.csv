@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-17,rust,823,423,"Run LLaMA inference on CPU, with Rust",setzer22,llama-rs,https://github.com/setzer22/llama-rs
+2023-03-17,rust,1592,424,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2023-03-17,rust,747,58,"Apache OpenDAL: Access data freely, painlessly, and efficiently.",apache,incubator-opendal,https://github.com/apache/incubator-opendal
+2023-03-17,rust,3782,4,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-03-17,rust,22434,317,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-03-17,rust,39433,48,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-03-17,rust,455,33,NoFWL Desktop Application,lencx,nofwl,https://github.com/lencx/nofwl
+2023-03-17,rust,556,1,"A configurable, high-performance routing runtime for Apollo Federation",apollographql,router,https://github.com/apollographql/router
+2023-03-17,rust,10797,28,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2023-03-17,rust,1695,18,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2023-03-17,rust,14720,12,Cube — The Semantic Layer for Building Data Applications,cube-js,cube.js,https://github.com/cube-js/cube.js
+2023-03-17,rust,1381,33,"PostgreSQL pooler with sharding, load balancing and failover support.",levkk,pgcat,https://github.com/levkk/pgcat
+2023-03-17,rust,2579,8,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2023-03-17,rust,7217,12,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2023-03-17,rust,12547,7,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2023-03-17,rust,1616,3,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
+2023-03-17,rust,2415,4,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2023-03-17,rust,160,20,Rust+OpenCL+AVX2 implementation of LLaMA inference code,Noeda,rllama,https://github.com/Noeda/rllama
+2023-03-17,rust,11044,16,"A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",analysis-tools-dev,static-analysis,https://github.com/analysis-tools-dev/static-analysis
+2023-03-17,rust,512,11,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
+2023-03-17,rust,13960,19,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-03-17,rust,12970,12,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-03-17,rust,10643,72,Learn to write an embedded OS in Rust,rust-embedded,rust-raspberrypi-OS-tutorials,https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+2023-03-17,rust,4920,28,Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-03-17,rust,406,125,tui-rs revival project,tui-rs-revival,ratatui,https://github.com/tui-rs-revival/ratatui

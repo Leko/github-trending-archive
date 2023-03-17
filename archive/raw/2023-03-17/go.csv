@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-17,go,1964,93,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2023-03-17,go,27168,19,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-03-17,go,81,8,OpenAI ChatGPT/GPT-4/GPT-3 SDK Go Client to Interact with the GPT-4/GPT-3 APIs.,hanyuancheung,gpt-go,https://github.com/hanyuancheung/gpt-go
+2023-03-17,go,6839,5,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-03-17,go,5524,22,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS",casdoor,casdoor,https://github.com/casdoor/casdoor
+2023-03-17,go,6173,13,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-03-17,go,2243,5,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2023-03-17,go,13627,30,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-03-17,go,2292,23,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2023-03-17,go,6078,4,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-03-17,go,7800,16,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2023-03-17,go,14679,15,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-03-17,go,47203,15,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-03-17,go,12453,9,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-03-17,go,14308,8,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2023-03-17,go,7374,49,Continuous Profiling Platform. Debug performance issues down to a single line of code,grafana,pyroscope,https://github.com/grafana/pyroscope
+2023-03-17,go,17185,24,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-03-17,go,137,28,NordVPN Linux client,NordSecurity,nordvpn-linux,https://github.com/NordSecurity/nordvpn-linux
+2023-03-17,go,11190,9,Git extension for versioning large files,git-lfs,git-lfs,https://github.com/git-lfs/git-lfs
+2023-03-17,go,5541,16,"ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Also known as MediaMTX",aler9,rtsp-simple-server,https://github.com/aler9/rtsp-simple-server
+2023-03-17,go,12666,7,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-03-17,go,7732,15,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2023-03-17,go,17741,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-03-17,go,19598,17,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2023-03-17,go,5588,14,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
