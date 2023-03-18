@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-18,rust,1129,309,"Run LLaMA inference on CPU, with Rust",setzer22,llama-rs,https://github.com/setzer22/llama-rs
+2023-03-18,rust,837,82,"Apache OpenDAL: Access data freely, painlessly, and efficiently.",apache,incubator-opendal,https://github.com/apache/incubator-opendal
+2023-03-18,rust,24467,54,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2023-03-18,rust,1789,199,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2023-03-18,rust,22786,364,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-03-18,rust,450,63,tui-rs revival project,tui-rs-revival,ratatui,https://github.com/tui-rs-revival/ratatui
+2023-03-18,rust,2417,4,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2023-03-18,rust,514,23,通过使用 tun 来实现透明代理。实现了类似 surge 增强模式与网关模式。,gfreezy,seeker,https://github.com/gfreezy/seeker
+2023-03-18,rust,88482,21,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-03-18,rust,337,12,Chat with gpt-3.5/chatgpt in terminal.,sigoden,aichat,https://github.com/sigoden/aichat
+2023-03-18,rust,1406,39,"PostgreSQL pooler with sharding, load balancing and failover support.",levkk,pgcat,https://github.com/levkk/pgcat
+2023-03-18,rust,39468,38,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-03-18,rust,12983,17,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-03-18,rust,19904,31,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-03-18,rust,1240,23,"Modern columnar data format for ML implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",eto-ai,lance,https://github.com/eto-ai/lance
+2023-03-18,rust,487,32,NoFWL Desktop Application,lencx,nofwl,https://github.com/lencx/nofwl
+2023-03-18,rust,21066,8,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2023-03-18,rust,10673,36,Learn to write an embedded OS in Rust,rust-embedded,rust-raspberrypi-OS-tutorials,https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+2023-03-18,rust,221,18,Graphical font editor (GTK + Rust),epilys,gerb,https://github.com/epilys/gerb
+2023-03-18,rust,10849,206,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff
+2023-03-18,rust,81,13,Rusty Ekko - Sleep Obfuscation in Rust,memN0ps,ekko-rs,https://github.com/memN0ps/ekko-rs
+2023-03-18,rust,519,7,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
+2023-03-18,rust,289,2,Reference implementation of the Filecoin Virtual Machine,filecoin-project,ref-fvm,https://github.com/filecoin-project/ref-fvm
+2023-03-18,rust,181,21,Rust+OpenCL+AVX2 implementation of LLaMA inference code,Noeda,rllama,https://github.com/Noeda/rllama
+2023-03-18,rust,1448,3,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
