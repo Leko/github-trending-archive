@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-19,perl,933,6,Holberton-style C code checker written in Perl,holbertonschool,Betty,https://github.com/holbertonschool/Betty
+2023-03-19,perl,8011,2,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
+2023-03-19,perl,296,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2023-03-19,perl,13,0,Repository public IOCLA,systems-cs-pub-ro,iocla,https://github.com/systems-cs-pub-ro/iocla
+2023-03-19,perl,15703,3,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2023-03-19,perl,368,0,"A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",FelixKrueger,TrimGalore,https://github.com/FelixKrueger/TrimGalore
+2023-03-19,perl,1969,4,ExifTool meta information reader/writer,exiftool,exiftool,https://github.com/exiftool/exiftool
+2023-03-19,perl,289,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2023-03-19,perl,29,0,Nginx C module to allow deeper control of Nginx behaviors by Kong Lua code,Kong,lua-kong-nginx-module,https://github.com/Kong/lua-kong-nginx-module
+2023-03-19,perl,365,0,The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants,Ensembl,ensembl-vep,https://github.com/Ensembl/ensembl-vep
+2023-03-19,perl,5,0,Code for checking Ensembl databases during release production,Ensembl,ensembl-datacheck,https://github.com/Ensembl/ensembl-datacheck
+2023-03-19,perl,14417,4,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2023-03-19,perl,1090,0,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
+2023-03-19,perl,0,0,,manakai,sarze,https://github.com/manakai/sarze
+2023-03-19,perl,391,1,Movable Type,movabletype,movabletype,https://github.com/movabletype/movabletype
+2023-03-19,perl,2,0,,pawjy,serverset,https://github.com/pawjy/serverset
+2023-03-19,perl,71,0,The Ensembl Core Perl API and SQL schema,Ensembl,ensembl,https://github.com/Ensembl/ensembl
+2023-03-19,perl,10,0,Ensembl Production code,Ensembl,ensembl-production,https://github.com/Ensembl/ensembl-production
+2023-03-19,perl,2,0,,TMSWhite,G4030_Bugs,https://github.com/TMSWhite/G4030_Bugs
+2023-03-19,perl,1,0,,bestpractical,app-aws-cloudwatch-monitor-check-mailsummary,https://github.com/bestpractical/app-aws-cloudwatch-monitor-check-mailsummary
+2023-03-19,perl,5,0,Command line tool for merging RRDTool files.,mcdarren,rrdtool-merge,https://github.com/mcdarren/rrdtool-merge
+2023-03-19,perl,0,0,"Bits and pieces for the ""Lightweight Threads in Perl"" talk at Brisbane Perl Mongers",awhatson,pmbris-coro-talk,https://github.com/awhatson/pmbris-coro-talk
+2023-03-19,perl,367,0,Rapid haploid variant calling and core genome alignment,tseemann,snippy,https://github.com/tseemann/snippy
+2023-03-19,perl,851,0,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2023-03-19,perl,2755,0,"a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)",rsnapshot,rsnapshot,https://github.com/rsnapshot/rsnapshot

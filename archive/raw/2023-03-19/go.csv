@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-19,go,387,83,现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-03-19,go,11434,34,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-03-19,go,67290,30,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-03-19,go,2103,54,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2023-03-19,go,7284,67,"Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",johnkerl,miller,https://github.com/johnkerl/miller
+2023-03-19,go,17033,6,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.  Learn Go by fixing 1000+ tiny programs.",inancgumus,learngo,https://github.com/inancgumus/learngo
+2023-03-19,go,1511,71,基于ChatGPT3.5 API实现的私有化web程序,869413421,chatgpt-web,https://github.com/869413421/chatgpt-web
+2023-03-19,go,20769,6,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-03-19,go,11971,30,Protect and discover secrets using Gitleaks,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2023-03-19,go,108,19,Cloudflare Bypass for OpenAI based on `puid`,acheong08,ChatGPT-Proxy-V4,https://github.com/acheong08/ChatGPT-Proxy-V4
+2023-03-19,go,902,9,ChatGPT机器人在钉钉群聊中交互,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2023-03-19,go,5075,3,libp2p implementation in Go,libp2p,go-libp2p,https://github.com/libp2p/go-libp2p
+2023-03-19,go,10474,16,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-03-19,go,3139,4,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2023-03-19,go,27188,7,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-03-19,go,2683,1,OCI Image Format,opencontainers,image-spec,https://github.com/opencontainers/image-spec
+2023-03-19,go,6502,7,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2023-03-19,go,3117,10,"A simple generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.",deckarep,golang-set,https://github.com/deckarep/golang-set
+2023-03-19,go,333,4,Nitro goes vroom and fixes everything,OffchainLabs,nitro,https://github.com/OffchainLabs/nitro
+2023-03-19,go,9233,1,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2023-03-19,go,1877,1,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2023-03-19,go,14584,1,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-03-19,go,3321,2,"Open Source, Google Zanzibar-inspired fine-grained permissions database",authzed,spicedb,https://github.com/authzed/spicedb
+2023-03-19,go,11114,11,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2023-03-19,go,4073,15,"~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint",mgechev,revive,https://github.com/mgechev/revive

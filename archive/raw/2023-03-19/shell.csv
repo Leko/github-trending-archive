@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-19,shell,21923,28,"I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2023-03-19,shell,915,3,,vcheckzen,KeepAliveE5,https://github.com/vcheckzen/KeepAliveE5
+2023-03-19,shell,193,5,Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.,0xacx,chatGPT-shell-cli,https://github.com/0xacx/chatGPT-shell-cli
+2023-03-19,shell,3849,1,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2023-03-19,shell,145,3,RunnerGo是一款国内开发者自研的性能压测工具，可以进行接口测试、场景自动化测试、性能压测等一系列功能。,Runner-Go-Team,RunnerGo,https://github.com/Runner-Go-Team/RunnerGo
+2023-03-19,shell,36563,28,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 来看看，你会发现相见恨晚！,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2023-03-19,shell,65607,22,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-03-19,shell,5928,2,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2023-03-19,shell,14804,3,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2023-03-19,shell,5211,1,Mac setup and configuration via Ansible.,geerlingguy,mac-dev-playbook,https://github.com/geerlingguy/mac-dev-playbook
+2023-03-19,shell,6654,4,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2023-03-19,shell,5399,5,A standard style for README files,RichardLitt,standard-readme,https://github.com/RichardLitt/standard-readme
+2023-03-19,shell,877,0,Helm chart to install Vault and other associated components.,hashicorp,vault-helm,https://github.com/hashicorp/vault-helm
+2023-03-19,shell,932,2,"Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.",tj-actions,changed-files,https://github.com/tj-actions/changed-files
+2023-03-19,shell,299,8,Linux 端使用 Clash 作为代理工具,wanhebin,clash-for-linux,https://github.com/wanhebin/clash-for-linux
+2023-03-19,shell,1907,0,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
+2023-03-19,shell,714,0,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2023-03-19,shell,1055,11,Doprax一键五协议共存脚本：Xray内核，支持vless，vmess，trojan，shadowsocks，socks五协议同时在线，支持Cloudflare Argo隧道自动生成分享链接,yonggekkk,Doprax-Xray,https://github.com/yonggekkk/Doprax-Xray
+2023-03-19,shell,6250,5,"A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt",P3TERX,Actions-OpenWrt,https://github.com/P3TERX/Actions-OpenWrt
+2023-03-19,shell,70496,22,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2023-03-19,shell,3208,10,"WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",fscarmen,warp,https://github.com/fscarmen/warp
+2023-03-19,shell,8567,3,Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本,wulabing,Xray_onekey,https://github.com/wulabing/Xray_onekey
+2023-03-19,shell,1753,8,Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。,emptysuns,Hi_Hysteria,https://github.com/emptysuns/Hi_Hysteria
+2023-03-19,shell,577,14,甲骨文服务器保活脚本(Oracle Server Keep Alive Script),spiritLHLS,Oracle-server-keep-alive-script,https://github.com/spiritLHLS/Oracle-server-keep-alive-script
+2023-03-19,shell,937,0,"Redpill 定制化编译,自定义配置及驱动并通过 Github Action 编译 DSM redpill 引导的平台.",wjz304,Redpill_CustomBuild,https://github.com/wjz304/Redpill_CustomBuild

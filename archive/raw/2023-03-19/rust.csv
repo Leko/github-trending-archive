@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-19,rust,1358,253,"Run LLaMA inference on CPU, with Rust",setzer22,llama-rs,https://github.com/setzer22/llama-rs
+2023-03-19,rust,23088,312,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-03-19,rust,887,50,"Apache OpenDAL: Access data freely, painlessly, and efficiently.",apache,incubator-opendal,https://github.com/apache/incubator-opendal
+2023-03-19,rust,520,34,NoFWL Desktop Application,lencx,nofwl,https://github.com/lencx/nofwl
+2023-03-19,rust,24530,73,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2023-03-19,rust,10890,42,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff
+2023-03-19,rust,7245,68,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-03-19,rust,4118,6,RisingWave: A Distributed SQL Database for Stream Processing,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2023-03-19,rust,15407,36,"Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2023-03-19,rust,5563,10,A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-03-19,rust,10693,21,Learn to write an embedded OS in Rust,rust-embedded,rust-raspberrypi-OS-tutorials,https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+2023-03-19,rust,1262,22,"Modern columnar data format for ML implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",eto-ai,lance,https://github.com/eto-ai/lance
+2023-03-19,rust,812,27,Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.,praetorian-inc,noseyparker,https://github.com/praetorian-inc/noseyparker
+2023-03-19,rust,3798,7,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-03-19,rust,8053,3,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-03-19,rust,10927,80,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2023-03-19,rust,553,7,Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself,robbert-vdh,nih-plug,https://github.com/robbert-vdh/nih-plug
+2023-03-19,rust,520,1,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
+2023-03-19,rust,11725,40,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2023-03-19,rust,12992,10,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-03-19,rust,1413,8,"PostgreSQL pooler with sharding, load balancing and failover support.",levkk,pgcat,https://github.com/levkk/pgcat
+2023-03-19,rust,1986,6,Ergonomic bindings to SQLite for Rust,rusqlite,rusqlite,https://github.com/rusqlite/rusqlite
+2023-03-19,rust,7656,31,"Friendly React-like GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-03-19,rust,2417,0,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2023-03-19,rust,12564,10,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
