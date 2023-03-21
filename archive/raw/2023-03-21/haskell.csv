@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-21,haskell,2668,6,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-03-21,haskell,2399,8,The fastest way to develop full-stack web apps with React & Node.js.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2023-03-21,haskell,2523,1,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-03-21,haskell,1470,2,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-03-21,haskell,2061,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2023-03-21,haskell,553,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-03-21,haskell,1370,2,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2023-03-21,haskell,2300,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-03-21,haskell,2904,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-03-21,haskell,189,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-03-21,haskell,30,2,Compositional Representable Executable Machines,tweag,crem,https://github.com/tweag/crem
+2023-03-21,haskell,28272,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-03-21,haskell,708,0,Resource gathering + programming game,swarm-game,swarm,https://github.com/swarm-game/swarm
+2023-03-21,haskell,2913,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-03-21,haskell,1088,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-03-21,haskell,20224,9,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-03-21,haskell,87,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2023-03-21,haskell,58,1,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2023-03-21,haskell,24,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2023-03-21,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2023-03-21,haskell,448,8,,nammayatri,nammayatri,https://github.com/nammayatri/nammayatri
+2023-03-21,haskell,1484,2,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-03-21,haskell,9,0,Fork of GHC (https://gitlab.haskell.org/ghc/ghc.git),digital-asset,ghc,https://github.com/digital-asset/ghc
+2023-03-21,haskell,244,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2023-03-21,haskell,36,2,"Scarf Gateway is a universal redirect layer for any digital artifact or URL, anywhere online. Scarf Gateway acts much like a customizable link shortener that also lets you serve software like Docker containers, Python packages, or anything other kind of software you distribute.",scarf-sh,gateway,https://github.com/scarf-sh/gateway

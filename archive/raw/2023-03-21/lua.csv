@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-21,lua,4322,19,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-03-21,lua,12461,11,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-03-21,lua,3982,12,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-03-21,lua,184,1,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-03-21,lua,1218,7,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-03-21,lua,1790,0,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-03-21,lua,4537,1,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-03-21,lua,3298,4,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-03-21,lua,13,0,,marcinhuu,m-HotWheels,https://github.com/marcinhuu/m-HotWheels
+2023-03-21,lua,979,5,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-03-21,lua,2066,6,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2023-03-21,lua,667,6,Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot,zbirenbaum,copilot.lua,https://github.com/zbirenbaum/copilot.lua
+2023-03-21,lua,1520,1,"illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.",RRethy,vim-illuminate,https://github.com/RRethy/vim-illuminate
+2023-03-21,lua,70,1,An advanced drug script by Project Sloth,Project-Sloth,ps-drugprocessing,https://github.com/Project-Sloth/ps-drugprocessing
+2023-03-21,lua,2257,5,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2023-03-21,lua,3876,20,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-03-21,lua,490,4,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2023-03-21,lua,105,1,"Vape V4 for Roblox, because bored.",7GrandDadPGN,VapeV4ForRoblox,https://github.com/7GrandDadPGN/VapeV4ForRoblox
+2023-03-21,lua,2945,4,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2023-03-21,lua,4423,18,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-03-21,lua,1614,1,Tools for better development in rust using neovim's builtin lsp,simrat39,rust-tools.nvim,https://github.com/simrat39/rust-tools.nvim
+2023-03-21,lua,2677,2,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2023-03-21,lua,2115,4,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2023-03-21,lua,6957,5,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-03-21,lua,50,0,"Player ESP for Roblox, fully undetectable, uses Synapse's built in drawing API",ic3w0lf22,Unnamed-ESP,https://github.com/ic3w0lf22/Unnamed-ESP
