@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-22,vue,8768,497,用 Express 和 Vue3 搭建的 ChatGPT 演示网页,Chanzhaoyu,chatgpt-web,https://github.com/Chanzhaoyu/chatgpt-web
+2023-03-22,vue,54,7,Mevn stack with a lot of built-in tools,ThinhVu,mevn,https://github.com/ThinhVu/mevn
+2023-03-22,vue,135,15,微信小程序-集成ChatGPT对话 ChatGPT绘图 微软Newbing对话,dulaiduwang003,ChatGPT_wechat,https://github.com/dulaiduwang003/ChatGPT_wechat
+2023-03-22,vue,95,5,"A web application that allows multiple users to share one ChatGPT account at the same time, developed using unofficial ChatGPT API & fastapi & vue3. Supports GPT-4! 共享 ChatGPT 账号给多用户同时使用，可用于朋友之间共享或合租 ChatGPT 账号。使用 FastAPI + Vue3 开发。支持 ChatGPT Plus / 使用 GPT-4 / 用户请求限制等功能。",moeakwak,chatgpt-web-share,https://github.com/moeakwak/chatgpt-web-share
+2023-03-22,vue,146,11,"A ChatGPT web client that supports multiple users, multiple database connections for persistent data storage, supports i18n. Provides Docker images and quick deployment scripts.",WongSaang,chatgpt-ui,https://github.com/WongSaang/chatgpt-ui
+2023-03-22,vue,187,29,"PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient design, PandoraAI provides an engaging conversational AI experience.",waylaidwanderer,PandoraAI,https://github.com/waylaidwanderer/PandoraAI
+2023-03-22,vue,17873,8,An enterprise-class UI components based on Ant Design and Vue.,vueComponent,ant-design-vue,https://github.com/vueComponent/ant-design-vue
+2023-03-22,vue,39841,4,Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用,bailicangdu,vue2-elm,https://github.com/bailicangdu/vue2-elm
+2023-03-22,vue,4044,1,eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由,elunez,eladmin-web,https://github.com/elunez/eladmin-web
+2023-03-22,vue,81371,22,A magical vue admin https://panjiachen.github.io/vue-element-admin,PanJiaChen,vue-element-admin,https://github.com/PanJiaChen/vue-element-admin
+2023-03-22,vue,19167,22,A Vue.js 3 UI Library made by Element team,element-plus,element-plus,https://github.com/element-plus/element-plus
+2023-03-22,vue,1222,7,「企业级低代码平台」采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。,jeecgboot,jeecgboot-vue3,https://github.com/jeecgboot/jeecgboot-vue3
+2023-03-22,vue,2451,3,基于vue3 的管理端模板(Vue3 TS Vuex4 element-plus vue-i18n-next composition-api) vue3-admin vue3-ts-admin,RainManGO,vue3-composition-admin,https://github.com/RainManGO/vue3-composition-admin
+2023-03-22,vue,16635,33,"A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",vbenjs,vue-vben-admin,https://github.com/vbenjs/vue-vben-admin
+2023-03-22,vue,2572,2,Vue 3 + Vite 2 + Vue-Router 4 + Element-Plus + Echarts 5 + Axios 开发的后台管理系统,newbee-ltd,vue3-admin,https://github.com/newbee-ltd/vue3-admin
+2023-03-22,vue,4731,3,Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3.2 版本，技术栈为 Vue3.2 + Vue-Router4.x + Pinia + Vant4.x。,newbee-ltd,newbee-mall-vue3-app,https://github.com/newbee-ltd/newbee-mall-vue3-app
+2023-03-22,vue,1435,4,基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。,stavyan,TinyShop-UniApp,https://github.com/stavyan/TinyShop-UniApp
+2023-03-22,vue,1911,6,(RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统,yangzongzhuan,RuoYi-Vue3,https://github.com/yangzongzhuan/RuoYi-Vue3
+2023-03-22,vue,8068,7,"一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档",chaitin,xray,https://github.com/chaitin/xray
+2023-03-22,vue,2058,5,The recommended way to start a Vite-powered Vue project,vuejs,create-vue,https://github.com/vuejs/create-vue
+2023-03-22,vue,120,0,A Vue3.x Mobile UI components lib for TDesign.,Tencent,tdesign-mobile-vue,https://github.com/Tencent/tdesign-mobile-vue
+2023-03-22,vue,3124,7,"Icon Explorer with Instant searching, powered by Iconify",antfu,icones,https://github.com/antfu/icones
+2023-03-22,vue,1103,9,"A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统",un-pany,v3-admin-vite,https://github.com/un-pany/v3-admin-vite
+2023-03-22,vue,10469,1,mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。,macrozheng,mall-admin-web,https://github.com/macrozheng/mall-admin-web
+2023-03-22,vue,1796,0,低代码中后台解决方案SmartAdmin，使用SpringBoot2 和 Vue3 Setup语法糖、 Composition Api (同时支持JavaScript和TypeScript双版本) ， 我们开源一套漂亮的代码和一套整洁的代码规范，让大家在这浮躁的代码世界里感受到一股把代码写好的清流！同时又让开发者节省大量的时间，减少加班，快乐工作，热爱代码，更热爱生活。,1024-lab,smart-admin,https://github.com/1024-lab/smart-admin
