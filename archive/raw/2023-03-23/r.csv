@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-23,r,69,13,This R package provides an SDK to the Open AI API,samterfa,openai,https://github.com/samterfa/openai
+2023-03-23,r,455,15,"GPT RStudio addins that enable GPT assisted coding, writing & analysis",MichelNivard,gptstudio,https://github.com/MichelNivard/gptstudio
+2023-03-23,r,5833,3,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2023-03-23,r,1738,2,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2023-03-23,r,382,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2023-03-23,r,152,0,Bring polars to R,pola-rs,r-polars,https://github.com/pola-rs/r-polars
+2023-03-23,r,840,0,"A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live",rstudio,tinytex,https://github.com/rstudio/tinytex
+2023-03-23,r,488,1,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2023-03-23,r,754,1,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2023-03-23,r,1143,1,Mastering Shiny: a book,hadley,mastering-shiny,https://github.com/hadley/mastering-shiny
+2023-03-23,r,418,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2023-03-23,r,414,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2023-03-23,r,282,2,,hbctraining,scRNA-seq_online,https://github.com/hbctraining/scRNA-seq_online
+2023-03-23,r,823,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2023-03-23,r,215,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2023-03-23,r,278,1,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2023-03-23,r,898,0,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
+2023-03-23,r,600,1,A modern re-imagining of the data frame,tidyverse,tibble,https://github.com/tidyverse/tibble
+2023-03-23,r,206,1,Community-provided extensions to Seurat,satijalab,seurat-wrappers,https://github.com/satijalab/seurat-wrappers
+2023-03-23,r,382,0,"Fast, sensitive and accurate integration of single-cell data with Harmony",immunogenomics,harmony,https://github.com/immunogenomics/harmony
+2023-03-23,r,240,0,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2023-03-23,r,35,0,"Data Analysis and Statistical Inference, Duke University",guindilla,coursera-statistics-002,https://github.com/guindilla/coursera-statistics-002
+2023-03-23,r,94,0,,kpatel427,YouTubeTutorials,https://github.com/kpatel427/YouTubeTutorials
+2023-03-23,r,123,3,Interface to ChatGPT from R,jcrodriguez1989,chatgpt,https://github.com/jcrodriguez1989/chatgpt
+2023-03-23,r,286,0,"Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs",r-lib,remotes,https://github.com/r-lib/remotes
