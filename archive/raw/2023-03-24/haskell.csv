@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-24,haskell,31716,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-03-24,haskell,28307,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-03-24,haskell,20240,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-03-24,haskell,1089,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-03-24,haskell,1,0,"Parses kat.ph torrent dumps, see http://kat.ph/api/",MichaelXavier,kickass-torrents-dump-parser,https://github.com/MichaelXavier/kickass-torrents-dump-parser
+2023-03-24,haskell,2919,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-03-24,haskell,2522,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-03-24,haskell,5127,5,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2023-03-24,haskell,87,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2023-03-24,haskell,58,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2023-03-24,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2023-03-24,haskell,8342,11,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-03-24,haskell,2681,4,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-03-24,haskell,24,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2023-03-24,haskell,553,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-03-24,haskell,6,0,Integrations with Vinyl/Frames records.,composite-hs,composite,https://github.com/composite-hs/composite
+2023-03-24,haskell,2905,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-03-24,haskell,20,0,Haskell bindings to libsystemd-journal,ocharles,libsystemd-journal,https://github.com/ocharles/libsystemd-journal
+2023-03-24,haskell,254,0,Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.,VinylRecords,Vinyl,https://github.com/VinylRecords/Vinyl
+2023-03-24,haskell,27,0,Database maintenance tool support,ConferOpenSource,refurb,https://github.com/ConferOpenSource/refurb
+2023-03-24,haskell,3,0,IO concurrent promitives for conduit,qnikst,iochan-conduit,https://github.com/qnikst/iochan-conduit
+2023-03-24,haskell,5124,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-03-24,haskell,20,0,,awakesecurity,proto3-wire,https://github.com/awakesecurity/proto3-wire
+2023-03-24,haskell,4,0,Integrations with Vinyl/Frames records (core library).,composite-hs,composite-base,https://github.com/composite-hs/composite-base
+2023-03-24,haskell,6,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
