@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-25,go,1820,264,飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验  语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出,Leizhenpeng,feishu-chatgpt,https://github.com/Leizhenpeng/feishu-chatgpt
+2023-03-25,go,3065,2,protoc plugin to generate polyglot message validators,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2023-03-25,go,587,20,基于golang开发的网关。具有各种插件，可以自行扩展，即插即用。此外，它可以快速帮助企业管理API服务，提高API服务的稳定性和安全性。,eolinker,apinto,https://github.com/eolinker/apinto
+2023-03-25,go,6123,7,A tool that facilitates building OCI images.,containers,buildah,https://github.com/containers/buildah
+2023-03-25,go,12382,10,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-03-25,go,5570,5,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-03-25,go,51040,168,A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2023-03-25,go,8992,3,A TCP proxy to simulate network and system conditions for chaos and resiliency testing,Shopify,toxiproxy,https://github.com/Shopify/toxiproxy
+2023-03-25,go,1032,36,钉钉 &  GPT-3.5 让你的工作效率直接起飞  私聊群聊方式、单聊串聊模式、角色扮演、图片创作,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2023-03-25,go,14026,17,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-03-25,go,7490,13,Code Intelligence Platform,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2023-03-25,go,4415,5,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2023-03-25,go,17311,17,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-03-25,go,15447,9,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way",pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-03-25,go,12739,11,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-03-25,go,3286,1,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2023-03-25,go,20252,10,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2023-03-25,go,338,41,Kubectl plugin for OpenAI GPT,sozercan,kubectl-ai,https://github.com/sozercan/kubectl-ai
+2023-03-25,go,32384,10,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2023-03-25,go,14064,14,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2023-03-25,go,17797,12,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-03-25,go,6874,8,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-03-25,go,38155,30,Multi-Cloud  Object Storage,minio,minio,https://github.com/minio/minio
+2023-03-25,go,10427,6,CoreDNS is a DNS server that chains plugins,coredns,coredns,https://github.com/coredns/coredns
+2023-03-25,go,2038,5,A PostgreSQL metric exporter for Prometheus,prometheus-community,postgres_exporter,https://github.com/prometheus-community/postgres_exporter

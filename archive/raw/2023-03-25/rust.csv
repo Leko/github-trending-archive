@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-25,rust,8790,1499,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-03-25,rust,1601,65,A git prepare-commit-msg hook for authoring commit messages with GPT-3.,zurawiki,gptcommit,https://github.com/zurawiki/gptcommit
+2023-03-25,rust,88601,24,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-03-25,rust,104,40,"A brand-new language server for Typst, plus a VS Code extension",nvarner,typst-lsp,https://github.com/nvarner/typst-lsp
+2023-03-25,rust,5170,35,Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-03-25,rust,3159,6,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2023-03-25,rust,329,62,A memory visualizer in Rust (ptrace + userfaultfd),fasterthanlime,mevi,https://github.com/fasterthanlime/mevi
+2023-03-25,rust,6020,13,"Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
+2023-03-25,rust,137,20,Incremental computation through constrained memoization.,typst,comemo,https://github.com/typst/comemo
+2023-03-25,rust,40,5,A ChatGPT bot to respond to your GitHub Issues,flows-network,chatgpt-github-app,https://github.com/flows-network/chatgpt-github-app
+2023-03-25,rust,1155,3,一键安装 BetterCEF,MicroCBer,BetterNCM-Installer,https://github.com/MicroCBer/BetterNCM-Installer
+2023-03-25,rust,61182,77,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-03-25,rust,2749,13,"Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly",fermyon,spin,https://github.com/fermyon/spin
+2023-03-25,rust,2260,4,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2023-03-25,rust,1294,8,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-03-25,rust,4031,19,Fuzzy Finder in rust!,lotabout,skim,https://github.com/lotabout/skim
+2023-03-25,rust,11175,19,Just a command runner,casey,just,https://github.com/casey/just
+2023-03-25,rust,1128,6,Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.,Yamato-Security,hayabusa,https://github.com/Yamato-Security/hayabusa
+2023-03-25,rust,11470,13,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-03-25,rust,4911,9,"Distributed SQL database in Rust, written as a learning project",erikgrinaker,toydb,https://github.com/erikgrinaker/toydb
+2023-03-25,rust,20382,27,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-03-25,rust,2423,1,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2023-03-25,rust,10988,26,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2023-03-25,rust,3576,20,A framework for building compiled Node.js add-ons in Rust via Node-API,napi-rs,napi-rs,https://github.com/napi-rs/napi-rs
+2023-03-25,rust,22817,26,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-25,python,1488,480,"A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",nsarrazin,serge,https://github.com/nsarrazin/serge
+2023-03-25,python,1755,529,"myGPTReader is a slack bot that can read any webpage, ebook or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",madawei2699,myGPTReader,https://github.com/madawei2699/myGPTReader
+2023-03-25,python,11686,165,【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵,programthink,zhao,https://github.com/programthink/zhao
+2023-03-25,python,3582,692,"RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, ""infinite"" ctx_len, and free sentence embedding.",BlinkDL,RWKV-LM,https://github.com/BlinkDL/RWKV-LM
+2023-03-25,python,1738,406,BELLE: Bloom-Enhanced Large Language model Engine（开源中文对话大模型-70亿参数）,LianjiaTech,BELLE,https://github.com/LianjiaTech/BELLE
+2023-03-25,python,9666,415,FauxPilot - an open-source GitHub Copilot server,fauxpilot,fauxpilot,https://github.com/fauxpilot/fauxpilot
+2023-03-25,python,909,143,Alpaca-LoRA as Chatbot service,deep-diver,Alpaca-LoRA-Serve,https://github.com/deep-diver/Alpaca-LoRA-Serve
+2023-03-25,python,5568,676,GUI for ChatGPT API,GaiZhenbiao,ChuanhuChatGPT,https://github.com/GaiZhenbiao/ChuanhuChatGPT
+2023-03-25,python,127,24,그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포,ddobokki,chatgpt_stock_report,https://github.com/ddobokki/chatgpt_stock_report
+2023-03-25,python,4151,226,"ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",BlinkDL,ChatRWKV,https://github.com/BlinkDL/ChatRWKV
+2023-03-25,python,361,92,Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.,lukasHoel,text2room,https://github.com/lukasHoel/text2room
+2023-03-25,python,1409,215,AI-powered search engine for your organization,GerevAI,gerev,https://github.com/GerevAI/gerev
+2023-03-25,python,2841,66,GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023),THUDM,GLM-130B,https://github.com/THUDM/GLM-130B
+2023-03-25,python,8450,235,LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.,jerryjliu,llama_index,https://github.com/jerryjliu/llama_index
+2023-03-25,python,22821,53,"30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",Asabeneh,30-Days-Of-Python,https://github.com/Asabeneh/30-Days-Of-Python
+2023-03-25,python,22846,10,"Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",getredash,redash,https://github.com/getredash/redash
+2023-03-25,python,3982,40,,timothybrooks,instruct-pix2pix,https://github.com/timothybrooks/instruct-pix2pix
+2023-03-25,python,14932,646,Building applications with LLMs through composability,hwchase17,langchain,https://github.com/hwchase17/langchain
+2023-03-25,python,2655,47,CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.,salesforce,CodeGen,https://github.com/salesforce/CodeGen
+2023-03-25,python,315,58,Use commands in English to control Blender with OpenAI's GPT-4,gd3kr,BlenderGPT,https://github.com/gd3kr/BlenderGPT
+2023-03-25,python,266,34,Official repo for MM-REACT,microsoft,MM-REACT,https://github.com/microsoft/MM-REACT
+2023-03-25,python,151,19,"This is a python script to validate up time of the saime web, even you can change the URL and you can use to everything that you want",taberoajorge,saime-script,https://github.com/taberoajorge/saime-script
+2023-03-25,python,5815,16,A modular SQL linter and auto-formatter with support for multiple dialects and templated code.,sqlfluff,sqlfluff,https://github.com/sqlfluff/sqlfluff
+2023-03-25,python,33659,15,Developer-first error tracking and performance monitoring,getsentry,sentry,https://github.com/getsentry/sentry
+2023-03-25,python,3179,25,LAVIS - A One-stop Library for Language-Vision Intelligence,salesforce,LAVIS,https://github.com/salesforce/LAVIS
