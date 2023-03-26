@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-26,go,1941,122,飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验  语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出,Leizhenpeng,feishu-chatgpt,https://github.com/Leizhenpeng/feishu-chatgpt
+2023-03-26,go,262,17,Cloudflare Bypass for OpenAI based on `puid`,acheong08,ChatGPT-Proxy-V4,https://github.com/acheong08/ChatGPT-Proxy-V4
+2023-03-26,go,18944,6,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-03-26,go,214,4,,sjkhsl,study_xxqg,https://github.com/sjkhsl/study_xxqg
+2023-03-26,go,6884,9,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-03-26,go,1060,29,钉钉 &  GPT-3.5 让你的工作效率直接起飞  私聊群聊方式、单聊串聊模式、角色扮演、图片创作,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2023-03-26,go,15634,31,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-03-26,go,14075,10,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2023-03-26,go,25335,24,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2023-03-26,go,34946,12,An extremely fast bundler for the web,evanw,esbuild,https://github.com/evanw/esbuild
+2023-03-26,go,14319,4,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2023-03-26,go,2873,7,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",grafana,tempo,https://github.com/grafana/tempo
+2023-03-26,go,1897,2,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2023-03-26,go,18645,14,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-03-26,go,3898,4,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-03-26,go,36665,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-03-26,go,14030,6,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-03-26,go,10537,8,即时通讯IM,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2023-03-26,go,17805,8,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-03-26,go,6644,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2023-03-26,go,8812,11,A fast TCP/UDP tunnel over HTTP,jpillora,chisel,https://github.com/jpillora/chisel
+2023-03-26,go,2732,74,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2023-03-26,go,8231,0,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2023-03-26,go,31881,8,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-03-26,go,13484,8,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-26,python,6776,1349,,openai,chatgpt-retrieval-plugin,https://github.com/openai/chatgpt-retrieval-plugin
+2023-03-26,python,3819,242,"RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, ""infinite"" ctx_len, and free sentence embedding.",BlinkDL,RWKV-LM,https://github.com/BlinkDL/RWKV-LM
+2023-03-26,python,340,111,"Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments.",cisagov,untitledgoosetool,https://github.com/cisagov/untitledgoosetool
+2023-03-26,python,11777,112,【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵,programthink,zhao,https://github.com/programthink/zhao
+2023-03-26,python,4272,160,"ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",BlinkDL,ChatRWKV,https://github.com/BlinkDL/ChatRWKV
+2023-03-26,python,5833,274,GUI for ChatGPT API,GaiZhenbiao,ChuanhuChatGPT,https://github.com/GaiZhenbiao/ChuanhuChatGPT
+2023-03-26,python,1949,621,"A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",nsarrazin,serge,https://github.com/nsarrazin/serge
+2023-03-26,python,15316,410,Building applications with LLMs through composability,hwchase17,langchain,https://github.com/hwchase17/langchain
+2023-03-26,python,2100,426,"myGPTReader is a slack bot that can read any webpage, ebook, video(YouTube) or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",madawei2699,myGPTReader,https://github.com/madawei2699/myGPTReader
+2023-03-26,python,14050,170,Inference code for LLaMA models,facebookresearch,llama,https://github.com/facebookresearch/llama
+2023-03-26,python,8659,221,LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.,jerryjliu,llama_index,https://github.com/jerryjliu/llama_index
+2023-03-26,python,338,87,"Alpaca dataset from Stanford, cleaned and curated",gururise,AlpacaDataCleaned,https://github.com/gururise/AlpacaDataCleaned
+2023-03-26,python,420,61,Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.,lukasHoel,text2room,https://github.com/lukasHoel/text2room
+2023-03-26,python,533,8,"A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",Azure-Samples,azure-search-openai-demo,https://github.com/Azure-Samples/azure-search-openai-demo
+2023-03-26,python,993,87,Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation,showlab,Tune-A-Video,https://github.com/showlab/Tune-A-Video
+2023-03-26,python,4867,3,强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天,TechXueXi,TechXueXi,https://github.com/TechXueXi/TechXueXi
+2023-03-26,python,3355,37,CodeGeeX: An Open Multilingual Code Generation Model,THUDM,CodeGeeX,https://github.com/THUDM/CodeGeeX
+2023-03-26,python,361,37,Plugin for Neural Amp Modeler,sdatkinson,NeuralAmpModelerPlugin,https://github.com/sdatkinson/NeuralAmpModelerPlugin
+2023-03-26,python,16664,12,Collection of Summer 2023 tech internships!,pittcsc,Summer2023-Internships,https://github.com/pittcsc/Summer2023-Internships
+2023-03-26,python,1861,159,BELLE: BE Large Language model Engine（开源中文对话大模型）,LianjiaTech,BELLE,https://github.com/LianjiaTech/BELLE
+2023-03-26,python,423,258,中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能,binary-husky,chatgpt_academic,https://github.com/binary-husky/chatgpt_academic
+2023-03-26,python,2740,116,"A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.",TheR1D,shell_gpt,https://github.com/TheR1D/shell_gpt
+2023-03-26,python,348,137,,sahil280114,codealpaca,https://github.com/sahil280114/codealpaca
+2023-03-26,python,134,9,Multi-language Enhanced LLaMA,feizc,MLE-LLaMA,https://github.com/feizc/MLE-LLaMA
+2023-03-26,python,14565,40,A low-code Machine Learning platform to help developers build #AI solutions,mindsdb,mindsdb,https://github.com/mindsdb/mindsdb

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-26,rust,35931,190,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2023-03-26,rust,710,118,An extension for using Cursor in Visual Studio Code.,Helixform,CodeCursor,https://github.com/Helixform/CodeCursor
+2023-03-26,rust,7948,35,"Friendly React-like GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-03-26,rust,364,35,A memory visualizer in Rust (ptrace + userfaultfd),fasterthanlime,mevi,https://github.com/fasterthanlime/mevi
+2023-03-26,rust,11818,9,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2023-03-26,rust,9888,1106,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-03-26,rust,176,72,"A brand-new language server for Typst, plus a VS Code extension",nvarner,typst-lsp,https://github.com/nvarner/typst-lsp
+2023-03-26,rust,10075,16,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2023-03-26,rust,1301,6,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-03-26,rust,25649,273,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-03-26,rust,20190,16,A web framework for Rust.,SergioBenitez,Rocket,https://github.com/SergioBenitez/Rocket
+2023-03-26,rust,2663,14,zkSync: trustless scaling and privacy engine for Ethereum,matter-labs,zksync,https://github.com/matter-labs/zksync
+2023-03-26,rust,3849,6,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-03-26,rust,20387,7,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-03-26,rust,10123,5,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2023-03-26,rust,61224,51,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-03-26,rust,679,10,Cairo is the first Turing-complete language for creating provable programs for general computation.,starkware-libs,cairo,https://github.com/starkware-libs/cairo
+2023-03-26,rust,5188,19,Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-03-26,rust,88625,30,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-03-26,rust,197,51,Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment,humblepenguinn,envio,https://github.com/humblepenguinn/envio
+2023-03-26,rust,540,5,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
+2023-03-26,rust,2800,48,"Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly",fermyon,spin,https://github.com/fermyon/spin
+2023-03-26,rust,14712,21,The leading WebAssembly Runtime supporting WASI and Emscripten,wasmerio,wasmer,https://github.com/wasmerio/wasmer
+2023-03-26,rust,1252,5,Internet Computer blockchain source: the client/replica software run by nodes,dfinity,ic,https://github.com/dfinity/ic
+2023-03-26,rust,154,18,zkSync era,matter-labs,zksync-era,https://github.com/matter-labs/zksync-era
