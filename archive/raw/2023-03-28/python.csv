@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-28,python,2582,1635,科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能,binary-husky,chatgpt_academic,https://github.com/binary-husky/chatgpt_academic
+2023-03-28,python,9830,1714,The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.,openai,chatgpt-retrieval-plugin,https://github.com/openai/chatgpt-retrieval-plugin
+2023-03-28,python,4282,190,"RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, ""infinite"" ctx_len, and free sentence embedding.",BlinkDL,RWKV-LM,https://github.com/BlinkDL/RWKV-LM
+2023-03-28,python,3977,42,Standard and Advanced Demos for learn.cantrill.io courses,acantril,learn-cantrill-io-labs,https://github.com/acantril/learn-cantrill-io-labs
+2023-03-28,python,2186,788,"Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",databrickslabs,dolly,https://github.com/databrickslabs/dolly
+2023-03-28,python,1780,1088,Use commands in English to control Blender with OpenAI's GPT-4,gd3kr,BlenderGPT,https://github.com/gd3kr/BlenderGPT
+2023-03-28,python,613,63,"A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",n3d1117,chatgpt-telegram-bot,https://github.com/n3d1117/chatgpt-telegram-bot
+2023-03-28,python,648,158,,sahil280114,codealpaca,https://github.com/sahil280114/codealpaca
+2023-03-28,python,503,82,Plugin for Neural Amp Modeler,sdatkinson,NeuralAmpModelerPlugin,https://github.com/sdatkinson/NeuralAmpModelerPlugin
+2023-03-28,python,15281,130,Let us control diffusion models!,lllyasviel,ControlNet,https://github.com/lllyasviel/ControlNet
+2023-03-28,python,4492,111,"ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",BlinkDL,ChatRWKV,https://github.com/BlinkDL/ChatRWKV
+2023-03-28,python,11117,18,You like pytorch? You like micrograd? You love tinygrad!,geohot,tinygrad,https://github.com/geohot/tinygrad
+2023-03-28,python,2119,125,SoftVC VITS Singing Voice Conversion,svc-develop-team,so-vits-svc,https://github.com/svc-develop-team/so-vits-svc
+2023-03-28,python,241,27,An implementation of a Reflexion agent for SOTA Human-Eval Python results.,GammaTauAI,reflexion-human-eval,https://github.com/GammaTauAI/reflexion-human-eval
+2023-03-28,python,7452,140,Running large language models on a single GPU for throughput-oriented scenarios.,FMInference,FlexGen,https://github.com/FMInference/FlexGen
+2023-03-28,python,1877,42,,bmaltais,kohya_ss,https://github.com/bmaltais/kohya_ss
+2023-03-28,python,332,31,so-vits-svc fork with REALTIME support (voice changer) and greatly improved interface.,34j,so-vits-svc-fork,https://github.com/34j/so-vits-svc-fork
+2023-03-28,python,15932,180,High-Resolution Image Synthesis with Latent Diffusion Models,Stability-AI,stablediffusion,https://github.com/Stability-AI/stablediffusion
+2023-03-28,python,203,16,A repository collecting model files for Neural Amp Modeler (NAM) all in one place,pelennor2170,NAM_models,https://github.com/pelennor2170/NAM_models
+2023-03-28,python,235,66,Build and control your own LLMs,stochasticai,xturing,https://github.com/stochasticai/xturing
+2023-03-28,python,14689,60,A low-code Machine Learning platform to help developers build #AI solutions,mindsdb,mindsdb,https://github.com/mindsdb/mindsdb
+2023-03-28,python,848,8,Openpose Editor for AUTOMATIC1111's stable-diffusion-webui,fkunn1326,openpose-editor,https://github.com/fkunn1326/openpose-editor
+2023-03-28,python,1411,284,Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation,showlab,Tune-A-Video,https://github.com/showlab/Tune-A-Video
+2023-03-28,python,482,88,"Alpaca dataset from Stanford, cleaned and curated",gururise,AlpacaDataCleaned,https://github.com/gururise/AlpacaDataCleaned
+2023-03-28,python,10466,11,A computer algebra system written in pure Python,sympy,sympy,https://github.com/sympy/sympy
