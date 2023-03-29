@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-29,scala,5808,6,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-03-29,scala,41,7,A strawman for a low-level async library in Scala 3,lampepfl,async,https://github.com/lampepfl/async
+2023-03-29,scala,3483,8,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2023-03-29,scala,2983,1,Chisel: A Modern Hardware Design Language,chipsalliance,chisel,https://github.com/chipsalliance/chisel
+2023-03-29,scala,1549,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-03-29,scala,2552,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-03-29,scala,5264,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-03-29,scala,2549,0,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2023-03-29,scala,9567,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-03-29,scala,435,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2023-03-29,scala,2394,0,"A minimal, idiomatic Scala interface for HTTP",http4s,http4s,https://github.com/http4s/http4s
+2023-03-29,scala,38,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo
+2023-03-29,scala,0,0,,thenewcircle,scala-bootcamp-20130114,https://github.com/thenewcircle/scala-bootcamp-20130114
+2023-03-29,scala,36,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2023-03-29,scala,86,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2023-03-29,scala,3953,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-03-29,scala,1700,8,"Feathr – A scalable, unified data and AI engineering platform for enterprise",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2023-03-29,scala,5867,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-03-29,scala,225,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2023-03-29,scala,11303,5,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2023-03-29,scala,1317,2,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2023-03-29,scala,35338,14,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-03-29,scala,1187,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2023-03-29,scala,1862,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2023-03-29,scala,28,0,,broadinstitute,firecloud-orchestration,https://github.com/broadinstitute/firecloud-orchestration

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-29,python,5922,3259,科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能,binary-husky,chatgpt_academic,https://github.com/binary-husky/chatgpt_academic
+2023-03-29,python,2851,697,"Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",databrickslabs,dolly,https://github.com/databrickslabs/dolly
+2023-03-29,python,2341,605,Use commands in English to control Blender with OpenAI's GPT-4,gd3kr,BlenderGPT,https://github.com/gd3kr/BlenderGPT
+2023-03-29,python,10639,894,The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.,openai,chatgpt-retrieval-plugin,https://github.com/openai/chatgpt-retrieval-plugin
+2023-03-29,python,2391,138,PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.,huggingface,peft,https://github.com/huggingface/peft
+2023-03-29,python,1670,216,Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation,showlab,Tune-A-Video,https://github.com/showlab/Tune-A-Video
+2023-03-29,python,548,66,"Alpaca dataset from Stanford, cleaned and curated",gururise,AlpacaDataCleaned,https://github.com/gururise/AlpacaDataCleaned
+2023-03-29,python,14748,66,A low-code Machine Learning platform to help developers build #AI solutions,mindsdb,mindsdb,https://github.com/mindsdb/mindsdb
+2023-03-29,python,586,86,Plugin for Neural Amp Modeler,sdatkinson,NeuralAmpModelerPlugin,https://github.com/sdatkinson/NeuralAmpModelerPlugin
+2023-03-29,python,710,65,,sahil280114,codealpaca,https://github.com/sahil280114/codealpaca
+2023-03-29,python,540,66,Experimental library for scraping websites using OpenAI's GPT API.,jamesturk,scrapeghost,https://github.com/jamesturk/scrapeghost
+2023-03-29,python,1738,56,Top disclosed reports from HackerOne,reddelexc,hackerone-reports,https://github.com/reddelexc/hackerone-reports
+2023-03-29,python,9311,229,LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.,jerryjliu,llama_index,https://github.com/jerryjliu/llama_index
+2023-03-29,python,4264,20,Ongoing research training transformer models at scale,NVIDIA,Megatron-LM,https://github.com/NVIDIA/Megatron-LM
+2023-03-29,python,3254,125,"A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.",TheR1D,shell_gpt,https://github.com/TheR1D/shell_gpt
+2023-03-29,python,7447,176,"Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",zhayujie,chatgpt-on-wechat,https://github.com/zhayujie/chatgpt-on-wechat
+2023-03-29,python,700,90,"A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",n3d1117,chatgpt-telegram-bot,https://github.com/n3d1117/chatgpt-telegram-bot
+2023-03-29,python,469,342,,Kent0n-Li,ChatDoctor,https://github.com/Kent0n-Li/ChatDoctor
+2023-03-29,python,322,88,Build and control your own LLMs,stochasticai,xturing,https://github.com/stochasticai/xturing
+2023-03-29,python,607,31,"Implementation of GigaGAN, new SOTA GAN out of Adobe",lucidrains,gigagan-pytorch,https://github.com/lucidrains/gigagan-pytorch
+2023-03-29,python,599,44,Check your WAF before an attacker does,nemesida-waf,waf-bypass,https://github.com/nemesida-waf/waf-bypass
+2023-03-29,python,5002,376,Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复,kaixindelele,ChatPaper,https://github.com/kaixindelele/ChatPaper
+2023-03-29,python,156,32,Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.,continuum-llms,chatgpt-memory,https://github.com/continuum-llms/chatgpt-memory
+2023-03-29,python,4836,34,"Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.",flet-dev,flet,https://github.com/flet-dev/flet
+2023-03-29,python,4028,15,"A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",huggingface,accelerate,https://github.com/huggingface/accelerate

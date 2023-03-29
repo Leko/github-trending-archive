@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-29,go,11725,49,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-03-29,go,3144,150,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2023-03-29,go,1190,43,钉钉 &  GPT-3.5 让你的工作效率直接起飞  私聊群聊方式、单聊串聊模式、角色扮演、图片创作,eryajf,chatgpt-dingtalk,https://github.com/eryajf/chatgpt-dingtalk
+2023-03-29,go,22071,36,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-03-29,go,6901,4,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-03-29,go,3726,5,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-03-29,go,12042,5,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2023-03-29,go,6580,25,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",answerdev,answer,https://github.com/answerdev/answer
+2023-03-29,go,411,26,AI-controlled Linux Containers,fafrd,aquarium,https://github.com/fafrd/aquarium
+2023-03-29,go,24018,14,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2023-03-29,go,4476,5,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-03-29,go,11327,17,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2023-03-29,go,20817,8,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-03-29,go,31921,16,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-03-29,go,4361,16,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2023-03-29,go,11963,51,GO Simple Tunnel - a simple tunnel written in golang,ginuerzh,gost,https://github.com/ginuerzh/gost
+2023-03-29,go,189,15,Make your Go programs use less memory (maybe),dkorunic,betteralign,https://github.com/dkorunic/betteralign
+2023-03-29,go,24759,8,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2023-03-29,go,12047,11,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2023-03-29,go,31819,13,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2023-03-29,go,26844,14,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2023-03-29,go,5650,7,Terminal file manager,gokcehan,lf,https://github.com/gokcehan/lf
+2023-03-29,go,41651,14,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-03-29,go,33698,13,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-03-29,go,3003,9,Gatekeeper - Policy Controller for Kubernetes,open-policy-agent,gatekeeper,https://github.com/open-policy-agent/gatekeeper
