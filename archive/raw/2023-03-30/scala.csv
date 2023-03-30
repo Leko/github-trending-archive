@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-30,scala,5814,6,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-03-30,scala,1550,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-03-30,scala,35341,7,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-03-30,scala,12348,2,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2023-03-30,scala,11303,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2023-03-30,scala,12649,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-03-30,scala,3955,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-03-30,scala,12915,3,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2023-03-30,scala,5267,3,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-03-30,scala,5869,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-03-30,scala,525,1,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2023-03-30,scala,561,0,Monitor Kafka Consumer Group Latency with Kafka Lag Exporter,seglo,kafka-lag-exporter,https://github.com/seglo/kafka-lag-exporter
+2023-03-30,scala,4651,3,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2023-03-30,scala,2724,3,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-03-30,scala,183,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2023-03-30,scala,8878,1,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2023-03-30,scala,38,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo
+2023-03-30,scala,8,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2023-03-30,scala,2379,1,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2023-03-30,scala,4874,3,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2023-03-30,scala,750,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2023-03-30,scala,2986,3,Chisel: A Modern Hardware Design Language,chipsalliance,chisel,https://github.com/chipsalliance/chisel
+2023-03-30,scala,8504,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2023-03-30,scala,36,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2023-03-30,scala,354,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
