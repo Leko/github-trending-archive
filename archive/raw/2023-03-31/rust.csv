@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-31,rust,14818,22,Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2023-03-31,rust,1761,151,《高并发的哲学原理》开源图书（CC BY-NC-ND）,johnlui,PPHC,https://github.com/johnlui/PPHC
+2023-03-31,rust,449,21,"A browser AI agent, using GPT-4",m1guelpf,browser-agent,https://github.com/m1guelpf/browser-agent
+2023-03-31,rust,779,23,"OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys",wssheldon,osintui,https://github.com/wssheldon/osintui
+2023-03-31,rust,35177,143,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2023-03-31,rust,739,17,Cairo is the first Turing-complete language for creating provable programs for general computation.,starkware-libs,cairo,https://github.com/starkware-libs/cairo
+2023-03-31,rust,11014,17,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2023-03-31,rust,11877,29,Chromium running inside your terminal,fathyb,carbonyl,https://github.com/fathyb/carbonyl
+2023-03-31,rust,3423,10,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-03-31,rust,9523,31,The next gen ls command,lsd-rs,lsd,https://github.com/lsd-rs/lsd
+2023-03-31,rust,27778,557,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-03-31,rust,878,60,NoFWL Desktop Application,lencx,nofwl,https://github.com/lencx/nofwl
+2023-03-31,rust,14226,44,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-03-31,rust,20199,20,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-03-31,rust,8088,3,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-03-31,rust,39952,56,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-03-31,rust,1731,76,"Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui",rerun-io,rerun,https://github.com/rerun-io/rerun
+2023-03-31,rust,4333,27,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2023-03-31,rust,1491,7,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2023-03-31,rust,177,137,Experimental extension that brings OpenAI API to your PostgreSQL to run queries in human language.,cloudquery,pg_gpt,https://github.com/cloudquery/pg_gpt
+2023-03-31,rust,11701,12,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2023-03-31,rust,7242,34,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2023-03-31,rust,20481,25,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-03-31,rust,6052,14,"A massively parallel, optimal functional runtime in Rust",HigherOrderCO,HVM,https://github.com/HigherOrderCO/HVM
+2023-03-31,rust,1942,29,"Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages",PyO3,maturin,https://github.com/PyO3/maturin

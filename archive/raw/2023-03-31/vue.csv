@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-31,vue,12490,580,用 Express 和 Vue3 搭建的 ChatGPT 演示网页,Chanzhaoyu,chatgpt-web,https://github.com/Chanzhaoyu/chatgpt-web
+2023-03-31,vue,20504,23,"Wiki.js | A modern and powerful wiki app built on Node.js",requarks,wiki,https://github.com/requarks/wiki
+2023-03-31,vue,3504,6,"Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。",jekip,naive-ui-admin,https://github.com/jekip/naive-ui-admin
+2023-03-31,vue,86,4,基于 laf 开发的 chatGPT 免费 免登录 免翻墙 点击开聊,zuoFeng59556,chatGPT,https://github.com/zuoFeng59556/chatGPT
+2023-03-31,vue,1267,100,OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，后期会一点一点的将OpenAI接口进行接入大家支持一下呗，微信群号在下方，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。有招java开发的还望大佬内推一下感谢、感谢。,202252197,ChatGPT_JCM,https://github.com/202252197/ChatGPT_JCM
+2023-03-31,vue,50682,27,Open source API development ecosystem - https://hoppscotch.io,hoppscotch,hoppscotch,https://github.com/hoppscotch/hoppscotch
+2023-03-31,vue,270,32,"A web application that allows multiple users to share one ChatGPT account at the same time, developed using unofficial ChatGPT API & fastapi & vue3. Supports GPT-4! 共享 ChatGPT 账号给多用户同时使用，可用于朋友之间共享或合租 ChatGPT 账号。使用 FastAPI + Vue3 开发。支持 ChatGPT Plus / 使用 GPT-4 / 用户请求限制等功能。",moeakwak,chatgpt-web-share,https://github.com/moeakwak/chatgpt-web-share
+2023-03-31,vue,681,0,Photoshop plugin for Stable Diffusion with Automatic1111 as backend (locally or with Google Colab),isekaidev,stable.art,https://github.com/isekaidev/stable.art
+2023-03-31,vue,18,1,,ApeWhoLovesCode,LegendTD,https://github.com/ApeWhoLovesCode/LegendTD
+2023-03-31,vue,3273,10,"A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]",honghuangdc,soybean-admin,https://github.com/honghuangdc/soybean-admin
+2023-03-31,vue,2472,3,"An online avatar generator just for fun | 一个纯前端实现的头像生成网站",Codennnn,vue-color-avatar,https://github.com/Codennnn/vue-color-avatar
+2023-03-31,vue,3124,5,All-inclusive Python cheatsheet,wilfredinni,python-cheatsheet,https://github.com/wilfredinni/python-cheatsheet
+2023-03-31,vue,10083,5,👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro! (vue2),vueComponent,ant-design-vue-pro,https://github.com/vueComponent/ant-design-vue-pro
+2023-03-31,vue,7874,6,Blazing fast scrolling for any amount of data,Akryum,vue-virtual-scroller,https://github.com/Akryum/vue-virtual-scroller
+2023-03-31,vue,4061,5,eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由,elunez,eladmin-web,https://github.com/elunez/eladmin-web
+2023-03-31,vue,7798,3,Element UI表单设计及代码生成器,JakHuang,form-generator,https://github.com/JakHuang/form-generator
+2023-03-31,vue,3174,9,A nimble Mastodon web client,elk-zone,elk,https://github.com/elk-zone/elk
+2023-03-31,vue,741,3,An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.,arco-design,arco-design-pro-vue,https://github.com/arco-design/arco-design-pro-vue
+2023-03-31,vue,1011,4,"A set of background integration scheme based on vue3, element-plus, typescript4 and vite4",kailong321200875,vue-element-plus-admin,https://github.com/kailong321200875/vue-element-plus-admin
+2023-03-31,vue,273,0,The Rancher UI,rancher,dashboard,https://github.com/rancher/dashboard
+2023-03-31,vue,19292,17,A Vue.js 3 UI Library made by Element team,element-plus,element-plus,https://github.com/element-plus/element-plus
+2023-03-31,vue,1969,3,(RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统,yangzongzhuan,RuoYi-Vue3,https://github.com/yangzongzhuan/RuoYi-Vue3
+2023-03-31,vue,419,12,chatGPT私有化部署,mic1on,chatGPT-web,https://github.com/mic1on/chatGPT-web
+2023-03-31,vue,22595,23,高颜值的第三方网易云播放器，支持 Windows / macOS / Linux,qier222,YesPlayMusic,https://github.com/qier222/YesPlayMusic
+2023-03-31,vue,69,10,An opinionated toast component for Vue.,xiaoluoboding,vue-sonner,https://github.com/xiaoluoboding/vue-sonner

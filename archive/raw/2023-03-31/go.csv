@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-03-31,go,673,295,Giving Kubernetes SRE superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2023-03-31,go,481,32,Kubectl plugin for OpenAI GPT,sozercan,kubectl-ai,https://github.com/sozercan/kubectl-ai
+2023-03-31,go,14327,2,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2023-03-31,go,656,65,A Golang framework for web artisans. Tribute to Laravel.,goravel,goravel,https://github.com/goravel/goravel
+2023-03-31,go,157,24,这是一个调用chatGPT进行代码审计的工具,Kento-Sec,chatGPT-CodeReview,https://github.com/Kento-Sec/chatGPT-CodeReview
+2023-03-31,go,6241,12,"High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com",ddosify,ddosify,https://github.com/ddosify/ddosify
+2023-03-31,go,89,26,一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.,szpnygo,VecTextSearch,https://github.com/szpnygo/VecTextSearch
+2023-03-31,go,36735,15,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-03-31,go,6731,9,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2023-03-31,go,1383,14,A Vulnerability Scanning Tools For Penetration Testing,zan8in,afrog,https://github.com/zan8in/afrog
+2023-03-31,go,12706,60,A tool for glamorous shell scripts,charmbracelet,gum,https://github.com/charmbracelet/gum
+2023-03-31,go,10765,25,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-03-31,go,3908,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-03-31,go,211,8,Go implementation of a node that operates the Polygon zkEVM Network,0xPolygonHermez,zkevm-node,https://github.com/0xPolygonHermez/zkevm-node
+2023-03-31,go,6639,20,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",answerdev,answer,https://github.com/answerdev/answer
+2023-03-31,go,1971,2,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2023-03-31,go,3939,30,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2023-03-31,go,31272,16,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-03-31,go,425,45,Cloudflare Bypass for OpenAI based on `puid`,acheong08,ChatGPT-Proxy-V4,https://github.com/acheong08/ChatGPT-Proxy-V4
+2023-03-31,go,9456,4,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2023-03-31,go,2044,4,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2023-03-31,go,9861,17,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2023-03-31,go,27252,13,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-03-31,go,14820,3,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2023-03-31,go,11104,6,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
