@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-01,go,27342,96,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-04-01,go,7495,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-04-01,go,822,149,Giving Kubernetes SRE superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2023-04-01,go,2279,30,Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding,pgrok,pgrok,https://github.com/pgrok/pgrok
+2023-04-01,go,8382,8,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-04-01,go,142,29,EXP for CVE-2023-28434 MinIO unauthorized to RCE,AbelChe,evil_minio,https://github.com/AbelChe/evil_minio
+2023-04-01,go,685,30,A Golang framework for web artisans. Tribute to Laravel.,goravel,goravel,https://github.com/goravel/goravel
+2023-04-01,go,4112,7,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-04-01,go,1877,55,现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-04-01,go,7764,7,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2023-04-01,go,13408,10,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-04-01,go,183,10,基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可）,geekr-dev,openai-proxy,https://github.com/geekr-dev/openai-proxy
+2023-04-01,go,84,19,The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.,hashicorp,vault-secrets-operator,https://github.com/hashicorp/vault-secrets-operator
+2023-04-01,go,17844,10,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-04-01,go,1973,2,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2023-04-01,go,7913,10,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2023-04-01,go,4164,4,NGINX and NGINX Plus Ingress Controllers for Kubernetes,nginxinc,kubernetes-ingress,https://github.com/nginxinc/kubernetes-ingress
+2023-04-01,go,10527,23,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2023-04-01,go,3968,32,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2023-04-01,go,2832,2,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2023-04-01,go,8690,28,"The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters.. Think TCPDump and Wireshark re-invented for Kubernetes",kubeshark,kubeshark,https://github.com/kubeshark/kubeshark
+2023-04-01,go,3380,8,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-04-01,go,213,2,Go implementation of a node that operates the Polygon zkEVM Network,0xPolygonHermez,zkevm-node,https://github.com/0xPolygonHermez/zkevm-node
+2023-04-01,go,2047,3,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2023-04-01,go,2651,5,Repository for sample controller. Complements sample-apiserver,kubernetes,sample-controller,https://github.com/kubernetes/sample-controller
