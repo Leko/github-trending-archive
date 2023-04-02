@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-02,python,507,166,Code for running RFdiffusion,RosettaCommons,RFdiffusion,https://github.com/RosettaCommons/RFdiffusion
+2023-04-02,python,1431,264,中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs),ymcui,Chinese-LLaMA-Alpaca,https://github.com/ymcui/Chinese-LLaMA-Alpaca
+2023-04-02,python,1488,221,Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters,ZrrSkywalker,LLaMA-Adapter,https://github.com/ZrrSkywalker/LLaMA-Adapter
+2023-04-02,python,12169,74,【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵,programthink,zhao,https://github.com/programthink/zhao
+2023-04-02,python,920,215,A batteries-included library for GPT-powered bots and AI functions,PrefectHQ,marvin,https://github.com/PrefectHQ/marvin
+2023-04-02,python,608,171,$NAME is an AI-powered IDE. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.,new-ai-company,ide,https://github.com/new-ai-company/ide
+2023-04-02,python,16293,1659,"gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",nomic-ai,gpt4all,https://github.com/nomic-ai/gpt4all
+2023-04-02,python,25706,631,"Making large AI models cheaper, faster and more accessible",hpcaitech,ColossalAI,https://github.com/hpcaitech/ColossalAI
+2023-04-02,python,207,92,Interact with Massive Embedding and Text Datasets in Your Web Browser,nomic-ai,nomic,https://github.com/nomic-ai/nomic
+2023-04-02,python,17503,1451,科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能,binary-husky,chatgpt_academic,https://github.com/binary-husky/chatgpt_academic
+2023-04-02,python,28301,359,"Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",microsoft,visual-chatgpt,https://github.com/microsoft/visual-chatgpt
+2023-04-02,python,6391,312,Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复,kaixindelele,ChatPaper,https://github.com/kaixindelele/ChatPaper
+2023-04-02,python,567,26,"something like visual-chatgpt, 文心一言的开源版",visual-openllm,visual-openllm,https://github.com/visual-openllm/visual-openllm
+2023-04-02,python,56143,33,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",tiangolo,fastapi,https://github.com/tiangolo/fastapi
+2023-04-02,python,1655,82,"Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed.",Lightning-AI,lit-llama,https://github.com/Lightning-AI/lit-llama
+2023-04-02,python,4363,7,SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.,searxng,searxng,https://github.com/searxng/searxng
+2023-04-02,python,3672,52,CodeGeeX: An Open Multilingual Code Generation Model,THUDM,CodeGeeX,https://github.com/THUDM/CodeGeeX
+2023-04-02,python,14033,69,A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training,karpathy,minGPT,https://github.com/karpathy/minGPT
+2023-04-02,python,63,10,,djstla,novelai-webui-aki-v3,https://github.com/djstla/novelai-webui-aki-v3
+2023-04-02,python,717,124,Build voice-based LLM agents. Modular + open source.,vocodedev,vocode-python,https://github.com/vocodedev/vocode-python
+2023-04-02,python,374,60,"免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.",LiLittleCat,awesome-free-chatgpt,https://github.com/LiLittleCat/awesome-free-chatgpt
+2023-04-02,python,11690,196,"ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model",THUDM,ChatGLM-6B,https://github.com/THUDM/ChatGLM-6B
+2023-04-02,python,8061,115,"Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",zhayujie,chatgpt-on-wechat,https://github.com/zhayujie/chatgpt-on-wechat
+2023-04-02,python,56923,420,Stable Diffusion web UI,AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2023-04-02,python,683,13,"A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",Azure-Samples,azure-search-openai-demo,https://github.com/Azure-Samples/azure-search-openai-demo

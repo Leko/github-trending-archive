@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-02,rust,20405,124,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-04-02,rust,1994,70,《高并发的哲学原理》开源图书（CC BY-NC-ND）,johnlui,PPHC,https://github.com/johnlui/PPHC
+2023-04-02,rust,1172,107,NoFWL Desktop Application,lencx,nofwl,https://github.com/lencx/nofwl
+2023-04-02,rust,3917,14,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-04-02,rust,61612,47,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-04-02,rust,28640,379,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-04-02,rust,11354,14,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2023-04-02,rust,247,18,Experimental extension that brings OpenAI API to your PostgreSQL to run queries in human language.,cloudquery,pg_gpt,https://github.com/cloudquery/pg_gpt
+2023-04-02,rust,759,3,Cairo is the first Turing-complete language for creating provable programs for general computation.,starkware-libs,cairo,https://github.com/starkware-libs/cairo
+2023-04-02,rust,2436,1,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2023-04-02,rust,7967,18,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2023-04-02,rust,16967,32,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",spacedriveapp,spacedrive,https://github.com/spacedriveapp/spacedrive
+2023-04-02,rust,14889,15,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2023-04-02,rust,5122,16,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2023-04-02,rust,14278,22,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-04-02,rust,1499,3,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2023-04-02,rust,5696,15,A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-04-02,rust,3433,4,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-04-02,rust,7112,15,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-04-02,rust,4359,8,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2023-04-02,rust,3095,32,Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.,fermyon,spin,https://github.com/fermyon/spin
+2023-04-02,rust,11520,8,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-04-02,rust,1380,24,"A modern, multi-threaded file-tree visualization and disk usage analysis tool that respects hidden file and gitignore rules.",solidiquis,erdtree,https://github.com/solidiquis/erdtree
+2023-04-02,rust,87,5,"Madara is a  blazing fast  Starknet sequencer, based on substrate and written in Rust .",keep-starknet-strange,madara,https://github.com/keep-starknet-strange/madara
+2023-04-02,rust,146,15,Embed ngrok secure ingress into your Rust apps with a single line of code.,ngrok,ngrok-rs,https://github.com/ngrok/ngrok-rs
