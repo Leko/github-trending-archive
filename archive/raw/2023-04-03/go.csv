@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-03,go,11646,87,D2 is a modern diagram scripting language that turns text to diagrams.,terrastruct,d2,https://github.com/terrastruct/d2
+2023-04-03,go,209,56,Golang port of Abseil's SwissTable,dolthub,swiss,https://github.com/dolthub/swiss
+2023-04-03,go,14531,19,Dolt – Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2023-04-03,go,5526,31,Yaegi is Another Elegant Go Interpreter,traefik,yaegi,https://github.com/traefik/yaegi
+2023-04-03,go,26,3,,aws,aws-application-networking-k8s,https://github.com/aws/aws-application-networking-k8s
+2023-04-03,go,22210,29,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-04-03,go,369,38,Go execution trace frontend,dominikh,gotraceui,https://github.com/dominikh/gotraceui
+2023-04-03,go,203,10,基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可）,geekr-dev,openai-proxy,https://github.com/geekr-dev/openai-proxy
+2023-04-03,go,50363,28,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-04-03,go,6314,10,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2023-04-03,go,29417,11,"Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2023-04-03,go,4373,5,Nuke a whole AWS account and delete all its resources.,rebuy-de,aws-nuke,https://github.com/rebuy-de/aws-nuke
+2023-04-03,go,5528,12,"A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
+2023-04-03,go,2297,7,Community managed domain list. Generate geosite.dat for V2Ray.,v2fly,domain-list-community,https://github.com/v2fly/domain-list-community
+2023-04-03,go,11495,15,"A scalable overlay networking tool with a focus on performance, simplicity and security",slackhq,nebula,https://github.com/slackhq/nebula
+2023-04-03,go,19884,16,Cross platform GUI toolkit in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2023-04-03,go,198,52,"Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.",stefanprodan,timoni,https://github.com/stefanprodan/timoni
+2023-04-03,go,56,7,A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.,diemus,azure-openai-proxy,https://github.com/diemus/azure-openai-proxy
+2023-04-03,go,5854,8,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2023-04-03,go,27431,13,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-04-03,go,3977,8,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-04-03,go,5125,12,Tiny WebSocket library for Go.,gobwas,ws,https://github.com/gobwas/ws
+2023-04-03,go,12923,25,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-04-03,go,17634,12,"支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
