@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-05,scala,8588,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2023-04-05,scala,47624,3829,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2023-04-05,scala,2610,2,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2023-04-05,scala,2199,0,Abstract Algebra for Scala,twitter,algebird,https://github.com/twitter/algebird
+2023-04-05,scala,35412,16,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-04-05,scala,3420,2,A Scala API for Cascading,twitter,scalding,https://github.com/twitter/scalding
+2023-04-05,scala,3964,4,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-04-05,scala,1438,1,Twitter-Server defines a template from which services at Twitter are built,twitter,twitter-server,https://github.com/twitter/twitter-server
+2023-04-05,scala,1559,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-04-05,scala,5995,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2023-04-05,scala,11,1,"ORIGINAL source code for Twitter's Recommendation Algorithm with author_is_elon ""if""(see the link below)",B1Z0N,twitter-algorithm-with-author_is_elon,https://github.com/B1Z0N/twitter-algorithm-with-author_is_elon
+2023-04-05,scala,2994,1,Chisel: A Modern Hardware Design Language,chipsalliance,chisel,https://github.com/chipsalliance/chisel
+2023-04-05,scala,8,0,"A Lift web app wrapping Dumbster, the fake Smtp Server",Dan-M,dumbsterweb,https://github.com/Dan-M/dumbsterweb
+2023-04-05,scala,3760,3,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-04-05,scala,644,3,Reversible conversions between types,twitter,bijection,https://github.com/twitter/bijection
+2023-04-05,scala,2245,4,"Fast, testable, Scala services built on TwitterServer and Finagle",twitter,finatra,https://github.com/twitter/finatra
+2023-04-05,scala,1866,1,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2023-04-05,scala,1191,2,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2023-04-05,scala,12354,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2023-04-05,scala,9596,6,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-04-05,scala,2731,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-04-05,scala,36,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2023-04-05,scala,12655,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-04-05,scala,42,0,"Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.",twitter,bazel-multiversion,https://github.com/twitter/bazel-multiversion
+2023-04-05,scala,355,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
