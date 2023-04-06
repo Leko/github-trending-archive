@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-06,rust,3979,13,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-04-06,rust,7085,10,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2023-04-06,rust,6682,236,"Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
+2023-04-06,rust,2495,37,"Run LLaMA inference on CPU, with Rust",rustformers,llama-rs,https://github.com/rustformers/llama-rs
+2023-04-06,rust,295,37,A gRPC client from another world,eliaperantoni,spaceman,https://github.com/eliaperantoni/spaceman
+2023-04-06,rust,1862,9,Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.,geph-official,geph4-client,https://github.com/geph-official/geph4-client
+2023-04-06,rust,7855,87,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-04-06,rust,4193,5,RisingWave: A Distributed SQL Database for Stream Processing,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2023-04-06,rust,12895,3,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-04-06,rust,35494,85,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2023-04-06,rust,6706,0,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-04-06,rust,2442,3,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2023-04-06,rust,5094,3,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-04-06,rust,16113,50,"Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js",pola-rs,polars,https://github.com/pola-rs/polars
+2023-04-06,rust,4088,8,sccache is ccache with cloud storage,mozilla,sccache,https://github.com/mozilla/sccache
+2023-04-06,rust,7825,11,Volta: JS Toolchains as Code.,volta-cli,volta,https://github.com/volta-cli/volta
+2023-04-06,rust,21289,40,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2023-04-06,rust,20599,32,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-04-06,rust,4052,28,"A fast, simple, recursive content discovery tool written in Rust.",epi052,feroxbuster,https://github.com/epi052/feroxbuster
+2023-04-06,rust,14404,15,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2023-04-06,rust,11273,66,"Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
+2023-04-06,rust,3371,15,The Mullvad VPN client app for desktop and mobile,mullvad,mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app
+2023-04-06,rust,352,9,Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment,humblepenguinn,envio,https://github.com/humblepenguinn/envio
+2023-04-06,rust,5877,19,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2023-04-06,rust,26868,29,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
