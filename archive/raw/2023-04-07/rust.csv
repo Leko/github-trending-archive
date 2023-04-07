@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-07,rust,11561,43,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff
+2023-04-07,rust,6871,210,"Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
+2023-04-07,rust,3603,26,Application to comfortably monitor your network traffic,GyulyVGC,sniffnet,https://github.com/GyulyVGC/sniffnet
+2023-04-07,rust,7898,75,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-04-07,rust,9583,42,"ISG lets you use YouTube as cloud storage for ANY files, not just video",DvorakDwarf,Infinite-Storage-Glitch,https://github.com/DvorakDwarf/Infinite-Storage-Glitch
+2023-04-07,rust,2898,4,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2023-04-07,rust,5897,24,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2023-04-07,rust,4094,11,sccache is ccache with cloud storage,mozilla,sccache,https://github.com/mozilla/sccache
+2023-04-07,rust,4087,108,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-04-07,rust,1819,9,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2023-04-07,rust,11297,31,"Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
+2023-04-07,rust,1868,4,Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.,geph-official,geph4-client,https://github.com/geph-official/geph4-client
+2023-04-07,rust,33696,25,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2023-04-07,rust,7096,17,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2023-04-07,rust,8091,2,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-04-07,rust,455,141,A Rust procedural language handler for PostgreSQL,tcdi,plrust,https://github.com/tcdi/plrust
+2023-04-07,rust,2750,15,zkSync: trustless scaling and privacy engine for Ethereum,matter-labs,zksync,https://github.com/matter-labs/zksync
+2023-04-07,rust,5210,25,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2023-04-07,rust,20630,33,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-04-07,rust,1668,3,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
+2023-04-07,rust,6701,9,Fast State-of-the-Art Tokenizers optimized for Research and Production,huggingface,tokenizers,https://github.com/huggingface/tokenizers
+2023-04-07,rust,5687,14,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-04-07,rust,10161,7,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2023-04-07,rust,3382,13,The Mullvad VPN client app for desktop and mobile,mullvad,mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app
+2023-04-07,rust,11926,6,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime

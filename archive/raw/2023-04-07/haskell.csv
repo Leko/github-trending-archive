@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-07,haskell,31818,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-04-07,haskell,8398,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-04-07,haskell,494,7,,nammayatri,nammayatri,https://github.com/nammayatri/nammayatri
+2023-04-07,haskell,28474,17,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-04-07,haskell,2911,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-04-07,haskell,555,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-04-07,haskell,1552,0,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-04-07,haskell,2525,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-04-07,haskell,110,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2023-04-07,haskell,3831,1,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",facebook,duckling,https://github.com/facebook/duckling
+2023-04-07,haskell,40,1,Application backend for Plutus smart contracts on Cardano,geniusyield,atlas,https://github.com/geniusyield/atlas
+2023-04-07,haskell,2949,6,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-04-07,haskell,347,0,Interactively browse dependency graphs of Nix derivations.,utdemir,nix-tree,https://github.com/utdemir/nix-tree
+2023-04-07,haskell,1472,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-04-07,haskell,3840,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2023-04-07,haskell,2784,11,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-04-07,haskell,6,0,Integrations with Vinyl/Frames records.,composite-hs,composite,https://github.com/composite-hs/composite
+2023-04-07,haskell,0,0,An image compressor program coded in haskell using the K-Means algorithm,frouioui,ImageCompressor,https://github.com/frouioui/ImageCompressor
+2023-04-07,haskell,355,0,Juvix is a high-level programming language for writing privacy-preserving decentralised applications.,anoma,juvix,https://github.com/anoma/juvix
+2023-04-07,haskell,31,1,The main concordium node implementation.,Concordium,concordium-node,https://github.com/Concordium/concordium-node
+2023-04-07,haskell,1376,1,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2023-04-07,haskell,20316,1,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
