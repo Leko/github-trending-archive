@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-09,lua,54,0,An example user configuration with a split up structure,AstroNvim,user_example,https://github.com/AstroNvim/user_example
+2023-04-09,lua,4729,15,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-04-09,lua,9586,14,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-04-09,lua,2674,0,improve neovim lsp experience,glepnir,lspsaga.nvim,https://github.com/glepnir/lspsaga.nvim
+2023-04-09,lua,8709,43,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-04-09,lua,4587,16,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-04-09,lua,1031,3,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-04-09,lua,2900,15,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2023-04-09,lua,1828,0,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-04-09,lua,3392,6,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-04-09,lua,203,2,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-04-09,lua,4223,26,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-04-09,lua,45,0,Some Lua internals and more built-in scripts for reference,ac-custom-shaders-patch,acc-lua-internal,https://github.com/ac-custom-shaders-patch/acc-lua-internal
+2023-04-09,lua,670,0,Treesitter playground integrated into Neovim,nvim-treesitter,playground,https://github.com/nvim-treesitter/playground
+2023-04-09,lua,42,0,Slot Based Inventory System Used With QB-Core,qbcore-framework,qb-inventory,https://github.com/qbcore-framework/qb-inventory
+2023-04-09,lua,3622,7,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2023-04-09,lua,11606,6,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-04-09,lua,155,3,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2023-04-09,lua,13915,13,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-04-09,lua,1901,0,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2023-04-09,lua,196,0,Rainbow delimiters for Neovim through Tree-sitter,HiPhish,nvim-ts-rainbow2,https://github.com/HiPhish/nvim-ts-rainbow2
+2023-04-09,lua,7079,6,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-04-09,lua,1556,4,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2023-04-09,lua,2534,10,Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2023-04-09,lua,1421,5,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim

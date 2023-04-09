@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-09,go,2707,265,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2023-04-09,go,2797,4,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2023-04-09,go,23867,67,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-04-09,go,4406,205,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2023-04-09,go,42465,23,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2023-04-09,go,20340,7,Delve is a debugger for the Go programming language.,go-delve,delve,https://github.com/go-delve/delve
+2023-04-09,go,16362,96,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-04-09,go,25645,32,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2023-04-09,go,37864,21,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2023-04-09,go,2096,2,Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2023-04-09,go,9109,5,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2023-04-09,go,32477,2,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2023-04-09,go,13070,27,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-04-09,go,31400,9,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-04-09,go,24801,2,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2023-04-09,go,14896,7,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-04-09,go,304,23,Fast and customizable subdomain wordlist generator using DSL,projectdiscovery,alterx,https://github.com/projectdiscovery/alterx
+2023-04-09,go,10453,10,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2023-04-09,go,2966,12,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-04-09,go,29117,11,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-04-09,go,6334,4,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
+2023-04-09,go,11163,6,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2023-04-09,go,32026,14,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-04-09,go,19347,8,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2023-04-09,go,19355,6,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
