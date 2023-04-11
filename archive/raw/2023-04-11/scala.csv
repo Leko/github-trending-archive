@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-11,scala,3763,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-04-11,scala,11320,2,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2023-04-11,scala,757,1,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2023-04-11,scala,5861,7,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-04-11,scala,12357,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2023-04-11,scala,19,0,Wrapper for ETH Ariane Core,ucb-bar,cva6-wrapper,https://github.com/ucb-bar/cva6-wrapper
+2023-04-11,scala,121,0,Microarchitecture implementation of the decoupled vector-fetch accelerator,ucb-bar,hwacha,https://github.com/ucb-bar/hwacha
+2023-04-11,scala,184,0,A Library of Chisel3 Tools for Digital Signal Processing,ucb-bar,dsptools,https://github.com/ucb-bar/dsptools
+2023-04-11,scala,126,0,RISC-V Torture Test,ucb-bar,riscv-torture,https://github.com/ucb-bar/riscv-torture
+2023-04-11,scala,570,1,educational microarchitectures for risc-v isa,ucb-bar,riscv-sodor,https://github.com/ucb-bar/riscv-sodor
+2023-04-11,scala,33,0,Useful utilities for BAR projects,ucb-bar,barstools,https://github.com/ucb-bar/barstools
+2023-04-11,scala,442,0,Berkeley's Spatial Array Generator,ucb-bar,gemmini,https://github.com/ucb-bar/gemmini
+2023-04-11,scala,59,0,,ucb-bar,testchipip,https://github.com/ucb-bar/testchipip
+2023-04-11,scala,12960,2,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2023-04-11,scala,11,0,"Network components (NIC, Switch) for FireBox",firesim,icenet,https://github.com/firesim/icenet
+2023-04-11,scala,1324,4,SonicBOOM: The Berkeley Out-of-Order Machine,riscv-boom,riscv-boom,https://github.com/riscv-boom/riscv-boom
+2023-04-11,scala,771,0,A Thrift parser/generator,twitter,scrooge,https://github.com/twitter/scrooge
+2023-04-11,scala,2570,2,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-04-11,scala,1867,0,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2023-04-11,scala,28,0,A Scala library for Context-Dependent Environments,chipsalliance,cde,https://github.com/chipsalliance/cde
+2023-04-11,scala,214,0,,ucb-bar,berkeley-hardfloat,https://github.com/ucb-bar/berkeley-hardfloat
+2023-04-11,scala,8604,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2023-04-11,scala,4,0,An RTL generator for a last-level shared inclusive TileLink cache controller,chipsalliance,rocket-chip-inclusive-cache,https://github.com/chipsalliance/rocket-chip-inclusive-cache
+2023-04-11,scala,2613,1,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2023-04-11,scala,105,0,Beautiful Text-based User Interfaces for Scala,oyvindberg,tui-scala,https://github.com/oyvindberg/tui-scala

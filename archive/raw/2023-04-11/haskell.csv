@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-11,haskell,2912,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-04-11,haskell,2955,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-04-11,haskell,28505,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-04-11,haskell,2806,10,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-04-11,haskell,20332,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-04-11,haskell,1554,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-04-11,haskell,2041,4,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2023-04-11,haskell,3842,2,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2023-04-11,haskell,31849,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-04-11,haskell,7152,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-04-11,haskell,1092,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-04-11,haskell,88,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2023-04-11,haskell,2530,4,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-04-11,haskell,189,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-04-11,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2023-04-11,haskell,2317,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-04-11,haskell,58,0,Prometheus.io Haskell client.,bitnomial,prometheus,https://github.com/bitnomial/prometheus
+2023-04-11,haskell,24,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2023-04-11,haskell,3976,1,Functional Programming Course,system-f,fp-course,https://github.com/system-f/fp-course
+2023-04-11,haskell,555,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-04-11,haskell,84,0,A package index for the Haskell ecosystem,flora-pm,flora-server,https://github.com/flora-pm/flora-server
+2023-04-11,haskell,2543,1,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2023-04-11,haskell,364,1,Domain-Specific Languages of Mathematics,DSLsofMath,DSLsofMath,https://github.com/DSLsofMath/DSLsofMath
+2023-04-11,haskell,1380,1,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2023-04-11,haskell,1393,1,Research language for array processing in the Haskell/ML family,google-research,dex-lang,https://github.com/google-research/dex-lang
