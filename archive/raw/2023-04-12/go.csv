@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-12,go,4753,85,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2023-04-12,go,13176,30,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-04-12,go,110147,44,The Go programming language,golang,go,https://github.com/golang/go
+2023-04-12,go,3124,4,protoc plugin to generate polyglot message validators,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2023-04-12,go,15262,8,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-04-12,go,4518,3,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-04-12,go,66285,56,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2023-04-12,go,3766,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-04-12,go,6973,9,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-04-12,go,16543,63,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-04-12,go,12889,9,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-04-12,go,1530,19,THE NEXT FUTURE,XTLS,REALITY,https://github.com/XTLS/REALITY
+2023-04-12,go,8001,13,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-04-12,go,43127,19,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-04-12,go,377,14,"A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.",appleboy,CodeGPT,https://github.com/appleboy/CodeGPT
+2023-04-12,go,6020,8,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2023-04-12,go,5018,3,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2023-04-12,go,2861,3,safe and easy casting from one type to another in Go,spf13,cast,https://github.com/spf13/cast
+2023-04-12,go,3577,4,Cross-cloud cost allocation models for Kubernetes workloads,opencost,opencost,https://github.com/opencost/opencost
+2023-04-12,go,19379,7,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-04-12,go,8994,22,"Manage your dotfiles across multiple diverse machines, securely.",twpayne,chezmoi,https://github.com/twpayne/chezmoi
+2023-04-12,go,41816,18,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-04-12,go,78,8,"gpt chat web app for teams, sass or self hosting, support openai, claude model",swuecho,chat,https://github.com/swuecho/chat
+2023-04-12,go,4165,7,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2023-04-12,go,19375,12,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp

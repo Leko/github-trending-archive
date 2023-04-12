@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-12,vue,1779,576,AIGC 提示词可视化编辑器,Moonvy,OpenPromptStudio,https://github.com/Moonvy/OpenPromptStudio
+2023-04-12,vue,20638,24,"Wiki.js | A modern and powerful wiki app built on Node.js",requarks,wiki,https://github.com/requarks/wiki
+2023-04-12,vue,16669,329,用 Express 和 Vue3 搭建的 ChatGPT 演示网页,Chanzhaoyu,chatgpt-web,https://github.com/Chanzhaoyu/chatgpt-web
+2023-04-12,vue,19445,19,A Vue.js 3 UI Library made by Element team,element-plus,element-plus,https://github.com/element-plus/element-plus
+2023-04-12,vue,7669,4,Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布),DataV-Team,DataV,https://github.com/DataV-Team/DataV
+2023-04-12,vue,1304,3,JeecgBoot—Vue3版前端源码，采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。,jeecgboot,jeecgboot-vue3,https://github.com/jeecgboot/jeecgboot-vue3
+2023-04-12,vue,7947,13,Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）,pure-admin,vue-pure-admin,https://github.com/pure-admin/vue-pure-admin
+2023-04-12,vue,7911,4,Blazing fast scrolling for any amount of data,Akryum,vue-virtual-scroller,https://github.com/Akryum/vue-virtual-scroller
+2023-04-12,vue,53254,6,A Vue.js 2.0 UI Toolkit for Web,ElemeFE,element,https://github.com/ElemeFE/element
+2023-04-12,vue,731,28,"共享 ChatGPT 账号给多用户同时使用！A web application that allows multiple users to share one ChatGPT account at the same time, developed using fastapi & vue3. Supports GPT-4! 用于朋友之间共享或合租 ChatGPT 账号。使用 FastAPI + Vue3 开发。支持 ChatGPT Plus / 使用 GPT-4 / 用户请求限制等功能。",moeakwak,chatgpt-web-share,https://github.com/moeakwak/chatgpt-web-share
+2023-04-12,vue,81743,34,A magical vue admin https://panjiachen.github.io/vue-element-admin,PanJiaChen,vue-element-admin,https://github.com/PanJiaChen/vue-element-admin
+2023-04-12,vue,940,9,"基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.",nihaojob,vue-fabric-editor,https://github.com/nihaojob/vue-fabric-editor
+2023-04-12,vue,3956,4,CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议,crmeb,CRMEB,https://github.com/crmeb/CRMEB
+2023-04-12,vue,1048,5,"A set of background integration scheme based on vue3, element-plus, typescript4 and vite4",kailong321200875,vue-element-plus-admin,https://github.com/kailong321200875/vue-element-plus-admin
+2023-04-12,vue,17087,29,"A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",vbenjs,vue-vben-admin,https://github.com/vbenjs/vue-vben-admin
+2023-04-12,vue,1251,8,"A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统",un-pany,v3-admin-vite,https://github.com/un-pany/v3-admin-vite
+2023-04-12,vue,10522,6,mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。,macrozheng,mall-admin-web,https://github.com/macrozheng/mall-admin-web
+2023-04-12,vue,1008,1,uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水,umicro,uView2.0,https://github.com/umicro/uView2.0
+2023-04-12,vue,2435,1,"基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面",buqiyuan,vue3-antd-admin,https://github.com/buqiyuan/vue3-antd-admin
+2023-04-12,vue,1021,0,web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql)、redis(单机 哨兵 集群)、mongo统一管理操作平台。,may-fly,mayfly-go,https://github.com/may-fly/mayfly-go
+2023-04-12,vue,14005,6,"vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro",chuzhixin,vue-admin-better,https://github.com/chuzhixin/vue-admin-better
+2023-04-12,vue,17986,6,An enterprise-class UI components based on Ant Design and Vue.,vueComponent,ant-design-vue,https://github.com/vueComponent/ant-design-vue
+2023-04-12,vue,223,9,DDL/Streaming meta search engine,FrenchGithubUser,Hatt,https://github.com/FrenchGithubUser/Hatt
+2023-04-12,vue,8159,6,"一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档",chaitin,xray,https://github.com/chaitin/xray
+2023-04-12,vue,39937,8,Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用,bailicangdu,vue2-elm,https://github.com/bailicangdu/vue2-elm
