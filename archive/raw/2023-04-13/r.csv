@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-13,r,1770,3,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2023-04-13,r,5868,4,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2023-04-13,r,543,4,"GPT RStudio addins that enable GPT assisted coding, writing & analysis",MichelNivard,gptstudio,https://github.com/MichelNivard/gptstudio
+2023-04-13,r,49,10,Lightweight extension of base R's plot function,grantmcdermott,plot2,https://github.com/grantmcdermott/plot2
+2023-04-13,r,221,1,"gpttools extends gptstudio for package development to help you document code, write tests, or even explain code",JamesHWade,gpttools,https://github.com/JamesHWade/gpttools
+2023-04-13,r,492,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2023-04-13,r,771,1,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2023-04-13,r,428,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2023-04-13,r,1127,3,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2023-04-13,r,154,0,RNA velocity estimation in R,velocyto-team,velocyto.R,https://github.com/velocyto-team/velocyto.R
+2023-04-13,r,764,0,A universal enrichment tool for interpreting omics data,YuLab-SMU,clusterProfiler,https://github.com/YuLab-SMU/clusterProfiler
+2023-04-13,r,3268,1,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2023-04-13,r,384,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2023-04-13,r,900,0,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
+2023-04-13,r,217,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2023-04-13,r,388,0,"Fast, sensitive and accurate integration of single-cell data with Harmony",immunogenomics,harmony,https://github.com/immunogenomics/harmony
+2023-04-13,r,2360,2,An interactive graphing library for R,plotly,plotly.R,https://github.com/plotly/plotly.R
+2023-04-13,r,6,0,Access Synthetic CDISC Data from Archive Packages,insightsengineering,scda,https://github.com/insightsengineering/scda
+2023-04-13,r,4,0,,duncantl,RExcelXML,https://github.com/duncantl/RExcelXML
+2023-04-13,r,422,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2023-04-13,r,1029,1,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2023-04-13,r,1514,3,Statistical Rethinking Course for Jan-Mar 2023,rmcelreath,stat_rethinking_2023,https://github.com/rmcelreath/stat_rethinking_2023
+2023-04-13,r,831,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2023-04-13,r,1108,0,brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan,paul-buerkner,brms,https://github.com/paul-buerkner/brms
+2023-04-13,r,1515,1,R Interface to Python,rstudio,reticulate,https://github.com/rstudio/reticulate

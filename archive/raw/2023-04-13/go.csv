@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-13,go,110191,54,The Go programming language,golang,go,https://github.com/golang/go
+2023-04-13,go,20876,9,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-04-13,go,12702,18,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-04-13,go,14834,34,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-04-13,go,624,22,Kubectl plugin for OpenAI GPT,sozercan,kubectl-ai,https://github.com/sozercan/kubectl-ai
+2023-04-13,go,275,24,A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.,diemus,azure-openai-proxy,https://github.com/diemus/azure-openai-proxy
+2023-04-13,go,2911,3,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2023-04-13,go,16903,7,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-04-13,go,6173,5,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-04-13,go,13462,4,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-04-13,go,6031,11,Let's Encrypt/ACME client and library written in Go,go-acme,lego,https://github.com/go-acme/lego
+2023-04-13,go,2134,5,"Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.",projectdiscovery,proxify,https://github.com/projectdiscovery/proxify
+2023-04-13,go,3645,9,"Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",hakluke,hakrawler,https://github.com/hakluke/hakrawler
+2023-04-13,go,19890,7,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2023-04-13,go,3044,13,Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron,go-co-op,gocron,https://github.com/go-co-op/gocron
+2023-04-13,go,3600,1,Test infrastructure for the Kubernetes project.,kubernetes,test-infra,https://github.com/kubernetes/test-infra
+2023-04-13,go,2553,4,Docker CLI plugin for extended build capabilities with BuildKit,docker,buildx,https://github.com/docker/buildx
+2023-04-13,go,3063,5,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2023-04-13,go,2876,7,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2023-04-13,go,8014,8,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-04-13,go,14235,15,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2023-04-13,go,11476,22,Deliver Go binaries as fast and easily as possible,goreleaser,goreleaser,https://github.com/goreleaser/goreleaser
+2023-04-13,go,11180,6,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-04-13,go,3133,14,ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.,zitadel,zitadel,https://github.com/zitadel/zitadel
+2023-04-13,go,26232,10,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube

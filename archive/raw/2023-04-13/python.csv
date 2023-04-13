@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-13,python,295,65,Segment Anything Labelling Tool,anuragxel,salt,https://github.com/anuragxel/salt
+2023-04-13,python,867,178,"The official implementation of ""Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection""",IDEA-Research,GroundingDINO,https://github.com/IDEA-Research/GroundingDINO
+2023-04-13,python,582,77,Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。,soulteary,docker-prompt-generator,https://github.com/soulteary/docker-prompt-generator
+2023-04-13,python,1141,214,"Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc.",sail-sg,EditAnything,https://github.com/sail-sg/EditAnything
+2023-04-13,python,1792,980,Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU,ravenscroftj,turbopilot,https://github.com/ravenscroftj/turbopilot
+2023-04-13,python,1985,465,,biobootloader,wolverine,https://github.com/biobootloader/wolverine
+2023-04-13,python,163729,469,"A curated list of awesome Python frameworks, libraries, software and resources",vinta,awesome-python,https://github.com/vinta/awesome-python
+2023-04-13,python,1007,286,Example models using DeepSpeed,microsoft,DeepSpeedExamples,https://github.com/microsoft/DeepSpeedExamples
+2023-04-13,python,34063,6783,An experimental open-source attempt to make GPT-4 fully autonomous.,Torantulino,Auto-GPT,https://github.com/Torantulino/Auto-GPT
+2023-04-13,python,7858,267,"A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",oobabooga,text-generation-webui,https://github.com/oobabooga/text-generation-webui
+2023-04-13,python,9517,88,"Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",Sanster,lama-cleaner,https://github.com/Sanster/lama-cleaner
+2023-04-13,python,1134,74,A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440),brannondorsey,PassGAN,https://github.com/brannondorsey/PassGAN
+2023-04-13,python,8570,24,"Easy-to-use and powerful NLP library with  Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Text Classification,  Neural Search,  Question Answering,  Information Extraction,  Document Intelligence,  Sentiment Analysis and  Diffusion AIGC system etc.",PaddlePaddle,PaddleNLP,https://github.com/PaddlePaddle/PaddleNLP
+2023-04-13,python,4440,287,中文LLaMA&Alpaca大语言模型+本地CPU部署 (Chinese LLaMA & Alpaca LLMs),ymcui,Chinese-LLaMA-Alpaca,https://github.com/ymcui/Chinese-LLaMA-Alpaca
+2023-04-13,python,1013,46,"A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",Azure-Samples,azure-search-openai-demo,https://github.com/Azure-Samples/azure-search-openai-demo
+2023-04-13,python,12332,8,The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev,netbox-community,netbox,https://github.com/netbox-community/netbox
+2023-04-13,python,21626,25,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.,facebookresearch,fairseq,https://github.com/facebookresearch/fairseq
+2023-04-13,python,1868,9,Evolutionary Scale Modeling (esm): Pretrained language models for proteins,facebookresearch,esm,https://github.com/facebookresearch/esm
+2023-04-13,python,388,64,Your target's phone's front and back cameras can be accessed by sending a link.,hasanfirnas,symbiote,https://github.com/hasanfirnas/symbiote
+2023-04-13,python,17330,11,Graph Neural Network Library for PyTorch,pyg-team,pytorch_geometric,https://github.com/pyg-team/pytorch_geometric
+2023-04-13,python,1899,40,ModelScope: bring the notion of Model-as-a-Service to life.,modelscope,modelscope,https://github.com/modelscope/modelscope
+2023-04-13,python,4618,5,The Meson Build System,mesonbuild,meson,https://github.com/mesonbuild/meson
+2023-04-13,python,352,87,Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).,fudan-zvg,Semantic-Segment-Anything,https://github.com/fudan-zvg/Semantic-Segment-Anything
+2023-04-13,python,1716,9,Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models,google,BIG-bench,https://github.com/google/BIG-bench
+2023-04-13,python,3843,28,"The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.",mage-ai,mage-ai,https://github.com/mage-ai/mage-ai
