@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-14,rust,11430,150,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2023-04-14,rust,13219,16,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-04-14,rust,4415,595,Application to comfortably monitor your network traffic,GyulyVGC,sniffnet,https://github.com/GyulyVGC/sniffnet
+2023-04-14,rust,206,29,The High Performance Proxy/Load Balancer,lsk569937453,silverwind,https://github.com/lsk569937453/silverwind
+2023-04-14,rust,11604,17,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-04-14,rust,18713,48,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-04-14,rust,9712,30,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-04-14,rust,3490,13,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-04-14,rust,217,16,"Believe in AI democratization. llama for nodejs backed by llama-rs and llama.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna model.",hlhr202,llama-node,https://github.com/hlhr202/llama-node
+2023-04-14,rust,3286,11,Sub-second search & analytics engine on cloud storage,quickwit-oss,quickwit,https://github.com/quickwit-oss/quickwit
+2023-04-14,rust,1532,3,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2023-04-14,rust,3290,30,"Code for ""Zero To Production In Rust"", a book on API development using Rust.",LukeMathWalker,zero-to-production,https://github.com/LukeMathWalker/zero-to-production
+2023-04-14,rust,8484,10,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-04-14,rust,14758,19,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2023-04-14,rust,237,27,"A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.",supabase,edge-runtime,https://github.com/supabase/edge-runtime
+2023-04-14,rust,165,13,An Intel 8086 Emulator created in Rust.,YJDoc2,8086-Emulator,https://github.com/YJDoc2/8086-Emulator
+2023-04-14,rust,1691,9,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
+2023-04-14,rust,8431,96,"React-like GUI library for desktop, web, mobile, TUI, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-04-14,rust,88916,23,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-04-14,rust,5101,4,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-04-14,rust,1708,5,Logging implementation for Rust,rust-lang,log,https://github.com/rust-lang/log
+2023-04-14,rust,271,3,zkSync era,matter-labs,zksync-era,https://github.com/matter-labs/zksync-era
+2023-04-14,rust,5801,17,A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-04-14,rust,3741,16,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2023-04-14,rust,10190,7,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
