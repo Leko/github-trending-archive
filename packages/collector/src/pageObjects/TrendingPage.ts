@@ -82,7 +82,7 @@ export class TrendingPage {
       }
       return elements.map((el) => {
         const url =
-          (el.querySelector("h1 a") as HTMLAnchorElement)!.getAttribute(
+          (el.querySelector("h2 a") as HTMLAnchorElement)!.getAttribute(
             "href"
           ) ?? "";
         const description = getText(el.querySelector("p")) ?? "";
