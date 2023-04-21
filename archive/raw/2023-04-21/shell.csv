@@ -7,10 +7,10 @@ date,language,stargazers,starsToday,description,owner,name,url
 2023-04-21,shell,39592,49,Official electron build of draw.io,jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop
 2023-04-21,shell,124,14,An OCI base image of Fedora with batteries included,ublue-os,main,https://github.com/ublue-os/main
 2023-04-21,shell,9865,10,"Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.",angristan,openvpn-install,https://github.com/angristan/openvpn-install
-2023-04-21,shell,1292,4,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2023-04-21,shell,1293,4,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
 2023-04-21,shell,6715,2,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
 2023-04-21,shell,1954,6,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
-2023-04-21,shell,3210,12,🔰 Home Assistant Operating System,home-assistant,operating-system,https://github.com/home-assistant/operating-system
+2023-04-21,shell,3210,12,Home Assistant Operating System,home-assistant,operating-system,https://github.com/home-assistant/operating-system
 2023-04-21,shell,1335,26,"multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",hiddify,hiddify-config,https://github.com/hiddify/hiddify-config
 2023-04-21,shell,947,2,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
 2023-04-21,shell,1360,5,支持Xray/Trojan-Go/Hysteria/NaiveProxy的多用户Web管理面板,trojanpanel,install-script,https://github.com/trojanpanel/install-script
@@ -22,5 +22,5 @@ date,language,stargazers,starsToday,description,owner,name,url
 2023-04-21,shell,10983,7,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
 2023-04-21,shell,2097,3,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
 2023-04-21,shell,10726,6,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
-2023-04-21,shell,2004,1,"📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...",nextcloud,nextcloudpi,https://github.com/nextcloud/nextcloudpi
+2023-04-21,shell,2004,1,"Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...",nextcloud,nextcloudpi,https://github.com/nextcloud/nextcloudpi
 2023-04-21,shell,323,4,A custom Revanced Patcher but with TUI,decipher3114,Revancify,https://github.com/decipher3114/Revancify

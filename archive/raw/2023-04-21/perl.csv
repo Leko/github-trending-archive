@@ -17,8 +17,8 @@ date,language,stargazers,starsToday,description,owner,name,url
 2023-04-21,perl,2103,1,Client for PPP+SSL VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
 2023-04-21,perl,2044,1,ExifTool meta information reader/writer,exiftool,exiftool,https://github.com/exiftool/exiftool
 2023-04-21,perl,864,1,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
-2023-04-21,perl,655,1,⚡ ♒ Rapid prokaryotic genome annotation,tseemann,prokka,https://github.com/tseemann/prokka
-2023-04-21,perl,376,0,✂️ ⚡ Rapid haploid variant calling and core genome alignment,tseemann,snippy,https://github.com/tseemann/snippy
+2023-04-21,perl,655,1,Rapid prokaryotic genome annotation,tseemann,prokka,https://github.com/tseemann/prokka
+2023-04-21,perl,376,0,Rapid haploid variant calling and core genome alignment,tseemann,snippy,https://github.com/tseemann/snippy
 2023-04-21,perl,375,0,"A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",FelixKrueger,TrimGalore,https://github.com/FelixKrueger/TrimGalore
 2023-04-21,perl,6636,5,Nikto web server scanner,sullo,nikto,https://github.com/sullo/nikto
 2023-04-21,perl,0,0,This repo is a fork from https://github.com/brendangregg/FlameGraph,mongodb-forks,flamegraph,https://github.com/mongodb-forks/flamegraph
