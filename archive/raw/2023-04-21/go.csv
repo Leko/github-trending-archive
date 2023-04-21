@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-21,go,47776,28,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-04-21,go,92,14,,devfullcycle,fclx,https://github.com/devfullcycle/fclx
+2023-04-21,go,6897,4,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2023-04-21,go,65738,11,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-04-21,go,2668,96,现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-04-21,go,5828,4,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS",casdoor,casdoor,https://github.com/casdoor/casdoor
+2023-04-21,go,43211,12,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-04-21,go,7367,2,The Official Golang driver for MongoDB,mongodb,mongo-go-driver,https://github.com/mongodb/mongo-go-driver
+2023-04-21,go,13753,14,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-04-21,go,8106,11,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2023-04-21,go,17954,10,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-04-21,go,36977,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-04-21,go,22686,12,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-04-21,go,19047,7,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-04-21,go,8548,5,Swagger 2.0 implementation for go,go-swagger,go-swagger,https://github.com/go-swagger/go-swagger
+2023-04-21,go,329,27,GC2 is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrate data using Google Drive.,looCiprian,GC2-sheet,https://github.com/looCiprian/GC2-sheet
+2023-04-21,go,68067,30,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-04-21,go,11239,9,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-04-21,go,968,8,Go library for the WhatsApp web multidevice API,tulir,whatsmeow,https://github.com/tulir/whatsmeow
+2023-04-21,go,32151,13,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-04-21,go,15320,9,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-04-21,go,14514,6,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2023-04-21,go,27546,12,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-04-21,go,3109,50,"🚤 Cross-platform, unofficial CLI for Cloudflare Warp",ViRb3,wgcf,https://github.com/ViRb3/wgcf
+2023-04-21,go,9552,6,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
