@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-22,rust,335,47,A blazing fast OP Stack rollup client written in Rust,a16z,magi,https://github.com/a16z/magi
+2023-04-22,rust,6199,55,Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-04-22,rust,13428,137,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff
+2023-04-22,rust,13286,13,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-04-22,rust,12974,6,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-04-22,rust,2818,27,An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.,rust-lang,regex,https://github.com/rust-lang/regex
+2023-04-22,rust,10241,8,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2023-04-22,rust,80513,52,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-04-22,rust,23342,20,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-04-22,rust,21416,15,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2023-04-22,rust,327,42,"An efficient container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.",kuasar-io,kuasar,https://github.com/kuasar-io/kuasar
+2023-04-22,rust,6043,24,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2023-04-22,rust,11596,16,Just a command runner,casey,just,https://github.com/casey/just
+2023-04-22,rust,15004,12,The leading WebAssembly Runtime supporting WASI and Emscripten,wasmerio,wasmer,https://github.com/wasmerio/wasmer
+2023-04-22,rust,7545,7,A link aggregator and forum for the fediverse,LemmyNet,lemmy,https://github.com/LemmyNet/lemmy
+2023-04-22,rust,2249,3,A collection of Solana programs maintained by Solana Labs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2023-04-22,rust,35,7,Choose Rust types via boolean conditions,nvzqz,condtype,https://github.com/nvzqz/condtype
+2023-04-22,rust,40,11,aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring.,awslabs,aws-lc-rs,https://github.com/awslabs/aws-lc-rs
+2023-04-22,rust,62499,42,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-04-22,rust,8251,1,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2023-04-22,rust,1831,4,,move-language,move,https://github.com/move-language/move
+2023-04-22,rust,1041,10,Interactive visualizations of Rust at compile-time and run-time,cognitive-engineering-lab,aquascope,https://github.com/cognitive-engineering-lab/aquascope
+2023-04-22,rust,10214,6,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2023-04-22,rust,1486,4,Flowistry is an IDE plugin for Rust that helps you focus on relevant code.,willcrichton,flowistry,https://github.com/willcrichton/flowistry
+2023-04-22,rust,7802,5,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
