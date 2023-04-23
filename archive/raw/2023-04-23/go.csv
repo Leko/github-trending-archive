@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-23,go,276,26,A TLS server scanner for Reality,XTLS,RealiTLScanner,https://github.com/XTLS/RealiTLScanner
+2023-04-23,go,37000,8,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-04-23,go,24600,73,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-04-23,go,40744,59,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2023-04-23,go,9938,22,Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2023-04-23,go,8153,20,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2023-04-23,go,12152,3,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2023-04-23,go,47828,13,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-04-23,go,9523,6,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2023-04-23,go,11633,10,"A scalable overlay networking tool with a focus on performance, simplicity and security",slackhq,nebula,https://github.com/slackhq/nebula
+2023-04-23,go,1355,59,This repo contains all my learning related to DevOps,Pradumnasaraf,DevOps,https://github.com/Pradumnasaraf/DevOps
+2023-04-23,go,6756,4,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2023-04-23,go,10959,13,Find credentials all over the place,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2023-04-23,go,7418,22,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2023-04-23,go,9564,4,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2023-04-23,go,3153,20,"Cross-platform, unofficial CLI for Cloudflare Warp",ViRb3,wgcf,https://github.com/ViRb3/wgcf
+2023-04-23,go,326,16,"Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-04-23,go,68113,21,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-04-23,go,2632,5,"Hubble - Network, Service & Security Observability for Kubernetes using eBPF",cilium,hubble,https://github.com/cilium/hubble
+2023-04-23,go,974,4,Go library for the WhatsApp web multidevice API,tulir,whatsmeow,https://github.com/tulir/whatsmeow
+2023-04-23,go,10964,10,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2023-04-23,go,9322,6,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2023-04-23,go,10565,5,CoreDNS is a DNS server that chains plugins,coredns,coredns,https://github.com/coredns/coredns
+2023-04-23,go,116,9,,devfullcycle,fclx,https://github.com/devfullcycle/fclx
+2023-04-23,go,6461,5,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
