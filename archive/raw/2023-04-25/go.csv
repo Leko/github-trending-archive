@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-25,go,771,343,"Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-04-25,go,24737,82,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-04-25,go,594,25,llama.go is like llama.cpp in pure Golang!,gotzmann,llama.go,https://github.com/gotzmann/llama.go
+2023-04-25,go,66751,51,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2023-04-25,go,10745,11,即时通讯IM,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2023-04-25,go,207,15,"chat web app for teams, sass with user management and ratelimit, support openai, claude model or custom model",swuecho,chat,https://github.com/swuecho/chat
+2023-04-25,go,1507,64,This repo contains all my learning related to DevOps,Pradumnasaraf,DevOps,https://github.com/Pradumnasaraf/DevOps
+2023-04-25,go,4128,14,The Havoc Framework.,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2023-04-25,go,4574,10,基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。,xinliangnote,go-gin-api,https://github.com/xinliangnote/go-gin-api
+2023-04-25,go,2966,18,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,youshandefeiyang,IPTV,https://github.com/youshandefeiyang/IPTV
+2023-04-25,go,10295,4,"Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io",labring,sealos,https://github.com/labring/sealos
+2023-04-25,go,3817,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-04-25,go,2718,11,A modern tool for managing database schemas,ariga,atlas,https://github.com/ariga/atlas
+2023-04-25,go,17650,70,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-04-25,go,33923,5,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-04-25,go,20000,28,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2023-04-25,go,12381,27,GO Simple Tunnel - a simple tunnel written in golang,ginuerzh,gost,https://github.com/ginuerzh/gost
+2023-04-25,go,50777,28,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-04-25,go,5641,12,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2023-04-25,go,14944,14,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-04-25,go,13170,4,"Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت",getlantern,lantern,https://github.com/getlantern/lantern
+2023-04-25,go,16179,14,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2023-04-25,go,5381,12,Database CI/CD for DevOps teams. https://www.bytebase.com,bytebase,bytebase,https://github.com/bytebase/bytebase
+2023-04-25,go,2615,1,"Reference implementation of the Filecoin protocol, written in Go",filecoin-project,lotus,https://github.com/filecoin-project/lotus
+2023-04-25,go,3947,32,飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验  语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出,ConnectAI-E,Feishu-OpenAI,https://github.com/ConnectAI-E/Feishu-OpenAI
