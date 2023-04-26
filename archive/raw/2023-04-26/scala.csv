@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-26,scala,2759,2,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-04-26,scala,5303,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-04-26,scala,8642,6,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2023-04-26,scala,884,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2023-04-26,scala,12676,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-04-26,scala,1587,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-04-26,scala,13025,7,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2023-04-26,scala,5919,5,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-04-26,scala,35583,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-04-26,scala,506,4,An FP game engine for Scala.,PurpleKingdomGames,indigo,https://github.com/PurpleKingdomGames/indigo
+2023-04-26,scala,2451,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2023-04-26,scala,55949,87,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2023-04-26,scala,148,0,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2023-04-26,scala,4664,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2023-04-26,scala,22,7,a spacechain on signet with anyprevout,nbd-wtf,soma,https://github.com/nbd-wtf/soma
+2023-04-26,scala,36,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2023-04-26,scala,193,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2023-04-26,scala,9,0,,yanns,play2-scala-DI,https://github.com/yanns/play2-scala-DI
+2023-04-26,scala,2581,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-04-26,scala,49,0,Java and Scala SDKs for Kalix,lightbend,kalix-jvm-sdk,https://github.com/lightbend/kalix-jvm-sdk
+2023-04-26,scala,5,0,Codacy Tool for Stylelint,codacy,codacy-stylelint,https://github.com/codacy/codacy-stylelint
+2023-04-26,scala,2595,1,Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala,slick,slick,https://github.com/slick/slick
+2023-04-26,scala,4064,23,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-04-26,scala,359,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2023-04-26,scala,38,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo

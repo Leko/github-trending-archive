@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-26,kotlin,43891,8,"Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",square,okhttp,https://github.com/square/okhttp
+2023-04-26,kotlin,5353,4,Static code analysis for Kotlin,detekt,detekt,https://github.com/detekt/detekt
+2023-04-26,kotlin,10997,20,A fully functional Android app built entirely with Kotlin and Jetpack Compose,android,nowinandroid,https://github.com/android/nowinandroid
+2023-04-26,kotlin,459,0,Opensource automated insulin delivery system (closed loop),nightscout,AndroidAPS,https://github.com/nightscout/AndroidAPS
+2023-04-26,kotlin,16742,4,A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.,android,sunflower,https://github.com/android/sunflower
+2023-04-26,kotlin,3436,9,"Android app for streaming and downloading Movies, TV-Series and Anime.",recloudstream,cloudstream,https://github.com/recloudstream/cloudstream
+2023-04-26,kotlin,7060,4,Kotlin SQL Framework,JetBrains,Exposed,https://github.com/JetBrains/Exposed
+2023-04-26,kotlin,288,4,"Powerful image resizer with width/height selection, cropping, EXIF editing, quality and output image type picking and batch processing feature.",T8RIN,ImageResizer,https://github.com/T8RIN/ImageResizer
+2023-04-26,kotlin,22243,23,Free and open source manga reader for Android.,tachiyomiorg,tachiyomi,https://github.com/tachiyomiorg/tachiyomi
+2023-04-26,kotlin,4406,1,Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.,androidx,androidx,https://github.com/androidx/androidx
+2023-04-26,kotlin,2638,1,GraphQL for Java with Spring Boot made easy.,Netflix,dgs-framework,https://github.com/Netflix/dgs-framework
+2023-04-26,kotlin,8691,15,短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正,pppscn,SmsForwarder,https://github.com/pppscn/SmsForwarder
+2023-04-26,kotlin,451,13,SD Maid 2/SE is Android's most thorough cleaning tool.,d4rken-org,sdmaid-se,https://github.com/d4rken-org/sdmaid-se
+2023-04-26,kotlin,7975,3,Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform,InsertKoinIO,koin,https://github.com/InsertKoinIO/koin
+2023-04-26,kotlin,4267,4,Multiple samples showing the best practices in camera APIs on Android.,android,camera-samples,https://github.com/android/camera-samples
+2023-04-26,kotlin,3637,4,"An Android Anilist client, which lets you stream & download Anime & Manga.",saikou-app,saikou,https://github.com/saikou-app/saikou
+2023-04-26,kotlin,83,17,基于组件化+模块化+Kotlin+协程+Flow+Retrofit+Jetpack+MVVM+短视频架构实现的WanAndroid客户端,suming77,SumTea_Android,https://github.com/suming77/SumTea_Android
+2023-04-26,kotlin,2183,8,Template repository for creating plugins for IntelliJ Platform,JetBrains,intellij-platform-plugin-template,https://github.com/JetBrains/intellij-platform-plugin-template
+2023-04-26,kotlin,6447,4,A simple and modern Java and Kotlin web framework,javalin,javalin,https://github.com/javalin/javalin
+2023-04-26,kotlin,15507,20,Official Jetpack Compose samples.,android,compose-samples,https://github.com/android/compose-samples
+2023-04-26,kotlin,3546,3,Painless Mobile UI Automation,mobile-dev-inc,maestro,https://github.com/mobile-dev-inc/maestro
+2023-04-26,kotlin,57,15,This application is developed to display the images created by MidJourney. The application is developed with Compose Multiplatform and works on Android and iOS platforms.,mbakgun,midjourney-images-compose-multiplatform,https://github.com/mbakgun/midjourney-images-compose-multiplatform
+2023-04-26,kotlin,1927,2,A small testing library for kotlinx.coroutines Flow,cashapp,turbine,https://github.com/cashapp/turbine
+2023-04-26,kotlin,6670,15,哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.,yujincheng08,BiliRoaming,https://github.com/yujincheng08/BiliRoaming
+2023-04-26,kotlin,42575,15,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,android,architecture-samples,https://github.com/android/architecture-samples

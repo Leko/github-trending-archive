@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-26,go,989,114,"Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-04-26,go,406,58,"Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.",berachain,polaris,https://github.com/berachain/polaris
+2023-04-26,go,10068,39,Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2023-04-26,go,2959,5,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2023-04-26,go,12648,21,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-04-26,go,8049,4,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2023-04-26,go,22283,18,"Learn and understand Docker&Container technologies, with real DevOps practice!",yeasy,docker_practice,https://github.com/yeasy/docker_practice
+2023-04-26,go,164,13,Go source code for Bluesky's atproto services. NOT STABLE (yet),bluesky-social,indigo,https://github.com/bluesky-social/indigo
+2023-04-26,go,15145,21,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-04-26,go,7196,2,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2023-04-26,go,4552,3,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-04-26,go,1682,5,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2023-04-26,go,9634,7,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2023-04-26,go,3174,7,Protobuf validation - v2 coming soon.,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2023-04-26,go,5127,6,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2023-04-26,go,37683,51,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2023-04-26,go,3777,7,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2023-04-26,go,10549,14,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2023-04-26,go,14956,12,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-04-26,go,6274,11,Automated code review tool integrated with any code analysis tools regardless of programming language,reviewdog,reviewdog,https://github.com/reviewdog/reviewdog
+2023-04-26,go,6245,31,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2023-04-26,go,2875,4,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2023-04-26,go,13511,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-04-26,go,68180,31,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-04-26,go,863,3,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
