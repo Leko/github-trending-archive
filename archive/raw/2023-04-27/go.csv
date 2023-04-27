@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-27,go,1212,341,"Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-04-27,go,8376,22,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk
+2023-04-27,go,1619,47,Giving Kubernetes SRE superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2023-04-27,go,11059,43,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2023-04-27,go,20042,11,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2023-04-27,go,22545,8,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2023-04-27,go,20137,22,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2023-04-27,go,3179,9,Protobuf validation - v2 coming soon.,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2023-04-27,go,6275,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-04-27,go,5942,11,"Also known as rtsp-simple-server. ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams.",aler9,mediamtx,https://github.com/aler9/mediamtx
+2023-04-27,go,20931,5,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-04-27,go,12674,23,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-04-27,go,6755,3,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2023-04-27,go,5650,23,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2023-04-27,go,12225,2,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2023-04-27,go,13005,10,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-04-27,go,17508,7,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2023-04-27,go,4604,8,基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。,xinliangnote,go-gin-api,https://github.com/xinliangnote/go-gin-api
+2023-04-27,go,11259,7,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2023-04-27,go,11622,4,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2023-04-27,go,6088,4,A Go port of Ruby's dotenv library (Loads environment variables from .env files),joho,godotenv,https://github.com/joho/godotenv
+2023-04-27,go,6869,2,Lightning Network Daemon,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2023-04-27,go,13246,4,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-04-27,go,7901,3,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2023-04-27,go,8798,10,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
