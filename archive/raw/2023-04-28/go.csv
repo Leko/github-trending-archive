@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-28,go,1354,98,"Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-04-28,go,1694,37,Giving Kubernetes SRE superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2023-04-28,go,122,22,一套让飞书调用 midjourney 的实现方案,ConnectAI-E,Feishu-Midjourney,https://github.com/ConnectAI-E/Feishu-Midjourney
+2023-04-28,go,8922,5,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2023-04-28,go,7973,9,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2023-04-28,go,20158,23,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2023-04-28,go,15801,14,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages,pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-04-28,go,7213,7,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2023-04-28,go,8465,5,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-04-28,go,37780,45,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2023-04-28,go,11629,6,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2023-04-28,go,17699,15,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-04-28,go,37067,16,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-04-28,go,22554,12,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2023-04-28,go,5586,4,Provides packet processing capabilities for Go,google,gopacket,https://github.com/google/gopacket
+2023-04-28,go,8389,18,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk
+2023-04-28,go,4523,4,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-04-28,go,9339,4,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2023-04-28,go,2972,2,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2023-04-28,go,1112,54,惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！,cherish-chat,xxim-server,https://github.com/cherish-chat/xxim-server
+2023-04-28,go,8789,6,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2023-04-28,go,13016,9,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-04-28,go,12689,7,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-04-28,go,22926,14,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
