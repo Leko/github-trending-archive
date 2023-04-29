@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-29,lua,11730,9,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-04-29,lua,1120,6,"Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2023-04-29,lua,4858,10,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2023-04-29,lua,972,6,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
+2023-04-29,lua,33,8,Archiving imgur.,ArchiveTeam,imgur-grab,https://github.com/ArchiveTeam/imgur-grab
+2023-04-29,lua,1529,7,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-04-29,lua,158,3,Canary Server 12.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2023-04-29,lua,1434,2,Show code context,nvim-treesitter,nvim-treesitter-context,https://github.com/nvim-treesitter/nvim-treesitter-context
+2023-04-29,lua,5271,5,Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets,lsyncd,lsyncd,https://github.com/lsyncd/lsyncd
+2023-04-29,lua,64,3,Neovim config,adibhanna,nvim,https://github.com/adibhanna/nvim
+2023-04-29,lua,2702,13,Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2023-04-29,lua,295,2,Neovim plugin to manage global and project-local settings,folke,neoconf.nvim,https://github.com/folke/neoconf.nvim
+2023-04-29,lua,3161,1,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2023-04-29,lua,2724,4,improve neovim lsp experience,nvimdev,lspsaga.nvim,https://github.com/nvimdev/lspsaga.nvim
+2023-04-29,lua,170,5,"Configuration files/scripts for (Arch) Linux, Neovim and friends.",AlexvZyl,.dotfiles,https://github.com/AlexvZyl/.dotfiles
+2023-04-29,lua,12691,5,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-04-29,lua,1493,9,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-04-29,lua,9843,17,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-04-29,lua,34709,12,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-04-29,lua,608,29,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2023-04-29,lua,515,1,,theHamsta,nvim-dap-virtual-text,https://github.com/theHamsta/nvim-dap-virtual-text
+2023-04-29,lua,5163,5,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-04-29,lua,1170,2,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2023-04-29,lua,1445,4,A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.,simrat39,symbols-outline.nvim,https://github.com/simrat39/symbols-outline.nvim
+2023-04-29,lua,480,0,A plugin to visualise and resolve merge conflicts in neovim,akinsho,git-conflict.nvim,https://github.com/akinsho/git-conflict.nvim

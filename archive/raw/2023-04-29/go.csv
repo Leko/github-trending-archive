@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-29,go,18933,7,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-04-29,go,5978,16,"Also known as rtsp-simple-server. ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams.",aler9,mediamtx,https://github.com/aler9/mediamtx
+2023-04-29,go,5645,3,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-04-29,go,1832,153,Giving Kubernetes Superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2023-04-29,go,12362,19,Protect and discover secrets using Gitleaks,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2023-04-29,go,4410,5,The open source high performance data integration platform built for developers.,cloudquery,cloudquery,https://github.com/cloudquery/cloudquery
+2023-04-29,go,11106,19,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2023-04-29,go,13029,19,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-04-29,go,11631,6,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2023-04-29,go,7989,21,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2023-04-29,go,90,6,A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon,codingo,dorky,https://github.com/codingo/dorky
+2023-04-29,go,36590,13,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2023-04-29,go,12838,5,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-04-29,go,7069,6,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-04-29,go,12751,8,Simple and flexible tool for managing secrets,mozilla,sops,https://github.com/mozilla/sops
+2023-04-29,go,5380,3,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2023-04-29,go,1696,11,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2023-04-29,go,6799,2,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",uber,cadence,https://github.com/uber/cadence
+2023-04-29,go,42770,13,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2023-04-29,go,1899,5,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",helmfile,helmfile,https://github.com/helmfile/helmfile
+2023-04-29,go,3054,0,Gatekeeper - Policy Controller for Kubernetes,open-policy-agent,gatekeeper,https://github.com/open-policy-agent/gatekeeper
+2023-04-29,go,4062,0,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2023-04-29,go,20713,17,Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2023-04-29,go,7596,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-04-29,go,4400,1,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf

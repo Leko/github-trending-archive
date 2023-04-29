@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-29,rust,3607,162,"An Open Source Financial Switch to make Payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2023-04-29,rust,4354,427,an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…,mitsuhiko,rye,https://github.com/mitsuhiko/rye
+2023-04-29,rust,20300,15,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-04-29,rust,24406,59,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2023-04-29,rust,8755,23,"React-like GUI library for desktop, web, mobile, TUI, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-04-29,rust,15422,26,All Algorithms implemented in Rust,TheAlgorithms,Rust,https://github.com/TheAlgorithms/Rust
+2023-04-29,rust,4251,42,A fast Rust-based web bundler,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2023-04-29,rust,21471,8,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2023-04-29,rust,62827,63,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-04-29,rust,3567,5,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-04-29,rust,16738,212,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-04-29,rust,1458,8,"Modern columnar data format for ML implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",eto-ai,lance,https://github.com/eto-ai/lance
+2023-04-29,rust,795,2,A command line utility to work with Sentry.,getsentry,sentry-cli,https://github.com/getsentry/sentry-cli
+2023-04-29,rust,21042,19,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-04-29,rust,3284,7,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2023-04-29,rust,14769,20,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-04-29,rust,7895,15,"Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
+2023-04-29,rust,1355,4,Rare and exotic sats,casey,ord,https://github.com/casey/ord
+2023-04-29,rust,4127,21,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2023-04-29,rust,34057,37,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy,https://github.com/AppFlowy-IO/AppFlowy
+2023-04-29,rust,1438,19,An experimental Rust native UI framework,linebender,xilem,https://github.com/linebender/xilem
+2023-04-29,rust,1718,21,"A modern, cross-platform, and multi-threaded filesystem and disk usage tool that respects hidden file and gitignore rules.",solidiquis,erdtree,https://github.com/solidiquis/erdtree
+2023-04-29,rust,8145,2,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-04-29,rust,278,63,A memory safe implementation of sudo and su.,memorysafety,sudo-rs,https://github.com/memorysafety/sudo-rs
+2023-04-29,rust,209,17,An overengineered workaround to Discord not supporting audio when screensharing on Linux.,Enitoni,pulseshitter,https://github.com/Enitoni/pulseshitter
