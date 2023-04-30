@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-04-30,scala,11353,3,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2023-04-30,scala,56229,99,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2023-04-30,scala,19,0,赤兔实时计算平台是基于 Apache Flink 构建的企业级、一站式、高性能、低门槛大数据实时计算平台，广泛适用于流式数据应用开发场景。,galaxy-data-cn,chitu-sdp,https://github.com/galaxy-data-cn/chitu-sdp
+2023-04-30,scala,5307,0,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-04-30,scala,1595,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-04-30,scala,13038,1,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2023-04-30,scala,6038,0,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2023-04-30,scala,0,0,An example to show my problem with issue #200 if sbt-idea,jm-g,sbt-example,https://github.com/jm-g/sbt-example
+2023-04-30,scala,768,1,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2023-04-30,scala,35618,6,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-04-30,scala,1771,1,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2023-04-30,scala,5903,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-04-30,scala,1318,1,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc,joernio,joern,https://github.com/joernio/joern
+2023-04-30,scala,4240,7,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-04-30,scala,193,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2023-04-30,scala,1401,0,"Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",akka,alpakka-kafka,https://github.com/akka/alpakka-kafka
+2023-04-30,scala,12679,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-04-30,scala,8897,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2023-04-30,scala,5930,3,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-04-30,scala,2586,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-04-30,scala,530,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2023-04-30,scala,296,6,Kafka-based message queue,softwaremill,kmq,https://github.com/softwaremill/kmq
+2023-04-30,scala,2761,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-04-30,scala,1905,0,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2023-04-30,scala,441,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
