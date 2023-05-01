@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-01,go,17007,18,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2023-05-01,go,229,17,Go source code for Bluesky's atproto services. NOT STABLE (yet),bluesky-social,indigo,https://github.com/bluesky-social/indigo
+2023-05-01,go,29,11,GoLang library for generating cryptographically secure random numbers using the crypto/rand package,imusmanmalik,randomizer,https://github.com/imusmanmalik/randomizer
+2023-05-01,go,3829,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-05-01,go,4935,23,简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain),jeessy2,ddns-go,https://github.com/jeessy2/ddns-go
+2023-05-01,go,12718,45,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-05-01,go,13501,28,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2023-05-01,go,6632,11,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2023-05-01,go,2026,9,"Golang 算法竞赛模板库 | Solutions to Codeforces by Go",EndlessCheng,codeforces-go,https://github.com/EndlessCheng/codeforces-go
+2023-05-01,go,1420,5,Sonne tanken,evcc-io,evcc,https://github.com/evcc-io/evcc
+2023-05-01,go,6841,22,"Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud! - https://ddosify.com",ddosify,ddosify,https://github.com/ddosify/ddosify
+2023-05-01,go,25733,8,AI-Powered Photos App for the Decentralized Web,photoprism,photoprism,https://github.com/photoprism/photoprism
+2023-05-01,go,36203,21,"Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2023-05-01,go,22296,16,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2023-05-01,go,3538,6,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",kopia,kopia,https://github.com/kopia/kopia
+2023-05-01,go,19523,5,Learn Go with test-driven development,quii,learn-go-with-tests,https://github.com/quii/learn-go-with-tests
+2023-05-01,go,17244,1,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",buger,goreplay,https://github.com/buger/goreplay
+2023-05-01,go,4536,2,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-05-01,go,5487,3,"Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",apernet,hysteria,https://github.com/apernet/hysteria
+2023-05-01,go,2278,1,Determined: Deep Learning Training Platform,determined-ai,determined,https://github.com/determined-ai/determined
+2023-05-01,go,15686,32,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2023-05-01,go,9842,3,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2023-05-01,go,189,25,"Trainbot watches a piece of train track, detects trains, and stitches together images of them. Computer vision exercise in Go.",jo-m,trainbot,https://github.com/jo-m/trainbot
+2023-05-01,go,1287,3,"minerproxy,minerproxy,minerproxy,minerproxy,minerproxy",FxPool,FXMinerProxy,https://github.com/FxPool/FXMinerProxy
+2023-05-01,go,3497,9,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",qdm12,gluetun,https://github.com/qdm12/gluetun
