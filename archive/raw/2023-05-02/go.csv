@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-02,go,20804,18,Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2023-05-02,go,238,7,Go source code for Bluesky's atproto services. NOT STABLE (yet),bluesky-social,indigo,https://github.com/bluesky-social/indigo
+2023-05-02,go,12765,33,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-05-02,go,17020,13,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2023-05-02,go,34,5,GoLang library for generating cryptographically secure random numbers using the crypto/rand package,imusmanmalik,randomizer,https://github.com/imusmanmalik/randomizer
+2023-05-02,go,1801,40,"Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for instance: llama.cpp, alpaca.cpp, gpt4all.cpp, vicuna, koala, gpt4all-j, cerebras",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-05-02,go,12539,15,Protect and discover secrets using Gitleaks,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2023-05-02,go,13512,19,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2023-05-02,go,3333,14,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-05-02,go,6856,22,"Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com",ddosify,ddosify,https://github.com/ddosify/ddosify
+2023-05-02,go,36215,15,"Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2023-05-02,go,41206,38,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2023-05-02,go,6646,17,Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2023-05-02,go,1958,23,Giving Kubernetes Superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2023-05-02,go,26351,8,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2023-05-02,go,38258,20,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2023-05-02,go,32158,10,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2023-05-02,go,4837,28,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,projectdiscovery,httpx,https://github.com/projectdiscovery/httpx
+2023-05-02,go,51893,16,A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2023-05-02,go,5783,8,Terminal file manager,gokcehan,lf,https://github.com/gokcehan/lf
+2023-05-02,go,2681,1,Starter code for writing web services in Go using Kubernetes.,ardanlabs,service,https://github.com/ardanlabs/service
+2023-05-02,go,3830,2,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-05-02,go,12308,50,"Render markdown on the CLI, with pizzazz! 💅🏻",charmbracelet,glow,https://github.com/charmbracelet/glow
+2023-05-02,go,10097,32,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2023-05-02,go,6091,6,Let's Encrypt/ACME client and library written in Go,go-acme,lego,https://github.com/go-acme/lego
