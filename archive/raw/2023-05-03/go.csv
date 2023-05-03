@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-03,go,4887,14,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,projectdiscovery,httpx,https://github.com/projectdiscovery/httpx
+2023-05-03,go,12800,52,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-05-03,go,10140,33,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2023-05-03,go,25335,13,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2023-05-03,go,18591,5,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-05-03,go,3557,4,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",kopia,kopia,https://github.com/kopia/kopia
+2023-05-03,go,1435,7,Sonne tanken,evcc-io,evcc,https://github.com/evcc-io/evcc
+2023-05-03,go,6865,9,"Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com",ddosify,ddosify,https://github.com/ddosify/ddosify
+2023-05-03,go,14061,10,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-05-03,go,100783,63,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-05-03,go,3832,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-05-03,go,19539,3,Learn Go with test-driven development,quii,learn-go-with-tests,https://github.com/quii/learn-go-with-tests
+2023-05-03,go,9857,7,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2023-05-03,go,9981,9,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",DNSCrypt,dnscrypt-proxy,https://github.com/DNSCrypt/dnscrypt-proxy
+2023-05-03,go,13522,4,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2023-05-03,go,3435,1,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2023-05-03,go,20104,5,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2023-05-03,go,3772,3,"The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy",solo-io,gloo,https://github.com/solo-io/gloo
+2023-05-03,go,7444,10,Fast passive subdomain enumeration tool.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2023-05-03,go,12762,14,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-05-03,go,11487,2,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
+2023-05-03,go,4817,28,100 Go Mistakes and How to Avoid Them,teivah,100-go-mistakes,https://github.com/teivah/100-go-mistakes
+2023-05-03,go,4529,4,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
+2023-05-03,go,9662,1,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2023-05-03,go,277,63,"Trainbot watches a piece of train track, detects trains, and stitches together images of them. Computer vision exercise in Go.",jo-m,trainbot,https://github.com/jo-m/trainbot
