@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-05,go,34600,169,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-05-05,go,4532,11,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2023-05-05,go,7809,3,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2023-05-05,go,25373,18,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2023-05-05,go,15380,16,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-05-05,go,68,14,GoLang library for generating cryptographically secure random numbers using the crypto/rand package,imusmanmalik,randomizer,https://github.com/imusmanmalik/randomizer
+2023-05-05,go,10280,7,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2023-05-05,go,3847,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-05-05,go,10311,137,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2023-05-05,go,8151,7,A QUIC implementation in pure go,quic-go,quic-go,https://github.com/quic-go/quic-go
+2023-05-05,go,5003,36,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,projectdiscovery,httpx,https://github.com/projectdiscovery/httpx
+2023-05-05,go,1603,10,"Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)",google,cel-go,https://github.com/google/cel-go
+2023-05-05,go,19564,7,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-05-05,go,1837,3,CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP,Versent,saml2aws,https://github.com/Versent/saml2aws
+2023-05-05,go,15872,14,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages,pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-05-05,go,14308,12,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-05-05,go,6467,8,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2023-05-05,go,1454,7,Sonne tanken,evcc-io,evcc,https://github.com/evcc-io/evcc
+2023-05-05,go,1967,6,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,WireGuard,wireguard-go,https://github.com/WireGuard/wireguard-go
+2023-05-05,go,3339,2,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2023-05-05,go,65846,23,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-05-05,go,18617,11,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-05-05,go,10429,13,unclutter your .profile,direnv,direnv,https://github.com/direnv/direnv
+2023-05-05,go,2629,10,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2023-05-05,go,25359,18,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
