@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-06,rust,4806,55,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-05-06,rust,63096,64,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-05-06,rust,1871,5,,move-language,move,https://github.com/move-language/move
+2023-05-06,rust,8159,5,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-05-06,rust,452,80,A fast RFC6455 WebSocket implementation,denoland,fastwebsockets,https://github.com/denoland/fastwebsockets
+2023-05-06,rust,14350,64,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-05-06,rust,2970,68,"Run inference for Large Language Models on CPU, with Rust",rustformers,llm,https://github.com/rustformers/llm
+2023-05-06,rust,279,125,"Freeze.rs is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls written in RUST",optiv,Freeze.rs,https://github.com/optiv/Freeze.rs
+2023-05-06,rust,2423,13,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
+2023-05-06,rust,1390,9,Rare and exotic sats,casey,ord,https://github.com/casey/ord
+2023-05-06,rust,13394,12,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-05-06,rust,15470,38,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2023-05-06,rust,5169,13,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-05-06,rust,611,1,"A configurable, high-performance routing runtime for Apollo Federation",apollographql,router,https://github.com/apollographql/router
+2023-05-06,rust,3779,25,"An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.",veloren,veloren,https://github.com/veloren/veloren
+2023-05-06,rust,2440,37,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2023-05-06,rust,10113,21,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-05-06,rust,6136,15,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2023-05-06,rust,7364,16,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2023-05-06,rust,1984,7,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2023-05-06,rust,228,36,"A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.",JasonWei512,code-radio-cli,https://github.com/JasonWei512/code-radio-cli
+2023-05-06,rust,7599,18,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-05-06,rust,34531,132,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-05-06,rust,23571,21,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-05-06,rust,21145,29,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
