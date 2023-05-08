@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-08,rust,14559,44,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-05-08,rust,7645,514,Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-05-08,rust,899,104,"A simple, modular, and fast framework for writing MEV bots in Rust.",paradigmxyz,artemis,https://github.com/paradigmxyz/artemis
+2023-05-08,rust,8416,760,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2023-05-08,rust,13046,9,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-05-08,rust,6168,13,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2023-05-08,rust,5908,2,A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-05-08,rust,15529,26,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2023-05-08,rust,34732,113,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-05-08,rust,20550,12,A web framework for Rust.,SergioBenitez,Rocket,https://github.com/SergioBenitez/Rocket
+2023-05-08,rust,3039,33,"Run inference for Large Language Models on CPU, with Rust",rustformers,llm,https://github.com/rustformers/llm
+2023-05-08,rust,1587,7,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2023-05-08,rust,46491,13,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2023-05-08,rust,81147,50,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-05-08,rust,1226,39,A command-line tool to easily kill processes running on a specified port.,jkfran,killport,https://github.com/jkfran/killport
+2023-05-08,rust,8717,17,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-05-08,rust,7994,19,"Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
+2023-05-08,rust,3767,3,"Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",hrkfdn,ncspot,https://github.com/hrkfdn/ncspot
+2023-05-08,rust,8971,14,"React-like GUI library for desktop, web, mobile, TUI, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-05-08,rust,63169,34,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-05-08,rust,25,1,"A simple, C-like, ternary operator for cleaner syntax.",KaitlynEthylia,terny,https://github.com/KaitlynEthylia/terny
+2023-05-08,rust,7625,9,"Safe and portable GPU abstraction in Rust, implementing WebGPU API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-05-08,rust,40,6,CobaltStrike beacon in rust,b1tg,cobaltstrike-beacon-rust,https://github.com/b1tg/cobaltstrike-beacon-rust
+2023-05-08,rust,11928,7,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2023-05-08,rust,323,11,`llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks,sobelio,llm-chain,https://github.com/sobelio/llm-chain

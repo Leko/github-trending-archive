@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-08,python,2245,371,Generate 3D objects conditioned on text or images,openai,shap-e,https://github.com/openai/shap-e
+2023-05-08,python,668,151,LLM training code for MosaicML foundation models,mosaicml,llm-foundry,https://github.com/mosaicml/llm-foundry
+2023-05-08,python,2007,367,Home of StarCoder: fine-tuning & inference!,bigcode-project,starcoder,https://github.com/bigcode-project/starcoder
+2023-05-08,python,7385,63,中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs),ymcui,Chinese-LLaMA-Alpaca,https://github.com/ymcui/Chinese-LLaMA-Alpaca
+2023-05-08,python,22993,105,"ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型",THUDM,ChatGLM-6B,https://github.com/THUDM/ChatGLM-6B
+2023-05-08,python,4738,93,"langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM 问答",imClumsyPanda,langchain-ChatGLM,https://github.com/imClumsyPanda/langchain-ChatGLM
+2023-05-08,python,24017,68,"DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",microsoft,DeepSpeed,https://github.com/microsoft/DeepSpeed
+2023-05-08,python,11916,139,"A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",oobabooga,text-generation-webui,https://github.com/oobabooga/text-generation-webui
+2023-05-08,python,10881,63,"Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网。",zhayujie,chatgpt-on-wechat,https://github.com/zhayujie/chatgpt-on-wechat
+2023-05-08,python,20704,154,Inference code for LLaMA models,facebookresearch,llama,https://github.com/facebookresearch/llama
+2023-05-08,python,61,10,An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response.,alejandro-ao,langchain-ask-pdf,https://github.com/alejandro-ao/langchain-ask-pdf
+2023-05-08,python,796,53,An AutoGPT agent that controls Chrome on your desktop,richardyc,Chrome-GPT,https://github.com/richardyc/Chrome-GPT
+2023-05-08,python,23078,131,"Code and documentation to train Stanford's Alpaca models, and generate the data.",tatsu-lab,stanford_alpaca,https://github.com/tatsu-lab/stanford_alpaca
+2023-05-08,python,37967,302,"gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue",nomic-ai,gpt4all,https://github.com/nomic-ai/gpt4all
+2023-05-08,python,5518,31,"一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台",lss233,chatgpt-mirai-qq-bot,https://github.com/lss233/chatgpt-mirai-qq-bot
+2023-05-08,python,5226,51,PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.,huggingface,peft,https://github.com/huggingface/peft
+2023-05-08,python,9608,34,An open-source tool-augmented conversational language model from Fudan University,OpenLMLab,MOSS,https://github.com/OpenLMLab/MOSS
+2023-05-08,python,4533,150,"Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational",gventuri,pandas-ai,https://github.com/gventuri/pandas-ai
+2023-05-08,python,18614,259,"An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.",lm-sys,FastChat,https://github.com/lm-sys/FastChat
+2023-05-08,python,32317,122,"为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。",binary-husky,gpt_academic,https://github.com/binary-husky/gpt_academic
+2023-05-08,python,1943,28,8-bit CUDA functions for PyTorch,TimDettmers,bitsandbytes,https://github.com/TimDettmers/bitsandbytes
+2023-05-08,python,258,38,Personalize Segment Anything Model (SAM) with 1 shot in 10 seconds,ZrrSkywalker,Personalize-SAM,https://github.com/ZrrSkywalker/Personalize-SAM
+2023-05-08,python,28548,13,AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time,babysor,MockingBird,https://github.com/babysor/MockingBird
+2023-05-08,python,2459,89,"so-vits-svc fork with realtime support, improved interface and more features.",voicepaw,so-vits-svc-fork,https://github.com/voicepaw/so-vits-svc-fork
+2023-05-08,python,14232,12,State-of-the-art 2D and 3D Face Analysis Project,deepinsight,insightface,https://github.com/deepinsight/insightface

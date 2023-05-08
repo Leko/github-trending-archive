@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-08,scala,1602,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-05-08,scala,447,1,"Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",apache,incubator-pekko,https://github.com/apache/incubator-pekko
+2023-05-08,scala,5947,3,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-05-08,scala,9694,4,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-05-08,scala,35667,7,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-05-08,scala,4259,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-05-08,scala,634,1,A scala library to write Http apps.,zio,zio-http,https://github.com/zio/zio-http
+2023-05-08,scala,56663,27,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2023-05-08,scala,2596,2,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-05-08,scala,3040,0,Chisel: A Modern Hardware Design Language,chipsalliance,chisel,https://github.com/chipsalliance/chisel
+2023-05-08,scala,13085,4,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2023-05-08,scala,6,0,just place for some random notes about programming,rssh,notes,https://github.com/rssh/notes
+2023-05-08,scala,771,0,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2023-05-08,scala,130,0,RISC-V Torture Test,ucb-bar,riscv-torture,https://github.com/ucb-bar/riscv-torture
+2023-05-08,scala,12680,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-05-08,scala,1751,3,"Feathr – A scalable, unified data and AI engineering platform for enterprise",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2023-05-08,scala,681,0,FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility,firesim,firesim,https://github.com/firesim/firesim
+2023-05-08,scala,61,0,,ucb-bar,testchipip,https://github.com/ucb-bar/testchipip
+2023-05-08,scala,1205,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2023-05-08,scala,124,0,Microarchitecture implementation of the decoupled vector-fetch accelerator,ucb-bar,hwacha,https://github.com/ucb-bar/hwacha
+2023-05-08,scala,30,0,A Scala library for Context-Dependent Environments,chipsalliance,cde,https://github.com/chipsalliance/cde
+2023-05-08,scala,19,0,Wrapper for ETH Ariane Core,ucb-bar,cva6-wrapper,https://github.com/ucb-bar/cva6-wrapper
+2023-05-08,scala,1347,2,SonicBOOM: The Berkeley Out-of-Order Machine,riscv-boom,riscv-boom,https://github.com/riscv-boom/riscv-boom
+2023-05-08,scala,185,0,A Library of Chisel3 Tools for Digital Signal Processing,ucb-bar,dsptools,https://github.com/ucb-bar/dsptools
+2023-05-08,scala,11,0,"Network components (NIC, Switch) for FireBox",firesim,icenet,https://github.com/firesim/icenet
