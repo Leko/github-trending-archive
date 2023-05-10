@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-10,rust,9066,291,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2023-05-10,rust,8859,890,Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-05-10,rust,14969,81,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-05-10,rust,2485,1,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2023-05-10,rust,63262,34,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-05-10,rust,13067,10,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-05-10,rust,393,31,`llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks,sobelio,llm-chain,https://github.com/sobelio/llm-chain
+2023-05-10,rust,1452,25,Rare and exotic sats,casey,ord,https://github.com/casey/ord
+2023-05-10,rust,2162,5,Burn - A Flexible and Comprehensive Deep Learning Framework in Rust,burn-rs,burn,https://github.com/burn-rs/burn
+2023-05-10,rust,5930,13,A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-05-10,rust,34436,38,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy,https://github.com/AppFlowy-IO/AppFlowy
+2023-05-10,rust,3312,7,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2023-05-10,rust,41593,32,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-05-10,rust,594,46,"Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.",trimental,inlyne,https://github.com/trimental/inlyne
+2023-05-10,rust,12151,4,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2023-05-10,rust,3608,4,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-05-10,rust,617,3,"A configurable, high-performance routing runtime for Apollo Federation",apollographql,router,https://github.com/apollographql/router
+2023-05-10,rust,10387,27,Build terminal user interfaces and dashboards using Rust,fdehau,tui-rs,https://github.com/fdehau/tui-rs
+2023-05-10,rust,1019,13,"Connect any data source, combine them in real-time and instantly get low-latency Data APIs. All with just a simple configuration!",getdozer,dozer,https://github.com/getdozer/dozer
+2023-05-10,rust,8258,5,"Count your code, quickly.",XAMPPRocky,tokei,https://github.com/XAMPPRocky/tokei
+2023-05-10,rust,11756,11,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-05-10,rust,5894,7,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-05-10,rust,11752,10,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2023-05-10,rust,21746,35,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-05-10,rust,8069,6,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy

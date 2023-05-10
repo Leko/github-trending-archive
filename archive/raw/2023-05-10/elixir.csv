@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-10,elixir,14682,15,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2023-05-10,elixir,1153,0,"A frontend-independent IDE ""smartness"" server for Elixir. Implements the ""Language Server Protocol"" standard and provides debugger support via the ""Debug Adapter Protocol""",elixir-lsp,elixir-ls,https://github.com/elixir-lsp/elixir-ls
+2023-05-10,elixir,5202,2,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2023-05-10,elixir,267,2,"Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",elixir-lsp,elixir_sense,https://github.com/elixir-lsp/elixir_sense
+2023-05-10,elixir,83,0,An Erlang to Elixir transpiler,dazuma,erl2ex,https://github.com/dazuma/erl2ex
+2023-05-10,elixir,63,0,Public database of Elixir security advisories pulled from GitHub Advisory Database,mirego,elixir-security-advisories,https://github.com/mirego/elixir-security-advisories
+2023-05-10,elixir,23,0,,OffchainLabs,blockscout,https://github.com/OffchainLabs/blockscout
+2023-05-10,elixir,2943,0,Simplify deployments in Elixir with OTP releases!,bitwalker,distillery,https://github.com/bitwalker/distillery
+2023-05-10,elixir,4155,13,WireGuard®-based VPN server and firewall,firezone,firezone,https://github.com/firezone/firezone
+2023-05-10,elixir,191,4,An @elixir-lang code-style enforcer that will just FIFY instead of complaining,adobe,elixir-styler,https://github.com/adobe/elixir-styler
+2023-05-10,elixir,1448,0,A merge bot for GitHub Pull Requests,bors-ng,bors-ng,https://github.com/bors-ng/bors-ng
+2023-05-10,elixir,21610,4,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2023-05-10,elixir,19467,7,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2023-05-10,elixir,3,0,,revzilla,ftpoison,https://github.com/revzilla/ftpoison
+2023-05-10,elixir,3508,2,Automate code & data workflows with interactive Elixir notebooks,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2023-05-10,elixir,807,0,An Elixir Library for Stripe,beam-community,stripity-stripe,https://github.com/beam-community/stripity-stripe
+2023-05-10,elixir,1033,2,Bandit is a pure Elixir HTTP server for Plug & WebSock applications,mtrudel,bandit,https://github.com/mtrudel/bandit
+2023-05-10,elixir,4611,0,A static code analysis tool for the Elixir language with a focus on code consistency and teaching.,rrrene,credo,https://github.com/rrrene/credo
+2023-05-10,elixir,533,2,,DockYard-Academy,curriculum,https://github.com/DockYard-Academy/curriculum
+2023-05-10,elixir,5734,0,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2023-05-10,elixir,2453,0,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2023-05-10,elixir,131,0,Wrapper around the Erlang crypto module for Elixir.,ntrepid8,ex_crypto,https://github.com/ntrepid8/ex_crypto
+2023-05-10,elixir,95,0,Moon Design System for Elixir,coingaming,moon,https://github.com/coingaming/moon
+2023-05-10,elixir,674,6,"A cloud-native, multi-tenant Postgres connection pooler.",supabase,supavisor,https://github.com/supabase/supavisor
+2023-05-10,elixir,5841,0,"Broadcast, Presence, and Postgres Changes via WebSockets",supabase,realtime,https://github.com/supabase/realtime
