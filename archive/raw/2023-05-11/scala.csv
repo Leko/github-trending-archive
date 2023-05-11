@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-11,scala,35696,10,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-05-11,scala,5961,8,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-05-11,scala,9709,6,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-05-11,scala,56778,42,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2023-05-11,scala,2603,5,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-05-11,scala,89,1,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2023-05-11,scala,2910,1,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2023-05-11,scala,8653,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2023-05-11,scala,1607,4,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-05-11,scala,0,0,,adelaalfar,playTestingBug,https://github.com/adelaalfar/playTestingBug
+2023-05-11,scala,12379,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2023-05-11,scala,12681,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-05-11,scala,0,0,Learning scala through project euler,dhsu,euler-scala,https://github.com/dhsu/euler-scala
+2023-05-11,scala,4265,3,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-05-11,scala,2202,2,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2023-05-11,scala,8901,1,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2023-05-11,scala,5915,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-05-11,scala,6048,0,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2023-05-11,scala,1758,4,"Feathr – A scalable, unified data and AI engineering platform for enterprise",feathr-ai,feathr,https://github.com/feathr-ai/feathr
+2023-05-11,scala,442,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2023-05-11,scala,635,1,"A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",zio,zio-http,https://github.com/zio/zio-http
+2023-05-11,scala,3237,0,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2023-05-11,scala,197,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2023-05-11,scala,2775,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-05-11,scala,2401,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
