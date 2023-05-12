@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-12,go,51434,257,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-05-12,go,26393,12,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-05-12,go,18127,26,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2023-05-12,go,9026,17,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2023-05-12,go,5758,25,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2023-05-12,go,18053,10,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-05-12,go,12678,30,Protect and discover secrets using Gitleaks,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2023-05-12,go,98217,32,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-05-12,go,32941,9,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2023-05-12,go,17307,28,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-05-12,go,22599,44,Easily and securely send things from one computer to another,schollz,croc,https://github.com/schollz/croc
+2023-05-12,go,3865,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-05-12,go,2364,3,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2023-05-12,go,12180,24,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2023-05-12,go,19517,9,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2023-05-12,go,7639,5,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-05-12,go,4815,10,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2023-05-12,go,126,3,GoLang library for generating cryptographically secure random numbers using the crypto/rand package,imusmanmalik,randomizer,https://github.com/imusmanmalik/randomizer
+2023-05-12,go,42122,18,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2023-05-12,go,13939,15,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-05-12,go,43,5,bookget 数字古籍图书下载工具,deweizhu,bookget,https://github.com/deweizhu/bookget
+2023-05-12,go,24277,12,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2023-05-12,go,17191,11,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-05-12,go,2958,8,golang微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2023-05-12,go,5739,6,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver

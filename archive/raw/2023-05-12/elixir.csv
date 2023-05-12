@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-12,elixir,14708,13,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2023-05-12,elixir,19473,4,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2023-05-12,elixir,5205,0,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2023-05-12,elixir,5737,0,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2023-05-12,elixir,1156,1,"A frontend-independent IDE ""smartness"" server for Elixir. Implements the ""Language Server Protocol"" standard and provides debugger support via the ""Debug Adapter Protocol""",elixir-lsp,elixir-ls,https://github.com/elixir-lsp/elixir-ls
+2023-05-12,elixir,63,0,Public database of Elixir security advisories pulled from GitHub Advisory Database,mirego,elixir-security-advisories,https://github.com/mirego/elixir-security-advisories
+2023-05-12,elixir,21,0,The fusion_auth library provides an Elixir API for accessing the FusionAuth Developer APIs.,leo-technologies-llc,fusion_auth,https://github.com/leo-technologies-llc/fusion_auth
+2023-05-12,elixir,4161,5,WireGuard®-based VPN server and firewall,firezone,firezone,https://github.com/firezone/firezone
+2023-05-12,elixir,679,0,"A cloud-native, multi-tenant Postgres connection pooler.",supabase,supavisor,https://github.com/supabase/supavisor
+2023-05-12,elixir,2943,0,Simplify deployments in Elixir with OTP releases!,bitwalker,distillery,https://github.com/bitwalker/distillery
+2023-05-12,elixir,83,0,An Erlang to Elixir transpiler,dazuma,erl2ex,https://github.com/dazuma/erl2ex
+2023-05-12,elixir,269,1,"Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",elixir-lsp,elixir_sense,https://github.com/elixir-lsp/elixir_sense
+2023-05-12,elixir,809,2,An Elixir Library for Stripe,beam-community,stripity-stripe,https://github.com/beam-community/stripity-stripe
+2023-05-12,elixir,458,2,SQL-based adapters for Ecto and database migrations,elixir-ecto,ecto_sql,https://github.com/elixir-ecto/ecto_sql
+2023-05-12,elixir,21616,2,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2023-05-12,elixir,1036,3,Bandit is a pure Elixir HTTP server for Plug & WebSock applications,mtrudel,bandit,https://github.com/mtrudel/bandit
+2023-05-12,elixir,2458,1,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2023-05-12,elixir,537,0,,DockYard-Academy,curriculum,https://github.com/DockYard-Academy/curriculum
+2023-05-12,elixir,137,2,"UI Dashboard for Exq, a job processing library for Elixir. Exq UI provides the UI dashboard to display stats on job processing.",akira,exq_ui,https://github.com/akira/exq_ui
+2023-05-12,elixir,721,0,A pure Elixir implementation of Google Protobuf.,elixir-protobuf,protobuf,https://github.com/elixir-protobuf/protobuf
+2023-05-12,elixir,3512,2,Automate code & data workflows with interactive Elixir notebooks,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2023-05-12,elixir,5252,1,Open-source live customer chat,papercups-io,papercups,https://github.com/papercups-io/papercups
+2023-05-12,elixir,729,0,[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please),valpackett,httpotion,https://github.com/valpackett/httpotion
+2023-05-12,elixir,5846,2,"Broadcast, Presence, and Postgres Changes via WebSockets",supabase,realtime,https://github.com/supabase/realtime
+2023-05-12,elixir,167,0,community-maintained OpenAI API Wrapper written in Elixir.,mgallo,openai.ex,https://github.com/mgallo/openai.ex
