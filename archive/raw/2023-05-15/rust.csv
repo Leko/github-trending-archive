@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-15,rust,41806,70,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-05-15,rust,34605,31,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy,https://github.com/AppFlowy-IO/AppFlowy
+2023-05-15,rust,8765,10,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-05-15,rust,966,130,A program that provides LLMs with the ability to complete complex tasks using plugins.,Cormanz,smartgpt,https://github.com/Cormanz/smartgpt
+2023-05-15,rust,9788,19,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2023-05-15,rust,23382,22,"Unified developer tools for JavaScript, TypeScript, and the web",rome,tools,https://github.com/rome/tools
+2023-05-15,rust,2350,4,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2023-05-15,rust,1388,70,"A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust",ast-grep,ast-grep,https://github.com/ast-grep/ast-grep
+2023-05-15,rust,12595,32,Chromium running inside your terminal,fathyb,carbonyl,https://github.com/fathyb/carbonyl
+2023-05-15,rust,43,2,,TeamFlos,phira,https://github.com/TeamFlos/phira
+2023-05-15,rust,27495,12,Rust / Wasm framework for building client web apps,yewstack,yew,https://github.com/yewstack/yew
+2023-05-15,rust,186,9,nerdfix helps you to find/fix obsolete Nerd Font icons in your project.,loichyan,nerdfix,https://github.com/loichyan/nerdfix
+2023-05-15,rust,23720,10,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-05-15,rust,89366,17,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-05-15,rust,19121,12,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-05-15,rust,1622,23,Rare and exotic sats,casey,ord,https://github.com/casey/ord
+2023-05-15,rust,20484,8,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-05-15,rust,5996,7,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2023-05-15,rust,11832,15,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-05-15,rust,7944,5,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2023-05-15,rust,11986,9,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2023-05-15,rust,5942,3,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2023-05-15,rust,12227,13,The Rust Programming Language,rust-lang,book,https://github.com/rust-lang/book
+2023-05-15,rust,74,3,"ChatGPT-Code-Review is a Rust application that uses the OpenAI GPT-3.5 language model to review code. It accepts a local path to a folder containing code, and generates a review for each file in the folder and its subdirectories.",gorgarp,ChatGPT-Code-Review,https://github.com/gorgarp/ChatGPT-Code-Review
+2023-05-15,rust,8365,10,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
