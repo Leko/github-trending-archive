@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-16,go,3150,386,"Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-05-16,go,262,34,Detect TLS in TLS.,XTLS,Trojan-killer,https://github.com/XTLS/Trojan-killer
+2023-05-16,go,3863,2,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-05-16,go,25723,50,"A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-05-16,go,32289,9,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2023-05-16,go,23162,32,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-05-16,go,14023,25,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-05-16,go,1826,23,THE NEXT FUTURE,XTLS,REALITY,https://github.com/XTLS/REALITY
+2023-05-16,go,10221,55,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-05-16,go,42197,18,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2023-05-16,go,9964,19,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2023-05-16,go,5916,24,"A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
+2023-05-16,go,190,44,"SatIntel is an OSINT tool for Satellites . Extract satellite telemetry, receive orbital predictions, and parse TLEs",ANG13T,SatIntel,https://github.com/ANG13T/SatIntel
+2023-05-16,go,2097,9,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-05-16,go,25978,29,AI-Powered Photos App for the Decentralized Web,photoprism,photoprism,https://github.com/photoprism/photoprism
+2023-05-16,go,3472,21,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-05-16,go,42233,12,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-05-16,go,42415,13,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2023-05-16,go,378,81,"passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI",robherley,snips.sh,https://github.com/robherley/snips.sh
+2023-05-16,go,10010,4,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",DNSCrypt,dnscrypt-proxy,https://github.com/DNSCrypt/dnscrypt-proxy
+2023-05-16,go,14937,2,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2023-05-16,go,6899,3,Lightning Network Daemon,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2023-05-16,go,2596,7,Community managed domain list. Generate geosite.dat for V2Ray.,v2fly,domain-list-community,https://github.com/v2fly/domain-list-community
+2023-05-16,go,2599,5,"Fast, fun, ActivityPub server, powered by Go.",superseriousbusiness,gotosocial,https://github.com/superseriousbusiness/gotosocial
+2023-05-16,go,6463,1,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-16,lua,1461,3,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2023-05-16,lua,2763,3,improve neovim lsp experience,nvimdev,lspsaga.nvim,https://github.com/nvimdev/lspsaga.nvim
+2023-05-16,lua,1602,3,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-05-16,lua,4923,18,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-05-16,lua,1763,3,Tools for better development in rust using neovim's builtin lsp,simrat39,rust-tools.nvim,https://github.com/simrat39/rust-tools.nvim
+2023-05-16,lua,3872,6,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2023-05-16,lua,14533,17,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-05-16,lua,271,0,Official Repo For core resources for esx-legacy,esx-framework,esx_core,https://github.com/esx-framework/esx_core
+2023-05-16,lua,1162,2,"Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2023-05-16,lua,17024,24,"Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-05-16,lua,2079,7,"A fancy, configurable, notification manager for NeoVim",rcarriga,nvim-notify,https://github.com/rcarriga/nvim-notify
+2023-05-16,lua,2091,4,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-05-16,lua,904,0,Sandbox mod for the Source Engine,Facepunch,garrysmod,https://github.com/Facepunch/garrysmod
+2023-05-16,lua,998,2,www.beyondallreason.info,beyond-all-reason,Beyond-All-Reason,https://github.com/beyond-all-reason/Beyond-All-Reason
+2023-05-16,lua,10020,13,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-05-16,lua,4746,3,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-05-16,lua,5215,10,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-05-16,lua,1486,7,Show code context,nvim-treesitter,nvim-treesitter-context,https://github.com/nvim-treesitter/nvim-treesitter-context
+2023-05-16,lua,3331,7,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-05-16,lua,4947,7,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2023-05-16,lua,3010,1,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2023-05-16,lua,2264,6,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2023-05-16,lua,1997,4,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2023-05-16,lua,1132,0,Improved fzf.vim written in lua,ibhagwan,fzf-lua,https://github.com/ibhagwan/fzf-lua
+2023-05-16,lua,7349,5,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
