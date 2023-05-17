@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-17,go,3502,388,"Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-05-17,go,3264,9,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2023-05-17,go,15981,31,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages,pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-05-17,go,432,65,"passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI",robherley,snips.sh,https://github.com/robherley/snips.sh
+2023-05-17,go,202,13,,google,buzzer,https://github.com/google/buzzer
+2023-05-17,go,9987,22,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2023-05-17,go,8487,4,Convert Compose to Kubernetes,kubernetes,kompose,https://github.com/kubernetes/kompose
+2023-05-17,go,25627,13,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2023-05-17,go,6851,28,A truly Open Source MongoDB alternative,FerretDB,FerretDB,https://github.com/FerretDB/FerretDB
+2023-05-17,go,7143,3,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-05-17,go,68678,22,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-05-17,go,12669,17,GO Simple Tunnel - a simple tunnel written in golang,ginuerzh,gost,https://github.com/ginuerzh/gost
+2023-05-17,go,98352,34,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-05-17,go,14171,11,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-05-17,go,934,7,k0s - The Zero Friction Kubernetes,k0sproject,k0s,https://github.com/k0sproject/k0s
+2023-05-17,go,14978,6,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2023-05-17,go,209,24,"SatIntel is an OSINT tool for Satellites . Extract satellite telemetry, receive orbital predictions, and parse TLEs",ANG13T,SatIntel,https://github.com/ANG13T/SatIntel
+2023-05-17,go,11367,12,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-05-17,go,6094,40,Modern UI for Ansible,ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore
+2023-05-17,go,4522,2,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2023-05-17,go,13567,4,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-05-17,go,2104,7,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-05-17,go,8001,2,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2023-05-17,go,9047,7,Cloud cost estimates for Terraform in pull requests Love your cloud bill!,infracost,infracost,https://github.com/infracost/infracost
+2023-05-17,go,1421,10,Permify is an open-source authorization service inspired by Google Zanzibar.,Permify,permify,https://github.com/Permify/permify
