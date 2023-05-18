@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-18,scala,6058,2,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2023-05-18,scala,4273,3,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-05-18,scala,583,1,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2023-05-18,scala,35757,15,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-05-18,scala,5982,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-05-18,scala,56946,21,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2023-05-18,scala,1614,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-05-18,scala,2783,3,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-05-18,scala,5924,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-05-18,scala,4912,4,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2023-05-18,scala,148,0,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2023-05-18,scala,17,1,n10n for nOTIFICATIOn,guardian,mobile-n10n,https://github.com/guardian/mobile-n10n
+2023-05-18,scala,3,0,"This is an Image transformation webservice where we can see 3 algorithms performing updates on images. It implements a contour for images, the Kuwahara blur filter and finally an algorithm I made myself called chartizate. The latter creates images where the foreground is written text.",jesperancinha,image-train-filters-web,https://github.com/jesperancinha/image-train-filters-web
+2023-05-18,scala,36,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2023-05-18,scala,2205,0,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2023-05-18,scala,226,1,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2023-05-18,scala,2611,2,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-05-18,scala,593,0,Redshift data source for Apache Spark,databricks,spark-redshift,https://github.com/databricks/spark-redshift
+2023-05-18,scala,11368,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2023-05-18,scala,5688,0,The Guardian DotCom.,guardian,frontend,https://github.com/guardian/frontend
+2023-05-18,scala,893,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2023-05-18,scala,197,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2023-05-18,scala,230,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2023-05-18,scala,9724,4,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-05-18,scala,123,0,λ Hexagonal Architecture + DDD + CQRS applied in Scala using Akka HTTP,CodelyTV,scala-ddd-example,https://github.com/CodelyTV/scala-ddd-example

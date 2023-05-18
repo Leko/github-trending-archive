@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-18,go,3774,297,"Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-05-18,go,65924,18,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-05-18,go,98393,49,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-05-18,go,7661,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-05-18,go,15446,13,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-05-18,go,5335,36,A Cloud Native traffic orchestration system,megaease,easegress,https://github.com/megaease/easegress
+2023-05-18,go,6110,20,Modern UI for Ansible,ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore
+2023-05-18,go,8887,2,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2023-05-18,go,3281,25,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2023-05-18,go,1688,9,"A simple, standalone, and lightweight tool that can do health/status checking, written in Go.",megaease,easeprobe,https://github.com/megaease/easeprobe
+2023-05-18,go,6319,7,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-05-18,go,111363,37,The Go programming language,golang,go,https://github.com/golang/go
+2023-05-18,go,6968,4,DNS library in Go,miekg,dns,https://github.com/miekg/dns
+2023-05-18,go,9381,3,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2023-05-18,go,8294,1,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2023-05-18,go,7404,7,The Official Golang driver for MongoDB,mongodb,mongo-go-driver,https://github.com/mongodb/mongo-go-driver
+2023-05-18,go,25646,17,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2023-05-18,go,2005,2,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2023-05-18,go,37265,18,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-05-18,go,172,10,免杀shellcode加载器，使用go实现，免杀bypass火绒、360、核晶、def等主流杀软,Pizz33,GobypassAV-shellcode,https://github.com/Pizz33/GobypassAV-shellcode
+2023-05-18,go,316,6,Detect TLS in TLS.,XTLS,Trojan-killer,https://github.com/XTLS/Trojan-killer
+2023-05-18,go,7868,8,Code Intelligence Platform,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2023-05-18,go,1097,2,Vendor-neutral programmable observability pipelines.,grafana,agent,https://github.com/grafana/agent
+2023-05-18,go,2866,2,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2023-05-18,go,15998,18,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages,pulumi,pulumi,https://github.com/pulumi/pulumi
