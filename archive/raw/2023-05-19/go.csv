@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-19,go,4042,256,"Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-05-19,go,645,164,"Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.",loft-sh,devpod,https://github.com/loft-sh/devpod
+2023-05-19,go,952,15,Practice Go programming and implement CobaltStrike's Beacon in Go,darkr4y,geacon,https://github.com/darkr4y/geacon
+2023-05-19,go,3515,17,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-05-19,go,1395,26,"A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.",redis,rueidis,https://github.com/redis/rueidis
+2023-05-19,go,5818,1,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2023-05-19,go,12899,14,Simple and flexible tool for managing secrets,mozilla,sops,https://github.com/mozilla/sops
+2023-05-19,go,6323,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-05-19,go,5281,6,An alternative full node bitcoin implementation written in Go (golang),btcsuite,btcd,https://github.com/btcsuite/btcd
+2023-05-19,go,98422,41,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-05-19,go,4311,9,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-05-19,go,15454,12,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-05-19,go,2424,3,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2023-05-19,go,6710,6,A new way of working with Protocol Buffers.,bufbuild,buf,https://github.com/bufbuild/buf
+2023-05-19,go,6400,2,"An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-05-19,go,2573,0,vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,loft-sh,vcluster,https://github.com/loft-sh/vcluster
+2023-05-19,go,4551,3,"Golang client for NATS, the cloud native messaging system.",nats-io,nats.go,https://github.com/nats-io/nats.go
+2023-05-19,go,9260,11,"Manage your dotfiles across multiple diverse machines, securely.",twpayne,chezmoi,https://github.com/twpayne/chezmoi
+2023-05-19,go,1713,26,"A simple, standalone, and lightweight tool that can do health/status checking, written in Go.",megaease,easeprobe,https://github.com/megaease/easeprobe
+2023-05-19,go,11995,9,Web and API based SMTP testing,mailhog,MailHog,https://github.com/mailhog/MailHog
+2023-05-19,go,13577,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-05-19,go,19657,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-05-19,go,6422,9,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2023-05-19,go,111376,45,The Go programming language,golang,go,https://github.com/golang/go

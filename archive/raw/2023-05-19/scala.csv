@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-19,scala,35765,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-05-19,scala,12688,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-05-19,scala,1615,3,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-05-19,scala,13125,3,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2023-05-19,scala,6059,1,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2023-05-19,scala,12382,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2023-05-19,scala,3793,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-05-19,scala,5926,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-05-19,scala,14090,2,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2023-05-19,scala,2,0,The code used in a lecture # 4 (28.09),svtk,lecture4-scala,https://github.com/svtk/lecture4-scala
+2023-05-19,scala,1891,1,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2023-05-19,scala,148,0,The official testing library for Chisel circuits.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2023-05-19,scala,183,0,Helps to snipe hard to get reservations at restaurants that use resy,Alkaar,resy-booking-bot,https://github.com/Alkaar/resy-booking-bot
+2023-05-19,scala,5982,1,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-05-19,scala,364,1,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2023-05-19,scala,197,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2023-05-19,scala,893,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2023-05-19,scala,649,0,Spark reference applications,databricks,reference-apps,https://github.com/databricks/reference-apps
+2023-05-19,scala,529,0,,databricks,spark-sql-perf,https://github.com/databricks/spark-sql-perf
+2023-05-19,scala,237,0,,databricks,sjsonnet,https://github.com/databricks/sjsonnet
+2023-05-19,scala,1054,0,CSV Data Source for Apache Spark 1.x,databricks,spark-csv,https://github.com/databricks/spark-csv
+2023-05-19,scala,11,0,,databricks,tableau-connector,https://github.com/databricks/tableau-connector
+2023-05-19,scala,71,0,An sbt plugin for deploying code to Databricks Cloud,databricks,sbt-databricks,https://github.com/databricks/sbt-databricks
+2023-05-19,scala,37,0,,databricks,devbox,https://github.com/databricks/devbox
+2023-05-19,scala,64,0,Integration tests for Spark,databricks,spark-integration-tests,https://github.com/databricks/spark-integration-tests
