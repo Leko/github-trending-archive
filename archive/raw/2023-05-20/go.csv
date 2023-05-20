@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-20,go,711,81,"Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.",loft-sh,devpod,https://github.com/loft-sh/devpod
+2023-05-20,go,4225,243,"Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-05-20,go,9301,6,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2023-05-20,go,17246,11,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-05-20,go,378,13,"DetectDee: Hunt down social media accounts by username, email or phone across social networks.",piaolin,DetectDee,https://github.com/piaolin/DetectDee
+2023-05-20,go,98459,41,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-05-20,go,13297,3,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-05-20,go,9059,7,"A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",chromedp,chromedp,https://github.com/chromedp/chromedp
+2023-05-20,go,3728,7,"Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",hakluke,hakrawler,https://github.com/hakluke/hakrawler
+2023-05-20,go,6041,21,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT",casdoor,casdoor,https://github.com/casdoor/casdoor
+2023-05-20,go,34070,11,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-05-20,go,4555,4,"Golang client for NATS, the cloud native messaging system.",nats-io,nats.go,https://github.com/nats-io/nats.go
+2023-05-20,go,2057,1,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2023-05-20,go,1330,3,"Open-source device management for IT and security teams with thousands of laptops and servers. (macOS, Windows, Linux, ChromeOS, AWS, Google Cloud, Azure, data center, containers)",fleetdm,fleet,https://github.com/fleetdm/fleet
+2023-05-20,go,32414,13,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-05-20,go,22656,6,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2023-05-20,go,3752,4,Cross-cloud cost allocation models for Kubernetes workloads,opencost,opencost,https://github.com/opencost/opencost
+2023-05-20,go,5250,7,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2023-05-20,go,6979,3,DNS library in Go,miekg,dns,https://github.com/miekg/dns
+2023-05-20,go,19668,17,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-05-20,go,5188,4,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2023-05-20,go,8193,10,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-05-20,go,14513,6,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2023-05-20,go,10372,12,Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2023-05-20,go,11623,62,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima

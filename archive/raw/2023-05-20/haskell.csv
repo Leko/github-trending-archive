@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-20,haskell,8583,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-05-20,haskell,28903,10,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-05-20,haskell,2589,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2023-05-20,haskell,2933,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-05-20,haskell,1489,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-05-20,haskell,7,1,,haskell,security-advisories,https://github.com/haskell/security-advisories
+2023-05-20,haskell,1,0,Cardano API,input-output-hk,cardano-api,https://github.com/input-output-hk/cardano-api
+2023-05-20,haskell,1,0,,shadwstalkr,GrahamScanDemo,https://github.com/shadwstalkr/GrahamScanDemo
+2023-05-20,haskell,20535,9,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-05-20,haskell,32146,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-05-20,haskell,6,0,A compiler for sed,Roguelazer,sedc,https://github.com/Roguelazer/sedc
+2023-05-20,haskell,2786,4,The fastest way to develop full-stack web apps with React & Node.js.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2023-05-20,haskell,8131,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-05-20,haskell,3007,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-05-20,haskell,1650,5,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-05-20,haskell,22,0,Repository with code snippets that accompany episodes of The Haskell Unfolder,well-typed,unfolder,https://github.com/well-typed/unfolder
+2023-05-20,haskell,0,0,Taking haskell for a test drive,dborza,haskell-musings,https://github.com/dborza/haskell-musings
+2023-05-20,haskell,1,0,My XMonad configuration,robinp,robinp-xmonad,https://github.com/robinp/robinp-xmonad
+2023-05-20,haskell,252,1,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2023-05-20,haskell,2343,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-05-20,haskell,1384,0,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
