@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-22,go,13636,17,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2023-05-22,go,14130,19,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-05-22,go,12914,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-05-22,go,17197,13,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2023-05-22,go,8335,11,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2023-05-22,go,74,5,"Build your project into static assets, serverless function or container image with magic, no Dockerfile needed!",zeabur,zbpack,https://github.com/zeabur/zbpack
+2023-05-22,go,3877,2,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-05-22,go,324,7,Scalable unofficial ChatGPT API for production.,acheong08,ChatGPT-to-API,https://github.com/acheong08/ChatGPT-to-API
+2023-05-22,go,443,1,Release infrastructure for Kubernetes and related components,kubernetes,release,https://github.com/kubernetes/release
+2023-05-22,go,6921,5,Lightning Network Daemon,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2023-05-22,go,957,3,Simple Cloudflare bypass for ChatGPT,acheong08,ChatGPT-Proxy-V4,https://github.com/acheong08/ChatGPT-Proxy-V4
+2023-05-22,go,588,5,A JWT based API for managing users and issuing JWT tokens,supabase,gotrue,https://github.com/supabase/gotrue
+2023-05-22,go,940,1,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
+2023-05-22,go,47316,11,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2023-05-22,go,1579,7,A Telegram downloader written in Golang,iyear,tdl,https://github.com/iyear/tdl
+2023-05-22,go,35082,21,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-05-22,go,7579,5,Fast passive subdomain enumeration tool.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2023-05-22,go,5797,10,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2023-05-22,go,2670,2,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2023-05-22,go,12752,21,GO Simple Tunnel - a simple tunnel written in golang,ginuerzh,gost,https://github.com/ginuerzh/gost
+2023-05-22,go,9748,6,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2023-05-22,go,23351,38,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-05-22,go,631,403,"JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",paypal,junodb,https://github.com/paypal/junodb
+2023-05-22,go,10032,5,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",DNSCrypt,dnscrypt-proxy,https://github.com/DNSCrypt/dnscrypt-proxy
+2023-05-22,go,3535,8,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
