@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-24,lua,776,28,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2023-05-24,lua,2922,1,Advanced vulnerability scanning with Nmap NSE,scipag,vulscan,https://github.com/scipag/vulscan
+2023-05-24,lua,3177,1,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2023-05-24,lua,121,0,Modules to utilise in other resources via imports and exports.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2023-05-24,lua,1786,7,"Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.",jackMort,ChatGPT.nvim,https://github.com/jackMort/ChatGPT.nvim
+2023-05-24,lua,11869,9,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-05-24,lua,169,1,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2023-05-24,lua,3628,6,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-05-24,lua,3363,5,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-05-24,lua,1658,4,The Refactoring library based off the Refactoring book by Martin Fowler,ThePrimeagen,refactoring.nvim,https://github.com/ThePrimeagen/refactoring.nvim
+2023-05-24,lua,1015,2,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
+2023-05-24,lua,2212,5,Orgmode clone written in Lua for Neovim 0.7+.,nvim-orgmode,orgmode,https://github.com/nvim-orgmode/orgmode
+2023-05-24,lua,1056,2,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-05-24,lua,406,3,A task runner and job management plugin for Neovim,stevearc,overseer.nvim,https://github.com/stevearc/overseer.nvim
+2023-05-24,lua,1003,3,Neovim plugin to improve the default vim.ui interfaces,stevearc,dressing.nvim,https://github.com/stevearc/dressing.nvim
+2023-05-24,lua,2359,2,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2023-05-24,lua,320,0,Simple session management for Neovim,folke,persistence.nvim,https://github.com/folke/persistence.nvim
+2023-05-24,lua,1263,3,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2023-05-24,lua,129,1,WoW Addon - Attempt to provide the useful and precise information to execute the best possible DPS rotation in every situation.,herotc,hero-rotation,https://github.com/herotc/hero-rotation
+2023-05-24,lua,1812,3,"Highlight, list and search todo comments in your projects",folke,todo-comments.nvim,https://github.com/folke/todo-comments.nvim
+2023-05-24,lua,831,0,Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.,folke,twilight.nvim,https://github.com/folke/twilight.nvim
+2023-05-24,lua,304,3,Neovim plugin for intracting with GPT models from OpenAI,Bryley,neoai.nvim,https://github.com/Bryley/neoai.nvim
+2023-05-24,lua,149,0,"GSE is an alternative advanced macro editor and engine for World of Warcraft. It uses Travis for UnitTests, Coveralls to report on test coverage and the Curse packager to build and publish GSE.",TimothyLuke,GSE-Advanced-Macro-Compiler,https://github.com/TimothyLuke/GSE-Advanced-Macro-Compiler
+2023-05-24,lua,922,1,Distraction-free coding for Neovim,folke,zen-mode.nvim,https://github.com/folke/zen-mode.nvim
+2023-05-24,lua,1132,3,"Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...",acecilia,OpenWRTInvasion,https://github.com/acecilia/OpenWRTInvasion

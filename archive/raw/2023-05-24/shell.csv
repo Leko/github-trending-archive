@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-24,shell,67208,23,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-05-24,shell,91,16,,Ilya114,Box64Droid,https://github.com/Ilya114/Box64Droid
+2023-05-24,shell,6763,0,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2023-05-24,shell,5580,1,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2023-05-24,shell,221,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2023-05-24,shell,1443,10,,vcheckzen,KeepAliveE5,https://github.com/vcheckzen/KeepAliveE5
+2023-05-24,shell,1082,17,A simple script just made for self use for bypassing 403,iamj0ker,bypass-403,https://github.com/iamj0ker/bypass-403
+2023-05-24,shell,159129,57,"A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2023-05-24,shell,1438,2,"My custom build of wine, made to use with lutris. Built with lutris's buildbot.",GloriousEggroll,wine-ge-custom,https://github.com/GloriousEggroll/wine-ge-custom
+2023-05-24,shell,964,10,Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.,MustardChef,WSABuilds,https://github.com/MustardChef/WSABuilds
+2023-05-24,shell,6196,4,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2023-05-24,shell,1771,0,A sidecar app which clones a git repo and keeps it in sync with the upstream.,kubernetes,git-sync,https://github.com/kubernetes/git-sync
+2023-05-24,shell,38852,34,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 来看看，你会发现相见恨晚！,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2023-05-24,shell,8755,0,Combination of multiple linters to install as a GitHub Action,super-linter,super-linter,https://github.com/super-linter/super-linter
+2023-05-24,shell,1030,3,"Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.",tj-actions,changed-files,https://github.com/tj-actions/changed-files
+2023-05-24,shell,1509,2,Provides network connectivity to WSL 2 when blocked by VPN,sakai135,wsl-vpnkit,https://github.com/sakai135/wsl-vpnkit
+2023-05-24,shell,1437,10,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2023-05-24,shell,17,0,,thegreatestgiant,novnc,https://github.com/thegreatestgiant/novnc
+2023-05-24,shell,33950,4,Amazon Web Services — a practical guide,open-guides,og-aws,https://github.com/open-guides/og-aws
+2023-05-24,shell,260,6,Arch Hyprland Config,prasanthrangan,hyprdots,https://github.com/prasanthrangan/hyprdots
+2023-05-24,shell,10764,2,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2023-05-24,shell,286,1,"An alternative Android streaming front-end of BiliBili, NicoNico, Youtube and more.",InfinityLoop1308,PipePipe,https://github.com/InfinityLoop1308/PipePipe
+2023-05-24,shell,1480,2,Kubernetes playground,justmeandopensource,kubernetes,https://github.com/justmeandopensource/kubernetes
+2023-05-24,shell,975,2,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2023-05-24,shell,1072,8,"Redpill 定制化编译,自定义配置及驱动并通过 Github Action 编译 DSM redpill 引导的平台.",wjz304,Redpill_CustomBuild,https://github.com/wjz304/Redpill_CustomBuild

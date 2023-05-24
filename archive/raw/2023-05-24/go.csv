@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-24,go,14962,4,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2023-05-24,go,6499,15,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2023-05-24,go,5255,5,The Modern Application Platform.,kubevela,kubevela,https://github.com/kubevela/kubevela
+2023-05-24,go,972,140,"JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",paypal,junodb,https://github.com/paypal/junodb
+2023-05-24,go,14004,11,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-05-24,go,37359,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-05-24,go,14606,41,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2023-05-24,go,10370,9,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2023-05-24,go,1327,50,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2023-05-24,go,5809,9,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2023-05-24,go,166,15,👂🏻 chatgpt讲解Go核心源码中每个文件，变量，结构体，方法的作用,cuishuang,explain-source-code-by-chatgpt,https://github.com/cuishuang/explain-source-code-by-chatgpt
+2023-05-24,go,12821,13,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2023-05-24,go,6367,9,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-05-24,go,4989,8,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2023-05-24,go,218,2,The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.,hashicorp,vault-secrets-operator,https://github.com/hashicorp/vault-secrets-operator
+2023-05-24,go,11752,5,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-05-24,go,4503,4,Nuke a whole AWS account and delete all its resources.,rebuy-de,aws-nuke,https://github.com/rebuy-de/aws-nuke
+2023-05-24,go,4414,17,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-05-24,go,14963,7,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-05-24,go,6196,8,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2023-05-24,go,101936,71,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-05-24,go,10354,11,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2023-05-24,go,17348,12,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2023-05-24,go,3016,6,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2023-05-24,go,33015,8,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
