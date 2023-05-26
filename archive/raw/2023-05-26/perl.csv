@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-26,perl,14742,6,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2023-05-26,perl,8095,0,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
+2023-05-26,perl,2146,1,Client for PPP+SSL VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
+2023-05-26,perl,231,1,Spec and test data for the MaxMind DB file format,maxmind,MaxMind-DB,https://github.com/maxmind/MaxMind-DB
+2023-05-26,perl,122,1,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2023-05-26,perl,292,1,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2023-05-26,perl,59,5,Universal Romanizer that can convert any unicode script to roman (latin) script,isi-nlp,uroman,https://github.com/isi-nlp/uroman
+2023-05-26,perl,732,1,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2023-05-26,perl,377,0,The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants,Ensembl,ensembl-vep,https://github.com/Ensembl/ensembl-vep
+2023-05-26,perl,247,0,FusionInventory Agent,fusioninventory,fusioninventory-agent,https://github.com/fusioninventory/fusioninventory-agent
+2023-05-26,perl,0,0,,binary-com,perl-Rose-DB-Object,https://github.com/binary-com/perl-Rose-DB-Object
+2023-05-26,perl,312,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2023-05-26,perl,16098,8,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2023-05-26,perl,383,0,Rapid haploid variant calling and core genome alignment,tseemann,snippy,https://github.com/tseemann/snippy
+2023-05-26,perl,871,2,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2023-05-26,perl,3,0,JSON::Functions::XS,pawjy,perl-json-functions-xs,https://github.com/pawjy/perl-json-functions-xs
+2023-05-26,perl,3030,1,A fast PostgreSQL Log Analyzer,darold,pgbadger,https://github.com/darold/pgbadger
+2023-05-26,perl,232,0,BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET and AUGUSTUS in novel eukaryotic genomes,Gaius-Augustus,BRAKER,https://github.com/Gaius-Augustus/BRAKER
+2023-05-26,perl,56,0,a perl library for sending email,rjbs,Email-Sender,https://github.com/rjbs/Email-Sender
+2023-05-26,perl,1128,0,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
+2023-05-26,perl,661,0,Rapid prokaryotic genome annotation,tseemann,prokka,https://github.com/tseemann/prokka
+2023-05-26,perl,375,0,"A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",FelixKrueger,TrimGalore,https://github.com/FelixKrueger/TrimGalore
+2023-05-26,perl,6739,4,Nikto web server scanner,sullo,nikto,https://github.com/sullo/nikto
+2023-05-26,perl,16476,1,Good-lookin' diffs. Actually… nah… The best-lookin' diffs.,so-fancy,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy
+2023-05-26,perl,694,2,LCOV,linux-test-project,lcov,https://github.com/linux-test-project/lcov
