@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-05-30,python,1866,365,An Open-Ended Embodied Agent with Large Language Models,MineDojo,Voyager,https://github.com/MineDojo/Voyager
+2023-05-30,python,10568,453,"潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.",pengzhile,pandora,https://github.com/pengzhile/pandora
+2023-05-30,python,12738,410,Real-time face swap for PC streaming or video calls,iperov,DeepFaceLive,https://github.com/iperov/DeepFaceLive
+2023-05-30,python,1522,465,Gorilla: An API store for LLMs,ShishirPatil,gorilla,https://github.com/ShishirPatil/gorilla
+2023-05-30,python,13522,513,You like pytorch? You like micrograd? You love tinygrad!,geohot,tinygrad,https://github.com/geohot/tinygrad
+2023-05-30,python,1812,230,"InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统)",OpenGVLab,InternGPT,https://github.com/OpenGVLab/InternGPT
+2023-05-30,python,39860,239,openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.,commaai,openpilot,https://github.com/commaai/openpilot
+2023-05-30,python,2758,162,Handwriting Synthesis with RNNs,sjvasquez,handwriting-synthesis,https://github.com/sjvasquez/handwriting-synthesis
+2023-05-30,python,524,89,"Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch",lucidrains,soundstorm-pytorch,https://github.com/lucidrains/soundstorm-pytorch
+2023-05-30,python,941,17,A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation,adieyal,sd-dynamic-prompts,https://github.com/adieyal/sd-dynamic-prompts
+2023-05-30,python,1777,47,"LoRA training scripts use kohya-ss's trainer, for diffusion model.",Akegarasu,lora-scripts,https://github.com/Akegarasu/lora-scripts
+2023-05-30,python,8237,174,"with 100k context windows on the way, it's now feasible for every dev to have their own smol developer",smol-ai,developer,https://github.com/smol-ai/developer
+2023-05-30,python,436,119,The official implementation of “Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training”,Liuhong99,Sophia,https://github.com/Liuhong99/Sophia
+2023-05-30,python,79161,365,Stable Diffusion web UI,AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2023-05-30,python,73,6,Command-line script for inferencing from models such as MPT-7B-Chat,Birch-san,mpt-play,https://github.com/Birch-san/mpt-play
+2023-05-30,python,34584,98,"为ChatGPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古, newbing, claude等",binary-husky,gpt_academic,https://github.com/binary-husky/gpt_academic
+2023-05-30,python,12876,11,An API wrapper for Discord written in Python.,Rapptz,discord.py,https://github.com/Rapptz/discord.py
+2023-05-30,python,48152,79,A youtube-dl fork with additional features and fixes,yt-dlp,yt-dlp,https://github.com/yt-dlp/yt-dlp
+2023-05-30,python,122,10,,zaivanza,all-in-one-v2,https://github.com/zaivanza/all-in-one-v2
+2023-05-30,python,16286,18,MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.,mindsdb,mindsdb,https://github.com/mindsdb/mindsdb
+2023-05-30,python,13974,89,"A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",oobabooga,text-generation-webui,https://github.com/oobabooga/text-generation-webui
+2023-05-30,python,1427,69,"Come join the movement to make the world's best open source GPT led by H2O.ai - 100% private chat and document search, no data leaks, Apache 2.0",h2oai,h2ogpt,https://github.com/h2oai/h2ogpt
+2023-05-30,python,23497,80,High-Resolution Image Synthesis with Latent Diffusion Models,Stability-AI,stablediffusion,https://github.com/Stability-AI/stablediffusion
+2023-05-30,python,4453,5,跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python,nonebot,nonebot2,https://github.com/nonebot/nonebot2
+2023-05-30,python,295,77,"Prompt-Free Diffusion: Taking ""Text"" out of Text-to-Image Diffusion Models",SHI-Labs,Prompt-Free-Diffusion,https://github.com/SHI-Labs/Prompt-Free-Diffusion
