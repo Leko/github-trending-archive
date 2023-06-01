@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-01,haskell,2937,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-06-01,haskell,20602,9,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-06-01,haskell,709,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2023-06-01,haskell,3955,3,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2023-06-01,haskell,2748,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-06-01,haskell,32217,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-06-01,haskell,839,2,A formatter for Haskell source code,tweag,ormolu,https://github.com/tweag/ormolu
+2023-06-01,haskell,900,0,Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2023-06-01,haskell,8141,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-06-01,haskell,1387,2,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2023-06-01,haskell,5211,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-06-01,haskell,2602,1,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2023-06-01,haskell,1677,2,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-06-01,haskell,0,0,,juspay,euler-haskell-common,https://github.com/juspay/euler-haskell-common
+2023-06-01,haskell,5,0,"Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH",necrobious,hS3,https://github.com/necrobious/hS3
+2023-06-01,haskell,8633,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-06-01,haskell,7192,4,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-06-01,haskell,29015,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
