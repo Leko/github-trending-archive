@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-02,go,4018,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-06-02,go,3963,10,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2023-06-02,go,66019,13,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-06-02,go,7700,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-06-02,go,17319,9,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-06-02,go,20703,12,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2023-06-02,go,48435,22,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-06-02,go,14081,6,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-06-02,go,6446,4,"An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-06-02,go,19226,11,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-06-02,go,6550,8,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2023-06-02,go,19791,10,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-06-02,go,7197,6,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2023-06-02,go,337,1,Terraform Datadog provider,DataDog,terraform-provider-datadog,https://github.com/DataDog/terraform-provider-datadog
+2023-06-02,go,2131,73,惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！,cherish-chat,xxim-server,https://github.com/cherish-chat/xxim-server
+2023-06-02,go,3568,8,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-06-02,go,4365,8,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-06-02,go,3255,4,Protocol Buffer Validation - Checkout the new `protovalidate` project,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2023-06-02,go,3316,8,CubeFS is a cloud native file storage,cubefs,cubefs,https://github.com/cubefs/cubefs
+2023-06-02,go,6120,8,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2023-06-02,go,10018,5,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2023-06-02,go,14943,24,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",casbin,casbin,https://github.com/casbin/casbin
+2023-06-02,go,5874,20,Database CI/CD for DevOps teams. https://www.bytebase.com,bytebase,bytebase,https://github.com/bytebase/bytebase
+2023-06-02,go,6168,5,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2023-06-02,go,3942,7,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
