@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-03,vue,263,100,mallchat的前端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing,Evansy,MallChatWeb,https://github.com/Evansy/MallChatWeb
+2023-06-03,vue,1949,172,QR designer web app with a novel method of designing qr codes that does not take advantage of error correction,kochrt,qr-designer,https://github.com/kochrt/qr-designer
+2023-06-03,vue,3756,3,"Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。",jekip,naive-ui-admin,https://github.com/jekip/naive-ui-admin
+2023-06-03,vue,23323,83,用 Express 和 Vue3 搭建的 ChatGPT 演示网页,Chanzhaoyu,chatgpt-web,https://github.com/Chanzhaoyu/chatgpt-web
+2023-06-03,vue,55,4,基于一键包搭建的stable-diffusion，推出适配移动端的界面UI，可以生成H5和微信小程序。,yuanyuekeji,stable-diffusion-mobileui,https://github.com/yuanyuekeji/stable-diffusion-mobileui
+2023-06-03,vue,2500,3,"基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面",buqiyuan,vue3-antd-admin,https://github.com/buqiyuan/vue3-antd-admin
+2023-06-03,vue,849,6,Fully styled and customizable components for Nuxt.,nuxtlabs,ui,https://github.com/nuxtlabs/ui
+2023-06-03,vue,18197,5,An enterprise-class UI components based on Ant Design and Vue.,vueComponent,ant-design-vue,https://github.com/vueComponent/ant-design-vue
+2023-06-03,vue,4575,7,An alternative privacy-friendly YouTube frontend which is efficient by design.,TeamPiped,Piped,https://github.com/TeamPiped/Piped
+2023-06-03,vue,8462,5,"一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档",chaitin,xray,https://github.com/chaitin/xray
+2023-06-03,vue,3575,13,"Icon Explorer with Instant searching, powered by Iconify",antfu,icones,https://github.com/antfu/icones
+2023-06-03,vue,345,2,一个还算强大的Web思维导图。A relatively powerful web mind map.,wanglin2,mind-map,https://github.com/wanglin2/mind-map
+2023-06-03,vue,1048,2,a Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss v3,viandwi24,nuxt3-awesome-starter,https://github.com/viandwi24/nuxt3-awesome-starter
+2023-06-03,vue,4123,0,eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由,elunez,eladmin-web,https://github.com/elunez/eladmin-web
+2023-06-03,vue,82574,25,A magical vue admin https://panjiachen.github.io/vue-element-admin,PanJiaChen,vue-element-admin,https://github.com/PanJiaChen/vue-element-admin
+2023-06-03,vue,638,17,"This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions. 这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。",Physton,sd-webui-prompt-all-in-one,https://github.com/Physton/sd-webui-prompt-all-in-one
+2023-06-03,vue,53406,4,A Vue.js 2.0 UI Toolkit for Web,ElemeFE,element,https://github.com/ElemeFE/element
+2023-06-03,vue,11733,13,"A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",Lissy93,dashy,https://github.com/Lissy93/dashy
+2023-06-03,vue,1686,3,Develope mobile apps so easy and native with GUI,4xmen,anubias,https://github.com/4xmen/anubias
+2023-06-03,vue,40097,3,Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用,bailicangdu,vue2-elm,https://github.com/bailicangdu/vue2-elm
+2023-06-03,vue,4382,10,Geeker Admin，基于 Vue3.3、TypeScript、Vite4、Pinia、Element-Plus 开源的一套后台管理框架。,HalseySpicy,Geeker-Admin,https://github.com/HalseySpicy/Geeker-Admin
+2023-06-03,vue,31,5,"A CDK construct that consists of a serverless backend, frontend and client side code to track website analytics",rehanvdm,serverless-website-analytics,https://github.com/rehanvdm/serverless-website-analytics
+2023-06-03,vue,8840,13,Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）,pure-admin,vue-pure-admin,https://github.com/pure-admin/vue-pure-admin
+2023-06-03,vue,236,0,POS Awesome is an open-source Point of Sale for Erpnext using Vue.js and Vuetify,yrestom,POS-Awesome,https://github.com/yrestom/POS-Awesome
+2023-06-03,vue,9436,2,Lightweight UI components for Vue.js based on Bulma,buefy,buefy,https://github.com/buefy/buefy

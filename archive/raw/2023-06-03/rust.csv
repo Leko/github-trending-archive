@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-03,rust,18064,306,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",spacedriveapp,spacedrive,https://github.com/spacedriveapp/spacedrive
+2023-06-03,rust,4730,1828,"大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",ClassmateLin,dm-ticket,https://github.com/ClassmateLin/dm-ticket
+2023-06-03,rust,564,171,"Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance",Lissy93,AdGuardian-Term,https://github.com/Lissy93/AdGuardian-Term
+2023-06-03,rust,3913,9,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2023-06-03,rust,180,39,Process injection through entry points hijacking.,Kudaes,EPI,https://github.com/Kudaes/EPI
+2023-06-03,rust,36845,33,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2023-06-03,rust,7847,51,A link aggregator and forum for the fediverse,LemmyNet,lemmy,https://github.com/LemmyNet/lemmy
+2023-06-03,rust,14645,2,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2023-06-03,rust,12351,12,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2023-06-03,rust,8105,15,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2023-06-03,rust,1859,104,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",lancedb,lance,https://github.com/lancedb/lance
+2023-06-03,rust,4517,10,Private front-end for Reddit,libreddit,libreddit,https://github.com/libreddit/libreddit
+2023-06-03,rust,18123,74,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-06-03,rust,2346,22,"Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui",rerun-io,rerun,https://github.com/rerun-io/rerun
+2023-06-03,rust,34481,13,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2023-06-03,rust,4404,6,SQL stream processing with Postgres-like experience. More than a modern alternative to Apache Flink.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2023-06-03,rust,3398,15,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2023-06-03,rust,3079,1,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2023-06-03,rust,42543,47,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-06-03,rust,82223,58,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-06-03,rust,4606,21,A fast Rust-based web bundler,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2023-06-03,rust,896,3,Cairo is the first Turing-complete language for creating provable programs for general computation.,starkware-libs,cairo,https://github.com/starkware-libs/cairo
+2023-06-03,rust,9954,25,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2023-06-03,rust,9449,3,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2023-06-03,rust,10350,9,Sampling profiler for Python programs,benfred,py-spy,https://github.com/benfred/py-spy
