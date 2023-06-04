@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-04,rust,4991,308,"大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",ClassmateLin,dm-ticket,https://github.com/ClassmateLin/dm-ticket
+2023-06-04,rust,18219,69,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-06-04,rust,582,22,"Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance",Lissy93,AdGuardian-Term,https://github.com/Lissy93/AdGuardian-Term
+2023-06-04,rust,18203,223,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",spacedriveapp,spacedrive,https://github.com/spacedriveapp/spacedrive
+2023-06-04,rust,82254,42,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-06-04,rust,21544,16,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-06-04,rust,1903,91,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",lancedb,lance,https://github.com/lancedb/lance
+2023-06-04,rust,25717,31,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2023-06-04,rust,3917,8,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2023-06-04,rust,4631,39,A fast Rust-based web bundler,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2023-06-04,rust,4411,7,SQL stream processing with Postgres-like experience. More than a modern alternative to Apache Flink.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2023-06-04,rust,8630,11,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2023-06-04,rust,64161,25,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-06-04,rust,14660,17,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2023-06-04,rust,1439,6,Apache OpenDAL: access data freely.,apache,incubator-opendal,https://github.com/apache/incubator-opendal
+2023-06-04,rust,9456,8,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2023-06-04,rust,903,6,Cairo is the first Turing-complete language for creating provable programs for general computation.,starkware-libs,cairo,https://github.com/starkware-libs/cairo
+2023-06-04,rust,1350,55,A program that provides LLMs with the ability to complete complex tasks using plugins.,Cormanz,smartgpt,https://github.com/Cormanz/smartgpt
+2023-06-04,rust,55,6,Kill processes protected by antivirus during offensive activities.,b1-team,superman,https://github.com/b1-team/superman
+2023-06-04,rust,11388,2,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2023-06-04,rust,3707,3,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-06-04,rust,7443,0,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2023-06-04,rust,3402,4,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2023-06-04,rust,12358,6,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2023-06-04,rust,2237,5,GlueSQL is quite sticky. It attaches to anywhere.,gluesql,gluesql,https://github.com/gluesql/gluesql
