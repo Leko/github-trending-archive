@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-06,rust,308,84,Pure Rust implementation of a minimal Generative Pretrained Transformer,keyvank,femtoGPT,https://github.com/keyvank/femtoGPT
+2023-06-06,rust,18423,82,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-06-06,rust,15876,52,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-06-06,rust,6269,22,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2023-06-06,rust,2278,24,GlueSQL is quite sticky. It attaches to anywhere.,gluesql,gluesql,https://github.com/gluesql/gluesql
+2023-06-06,rust,82330,54,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-06-06,rust,39212,29,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2023-06-06,rust,14686,20,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2023-06-06,rust,12350,16,The Rust Programming Language,rust-lang,book,https://github.com/rust-lang/book
+2023-06-06,rust,12513,12,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2023-06-06,rust,47071,49,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2023-06-06,rust,12006,14,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2023-06-06,rust,1034,46,The MQTT ecosystem in rust,bytebeamio,rumqtt,https://github.com/bytebeamio/rumqtt
+2023-06-06,rust,2244,10,"Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages",PyO3,maturin,https://github.com/PyO3/maturin
+2023-06-06,rust,1997,36,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",lancedb,lance,https://github.com/lancedb/lance
+2023-06-06,rust,11014,5,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,getzola,zola,https://github.com/getzola/zola
+2023-06-06,rust,12124,3,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2023-06-06,rust,35409,37,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy,https://github.com/AppFlowy-IO/AppFlowy
+2023-06-06,rust,1816,11,Rare and exotic sats,ordinals,ord,https://github.com/ordinals/ord
+2023-06-06,rust,1451,3,Apache OpenDAL: access data freely.,apache,incubator-opendal,https://github.com/apache/incubator-opendal
+2023-06-06,rust,3452,2,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2023-06-06,rust,20781,33,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-06-06,rust,5213,2,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-06-06,rust,346,125,Distributed System that simplifies the management of containers and virtual machines.,nxthat,nanocl,https://github.com/nxthat/nanocl
+2023-06-06,rust,7705,2,Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
