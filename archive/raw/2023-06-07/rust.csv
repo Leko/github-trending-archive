@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-07,rust,432,139,Pure Rust implementation of a minimal Generative Pretrained Transformer,keyvank,femtoGPT,https://github.com/keyvank/femtoGPT
+2023-06-07,rust,8167,106,A link aggregator and forum for the fediverse,LemmyNet,lemmy,https://github.com/LemmyNet/lemmy
+2023-06-07,rust,380,48,Distributed System that simplifies the management of containers and virtual machines.,nxthat,nanocl,https://github.com/nxthat/nanocl
+2023-06-07,rust,3090,29,"PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.",postgresml,postgresml,https://github.com/postgresml/postgresml
+2023-06-07,rust,42684,49,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-06-07,rust,18474,88,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",spacedriveapp,spacedrive,https://github.com/spacedriveapp/spacedrive
+2023-06-07,rust,14704,21,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2023-06-07,rust,15905,37,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-06-07,rust,11417,8,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2023-06-07,rust,1046,17,The MQTT ecosystem in rust,bytebeamio,rumqtt,https://github.com/bytebeamio/rumqtt
+2023-06-07,rust,17795,1,Relay is a JavaScript framework for building data-driven React applications.,facebook,relay,https://github.com/facebook/relay
+2023-06-07,rust,11021,13,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,getzola,zola,https://github.com/getzola/zola
+2023-06-07,rust,6289,19,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2023-06-07,rust,70,19,Prepare for a game of Minesweeper by placing mines!,sile,mineplacer,https://github.com/sile/mineplacer
+2023-06-07,rust,12882,27,Chromium running inside your terminal,fathyb,carbonyl,https://github.com/fathyb/carbonyl
+2023-06-07,rust,3083,1,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2023-06-07,rust,10359,4,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2023-06-07,rust,15659,7,Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2023-06-07,rust,2293,13,GlueSQL is quite sticky. It attaches to anywhere.,gluesql,gluesql,https://github.com/gluesql/gluesql
+2023-06-07,rust,2022,34,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",lancedb,lance,https://github.com/lancedb/lance
+2023-06-07,rust,36917,20,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2023-06-07,rust,21761,6,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2023-06-07,rust,15277,30,"An extremely fast Python linter, written in Rust.",charliermarsh,ruff,https://github.com/charliermarsh/ruff
+2023-06-07,rust,25449,22,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2023-06-07,rust,1816,4,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
