@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-08,vue,8901,17,Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）,pure-admin,vue-pure-admin,https://github.com/pure-admin/vue-pure-admin
+2023-06-08,vue,18101,22,"A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",vbenjs,vue-vben-admin,https://github.com/vbenjs/vue-vben-admin
+2023-06-08,vue,20125,14,A Vue.js 3 UI Library made by Element team,element-plus,element-plus,https://github.com/element-plus/element-plus
+2023-06-08,vue,1513,1,JeecgBoot—Vue3版前端源码，采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。,jeecgboot,jeecgboot-vue3,https://github.com/jeecgboot/jeecgboot-vue3
+2023-06-08,vue,2593,11,OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，后期会一点一点的将OpenAI接口进行接入大家支持一下，微信群号在下方，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。,202252197,ChatGPT_JCM,https://github.com/202252197/ChatGPT_JCM
+2023-06-08,vue,895,16,Fully styled and customizable components for Nuxt.,nuxtlabs,ui,https://github.com/nuxtlabs/ui
+2023-06-08,vue,4432,13,Geeker Admin，基于 Vue3.3、TypeScript、Vite4、Pinia、Element-Plus 开源的一套后台管理框架。,HalseySpicy,Geeker-Admin,https://github.com/HalseySpicy/Geeker-Admin
+2023-06-08,vue,93,2,使用vue(vue3) + ffmpeg + wasm 实现纯前端音视频编辑，功能包括：视频剪辑、音频剪辑、音频合成裁剪、音波展示、视频抽帧、gif抽帧、帧播放器、字幕、贴图、时间轴、素材轨道,Cc-Edit,CcClip,https://github.com/Cc-Edit/CcClip
+2023-06-08,vue,12953,39,跨平台桌面端视频资源播放器.简洁无广告.免费高颜值.,Hunlongyu,ZY-Player,https://github.com/Hunlongyu/ZY-Player
+2023-06-08,vue,8124,7,Blazing fast scrolling for any amount of data,Akryum,vue-virtual-scroller,https://github.com/Akryum/vue-virtual-scroller
+2023-06-08,vue,2763,3,Free and Open Source UI Library for Vue 3,epicmaxco,vuestic-ui,https://github.com/epicmaxco/vuestic-ui
+2023-06-08,vue,5024,8,Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3.2 版本，技术栈为 Vue3.2 + Vue-Router4.x + Pinia + Vant4.x。,newbee-ltd,newbee-mall-vue3-app,https://github.com/newbee-ltd/newbee-mall-vue3-app
+2023-06-08,vue,4124,1,Material design mobile component library for Vue3,varletjs,varlet,https://github.com/varletjs/varlet
+2023-06-08,vue,10172,0,👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro! (vue2),vueComponent,ant-design-vue-pro,https://github.com/vueComponent/ant-design-vue-pro
+2023-06-08,vue,53420,6,A Vue.js 2.0 UI Toolkit for Web,ElemeFE,element,https://github.com/ElemeFE/element
+2023-06-08,vue,2134,0,基于 Vue 的在线音乐播放器 Online music player,maomao1996,Vue-mmPlayer,https://github.com/maomao1996/Vue-mmPlayer
+2023-06-08,vue,23828,103,用 Express 和 Vue3 搭建的 ChatGPT 演示网页,Chanzhaoyu,chatgpt-web,https://github.com/Chanzhaoyu/chatgpt-web
+2023-06-08,vue,6064,0,mavonEditor - A markdown editor based on Vue that supports a variety of personalized features,hinesboy,mavonEditor,https://github.com/hinesboy/mavonEditor
+2023-06-08,vue,21102,13,"Wiki.js | A modern and powerful wiki app built on Node.js",requarks,wiki,https://github.com/requarks/wiki
+2023-06-08,vue,13055,12,"Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",beekeeper-studio,beekeeper-studio,https://github.com/beekeeper-studio/beekeeper-studio
+2023-06-08,vue,18210,3,An enterprise-class UI components based on Ant Design and Vue.,vueComponent,ant-design-vue,https://github.com/vueComponent/ant-design-vue
+2023-06-08,vue,5337,1,京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web),jdf2e,nutui,https://github.com/jdf2e/nutui
+2023-06-08,vue,2513,5,"基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面",buqiyuan,vue3-antd-admin,https://github.com/buqiyuan/vue3-antd-admin
+2023-06-08,vue,3774,3,"Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。",jekip,naive-ui-admin,https://github.com/jekip/naive-ui-admin
+2023-06-08,vue,464,3,SuperBot (ChatGPT4.0 ChatGPT3.5 NewBing Stable-diffusion),dulaiduwang003,SuperBot-ChatGPTApp,https://github.com/dulaiduwang003/SuperBot-ChatGPTApp
