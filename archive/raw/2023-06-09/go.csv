@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-09,go,18248,11,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-06-09,go,6429,147,"Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-06-09,go,32647,15,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-06-09,go,7733,8,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-06-09,go,99037,47,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-06-09,go,24451,9,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2023-06-09,go,11596,85,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-06-09,go,15247,8,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-06-09,go,8522,5,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk
+2023-06-09,go,15006,4,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2023-06-09,go,6102,6,"A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.",YaoApp,yao,https://github.com/YaoApp/yao
+2023-06-09,go,5741,5,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-06-09,go,3119,10,Random fake data generator written in go,brianvoe,gofakeit,https://github.com/brianvoe/gofakeit
+2023-06-09,go,6030,13,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2023-06-09,go,15568,13,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-06-09,go,15577,14,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-06-09,go,3263,4,基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.,Mikaelemmmm,go-zero-looklook,https://github.com/Mikaelemmmm/go-zero-looklook
+2023-06-09,go,5094,16,Arbitrary-precision fixed-point decimal numbers in go,shopspring,decimal,https://github.com/shopspring/decimal
+2023-06-09,go,12397,6,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2023-06-09,go,111997,42,The Go programming language,golang,go,https://github.com/golang/go
+2023-06-09,go,28556,26,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2023-06-09,go,4579,10,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2023-06-09,go,8607,5,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-06-09,go,2023,4,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2023-06-09,go,17367,12,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
