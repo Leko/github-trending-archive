@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-10,elixir,15063,8,"Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2023-06-10,elixir,3563,3,Automate code & data workflows with interactive Elixir notebooks,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2023-06-10,elixir,2515,2,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2023-06-10,elixir,5757,2,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2023-06-10,elixir,68,0,Public database of Elixir security advisories pulled from GitHub Advisory Database,mirego,elixir-security-advisories,https://github.com/mirego/elixir-security-advisories
+2023-06-10,elixir,21,0,The fusion_auth library provides an Elixir API for accessing the FusionAuth Developer APIs.,leo-technologies-llc,fusion_auth,https://github.com/leo-technologies-llc/fusion_auth
+2023-06-10,elixir,469,1,An Elixir Websocket Client,Azolo,websockex,https://github.com/Azolo/websockex
+2023-06-10,elixir,11915,3,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",h4cc,awesome-elixir,https://github.com/h4cc/awesome-elixir
+2023-06-10,elixir,295,1,Codebattle game,hexlet-codebattle,codebattle,https://github.com/hexlet-codebattle/codebattle
+2023-06-10,elixir,21699,3,"Elixir is a dynamic, functional language for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2023-06-10,elixir,5902,3,"Broadcast, Presence, and Postgres Changes via WebSockets",supabase,realtime,https://github.com/supabase/realtime
+2023-06-10,elixir,835,3,Pre-trained Neural Network models in Axon (+  Models integration),elixir-nx,bumblebee,https://github.com/elixir-nx/bumblebee
+2023-06-10,elixir,142,0,The Main application that provides the core interface via the glific APIs,glific,glific,https://github.com/glific/glific
+2023-06-10,elixir,5247,2,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2023-06-10,elixir,1171,0,"A frontend-independent IDE ""smartness"" server for Elixir. Implements the ""Language Server Protocol"" standard and provides debugger support via the ""Debug Adapter Protocol""",elixir-lsp,elixir-ls,https://github.com/elixir-lsp/elixir-ls
+2023-06-10,elixir,3899,3,A self-hosted data logger for your Tesla,adriankumpf,teslamate,https://github.com/adriankumpf/teslamate
+2023-06-10,elixir,249,2,An @elixir-lang code-style enforcer that will just FIFY instead of complaining,adobe,elixir-styler,https://github.com/adobe/elixir-styler
+2023-06-10,elixir,120,4,Lexical is a next-generation elixir language server,lexical-lsp,lexical,https://github.com/lexical-lsp/lexical
+2023-06-10,elixir,186,0,Elixir framework to build your own in-house PaaS,access-company,antikythera,https://github.com/access-company/antikythera
+2023-06-10,elixir,487,3,Thousand Island is a pure Elixir socket server,mtrudel,thousand_island,https://github.com/mtrudel/thousand_island
+2023-06-10,elixir,4301,4,WireGuard®-based VPN server and firewall,firezone,firezone,https://github.com/firezone/firezone
+2023-06-10,elixir,2660,0,Compose web applications with functions,elixir-plug,plug,https://github.com/elixir-plug/plug
+2023-06-10,elixir,131,0,Wrapper around the Erlang crypto module for Elixir.,ntrepid8,ex_crypto,https://github.com/ntrepid8/ex_crypto
+2023-06-10,elixir,1460,0,A merge bot for GitHub Pull Requests,bors-ng,bors-ng,https://github.com/bors-ng/bors-ng

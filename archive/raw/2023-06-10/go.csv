@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-10,go,6592,70,Modern UI for Ansible,ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore
+2023-06-10,go,11605,17,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-06-10,go,18286,52,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-06-10,go,7734,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-06-10,go,226,40,"KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL, Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud.",apecloud,kubeblocks,https://github.com/apecloud/kubeblocks
+2023-06-10,go,1814,4,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2023-06-10,go,504,23,Scalable unofficial ChatGPT API for production.,acheong08,ChatGPT-to-API,https://github.com/acheong08/ChatGPT-to-API
+2023-06-10,go,3064,4,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2023-06-10,go,19860,11,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-06-10,go,17372,5,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-06-10,go,5226,1,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2023-06-10,go,5742,5,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-06-10,go,15090,9,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2023-06-10,go,4596,0,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
+2023-06-10,go,11690,2,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2023-06-10,go,6152,2,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2023-06-10,go,3790,3,Go HTTP framework with high-performance and strong-extensibility for building micro-services.,cloudwego,hertz,https://github.com/cloudwego/hertz
+2023-06-10,go,112028,47,The Go programming language,golang,go,https://github.com/golang/go
+2023-06-10,go,4667,8,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-06-10,go,13133,7,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",geektutu,7days-golang,https://github.com/geektutu/7days-golang
+2023-06-10,go,139,21,奇安信VPN任意用户密码重置,adeljck,QAX_VPN_Crack,https://github.com/adeljck/QAX_VPN_Crack
+2023-06-10,go,32880,7,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2023-06-10,go,8945,0,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2023-06-10,go,863,2,Automatic container image update for Argo CD,argoproj-labs,argocd-image-updater,https://github.com/argoproj-labs/argocd-image-updater
+2023-06-10,go,37000,18,"Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea

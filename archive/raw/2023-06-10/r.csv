@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-10,r,826,0,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2023-06-10,r,1829,2,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2023-06-10,r,464,1,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2023-06-10,r,1080,2,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2023-06-10,r,464,2,Equipment Loss Tracking,leedrake5,Russia-Ukraine,https://github.com/leedrake5/Russia-Ukraine
+2023-06-10,r,1620,3,Statistical Rethinking Course for Jan-Mar 2023,rmcelreath,stat_rethinking_2023,https://github.com/rmcelreath/stat_rethinking_2023
+2023-06-10,r,502,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2023-06-10,r,264,0,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2023-06-10,r,413,0,"Fast, sensitive and accurate integration of single-cell data with Harmony",immunogenomics,harmony,https://github.com/immunogenomics/harmony
+2023-06-10,r,3983,0,R for data science: a book,hadley,r4ds,https://github.com/hadley/r4ds
+2023-06-10,r,841,1,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2023-06-10,r,5031,1,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2023-06-10,r,291,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2023-06-10,r,227,1,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2023-06-10,r,1014,0,'ggplot2' Based Publication Ready Plots,kassambara,ggpubr,https://github.com/kassambara/ggpubr
+2023-06-10,r,5944,2,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2023-06-10,r,4467,1,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2023-06-10,r,1150,1,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2023-06-10,r,127,2,,kpatel427,YouTubeTutorials,https://github.com/kpatel427/YouTubeTutorials
+2023-06-10,r,3306,0,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2023-06-10,r,101,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2023-06-10,r,3085,0,A curated list of awesome network analysis resources.,briatte,awesome-network-analysis,https://github.com/briatte/awesome-network-analysis
+2023-06-10,r,14,1,"Code for reproducing the analysis in Gavish et al. ""The transcriptional hallmarks of intra-tumor heterogeneity across a thousand tumors"".",tiroshlab,3ca,https://github.com/tiroshlab/3ca
+2023-06-10,r,1714,1,"Easily generate information-rich, publication-quality tables from R",rstudio,gt,https://github.com/rstudio/gt
+2023-06-10,r,293,0,"Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs",r-lib,remotes,https://github.com/r-lib/remotes
