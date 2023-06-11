@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-11,go,2626,1082,Apollo backend server,christianselig,apollo-backend,https://github.com/christianselig/apollo-backend
+2023-06-11,go,18287,5,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-06-11,go,15268,6,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-06-11,go,6700,151,Modern UI for Ansible,ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore
+2023-06-11,go,2431,79,"Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.",terramate-io,terramate,https://github.com/terramate-io/terramate
+2023-06-11,go,32138,16,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-06-11,go,10740,5,CoreDNS is a DNS server that chains plugins,coredns,coredns,https://github.com/coredns/coredns
+2023-06-11,go,4577,1,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2023-06-11,go,12976,2,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-06-11,go,17375,3,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-06-11,go,2827,9,The Finch CLI an open source client for container development,runfinch,finch,https://github.com/runfinch/finch
+2023-06-11,go,2437,27,惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！,cherish-chat,xxim-server,https://github.com/cherish-chat/xxim-server
+2023-06-11,go,11800,0,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-06-11,go,17403,3,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.  Learn Go by fixing 1000+ tiny programs.",inancgumus,learngo,https://github.com/inancgumus/learngo
+2023-06-11,go,864,5,Automatic container image update for Argo CD,argoproj-labs,argocd-image-updater,https://github.com/argoproj-labs/argocd-image-updater
+2023-06-11,go,13291,9,"Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-06-11,go,244,20,"KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL, Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud.",apecloud,kubeblocks,https://github.com/apecloud/kubeblocks
+2023-06-11,go,42523,10,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-06-11,go,13004,3,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2023-06-11,go,4975,2,The official Go client for Elasticsearch,elastic,go-elasticsearch,https://github.com/elastic/go-elasticsearch
+2023-06-11,go,10636,1,ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:,dgrijalva,jwt-go,https://github.com/dgrijalva/jwt-go
+2023-06-11,go,2081,4,VMware macOS utilities,DrDonk,unlocker,https://github.com/DrDonk/unlocker
+2023-06-11,go,5108,4,Arbitrary-precision fixed-point decimal numbers in go,shopspring,decimal,https://github.com/shopspring/decimal
+2023-06-11,go,8118,6,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2023-06-11,go,9739,4,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
