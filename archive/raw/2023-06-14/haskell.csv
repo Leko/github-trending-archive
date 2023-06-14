@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-14,haskell,32312,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-06-14,haskell,20646,8,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-06-14,haskell,29114,7,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-06-14,haskell,1369,0,Haskell source code suggestions,ndmitchell,hlint,https://github.com/ndmitchell/hlint
+2023-06-14,haskell,8678,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-06-14,haskell,2362,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-06-14,haskell,1496,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-06-14,haskell,2689,3,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
+2023-06-14,haskell,3337,9,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-06-14,haskell,2129,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2023-06-14,haskell,2943,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-06-14,haskell,14,0,Symbolic execution of LLVM IR traces for program understanding.,phulin,symbolic-trace,https://github.com/phulin/symbolic-trace
+2023-06-14,haskell,1,0,alios todo server,alios,aliostodo,https://github.com/alios/aliostodo
+2023-06-14,haskell,247,1,,gren-lang,compiler,https://github.com/gren-lang/compiler
+2023-06-14,haskell,1707,0,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-06-14,haskell,92,1,A package index for the Haskell ecosystem,flora-pm,flora-server,https://github.com/flora-pm/flora-server
+2023-06-14,haskell,559,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-06-14,haskell,195,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-06-14,haskell,803,1,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly
+2023-06-14,haskell,710,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,input-output-hk,cardano-wallet,https://github.com/input-output-hk/cardano-wallet
+2023-06-14,haskell,8689,1,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic

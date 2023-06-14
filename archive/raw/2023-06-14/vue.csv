@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-14,vue,2286,1,Documentation for Vue 3,vuejs,docs,https://github.com/vuejs/docs
+2023-06-14,vue,2682,15,Interface for Snapshot. Join us on Discord http://discord.snapshot.org,snapshot-labs,snapshot,https://github.com/snapshot-labs/snapshot
+2023-06-14,vue,2530,3,"基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面",buqiyuan,vue3-antd-admin,https://github.com/buqiyuan/vue3-antd-admin
+2023-06-14,vue,11842,19,"A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",Lissy93,dashy,https://github.com/Lissy93/dashy
+2023-06-14,vue,1244,6,"A set of background integration scheme based on vue3, element-plus, typescript4 and vite4",kailong321200875,vue-element-plus-admin,https://github.com/kailong321200875/vue-element-plus-admin
+2023-06-14,vue,82724,19,A magical vue admin https://panjiachen.github.io/vue-element-admin,PanJiaChen,vue-element-admin,https://github.com/PanJiaChen/vue-element-admin
+2023-06-14,vue,1764,14,Unleash Nuxt Developer Experience,nuxt,devtools,https://github.com/nuxt/devtools
+2023-06-14,vue,48,4,超级AI大脑一个基于Spring Boot架构，支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时也支持画图，用户输入文本，便可以自动制作文生文生图。未来会接入：文心一言、通义千问、MOSS等国产AI大模型，持续更新中，更多功能等着你来解锁,274056675,springboot-openai-chatgpt,https://github.com/274056675/springboot-openai-chatgpt
+2023-06-14,vue,61,18,Nuxt 2 and Vue 2 client for genealogy project. Family tree and genealogy data processing website software client.,liberu-ui,genealogy,https://github.com/liberu-ui/genealogy
+2023-06-14,vue,1731,9,Develope mobile apps so easy and native with GUI,4xmen,anubias,https://github.com/4xmen/anubias
+2023-06-14,vue,1766,9,"A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统",un-pany,v3-admin-vite,https://github.com/un-pany/v3-admin-vite
+2023-06-14,vue,942,12,Fully styled and customizable components for Nuxt.,nuxtlabs,ui,https://github.com/nuxtlabs/ui
+2023-06-14,vue,4280,5,基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。,pipipi-pikachu,PPTist,https://github.com/pipipi-pikachu/PPTist
+2023-06-14,vue,3971,2,"WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",doocs,md,https://github.com/doocs/md
+2023-06-14,vue,1541,3,JeecgBoot—Vue3版前端源码，采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。,jeecgboot,jeecgboot-vue3,https://github.com/jeecgboot/jeecgboot-vue3
+2023-06-14,vue,5346,2,京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web),jdf2e,nutui,https://github.com/jdf2e/nutui
+2023-06-14,vue,130,17,使用vue(vue3) + ffmpeg + wasm 实现纯前端音视频编辑，功能包括：视频剪辑、音频剪辑、音频合成裁剪、音波展示、视频抽帧、gif抽帧、帧播放器、字幕、贴图、时间轴、素材轨道,Cc-Edit,CcClip,https://github.com/Cc-Edit/CcClip
+2023-06-14,vue,127,8,基于一键包搭建的stable-diffusion，推出适配移动端的界面UI，可以生成H5和微信小程序。,yuanyuekeji,stable-diffusion-mobileui,https://github.com/yuanyuekeji/stable-diffusion-mobileui
+2023-06-14,vue,149,2,mall-app-web是一个电商系统的移动端项目，基于uni-app实现。主要包括首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等功能。,macrozheng,mall-app-web,https://github.com/macrozheng/mall-app-web
+2023-06-14,vue,10754,4,mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。,macrozheng,mall-admin-web,https://github.com/macrozheng/mall-admin-web
+2023-06-14,vue,4025,6,Vue + SpringBoot + MyBatis 音乐网站,Yin-Hongwei,music-website,https://github.com/Yin-Hongwei/music-website
+2023-06-14,vue,7881,4,Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布),DataV-Team,DataV,https://github.com/DataV-Team/DataV
+2023-06-14,vue,21165,13,"Wiki.js | A modern and powerful wiki app built on Node.js",requarks,wiki,https://github.com/requarks/wiki
+2023-06-14,vue,2766,0,Free and Open Source UI Library for Vue 3,epicmaxco,vuestic-ui,https://github.com/epicmaxco/vuestic-ui
+2023-06-14,vue,8144,4,Blazing fast scrolling for any amount of data,Akryum,vue-virtual-scroller,https://github.com/Akryum/vue-virtual-scroller
