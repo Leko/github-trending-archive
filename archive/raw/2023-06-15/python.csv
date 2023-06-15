@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-15,python,5016,2698,"Specify what you want it to build, the AI asks for clarification, and then builds it.",AntonOsika,gpt-engineer,https://github.com/AntonOsika/gpt-engineer
+2023-06-15,python,6268,771,"Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",facebookresearch,audiocraft,https://github.com/facebookresearch/audiocraft
+2023-06-15,python,1787,53,"Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.",Luodian,Otter,https://github.com/Luodian/Otter
+2023-06-15,python,243931,368,A collective list of free APIs,public-apis,public-apis,https://github.com/public-apis/public-apis
+2023-06-15,python,9078,120,"langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答",imClumsyPanda,langchain-ChatGLM,https://github.com/imClumsyPanda/langchain-ChatGLM
+2023-06-15,python,47596,341,Building applications with LLMs through composability,hwchase17,langchain,https://github.com/hwchase17/langchain
+2023-06-15,python,6323,81,OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。,hiroi-sora,Umi-OCR,https://github.com/hiroi-sora/Umi-OCR
+2023-06-15,python,265,23,中文法律LLaMA,AndrewZhe,lawyer-llama,https://github.com/AndrewZhe/lawyer-llama
+2023-06-15,python,26424,44,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.,facebookresearch,fairseq,https://github.com/facebookresearch/fairseq
+2023-06-15,python,11241,37,"Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",microsoft,qlib,https://github.com/microsoft/qlib
+2023-06-15,python,2969,290,"FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.",FlagAI-Open,FlagAI,https://github.com/FlagAI-Open/FlagAI
+2023-06-15,python,59138,50,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",tiangolo,fastapi,https://github.com/tiangolo/fastapi
+2023-06-15,python,370,43,LangChain LLM application. Dynamic few-shot metaprompting for theory-of-mind-powered tutoring.,plastic-labs,tutor-gpt,https://github.com/plastic-labs/tutor-gpt
+2023-06-15,python,4797,83,Voice data <= 10 mins can also be used to train a good VC model!,RVC-Project,Retrieval-based-Voice-Conversion-WebUI,https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+2023-06-15,python,51,10,MOVEit CVE-2023-34362,horizon3ai,CVE-2023-34362,https://github.com/horizon3ai/CVE-2023-34362
+2023-06-15,python,4523,27,"Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",Lightning-AI,lit-llama,https://github.com/Lightning-AI/lit-llama
+2023-06-15,python,57694,18,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",ansible,ansible,https://github.com/ansible/ansible
+2023-06-15,python,8992,40,NEW - YOLOv8  in PyTorch > ONNX > CoreML > TFLite,ultralytics,ultralytics,https://github.com/ultralytics/ultralytics
+2023-06-15,python,10966,92,中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs),ymcui,Chinese-LLaMA-Alpaca,https://github.com/ymcui/Chinese-LLaMA-Alpaca
+2023-06-15,python,317,15,"AI chatbot  for chat with CSV, PDF, TXT files  and YTB videos  | using Langchain | OpenAI | Streamlit",yvann-hub,Robby-chatbot,https://github.com/yvann-hub/Robby-chatbot
+2023-06-15,python,3288,4,Confluent's Kafka Python Client,confluentinc,confluent-kafka-python,https://github.com/confluentinc/confluent-kafka-python
+2023-06-15,python,12689,47,"A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",wilsonfreitas,awesome-quant,https://github.com/wilsonfreitas/awesome-quant
+2023-06-15,python,2891,3,"Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among connected sibling servers (Villain instances running on different machines).",t3l3machus,Villain,https://github.com/t3l3machus/Villain
+2023-06-15,python,350,25,A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.,turboderp,exllama,https://github.com/turboderp/exllama
+2023-06-15,python,190,15,,ohyicong,decrypt-chrome-passwords,https://github.com/ohyicong/decrypt-chrome-passwords
