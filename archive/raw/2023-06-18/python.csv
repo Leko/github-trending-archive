@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-18,python,3057,185,A large-scale 7B pretraining language model developed by BaiChuan-Inc.,baichuan-inc,baichuan-7B,https://github.com/baichuan-inc/baichuan-7B
+2023-06-18,python,11869,2213,"Specify what you want it to build, the AI asks for clarification, and then builds it.",AntonOsika,gpt-engineer,https://github.com/AntonOsika/gpt-engineer
+2023-06-18,python,537,113,Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA),hiyouga,LLaMA-Efficient-Tuning,https://github.com/hiyouga/LLaMA-Efficient-Tuning
+2023-06-18,python,393,90,An algorithm for reconstructing the radiance field of a large-scale scene from a single casually captured video.,facebookresearch,localrf,https://github.com/facebookresearch/localrf
+2023-06-18,python,2424,54,"Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf",h2oai,h2ogpt,https://github.com/h2oai/h2ogpt
+2023-06-18,python,13074,79,Stable Diffusion with Core ML on Apple Silicon,apple,ml-stable-diffusion,https://github.com/apple/ml-stable-diffusion
+2023-06-18,python,372,19,MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。,shibing624,MedicalGPT,https://github.com/shibing624/MedicalGPT
+2023-06-18,python,2703,89,"Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder",nlpxucan,WizardLM,https://github.com/nlpxucan/WizardLM
+2023-06-18,python,5078,118,"OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic : Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.",open-mmlab,mmagic,https://github.com/open-mmlab/mmagic
+2023-06-18,python,26057,124,"DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",microsoft,DeepSpeed,https://github.com/microsoft/DeepSpeed
+2023-06-18,python,1510,161,"Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, ""Self-supervised learning from images with a joint-embedding predictive architecture.""",facebookresearch,ijepa,https://github.com/facebookresearch/ijepa
+2023-06-18,python,412,79,,Victorwz,LongMem,https://github.com/Victorwz/LongMem
+2023-06-18,python,250,28,WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023),THUDM,WebGLM,https://github.com/THUDM/WebGLM
+2023-06-18,python,834,51,"Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration",lyuchenyang,Macaw-LLM,https://github.com/lyuchenyang/Macaw-LLM
+2023-06-18,python,84293,210,Stable Diffusion web UI,AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2023-06-18,python,172,19,SqueezeLLM: Dense-and-Sparse Quantization,SqueezeAILab,SqueezeLLM,https://github.com/SqueezeAILab/SqueezeLLM
+2023-06-18,python,48483,242,Building applications with LLMs through composability,hwchase17,langchain,https://github.com/hwchase17/langchain
+2023-06-18,python,1757,12,A Python package for segmenting geospatial data with the Segment Anything Model (SAM),opengeos,segment-geospatial,https://github.com/opengeos/segment-geospatial
+2023-06-18,python,71482,27,The Web framework for perfectionists with deadlines.,django,django,https://github.com/django/django
+2023-06-18,python,1126,46,"Implementation of Falcon, StableLM, Pythia, INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",Lightning-AI,lit-parrot,https://github.com/Lightning-AI/lit-parrot
+2023-06-18,python,6025,82,"免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.",LiLittleCat,awesome-free-chatgpt,https://github.com/LiLittleCat/awesome-free-chatgpt
+2023-06-18,python,18462,66,"Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",JaidedAI,EasyOCR,https://github.com/JaidedAI/EasyOCR
+2023-06-18,python,23386,109,"An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.",lm-sys,FastChat,https://github.com/lm-sys/FastChat
+2023-06-18,python,3337,13,Get a ChatGPT plugin up and running in under 5 minutes!,openai,plugins-quickstart,https://github.com/openai/plugins-quickstart
+2023-06-18,python,119,24,simple trainer for musicgen/audiocraft,chavinlo,musicgen_trainer,https://github.com/chavinlo/musicgen_trainer

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-18,shell,219,43,"NucleiFuzzer is a powerful automation tool for detecting xss,sqli,ssrf,open-redirect..etc vulnerabilities in web applications",0xKayala,NucleiFuzzer,https://github.com/0xKayala/NucleiFuzzer
+2023-06-18,shell,17731,6,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2023-06-18,shell,806,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2023-06-18,shell,5902,3,"Primary source of truth for the Docker ""Official Images"" program",docker-library,official-images,https://github.com/docker-library/official-images
+2023-06-18,shell,3853,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-06-18,shell,1555,2,Provides network connectivity to WSL 2 when blocked by VPN,sakai135,wsl-vpnkit,https://github.com/sakai135/wsl-vpnkit
+2023-06-18,shell,15270,6,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2023-06-18,shell,6191,15,"WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",fscarmen,warp,https://github.com/fscarmen/warp
+2023-06-18,shell,1335,0,Docker Official Image packaging for golang,docker-library,golang,https://github.com/docker-library/golang
+2023-06-18,shell,632,14,Automated Redpill Loader(i18n),wjz304,arpl-i18n,https://github.com/wjz304/arpl-i18n
+2023-06-18,shell,466,0,,docker-library,hello-world,https://github.com/docker-library/hello-world
+2023-06-18,shell,3462,0,Docker Official Image packaging for PHP,docker-library,php,https://github.com/docker-library/php
+2023-06-18,shell,23174,1,"Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty",mbadolato,iTerm2-Color-Schemes,https://github.com/mbadolato/iTerm2-Color-Schemes
+2023-06-18,shell,9194,3,使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响,easzlab,kubeasz,https://github.com/easzlab/kubeasz
+2023-06-18,shell,4037,1,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2023-06-18,shell,6283,2,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2023-06-18,shell,572,4,"Add your HDD, SSD and NVMe drives to your Synology's compatible drive database",007revad,Synology_HDD_db,https://github.com/007revad/Synology_HDD_db
+2023-06-18,shell,4673,12,Proxmox VE Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2023-06-18,shell,226,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2023-06-18,shell,473,0,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2023-06-18,shell,2689,6,"最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。 | The most comprehensive technical map of game development. Help game developers save time on known problems and save more energy for more creative work.",gonglei007,GameDevMind,https://github.com/gonglei007/GameDevMind
+2023-06-18,shell,10282,14,A Clash Client For OpenWrt,vernesong,OpenClash,https://github.com/vernesong/OpenClash
+2023-06-18,shell,6068,0,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2023-06-18,shell,10900,6,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
+2023-06-18,shell,6805,1,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium

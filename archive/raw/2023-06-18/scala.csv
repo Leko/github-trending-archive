@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-18,scala,35997,4,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-06-18,scala,6077,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2023-06-18,scala,2830,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-06-18,scala,58188,13,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2023-06-18,scala,12709,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-06-18,scala,4302,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-06-18,scala,12408,1,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2023-06-18,scala,3289,1,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2023-06-18,scala,4942,4,"Lightweight, modular, and extensible library for functional programming.",typelevel,cats,https://github.com/typelevel/cats
+2023-06-18,scala,5962,0,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-06-18,scala,1359,3,Compiler for the Vale programming language - http://vale.dev/,ValeLang,Vale,https://github.com/ValeLang/Vale
+2023-06-18,scala,3811,6,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-06-18,scala,7,0,This repo is the public repository which hosts the TPC benchmarks we use to gauge system performance.,hitachisolutionsamerica,dataestate-benchmarks,https://github.com/hitachisolutionsamerica/dataestate-benchmarks
+2023-06-18,scala,537,0,,oap-project,gluten,https://github.com/oap-project/gluten
+2023-06-18,scala,593,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2023-06-18,scala,2569,0,Scala Scripting,com-lihaoyi,Ammonite,https://github.com/com-lihaoyi/Ammonite
+2023-06-18,scala,1908,1,DataStax Spark Cassandra Connector,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2023-06-18,scala,1805,2,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2023-06-18,scala,1880,2,深圳地铁大数据客流分析系统,geekyouth,SZT-bigdata,https://github.com/geekyouth/SZT-bigdata
+2023-06-18,scala,221,0,,ucb-bar,berkeley-hardfloat,https://github.com/ucb-bar/berkeley-hardfloat
+2023-06-18,scala,227,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2023-06-18,scala,207,0,"学习spark写的scala代码，工具使用的是IDEA2017.1.6,欢迎star",daizikaikou,learningSpark,https://github.com/daizikaikou/learningSpark
+2023-06-18,scala,8670,2,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2023-06-18,scala,1213,0,"Declarative, type-safe web endpoints library",softwaremill,tapir,https://github.com/softwaremill/tapir
+2023-06-18,scala,5344,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty

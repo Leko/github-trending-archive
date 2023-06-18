@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-18,go,8178,7,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2023-06-18,go,6510,3,"An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-06-18,go,315,17,,MatthewJamesBoyle,golang-interview-prep,https://github.com/MatthewJamesBoyle/golang-interview-prep
+2023-06-18,go,112233,26,The Go programming language,golang,go,https://github.com/golang/go
+2023-06-18,go,5968,55,现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-06-18,go,19214,4,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-06-18,go,3313,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2023-06-18,go,5756,1,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-06-18,go,7749,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-06-18,go,5413,4,Staticcheck - The advanced Go linter,dominikh,go-tools,https://github.com/dominikh/go-tools
+2023-06-18,go,16291,10,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages,pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-06-18,go,8113,3,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2023-06-18,go,2195,3,EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具,EdgeSecurityTeam,EHole,https://github.com/EdgeSecurityTeam/EHole
+2023-06-18,go,2096,16,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",helmfile,helmfile,https://github.com/helmfile/helmfile
+2023-06-18,go,14461,4,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2023-06-18,go,19920,10,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-06-18,go,6270,3,A Go port of Ruby's dotenv library (Loads environment variables from .env files),joho,godotenv,https://github.com/joho/godotenv
+2023-06-18,go,5523,17,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2023-06-18,go,66141,13,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-06-18,go,11122,11,The most customisable and low-latency cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2023-06-18,go,6590,1,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2023-06-18,go,3666,7,ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.,zitadel,zitadel,https://github.com/zitadel/zitadel
+2023-06-18,go,5944,3,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2023-06-18,go,9006,3,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2023-06-18,go,48656,11,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
