@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-19,go,8672,7,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2023-06-19,go,17565,17,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2023-06-19,go,26942,40,"A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-06-19,go,3927,2,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-06-19,go,43455,40,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2023-06-19,go,1005,4,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
+2023-06-19,go,4634,4,Dendrite is a second-generation Matrix homeserver written in Go!,matrix-org,dendrite,https://github.com/matrix-org/dendrite
+2023-06-19,go,2099,6,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",helmfile,helmfile,https://github.com/helmfile/helmfile
+2023-06-19,go,15077,8,Dolt – Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2023-06-19,go,5476,9,"Instant, easy, and predictable development environments",jetpack-io,devbox,https://github.com/jetpack-io/devbox
+2023-06-19,go,12972,5,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2023-06-19,go,5940,6,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2023-06-19,go,19814,4,Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2023-06-19,go,4059,11,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2023-06-19,go,14606,13,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-06-19,go,21244,5,Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2023-06-19,go,4039,8,Block spying and tracking on Windows,crazy-max,WindowsSpyBlocker,https://github.com/crazy-max/WindowsSpyBlocker
+2023-06-19,go,68507,29,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2023-06-19,go,11889,5,"A scalable overlay networking tool with a focus on performance, simplicity and security",slackhq,nebula,https://github.com/slackhq/nebula
+2023-06-19,go,13904,4,Application Kernel for Containers,google,gvisor,https://github.com/google/gvisor
+2023-06-19,go,22944,9,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2023-06-19,go,2347,1,Determined: Deep Learning Training Platform,determined-ai,determined,https://github.com/determined-ai/determined
+2023-06-19,go,3970,24,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2023-06-19,go,13362,7,"Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت",getlantern,lantern,https://github.com/getlantern/lantern
+2023-06-19,go,4780,18,The open source high performance data integration platform built for developers.,cloudquery,cloudquery,https://github.com/cloudquery/cloudquery

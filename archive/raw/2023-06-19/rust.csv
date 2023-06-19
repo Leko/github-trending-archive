@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-19,rust,65091,163,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-06-19,rust,276,63,A cross platform Mastodon Client written in Rust,terhechte,Ebou,https://github.com/terhechte/Ebou
+2023-06-19,rust,4516,16,SQL stream processing with Postgres-like experience. More than a modern alternative to Apache Flink.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2023-06-19,rust,9638,29,"React-like GUI library for desktop, web, mobile, TUI, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-06-19,rust,5279,13,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-06-19,rust,39578,35,Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2023-06-19,rust,10145,11,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2023-06-19,rust,18972,42,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",spacedriveapp,spacedrive,https://github.com/spacedriveapp/spacedrive
+2023-06-19,rust,1348,9,Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.,Priler,jarvis,https://github.com/Priler/jarvis
+2023-06-19,rust,10679,17,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-06-19,rust,10187,3,The Modern Port Scanner,RustScan,RustScan,https://github.com/RustScan/RustScan
+2023-06-19,rust,82725,29,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-06-19,rust,6386,4,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2023-06-19,rust,47272,13,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2023-06-19,rust,15343,11,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-06-19,rust,5410,6,The Rust toolchain installer,rust-lang,rustup,https://github.com/rust-lang/rustup
+2023-06-19,rust,9427,25,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-06-19,rust,2443,2,GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习,alibaba,GraphScope,https://github.com/alibaba/GraphScope
+2023-06-19,rust,27859,5,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2023-06-19,rust,38409,27,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2023-06-19,rust,2914,2,An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.,rust-lang,regex,https://github.com/rust-lang/regex
+2023-06-19,rust,34753,14,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2023-06-19,rust,8081,56,A command-line hex viewer,sharkdp,hexyl,https://github.com/sharkdp/hexyl
+2023-06-19,rust,16239,17,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2023-06-19,rust,4488,44,Video stabilization using gyroscope data,gyroflow,gyroflow,https://github.com/gyroflow/gyroflow
