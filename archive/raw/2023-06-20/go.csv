@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-20,go,111,27,"Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.",assetnote,surf,https://github.com/assetnote/surf
+2023-06-20,go,6334,5,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",drakkan,sftpgo,https://github.com/drakkan/sftpgo
+2023-06-20,go,42653,12,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2023-06-20,go,2303,5,"Golang 算法竞赛模板库 | Solutions to Codeforces by Go",EndlessCheng,codeforces-go,https://github.com/EndlessCheng/codeforces-go
+2023-06-20,go,6907,6,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2023-06-20,go,8848,12,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2023-06-20,go,3778,99,ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.,zitadel,zitadel,https://github.com/zitadel/zitadel
+2023-06-20,go,3982,11,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2023-06-20,go,24042,32,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-06-20,go,1633,5,Sonne tanken,evcc-io,evcc,https://github.com/evcc-io/evcc
+2023-06-20,go,15048,7,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",zincsearch,zincsearch,https://github.com/zincsearch/zincsearch
+2023-06-20,go,14103,8,Easy and fast file sharing from the command-line.,dutchcoders,transfer.sh,https://github.com/dutchcoders/transfer.sh
+2023-06-20,go,12457,19,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2023-06-20,go,103482,64,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-06-20,go,1717,6,A Telegram downloader written in Golang,iyear,tdl,https://github.com/iyear/tdl
+2023-06-20,go,52586,22,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-06-20,go,25806,15,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2023-06-20,go,5946,7,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2023-06-20,go,782,12,一个尝试绕过 Cloudflare 的正向代理程序,linweiyuan,go-chatgpt-api,https://github.com/linweiyuan/go-chatgpt-api
+2023-06-20,go,4416,13,The Havoc Framework.,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2023-06-20,go,10128,2,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",DNSCrypt,dnscrypt-proxy,https://github.com/DNSCrypt/dnscrypt-proxy
+2023-06-20,go,5565,25,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2023-06-20,go,14627,22,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-06-20,go,6184,7,"A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
+2023-06-20,go,154,19,StateTrooper is a Go package that provides a finite state machine (FSM) for managing states. It allows you to define and enforce state transitions based on predefined rules.,hishamk,statetrooper,https://github.com/hishamk/statetrooper

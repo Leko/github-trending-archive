@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-20,lua,3748,3,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-06-20,lua,5578,13,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-06-20,lua,7612,4,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-06-20,lua,1307,0,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2023-06-20,lua,5584,10,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-06-20,lua,5117,3,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2023-06-20,lua,4682,1,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2023-06-20,lua,4696,8,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-06-20,lua,1109,4,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-06-20,lua,12998,3,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-06-20,lua,54,2,Unlocks all existing DLCS in payday 2,pd2-stuff,DLC-Unlocker-PD2,https://github.com/pd2-stuff/DLC-Unlocker-PD2
+2023-06-20,lua,1953,3,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-06-20,lua,715,2,"Neovim plugin for Obsidian, written in Lua",epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2023-06-20,lua,9770,9,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-06-20,lua,2074,1,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2023-06-20,lua,273,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2023-06-20,lua,354,2,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2023-06-20,lua,5405,11,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-06-20,lua,1229,1,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-06-20,lua,17763,19,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-06-20,lua,5426,1,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-06-20,lua,1748,4,Add/change/delete surrounding delimiter pairs with ease. Written with  in Lua.,kylechui,nvim-surround,https://github.com/kylechui/nvim-surround
+2023-06-20,lua,439,0,Payday 2 HUD,Kamikaze94,WolfHUD,https://github.com/Kamikaze94/WolfHUD
+2023-06-20,lua,1050,2,Neovim plugin to improve the default vim.ui interfaces,stevearc,dressing.nvim,https://github.com/stevearc/dressing.nvim
+2023-06-20,lua,111,2,An example user configuration with a split up structure,AstroNvim,user_example,https://github.com/AstroNvim/user_example
