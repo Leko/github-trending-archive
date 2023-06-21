@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-21,go,7056,11,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",answerdev,answer,https://github.com/answerdev/answer
+2023-06-21,go,190,33,「」A tool used to hunt down API key leaks in JS files and pages,MrEmpy,mantra,https://github.com/MrEmpy/mantra
+2023-06-21,go,8335,8,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-06-21,go,13388,5,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-06-21,go,20686,12,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2023-06-21,go,4426,9,The Havoc Framework.,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2023-06-21,go,8811,9,"A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.",dtm-labs,dtm,https://github.com/dtm-labs/dtm
+2023-06-21,go,43740,11,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-06-21,go,3979,4,A Pluggable Terraform Linter,terraform-linters,tflint,https://github.com/terraform-linters/tflint
+2023-06-21,go,10061,3,Sarama is a Go library for Apache Kafka.,Shopify,sarama,https://github.com/Shopify/sarama
+2023-06-21,go,24086,34,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-06-21,go,3981,6,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-06-21,go,3098,5,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2023-06-21,go,12373,6,Fast key-value DB in Go.,dgraph-io,badger,https://github.com/dgraph-io/badger
+2023-06-21,go,14137,2,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",ory,hydra,https://github.com/ory/hydra
+2023-06-21,go,3781,13,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-06-21,go,12691,9,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-06-21,go,20296,10,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2023-06-21,go,21194,4,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-06-21,go,9423,9,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2023-06-21,go,32750,12,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-06-21,go,4648,0,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-06-21,go,15349,8,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-06-21,go,26827,32,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2023-06-21,go,125,14,"Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.",assetnote,surf,https://github.com/assetnote/surf

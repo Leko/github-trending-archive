@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-21,rust,65386,104,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-06-21,rust,12398,36,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2023-06-21,rust,8596,97,"Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
+2023-06-21,rust,2465,13,GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习,alibaba,GraphScope,https://github.com/alibaba/GraphScope
+2023-06-21,rust,8219,3,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-06-21,rust,1845,43,An embedded key-value database in pure Rust,cberner,redb,https://github.com/cberner/redb
+2023-06-21,rust,16211,45,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-06-21,rust,357,22,A cross platform Mastodon Client written in Rust,terhechte,Ebou,https://github.com/terhechte/Ebou
+2023-06-21,rust,1377,11,Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.,Priler,jarvis,https://github.com/Priler/jarvis
+2023-06-21,rust,6872,5,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-06-21,rust,15369,13,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-06-21,rust,21778,13,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-06-21,rust,17912,68,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2023-06-21,rust,13273,11,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2023-06-21,rust,6399,7,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2023-06-21,rust,9730,42,"React-like GUI library for desktop, web, mobile, TUI, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-06-21,rust,8030,22,"Cross-platform, safe, pure-rust graphics api.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-06-21,rust,6422,5,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2023-06-21,rust,13724,9,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-06-21,rust,20967,14,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-06-21,rust,2533,10,ranger-like terminal file manager written in Rust,kamiyaa,joshuto,https://github.com/kamiyaa/joshuto
+2023-06-21,rust,388,5,聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台,1595901624,gpt-aggregated-edition,https://github.com/1595901624/gpt-aggregated-edition
+2023-06-21,rust,6146,7,A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-06-21,rust,7144,7,Fast State-of-the-Art Tokenizers optimized for Research and Production,huggingface,tokenizers,https://github.com/huggingface/tokenizers
+2023-06-21,rust,2396,0,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
