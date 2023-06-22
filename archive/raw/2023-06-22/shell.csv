@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-22,shell,67950,27,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-06-22,shell,9380,8,VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 共存脚本,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2023-06-22,shell,6070,3,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2023-06-22,shell,3864,3,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-06-22,shell,17772,11,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2023-06-22,shell,5418,4,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2023-06-22,shell,5509,4,"CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",xwmx,nb,https://github.com/xwmx/nb
+2023-06-22,shell,1390,28,Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.,MustardChef,WSABuilds,https://github.com/MustardChef/WSABuilds
+2023-06-22,shell,4816,2,Docker image of Nextcloud,nextcloud,docker,https://github.com/nextcloud/docker
+2023-06-22,shell,576,3,Brings Tailscale to low powered OpenWRT devices,adyanth,openwrt-tailscale-enabler,https://github.com/adyanth/openwrt-tailscale-enabler
+2023-06-22,shell,1918,2,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2023-06-22,shell,493,2,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,aquasecurity,trivy-action,https://github.com/aquasecurity/trivy-action
+2023-06-22,shell,2020,5,"Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.",Security-Onion-Solutions,securityonion,https://github.com/Security-Onion-Solutions/securityonion
+2023-06-22,shell,6314,9,a Docker + Kubernetes network trouble-shooting swiss-army container,nicolaka,netshoot,https://github.com/nicolaka/netshoot
+2023-06-22,shell,1001,4,A Library for Advanced Deep Time Series Models.,thuml,Time-Series-Library,https://github.com/thuml/Time-Series-Library
+2023-06-22,shell,2502,0,pre-commit git hooks to take care of Terraform configurations,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2023-06-22,shell,2151,0,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2023-06-22,shell,5555,3,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2023-06-22,shell,10818,1,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2023-06-22,shell,18035,0,Default configuration for Le Wagon's students,lewagon,dotfiles,https://github.com/lewagon/dotfiles
+2023-06-22,shell,6304,6,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2023-06-22,shell,2272,5,"multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",hiddify,hiddify-config,https://github.com/hiddify/hiddify-config
+2023-06-22,shell,15282,2,z - jump around,rupa,z,https://github.com/rupa/z
+2023-06-22,shell,11305,3,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2023-06-22,shell,461,2,A collection of Dev Container Features managed by Dev Container spec maintainers. See https://github.com/devcontainers/feature-starter to publish your own,devcontainers,features,https://github.com/devcontainers/features

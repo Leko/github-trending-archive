@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-22,go,32275,16,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-06-22,go,4385,9,"Copier for golang, copy value from struct to struct and more",jinzhu,copier,https://github.com/jinzhu/copier
+2023-06-22,go,7423,57,"Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-06-22,go,6765,17,"Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2023-06-22,go,26574,3,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-06-22,go,8346,17,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-06-22,go,216,31,「」A tool used to hunt down API key leaks in JS files and pages,MrEmpy,mantra,https://github.com/MrEmpy/mantra
+2023-06-22,go,13008,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-06-22,go,10790,40,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-06-22,go,57,28,,devfullcycle,imersao13,https://github.com/devfullcycle/imersao13
+2023-06-22,go,6603,0,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2023-06-22,go,13379,15,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-06-22,go,14671,18,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-06-22,go,7461,2,The Official Golang driver for MongoDB,mongodb,mongo-go-driver,https://github.com/mongodb/mongo-go-driver
+2023-06-22,go,11088,10,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2023-06-22,go,37774,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-06-22,go,12941,4,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-06-22,go,8996,6,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2023-06-22,go,7756,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-06-22,go,18974,3,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-06-22,go,2850,2,OCI Runtime Specification,opencontainers,runtime-spec,https://github.com/opencontainers/runtime-spec
+2023-06-22,go,5976,6,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2023-06-22,go,3986,5,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-06-22,go,19725,7,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2023-06-22,go,12697,9,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
