@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-23,lua,12063,1,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-06-23,lua,35097,4,The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-06-23,lua,5607,12,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-06-23,lua,1750,2,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-06-23,lua,4037,1,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2023-06-23,lua,2716,2,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2023-06-23,lua,7189,3,A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2023-06-23,lua,2268,7,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-06-23,lua,2582,3,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
+2023-06-23,lua,10430,11,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-06-23,lua,4686,0,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2023-06-23,lua,2372,3,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2023-06-23,lua,1805,7,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-06-23,lua,364,2,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2023-06-23,lua,924,5,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2023-06-23,lua,4155,6,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2023-06-23,lua,1217,6,"Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2023-06-23,lua,2451,5,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2023-06-23,lua,15049,14,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-06-23,lua,1083,1,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2023-06-23,lua,92,1,nvim-cmp source for math calculation,hrsh7th,cmp-calc,https://github.com/hrsh7th/cmp-calc
+2023-06-23,lua,366,0,ElvUI for World of Warcraft - Wrath of the Lich King (3.3.5a),ElvUI-WotLK,ElvUI,https://github.com/ElvUI-WotLK/ElvUI
+2023-06-23,lua,2083,2,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2023-06-23,lua,3094,3,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2023-06-23,lua,520,1,A neovim plugin that helps managing crates.io dependencies,Saecki,crates.nvim,https://github.com/Saecki/crates.nvim

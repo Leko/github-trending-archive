@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-23,r,1844,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2023-06-23,r,133,0,,kpatel427,YouTubeTutorials,https://github.com/kpatel427/YouTubeTutorials
+2023-06-23,r,5043,0,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2023-06-23,r,831,1,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2023-06-23,r,503,1,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2023-06-23,r,1131,0,brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan,paul-buerkner,brms,https://github.com/paul-buerkner/brms
+2023-06-23,r,466,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2023-06-23,r,3095,0,A curated list of awesome network analysis resources.,briatte,awesome-network-analysis,https://github.com/briatte/awesome-network-analysis
+2023-06-23,r,1152,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2023-06-23,r,5952,0,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2023-06-23,r,952,1,"Read flat files (csv, tsv, fwf) into R",tidyverse,readr,https://github.com/tidyverse/readr
+2023-06-23,r,101,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2023-06-23,r,231,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2023-06-23,r,446,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2023-06-23,r,392,1,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2023-06-23,r,1546,0,caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models,topepo,caret,https://github.com/topepo/caret
+2023-06-23,r,611,1,Construct Complex Table with knitr::kable() + pipe.,haozhu233,kableExtra,https://github.com/haozhu233/kableExtra
+2023-06-23,r,413,0,"Fast, sensitive and accurate integration of single-cell data with Harmony",immunogenomics,harmony,https://github.com/immunogenomics/harmony
+2023-06-23,r,4476,2,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2023-06-23,r,1542,0,R Interface to Python,rstudio,reticulate,https://github.com/rstudio/reticulate
+2023-06-23,r,4071,0,A collection of interactive courses for the swirl R package.,swirldev,swirl_courses,https://github.com/swirldev/swirl_courses
+2023-06-23,r,3313,0,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2023-06-23,r,292,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2023-06-23,r,2394,0,An interactive graphing library for R,plotly,plotly.R,https://github.com/plotly/plotly.R
+2023-06-23,r,793,0,A universal enrichment tool for interpreting omics data,YuLab-SMU,clusterProfiler,https://github.com/YuLab-SMU/clusterProfiler
