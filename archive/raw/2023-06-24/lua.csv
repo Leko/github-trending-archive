@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-24,lua,382,96,"Navigate your code with search labels, enhanced character motions and Treesitter integration",folke,flash.nvim,https://github.com/folke/flash.nvim
+2023-06-24,lua,15056,11,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-06-24,lua,112,12,The most important plugin you'll ever install,tjdevries,sPoNGe-BoB.NvIm,https://github.com/tjdevries/sPoNGe-BoB.NvIm
+2023-06-24,lua,2359,23,Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2023-06-24,lua,5640,20,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-06-24,lua,363,7,"IDE-like breadcrumbs, out of the box",Bekaboo,dropbar.nvim,https://github.com/Bekaboo/dropbar.nvim
+2023-06-24,lua,5610,8,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-06-24,lua,5144,8,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2023-06-24,lua,1164,3,Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot,zbirenbaum,copilot.lua,https://github.com/zbirenbaum/copilot.lua
+2023-06-24,lua,925,3,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2023-06-24,lua,639,2,Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls,mfussenegger,nvim-jdtls,https://github.com/mfussenegger/nvim-jdtls
+2023-06-24,lua,1807,3,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-06-24,lua,3981,3,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2023-06-24,lua,4719,7,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-06-24,lua,2493,2,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2023-06-24,lua,188,5,Open alternative files for the current buffer,rgroli,other.nvim,https://github.com/rgroli/other.nvim
+2023-06-24,lua,6629,4,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2023-06-24,lua,1219,4,"Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2023-06-24,lua,5454,18,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-06-24,lua,367,3,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2023-06-24,lua,2267,1,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-06-24,lua,3487,1,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-06-24,lua,2777,6,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2023-06-24,lua,1117,1,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-06-24,lua,3304,6,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim

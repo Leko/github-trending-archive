@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-24,shell,1436,23,Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.,MustardChef,WSABuilds,https://github.com/MustardChef/WSABuilds
+2023-06-24,shell,22929,11,"I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2023-06-24,shell,67995,23,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-06-24,shell,3869,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-06-24,shell,4723,6,Proxmox VE Helper Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2023-06-24,shell,10237,10,"Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.",angristan,openvpn-install,https://github.com/angristan/openvpn-install
+2023-06-24,shell,3420,5,"Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",Jeevan-kumar-Raj,Grokking-System-Design,https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+2023-06-24,shell,50738,481,Everything required to run your own Base node,base-org,node,https://github.com/base-org/node
+2023-06-24,shell,68,6,"AutoRecon-XSS is a script designed for automated reconnaissance of XSS vulnerabilities. It crawls the target URL or alive domains, extracts potential vulnerable URLs, and checks them for XSS vulnerabilities.",un9nplayer,AutoRecon-XSS,https://github.com/un9nplayer/AutoRecon-XSS
+2023-06-24,shell,1331,0,Docker Image of NetBox,netbox-community,netbox-docker,https://github.com/netbox-community/netbox-docker
+2023-06-24,shell,4823,3,Docker image of Nextcloud,nextcloud,docker,https://github.com/nextcloud/docker
+2023-06-24,shell,1571,4,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2023-06-24,shell,321,6,a bash script to help you bypass GFW,Soroushnk,Astro,https://github.com/Soroushnk/Astro
+2023-06-24,shell,1817,14,Mod repo for TOTK on Yuzu emulator.,HolographicWings,TOTK-Mods-collection,https://github.com/HolographicWings/TOTK-Mods-collection
+2023-06-24,shell,227,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2023-06-24,shell,4472,2,NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2023-06-24,shell,6661,10,Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android),LSPosed,MagiskOnWSALocal,https://github.com/LSPosed/MagiskOnWSALocal
+2023-06-24,shell,34082,2,Amazon Web Services — a practical guide,open-guides,og-aws,https://github.com/open-guides/og-aws
+2023-06-24,shell,1010,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2023-06-24,shell,319,22,"NucleiFuzzer is a powerful automation tool for detecting xss,sqli,ssrf,open-redirect..etc vulnerabilities in web applications",0xKayala,NucleiFuzzer,https://github.com/0xKayala/NucleiFuzzer
+2023-06-24,shell,11712,5,NodeSource Node.js Binary Distributions,nodesource,distributions,https://github.com/nodesource/distributions
+2023-06-24,shell,5619,1,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2023-06-24,shell,2644,7,"proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.",ivanhao,pvetools,https://github.com/ivanhao/pvetools
+2023-06-24,shell,17785,5,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2023-06-24,shell,6814,2,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium

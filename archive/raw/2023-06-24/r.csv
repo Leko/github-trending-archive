@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-24,r,1845,0,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2023-06-24,r,58,0,tools for the analysis of color data in R,rmaia,pavo,https://github.com/rmaia/pavo
+2023-06-24,r,5044,1,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2023-06-24,r,503,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2023-06-24,r,133,1,,kpatel427,YouTubeTutorials,https://github.com/kpatel427/YouTubeTutorials
+2023-06-24,r,1154,2,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2023-06-24,r,392,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2023-06-24,r,904,0,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
+2023-06-24,r,231,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2023-06-24,r,4477,1,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2023-06-24,r,834,2,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2023-06-24,r,3315,2,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2023-06-24,r,0,0,Data Visualization and Reproducible Research final project,reisanar,dataviz_final_project,https://github.com/reisanar/dataviz_final_project
+2023-06-24,r,5954,3,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2023-06-24,r,4071,0,A collection of interactive courses for the swirl R package.,swirldev,swirl_courses,https://github.com/swirldev/swirl_courses
+2023-06-24,r,2396,2,An interactive graphing library for R,plotly,plotly.R,https://github.com/plotly/plotly.R
+2023-06-24,r,1087,1,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2023-06-24,r,446,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2023-06-24,r,848,1,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2023-06-24,r,862,0,"A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live",rstudio,tinytex,https://github.com/rstudio/tinytex
+2023-06-24,r,267,2,"R package to compute and plot predictions, slopes, marginal means, and comparisons (contrasts, risk ratios, odds, etc.) for over 80 classes of statistical models. Conduct linear and non-linear hypothesis tests, or equivalence tests. Calculate uncertainty estimates using the delta method, bootstrapping, or simulation-based inference.",vincentarelbundock,marginaleffects,https://github.com/vincentarelbundock/marginaleffects
+2023-06-24,r,1542,0,R Interface to Python,rstudio,reticulate,https://github.com/rstudio/reticulate
+2023-06-24,r,0,0,A simple script to extract plate info from a text string,tercen,extract_plateid_well_date-operator,https://github.com/tercen/extract_plateid_well_date-operator
+2023-06-24,r,0,0,Export crosstab data as an FCS file.,tercen,fcs_export_operator,https://github.com/tercen/fcs_export_operator
+2023-06-24,r,0,0,Read a Seurat object saved as an RDS or RData file into Tercen.,tercen,read_seurat_operator,https://github.com/tercen/read_seurat_operator

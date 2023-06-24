@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-24,go,2140,102,"Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.",loft-sh,devpod,https://github.com/loft-sh/devpod
+2023-06-24,go,4051,4,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-06-24,go,99407,21,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-06-24,go,4030,10,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2023-06-24,go,4337,20,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2023-06-24,go,2826,42,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2023-06-24,go,5350,9,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2023-06-24,go,6668,16,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2023-06-24,go,13695,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-06-24,go,8653,3,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-06-24,go,8335,6,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2023-06-24,go,18298,17,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-06-24,go,13014,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-06-24,go,6056,13,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2023-06-24,go,4568,2,Nuke a whole AWS account and delete all its resources.,rebuy-de,aws-nuke,https://github.com/rebuy-de/aws-nuke
+2023-06-24,go,25917,6,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2023-06-24,go,2143,2,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2023-06-24,go,15723,7,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-06-24,go,17449,16,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",buger,goreplay,https://github.com/buger/goreplay
+2023-06-24,go,20724,10,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2023-06-24,go,8735,20,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2023-06-24,go,14612,6,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-06-24,go,413,0,Terraform provider for managing Snowflake accounts,Snowflake-Labs,terraform-provider-snowflake,https://github.com/Snowflake-Labs/terraform-provider-snowflake
+2023-06-24,go,13067,3,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2023-06-24,go,7823,14,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
