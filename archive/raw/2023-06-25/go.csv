@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-25,go,321,47,Real-Time and Scalable Usage Metering,openmeterio,openmeter,https://github.com/openmeterio/openmeter
+2023-06-25,go,6425,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-06-25,go,4052,2,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-06-25,go,2839,16,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2023-06-25,go,7140,5,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2023-06-25,go,6993,18,Modern UI for Ansible,ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore
+2023-06-25,go,2031,0,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2023-06-25,go,6814,22,"Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2023-06-25,go,2314,287,"Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.",loft-sh,devpod,https://github.com/loft-sh/devpod
+2023-06-25,go,5356,13,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2023-06-25,go,6947,2,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",uber,cadence,https://github.com/uber/cadence
+2023-06-25,go,4444,3,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-06-25,go,37226,13,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2023-06-25,go,4114,10,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2023-06-25,go,13286,6,Protect and discover secrets using Gitleaks,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2023-06-25,go,6502,2,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-06-25,go,38945,12,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2023-06-25,go,10389,4,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2023-06-25,go,35901,18,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-06-25,go,11444,7,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2023-06-25,go,3070,2,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2023-06-25,go,3937,4,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-06-25,go,6066,17,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2023-06-25,go,4346,12,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2023-06-25,go,2239,4,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",testcontainers,testcontainers-go,https://github.com/testcontainers/testcontainers-go
