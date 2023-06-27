@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-27,haskell,29212,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-06-27,haskell,2947,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-06-27,haskell,7211,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-06-27,haskell,2374,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-06-27,haskell,488,0,A demo implementation of a simple dependently-typed language,sweirich,pi-forall,https://github.com/sweirich/pi-forall
+2023-06-27,haskell,55,0,Specify variable binding in syntax trees using GHC.Generics (reimplementation of Unbound),lambdageek,unbound-generics,https://github.com/lambdageek/unbound-generics
+2023-06-27,haskell,3039,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-06-27,haskell,1724,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-06-27,haskell,10,0,Jambhala Cardano Development Suite,iburzynski,jambhala,https://github.com/iburzynski/jambhala
+2023-06-27,haskell,2548,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-06-27,haskell,2420,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2023-06-27,haskell,113,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2023-06-27,haskell,195,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-06-27,haskell,712,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-06-27,haskell,2095,2,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2023-06-27,haskell,3984,3,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2023-06-27,haskell,32395,3,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-06-27,haskell,1627,1,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2023-06-27,haskell,560,1,"A type-safe, non-TH Haskell SQL library and ORM",haskell-beam,beam,https://github.com/haskell-beam/beam
+2023-06-27,haskell,8717,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-06-27,haskell,1,0,,imsut,starthaskell,https://github.com/imsut/starthaskell
+2023-06-27,haskell,569,1,A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.,nammayatri,nammayatri,https://github.com/nammayatri/nammayatri
+2023-06-27,haskell,276,1,A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!,fourmolu,fourmolu,https://github.com/fourmolu/fourmolu
+2023-06-27,haskell,2833,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-06-27,haskell,1496,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal

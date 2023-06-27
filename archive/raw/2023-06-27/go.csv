@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-27,go,6732,145,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-06-27,go,1845,23,"JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",paypal,junodb,https://github.com/paypal/junodb
+2023-06-27,go,821,11,一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序,linweiyuan,go-chatgpt-api,https://github.com/linweiyuan/go-chatgpt-api
+2023-06-27,go,24701,16,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2023-06-27,go,3538,200,Google CTF,google,google-ctf,https://github.com/google/google-ctf
+2023-06-27,go,236,74,,BishopFox,jsluice,https://github.com/BishopFox/jsluice
+2023-06-27,go,220,55,"Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.",assetnote,surf,https://github.com/assetnote/surf
+2023-06-27,go,20290,33,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-06-27,go,17480,17,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2023-06-27,go,20620,16,Cross platform GUI toolkit in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2023-06-27,go,6368,5,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",drakkan,sftpgo,https://github.com/drakkan/sftpgo
+2023-06-27,go,33010,7,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2023-06-27,go,13381,7,"Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت",getlantern,lantern,https://github.com/getlantern/lantern
+2023-06-27,go,5552,9,简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain),jeessy2,ddns-go,https://github.com/jeessy2/ddns-go
+2023-06-27,go,23019,24,Easily and securely send things from one computer to another,schollz,croc,https://github.com/schollz/croc
+2023-06-27,go,10886,17,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2023-06-27,go,3947,7,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-06-27,go,10814,14,"Sealos is a Kubernetes distribution, one-stop solution for your public&private cloud.",labring,sealos,https://github.com/labring/sealos
+2023-06-27,go,2205,25,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
+2023-06-27,go,1115,8,Simple Cloudflare bypass for ChatGPT,acheong08,ChatGPT-Proxy-V4,https://github.com/acheong08/ChatGPT-Proxy-V4
+2023-06-27,go,34304,8,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-06-27,go,3151,0,LiveRedirect,youshandefeiyang,LiveRedirect,https://github.com/youshandefeiyang/LiveRedirect
+2023-06-27,go,6255,7,"A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
+2023-06-27,go,3114,4,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2023-06-27,go,68743,37,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
