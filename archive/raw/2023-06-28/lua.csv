@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-28,lua,3316,2,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-06-28,lua,2206,6,magit for neovim,TimUntersberger,neogit,https://github.com/TimUntersberger/neogit
+2023-06-28,lua,5522,13,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-06-28,lua,1060,1,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
+2023-06-28,lua,4217,13,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2023-06-28,lua,5371,2,Web-based Traffic and Security Network Traffic Monitoring,ntop,ntopng,https://github.com/ntop/ntopng
+2023-06-28,lua,1197,2,Improved fzf.vim written in lua,ibhagwan,fzf-lua,https://github.com/ibhagwan/fzf-lua
+2023-06-28,lua,909,0,A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js,ecosse3,nvim,https://github.com/ecosse3/nvim
+2023-06-28,lua,5655,15,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-06-28,lua,376,1,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2023-06-28,lua,1760,2,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-06-28,lua,12092,5,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-06-28,lua,183,0,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2023-06-28,lua,7214,8,A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2023-06-28,lua,67,0,AtlasLootClassic,Hoizame,AtlasLootClassic,https://github.com/Hoizame/AtlasLootClassic
+2023-06-28,lua,1038,0,Simple winbar/statusline plugin that shows your current code context,SmiteshP,nvim-navic,https://github.com/SmiteshP/nvim-navic
+2023-06-28,lua,43,2,Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.,echasnovski,mini.ai,https://github.com/echasnovski/mini.ai
+2023-06-28,lua,47,2,Gitlab integration with Neovim that lets you review MRs within the editor.,harrisoncramer,gitlab.nvim,https://github.com/harrisoncramer/gitlab.nvim
+2023-06-28,lua,2846,1,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2023-06-28,lua,1963,0,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-06-28,lua,292,6,Voiceover for World of Warcraft,mrthinger,wow-voiceover,https://github.com/mrthinger/wow-voiceover
+2023-06-28,lua,285,14,TypeScript integration NeoVim deserves,pmizio,typescript-tools.nvim,https://github.com/pmizio/typescript-tools.nvim
+2023-06-28,lua,258,1,Enhanced f/t motions for Leap,ggandor,flit.nvim,https://github.com/ggandor/flit.nvim
+2023-06-28,lua,481,3,Remove all background colors to make nvim transparent,xiyaowong,transparent.nvim,https://github.com/xiyaowong/transparent.nvim
+2023-06-28,lua,2125,4,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
