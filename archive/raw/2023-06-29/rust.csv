@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-29,rust,20330,281,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",spacedriveapp,spacedrive,https://github.com/spacedriveapp/spacedrive
+2023-06-29,rust,15454,16,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-06-29,rust,4859,12,A fast Rust-based web bundler,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2023-06-29,rust,670,62,Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.,mycelial,mycelite,https://github.com/mycelial/mycelite
+2023-06-29,rust,8752,41,"Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
+2023-06-29,rust,4594,14,🚀 SQL stream processing with Postgres-like experience. 🪄 10X faster and more cost-efficient than Apache Flink.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2023-06-29,rust,2613,61,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2023-06-29,rust,43432,40,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-06-29,rust,3798,5,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-06-29,rust,8316,20,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2023-06-29,rust,17796,28,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2023-06-29,rust,12706,119,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2023-06-29,rust,4297,6,RustDesk Server Program,rustdesk,rustdesk-server,https://github.com/rustdesk/rustdesk-server
+2023-06-29,rust,339,151,A fully compliant RISC-V computer made inside the game Terraria,misprit7,computerraria,https://github.com/misprit7/computerraria
+2023-06-29,rust,6902,4,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-06-29,rust,15051,65,a structural diff that understands syntax 🟥🟩,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2023-06-29,rust,149,37,《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。,phodal,aigc,https://github.com/phodal/aigc
+2023-06-29,rust,590,19,CLI tool to insert spacers when command output stops,samwho,spacer,https://github.com/samwho/spacer
+2023-06-29,rust,21086,16,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-06-29,rust,10226,11,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2023-06-29,rust,21883,18,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-06-29,rust,13299,4,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-06-29,rust,2317,4,A collection of Solana programs maintained by Solana Labs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2023-06-29,rust,2083,0,Reference client for NEAR Protocol,near,nearcore,https://github.com/near/nearcore
+2023-06-29,rust,2633,6,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
