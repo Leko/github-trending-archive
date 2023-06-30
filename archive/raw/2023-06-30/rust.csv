@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-30,rust,20472,190,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",spacedriveapp,spacedrive,https://github.com/spacedriveapp/spacedrive
+2023-06-30,rust,190,48,《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。,phodal,aigc,https://github.com/phodal/aigc
+2023-06-30,rust,8777,23,"Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
+2023-06-30,rust,2637,14,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
+2023-06-30,rust,3480,5,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2023-06-30,rust,16534,33,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2023-06-30,rust,4877,18,A fast Rust-based web bundler,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2023-06-30,rust,2617,10,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2023-06-30,rust,24527,19,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-06-30,rust,6902,6,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-06-30,rust,13788,7,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-06-30,rust,2951,15,"Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",dtolnay,proc-macro-workshop,https://github.com/dtolnay/proc-macro-workshop
+2023-06-30,rust,12639,9,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2023-06-30,rust,224,123,A wee async RTOS for Cortex-M,cbiffle,lilos,https://github.com/cbiffle/lilos
+2023-06-30,rust,401,84,A fully compliant RISC-V computer made inside the game Terraria,misprit7,computerraria,https://github.com/misprit7/computerraria
+2023-06-30,rust,3800,4,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-06-30,rust,15074,28,a structural diff that understands syntax 🟥🟩,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2023-06-30,rust,3152,2,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2023-06-30,rust,15467,19,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-06-30,rust,8334,34,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2023-06-30,rust,12739,38,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2023-06-30,rust,7278,8,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
+2023-06-30,rust,3383,10,"PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.",postgresml,postgresml,https://github.com/postgresml/postgresml
+2023-06-30,rust,459,26,"OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.",toeverything,OctoBase,https://github.com/toeverything/OctoBase
+2023-06-30,rust,4605,12,🚀 SQL stream processing with Postgres-like experience. 🪄 10X faster and more cost-efficient than Apache Flink.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave

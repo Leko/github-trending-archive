@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-06-30,go,4744,2,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-06-30,go,5603,38,"Instant, easy, and predictable development environments",jetpack-io,devbox,https://github.com/jetpack-io/devbox
+2023-06-30,go,8113,35,Code Intelligence Platform,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2023-06-30,go,7666,9,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2023-06-30,go,3420,9,自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表,zu1k,proxypool,https://github.com/zu1k/proxypool
+2023-06-30,go,14284,5,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-06-30,go,18375,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-06-30,go,22,4,,KubeDev,idc-ms-chatgpt,https://github.com/KubeDev/idc-ms-chatgpt
+2023-06-30,go,20590,77,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-06-30,go,20348,12,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2023-06-30,go,6142,4,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2023-06-30,go,15445,13,A high performance HTTP request router that scales well,julienschmidt,httprouter,https://github.com/julienschmidt/httprouter
+2023-06-30,go,507,7,A TLS server scanner for Reality,XTLS,RealiTLScanner,https://github.com/XTLS/RealiTLScanner
+2023-06-30,go,48800,16,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-06-30,go,11852,3,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-06-30,go,11713,1,Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2023-06-30,go,8808,13,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2023-06-30,go,6392,12,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",drakkan,sftpgo,https://github.com/drakkan/sftpgo
+2023-06-30,go,10857,7,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2023-06-30,go,26611,7,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-06-30,go,2051,21,"Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!",create-go-app,cli,https://github.com/create-go-app/cli
+2023-06-30,go,3390,5,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2023-06-30,go,42117,4,A golang ebook intro how to build a web with golang,astaxie,build-web-application-with-golang,https://github.com/astaxie/build-web-application-with-golang
+2023-06-30,go,3178,3,golang微信SDK,eatmoreapple,openwechat,https://github.com/eatmoreapple/openwechat
+2023-06-30,go,1849,1,Go implementation of an Avalanche node.,ava-labs,avalanchego,https://github.com/ava-labs/avalanchego
