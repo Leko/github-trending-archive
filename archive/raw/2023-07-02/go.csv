@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-02,go,357,26,,teslamotors,fleet-telemetry,https://github.com/teslamotors/fleet-telemetry
+2023-07-02,go,1553,182,"Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs",jetpack-io,typeid,https://github.com/jetpack-io/typeid
+2023-07-02,go,11189,7,IM即时通讯,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2023-07-02,go,28,1,,KubeDev,idc-ms-chatgpt,https://github.com/KubeDev/idc-ms-chatgpt
+2023-07-02,go,12899,11,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2023-07-02,go,8249,123,Code Intelligence Platform,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2023-07-02,go,13246,14,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
+2023-07-02,go,17861,2,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2023-07-02,go,7489,3,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2023-07-02,go,8614,8,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk
+2023-07-02,go,3758,18,"Cross-platform, unofficial CLI for Cloudflare Warp",ViRb3,wgcf,https://github.com/ViRb3/wgcf
+2023-07-02,go,13669,7,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",FiloSottile,age,https://github.com/FiloSottile/age
+2023-07-02,go,27954,10,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-07-02,go,13241,5,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",geektutu,7days-golang,https://github.com/geektutu/7days-golang
+2023-07-02,go,2297,4,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-07-02,go,4750,0,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-07-02,go,112502,17,The Go programming language,golang,go,https://github.com/golang/go
+2023-07-02,go,37193,8,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2023-07-02,go,6573,3,"An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-07-02,go,4592,4,Nuke a whole AWS account and delete all its resources.,rebuy-de,aws-nuke,https://github.com/rebuy-de/aws-nuke
+2023-07-02,go,8795,2,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2023-07-02,go,68902,22,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2023-07-02,go,33246,5,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2023-07-02,go,99614,28,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-07-02,go,5044,2,MySQL replication topology management and HA,openark,orchestrator,https://github.com/openark/orchestrator

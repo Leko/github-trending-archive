@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-02,rust,14045,57,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2023-07-02,rust,332,92,《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。,phodal,aigc,https://github.com/phodal/aigc
+2023-07-02,rust,4969,490,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2023-07-02,rust,6272,8,"大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",ClassmateLin,dm-ticket,https://github.com/ClassmateLin/dm-ticket
+2023-07-02,rust,4913,8,A fast Rust-based web bundler 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2023-07-02,rust,11357,20,Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-07-02,rust,19682,74,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-07-02,rust,3680,13,The Mullvad VPN client app for desktop and mobile,mullvad,mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app
+2023-07-02,rust,4896,16,A container runtime written in Rust,containers,youki,https://github.com/containers/youki
+2023-07-02,rust,7790,3,Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2023-07-02,rust,35500,20,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2023-07-02,rust,43548,26,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-07-02,rust,2632,5,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2023-07-02,rust,18187,25,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2023-07-02,rust,86,13,Packages for Typst. Open for submissions now.,typst,packages,https://github.com/typst/packages
+2023-07-02,rust,2877,35,"Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl",makepad,makepad,https://github.com/makepad/makepad
+2023-07-02,rust,6125,5,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2023-07-02,rust,3858,33,Friendly and fast tool for sending HTTP requests,ducaale,xh,https://github.com/ducaale/xh
+2023-07-02,rust,7291,6,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
+2023-07-02,rust,3152,1,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2023-07-02,rust,19069,27,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-07-02,rust,4616,5,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2023-07-02,rust,4315,3,RustDesk Server Program,rustdesk,rustdesk-server,https://github.com/rustdesk/rustdesk-server
+2023-07-02,rust,1664,0,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2023-07-02,rust,18270,25,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
