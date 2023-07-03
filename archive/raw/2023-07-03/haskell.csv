@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-03,haskell,2102,0,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2023-07-03,haskell,714,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-07-03,haskell,3422,1,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-07-03,haskell,234,1,💻 Exercises for the Haskell Beginners 2022 course,haskell-beginners-2022,exercises,https://github.com/haskell-beginners-2022/exercises
+2023-07-03,haskell,91,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2023-07-03,haskell,1122,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-07-03,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2023-07-03,haskell,1934,1,"Lenses, Folds, and Traversals - Join us on web.libera.chat #haskell-lens",ekmett,lens,https://github.com/ekmett/lens
+2023-07-03,haskell,196,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-07-03,haskell,32428,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-07-03,haskell,1499,2,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-07-03,haskell,4,0,Embedded DSL for GPU kernel implementation,svenssonjoel,MonadObsidian,https://github.com/svenssonjoel/MonadObsidian
+2023-07-03,haskell,29270,9,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-07-03,haskell,168,1,The adventures of a Haskell compiler,blynn,compiler,https://github.com/blynn/compiler
+2023-07-03,haskell,910,1,👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2023-07-03,haskell,1386,0,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2023-07-03,haskell,20744,1,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-07-03,haskell,8739,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-07-03,haskell,2377,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-07-03,haskell,2144,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2023-07-03,haskell,264,0,A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2023-07-03,haskell,1635,2,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2023-07-03,haskell,2946,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-07-03,haskell,5256,5,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-07-03,haskell,214,1,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger

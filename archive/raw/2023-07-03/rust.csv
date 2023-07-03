@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-03,rust,5129,96,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2023-07-03,rust,391,61,《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。,phodal,aigc,https://github.com/phodal/aigc
+2023-07-03,rust,14110,98,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2023-07-03,rust,362,25,IRC application written in Rust,squidowl,halloy,https://github.com/squidowl/halloy
+2023-07-03,rust,34945,18,"☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2023-07-03,rust,12505,6,The Rust Programming Language,rust-lang,book,https://github.com/rust-lang/book
+2023-07-03,rust,10966,85,A link aggregator and forum for the fediverse,LemmyNet,lemmy,https://github.com/LemmyNet/lemmy
+2023-07-03,rust,19101,32,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-07-03,rust,25405,13,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2023-07-03,rust,47442,21,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2023-07-03,rust,19713,43,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-07-03,rust,14404,6,Anki for desktop computers,ankitects,anki,https://github.com/ankitects/anki
+2023-07-03,rust,9706,24,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-07-03,rust,24575,20,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-07-03,rust,16581,15,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2023-07-03,rust,21226,11,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2023-07-03,rust,3511,3,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2023-07-03,rust,10265,12,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2023-07-03,rust,6132,8,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2023-07-03,rust,9943,16,"React-like GUI library for desktop, web, mobile, TUI, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-07-03,rust,18207,28,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2023-07-03,rust,16412,8,All Algorithms implemented in Rust,TheAlgorithms,Rust,https://github.com/TheAlgorithms/Rust
+2023-07-03,rust,5227,6,Format Rust code,rust-lang,rustfmt,https://github.com/rust-lang/rustfmt
+2023-07-03,rust,9005,4,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2023-07-03,rust,8220,6,"A super-easy, composable, web server framework for warp speeds.",seanmonstar,warp,https://github.com/seanmonstar/warp
