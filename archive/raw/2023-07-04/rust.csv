@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-04,rust,47454,25,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2023-07-04,rust,5333,295,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2023-07-04,rust,14130,30,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2023-07-04,rust,11036,91,A link aggregator and forum for the fediverse,LemmyNet,lemmy,https://github.com/LemmyNet/lemmy
+2023-07-04,rust,24599,21,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-07-04,rust,47,9,The core engine at the heart of Deno,denoland,deno_core,https://github.com/denoland/deno_core
+2023-07-04,rust,551,179,《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。,phodal,aigc,https://github.com/phodal/aigc
+2023-07-04,rust,2932,22,"Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl",makepad,makepad,https://github.com/makepad/makepad
+2023-07-04,rust,19129,33,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-07-04,rust,21255,32,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2023-07-04,rust,8225,7,"A super-easy, composable, web server framework for warp speeds.",seanmonstar,warp,https://github.com/seanmonstar/warp
+2023-07-04,rust,10912,23,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-07-04,rust,8423,131,"Ping, but with a graph",orf,gping,https://github.com/orf/gping
+2023-07-04,rust,9013,12,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2023-07-04,rust,83157,42,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-07-04,rust,6138,9,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2023-07-04,rust,89983,20,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-07-04,rust,9742,31,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-07-04,rust,38683,13,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2023-07-04,rust,23284,14,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-07-04,rust,19725,23,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-07-04,rust,9971,45,"React-like GUI library for desktop, web, mobile, TUI, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-07-04,rust,21946,20,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-07-04,rust,8174,10,"Cross-platform, safe, pure-rust graphics api.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-07-04,rust,10279,19,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
