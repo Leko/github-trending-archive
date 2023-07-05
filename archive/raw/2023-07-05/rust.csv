@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-05,rust,570,17,《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。,phodal,aigc,https://github.com/phodal/aigc
+2023-07-05,rust,5395,59,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2023-07-05,rust,9282,31,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2023-07-05,rust,21932,17,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2023-07-05,rust,974,2,Cairo is the first Turing-complete language for creating provable programs for general computation.,starkware-libs,cairo,https://github.com/starkware-libs/cairo
+2023-07-05,rust,9019,6,A data-first Rust-native UI design toolkit.,linebender,druid,https://github.com/linebender/druid
+2023-07-05,rust,10000,29,"React-like GUI library for desktop, web, mobile, TUI, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-07-05,rust,6912,2,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-07-05,rust,1231,4,"A native Rust library for Delta Lake, with bindings into Python",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2023-07-05,rust,8398,10,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2023-07-05,rust,23301,28,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-07-05,rust,2657,12,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2023-07-05,rust,18340,22,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
+2023-07-05,rust,2978,1,"Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",dtolnay,proc-macro-workshop,https://github.com/dtolnay/proc-macro-workshop
+2023-07-05,rust,8859,14,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2023-07-05,rust,12524,11,The Rust Programming Language,rust-lang,book,https://github.com/rust-lang/book
+2023-07-05,rust,17936,15,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",actix,actix-web,https://github.com/actix/actix-web
+2023-07-05,rust,5239,1,Format Rust code,rust-lang,rustfmt,https://github.com/rust-lang/rustfmt
+2023-07-05,rust,51,8,The core engine at the heart of Deno,denoland,deno_core,https://github.com/denoland/deno_core
+2023-07-05,rust,3813,3,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-07-05,rust,9207,7486,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2023-07-05,rust,16487,24,All Algorithms implemented in Rust,TheAlgorithms,Rust,https://github.com/TheAlgorithms/Rust
+2023-07-05,rust,21281,30,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2023-07-05,rust,1133,4,"Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules.",aws-cloudformation,cloudformation-guard,https://github.com/aws-cloudformation/cloudformation-guard
+2023-07-05,rust,25437,17,A new type of shell,nushell,nushell,https://github.com/nushell/nushell

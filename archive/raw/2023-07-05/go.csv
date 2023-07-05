@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-05,go,2918,68,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",loft-sh,devpod,https://github.com/loft-sh/devpod
+2023-07-05,go,7928,17,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
+2023-07-05,go,3194,44,Apollo backend server,christianselig,apollo-backend,https://github.com/christianselig/apollo-backend
+2023-07-05,go,2367,34,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-07-05,go,25990,13,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2023-07-05,go,11041,36,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-07-05,go,12511,8,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2023-07-05,go,13437,8,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-07-05,go,39103,41,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2023-07-05,go,5149,2,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2023-07-05,go,6590,7,"An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-07-05,go,4900,7,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2023-07-05,go,10062,14,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2023-07-05,go,6580,10,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT",casdoor,casdoor,https://github.com/casdoor/casdoor
+2023-07-05,go,16787,21,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2023-07-05,go,20925,5,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2023-07-05,go,3712,4,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2023-07-05,go,924,4,ownCloud Infinite Scale Stack,owncloud,ocis,https://github.com/owncloud/ocis
+2023-07-05,go,14571,9,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-07-05,go,5335,7,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2023-07-05,go,32413,19,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-07-05,go,8401,5,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-07-05,go,15452,14,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-07-05,go,18406,11,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-07-05,go,39712,24,High Performance Object Storage for AI,minio,minio,https://github.com/minio/minio
