@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-06,go,8421,54,Code Intelligence Platform,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2023-07-06,go,3700,46,"Dkron - Distributed, fault tolerant job scheduling system https://dkron.io",distribworks,dkron,https://github.com/distribworks/dkron
+2023-07-06,go,3058,196,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",loft-sh,devpod,https://github.com/loft-sh/devpod
+2023-07-06,go,7380,10,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-07-06,go,52808,28,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-07-06,go,3137,4,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2023-07-06,go,8271,5,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2023-07-06,go,3962,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-07-06,go,3199,9,Apollo backend server,christianselig,apollo-backend,https://github.com/christianselig/apollo-backend
+2023-07-06,go,3658,20,A simple and zero-dependencies library to parse environment variables into structs.,caarlos0,env,https://github.com/caarlos0/env
+2023-07-06,go,11072,41,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-07-06,go,19493,12,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-07-06,go,12394,10,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2023-07-06,go,11472,5,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2023-07-06,go,20715,11,Cross platform GUI toolkit in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2023-07-06,go,32430,18,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-07-06,go,1344,0,"Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)",fluid-cloudnative,fluid,https://github.com/fluid-cloudnative/fluid
+2023-07-06,go,4807,9,A blazingly fast JSON serializing & deserializing library,bytedance,sonic,https://github.com/bytedance/sonic
+2023-07-06,go,4670,4,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2023-07-06,go,18410,8,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-07-06,go,4732,12,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2023-07-06,go,4087,5,(Golang) Go bindings for Discord,bwmarrin,discordgo,https://github.com/bwmarrin/discordgo
+2023-07-06,go,3804,5,Automated developer-oriented status page,TwiN,gatus,https://github.com/TwiN/gatus
+2023-07-06,go,5338,4,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2023-07-06,go,13559,15,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
