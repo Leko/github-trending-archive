@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-07,rust,13244,1797,Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2023-07-07,rust,6236,1455,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2023-07-07,rust,3439,18,"PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.",postgresml,postgresml,https://github.com/postgresml/postgresml
+2023-07-07,rust,16710,60,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-07-07,rust,263,79,reth-indexer reads directly from the reth db and indexes the data into a postgres database all decoded with a simple config file and no extra setup alongside exposing a API ready to query the data.,joshstevens19,reth-indexer,https://github.com/joshstevens19/reth-indexer
+2023-07-07,rust,18403,32,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
+2023-07-07,rust,2954,17,An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.,rust-lang,regex,https://github.com/rust-lang/regex
+2023-07-07,rust,2331,1,A collection of Solana programs maintained by Solana Labs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2023-07-07,rust,43766,59,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-07-07,rust,1216,21,The JavaScript Oxidation Compiler,Boshen,oxc,https://github.com/Boshen/oxc
+2023-07-07,rust,1915,15,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-07-07,rust,90008,16,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-07-07,rust,6340,25,"大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",ClassmateLin,dm-ticket,https://github.com/ClassmateLin/dm-ticket
+2023-07-07,rust,6917,3,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-07-07,rust,10352,10,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2023-07-07,rust,8240,4,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-07-07,rust,8888,9,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2023-07-07,rust,10518,23,Sampling profiler for Python programs,benfred,py-spy,https://github.com/benfred/py-spy
+2023-07-07,rust,21951,9,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2023-07-07,rust,6191,5,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-07-07,rust,23354,33,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-07-07,rust,8423,9,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2023-07-07,rust,9154,10,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-07-07,rust,2704,22,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2023-07-07,rust,910,18,Deno to npm package build tool.,denoland,dnt,https://github.com/denoland/dnt
