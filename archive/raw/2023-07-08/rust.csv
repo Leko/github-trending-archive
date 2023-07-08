@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-08,rust,6871,951,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2023-07-08,rust,274,20,reth-indexer reads directly from the reth db and indexes the data into a postgres database all decoded with a simple config file and no extra setup alongside exposing a API ready to query the data.,joshstevens19,reth-indexer,https://github.com/joshstevens19/reth-indexer
+2023-07-08,rust,16758,56,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-07-08,rust,43825,68,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.,rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-07-08,rust,6359,17,"大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",ClassmateLin,dm-ticket,https://github.com/ClassmateLin/dm-ticket
+2023-07-08,rust,13854,13,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-07-08,rust,16091,19,"An extremely fast Python linter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2023-07-08,rust,11606,9,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2023-07-08,rust,2959,6,An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.,rust-lang,regex,https://github.com/rust-lang/regex
+2023-07-08,rust,8708,6,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2023-07-08,rust,10663,7,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2023-07-08,rust,23376,25,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-07-08,rust,607,0,Noir is a domain specific language for zero knowledge proofs,noir-lang,noir,https://github.com/noir-lang/noir
+2023-07-08,rust,8242,3,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-07-08,rust,117,13,A tiny embedding database in pure Rust.,m1guelpf,tinyvector,https://github.com/m1guelpf/tinyvector
+2023-07-08,rust,3940,88,"An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",parcel-bundler,lightningcss,https://github.com/parcel-bundler/lightningcss
+2023-07-08,rust,1927,13,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-07-08,rust,22002,12,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-07-08,rust,262,27,An IBM PC/XT emulator written in Rust.,dbalsom,martypc,https://github.com/dbalsom/martypc
+2023-07-08,rust,10533,13,Sampling profiler for Python programs,benfred,py-spy,https://github.com/benfred/py-spy
+2023-07-08,rust,2527,1,Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL,graphprotocol,graph-node,https://github.com/graphprotocol/graph-node
+2023-07-08,rust,581,11,Python Stream Processing,bytewax,bytewax,https://github.com/bytewax/bytewax
+2023-07-08,rust,3827,5,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-07-08,rust,18431,29,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
+2023-07-08,rust,586,7,zkSync era,matter-labs,zksync-era,https://github.com/matter-labs/zksync-era

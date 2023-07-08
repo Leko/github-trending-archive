@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-08,go,13453,6,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-07-08,go,13046,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-07-08,go,15222,11,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",casbin,casbin,https://github.com/casbin/casbin
+2023-07-08,go,99775,29,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-07-08,go,3325,1,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2023-07-08,go,166,19,bookget 数字古籍图书下载工具,deweizhu,bookget,https://github.com/deweizhu/bookget
+2023-07-08,go,17511,6,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-07-08,go,19280,18,"A fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-07-08,go,13629,4,An embedded key/value database for Go.,boltdb,bolt,https://github.com/boltdb/bolt
+2023-07-08,go,2747,2,[mirror] Go supplementary cryptography libraries,golang,crypto,https://github.com/golang/crypto
+2023-07-08,go,394,26,A CLI tool for building Go applications.,go-nunu,nunu,https://github.com/go-nunu/nunu
+2023-07-08,go,3720,2,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2023-07-08,go,17540,10,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",buger,goreplay,https://github.com/buger/goreplay
+2023-07-08,go,23524,27,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-07-08,go,3377,2,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2023-07-08,go,32723,13,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2023-07-08,go,9704,3,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2023-07-08,go,6264,2,Let's Encrypt/ACME client and library written in Go,go-acme,lego,https://github.com/go-acme/lego
+2023-07-08,go,3633,4,Useful template functions for Go templates.,Masterminds,sprig,https://github.com/Masterminds/sprig
+2023-07-08,go,18810,8,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2023-07-08,go,4671,0,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-07-08,go,14334,14,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-07-08,go,1869,3,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2023-07-08,go,6649,4,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2023-07-08,go,66238,7,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
