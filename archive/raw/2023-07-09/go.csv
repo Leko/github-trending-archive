@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-09,go,18438,10,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-07-09,go,23534,10,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-07-09,go,99794,25,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-07-09,go,4633,6,飞书 ×（GPT-4 + DALL·E + Whisper）= 飞一般的工作体验  语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出,ConnectAI-E,Feishu-OpenAI,https://github.com/ConnectAI-E/Feishu-OpenAI
+2023-07-09,go,8447,14,Generate type-safe code from SQL,kyleconroy,sqlc,https://github.com/kyleconroy/sqlc
+2023-07-09,go,13512,3,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-07-09,go,13478,37,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-07-09,go,23358,8,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-07-09,go,3536,0,OpenSSF Scorecard - Security health metrics for Open Source,ossf,scorecard,https://github.com/ossf/scorecard
+2023-07-09,go,21403,10,Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2023-07-09,go,14026,21,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-07-09,go,2176,3,A PostgreSQL metric exporter for Prometheus,prometheus-community,postgres_exporter,https://github.com/prometheus-community/postgres_exporter
+2023-07-09,go,2845,2,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2023-07-09,go,668,7,LangChain for Go,tmc,langchaingo,https://github.com/tmc/langchaingo
+2023-07-09,go,1649,4,Dynamically provisioning persistent local storage with Kubernetes,rancher,local-path-provisioner,https://github.com/rancher/local-path-provisioner
+2023-07-09,go,27395,7,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2023-07-09,go,4689,8,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-07-09,go,29902,12,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-07-09,go,3319,3,Protocol Buffer Validation - Checkout the new `protovalidate` project,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2023-07-09,go,14491,2,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2023-07-09,go,599,2,Kubernetes-native security toolkit,aquasecurity,trivy-operator,https://github.com/aquasecurity/trivy-operator
+2023-07-09,go,12742,4,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-07-09,go,8020,5,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2023-07-09,go,17988,9,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-07-09,go,787,1,CSI driver for Amazon EBS https://aws.amazon.com/ebs/,kubernetes-sigs,aws-ebs-csi-driver,https://github.com/kubernetes-sigs/aws-ebs-csi-driver
