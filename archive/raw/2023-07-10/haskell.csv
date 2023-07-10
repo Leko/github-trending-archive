@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-10,haskell,2381,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-07-10,haskell,718,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-07-10,haskell,20773,2,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-07-10,haskell,1125,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-07-10,haskell,196,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-07-10,haskell,32475,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-07-10,haskell,8753,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-07-10,haskell,3492,11,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-07-10,haskell,5261,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-07-10,haskell,2665,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2023-07-10,haskell,2551,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-07-10,haskell,4004,2,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2023-07-10,haskell,29320,5,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-07-10,haskell,2857,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-07-10,haskell,498,0,A demo implementation of a simple dependently-typed language,sweirich,pi-forall,https://github.com/sweirich/pi-forall
+2023-07-10,haskell,7218,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-07-10,haskell,1499,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-07-10,haskell,2151,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2023-07-10,haskell,3048,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-07-10,haskell,101,0,types for representing structured documents,jgm,pandoc-types,https://github.com/jgm/pandoc-types
+2023-07-10,haskell,6,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2023-07-10,haskell,254,1,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2023-07-10,haskell,2948,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-07-10,haskell,564,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-07-10,haskell,2103,0,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
