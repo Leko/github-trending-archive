@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-12,rust,6482,39,"大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",ClassmateLin,dm-ticket,https://github.com/ClassmateLin/dm-ticket
+2023-07-12,rust,12096,9,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-07-12,rust,12447,18,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2023-07-12,rust,10284,349,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-07-12,rust,24770,34,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-07-12,rust,1692,5,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2023-07-12,rust,2838,16,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2023-07-12,rust,202,26,A tiny embedding database in pure Rust.,m1guelpf,tinyvector,https://github.com/m1guelpf/tinyvector
+2023-07-12,rust,1711,5,"A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.",raphamorim,rio,https://github.com/raphamorim/rio
+2023-07-12,rust,21987,17,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2023-07-12,rust,26102,32,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2023-07-12,rust,159,45,Chess implemented entirely in the Rust and TS type systems.,Dragon-Hatcher,type-system-chess,https://github.com/Dragon-Hatcher/type-system-chess
+2023-07-12,rust,1426,18,Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.,Yamato-Security,hayabusa,https://github.com/Yamato-Security/hayabusa
+2023-07-12,rust,15807,4,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2023-07-12,rust,9098,513,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2023-07-12,rust,10330,5,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2023-07-12,rust,13882,7,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-07-12,rust,21379,17,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2023-07-12,rust,5093,48,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2023-07-12,rust,9613,10,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2023-07-12,rust,11551,26,Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-07-12,rust,11457,3,"A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",analysis-tools-dev,static-analysis,https://github.com/analysis-tools-dev/static-analysis
+2023-07-12,rust,4233,21,A tiling window manager for Windows,LGUG2Z,komorebi,https://github.com/LGUG2Z/komorebi
+2023-07-12,rust,3307,5,Build & ship backends without writing any infrastructure files.,shuttle-hq,shuttle,https://github.com/shuttle-hq/shuttle
+2023-07-12,rust,841,2,"zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.",eclipse-zenoh,zenoh,https://github.com/eclipse-zenoh/zenoh

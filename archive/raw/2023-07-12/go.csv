@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-12,go,1517,138,Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI pipeline,diggerhq,digger,https://github.com/diggerhq/digger
+2023-07-12,go,2875,12,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2023-07-12,go,5419,6,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,projectdiscovery,httpx,https://github.com/projectdiscovery/httpx
+2023-07-12,go,14641,11,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-07-12,go,3971,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-07-12,go,11889,5,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-07-12,go,6179,12,Database DevOps and CI/CD for teams. https://www.bytebase.com,bytebase,bytebase,https://github.com/bytebase/bytebase
+2023-07-12,go,5138,160,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,google,osv-scanner,https://github.com/google/osv-scanner
+2023-07-12,go,36210,30,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-07-12,go,17810,9,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2023-07-12,go,2030,0,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2023-07-12,go,15487,15,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-07-12,go,3450,6,Container Signing,sigstore,cosign,https://github.com/sigstore/cosign
+2023-07-12,go,7803,5,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-07-12,go,12004,155,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2023-07-12,go,5918,10,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2023-07-12,go,1183,10,evilginx3 + gophish,fin3ss3g0d,evilgophish,https://github.com/fin3ss3g0d/evilgophish
+2023-07-12,go,7151,12,Modern UI for Ansible,ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore
+2023-07-12,go,2510,46,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-07-12,go,5978,2,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
+2023-07-12,go,104574,62,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-07-12,go,2018,1,Event-driven automation framework,argoproj,argo-events,https://github.com/argoproj/argo-events
+2023-07-12,go,99912,56,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-07-12,go,21287,10,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-07-12,go,6337,8,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
