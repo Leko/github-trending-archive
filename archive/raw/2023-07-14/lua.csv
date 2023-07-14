@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-14,lua,3424,26,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-07-14,lua,5949,36,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-07-14,lua,12176,5,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-07-14,lua,1784,5,The Refactoring library based off the Refactoring book by Martin Fowler,ThePrimeagen,refactoring.nvim,https://github.com/ThePrimeagen/refactoring.nvim
+2023-07-14,lua,2892,6,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2023-07-14,lua,7744,4,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-07-14,lua,7292,10,A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2023-07-14,lua,60,0,Kaiserredux,JoeBidenWhatAreYouHiding,kx,https://github.com/JoeBidenWhatAreYouHiding/kx
+2023-07-14,lua,4918,1,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-07-14,lua,863,11,,mhartington,formatter.nvim,https://github.com/mhartington/formatter.nvim
+2023-07-14,lua,191,0,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2023-07-14,lua,185,2,,SmartThingsCommunity,SmartThingsEdgeDrivers,https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers
+2023-07-14,lua,359,11,TypeScript integration NeoVim deserves,pmizio,typescript-tools.nvim,https://github.com/pmizio/typescript-tools.nvim
+2023-07-14,lua,4857,8,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-07-14,lua,18228,24,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-07-14,lua,2182,5,"A fancy, configurable, notification manager for NeoVim",rcarriga,nvim-notify,https://github.com/rcarriga/nvim-notify
+2023-07-14,lua,5407,3,Web-based Traffic and Security Network Traffic Monitoring,ntop,ntopng,https://github.com/ntop/ntopng
+2023-07-14,lua,2434,2,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2023-07-14,lua,298,1,User Interface replacement AddOn for World of Warcraft.,tukui-org,ElvUI,https://github.com/tukui-org/ElvUI
+2023-07-14,lua,243,1,Hekili Priority Helper for DPS and Tanks (WoW Retail),Hekili,hekili,https://github.com/Hekili/hekili
+2023-07-14,lua,2886,2,improve neovim lsp experience,nvimdev,lspsaga.nvim,https://github.com/nvimdev/lspsaga.nvim
+2023-07-14,lua,1390,1,"Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)",Olical,conjure,https://github.com/Olical/conjure
+2023-07-14,lua,481,4,A task runner and job management plugin for Neovim,stevearc,overseer.nvim,https://github.com/stevearc/overseer.nvim
+2023-07-14,lua,1222,0,Improved fzf.vim written in lua,ibhagwan,fzf-lua,https://github.com/ibhagwan/fzf-lua
+2023-07-14,lua,3062,8,Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-14,rust,12181,12,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-07-14,rust,6590,20,"大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",ClassmateLin,dm-ticket,https://github.com/ClassmateLin/dm-ticket
+2023-07-14,rust,3597,11,RedisJSON - a JSON data type for Redis,RedisJSON,RedisJSON,https://github.com/RedisJSON/RedisJSON
+2023-07-14,rust,6928,4,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-07-14,rust,9624,5,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2023-07-14,rust,4235,33,An ecosystem of Rust libraries for working with large language models,rustformers,llm,https://github.com/rustformers/llm
+2023-07-14,rust,13902,13,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-07-14,rust,16999,36,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App,tw93,Pake,https://github.com/tw93/Pake
+2023-07-14,rust,5192,65,"10x easier,  140x lower storage cost,  high performance,  petabyte scale - Elasticsearch/Splunk/Datadog alternative for  (logs, metrics, traces).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2023-07-14,rust,8250,0,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-07-14,rust,11613,32,Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-07-14,rust,2454,664,Fuel Network Rust SDK,FuelLabs,fuels-rs,https://github.com/FuelLabs/fuels-rs
+2023-07-14,rust,7709,5,An easy and powerful Rust HTTP Client,seanmonstar,reqwest,https://github.com/seanmonstar/reqwest
+2023-07-14,rust,16498,17,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2023-07-14,rust,4767,52,Video stabilization using gyroscope data,gyroflow,gyroflow,https://github.com/gyroflow/gyroflow
+2023-07-14,rust,11075,19,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-07-14,rust,26174,44,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2023-07-14,rust,66412,39,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-07-14,rust,1722,3,Raw bindings to platform APIs for Rust,rust-lang,libc,https://github.com/rust-lang/libc
+2023-07-14,rust,8800,21,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2023-07-14,rust,2623,16,"Connect your local process and your cloud environment, and run local code in cloud conditions.",metalbear-co,mirrord,https://github.com/metalbear-co/mirrord
+2023-07-14,rust,83447,34,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-07-14,rust,22065,22,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-07-14,rust,8281,12,"Cross-platform, safe, pure-rust graphics api.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-07-14,rust,90067,11,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
