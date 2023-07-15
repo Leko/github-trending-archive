@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-15,lua,5854,26,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-07-15,lua,5970,23,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-07-15,lua,3430,10,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-07-15,lua,7300,8,A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2023-07-15,lua,2312,28,magit for neovim,NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2023-07-15,lua,9962,12,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-07-15,lua,1160,1,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-07-15,lua,871,8,,mhartington,formatter.nvim,https://github.com/mhartington/formatter.nvim
+2023-07-15,lua,879,13,"Navigate your code with search labels, enhanced character motions and Treesitter integration",folke,flash.nvim,https://github.com/folke/flash.nvim
+2023-07-15,lua,415,4,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2023-07-15,lua,2887,1,improve neovim lsp experience,nvimdev,lspsaga.nvim,https://github.com/nvimdev/lspsaga.nvim
+2023-07-15,lua,1787,3,The Refactoring library based off the Refactoring book by Martin Fowler,ThePrimeagen,refactoring.nvim,https://github.com/ThePrimeagen/refactoring.nvim
+2023-07-15,lua,968,2,Neovim plugin for a code outline window,stevearc,aerial.nvim,https://github.com/stevearc/aerial.nvim
+2023-07-15,lua,2531,7,"Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2023-07-15,lua,3385,2,"A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2023-07-15,lua,13134,11,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-07-15,lua,365,6,TypeScript integration NeoVim deserves,pmizio,typescript-tools.nvim,https://github.com/pmizio/typescript-tools.nvim
+2023-07-15,lua,18254,30,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-07-15,lua,653,10,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2023-07-15,lua,149,0,"Vape V4 for Roblox, because bored.",7GrandDadPGN,VapeV4ForRoblox,https://github.com/7GrandDadPGN/VapeV4ForRoblox
+2023-07-15,lua,2898,6,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2023-07-15,lua,1826,8,Add/change/delete surrounding delimiter pairs with ease. Written with  in Lua.,kylechui,nvim-surround,https://github.com/kylechui/nvim-surround
+2023-07-15,lua,1127,0,《明日方舟》游戏数据,Kengxxiao,ArknightsGameData,https://github.com/Kengxxiao/ArknightsGameData
+2023-07-15,lua,55,16,Rainbow delimiters for Neovim with Tree-sitter,HiPhish,rainbow-delimiters.nvim,https://github.com/HiPhish/rainbow-delimiters.nvim
+2023-07-15,lua,3304,6,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
