@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-16,scala,12732,4,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-07-16,scala,556,8,"Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",apache,incubator-pekko,https://github.com/apache/incubator-pekko
+2023-07-16,scala,3833,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-07-16,scala,2871,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-07-16,scala,1653,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-07-16,scala,2659,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2023-07-16,scala,574,0,Gluten: Plugin to Double SparkSQL's Performance,oap-project,gluten,https://github.com/oap-project/gluten
+2023-07-16,scala,123,0,,bambosan,Bicubic-Shaders-BE,https://github.com/bambosan/Bicubic-Shaders-BE
+2023-07-16,scala,7,0,Toolkit for Information Retrieval research,mcartright,julien,https://github.com/mcartright/julien
+2023-07-16,scala,5361,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-07-16,scala,1593,0,Optics library for Scala,optics-dev,Monocle,https://github.com/optics-dev/Monocle
+2023-07-16,scala,844,1,"Non-blocking, Reactive MongoDB Driver for Scala",ReactiveMongo,ReactiveMongo,https://github.com/ReactiveMongo/ReactiveMongo
+2023-07-16,scala,12428,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2023-07-16,scala,8,0,Tools for integrating DspTools components into a rocket-chip,ucb-bar,rocket-dsp-utils,https://github.com/ucb-bar/rocket-dsp-utils
+2023-07-16,scala,7,0,,ucb-bar,FFTGenerator,https://github.com/ucb-bar/FFTGenerator
+2023-07-16,scala,187,0,A Library of Chisel3 Tools for Digital Signal Processing,ucb-bar,dsptools,https://github.com/ucb-bar/dsptools
+2023-07-16,scala,2668,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-07-16,scala,823,0,Korean tokenizer,twitter,twitter-korean-text,https://github.com/twitter/twitter-korean-text
+2023-07-16,scala,14109,1,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2023-07-16,scala,131,0,RISC-V Torture Test,ucb-bar,riscv-torture,https://github.com/ucb-bar/riscv-torture
+2023-07-16,scala,11418,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2023-07-16,scala,591,0,educational microarchitectures for risc-v isa,ucb-bar,riscv-sodor,https://github.com/ucb-bar/riscv-sodor
+2023-07-16,scala,127,0,Microarchitecture implementation of the decoupled vector-fetch accelerator,ucb-bar,hwacha,https://github.com/ucb-bar/hwacha
+2023-07-16,scala,3,0,Wrapper for lowRISC Ibex,ucb-bar,ibex-wrapper,https://github.com/ucb-bar/ibex-wrapper
+2023-07-16,scala,19,0,Wrapper for ETH Ariane Core,ucb-bar,cva6-wrapper,https://github.com/ucb-bar/cva6-wrapper

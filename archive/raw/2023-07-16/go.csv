@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-16,go,18369,65,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2023-07-16,go,12557,5,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2023-07-16,go,4722,5,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2023-07-16,go,18890,8,A powerful little TUI framework,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2023-07-16,go,619,3,Go Implementation of the Spacemesh protocol full node.,spacemeshos,go-spacemesh,https://github.com/spacemeshos/go-spacemesh
+2023-07-16,go,21439,6,HTTP load testing tool and library. It's over 9000!,tsenart,vegeta,https://github.com/tsenart/vegeta
+2023-07-16,go,5332,30,A Framework for Building High Value Public Blockchains,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2023-07-16,go,24883,14,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2023-07-16,go,34424,4,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-07-16,go,4657,2,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
+2023-07-16,go,1553,4,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2023-07-16,go,14693,17,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-07-16,go,11410,4,Pure Go implementation of the WebRTC API,pion,webrtc,https://github.com/pion/webrtc
+2023-07-16,go,4778,15,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-07-16,go,6930,8,A new way of working with Protocol Buffers.,bufbuild,buf,https://github.com/bufbuild/buf
+2023-07-16,go,14382,3,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-07-16,go,15544,6,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
+2023-07-16,go,2526,2,"Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.",gardener,gardener,https://github.com/gardener/gardener
+2023-07-16,go,6475,1,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-07-16,go,8564,9,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2023-07-16,go,3400,1,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",karmada-io,karmada,https://github.com/karmada-io/karmada
+2023-07-16,go,12761,3,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-07-16,go,26668,0,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-07-16,go,2193,1,A PostgreSQL metric exporter for Prometheus,prometheus-community,postgres_exporter,https://github.com/prometheus-community/postgres_exporter
+2023-07-16,go,18459,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
