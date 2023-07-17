@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-17,lua,5886,17,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-07-17,lua,3185,4,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2023-07-17,lua,1813,9,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-07-17,lua,7768,9,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-07-17,lua,2891,3,improve neovim lsp experience,nvimdev,lspsaga.nvim,https://github.com/nvimdev/lspsaga.nvim
+2023-07-17,lua,1759,1,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2023-07-17,lua,913,20,"Navigate your code with search labels, enhanced character motions and Treesitter integration",folke,flash.nvim,https://github.com/folke/flash.nvim
+2023-07-17,lua,5853,17,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-07-17,lua,2325,6,magit for neovim,NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2023-07-17,lua,5998,11,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-07-17,lua,67,3,Rainbow delimiters for Neovim with Tree-sitter,HiPhish,rainbow-delimiters.nvim,https://github.com/HiPhish/rainbow-delimiters.nvim
+2023-07-17,lua,1791,1,The Refactoring library based off the Refactoring book by Martin Fowler,ThePrimeagen,refactoring.nvim,https://github.com/ThePrimeagen/refactoring.nvim
+2023-07-17,lua,13147,9,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-07-17,lua,2540,1,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2023-07-17,lua,125,0,An example user configuration with a split up structure,AstroNvim,user_example,https://github.com/AstroNvim/user_example
+2023-07-17,lua,2168,2,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2023-07-17,lua,149,0,"Vape V4 for Roblox, because bored.",7GrandDadPGN,VapeV4ForRoblox,https://github.com/7GrandDadPGN/VapeV4ForRoblox
+2023-07-17,lua,1295,3,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-07-17,lua,1995,2,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-07-17,lua,18281,20,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-07-17,lua,191,0,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2023-07-17,lua,304,2,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-07-17,lua,10636,6,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-07-17,lua,3868,5,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-07-17,lua,4126,5,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
