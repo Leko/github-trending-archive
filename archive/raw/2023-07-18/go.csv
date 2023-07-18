@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-18,go,7121,42,Gorse open source recommender system engine,gorse-io,gorse,https://github.com/gorse-io/gorse
+2023-07-18,go,9015,17,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2023-07-18,go,27850,115,"A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-07-18,go,11472,39,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-07-18,go,81,11,,FourCoreLabs,LolDriverScan,https://github.com/FourCoreLabs/LolDriverScan
+2023-07-18,go,534,22,"Extract URLs, paths, secrets, and other interesting bits from JavaScript",BishopFox,jsluice,https://github.com/BishopFox/jsluice
+2023-07-18,go,26679,4,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-07-18,go,8089,26,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
+2023-07-18,go,11219,53,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2023-07-18,go,9366,7,Yet another Yogurt - An AUR Helper written in Go,Jguer,yay,https://github.com/Jguer/yay
+2023-07-18,go,10193,5,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",DNSCrypt,dnscrypt-proxy,https://github.com/DNSCrypt/dnscrypt-proxy
+2023-07-18,go,15059,4,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2023-07-18,go,37514,25,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2023-07-18,go,26878,4,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2023-07-18,go,39272,20,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2023-07-18,go,6645,8,Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/,p4gefau1t,trojan-go,https://github.com/p4gefau1t/trojan-go
+2023-07-18,go,2577,9,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-07-18,go,21472,10,Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2023-07-18,go,36360,42,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-07-18,go,18521,11,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-07-18,go,2288,9,Wireguard web interface,ngoduykhanh,wireguard-ui,https://github.com/ngoduykhanh/wireguard-ui
+2023-07-18,go,4770,3,Golang bindings for the Telegram Bot API,go-telegram-bot-api,telegram-bot-api,https://github.com/go-telegram-bot-api/telegram-bot-api
+2023-07-18,go,2498,3,NextDNS CLI client (DoH Proxy),nextdns,nextdns,https://github.com/nextdns/nextdns
+2023-07-18,go,10148,7,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2023-07-18,go,23166,9,Easily and securely send things from one computer to another,schollz,croc,https://github.com/schollz/croc
