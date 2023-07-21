@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-21,go,824,32,Scalable unofficial ChatGPT API for production.,acheong08,ChatGPT-to-API,https://github.com/acheong08/ChatGPT-to-API
+2023-07-21,go,9677,18,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2023-07-21,go,7075,27,"Ready-to-use RTSP / RTMP / LL-HLS / WebRTC media server and media proxy that allows to read, publish and proxy video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2023-07-21,go,28819,300,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2023-07-21,go,37039,221,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-07-21,go,9861,5,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2023-07-21,go,1478,28,"OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, supports English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-07-21,go,7447,24,Gorse open source recommender system engine,gorse-io,gorse,https://github.com/gorse-io/gorse
+2023-07-21,go,30021,17,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-07-21,go,948,256,Send emails from your terminal,charmbracelet,pop,https://github.com/charmbracelet/pop
+2023-07-21,go,3753,7,A Go blocking leaky-bucket rate limit implementation,uber-go,ratelimit,https://github.com/uber-go/ratelimit
+2023-07-21,go,368,8,"8年积累，沉淀出来的高性能通用通讯服务，支持即时通讯（聊天软件）(IM)(Chat)，消息推送，物联网通讯，音视频信令，直播弹幕，客服系统，AI通讯，即时社区等场景。High-performance universal communication service that supports instant messaging, message push, IoT communication, audio and video signaling, live broadcasting with bullet comments, customer service systems",WuKongIM,WuKongIM,https://github.com/WuKongIM/WuKongIM
+2023-07-21,go,2138,2,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2023-07-21,go,14105,4,Easy and Repeatable Kubernetes Development,GoogleContainerTools,skaffold,https://github.com/GoogleContainerTools/skaffold
+2023-07-21,go,5213,8,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2023-07-21,go,2976,5,"The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.",aws,copilot-cli,https://github.com/aws/copilot-cli
+2023-07-21,go,3127,3,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2023-07-21,go,39978,20,High Performance Object Storage for AI,minio,minio,https://github.com/minio/minio
+2023-07-21,go,7526,3,The Official Golang driver for MongoDB,mongodb,mongo-go-driver,https://github.com/mongodb/mongo-go-driver
+2023-07-21,go,2173,3,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2023-07-21,go,6904,3,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2023-07-21,go,4055,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-07-21,go,15274,7,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-07-21,go,17599,9,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-07-21,go,6530,6,Automated code review tool integrated with any code analysis tools regardless of programming language,reviewdog,reviewdog,https://github.com/reviewdog/reviewdog

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-21,python,4044,2589,Advanced Python Mastery (course by @dabeaz),dabeaz-course,python-mastery,https://github.com/dabeaz-course/python-mastery
+2023-07-21,python,828,244,Examples and recipes for Llama 2 model,facebookresearch,llama-recipes,https://github.com/facebookresearch/llama-recipes
+2023-07-21,python,18221,159,"A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",oobabooga,text-generation-webui,https://github.com/oobabooga/text-generation-webui
+2023-07-21,python,1295,485,Open source implementation of the ChatGPT Code Interpreter,shroominic,codeinterpreter-api,https://github.com/shroominic/codeinterpreter-api
+2023-07-21,python,11224,31,"Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",openai,evals,https://github.com/openai/evals
+2023-07-21,python,30198,2020,Inference code for LLaMA models,facebookresearch,llama,https://github.com/facebookresearch/llama
+2023-07-21,python,545,156,LLaMA v2 Chatbot,a16z-infra,llama2-chatbot,https://github.com/a16z-infra/llama2-chatbot
+2023-07-21,python,260,67,Scale LLM Engine public repository,scaleapi,llm-engine,https://github.com/scaleapi/llm-engine
+2023-07-21,python,5867,247,"Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",bigscience-workshop,petals,https://github.com/bigscience-workshop/petals
+2023-07-21,python,5217,186,Fast and memory-efficient exact attention,Dao-AILab,flash-attention,https://github.com/Dao-AILab/flash-attention
+2023-07-21,python,1080,268,"ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation.",RayVentura,ShortGPT,https://github.com/RayVentura/ShortGPT
+2023-07-21,python,10644,133,"Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.",mlc-ai,mlc-llm,https://github.com/mlc-ai/mlc-llm
+2023-07-21,python,12291,98,"langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答",imClumsyPanda,langchain-ChatGLM,https://github.com/imClumsyPanda/langchain-ChatGLM
+2023-07-21,python,3493,163,Faster Whisper transcription with CTranslate2,guillaumekln,faster-whisper,https://github.com/guillaumekln/faster-whisper
+2023-07-21,python,7375,54,the AI-native open-source embedding database,chroma-core,chroma,https://github.com/chroma-core/chroma
+2023-07-21,python,14216,162,"Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",microsoft,unilm,https://github.com/microsoft/unilm
+2023-07-21,python,1109,67,Sweep is an AI junior developer,sweepai,sweep,https://github.com/sweepai/sweep
+2023-07-21,python,4917,24,Fast Segment Anything,CASIA-IVA-Lab,FastSAM,https://github.com/CASIA-IVA-Lab/FastSAM
+2023-07-21,python,4147,92,Train transformer language models with reinforcement learning.,lvwerra,trl,https://github.com/lvwerra/trl
+2023-07-21,python,3745,169,GPT 3.5/4 with a Chat Web UI. No API key required.,ramonvc,freegpt-webui,https://github.com/ramonvc/freegpt-webui
+2023-07-21,python,108255,179,"Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",huggingface,transformers,https://github.com/huggingface/transformers
+2023-07-21,python,662,131,"AutoChain: Build lightweight, extensible, and testable LLM Agents",Forethought-Technologies,AutoChain,https://github.com/Forethought-Technologies/AutoChain
+2023-07-21,python,1226,47,A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.,turboderp,exllama,https://github.com/turboderp/exllama
+2023-07-21,python,2975,15,"A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",Azure-Samples,azure-search-openai-demo,https://github.com/Azure-Samples/azure-search-openai-demo
+2023-07-21,python,12914,122,中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs),ymcui,Chinese-LLaMA-Alpaca,https://github.com/ymcui/Chinese-LLaMA-Alpaca

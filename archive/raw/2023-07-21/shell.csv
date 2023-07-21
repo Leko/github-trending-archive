@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-21,shell,350,7,Setting Python Development Environment with VScode and Docker,RamiKrispin,vscode-python,https://github.com/RamiKrispin/vscode-python
+2023-07-21,shell,1118,5,"This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.",omerbsezer,Fast-Kubernetes,https://github.com/omerbsezer/Fast-Kubernetes
+2023-07-21,shell,7099,4,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2023-07-21,shell,97,15,Nucleimonst3r is a powerful vulnerability scanner that can help Bug Bounty Hunters find low hanging fruit vulnerabilities for known CVEs and exploits but also gather all the technology running behind them for further investigation for a potential target.,blackhatethicalhacking,Nucleimonst3r,https://github.com/blackhatethicalhacking/Nucleimonst3r
+2023-07-21,shell,229,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2023-07-21,shell,7054,2,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2023-07-21,shell,17807,3,Node version management,tj,n,https://github.com/tj/n
+2023-07-21,shell,53321,228,Everything required to run your own Base node,base-org,node,https://github.com/base-org/node
+2023-07-21,shell,12931,4,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2023-07-21,shell,923,3,Convenience shortname repository for asdf community plugins,asdf-vm,asdf-plugins,https://github.com/asdf-vm/asdf-plugins
+2023-07-21,shell,1976,1,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2023-07-21,shell,6695,41,"useful scripts for making developer's everyday life easier and happier, involved java, shell etc.",oldratlee,useful-scripts,https://github.com/oldratlee/useful-scripts
+2023-07-21,shell,68632,32,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-07-21,shell,15700,3,A typeface designed for source code,source-foundry,Hack,https://github.com/source-foundry/Hack
+2023-07-21,shell,6102,0,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2023-07-21,shell,399,52,Start your Taiko node with a single command.,taikoxyz,simple-taiko-node,https://github.com/taikoxyz/simple-taiko-node
+2023-07-21,shell,4101,3,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2023-07-21,shell,1361,1,Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查,al0ne,LinuxCheck,https://github.com/al0ne/LinuxCheck
+2023-07-21,shell,774,0,Installation script to deploy standard software on Macs,Installomator,Installomator,https://github.com/Installomator/Installomator
+2023-07-21,shell,2433,3,Frps 一键安装脚本&管理脚本,MvsCode,frps-onekey,https://github.com/MvsCode/frps-onekey
+2023-07-21,shell,8189,2,OpenVPN server in a Docker container complete with an EasyRSA PKI CA,kylemanna,docker-openvpn,https://github.com/kylemanna/docker-openvpn
+2023-07-21,shell,9298,4,使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响,easzlab,kubeasz,https://github.com/easzlab/kubeasz
+2023-07-21,shell,2094,1,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
+2023-07-21,shell,755,0,Port(ish) of Great Expectations to dbt test macros,calogica,dbt-expectations,https://github.com/calogica/dbt-expectations
+2023-07-21,shell,40409,32,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 来看看，你会发现相见恨晚！,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
