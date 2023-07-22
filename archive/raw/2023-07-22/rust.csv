@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-22,rust,6990,36,"大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",ClassmateLin,dm-ticket,https://github.com/ClassmateLin/dm-ticket
+2023-07-22,rust,1476,108,Simple http server in Rust (Windows/Mac/Linux),TheWaWaR,simple-http-server,https://github.com/TheWaWaR/simple-http-server
+2023-07-22,rust,2665,2,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2023-07-22,rust,1211,60,"Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)",stalwartlabs,mail-server,https://github.com/stalwartlabs/mail-server
+2023-07-22,rust,13976,5,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-07-22,rust,8262,0,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-07-22,rust,3852,0,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-07-22,rust,1947,61,Rust library to build rich terminal user interfaces (TUIs) and dashboards,ratatui-org,ratatui,https://github.com/ratatui-org/ratatui
+2023-07-22,rust,1121,47,teleconference system written in rust,security-union,videocall-rs,https://github.com/security-union/videocall-rs
+2023-07-22,rust,2597,33,GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习,alibaba,GraphScope,https://github.com/alibaba/GraphScope
+2023-07-22,rust,6280,8,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-07-22,rust,12591,51,"Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
+2023-07-22,rust,13602,15,Blazing  fast terminal-ui for git written in rust,extrawurst,gitui,https://github.com/extrawurst/gitui
+2023-07-22,rust,229,34,"Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.",iggy-rs,iggy,https://github.com/iggy-rs/iggy
+2023-07-22,rust,10678,85,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2023-07-22,rust,2488,8,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2023-07-22,rust,9286,23,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-07-22,rust,3602,20,"Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3",flamegraph-rs,flamegraph,https://github.com/flamegraph-rs/flamegraph
+2023-07-22,rust,90152,19,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-07-22,rust,3356,3,An interpreter for Rust's mid-level intermediate representation,rust-lang,miri,https://github.com/rust-lang/miri
+2023-07-22,rust,79,19,experimental package manager for node.js,anonrig,pacquet,https://github.com/anonrig/pacquet
+2023-07-22,rust,6619,8,An Experimental Package Management Solution for Python,mitsuhiko,rye,https://github.com/mitsuhiko/rye
+2023-07-22,rust,6946,2,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-07-22,rust,2031,5,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-07-22,rust,15851,17,Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube

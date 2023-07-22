@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-22,go,4971,12,The open source high performance data integration platform built for developers.,cloudquery,cloudquery,https://github.com/cloudquery/cloudquery
+2023-07-22,go,15758,9,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-07-22,go,13100,11,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-07-22,go,7096,23,"Ready-to-use RTSP / RTMP / LL-HLS / WebRTC media server and media proxy that allows to read, publish and proxy video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2023-07-22,go,15277,8,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-07-22,go,866,81,Scalable unofficial ChatGPT API for production.,acheong08,ChatGPT-to-API,https://github.com/acheong08/ChatGPT-to-API
+2023-07-22,go,21644,28,Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2023-07-22,go,7843,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-07-22,go,14764,8,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-07-22,go,13093,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-07-22,go,6638,8,"An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-07-22,go,999,35,Send emails from your terminal,charmbracelet,pop,https://github.com/charmbracelet/pop
+2023-07-22,go,9700,9,In-depth attack surface mapping and asset discovery,owasp-amass,amass,https://github.com/owasp-amass/amass
+2023-07-22,go,28952,155,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2023-07-22,go,6227,6,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2023-07-22,go,8362,3,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2023-07-22,go,19134,3,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-07-22,go,13632,12,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-07-22,go,6906,4,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2023-07-22,go,100265,27,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-07-22,go,20158,7,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-07-22,go,43031,23,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-07-22,go,9690,14,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2023-07-22,go,11627,15,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2023-07-22,go,21030,11,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
