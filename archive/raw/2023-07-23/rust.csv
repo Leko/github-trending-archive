@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-23,rust,566,135,A tiny JVM written in Rust. Learning project,andreabergia,rjvm,https://github.com/andreabergia/rjvm
+2023-07-23,rust,1934,4,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
+2023-07-23,rust,6498,758,Fuel Network Rust SDK,FuelLabs,fuels-rs,https://github.com/FuelLabs/fuels-rs
+2023-07-23,rust,4064,4,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2023-07-23,rust,20549,451,Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2023-07-23,rust,1531,68,Simple http server in Rust (Windows/Mac/Linux),TheWaWaR,simple-http-server,https://github.com/TheWaWaR/simple-http-server
+2023-07-23,rust,13503,599,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2023-07-23,rust,15316,7,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2023-07-23,rust,9294,11,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-07-23,rust,269,61,"Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.",iggy-rs,iggy,https://github.com/iggy-rs/iggy
+2023-07-23,rust,11779,22,Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-07-23,rust,1981,53,Rust library to build rich terminal user interfaces (TUIs) and dashboards,ratatui-org,ratatui,https://github.com/ratatui-org/ratatui
+2023-07-23,rust,24961,18,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-07-23,rust,4459,20,"An Open Source Financial Switch to make Payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2023-07-23,rust,2606,10,GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习,alibaba,GraphScope,https://github.com/alibaba/GraphScope
+2023-07-23,rust,84,6,experimental package manager for node.js,anonrig,pacquet,https://github.com/anonrig/pacquet
+2023-07-23,rust,3855,4,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-07-23,rust,15865,19,Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2023-07-23,rust,13987,10,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-07-23,rust,12606,18,"Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
+2023-07-23,rust,10700,23,Magical shell history,ellie,atuin,https://github.com/ellie/atuin
+2023-07-23,rust,1133,18,teleconference system written in rust,security-union,videocall-rs,https://github.com/security-union/videocall-rs
+2023-07-23,rust,5201,7,"Distributed SQL database in Rust, written as a learning project",erikgrinaker,toydb,https://github.com/erikgrinaker/toydb
+2023-07-23,rust,2280,3,Cross-platform game engine in Rust.,not-fl3,macroquad,https://github.com/not-fl3/macroquad
+2023-07-23,rust,8354,10,"Cross-platform, safe, pure-rust graphics api.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu

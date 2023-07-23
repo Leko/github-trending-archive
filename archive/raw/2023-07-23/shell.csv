@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-23,shell,623,147,Open-source tool to bypass windows and linux passwords from bootable usb,Fadi002,unshackle,https://github.com/Fadi002/unshackle
+2023-07-23,shell,58,8,通过 GitHub Action 自动签到，每天延时一天，签到一定次数后奖励会变少,Adonis142857,GLaDOS-Signin,https://github.com/Adonis142857/GLaDOS-Signin
+2023-07-23,shell,444,20,Start your Taiko node with a single command.,taikoxyz,simple-taiko-node,https://github.com/taikoxyz/simple-taiko-node
+2023-07-23,shell,1714,4,,vcheckzen,KeepAliveE5,https://github.com/vcheckzen/KeepAliveE5
+2023-07-23,shell,4502,0,NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!,microsoft,vscode-dev-containers,https://github.com/microsoft/vscode-dev-containers
+2023-07-23,shell,160849,26,"A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2023-07-23,shell,10896,2,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2023-07-23,shell,4862,3,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2023-07-23,shell,1497,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2023-07-23,shell,6731,11,"useful scripts for making developer's everyday life easier and happier, involved java, shell etc.",oldratlee,useful-scripts,https://github.com/oldratlee/useful-scripts
+2023-07-23,shell,1095,14,Automated Redpill Loader(i18n),wjz304,arpl-i18n,https://github.com/wjz304/arpl-i18n
+2023-07-23,shell,40457,19,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 来看看，你会发现相见恨晚！,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2023-07-23,shell,1040,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2023-07-23,shell,1123,1,GitHub Enterprise Backup Utilities,github,backup-utils,https://github.com/github/backup-utils
+2023-07-23,shell,1528,6,"My custom build of wine, made to use with lutris. Built with lutris's buildbot.",GloriousEggroll,wine-ge-custom,https://github.com/GloriousEggroll/wine-ge-custom
+2023-07-23,shell,75169,28,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2023-07-23,shell,1980,1,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2023-07-23,shell,9794,2,Guide to using YubiKey for GPG and SSH,drduh,YubiKey-Guide,https://github.com/drduh/YubiKey-Guide
+2023-07-23,shell,15440,3,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2023-07-23,shell,3926,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-07-23,shell,17817,5,Node version management,tj,n,https://github.com/tj/n
+2023-07-23,shell,68674,24,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-07-23,shell,24814,5,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2023-07-23,shell,1182,3,An awesome & curated list of best LLMOps tools for developers,tensorchord,Awesome-LLMOps,https://github.com/tensorchord/Awesome-LLMOps
+2023-07-23,shell,17350,5,"OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",Nyr,openvpn-install,https://github.com/Nyr/openvpn-install
