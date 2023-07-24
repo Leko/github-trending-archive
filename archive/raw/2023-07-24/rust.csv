@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-24,rust,665,156,A tiny JVM written in Rust. Learning project,andreabergia,rjvm,https://github.com/andreabergia/rjvm
+2023-07-24,rust,365,36,"Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.",iggy-rs,iggy,https://github.com/iggy-rs/iggy
+2023-07-24,rust,13870,552,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2023-07-24,rust,20860,471,Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2023-07-24,rust,4472,20,"An Open Source Financial Switch to make Payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2023-07-24,rust,6920,607,Fuel Network Rust SDK,FuelLabs,fuels-rs,https://github.com/FuelLabs/fuels-rs
+2023-07-24,rust,1510,5,"A simple, modular, and fast framework for writing MEV bots in Rust.",paradigmxyz,artemis,https://github.com/paradigmxyz/artemis
+2023-07-24,rust,28210,13,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2023-07-24,rust,2397,3,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",lancedb,lance,https://github.com/lancedb/lance
+2023-07-24,rust,8393,3,阿里云盘 WebDAV 服务,messense,aliyundrive-webdav,https://github.com/messense/aliyundrive-webdav
+2023-07-24,rust,15322,11,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2023-07-24,rust,27,7,,letsgetrusty,api-deployment-example,https://github.com/letsgetrusty/api-deployment-example
+2023-07-24,rust,3899,5,Open Source Spotify client library,librespot-org,librespot,https://github.com/librespot-org/librespot
+2023-07-24,rust,12361,5,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2023-07-24,rust,10296,14,"Fullstack GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-07-24,rust,90163,15,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-07-24,rust,442,3,ezkl is a library and command-line tool for doing inference for deep learning models and other computational graphs in a zk-snark (ZKML),zkonduit,ezkl,https://github.com/zkonduit/ezkl
+2023-07-24,rust,10410,6,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2023-07-24,rust,7603,10,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2023-07-24,rust,12804,4,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2023-07-24,rust,16597,18,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2023-07-24,rust,1936,3,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
+2023-07-24,rust,10747,10,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2023-07-24,rust,2577,7,A full-featured and easy-to-use web framework with the Rust programming language.,poem-web,poem,https://github.com/poem-web/poem
+2023-07-24,rust,3735,4,The Mullvad VPN client app for desktop and mobile,mullvad,mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app
