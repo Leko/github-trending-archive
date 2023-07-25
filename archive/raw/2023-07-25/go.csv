@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-25,go,1445,39,A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.,Narasimha1997,fake-sms,https://github.com/Narasimha1997/fake-sms
+2023-07-25,go,8944,128,"Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-07-25,go,50,22,A bot for r/place that doesn't use the api,Edouard127,reddit-placebot-2023,https://github.com/Edouard127/reddit-placebot-2023
+2023-07-25,go,11739,59,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-07-25,go,9443,34,A fast TCP/UDP tunnel over HTTP,jpillora,chisel,https://github.com/jpillora/chisel
+2023-07-25,go,15130,15,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-07-25,go,44789,57,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2023-07-25,go,24777,28,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-07-25,go,632,1,Go Implementation of the Spacemesh protocol full node.,spacemeshos,go-spacemesh,https://github.com/spacemeshos/go-spacemesh
+2023-07-25,go,13226,110,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-07-25,go,2642,15,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-07-25,go,14300,18,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-07-25,go,17893,10,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2023-07-25,go,4065,5,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2023-07-25,go,27849,19,AI-Powered Photos App for the Decentralized Web,photoprism,photoprism,https://github.com/photoprism/photoprism
+2023-07-25,go,6896,23,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2023-07-25,go,2916,5,Community managed domain list. Generate geosite.dat for V2Ray.,v2fly,domain-list-community,https://github.com/v2fly/domain-list-community
+2023-07-25,go,4845,6,"trojan多用户管理部署程序, 支持web页面管理",Jrohy,trojan,https://github.com/Jrohy/trojan
+2023-07-25,go,20862,14,Cross platform GUI toolkit in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2023-07-25,go,30052,15,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-07-25,go,10204,18,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2023-07-25,go,162,12,a familiar desktop experience for lemmy,rystaf,mlmym,https://github.com/rystaf/mlmym
+2023-07-25,go,30,6,Simple CLI-based Algorithms Visualizer,go-nerds,cli-algorithms-visualizer,https://github.com/go-nerds/cli-algorithms-visualizer
+2023-07-25,go,105240,74,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-07-25,go,1093,5,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR

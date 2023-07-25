@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-25,rust,787,142,A tiny JVM written in Rust. Learning project,andreabergia,rjvm,https://github.com/andreabergia/rjvm
+2023-07-25,rust,467,158,"Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.",iggy-rs,iggy,https://github.com/iggy-rs/iggy
+2023-07-25,rust,1185,118,3D City Builder without a grid,Uriopass,Egregoria,https://github.com/Uriopass/Egregoria
+2023-07-25,rust,11222,12,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-07-25,rust,14352,488,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2023-07-25,rust,7414,540,Fuel Network Rust SDK,FuelLabs,fuels-rs,https://github.com/FuelLabs/fuels-rs
+2023-07-25,rust,10317,24,"Fullstack GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-07-25,rust,6568,7,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2023-07-25,rust,21276,450,Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2023-07-25,rust,90169,8,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-07-25,rust,3903,8,Open Source Spotify client library,librespot-org,librespot,https://github.com/librespot-org/librespot
+2023-07-25,rust,12808,4,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2023-07-25,rust,15326,5,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2023-07-25,rust,16676,12,All Algorithms implemented in Rust,TheAlgorithms,Rust,https://github.com/TheAlgorithms/Rust
+2023-07-25,rust,3883,2,WebAssembly System Interface,WebAssembly,WASI,https://github.com/WebAssembly/WASI
+2023-07-25,rust,2414,32,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",lancedb,lance,https://github.com/lancedb/lance
+2023-07-25,rust,1457,4,Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.,Priler,jarvis,https://github.com/Priler/jarvis
+2023-07-25,rust,4076,4,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2023-07-25,rust,28231,30,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2023-07-25,rust,9323,18,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-07-25,rust,6383,11,3D and 2D game engine written in Rust,FyroxEngine,Fyrox,https://github.com/FyroxEngine/Fyrox
+2023-07-25,rust,7994,7,Command-line Git information tool,o2sh,onefetch,https://github.com/o2sh/onefetch
+2023-07-25,rust,8367,6,"Cross-platform, safe, pure-rust graphics api.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-07-25,rust,85,14,Sample Artemis bot to fill UniswapX orders using on-chain liquidity,marktoda,uniswapx-artemis,https://github.com/marktoda/uniswapx-artemis
+2023-07-25,rust,5230,15,"Distributed SQL database in Rust, written as a learning project",erikgrinaker,toydb,https://github.com/erikgrinaker/toydb
