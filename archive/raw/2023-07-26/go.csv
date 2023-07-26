@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-26,go,72,10,A bot for r/place that doesn't use the api,Edouard127,reddit-placebot-2023,https://github.com/Edouard127/reddit-placebot-2023
+2023-07-26,go,12240,14,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-07-26,go,8164,7,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2023-07-26,go,32680,15,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-07-26,go,1666,334,A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.,Narasimha1997,fake-sms,https://github.com/Narasimha1997/fake-sms
+2023-07-26,go,13238,20,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-07-26,go,9014,82,"Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-07-26,go,4410,3,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2023-07-26,go,6611,3,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2023-07-26,go,7855,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-07-26,go,15559,13,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-07-26,go,19160,13,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-07-26,go,2661,9,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-07-26,go,23686,14,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-07-26,go,6915,20,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2023-07-26,go,3005,3,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2023-07-26,go,44055,14,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-07-26,go,9467,34,A fast TCP/UDP tunnel over HTTP,jpillora,chisel,https://github.com/jpillora/chisel
+2023-07-26,go,38177,22,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-07-26,go,13194,9,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2023-07-26,go,29465,22,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2023-07-26,go,8570,8,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2023-07-26,go,7262,6,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2023-07-26,go,1785,10,一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。,wgpsec,ENScan_GO,https://github.com/wgpsec/ENScan_GO
+2023-07-26,go,6986,8,Go library for decoding generic map values into native Go structures and vice versa.,mitchellh,mapstructure,https://github.com/mitchellh/mapstructure
