@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-27,go,2549,5,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2023-07-27,go,7472,6,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-07-27,go,13793,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-07-27,go,9484,16,A fast TCP/UDP tunnel over HTTP,jpillora,chisel,https://github.com/jpillora/chisel
+2023-07-27,go,1696,34,A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.,Narasimha1997,fake-sms,https://github.com/Narasimha1997/fake-sms
+2023-07-27,go,91,33,A bot for r/place that doesn't use the api,Edouard127,reddit-placebot-2023,https://github.com/Edouard127/reddit-placebot-2023
+2023-07-27,go,5216,4,Arbitrary-precision fixed-point decimal numbers in go,shopspring,decimal,https://github.com/shopspring/decimal
+2023-07-27,go,32687,17,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-07-27,go,1316,15,k0s - The Zero Friction Kubernetes,k0sproject,k0s,https://github.com/k0sproject/k0s
+2023-07-27,go,3845,15,"Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",hakluke,hakrawler,https://github.com/hakluke/hakrawler
+2023-07-27,go,37533,35,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2023-07-27,go,6094,2,Go RPC framework with high-performance and strong-extensibility for building micro-services.,cloudwego,kitex,https://github.com/cloudwego/kitex
+2023-07-27,go,6958,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2023-07-27,go,16649,14,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages,pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-07-27,go,23701,13,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-07-27,go,13667,12,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-07-27,go,11889,5,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-07-27,go,12369,194,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-07-27,go,171,15,"IM即时通讯,聊天",TangSengDaoDao,TangSengDaoDaoServer,https://github.com/TangSengDaoDao/TangSengDaoDaoServer
+2023-07-27,go,8579,12,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2023-07-27,go,3145,7,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2023-07-27,go,19641,8,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-07-27,go,3193,0,Go implementation of Ethereum proof of stake,prysmaticlabs,prysm,https://github.com/prysmaticlabs/prysm
+2023-07-27,go,19171,10,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-07-27,go,15261,4,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
