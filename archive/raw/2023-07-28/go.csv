@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-28,go,12441,28,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-07-28,go,23768,22,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-07-28,go,7483,15,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-07-28,go,12804,5,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-07-28,go,4176,3,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2023-07-28,go,6500,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-07-28,go,9131,63,"Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-07-28,go,13676,11,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-07-28,go,18512,3,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-07-28,go,6961,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2023-07-28,go,49225,22,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-07-28,go,1340,30,k0s - The Zero Friction Kubernetes,k0sproject,k0s,https://github.com/k0sproject/k0s
+2023-07-28,go,17631,6,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-07-28,go,7694,12,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2023-07-28,go,26703,3,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-07-28,go,19182,13,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-07-28,go,14115,55,A tool for glamorous shell scripts,charmbracelet,gum,https://github.com/charmbracelet/gum
+2023-07-28,go,15793,9,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-07-28,go,2550,5,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2023-07-28,go,12606,4,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2023-07-28,go,334,26,Real-time data replication from OLTP to OLAP dbs,artie-labs,transfer,https://github.com/artie-labs/transfer
+2023-07-28,go,8138,9,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2023-07-28,go,8331,8,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2023-07-28,go,13110,7,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-07-28,go,11935,4,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
