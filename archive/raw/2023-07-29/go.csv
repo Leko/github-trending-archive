@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-29,go,10024,8,Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架,crawlab-team,crawlab,https://github.com/crawlab-team/crawlab
+2023-07-29,go,12531,130,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-07-29,go,26108,10,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2023-07-29,go,30034,45,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2023-07-29,go,23857,137,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-07-29,go,7296,25,Modern UI for Ansible,ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore
+2023-07-29,go,7707,12,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2023-07-29,go,1905,1,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2023-07-29,go,2072,1,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2023-07-29,go,14478,7,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-07-29,go,40420,22,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2023-07-29,go,6963,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2023-07-29,go,8340,8,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2023-07-29,go,49242,18,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-07-29,go,19663,10,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-07-29,go,3358,1,Protocol Buffer Validation - Checkout the new `protovalidate` project,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2023-07-29,go,26963,5,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2023-07-29,go,8599,7,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2023-07-29,go,6264,11,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2023-07-29,go,4461,5,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2023-07-29,go,1948,3,Common Expression Language -- specification and binary representation,google,cel-spec,https://github.com/google/cel-spec
+2023-07-29,go,9525,37,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2023-07-29,go,13810,7,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-07-29,go,5826,0,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-07-29,go,23005,5,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
