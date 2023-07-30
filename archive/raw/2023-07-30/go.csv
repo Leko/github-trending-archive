@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-30,go,3832,9,RocksDB/LevelDB inspired key-value database in Go,cockroachdb,pebble,https://github.com/cockroachdb/pebble
+2023-07-30,go,4468,8,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2023-07-30,go,564,69,"Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀",PeerDB-io,peerdb,https://github.com/PeerDB-io/peerdb
+2023-07-30,go,12556,35,"A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-07-30,go,5582,16,An HTTP toolkit for security research.,dstotijn,hetty,https://github.com/dstotijn/hetty
+2023-07-30,go,18527,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-07-30,go,5028,20,A blazingly fast JSON serializing & deserializing library,bytedance,sonic,https://github.com/bytedance/sonic
+2023-07-30,go,13482,46,GO Simple Tunnel - a simple tunnel written in golang,ginuerzh,gost,https://github.com/ginuerzh/gost
+2023-07-30,go,13695,8,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-07-30,go,9542,14,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2023-07-30,go,100452,19,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-07-30,go,26712,3,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-07-30,go,1950,7,Common Expression Language -- specification and binary representation,google,cel-spec,https://github.com/google/cel-spec
+2023-07-30,go,8622,16,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2023-07-30,go,12817,4,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-07-30,go,16047,20,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-07-30,go,15805,3,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-07-30,go,9287,2,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2023-07-30,go,21076,2,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2023-07-30,go,2050,1,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2023-07-30,go,23557,9,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-07-30,go,8751,2,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-07-30,go,28394,40,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-07-30,go,7303,10,Modern UI for Ansible,ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore
+2023-07-30,go,32723,10,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
