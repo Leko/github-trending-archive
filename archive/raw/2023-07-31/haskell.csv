@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-07-31,haskell,29492,4,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-07-31,haskell,2903,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-07-31,haskell,1757,3,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-07-31,haskell,2390,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-07-31,haskell,32626,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-07-31,haskell,5255,1,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2023-07-31,haskell,5281,3,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-07-31,haskell,1135,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-07-31,haskell,721,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-07-31,haskell,2955,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-07-31,haskell,609,0,A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.,nammayatri,nammayatri,https://github.com/nammayatri/nammayatri
+2023-07-31,haskell,6,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2023-07-31,haskell,3890,13,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-07-31,haskell,5,0,Cardano API,input-output-hk,cardano-api,https://github.com/input-output-hk/cardano-api
+2023-07-31,haskell,1,0,Accelerates K Framework's Haskell backend,runtimeverification,hs-backend-booster,https://github.com/runtimeverification/hs-backend-booster
+2023-07-31,haskell,198,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-07-31,haskell,1,0,,imsut,starthaskell,https://github.com/imsut/starthaskell
+2023-07-31,haskell,3368,14,The fastest way to develop full-stack web apps with React & Node.js.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2023-07-31,haskell,4033,3,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2023-07-31,haskell,1657,2,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2023-07-31,haskell,254,0,"An implementation of the Ouroboros family of consensus algorithms, with its networking support",input-output-hk,ouroboros-network,https://github.com/input-output-hk/ouroboros-network
+2023-07-31,haskell,0,0,Progam to perform phylogenetic searches on general graphs with diverse data types,amnh,PhyG,https://github.com/amnh/PhyG
+2023-07-31,haskell,2443,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2023-07-31,haskell,216,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2023-07-31,haskell,2553,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
