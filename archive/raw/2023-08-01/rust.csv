@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-01,rust,26688,70,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2023-08-01,rust,3396,36,"2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.",GraphiteEditor,Graphite,https://github.com/GraphiteEditor/Graphite
+2023-08-01,rust,11401,21,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-08-01,rust,21300,37,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",spacedriveapp,spacedrive,https://github.com/spacedriveapp/spacedrive
+2023-08-01,rust,21118,7,A web framework for Rust.,SergioBenitez,Rocket,https://github.com/SergioBenitez/Rocket
+2023-08-01,rust,10506,5,"ISG lets you use YouTube as cloud storage for ANY files, not just video",DvorakDwarf,Infinite-Storage-Glitch,https://github.com/DvorakDwarf/Infinite-Storage-Glitch
+2023-08-01,rust,8959,61,"Ping, but with a graph",orf,gping,https://github.com/orf/gping
+2023-08-01,rust,706,91,"Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀",PeerDB-io,peerdb,https://github.com/PeerDB-io/peerdb
+2023-08-01,rust,9393,8,"The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-08-01,rust,8115,28,Command-line Git information tool,o2sh,onefetch,https://github.com/o2sh/onefetch
+2023-08-01,rust,10834,32,Magical shell history,atuinsh,atuin,https://github.com/atuinsh/atuin
+2023-08-01,rust,9714,12,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2023-08-01,rust,35363,18,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2023-08-01,rust,25099,18,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-08-01,rust,12660,17,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2023-08-01,rust,1736,29,Simple http server in Rust (Windows/Mac/Linux),TheWaWaR,simple-http-server,https://github.com/TheWaWaR/simple-http-server
+2023-08-01,rust,11725,17,A link aggregator and forum for the fediverse,LemmyNet,lemmy,https://github.com/LemmyNet/lemmy
+2023-08-01,rust,9143,15,"Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint
+2023-08-01,rust,14671,10,Anki for desktop computers,ankitects,anki,https://github.com/ankitects/anki
+2023-08-01,rust,7152,1,the champagne of beta embedded databases,spacejam,sled,https://github.com/spacejam/sled
+2023-08-01,rust,3827,4,A Rust library for the Discord API.,serenity-rs,serenity,https://github.com/serenity-rs/serenity
+2023-08-01,rust,6684,24,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2023-08-01,rust,21464,20,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-08-01,rust,39681,28,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-08-01,rust,2263,25,Ergonomic bindings to SQLite for Rust,rusqlite,rusqlite,https://github.com/rusqlite/rusqlite
