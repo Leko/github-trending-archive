@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-02,scala,598,4,Gluten: Plugin to Double SparkSQL's Performance,oap-project,gluten,https://github.com/oap-project/gluten
+2023-08-02,scala,36348,9,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-08-02,scala,14120,0,"Scala 2 compiler and standard library. For bugs, see scala/bug",scala,scala,https://github.com/scala/scala
+2023-08-02,scala,3131,3,Chisel: A Modern Hardware Design Language,chipsalliance,chisel,https://github.com/chipsalliance/chisel
+2023-08-02,scala,904,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2023-08-02,scala,5704,0,The Guardian DotCom.,guardian,frontend,https://github.com/guardian/frontend
+2023-08-02,scala,9941,6,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-08-02,scala,12742,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-08-02,scala,666,1,"A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",zio,zio-http,https://github.com/zio/zio-http
+2023-08-02,scala,2715,0,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-08-02,scala,433,0,Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .go / .java / .js / .lua / .nim / .php / .pm / .py / .rb,kaitai-io,kaitai_struct_compiler,https://github.com/kaitai-io/kaitai_struct_compiler
+2023-08-02,scala,1920,1,Scala language server with rich IDE features,scalameta,metals,https://github.com/scalameta/metals
+2023-08-02,scala,38,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo
+2023-08-02,scala,4357,3,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-08-02,scala,2467,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2023-08-02,scala,3348,4,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2023-08-02,scala,1660,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-08-02,scala,459,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2023-08-02,scala,36,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2023-08-02,scala,29,0,,broadinstitute,firecloud-orchestration,https://github.com/broadinstitute/firecloud-orchestration
+2023-08-02,scala,2885,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-08-02,scala,1912,0,DataStax Connector for Apache Spark to Apache Cassandra,datastax,spark-cassandra-connector,https://github.com/datastax/spark-cassandra-connector
+2023-08-02,scala,6005,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-08-02,scala,12421,0,Play Framework,playframework,playframework,https://github.com/playframework/playframework
+2023-08-02,scala,6526,0,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow

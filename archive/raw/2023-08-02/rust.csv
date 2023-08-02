@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-02,rust,3682,302,"2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.",GraphiteEditor,Graphite,https://github.com/GraphiteEditor/Graphite
+2023-08-02,rust,12678,15,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2023-08-02,rust,10869,39,Magical shell history,atuinsh,atuin,https://github.com/atuinsh/atuin
+2023-08-02,rust,11464,80,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-08-02,rust,26776,97,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2023-08-02,rust,18952,24,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
+2023-08-02,rust,2268,10,Ergonomic bindings to SQLite for Rust,rusqlite,rusqlite,https://github.com/rusqlite/rusqlite
+2023-08-02,rust,37961,34,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2023-08-02,rust,9001,47,"Ping, but with a graph",orf,gping,https://github.com/orf/gping
+2023-08-02,rust,14971,5,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2023-08-02,rust,2722,21,Runtime Executor (asdf 2.0),jdxcode,rtx,https://github.com/jdxcode/rtx
+2023-08-02,rust,2538,4,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2023-08-02,rust,35384,18,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2023-08-02,rust,20073,43,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-08-02,rust,19740,46,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-08-02,rust,4523,10,"An Open Source Financial Switch to make Payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2023-08-02,rust,21336,42,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",spacedriveapp,spacedrive,https://github.com/spacedriveapp/spacedrive
+2023-08-02,rust,980,1,Superfast Genshin Impact artifacts scanner,wormtql,yas,https://github.com/wormtql/yas
+2023-08-02,rust,135,6,A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.,MoonKraken,rusty_llama,https://github.com/MoonKraken/rusty_llama
+2023-08-02,rust,6690,8,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2023-08-02,rust,21480,15,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-08-02,rust,4446,21,An ecosystem of Rust libraries for working with large language models,rustformers,llm,https://github.com/rustformers/llm
+2023-08-02,rust,6266,7,A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-08-02,rust,1805,15,"KT minerproxy 3.0+ 基于Rust创建一个独特的minerproxy，它支持所有货币管理及币种热更新、准确的计算能力统计和以及按照算力抽取, 兼容所有机型无损耗。 minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy",EvilGenius-dot,RustMinerSystem,https://github.com/EvilGenius-dot/RustMinerSystem
+2023-08-02,rust,4619,11,🐚 An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm

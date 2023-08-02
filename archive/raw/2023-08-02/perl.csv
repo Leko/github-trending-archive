@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-02,perl,0,0,identidad visual de firefox,inaes-tic,pkg-firefox,https://github.com/inaes-tic/pkg-firefox
+2023-08-02,perl,2869,2,"a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)",rsnapshot,rsnapshot,https://github.com/rsnapshot/rsnapshot
+2023-08-02,perl,2259,2,ExifTool meta information reader/writer,exiftool,exiftool,https://github.com/exiftool/exiftool
+2023-08-02,perl,8189,3,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
+2023-08-02,perl,746,0,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2023-08-02,perl,2880,1,"Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is",imapsync,imapsync,https://github.com/imapsync/imapsync
+2023-08-02,perl,891,0,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2023-08-02,perl,2,0,A compat layer for migrating from ElasticSearch.pm to the new Elasticsearch.pm,elastic,elasticsearch-perl-compat,https://github.com/elastic/elasticsearch-perl-compat
+2023-08-02,perl,87,0,Official Perl low-level client for Elasticsearch.,elastic,elasticsearch-perl,https://github.com/elastic/elasticsearch-perl
+2023-08-02,perl,682,0,Rapid prokaryotic genome annotation,tseemann,prokka,https://github.com/tseemann/prokka
+2023-08-02,perl,2165,3,,ThePrimeagen,.dotfiles,https://github.com/ThePrimeagen/.dotfiles
+2023-08-02,perl,2,0,Test::X1 Perl test module,pawjy,perl-test-x1,https://github.com/pawjy/perl-test-x1
+2023-08-02,perl,0,0,Perl modules for loading configurations,pawjy,karasuma-config,https://github.com/pawjy/karasuma-config
+2023-08-02,perl,3,0,JSON::Functions::XS,pawjy,perl-json-functions-xs,https://github.com/pawjy/perl-json-functions-xs
+2023-08-02,perl,1,0,,pawjy,perl-promised-docker-webdriver,https://github.com/pawjy/perl-promised-docker-webdriver
+2023-08-02,perl,1,0,,pawjy,perl-promised-file,https://github.com/pawjy/perl-promised-file
+2023-08-02,perl,4,0,"Dongry, a Perl object-oriented interface for MySQL databases",pawjy,dongry,https://github.com/pawjy/dongry
+2023-08-02,perl,0,0,,pawjy,perl-promised-mysqld,https://github.com/pawjy/perl-promised-mysqld
+2023-08-02,perl,1,0,Language files for Binary.com Websockets API service,binary-com,translations-websockets-api,https://github.com/binary-com/translations-websockets-api
+2023-08-02,perl,2214,1,Client for PPP+SSL VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
+2023-08-02,perl,3105,2,A fast PostgreSQL Log Analyzer,darold,pgbadger,https://github.com/darold/pgbadger
+2023-08-02,perl,280,0,"openQA web-frontend, scheduler and tools.",os-autoinst,openQA,https://github.com/os-autoinst/openQA
+2023-08-02,perl,297,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2023-08-02,perl,397,1,Rapid haploid variant calling and core genome alignment,tseemann,snippy,https://github.com/tseemann/snippy
+2023-08-02,perl,66,0,,yxnwh,checkin,https://github.com/yxnwh/checkin
