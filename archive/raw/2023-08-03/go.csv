@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-03,go,67,11,Golang utility for proving and finalizing withdrawals from op-stack chains.,base-org,withdrawer,https://github.com/base-org/withdrawer
+2023-08-03,go,7095,10,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",uber,cadence,https://github.com/uber/cadence
+2023-08-03,go,6331,4,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2023-08-03,go,7543,2,The Official Golang driver for MongoDB,mongodb,mongo-go-driver,https://github.com/mongodb/mongo-go-driver
+2023-08-03,go,26726,7,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-08-03,go,24993,45,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-08-03,go,18812,71,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2023-08-03,go,6697,8,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
+2023-08-03,go,10586,5,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2023-08-03,go,41953,23,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2023-08-03,go,6259,16,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2023-08-03,go,18542,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-08-03,go,1774,36,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-08-03,go,3259,6,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2023-08-03,go,29604,24,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2023-08-03,go,3610,8,Golang LRU cache,hashicorp,golang-lru,https://github.com/hashicorp/golang-lru
+2023-08-03,go,20253,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-08-03,go,5572,5,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2023-08-03,go,49309,7,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-08-03,go,9177,5,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2023-08-03,go,41335,233,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2023-08-03,go,6395,7,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2023-08-03,go,5921,6,Fluent SQL generation for golang,Masterminds,squirrel,https://github.com/Masterminds/squirrel
+2023-08-03,go,17669,5,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-08-03,go,8696,3,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk

@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-03,haskell,2394,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-08-03,haskell,29529,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-08-03,haskell,191,2,Smart contract specification language,ethereum,act,https://github.com/ethereum/act
+2023-08-03,haskell,3,0,library for program like LOGO's turtle with using wxHaskell,YoshikuniJujo,wxturtle,https://github.com/YoshikuniJujo/wxturtle
+2023-08-03,haskell,1246,2,Easy dependency management for Nix projects,nmattia,niv,https://github.com/nmattia/niv
+2023-08-03,haskell,1502,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-08-03,haskell,32649,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-08-03,haskell,2955,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-08-03,haskell,20938,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-08-03,haskell,3,0,IO concurrent promitives for conduit,qnikst,iochan-conduit,https://github.com/qnikst/iochan-conduit
+2023-08-03,haskell,1762,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-08-03,haskell,8823,8,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-08-03,haskell,568,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-08-03,haskell,6,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2023-08-03,haskell,3424,34,The fastest way to develop full-stack web apps with React & Node.js.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2023-08-03,haskell,0,0,,IreneKnapp,direct-rich-text-format,https://github.com/IreneKnapp/direct-rich-text-format
+2023-08-03,haskell,1138,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-08-03,haskell,3888,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
