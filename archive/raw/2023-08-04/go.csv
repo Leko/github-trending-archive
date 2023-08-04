@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-04,go,18830,26,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2023-08-04,go,25055,50,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-08-04,go,137,1,GoLang library for generating cryptographically secure random numbers using the crypto/rand package,imusmanmalik,randomizer,https://github.com/imusmanmalik/randomizer
+2023-08-04,go,6263,5,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2023-08-04,go,20263,13,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-08-04,go,41423,116,Run your GitHub Actions locally,nektos,act,https://github.com/nektos/act
+2023-08-04,go,823,3,LangChain for Go,tmc,langchaingo,https://github.com/tmc/langchaingo
+2023-08-04,go,1476,29,Send emails from your terminal,charmbracelet,pop,https://github.com/charmbracelet/pop
+2023-08-04,go,12531,3,Fast key-value DB in Go.,dgraph-io,badger,https://github.com/dgraph-io/badger
+2023-08-04,go,18546,8,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-08-04,go,21389,7,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-08-04,go,3337,0,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2023-08-04,go,8729,4,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",kubescape,kubescape,https://github.com/kubescape/kubescape
+2023-08-04,go,1028,0,"Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.",bazelbuild,bazel-gazelle,https://github.com/bazelbuild/bazel-gazelle
+2023-08-04,go,100575,31,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-08-04,go,10563,7,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2023-08-04,go,3620,13,Golang LRU cache,hashicorp,golang-lru,https://github.com/hashicorp/golang-lru
+2023-08-04,go,3036,5,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2023-08-04,go,3478,1,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2023-08-04,go,10591,2,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2023-08-04,go,20295,12,Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2023-08-04,go,7198,0,Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch,olivere,elastic,https://github.com/olivere/elastic
+2023-08-04,go,14827,2,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-08-04,go,4659,5,"Golang client for NATS, the cloud native messaging system.",nats-io,nats.go,https://github.com/nats-io/nats.go
+2023-08-04,go,11951,3,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos

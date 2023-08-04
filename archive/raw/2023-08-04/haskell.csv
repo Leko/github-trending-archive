@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-04,haskell,8826,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-08-04,haskell,3433,12,The fastest way to develop full-stack web apps with React & Node.js.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2023-08-04,haskell,32651,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-08-04,haskell,2130,0,A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2023-08-04,haskell,2912,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-08-04,haskell,0,0,http://www.haskell.org/haskellwiki/99_questions/,ghsyeung,haskell_99,https://github.com/ghsyeung/haskell_99
+2023-08-04,haskell,1763,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-08-04,haskell,3,0,library for program like LOGO's turtle with using wxHaskell,YoshikuniJujo,wxturtle,https://github.com/YoshikuniJujo/wxturtle
+2023-08-04,haskell,4043,4,The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2023-08-04,haskell,29542,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-08-04,haskell,2958,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-08-04,haskell,2,0,"Macro pre-processor that, given a recursive function on lists in Haskell, generates a type-level reification using HLists.",dorchard,gen-type-list,https://github.com/dorchard/gen-type-list
+2023-08-04,haskell,2395,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-08-04,haskell,1249,2,Easy dependency management for Nix projects,nmattia,niv,https://github.com/nmattia/niv
+2023-08-04,haskell,3071,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-08-04,haskell,3,0,IO concurrent promitives for conduit,qnikst,iochan-conduit,https://github.com/qnikst/iochan-conduit
+2023-08-04,haskell,721,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-08-04,haskell,82,0,Code used throughout the Cardano eco-system,input-output-hk,cardano-base,https://github.com/input-output-hk/cardano-base
+2023-08-04,haskell,1,0,Accelerates K Framework's Haskell backend,runtimeverification,hs-backend-booster,https://github.com/runtimeverification/hs-backend-booster
+2023-08-04,haskell,1139,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-08-04,haskell,1463,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2023-08-04,haskell,2878,1,Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).,ghc,ghc,https://github.com/ghc/ghc
+2023-08-04,haskell,6,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
