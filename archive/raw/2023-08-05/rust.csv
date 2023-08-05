@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-05,rust,10598,80,"Fullstack GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-08-05,rust,19127,111,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
+2023-08-05,rust,17425,427,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2023-08-05,rust,9700,5,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2023-08-05,rust,7822,5,An easy and powerful Rust HTTP Client,seanmonstar,reqwest,https://github.com/seanmonstar/reqwest
+2023-08-05,rust,631,0,Write Parachains on Substrate,paritytech,cumulus,https://github.com/paritytech/cumulus
+2023-08-05,rust,39847,52,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-08-05,rust,22318,10,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-08-05,rust,23902,297,Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2023-08-05,rust,21743,25,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2023-08-05,rust,9224,38,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2023-08-05,rust,11095,26,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-08-05,rust,10791,439,Fuel Network Rust SDK,FuelLabs,fuels-rs,https://github.com/FuelLabs/fuels-rs
+2023-08-05,rust,8639,15,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2023-08-05,rust,1473,15,Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.,Yamato-Security,hayabusa,https://github.com/Yamato-Security/hayabusa
+2023-08-05,rust,5502,46,"10x easier,  140x lower storage cost,  high performance,  petabyte scale - Elasticsearch/Splunk/Datadog alternative for  (logs, metrics, traces).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2023-08-05,rust,571,25,Roll your own tracker!,IgnisDa,ryot,https://github.com/IgnisDa/ryot
+2023-08-05,rust,9768,14,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2023-08-05,rust,5160,4,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-08-05,rust,42282,32,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2023-08-05,rust,4514,13,A secure embedded operating system for microcontrollers,tock,tock,https://github.com/tock/tock
+2023-08-05,rust,12053,25,Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-08-05,rust,2097,8,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-08-05,rust,1218,2,OpenTelemetry API and SDK for Rust,open-telemetry,opentelemetry-rust,https://github.com/open-telemetry/opentelemetry-rust
+2023-08-05,rust,7332,10,Fast State-of-the-Art Tokenizers optimized for Research and Production,huggingface,tokenizers,https://github.com/huggingface/tokenizers
