@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-06,haskell,32692,21,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-08-06,haskell,20958,10,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-08-06,haskell,29557,10,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-08-06,haskell,1,0,Yesod in pure Haskell: no Template Haskell or QuasiQuotes,snoyberg,yesod-pure,https://github.com/snoyberg/yesod-pure
+2023-08-06,haskell,2397,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-08-06,haskell,766,2,A terminal interface for Tetris,samtay,tetris,https://github.com/samtay/tetris
+2023-08-06,haskell,5286,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-08-06,haskell,10,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2023-08-06,haskell,2,0,,markandrus,Matrix-Decomposition,https://github.com/markandrus/Matrix-Decomposition
+2023-08-06,haskell,0,0,Common base to replicate in all of my machines.,t0rrant,xmonad-config,https://github.com/t0rrant/xmonad-config
+2023-08-06,haskell,7233,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-08-06,haskell,12,0,Yet another Blog engine written in Haskell powered by yesod.,konn,Yablog,https://github.com/konn/Yablog
+2023-08-06,haskell,0,0,,richerrer,MasterMind,https://github.com/richerrer/MasterMind
+2023-08-06,haskell,198,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-08-06,haskell,1,0,,imsut,starthaskell,https://github.com/imsut/starthaskell
+2023-08-06,haskell,8236,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-08-06,haskell,2710,1,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2023-08-06,haskell,55,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2023-08-06,haskell,1,0,Accelerates K Framework's Haskell backend,runtimeverification,hs-backend-booster,https://github.com/runtimeverification/hs-backend-booster
+2023-08-06,haskell,2918,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad

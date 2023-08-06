@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-06,go,142,26,Powerful system container and virtual machine manager,cyphar,incus,https://github.com/cyphar/incus
+2023-08-06,go,11216,29,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2023-08-06,go,799,38,"IM即时通讯,聊天",TangSengDaoDao,TangSengDaoDaoServer,https://github.com/TangSengDaoDao/TangSengDaoDaoServer
+2023-08-06,go,15445,30,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",casbin,casbin,https://github.com/casbin/casbin
+2023-08-06,go,5842,4,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-08-06,go,2977,4,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2023-08-06,go,4669,6,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-08-06,go,1061,2,一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序,linweiyuan,go-chatgpt-api,https://github.com/linweiyuan/go-chatgpt-api
+2023-08-06,go,11961,7,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-08-06,go,12255,16,"Linux virtual machines, typically on macOS, for running containerd",lima-vm,lima,https://github.com/lima-vm/lima
+2023-08-06,go,48416,25,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2023-08-06,go,3815,11,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-08-06,go,4130,0,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-08-06,go,11405,4,IM即时通讯,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2023-08-06,go,2164,0,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2023-08-06,go,70121,76,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2023-08-06,go,18886,8,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with,gorilla,mux,https://github.com/gorilla/mux
+2023-08-06,go,15359,6,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-08-06,go,8187,4,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2023-08-06,go,1207,4,Vendor-neutral programmable observability pipelines.,grafana,agent,https://github.com/grafana/agent
+2023-08-06,go,105907,63,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-08-06,go,4853,8,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-08-06,go,20507,11,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2023-08-06,go,13324,10,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-08-06,go,14124,2,Easy and Repeatable Kubernetes Development,GoogleContainerTools,skaffold,https://github.com/GoogleContainerTools/skaffold

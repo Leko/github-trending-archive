@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-06,rust,19186,43,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
+2023-08-06,rust,5158,3,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-08-06,rust,7899,3,Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2023-08-06,rust,11146,45,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-08-06,rust,8531,3,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2023-08-06,rust,5555,57,"10x easier,  140x lower storage cost,  high performance,  petabyte scale - Elasticsearch/Splunk/Datadog alternative for  (logs, metrics, traces).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2023-08-06,rust,5377,2,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-08-06,rust,22340,11,A modern replacement for ‘ls’.,ogham,exa,https://github.com/ogham/exa
+2023-08-06,rust,39879,41,"ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-08-06,rust,6552,3,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2023-08-06,rust,3896,5,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-08-06,rust,10691,129,"Fullstack GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2023-08-06,rust,90311,11,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-08-06,rust,1223,5,OpenTelemetry API and SDK for Rust,open-telemetry,opentelemetry-rust,https://github.com/open-telemetry/opentelemetry-rust
+2023-08-06,rust,28369,15,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2023-08-06,rust,18101,10,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2023-08-06,rust,3443,15,"Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. Use Ockam to build secure-by-design applications that can Trust Data-in-Motion.",build-trust,ockam,https://github.com/build-trust/ockam
+2023-08-06,rust,17627,212,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2023-08-06,rust,12880,26,"Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
+2023-08-06,rust,56,9,Backend service to build customer facing dashboards 10x faster. Written in Rust.,frolicorg,frolic,https://github.com/frolicorg/frolic
+2023-08-06,rust,1461,1,Rust library for build scripts to compile C/C++ code into a Rust library,rust-lang,cc-rs,https://github.com/rust-lang/cc-rs
+2023-08-06,rust,42301,20,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2023-08-06,rust,159,9,All-in-One Vue compiler written in Rust,phoenix-ru,fervid,https://github.com/phoenix-ru/fervid
+2023-08-06,rust,4526,16,A secure embedded operating system for microcontrollers,tock,tock,https://github.com/tock/tock
+2023-08-06,rust,11022,228,Fuel Network Rust SDK,FuelLabs,fuels-rs,https://github.com/FuelLabs/fuels-rs

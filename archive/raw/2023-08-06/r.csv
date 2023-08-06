@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-06,r,40,5,Data Sets from the History of Statistics and Data Visualization,friendly,HistData,https://github.com/friendly/HistData
+2023-08-06,r,1890,0,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2023-08-06,r,242,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2023-08-06,r,374,2,NicheNet: predict active ligand-target links between interacting cells,saeyslab,nichenetr,https://github.com/saeyslab/nichenetr
+2023-08-06,r,454,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2023-08-06,r,496,1,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2023-08-06,r,299,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2023-08-06,r,400,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2023-08-06,r,1757,2,Statistical Rethinking Course for Jan-Mar 2023,rmcelreath,stat_rethinking_2023,https://github.com/rmcelreath/stat_rethinking_2023
+2023-08-06,r,425,0,"Fast, sensitive and accurate integration of single-cell data with Harmony",immunogenomics,harmony,https://github.com/immunogenomics/harmony
+2023-08-06,r,43,1,An attempt at making polars syntax easier to use in R,etiennebacher,tidypolars,https://github.com/etiennebacher/tidypolars
+2023-08-06,r,7,0,Reproducible slice module for teal applications,insightsengineering,teal.slice,https://github.com/insightsengineering/teal.slice
+2023-08-06,r,277,1,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2023-08-06,r,876,0,"Robyn is an experimental, automated and open-sourced Marketing Mix Modeling (MMM) package from Facebook Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimisation, gradient-based optimisation for budget allocation etc.) to define media channel efficienc…",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2023-08-06,r,1114,0,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2023-08-06,r,6,0,,JamesHWade,r-mlops,https://github.com/JamesHWade/r-mlops
+2023-08-06,r,265,0,,cole-trapnell-lab,monocle3,https://github.com/cole-trapnell-lab/monocle3
+2023-08-06,r,505,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2023-08-06,r,3346,0,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2023-08-06,r,1,0,MatrixEQTL with GLM,CreRecombinase,MatrixeQTLGLM,https://github.com/CreRecombinase/MatrixeQTLGLM
+2023-08-06,r,1145,0,brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan,paul-buerkner,brms,https://github.com/paul-buerkner/brms
+2023-08-06,r,1556,0,R Interface to Python,rstudio,reticulate,https://github.com/rstudio/reticulate
+2023-08-06,r,443,0,Survival Analysis and Visualization,kassambara,survminer,https://github.com/kassambara/survminer
+2023-08-06,r,807,0,A universal enrichment tool for interpreting omics data,YuLab-SMU,clusterProfiler,https://github.com/YuLab-SMU/clusterProfiler
+2023-08-06,r,2284,0,A general-purpose tool for dynamic report generation in R,yihui,knitr,https://github.com/yihui/knitr
