@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-08,lua,26496,5,Image Super-Resolution for Anime-Style Art,nagadomi,waifu2x,https://github.com/nagadomi/waifu2x
+2023-08-08,lua,6455,22,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-08-08,lua,10852,13,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-08-08,lua,1998,5,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-08-08,lua,2047,4,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-08-08,lua,1895,3,Add/change/delete surrounding delimiter pairs with ease. Written with  in Lua.,kylechui,nvim-surround,https://github.com/kylechui/nvim-surround
+2023-08-08,lua,2943,1,improve neovim lsp experience,nvimdev,lspsaga.nvim,https://github.com/nvimdev/lspsaga.nvim
+2023-08-08,lua,10143,9,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-08-08,lua,3279,9,Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2023-08-08,lua,18630,24,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-08-08,lua,6867,7,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2023-08-08,lua,13272,5,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-08-08,lua,6425,15,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-08-08,lua,183,1,Modules to utilise in other resources via imports and exports.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2023-08-08,lua,449,0,FiveM RP Framework Core,qbcore-framework,qb-core,https://github.com/qbcore-framework/qb-core
+2023-08-08,lua,211,0,A big library of civilian cars you can fork or download for your server,PLOKMJNB,FiveM-Civ-Car-Pack,https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack
+2023-08-08,lua,3102,0,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2023-08-08,lua,385,1,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-08-08,lua,2603,5,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2023-08-08,lua,7882,4,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-08-08,lua,2120,9,A well configured and structured Neovim.,ayamir,nvimdots,https://github.com/ayamir/nvimdots
+2023-08-08,lua,1381,1,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2023-08-08,lua,1624,2,A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.,simrat39,symbols-outline.nvim,https://github.com/simrat39/symbols-outline.nvim
+2023-08-08,lua,15501,15,LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-08-08,lua,5344,6,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua

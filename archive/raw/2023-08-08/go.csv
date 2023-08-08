@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-08,go,14523,29,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-08-08,go,296,49,Powerful system container and virtual machine manager,lxc,incus,https://github.com/lxc/incus
+2023-08-08,go,11439,126,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2023-08-08,go,53558,26,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-08-08,go,37754,54,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-08-08,go,13057,18,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2023-08-08,go,11576,14,The most customisable and low-latency cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2023-08-08,go,7865,23,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2023-08-08,go,9226,7,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2023-08-08,go,7374,12,Distributed server for social and realtime games and apps.,heroiclabs,nakama,https://github.com/heroiclabs/nakama
+2023-08-08,go,651,2,Go Implementation of the Spacemesh protocol full node.,spacemeshos,go-spacemesh,https://github.com/spacemeshos/go-spacemesh
+2023-08-08,go,28793,41,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-08-08,go,48454,23,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2023-08-08,go,45333,74,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2023-08-08,go,14371,3,"The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.",bettercap,bettercap,https://github.com/bettercap/bettercap
+2023-08-08,go,12813,9,"A little like that j-thing, only in Go.",PuerkitoBio,goquery,https://github.com/PuerkitoBio/goquery
+2023-08-08,go,6207,5,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2023-08-08,go,63,5,A simple DPI bypass tool written in go,uoosef,bepass,https://github.com/uoosef/bepass
+2023-08-08,go,9716,7,"Manage your dotfiles across multiple diverse machines, securely.",twpayne,chezmoi,https://github.com/twpayne/chezmoi
+2023-08-08,go,9780,4,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2023-08-08,go,62,17,A Tool to discover unused Kubernetes Resources,yonahd,kor,https://github.com/yonahd/kor
+2023-08-08,go,3417,15,A modern tool for managing database schemas,ariga,atlas,https://github.com/ariga/atlas
+2023-08-08,go,13268,8,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2023-08-08,go,9431,3,Yet another Yogurt - An AUR Helper written in Go,Jguer,yay,https://github.com/Jguer/yay
