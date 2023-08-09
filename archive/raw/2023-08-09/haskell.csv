@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-09,haskell,29586,9,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-08-09,haskell,32737,19,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-08-09,haskell,20971,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-08-09,haskell,28,4,Lightweight and composable servers for Haskell,anton-k,mig,https://github.com/anton-k/mig
+2023-08-09,haskell,3475,8,The fastest way to develop full-stack web apps with React & Node.js.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2023-08-09,haskell,2397,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-08-09,haskell,8839,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-08-09,haskell,5266,0,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2023-08-09,haskell,114,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2023-08-09,haskell,1099,1,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2023-08-09,haskell,1252,0,Easy dependency management for Nix projects,nmattia,niv,https://github.com/nmattia/niv
+2023-08-09,haskell,1506,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-08-09,haskell,2,0,ivy - a simple image viewer written in Haskell,armlesshobo,ivy,https://github.com/armlesshobo/ivy
+2023-08-09,haskell,2555,0,Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-08-09,haskell,3956,9,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-08-09,haskell,2958,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-08-09,haskell,6,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2023-08-09,haskell,1,0,Some latency benchmarks,ezyang,latency,https://github.com/ezyang/latency
+2023-08-09,haskell,198,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend

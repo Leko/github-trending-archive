@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-09,go,435,133,Powerful system container and virtual machine manager,lxc,incus,https://github.com/lxc/incus
+2023-08-09,go,20186,10,Elegant Scraper and Crawler Framework for Golang,gocolly,colly,https://github.com/gocolly/colly
+2023-08-09,go,11420,7,IM即时通讯,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2023-08-09,go,27692,28,Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2023-08-09,go,70367,83,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2023-08-09,go,600,20,Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!,hakluke,hakoriginfinder,https://github.com/hakluke/hakoriginfinder
+2023-08-09,go,7990,10,Fast passive subdomain enumeration tool.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2023-08-09,go,13771,16,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-08-09,go,3431,18,A modern tool for managing database schemas,ariga,atlas,https://github.com/ariga/atlas
+2023-08-09,go,25925,7,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2023-08-09,go,3005,28,Giving Kubernetes Superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2023-08-09,go,32852,24,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-08-09,go,1774,5,Sonne tanken,evcc-io,evcc,https://github.com/evcc-io/evcc
+2023-08-09,go,4377,5,"Slack API in Go - community-maintained fork created by the original author, @nlopes",slack-go,slack,https://github.com/slack-go/slack
+2023-08-09,go,6473,4,A Go port of Ruby's dotenv library (Loads environment variables from .env files),joho,godotenv,https://github.com/joho/godotenv
+2023-08-09,go,11256,13,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2023-08-09,go,4840,4,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2023-08-09,go,5962,1,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2023-08-09,go,26244,10,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2023-08-09,go,19263,15,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-08-09,go,8781,2,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-08-09,go,1233,3,Stellar's public monorepo of go code,stellar,go,https://github.com/stellar/go
+2023-08-09,go,2127,140,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-08-09,go,4133,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-08-09,go,23062,8,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
