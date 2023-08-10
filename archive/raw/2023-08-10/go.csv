@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-10,go,605,185,Powerful system container and virtual machine manager,lxc,incus,https://github.com/lxc/incus
+2023-08-10,go,2250,163,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-08-10,go,32863,14,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-08-10,go,19274,21,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-08-10,go,14564,7,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-08-10,go,21143,19,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2023-08-10,go,113434,49,The Go programming language,golang,go,https://github.com/golang/go
+2023-08-10,go,3019,17,Giving Kubernetes Superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2023-08-10,go,3619,22,"A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",thangchung,go-coffeeshop,https://github.com/thangchung/go-coffeeshop
+2023-08-10,go,15374,33,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-08-10,go,2158,6,Scan for misconfigured S3 buckets across S3-compatible APIs!,sa7mon,S3Scanner,https://github.com/sa7mon/S3Scanner
+2023-08-10,go,4028,4,Google CTF,google,google-ctf,https://github.com/google/google-ctf
+2023-08-10,go,49406,21,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-08-10,go,1646,11,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2023-08-10,go,6483,14,A Go port of Ruby's dotenv library (Loads environment variables from .env files),joho,godotenv,https://github.com/joho/godotenv
+2023-08-10,go,66421,11,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-08-10,go,4186,11,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-08-10,go,9578,3,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2023-08-10,go,12924,10,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2023-08-10,go,1779,6,Sonne tanken,evcc-io,evcc,https://github.com/evcc-io/evcc
+2023-08-10,go,8000,11,Fast passive subdomain enumeration tool.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2023-08-10,go,6608,6,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",drakkan,sftpgo,https://github.com/drakkan/sftpgo
+2023-08-10,go,1910,4,NVIDIA device plugin for Kubernetes,NVIDIA,k8s-device-plugin,https://github.com/NVIDIA/k8s-device-plugin
+2023-08-10,go,7158,14,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",uber,cadence,https://github.com/uber/cadence
