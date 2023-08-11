@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-11,go,2464,200,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-08-11,go,11466,14,IM即时通讯,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2023-08-11,go,748,177,Powerful system container and virtual machine manager,lxc,incus,https://github.com/lxc/incus
+2023-08-11,go,20324,19,Elegant Scraper and Crawler Framework for Golang,gocolly,colly,https://github.com/gocolly/colly
+2023-08-11,go,12493,4,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2023-08-11,go,8165,7,Simple HTTP and REST client library for Go,go-resty,resty,https://github.com/go-resty/resty
+2023-08-11,go,19290,14,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-08-11,go,100783,33,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-08-11,go,172,30,Six Degrees of Domain Admin,SpecterOps,BloodHound,https://github.com/SpecterOps/BloodHound
+2023-08-11,go,38333,18,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-08-11,go,18582,8,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-08-11,go,6984,22,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2023-08-11,go,9035,9,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2023-08-11,go,1321,8,A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar,openfga,openfga,https://github.com/openfga/openfga
+2023-08-11,go,34582,8,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-08-11,go,2557,1,"Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.",gardener,gardener,https://github.com/gardener/gardener
+2023-08-11,go,4234,7,A dependency injection based application framework for Go.,uber-go,fx,https://github.com/uber-go/fx
+2023-08-11,go,9053,1,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2023-08-11,go,12587,15,Fast key-value DB in Go.,dgraph-io,badger,https://github.com/dgraph-io/badger
+2023-08-11,go,15323,3,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2023-08-11,go,9198,4,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2023-08-11,go,2268,2,Main repository for Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2023-08-11,go,13268,6,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2023-08-11,go,8198,1,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2023-08-11,go,35801,4,An extremely fast bundler for the web,evanw,esbuild,https://github.com/evanw/esbuild

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-11,rust,4019,1833,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2023-08-11,rust,10553,6,"ISG lets you use YouTube as cloud storage for ANY files, not just video",DvorakDwarf,Infinite-Storage-Glitch,https://github.com/DvorakDwarf/Infinite-Storage-Glitch
+2023-08-11,rust,17223,24,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2023-08-11,rust,2265,186,A Language Server for Postgres,supabase,postgres_lsp,https://github.com/supabase/postgres_lsp
+2023-08-11,rust,3105,18,Rust bindings for the C++ api of PyTorch.,LaurentMazare,tch-rs,https://github.com/LaurentMazare/tch-rs
+2023-08-11,rust,22387,17,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-08-11,rust,67504,40,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-08-11,rust,11403,18,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2023-08-11,rust,3019,46,Burn - A Flexible and Comprehensive Deep Learning Framework in Rust,burn-rs,burn,https://github.com/burn-rs/burn
+2023-08-11,rust,15962,5,Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2023-08-11,rust,8293,4,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-08-11,rust,13436,7,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-08-11,rust,16017,7,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-08-11,rust,2967,100,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2023-08-11,rust,21580,15,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-08-11,rust,128,6,CLI tools for forensic investigation of Windows artifacts,dfir-dd,dfir-toolkit,https://github.com/dfir-dd/dfir-toolkit
+2023-08-11,rust,5011,21,The distributed streaming database: SQL stream processing with Postgres-like experience . 10X faster and more cost-efficient than Apache Flink .,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2023-08-11,rust,13192,20,Chromium running inside your terminal,fathyb,carbonyl,https://github.com/fathyb/carbonyl
+2023-08-11,rust,2658,3,GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习,alibaba,GraphScope,https://github.com/alibaba/GraphScope
+2023-08-11,rust,102,16,Pure Rust implementation of SQLite,kawasin73,prsqlite,https://github.com/kawasin73/prsqlite
+2023-08-11,rust,6276,14,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2023-08-11,rust,11010,27,Magical shell history,atuinsh,atuin,https://github.com/atuinsh/atuin
+2023-08-11,rust,451,35,"Vector database plugin for Postgres, written in Rust, specifically designed for LLM. 20x faster than pgvector",tensorchord,pgvecto.rs,https://github.com/tensorchord/pgvecto.rs
+2023-08-11,rust,90357,16,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-08-11,rust,10428,56,Application to comfortably monitor your Internet traffic,GyulyVGC,sniffnet,https://github.com/GyulyVGC/sniffnet
