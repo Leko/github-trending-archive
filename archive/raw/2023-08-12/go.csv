@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-12,go,49445,18,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-08-12,go,38349,22,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-08-12,go,7275,11,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish and proxy video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2023-08-12,go,808,88,Powerful system container and virtual machine manager,lxc,incus,https://github.com/lxc/incus
+2023-08-12,go,11555,103,IM即时通讯,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2023-08-12,go,666,68,Replicate postgres to SQLite on the edge,zknill,sqledge,https://github.com/zknill/sqledge
+2023-08-12,go,2744,285,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-08-12,go,11990,7,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-08-12,go,3973,27,Expression language and expression evaluation for Go,antonmedv,expr,https://github.com/antonmedv/expr
+2023-08-12,go,8688,32,现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-08-12,go,4681,0,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2023-08-12,go,6847,11,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP and MFA",casdoor,casdoor,https://github.com/casdoor/casdoor
+2023-08-12,go,15483,38,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-08-12,go,4729,1,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-08-12,go,7552,2,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-08-12,go,8602,1,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-08-12,go,4299,3,"Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",ThreeDotsLabs,wild-workouts-go-ddd-example,https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+2023-08-12,go,9162,4,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2023-08-12,go,2271,5,Main repository for Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2023-08-12,go,28199,12,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-08-12,go,3382,4,Protocol Buffer Validation - Checkout the new `protovalidate` project,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2023-08-12,go,3479,3,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2023-08-12,go,24788,9,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2023-08-12,go,19762,8,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-08-12,go,11757,5,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
