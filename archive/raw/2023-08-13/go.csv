@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-13,go,711,13,Official Go Implementation of the Quai Network,dominant-strategies,go-quai,https://github.com/dominant-strategies/go-quai
+2023-08-13,go,11563,17,IM即时通讯,OpenIMSDK,Open-IM-Server,https://github.com/OpenIMSDK/Open-IM-Server
+2023-08-13,go,2787,68,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-08-13,go,38360,21,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-08-13,go,16851,53,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages,pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-08-13,go,4704,2,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
+2023-08-13,go,28207,14,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-08-13,go,7033,18,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2023-08-13,go,4526,7,Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.,Ne0nd0g,merlin,https://github.com/Ne0nd0g/merlin
+2023-08-13,go,7906,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-08-13,go,1940,8,一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。,wgpsec,ENScan_GO,https://github.com/wgpsec/ENScan_GO
+2023-08-13,go,2562,0,"Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.",gardener,gardener,https://github.com/gardener/gardener
+2023-08-13,go,43260,15,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-08-13,go,4331,3,NGINX and NGINX Plus Ingress Controllers for Kubernetes,nginxinc,kubernetes-ingress,https://github.com/nginxinc/kubernetes-ingress
+2023-08-13,go,4003,30,Expression language and expression evaluation for Go,antonmedv,expr,https://github.com/antonmedv/expr
+2023-08-13,go,1817,3,Simple golang library for retry mechanism,avast,retry-go,https://github.com/avast/retry-go
+2023-08-13,go,34604,10,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-08-13,go,20450,14,Elegant Scraper and Crawler Framework for Golang,gocolly,colly,https://github.com/gocolly/colly
+2023-08-13,go,12504,1,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2023-08-13,go,4686,1,"Golang client for NATS, the cloud native messaging system.",nats-io,nats.go,https://github.com/nats-io/nats.go
+2023-08-13,go,13884,7,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",lionsoul2014,ip2region,https://github.com/lionsoul2014/ip2region
+2023-08-13,go,9793,4,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2023-08-13,go,13143,4,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈",kubesphere,kubesphere,https://github.com/kubesphere/kubesphere
+2023-08-13,go,7041,1,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2023-08-13,go,6357,1,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
