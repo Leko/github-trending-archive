@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-14,lua,2026,6,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-08-14,lua,3542,2,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-08-14,lua,3130,10,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2023-08-14,lua,6519,16,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-08-14,lua,5693,7,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-08-14,lua,3080,11,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2023-08-14,lua,1344,3,"Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2023-08-14,lua,2062,3,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-08-14,lua,4989,3,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-08-14,lua,3396,7,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2023-08-14,lua,6558,21,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-08-14,lua,291,1,Advanced housing system for QBCore.,Project-Sloth,ps-housing,https://github.com/Project-Sloth/ps-housing
+2023-08-14,lua,292,0,Official Repo For core resources for esx-legacy,esx-framework,esx_core,https://github.com/esx-framework/esx_core
+2023-08-14,lua,7314,11,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-08-14,lua,1211,2,Soho vibes for Neovim,rose-pine,neovim,https://github.com/rose-pine/neovim
+2023-08-14,lua,486,1,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2023-08-14,lua,7536,2,A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2023-08-14,lua,10919,15,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-08-14,lua,285,8,A Neovim plugin helping you establish good command workflow and habit,m4xshen,hardtime.nvim,https://github.com/m4xshen/hardtime.nvim
+2023-08-14,lua,18736,25,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-08-14,lua,71,5,Neovim DevDocs integration,luckasRanarison,nvim-devdocs,https://github.com/luckasRanarison/nvim-devdocs
+2023-08-14,lua,3990,4,"A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-08-14,lua,6895,10,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2023-08-14,lua,2536,5,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-08-14,lua,3187,4,Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
