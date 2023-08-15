@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-15,lua,18742,13,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-08-15,lua,5699,6,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-08-15,lua,7920,5,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-08-15,lua,1121,1,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
+2023-08-15,lua,4807,4,A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2023-08-15,lua,6548,30,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-08-15,lua,334,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2023-08-15,lua,3131,2,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2023-08-15,lua,185,0,Modules to utilise in other resources via imports and exports.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2023-08-15,lua,3088,10,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2023-08-15,lua,2027,4,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-08-15,lua,54,3,"Protect your service from CC attacks, UDP attacks, and traffic flooding attacks.",yinyue123,DK8sDDosFirewall,https://github.com/yinyue123/DK8sDDosFirewall
+2023-08-15,lua,85,0,Player and vehicle management and persistence for FiveM.,overextended,ox_core,https://github.com/overextended/ox_core
+2023-08-15,lua,2600,5,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2023-08-15,lua,2580,1,Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2023-08-15,lua,2219,4,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2023-08-15,lua,226,5,async fast minimalist plugin make format easy in neovim,nvimdev,guard.nvim,https://github.com/nvimdev/guard.nvim
+2023-08-15,lua,3548,8,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-08-15,lua,6571,15,A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-08-15,lua,198,1,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2023-08-15,lua,2063,2,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-08-15,lua,724,5,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2023-08-15,lua,4993,4,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-08-15,lua,13305,7,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-08-15,lua,10928,14,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
