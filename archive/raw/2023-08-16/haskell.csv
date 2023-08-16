@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-16,haskell,29645,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-08-16,haskell,8855,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-08-16,haskell,4057,16,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released !,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-08-16,haskell,32795,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-08-16,haskell,21001,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-08-16,haskell,572,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-08-16,haskell,1465,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2023-08-16,haskell,1679,1,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2023-08-16,haskell,721,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-08-16,haskell,8244,3,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-08-16,haskell,188,0,,haskell,ghcup-hs,https://github.com/haskell/ghcup-hs
+2023-08-16,haskell,1,0,Accelerates K Framework's Haskell backend,runtimeverification,hs-backend-booster,https://github.com/runtimeverification/hs-backend-booster
+2023-08-16,haskell,1150,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-08-16,haskell,16,0,Effectful Raw handler for Servant servers.,cdepillabout,servant-rawm,https://github.com/cdepillabout/servant-rawm
+2023-08-16,haskell,1389,0,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2023-08-16,haskell,1508,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-08-16,haskell,2,0,,markandrus,Matrix-Decomposition,https://github.com/markandrus/Matrix-Decomposition
+2023-08-16,haskell,23,0,An llvm pretty printer inspired by the haskell llvm binding,elliottt,llvm-pretty,https://github.com/elliottt/llvm-pretty
+2023-08-16,haskell,25,0,generate haskell types for Squeal from a running postgresql database.,mwotton,squealgen,https://github.com/mwotton/squealgen
+2023-08-16,haskell,823,22,A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.,nammayatri,nammayatri,https://github.com/nammayatri/nammayatri
+2023-08-16,haskell,2934,0,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-08-16,haskell,138,0,Symbolic formula representation and solver interaction library,GaloisInc,what4,https://github.com/GaloisInc/what4
+2023-08-16,haskell,55,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2023-08-16,haskell,8722,2,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2023-08-16,haskell,221,0,Implementation of the Hydra Head protocol,input-output-hk,hydra,https://github.com/input-output-hk/hydra

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-16,go,43312,16,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-08-16,go,2786,13,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-08-16,go,13077,11,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2023-08-16,go,5337,4,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2023-08-16,go,4907,5,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-08-16,go,9876,55,"Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, GPTQ, onnx, TF compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many others",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-08-16,go,15687,13,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-08-16,go,4661,10,The Havoc Framework.,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2023-08-16,go,12874,7,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-08-16,go,4796,0,HCL is the HashiCorp configuration language.,hashicorp,hcl,https://github.com/hashicorp/hcl
+2023-08-16,go,162,52,"The TTPForge is a Framework created to facilitate the development, automation, and execution of Tactics, Techniques, and Procedures (TTPs).",facebookincubator,TTPForge,https://github.com/facebookincubator/TTPForge
+2023-08-16,go,4738,3,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-08-16,go,19338,9,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-08-16,go,106478,76,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-08-16,go,18056,7,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2023-08-16,go,12316,27,「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-08-16,go,6618,2,Golang实现的基于beego框架的接口在线文档管理系统,mindoc-org,mindoc,https://github.com/mindoc-org/mindoc
+2023-08-16,go,8781,34,现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-08-16,go,8384,4,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2023-08-16,go,12019,8,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-08-16,go,2290,3,SQL-first Golang ORM,uptrace,bun,https://github.com/uptrace/bun
+2023-08-16,go,4246,6,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2023-08-16,go,2098,16,"JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",paypal,junodb,https://github.com/paypal/junodb
+2023-08-16,go,33316,5,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2023-08-16,go,6599,16,"A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Juicity.",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
