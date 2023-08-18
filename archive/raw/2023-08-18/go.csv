@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-18,go,9015,137,现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-08-18,go,18798,19,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-08-18,go,5360,5,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2023-08-18,go,3996,9,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2023-08-18,go,7924,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-08-18,go,2846,25,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-08-18,go,824,24,Zep: A long-term memory store for LLM / Chatbot applications,getzep,zep,https://github.com/getzep/zep
+2023-08-18,go,8753,10,Code AI platform with Code Search & Cody,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2023-08-18,go,32984,13,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-08-18,go,43358,16,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-08-18,go,9237,6,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2023-08-18,go,3681,2,Test infrastructure for the Kubernetes project.,kubernetes,test-infra,https://github.com/kubernetes/test-infra
+2023-08-18,go,12891,8,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-08-18,go,4879,5,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
+2023-08-18,go,11714,3,Git extension for versioning large files,git-lfs,git-lfs,https://github.com/git-lfs/git-lfs
+2023-08-18,go,2366,6,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",testcontainers,testcontainers-go,https://github.com/testcontainers/testcontainers-go
+2023-08-18,go,7485,54,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",gravitl,netmaker,https://github.com/gravitl/netmaker
+2023-08-18,go,2565,6,A censorship circumvention tool to evade detection by authoritarian state adversaries,cbeuw,Cloak,https://github.com/cbeuw/Cloak
+2023-08-18,go,17755,9,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-08-18,go,2184,7,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2023-08-18,go,11221,8,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2023-08-18,go,2302,2,SQL-first Golang ORM,uptrace,bun,https://github.com/uptrace/bun
+2023-08-18,go,10247,8,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2023-08-18,go,4126,75,Expression language and expression evaluation for Go,antonmedv,expr,https://github.com/antonmedv/expr
+2023-08-18,go,4546,5,"Copier for golang, copy value from struct to struct and more",jinzhu,copier,https://github.com/jinzhu/copier

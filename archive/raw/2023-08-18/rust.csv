@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-18,rust,22485,15,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-08-18,rust,5186,3,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-08-18,rust,21669,9,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-08-18,rust,2641,10,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2023-08-18,rust,19568,33,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
+2023-08-18,rust,6106,79,"10x easier,  140x lower storage cost,  high performance,  petabyte scale - Elasticsearch/Splunk/Datadog alternative for  (logs, metrics, traces).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2023-08-18,rust,13044,18,"Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
+2023-08-18,rust,2797,7,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
+2023-08-18,rust,38331,35,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2023-08-18,rust,20290,20,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-08-18,rust,8591,7,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2023-08-18,rust,6408,5,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-08-18,rust,8328,10,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-08-18,rust,9187,11,open source training courses about distributed database and distributed systems,pingcap,talent-plan,https://github.com/pingcap/talent-plan
+2023-08-18,rust,3540,0,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2023-08-18,rust,21229,13,A web framework for Rust.,SergioBenitez,Rocket,https://github.com/SergioBenitez/Rocket
+2023-08-18,rust,17685,20,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用,tw93,Pake,https://github.com/tw93/Pake
+2023-08-18,rust,11714,19,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-08-18,rust,28231,12,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2023-08-18,rust,5191,4,A fast Rust-based web bundler,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2023-08-18,rust,5485,1,The Rust toolchain installer,rust-lang,rustup,https://github.com/rust-lang/rustup
+2023-08-18,rust,478,19,"cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes",paradigmxyz,cryo,https://github.com/paradigmxyz/cryo
+2023-08-18,rust,67696,27,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-08-18,rust,10844,19,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2023-08-18,rust,16820,16,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine

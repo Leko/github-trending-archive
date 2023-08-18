@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-18,python,5268,1123,Focus on prompting and generating,lllyasviel,Fooocus,https://github.com/lllyasviel/Fooocus
+2023-08-18,python,2797,557,FaceChain is a deep-learning toolchain for generating your Digital-Twin.,modelscope,facechain,https://github.com/modelscope/facechain
+2023-08-18,python,3316,67,"A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",Azure-Samples,azure-search-openai-demo,https://github.com/Azure-Samples/azure-search-openai-demo
+2023-08-18,python,14024,102,"Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答",chatchat-space,Langchain-Chatchat,https://github.com/chatchat-space/Langchain-Chatchat
+2023-08-18,python,1706,89,Rift: an AI-native language server for your personal AI software engineer,morph-labs,rift,https://github.com/morph-labs/rift
+2023-08-18,python,2310,291,"Official implementation of ""Neuralangelo: High-Fidelity Neural Surface Reconstruction"" (CVPR 2023)",NVlabs,neuralangelo,https://github.com/NVlabs/neuralangelo
+2023-08-18,python,1588,66,"AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",iam-veeramalla,aws-devops-zero-to-hero,https://github.com/iam-veeramalla/aws-devops-zero-to-hero
+2023-08-18,python,41498,245,"Specify what you want it to build, the AI asks for clarification, and then builds it.",AntonOsika,gpt-engineer,https://github.com/AntonOsika/gpt-engineer
+2023-08-18,python,32128,82,Official Code for DragGAN (SIGGRAPH 2023),XingangPan,DragGAN,https://github.com/XingangPan/DragGAN
+2023-08-18,python,3483,339,GPT based autonomous agent that does online comprehensive research on any given topic,assafelovic,gpt-researcher,https://github.com/assafelovic/gpt-researcher
+2023-08-18,python,814,107,"A game where you are a computer's OS and you have to manage processes, memory and I/O events.",plbrault,youre-the-os,https://github.com/plbrault/youre-the-os
+2023-08-18,python,391,9,[PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.,microsoft,sample-app-aoai-chatGPT,https://github.com/microsoft/sample-app-aoai-chatGPT
+2023-08-18,python,2340,17,"Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",Lightning-AI,lit-gpt,https://github.com/Lightning-AI/lit-gpt
+2023-08-18,python,5358,79,A high-throughput and memory-efficient inference and serving engine for LLMs,vllm-project,vllm,https://github.com/vllm-project/vllm
+2023-08-18,python,3534,35,ModelScope: bring the notion of Model-as-a-Service to life.,modelscope,modelscope,https://github.com/modelscope/modelscope
+2023-08-18,python,11657,48,NEW - YOLOv8  in PyTorch > ONNX > OpenVINO > CoreML > TFLite,ultralytics,ultralytics,https://github.com/ultralytics/ultralytics
+2023-08-18,python,3069,90,"Hey there new grad! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024!",ReaVNaiL,New-Grad-2024,https://github.com/ReaVNaiL/New-Grad-2024
+2023-08-18,python,110340,65,"Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",huggingface,transformers,https://github.com/huggingface/transformers
+2023-08-18,python,2105,12,A framework for few-shot evaluation of autoregressive language models.,EleutherAI,lm-evaluation-harness,https://github.com/EleutherAI/lm-evaluation-harness
+2023-08-18,python,2419,60,CodeGeeX2: A More Powerful Multilingual Code Generation Model,THUDM,CodeGeeX2,https://github.com/THUDM/CodeGeeX2
+2023-08-18,python,11588,8,SciPy library main repository,scipy,scipy,https://github.com/scipy/scipy
+2023-08-18,python,8201,20,"PandasAI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational",gventuri,pandas-ai,https://github.com/gventuri/pandas-ai
+2023-08-18,python,19518,180,one-click deepfake (face swap),s0md3v,roop,https://github.com/s0md3v/roop
+2023-08-18,python,26356,22,"Code and documentation to train Stanford's Alpaca models, and generate the data.",tatsu-lab,stanford_alpaca,https://github.com/tatsu-lab/stanford_alpaca
+2023-08-18,python,15136,174,Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.,PromtEngineer,localGPT,https://github.com/PromtEngineer/localGPT
