@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-19,go,9187,195,现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-08-19,go,44253,19,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2023-08-19,go,100962,31,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-08-19,go,3016,23,Feature-rich interactive Jira command line.,ankitpokhrel,jira-cli,https://github.com/ankitpokhrel/jira-cli
+2023-08-19,go,5473,2,Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes,googleforgames,agones,https://github.com/googleforgames/agones
+2023-08-19,go,9243,13,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2023-08-19,go,23113,5,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2023-08-19,go,13598,6,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-08-19,go,5860,0,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-08-19,go,4720,4,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-08-19,go,9296,4,A TCP proxy to simulate network and system conditions for chaos and resiliency testing,Shopify,toxiproxy,https://github.com/Shopify/toxiproxy
+2023-08-19,go,1925,2,NVIDIA device plugin for Kubernetes,NVIDIA,k8s-device-plugin,https://github.com/NVIDIA/k8s-device-plugin
+2023-08-19,go,4432,1,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2023-08-19,go,38120,39,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-08-19,go,4904,5,"trojan多用户管理部署程序, 支持web页面管理",Jrohy,trojan,https://github.com/Jrohy/trojan
+2023-08-19,go,13287,7,Workflow engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2023-08-19,go,1468,2,Terraform Kubernetes provider,hashicorp,terraform-provider-kubernetes,https://github.com/hashicorp/terraform-provider-kubernetes
+2023-08-19,go,6452,7,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2023-08-19,go,4333,1,NGINX and NGINX Plus Ingress Controllers for Kubernetes,nginxinc,kubernetes-ingress,https://github.com/nginxinc/kubernetes-ingress
+2023-08-19,go,4874,8,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-08-19,go,2606,5,WebAssembly runtime for Go,wasmerio,wasmer-go,https://github.com/wasmerio/wasmer-go
+2023-08-19,go,5185,5,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2023-08-19,go,2083,7,Easily check your clusters for use of deprecated APIs,doitintl,kube-no-trouble,https://github.com/doitintl/kube-no-trouble
+2023-08-19,go,811,4,Collection of extensions for OpenTelemetry-Go.,open-telemetry,opentelemetry-go-contrib,https://github.com/open-telemetry/opentelemetry-go-contrib
+2023-08-19,go,2212,0,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
