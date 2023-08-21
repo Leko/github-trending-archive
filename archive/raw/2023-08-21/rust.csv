@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-21,rust,7573,32,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
+2023-08-21,rust,523,39,The System Initiative software,systeminit,si,https://github.com/systeminit/si
+2023-08-21,rust,41044,27,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2023-08-21,rust,21756,18,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-08-21,rust,20324,13,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-08-21,rust,6839,11,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2023-08-21,rust,468,2,"Our game launcher which can be used as a CLI, GUI, and a library for creating and playing Modrinth projects.",modrinth,theseus,https://github.com/modrinth/theseus
+2023-08-21,rust,11779,23,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-08-21,rust,4330,7,Flexible concrete Error type built on std::error::Error,dtolnay,anyhow,https://github.com/dtolnay/anyhow
+2023-08-21,rust,11411,26,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-08-21,rust,408,30,Package management made easy,prefix-dev,pixi,https://github.com/prefix-dev/pixi
+2023-08-21,rust,84489,34,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-08-21,rust,994,96,Command-line sampling profiler for macOS and Linux,mstange,samply,https://github.com/mstange/samply
+2023-08-21,rust,18073,7,"x86 virtualization in your browser, recompiling x86 to wasm on the fly",copy,v86,https://github.com/copy/v86
+2023-08-21,rust,2631,14,OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.,google,OpenSK,https://github.com/google/OpenSK
+2023-08-21,rust,10847,6,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2023-08-21,rust,7905,6,An easy and powerful Rust HTTP Client,seanmonstar,reqwest,https://github.com/seanmonstar/reqwest
+2023-08-21,rust,3626,3,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2023-08-21,rust,2866,16,Runtime Executor (asdf-plugin compatible),jdxcode,rtx,https://github.com/jdxcode/rtx
+2023-08-21,rust,24196,15,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-08-21,rust,2824,10,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
+2023-08-21,rust,2332,3,Delicately-TUICed 0-RTT proxy protocol,EAimTY,tuic,https://github.com/EAimTY/tuic
+2023-08-21,rust,1894,12,Simple http server in Rust (Windows/Mac/Linux),TheWaWaR,simple-http-server,https://github.com/TheWaWaR/simple-http-server
+2023-08-21,rust,4171,5,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2023-08-21,rust,546,20,Add hardship to your tests,tokio-rs,turmoil,https://github.com/tokio-rs/turmoil
