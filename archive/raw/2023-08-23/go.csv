@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-23,go,14263,37,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-08-23,go,13789,12,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-08-23,go,4298,11,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2023-08-23,go,7385,4,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2023-08-23,go,21265,11,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2023-08-23,go,29998,97,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2023-08-23,go,25376,34,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-08-23,go,4975,46,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2023-08-23,go,1743,5,"Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳",kubesphere,kubekey,https://github.com/kubesphere/kubekey
+2023-08-23,go,66531,11,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-08-23,go,8400,3,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2023-08-23,go,7941,6,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-08-23,go,37996,19,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2023-08-23,go,2588,3,"Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.",gardener,gardener,https://github.com/gardener/gardener
+2023-08-23,go,6164,6,Security scanner for your Terraform code,aquasecurity,tfsec,https://github.com/aquasecurity/tfsec
+2023-08-23,go,1332,2,This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:,Azure,azure-sdk-for-go,https://github.com/Azure/azure-sdk-for-go
+2023-08-23,go,9551,8,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2023-08-23,go,837,228,functional programming library for golang,IBM,fp-go,https://github.com/IBM/fp-go
+2023-08-23,go,3607,11,A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests,projectdiscovery,naabu,https://github.com/projectdiscovery/naabu
+2023-08-23,go,657,3,Kubernetes-native security toolkit,aquasecurity,trivy-operator,https://github.com/aquasecurity/trivy-operator
+2023-08-23,go,4890,3,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-08-23,go,5068,11,The open source high performance data integration platform built for developers.,cloudquery,cloudquery,https://github.com/cloudquery/cloudquery
+2023-08-23,go,4709,7,"Golang client for NATS, the cloud native messaging system.",nats-io,nats.go,https://github.com/nats-io/nats.go
+2023-08-23,go,23780,12,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-08-23,go,7575,3,The Official Golang driver for MongoDB,mongodb,mongo-go-driver,https://github.com/mongodb/mongo-go-driver
