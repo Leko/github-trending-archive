@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-24,rust,9647,12,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-08-24,rust,45594,70,"An open-source remote desktop, and alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-08-24,rust,5415,3,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-08-24,rust,1272,15,OpenTelemetry API and SDK for Rust,open-telemetry,opentelemetry-rust,https://github.com/open-telemetry/opentelemetry-rust
+2023-08-24,rust,84653,31,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-08-24,rust,11947,9,🐀 A link aggregator and forum for the fediverse,LemmyNet,lemmy,https://github.com/LemmyNet/lemmy
+2023-08-24,rust,2912,18,Runtime Executor (asdf-plugin compatible),jdxcode,rtx,https://github.com/jdxcode/rtx
+2023-08-24,rust,306,8,,DelphinusLab,zkWasm,https://github.com/DelphinusLab/zkWasm
+2023-08-24,rust,67827,31,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-08-24,rust,12857,13,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2023-08-24,rust,24071,10,"Unified developer tools for JavaScript, TypeScript, and the web",rome,tools,https://github.com/rome/tools
+2023-08-24,rust,22555,19,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-08-24,rust,9754,3,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2023-08-24,rust,10860,2,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2023-08-24,rust,2178,4,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-08-24,rust,1372,268,"Open-source solution to deploy, scale, and operate your multiplayer game",rivet-gg,rivet,https://github.com/rivet-gg/rivet
+2023-08-24,rust,4492,39,"An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",parcel-bundler,lightningcss,https://github.com/parcel-bundler/lightningcss
+2023-08-24,rust,25983,19,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2023-08-24,rust,8996,12,A new way to see and navigate directory trees : https://dystroy.org/broot,Canop,broot,https://github.com/Canop/broot
+2023-08-24,rust,2222,1,Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.,signalapp,libsignal,https://github.com/signalapp/libsignal
+2023-08-24,rust,11473,16,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-08-24,rust,12377,5,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-08-24,rust,6623,5,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2023-08-24,rust,5080,8,The distributed streaming database: SQL stream processing with Postgres-like experience 🪄. 10X faster and more cost-efficient than Apache Flink 🚀.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2023-08-24,rust,42628,18,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat

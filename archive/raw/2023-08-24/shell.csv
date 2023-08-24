@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-24,shell,1367,0,"YANG modules from standards organizations such as the IETF, The IEEE, The Metro Ethernet Forum, open source such as Open Daylight or vendor specific modules",YangModels,yang,https://github.com/YangModels/yang
+2023-08-24,shell,8496,3,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.,docker,docker-bench-security,https://github.com/docker/docker-bench-security
+2023-08-24,shell,1392,0,🐳 Docker Image of NetBox,netbox-community,netbox-docker,https://github.com/netbox-community/netbox-docker
+2023-08-24,shell,1256,21,基于Ruby编写的命令行注入版本,QiuChenlyOpenSource,InjectLib,https://github.com/QiuChenlyOpenSource/InjectLib
+2023-08-24,shell,9398,4,使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响,easzlab,kubeasz,https://github.com/easzlab/kubeasz
+2023-08-24,shell,69486,27,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-08-24,shell,4149,2,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2023-08-24,shell,3503,3,🔰 Home Assistant Operating System,home-assistant,operating-system,https://github.com/home-assistant/operating-system
+2023-08-24,shell,30,10,,deathline94,Juicity-Installer,https://github.com/deathline94/Juicity-Installer
+2023-08-24,shell,18276,11,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2023-08-24,shell,4052,5,A conda-forge distribution.,conda-forge,miniforge,https://github.com/conda-forge/miniforge
+2023-08-24,shell,4151,3,install latest or LTS linux kernel and enable BBR or BBR plus,jinwyp,one_click_script,https://github.com/jinwyp/one_click_script
+2023-08-24,shell,15237,2,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2023-08-24,shell,3977,3,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-08-24,shell,31290,13,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2023-08-24,shell,2131,2,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
+2023-08-24,shell,1692,5,Provides network connectivity to WSL 2 when blocked by VPN,sakai135,wsl-vpnkit,https://github.com/sakai135/wsl-vpnkit
+2023-08-24,shell,7214,3,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2023-08-24,shell,6913,4,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2023-08-24,shell,23626,9,"I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2023-08-24,shell,17898,3,Node version management,tj,n,https://github.com/tj/n
+2023-08-24,shell,10951,2,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2023-08-24,shell,1068,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2023-08-24,shell,38099,23,A Zsh theme,romkatv,powerlevel10k,https://github.com/romkatv/powerlevel10k
+2023-08-24,shell,9927,5,VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 八合一共存脚本,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
