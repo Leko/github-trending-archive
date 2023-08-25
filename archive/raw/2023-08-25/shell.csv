@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-25,shell,1768,3,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2023-08-25,shell,1270,16,基于Ruby编写的命令行注入版本,QiuChenlyOpenSource,InjectLib,https://github.com/QiuChenlyOpenSource/InjectLib
+2023-08-25,shell,3980,3,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-08-25,shell,6913,2,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2023-08-25,shell,505,0,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2023-08-25,shell,69504,23,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-08-25,shell,11455,4,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2023-08-25,shell,86,0,"Defines standards for generating consistent, accessible telemetry across a variety of domains",open-telemetry,semantic-conventions,https://github.com/open-telemetry/semantic-conventions
+2023-08-25,shell,35,5,,deathline94,Juicity-Installer,https://github.com/deathline94/Juicity-Installer
+2023-08-25,shell,2212,39,"Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.",Security-Onion-Solutions,securityonion,https://github.com/Security-Onion-Solutions/securityonion
+2023-08-25,shell,1068,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2023-08-25,shell,771,0,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2023-08-25,shell,1969,3,,G33kzD3n,Catalogue,https://github.com/G33kzD3n/Catalogue
+2023-08-25,shell,15594,2,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2023-08-25,shell,1517,1,Kubernetes playground,justmeandopensource,kubernetes,https://github.com/justmeandopensource/kubernetes
+2023-08-25,shell,5084,1,Manage your Java environment,jenv,jenv,https://github.com/jenv/jenv
+2023-08-25,shell,125,0,Example application of Ultraviolet which can be deployed in production.,titaniumnetwork-dev,Ultraviolet-App,https://github.com/titaniumnetwork-dev/Ultraviolet-App
+2023-08-25,shell,8934,5,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2023-08-25,shell,61933,91,Everything required to run your own Base node,base-org,node,https://github.com/base-org/node
+2023-08-25,shell,1368,1,"YANG modules from standards organizations such as the IETF, The IEEE, The Metro Ethernet Forum, open source such as Open Daylight or vendor specific modules",YangModels,yang,https://github.com/YangModels/yang
+2023-08-25,shell,15238,1,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2023-08-25,shell,714,0,"A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.",fluxcd,flux2-kustomize-helm-example,https://github.com/fluxcd/flux2-kustomize-helm-example
+2023-08-25,shell,804,1,Installation script to deploy standard software on Macs,Installomator,Installomator,https://github.com/Installomator/Installomator
+2023-08-25,shell,5679,2,"A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",edoardottt,awesome-hacker-search-engines,https://github.com/edoardottt/awesome-hacker-search-engines
+2023-08-25,shell,1695,2,Provides network connectivity to WSL 2 when blocked by VPN,sakai135,wsl-vpnkit,https://github.com/sakai135/wsl-vpnkit

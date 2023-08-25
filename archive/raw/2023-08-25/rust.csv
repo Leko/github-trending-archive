@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-25,rust,45778,253,"An open-source remote desktop, and alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-08-25,rust,16036,15,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2023-08-25,rust,24301,21,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-08-25,rust,9693,75,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-08-25,rust,122,20,"A ""Type 0"" zkEVM. Prove validity of Ethereum blocks using RISC Zero's zkVM",risc0,zeth,https://github.com/risc0/zeth
+2023-08-25,rust,5092,12,The distributed streaming database: SQL stream processing with Postgres-like experience 🪄. 10X faster and more cost-efficient than Apache Flink 🚀.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2023-08-25,rust,1514,8,"Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...",AFLplusplus,LibAFL,https://github.com/AFLplusplus/LibAFL
+2023-08-25,rust,704,30,"CSVs sliced, diced & analyzed.",jqnatividad,qsv,https://github.com/jqnatividad/qsv
+2023-08-25,rust,125,10,its so over,ThePrimeagen,htmx-lsp,https://github.com/ThePrimeagen/htmx-lsp
+2023-08-25,rust,25995,21,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2023-08-25,rust,3087,7,"Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",dtolnay,proc-macro-workshop,https://github.com/dtolnay/proc-macro-workshop
+2023-08-25,rust,1280,11,OpenTelemetry API and SDK for Rust,open-telemetry,opentelemetry-rust,https://github.com/open-telemetry/opentelemetry-rust
+2023-08-25,rust,24088,18,"Unified developer tools for JavaScript, TypeScript, and the web",rome,tools,https://github.com/rome/tools
+2023-08-25,rust,22027,16,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2023-08-25,rust,7973,4,🥧 Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2023-08-25,rust,27214,31,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2023-08-25,rust,40477,36,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-08-25,rust,4628,0,"An Open Source Financial Switch to make Payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2023-08-25,rust,4550,58,"An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",parcel-bundler,lightningcss,https://github.com/parcel-bundler/lightningcss
+2023-08-25,rust,5273,13,A fast Rust-based web bundler 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2023-08-25,rust,3948,4,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-08-25,rust,2921,13,Runtime Executor (asdf-plugin compatible),jdxcode,rtx,https://github.com/jdxcode/rtx
+2023-08-25,rust,9012,24,A new way to see and navigate directory trees : https://dystroy.org/broot,Canop,broot,https://github.com/Canop/broot
+2023-08-25,rust,12931,18,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2023-08-25,rust,1610,8,The enterprise-ready webhooks service 🦀,svix,svix-webhooks,https://github.com/svix/svix-webhooks
