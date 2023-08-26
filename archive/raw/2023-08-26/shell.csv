@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-26,shell,2233,21,"Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.",Security-Onion-Solutions,securityonion,https://github.com/Security-Onion-Solutions/securityonion
+2023-08-26,shell,9412,3,使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响,easzlab,kubeasz,https://github.com/easzlab/kubeasz
+2023-08-26,shell,3984,4,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-08-26,shell,11456,3,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2023-08-26,shell,5882,9,WireGuard VPN installer for Linux servers,angristan,wireguard-install,https://github.com/angristan/wireguard-install
+2023-08-26,shell,1771,3,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2023-08-26,shell,169,24,"Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers and living room home theater PCs.",ublue-os,bazzite,https://github.com/ublue-os/bazzite
+2023-08-26,shell,22539,6,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2023-08-26,shell,5737,5,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2023-08-26,shell,546,4,Ubuntu 22.04 for Rockchip RK3588 Devices,Joshua-Riek,ubuntu-rockchip,https://github.com/Joshua-Riek/ubuntu-rockchip
+2023-08-26,shell,2151,4,"An open-source, next-generation ""runc"" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",nestybox,sysbox,https://github.com/nestybox/sysbox
+2023-08-26,shell,4154,1,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2023-08-26,shell,41348,30,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2023-08-26,shell,232,1,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2023-08-26,shell,1501,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2023-08-26,shell,1777,3,"1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",HariSekhon,DevOps-Bash-tools,https://github.com/HariSekhon/DevOps-Bash-tools
+2023-08-26,shell,4945,2,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2023-08-26,shell,2566,3,"redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here",remote-android,redroid-doc,https://github.com/remote-android/redroid-doc
+2023-08-26,shell,1296,0,🐒 Docker distribution for Kong,Kong,docker-kong,https://github.com/Kong/docker-kong
+2023-08-26,shell,780,1,Port(ish) of Great Expectations to dbt test macros,calogica,dbt-expectations,https://github.com/calogica/dbt-expectations
+2023-08-26,shell,3583,4,"A sample MySQL database with an integrated test suite, used to test your applications and database servers",datacharmer,test_db,https://github.com/datacharmer/test_db
+2023-08-26,shell,458,0,Wazuh - Docker containers,wazuh,wazuh-docker,https://github.com/wazuh/wazuh-docker
+2023-08-26,shell,2534,3,"Hestia Control Panel | A lightweight and powerful control panel for the modern web.",hestiacp,hestiacp,https://github.com/hestiacp/hestiacp
+2023-08-26,shell,1070,2,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2023-08-26,shell,62023,99,Everything required to run your own Base node,base-org,node,https://github.com/base-org/node

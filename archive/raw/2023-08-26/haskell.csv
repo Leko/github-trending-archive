@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-26,haskell,29752,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-08-26,haskell,3623,14,The fastest way to develop full-stack web apps with React & Node.js.,wasp-lang,wasp,https://github.com/wasp-lang/wasp
+2023-08-26,haskell,32868,4,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-08-26,haskell,7248,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-08-26,haskell,21034,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-08-26,haskell,2,0,Random examples in diagrams.,fryguybob,diagrams-examples,https://github.com/fryguybob/diagrams-examples
+2023-08-26,haskell,1154,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-08-26,haskell,8888,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-08-26,haskell,1,0,FineTypes is an interface description language (IDL) focussing on types,cardano-foundation,fine-types,https://github.com/cardano-foundation/fine-types
+2023-08-26,haskell,6,0,This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.,input-output-hk,cardano-cli,https://github.com/input-output-hk/cardano-cli
+2023-08-26,haskell,2192,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2023-08-26,haskell,10,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2023-08-26,haskell,199,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-08-26,haskell,572,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-08-26,haskell,1,0,"Efficient, pure binary decoding using Arrows and ByteStrings in Haskell.",kolmodin,binary-arrow,https://github.com/kolmodin/binary-arrow
+2023-08-26,haskell,722,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-08-26,haskell,1464,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2023-08-26,haskell,861,1,A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.,nammayatri,nammayatri,https://github.com/nammayatri/nammayatri
+2023-08-26,haskell,1387,0,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2023-08-26,haskell,1705,0,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2023-08-26,haskell,3890,2,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2023-08-26,haskell,2962,2,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-08-26,haskell,31,0,Easy C++ code analysis with pure Haskell,chpatrick,clang-pure,https://github.com/chpatrick/clang-pure
+2023-08-26,haskell,2407,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-08-26,haskell,331,1,⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.,simplex-chat,simplexmq,https://github.com/simplex-chat/simplexmq

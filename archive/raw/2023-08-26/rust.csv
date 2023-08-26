@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-26,rust,45952,83,"An open-source remote desktop, and alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-08-26,rust,9762,4,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2023-08-26,rust,4580,35,"An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",parcel-bundler,lightningcss,https://github.com/parcel-bundler/lightningcss
+2023-08-26,rust,3205,25,Burn - A Flexible and Comprehensive Deep Learning Framework in Rust,burn-rs,burn,https://github.com/burn-rs/burn
+2023-08-26,rust,38465,27,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2023-08-26,rust,16054,14,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2023-08-26,rust,10614,12,🤖 The Modern Port Scanner 🤖,RustScan,RustScan,https://github.com/RustScan/RustScan
+2023-08-26,rust,90540,21,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-08-26,rust,9500,23,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2023-08-26,rust,27239,27,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2023-08-26,rust,9710,16,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-08-26,rust,1274,14,A simple and fast dashboard for Kubernetes,kdash-rs,kdash,https://github.com/kdash-rs/kdash
+2023-08-26,rust,218,21,The Fast Vector Similarity Library is designed to provide efficient computation of various similarity measures between vectors.,Dicklesworthstone,fast_vector_similarity,https://github.com/Dicklesworthstone/fast_vector_similarity
+2023-08-26,rust,730,30,"CSVs sliced, diced & analyzed.",jqnatividad,qsv,https://github.com/jqnatividad/qsv
+2023-08-26,rust,12391,8,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-08-26,rust,11881,24,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-08-26,rust,2234,1,Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.,signalapp,libsignal,https://github.com/signalapp/libsignal
+2023-08-26,rust,2720,11,A full-featured and easy-to-use web framework with the Rust programming language.,poem-web,poem,https://github.com/poem-web/poem
+2023-08-26,rust,24106,19,"Unified developer tools for JavaScript, TypeScript, and the web",rome,tools,https://github.com/rome/tools
+2023-08-26,rust,22347,20,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2023-08-26,rust,22588,16,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-08-26,rust,3950,2,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-08-26,rust,6637,12,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2023-08-26,rust,5354,4,Format Rust code,rust-lang,rustfmt,https://github.com/rust-lang/rustfmt
+2023-08-26,rust,6440,5,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry

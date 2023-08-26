@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-26,go,19533,20,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-08-26,go,17850,52,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-08-26,go,49200,124,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2023-08-26,go,1871,173,Official Go Implementation of the Quai Network,dominant-strategies,go-quai,https://github.com/dominant-strategies/go-quai
+2023-08-26,go,3531,13,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2023-08-26,go,4741,5,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-08-26,go,7064,6,Go library for decoding generic map values into native Go structures and vice versa.,mitchellh,mapstructure,https://github.com/mitchellh/mapstructure
+2023-08-26,go,101114,18,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-08-26,go,7416,4,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2023-08-26,go,33553,4,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2023-08-26,go,4919,10,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-08-26,go,6716,2,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-08-26,go,7951,0,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-08-26,go,8227,4,Simple HTTP and REST client library for Go,go-resty,resty,https://github.com/go-resty/resty
+2023-08-26,go,2432,2,"Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.",determined-ai,determined,https://github.com/determined-ai/determined
+2023-08-26,go,8366,4,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2023-08-26,go,8824,3,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-08-26,go,92,22,A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows,devanshbatham,rayder,https://github.com/devanshbatham/rayder
+2023-08-26,go,20436,7,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-08-26,go,12036,8,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-08-26,go,18653,5,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-08-26,go,34709,9,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-08-26,go,9195,9,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2023-08-26,go,15757,5,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-08-26,go,7614,4,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
