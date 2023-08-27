@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-27,go,313,42,Reverse engineering of the native Obsidian sync server,acheong08,rev-obsidian-sync,https://github.com/acheong08/rev-obsidian-sync
+2023-08-27,go,17889,30,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-08-27,go,454,38,A more than minimal JVM written in Go and capable of running Java 17 classes.,platypusguy,jacobin,https://github.com/platypusguy/jacobin
+2023-08-27,go,44311,9,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-08-27,go,25335,4,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2023-08-27,go,49310,184,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2023-08-27,go,40522,9,High Performance Object Storage for AI,minio,minio,https://github.com/minio/minio
+2023-08-27,go,2033,32,A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.,Narasimha1997,fake-sms,https://github.com/Narasimha1997/fake-sms
+2023-08-27,go,7015,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2023-08-27,go,145,5,"Talk to AI models in terminal. (Bard | ChatGPT | Claude 2 | Llama 2 | API | Golang | CLI | Google | HuggingChat | Command line | Together | At Same Time | Simultaneously | Concurrently | Thought2Source | Research | Academic Assistance )",Databingo,aih,https://github.com/Databingo/aih
+2023-08-27,go,10280,2,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2023-08-27,go,19550,34,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-08-27,go,13434,5,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-08-27,go,4139,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-08-27,go,16282,8,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-08-27,go,33095,7,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-08-27,go,8124,8,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2023-08-27,go,6290,11,简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain),jeessy2,ddns-go,https://github.com/jeessy2/ddns-go
+2023-08-27,go,13908,3,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-08-27,go,4198,24,ECMAScript/JavaScript engine in pure Go,dop251,goja,https://github.com/dop251/goja
+2023-08-27,go,13915,9,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-08-27,go,9957,2,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2023-08-27,go,4921,3,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-08-27,go,21741,2,HTTP load testing tool and library. It's over 9000!,tsenart,vegeta,https://github.com/tsenart/vegeta
+2023-08-27,go,9205,10,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
