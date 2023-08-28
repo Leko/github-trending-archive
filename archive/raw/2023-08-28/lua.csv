@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-28,lua,5015,2,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-08-28,lua,6779,19,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-08-28,lua,1229,5,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-08-28,lua,13386,16,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-08-28,lua,2695,6,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2023-08-28,lua,5168,3,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-08-28,lua,3443,2,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2023-08-28,lua,11060,12,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-08-28,lua,6972,10,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2023-08-28,lua,3185,12,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2023-08-28,lua,2624,4,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-08-28,lua,1856,2,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2023-08-28,lua,4832,3,📚 A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2023-08-28,lua,7965,2,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-08-28,lua,1100,2,"One dark and light colorscheme for neovim >= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles",navarasu,onedark.nvim,https://github.com/navarasu/onedark.nvim
+2023-08-28,lua,5746,4,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-08-28,lua,18958,23,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-08-28,lua,1461,4,"Not UFO in the sky, but an ultra fold in Neovim.",kevinhwang91,nvim-ufo,https://github.com/kevinhwang91/nvim-ufo
+2023-08-28,lua,2083,1,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-08-28,lua,130,1,An unofficial collection of linters and formatters configured for efm-langserver for neovim.,creativenull,efmls-configs-nvim,https://github.com/creativenull/efmls-configs-nvim
+2023-08-28,lua,2634,6,Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2023-08-28,lua,1668,0,vim dashboard,nvimdev,dashboard-nvim,https://github.com/nvimdev/dashboard-nvim
+2023-08-28,lua,5441,6,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2023-08-28,lua,6904,26,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-08-28,lua,2211,2,A well configured and structured Neovim.,ayamir,nvimdots,https://github.com/ayamir/nvimdots

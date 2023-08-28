@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-28,go,385,14,"🧺 A practical e-commerce microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.",mehdihadeli,go-ecommerce-microservices,https://github.com/mehdihadeli/go-ecommerce-microservices
+2023-08-28,go,15729,8,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-08-28,go,445,151,Reverse engineering of the native Obsidian sync server,acheong08,rev-obsidian-sync,https://github.com/acheong08/rev-obsidian-sync
+2023-08-28,go,528,119,A more than minimal JVM written in Go and capable of running Java 17 classes.,platypusguy,jacobin,https://github.com/platypusguy/jacobin
+2023-08-28,go,23640,12,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2023-08-28,go,29513,40,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-08-28,go,46056,39,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
+2023-08-28,go,113888,26,The Go programming language,golang,go,https://github.com/golang/go
+2023-08-28,go,4851,4,Dendrite is a second-generation Matrix homeserver written in Go!,matrix-org,dendrite,https://github.com/matrix-org/dendrite
+2023-08-28,go,6409,3,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2023-08-28,go,107104,63,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-08-28,go,53916,18,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-08-28,go,125,11,A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows,devanshbatham,rayder,https://github.com/devanshbatham/rayder
+2023-08-28,go,2895,4,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-08-28,go,7318,14,🏔 Love Freedom - ❌ Block Mass Surveillance,safing,portmaster,https://github.com/safing/portmaster
+2023-08-28,go,12297,24,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2023-08-28,go,10302,36,"🤖 Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-08-28,go,38523,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-08-28,go,12554,14,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-08-28,go,13144,5,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2023-08-28,go,7551,5,Modern UI for Ansible,ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore
+2023-08-28,go,30396,11,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2023-08-28,go,4038,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-08-28,go,6301,13,简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain),jeessy2,ddns-go,https://github.com/jeessy2/ddns-go
+2023-08-28,go,13355,5,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
