@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-29,go,558,88,Reverse engineering of the native Obsidian sync and publish server,acheong08,rev-obsidian-sync,https://github.com/acheong08/rev-obsidian-sync
+2023-08-29,go,10405,53,"🤖 Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-08-29,go,532,199,"🧺 A practical e-commerce microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.",mehdihadeli,go-ecommerce-microservices,https://github.com/mehdihadeli/go-ecommerce-microservices
+2023-08-29,go,29548,38,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-08-29,go,18311,15,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2023-08-29,go,15781,71,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-08-29,go,9384,9,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2023-08-29,go,13167,17,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2023-08-29,go,7338,20,🏔 Love Freedom - ❌ Block Mass Surveillance,safing,portmaster,https://github.com/safing/portmaster
+2023-08-29,go,14968,8,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-08-29,go,20632,24,📂 Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2023-08-29,go,53938,23,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-08-29,go,4040,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-08-29,go,13364,10,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2023-08-29,go,4409,12,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-08-29,go,17947,22,"A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2023-08-29,go,8049,5,"Directory/File, DNS and VHost busting tool written in Go",OJ,gobuster,https://github.com/OJ/gobuster
+2023-08-29,go,14183,7,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",emirpasic,gods,https://github.com/emirpasic/gods
+2023-08-29,go,30407,12,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2023-08-29,go,14397,90,算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~,greyireland,algorithm-pattern,https://github.com/greyireland/algorithm-pattern
+2023-08-29,go,279,35,A fast Go implementation of the Jekyll blogging engine,osteele,gojekyll,https://github.com/osteele/gojekyll
+2023-08-29,go,1138,7,一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序,linweiyuan,go-chatgpt-api,https://github.com/linweiyuan/go-chatgpt-api
+2023-08-29,go,11746,13,The most customisable and low-latency cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2023-08-29,go,39869,22,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2023-08-29,go,4352,12,"🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint",mgechev,revive,https://github.com/mgechev/revive
