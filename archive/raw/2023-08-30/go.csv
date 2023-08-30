@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-30,go,5700,132,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2023-08-30,go,21246,6,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2023-08-30,go,1884,7,Simple golang library for retry mechanism,avast,retry-go,https://github.com/avast/retry-go
+2023-08-30,go,38574,50,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-08-30,go,10513,151,"🤖 Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-08-30,go,33410,13,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-08-30,go,33141,16,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-08-30,go,2346,172,A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.,Narasimha1997,fake-sms,https://github.com/Narasimha1997/fake-sms
+2023-08-30,go,4124,4,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",kopia,kopia,https://github.com/kopia/kopia
+2023-08-30,go,10654,3,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2023-08-30,go,552,22,"🧺 A practical e-commerce microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.",mehdihadeli,go-ecommerce-microservices,https://github.com/mehdihadeli/go-ecommerce-microservices
+2023-08-30,go,14943,16,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-08-30,go,3980,7,Optimized Go Compression Packages,klauspost,compress,https://github.com/klauspost/compress
+2023-08-30,go,2229,3,iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能,qjfoidnh,BaiduPCS-Go,https://github.com/qjfoidnh/BaiduPCS-Go
+2023-08-30,go,8384,5,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2023-08-30,go,639,120,Reverse engineering of the native Obsidian sync and publish server,acheong08,rev-obsidian-sync,https://github.com/acheong08/rev-obsidian-sync
+2023-08-30,go,13939,11,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-08-30,go,9226,7,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2023-08-30,go,38408,32,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-08-30,go,39900,28,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2023-08-30,go,15673,6,A high performance HTTP request router that scales well,julienschmidt,httprouter,https://github.com/julienschmidt/httprouter
+2023-08-30,go,14691,12,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-08-30,go,5220,8,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2023-08-30,go,18148,8,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2023-08-30,go,4752,1,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
