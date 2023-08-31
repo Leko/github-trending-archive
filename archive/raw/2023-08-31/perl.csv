@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-31,perl,16721,17,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2023-08-31,perl,0,0,This repo is a fork from https://github.com/brendangregg/FlameGraph,mongodb-forks,flamegraph,https://github.com/mongodb-forks/flamegraph
+2023-08-31,perl,3,0,"Perl script to display the active TCP connections on a machine, sorted by ""most connected IP first"", which is done by scanning the netstat output",dtonhofer,most_connected_ip,https://github.com/dtonhofer/most_connected_ip
+2023-08-31,perl,134,0,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2023-08-31,perl,234,0,Spec and test data for the MaxMind DB file format,maxmind,MaxMind-DB,https://github.com/maxmind/MaxMind-DB
+2023-08-31,perl,332,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2023-08-31,perl,283,0,KH Coder: for Quantitative Content Analysis or Text Mining,ko-ichi-h,khcoder,https://github.com/ko-ichi-h/khcoder
+2023-08-31,perl,298,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2023-08-31,perl,752,1,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2023-08-31,perl,402,0,✂️ ⚡ Rapid haploid variant calling and core genome alignment,tseemann,snippy,https://github.com/tseemann/snippy
+2023-08-31,perl,1051,2,Image Payload Creating/Injecting tools,sighook,pixload,https://github.com/sighook/pixload
+2023-08-31,perl,2304,2,ExifTool meta information reader/writer,exiftool,exiftool,https://github.com/exiftool/exiftool
+2023-08-31,perl,391,0,"A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",FelixKrueger,TrimGalore,https://github.com/FelixKrueger/TrimGalore
+2023-08-31,perl,1306,0,ModSecurity v3 Nginx Connector,SpiderLabs,ModSecurity-nginx,https://github.com/SpiderLabs/ModSecurity-nginx
+2023-08-31,perl,903,1,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2023-08-31,perl,2397,0,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),SpiderLabs,owasp-modsecurity-crs,https://github.com/SpiderLabs/owasp-modsecurity-crs
+2023-08-31,perl,141,0,OS-level test automation,os-autoinst,os-autoinst,https://github.com/os-autoinst/os-autoinst
+2023-08-31,perl,117,0,FreeRDP Manuals,awakecoding,FreeRDP-Manuals,https://github.com/awakecoding/FreeRDP-Manuals
+2023-08-31,perl,1722,10,🐪 The Perl programming language,Perl,perl5,https://github.com/Perl/perl5
+2023-08-31,perl,1196,2,Holberton-style C code checker written in Perl,alx-tools,Betty,https://github.com/alx-tools/Betty
+2023-08-31,perl,859,0,Percona Toolkit: a collection of advanced open source command-line tools.,percona,percona-toolkit,https://github.com/percona/percona-toolkit
+2023-08-31,perl,15214,4,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2023-08-31,perl,692,1,⚡ ♒ Rapid prokaryotic genome annotation,tseemann,prokka,https://github.com/tseemann/prokka
+2023-08-31,perl,3156,2,A fast PostgreSQL Log Analyzer,darold,pgbadger,https://github.com/darold/pgbadger
+2023-08-31,perl,284,1,"openQA web-frontend, scheduler and tools.",os-autoinst,openQA,https://github.com/os-autoinst/openQA

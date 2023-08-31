@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-08-31,go,38631,32,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-08-31,go,4015,13,Optimized Go Compression Packages,klauspost,compress,https://github.com/klauspost/compress
+2023-08-31,go,700,54,"KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL, Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud.",apecloud,kubeblocks,https://github.com/apecloud/kubeblocks
+2023-08-31,go,9187,18,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2023-08-31,go,7503,70,"A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.",answerdev,answer,https://github.com/answerdev/answer
+2023-08-31,go,9230,6,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2023-08-31,go,3957,12,"Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.",deepfence,ThreatMapper,https://github.com/deepfence/ThreatMapper
+2023-08-31,go,12536,141,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2023-08-31,go,14988,7,"The easiest, most secure way to access infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2023-08-31,go,4115,44,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",loft-sh,devpod,https://github.com/loft-sh/devpod
+2023-08-31,go,12814,6,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2023-08-31,go,18678,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-08-31,go,15951,7,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-08-31,go,13626,3,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-08-31,go,21262,15,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2023-08-31,go,4755,5,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-08-31,go,7975,6,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-08-31,go,30335,13,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-08-31,go,8379,16,Continuous Profiling Platform. Debug performance issues down to a single line of code,grafana,pyroscope,https://github.com/grafana/pyroscope
+2023-08-31,go,2574,8,"Golang 算法竞赛模板库 | Solutions to Codeforces by Go 💭💡🎈",EndlessCheng,codeforces-go,https://github.com/EndlessCheng/codeforces-go
+2023-08-31,go,4428,11,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-08-31,go,5710,12,Go package for computer vision using OpenCV 4 and beyond.,hybridgroup,gocv,https://github.com/hybridgroup/gocv
+2023-08-31,go,2164,1,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,WireGuard,wireguard-go,https://github.com/WireGuard/wireguard-go
+2023-08-31,go,3936,14,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-08-31,go,27136,5,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
