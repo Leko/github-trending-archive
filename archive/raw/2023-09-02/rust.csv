@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-02,rust,17690,51,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2023-09-02,rust,626,98,Toolchain of the web,biomejs,biome,https://github.com/biomejs/biome
+2023-09-02,rust,19062,42,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2023-09-02,rust,26123,28,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2023-09-02,rust,5385,14,A fast Rust-based web bundler 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2023-09-02,rust,1467,31,A simple and fast dashboard for Kubernetes,kdash-rs,kdash,https://github.com/kdash-rs/kdash
+2023-09-02,rust,36653,51,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2023-09-02,rust,17309,19,"An extremely fast Python linter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2023-09-02,rust,6464,3,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-09-02,rust,2295,51,A memory safe implementation of sudo and su.,memorysafety,sudo-rs,https://github.com/memorysafety/sudo-rs
+2023-09-02,rust,19919,20,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
+2023-09-02,rust,12586,21,Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/,qdrant,qdrant,https://github.com/qdrant/qdrant
+2023-09-02,rust,13193,16,"🚀 Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
+2023-09-02,rust,13576,26,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2023-09-02,rust,5431,4,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-09-02,rust,27369,28,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2023-09-02,rust,18140,104,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用,tw93,Pake,https://github.com/tw93/Pake
+2023-09-02,rust,3120,31,Rust library that's all about cooking up terminal user interfaces (TUIs),ratatui-org,ratatui,https://github.com/ratatui-org/ratatui
+2023-09-02,rust,40682,37,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2023-09-02,rust,6409,9,A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com 🧠,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-09-02,rust,389,4,an educational compiler intermediate representation,sampsyo,bril,https://github.com/sampsyo/bril
+2023-09-02,rust,11493,13,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,getzola,zola,https://github.com/getzola/zola
+2023-09-02,rust,13899,24,Blazing 💥 fast terminal-ui for git written in rust 🦀,extrawurst,gitui,https://github.com/extrawurst/gitui
+2023-09-02,rust,68055,30,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-09-02,rust,171,3,"A ""Type 0"" zkEVM. Prove validity of Ethereum blocks using RISC Zero's zkVM",risc0,zeth,https://github.com/risc0/zeth

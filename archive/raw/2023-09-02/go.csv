@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-02,go,12298,137,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2023-09-02,go,13243,508,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2023-09-02,go,10124,245,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-09-02,go,4072,16,Optimized Go Compression Packages,klauspost,compress,https://github.com/klauspost/compress
+2023-09-02,go,30361,4,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-09-02,go,39957,16,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2023-09-02,go,1141,2,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,kubernetes-sigs,gateway-api,https://github.com/kubernetes-sigs/gateway-api
+2023-09-02,go,8469,87,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2023-09-02,go,5238,7,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2023-09-02,go,6967,60,"An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-09-02,go,12463,18,Linux virtual machines,lima-vm,lima,https://github.com/lima-vm/lima
+2023-09-02,go,38699,18,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-09-02,go,633,10,ChatGPT in terminal without needing API keys,aandrew-me,tgpt,https://github.com/aandrew-me/tgpt
+2023-09-02,go,2912,9,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-09-02,go,22076,12,🐶 Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2023-09-02,go,71363,29,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2023-09-02,go,68803,17,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2023-09-02,go,22576,27,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-09-02,go,19912,7,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-09-02,go,13953,9,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-09-02,go,4338,9,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2023-09-02,go,33179,13,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-09-02,go,1990,2,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2023-09-02,go,43502,10,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-09-02,go,2858,5,vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,loft-sh,vcluster,https://github.com/loft-sh/vcluster
