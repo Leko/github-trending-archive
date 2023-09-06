@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-06,go,14404,169,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2023-09-06,go,6419,203,"Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",apernet,hysteria,https://github.com/apernet/hysteria
+2023-09-06,go,2095,2,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2023-09-06,go,1756,102,A list of remote-friendly or full-remote companies that targets Italian talents.,italiaremote,awesome-italia-remote,https://github.com/italiaremote/awesome-italia-remote
+2023-09-06,go,3879,148,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问以及 360 智脑，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-09-06,go,13118,35,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-09-06,go,3668,20,A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests,projectdiscovery,naabu,https://github.com/projectdiscovery/naabu
+2023-09-06,go,34766,11,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-09-06,go,14229,10,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",emirpasic,gods,https://github.com/emirpasic/gods
+2023-09-06,go,4245,16,ECMAScript/JavaScript engine in pure Go,dop251,goja,https://github.com/dop251/goja
+2023-09-06,go,9918,23,"Manage your dotfiles across multiple diverse machines, securely.",twpayne,chezmoi,https://github.com/twpayne/chezmoi
+2023-09-06,go,5096,9,A tool that provisions remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-09-06,go,1167,6,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
+2023-09-06,go,11210,10,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2023-09-06,go,24886,4,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2023-09-06,go,18203,6,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2023-09-06,go,567,4,This repo contains a bunch of Kubernetes examples,AdminTurnedDevOps,kubernetes-examples,https://github.com/AdminTurnedDevOps/kubernetes-examples
+2023-09-06,go,7611,7,A truly Open Source MongoDB alternative,FerretDB,FerretDB,https://github.com/FerretDB/FerretDB
+2023-09-06,go,1685,2,The Public Suffix List,publicsuffix,list,https://github.com/publicsuffix/list
+2023-09-06,go,3525,4,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2023-09-06,go,19078,4,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2023-09-06,go,11466,18,☁️ Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2023-09-06,go,2928,4,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-09-06,go,4153,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-09-06,go,20505,10,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
