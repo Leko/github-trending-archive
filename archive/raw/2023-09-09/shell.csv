@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-09,shell,11125,6,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
+2023-09-09,shell,1817,4,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2023-09-09,shell,491,1,Main package repository for production Wolfi images,wolfi-dev,os,https://github.com/wolfi-dev/os
+2023-09-09,shell,2219,11,Extensive ReVanced builder. Builds both modules and APKs. Updated daily.,j-hc,revanced-magisk-module,https://github.com/j-hc/revanced-magisk-module
+2023-09-09,shell,129,1,Example application of Ultraviolet which can be deployed in production.,titaniumnetwork-dev,Ultraviolet-App,https://github.com/titaniumnetwork-dev/Ultraviolet-App
+2023-09-09,shell,4009,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-09-09,shell,778,0,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2023-09-09,shell,235,1,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2023-09-09,shell,686,2,"Install sing-box/xray and configure vless / tuic / hysteria2 for reality or tls (letsencrypt) over different transport protocols (tcp, http, grpc and websocket) with user management capability in CLI, TUI and Telegram bot by a single command in docker compose!",aleskxyz,reality-ezpz,https://github.com/aleskxyz/reality-ezpz
+2023-09-09,shell,162164,48,"🙃 A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2023-09-09,shell,4182,4,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2023-09-09,shell,69878,24,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-09-09,shell,2153,2,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
+2023-09-09,shell,334,2,Android third-party memory management,OneB1ank,A1Memory,https://github.com/OneB1ank/A1Memory
+2023-09-09,shell,1366,9,基于Ruby编写的命令行注入版本,QiuChenlyOpenSource,InjectLib,https://github.com/QiuChenlyOpenSource/InjectLib
+2023-09-09,shell,15262,2,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2023-09-09,shell,1722,2,Provides network connectivity to WSL 2 when blocked by VPN,sakai135,wsl-vpnkit,https://github.com/sakai135/wsl-vpnkit
+2023-09-09,shell,4113,4,A conda-forge distribution.,conda-forge,miniforge,https://github.com/conda-forge/miniforge
+2023-09-09,shell,10989,3,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2023-09-09,shell,311,13,"Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers and living room home theater PCs.",ublue-os,bazzite,https://github.com/ublue-os/bazzite
+2023-09-09,shell,6510,4,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2023-09-09,shell,682,4,A program almost identical to the 42 EXAMS for practice. (Pool EXAM & Stud EXAM),JCluzet,42_EXAM,https://github.com/JCluzet/42_EXAM
+2023-09-09,shell,15655,9,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2023-09-09,shell,1187,2,we want to create a repo to illustrate usage of transformers in chinese,datawhalechina,learn-nlp-with-transformers,https://github.com/datawhalechina/learn-nlp-with-transformers
