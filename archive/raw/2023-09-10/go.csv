@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-10,go,18786,65,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-09-10,go,22134,140,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2023-09-10,go,1527,37,"Most advanced key-value store written in Go, extremely fast, compatible with LSM tree and B+ tree, optimization of badger and bbolt.",lotusdblabs,lotusdb,https://github.com/lotusdblabs/lotusdb
+2023-09-10,go,23195,1,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2023-09-10,go,6769,2,Efficient cache for gigabytes of data written in Go.,allegro,bigcache,https://github.com/allegro/bigcache
+2023-09-10,go,7998,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-09-10,go,3158,8,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2023-09-10,go,4212,9,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2023-09-10,go,14291,13,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",emirpasic,gods,https://github.com/emirpasic/gods
+2023-09-10,go,4450,3,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2023-09-10,go,4160,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-09-10,go,4643,7,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2023-09-10,go,7437,3,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2023-09-10,go,5289,302,OpenTF lets you declaratively manage your cloud infrastructure.,opentffoundation,opentf,https://github.com/opentffoundation/opentf
+2023-09-10,go,9081,2,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2023-09-10,go,4970,3,A mock code autogenerator for Go,vektra,mockery,https://github.com/vektra/mockery
+2023-09-10,go,20540,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-09-10,go,8403,0,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2023-09-10,go,12774,3,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2023-09-10,go,4739,2,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
+2023-09-10,go,7675,4,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-09-10,go,2090,2,tun2socks - powered by gVisor TCP/IP stack,xjasonlyu,tun2socks,https://github.com/xjasonlyu/tun2socks
+2023-09-10,go,3559,1,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2023-09-10,go,9980,5,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2023-09-10,go,9000,7,Generate type-safe code from SQL,sqlc-dev,sqlc,https://github.com/sqlc-dev/sqlc
