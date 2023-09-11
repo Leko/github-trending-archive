@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-11,lua,8042,6,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-09-11,lua,2960,1,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2023-09-11,lua,2696,9,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-09-11,lua,3785,8,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-09-11,lua,3288,3,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2023-09-11,lua,7057,12,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-09-11,lua,544,1,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2023-09-11,lua,5043,5,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-09-11,lua,1684,4,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2023-09-11,lua,2005,2,Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.,kylechui,nvim-surround,https://github.com/kylechui/nvim-surround
+2023-09-11,lua,1420,3,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2023-09-11,lua,545,1,A task runner and job management plugin for Neovim,stevearc,overseer.nvim,https://github.com/stevearc/overseer.nvim
+2023-09-11,lua,998,2,"Neovim plugin for Obsidian, written in Lua",epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2023-09-11,lua,13470,3,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-09-11,lua,106,3,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2023-09-11,lua,2345,0,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2023-09-11,lua,149,1,An example user configuration with a split up structure,AstroNvim,user_example,https://github.com/AstroNvim/user_example
+2023-09-11,lua,15813,16,🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-09-11,lua,735,1,Lua plugin to turn github copilot into a cmp source,zbirenbaum,copilot-cmp,https://github.com/zbirenbaum/copilot-cmp
+2023-09-11,lua,1688,1,vim dashboard,nvimdev,dashboard-nvim,https://github.com/nvimdev/dashboard-nvim
+2023-09-11,lua,1060,1,Use treesitter to auto close and auto rename html tag,windwp,nvim-ts-autotag,https://github.com/windwp/nvim-ts-autotag
+2023-09-11,lua,237,0,A native neovim extension for Codeium,jcdickinson,codeium.nvim,https://github.com/jcdickinson/codeium.nvim
+2023-09-11,lua,5506,4,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2023-09-11,lua,3211,2,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2023-09-11,lua,11185,8,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
