@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-13,go,435,71,AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。,mylxsw,aidea-server,https://github.com/mylxsw/aidea-server
+2023-09-13,go,8406,4,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2023-09-13,go,13401,6,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2023-09-13,go,2125,3,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2023-09-13,go,4783,6,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-09-13,go,20037,22,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-09-13,go,4821,2,UUID package for Go,satori,go.uuid,https://github.com/satori/go.uuid
+2023-09-13,go,24408,13,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-09-13,go,16007,6,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-09-13,go,7686,3,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-09-13,go,38716,51,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-09-13,go,18582,15,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-09-13,go,6237,4,Security scanner for your Terraform code,aquasecurity,tfsec,https://github.com/aquasecurity/tfsec
+2023-09-13,go,25822,32,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-09-13,go,4963,13,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2023-09-13,go,22813,28,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-09-13,go,6796,5,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2023-09-13,go,4204,7,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-09-13,go,6915,11,"A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
+2023-09-13,go,28358,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-09-13,go,20809,4,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2023-09-13,go,1969,5,NVIDIA device plugin for Kubernetes,NVIDIA,k8s-device-plugin,https://github.com/NVIDIA/k8s-device-plugin
+2023-09-13,go,11670,8,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2023-09-13,go,2237,6,Official Go Implementation of the Quai Network,dominant-strategies,go-quai,https://github.com/dominant-strategies/go-quai
+2023-09-13,go,4226,5,The Docker CLI,docker,cli,https://github.com/docker/cli

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-13,rust,68309,41,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-09-13,rust,7581,10,"大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",ClassmateLin,dm-ticket,https://github.com/ClassmateLin/dm-ticket
+2023-09-13,rust,90770,39,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-09-13,rust,2282,3,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-09-13,rust,22490,7,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2023-09-13,rust,3484,22,Burn - A Flexible and Comprehensive Deep Learning Framework in Rust,burn-rs,burn,https://github.com/burn-rs/burn
+2023-09-13,rust,3661,218,"Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl",makepad,makepad,https://github.com/makepad/makepad
+2023-09-13,rust,3618,135,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2023-09-13,rust,17170,53,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2023-09-13,rust,24654,38,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-09-13,rust,15551,7,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2023-09-13,rust,25775,24,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-09-13,rust,41897,55,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2023-09-13,rust,11948,11,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2023-09-13,rust,2793,4,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2023-09-13,rust,7569,4,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2023-09-13,rust,2833,16,"Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui",rerun-io,rerun,https://github.com/rerun-io/rerun
+2023-09-13,rust,17584,31,"An extremely fast Python linter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2023-09-13,rust,592,75,"🥖 | Rinha de compiladores (ou interpretadores kkkk",aripiprazole,rinha-de-compiler,https://github.com/aripiprazole/rinha-de-compiler
+2023-09-13,rust,3586,3,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2023-09-13,rust,812,1,zkSync era,matter-labs,zksync-era,https://github.com/matter-labs/zksync-era
+2023-09-13,rust,5221,2,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-09-13,rust,2860,4,Incomplete Redis client and server implementation using Tokio - for learning purposes only,tokio-rs,mini-redis,https://github.com/tokio-rs/mini-redis
+2023-09-13,rust,3257,7,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2023-09-13,rust,3974,8,Safe and rich Rust wrapper around the Vulkan API,vulkano-rs,vulkano,https://github.com/vulkano-rs/vulkano
