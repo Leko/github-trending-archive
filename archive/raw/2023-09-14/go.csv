@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-14,go,621,188,AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。,mylxsw,aidea-server,https://github.com/mylxsw/aidea-server
+2023-09-14,go,12076,2,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-09-14,go,66653,13,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-09-14,go,1271,3,Vendor-neutral programmable observability pipelines.,grafana,agent,https://github.com/grafana/agent
+2023-09-14,go,101628,40,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-09-14,go,40776,25,High Performance Object Storage for AI,minio,minio,https://github.com/minio/minio
+2023-09-14,go,8053,11,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2023-09-14,go,13407,6,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2023-09-14,go,12071,11,Deliver Go binaries as fast and easily as possible,goreleaser,goreleaser,https://github.com/goreleaser/goreleaser
+2023-09-14,go,15177,8,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2023-09-14,go,20054,20,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-09-14,go,8436,4,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2023-09-14,go,16431,8,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-09-14,go,44460,15,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-09-14,go,7125,5,Go library for decoding generic map values into native Go structures and vice versa.,mitchellh,mapstructure,https://github.com/mitchellh/mapstructure
+2023-09-14,go,24432,32,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-09-14,go,3597,5,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2023-09-14,go,12876,11,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2023-09-14,go,28366,12,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-09-14,go,9346,7,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2023-09-14,go,4730,4,"An ACME-based certificate authority, written in Go.",letsencrypt,boulder,https://github.com/letsencrypt/boulder
+2023-09-14,go,11329,12,Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.,labring,sealos,https://github.com/labring/sealos
+2023-09-14,go,49682,26,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2023-09-14,go,3036,2,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2023-09-14,go,7624,3,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-14,vue,733,8,"A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.",kevin2li,PDF-Guru,https://github.com/kevin2li/PDF-Guru
+2023-09-14,vue,729,11,大麦网演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。,shiyutim,tickets,https://github.com/shiyutim/tickets
+2023-09-14,vue,10340,3,👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro! (vue2),vueComponent,ant-design-vue-pro,https://github.com/vueComponent/ant-design-vue-pro
+2023-09-14,vue,2553,1,📄 Documentation for Vue 3,vuejs,docs,https://github.com/vuejs/docs
+2023-09-14,vue,5527,3,京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web),jdf2e,nutui,https://github.com/jdf2e/nutui
+2023-09-14,vue,4470,2,一个低代码（可视化拖拽）教学项目,woai3c,visual-drag-demo,https://github.com/woai3c/visual-drag-demo
+2023-09-14,vue,2377,4,"基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.",nihaojob,vue-fabric-editor,https://github.com/nihaojob/vue-fabric-editor
+2023-09-14,vue,4635,5,基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。,pipipi-pikachu,PPTist,https://github.com/pipipi-pikachu/PPTist
+2023-09-14,vue,21835,7,"Wiki.js | A modern and powerful wiki app built on Node.js",requarks,wiki,https://github.com/requarks/wiki
+2023-09-14,vue,10344,19,🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）,pure-admin,vue-pure-admin,https://github.com/pure-admin/vue-pure-admin
+2023-09-14,vue,83948,13,🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin,PanJiaChen,vue-element-admin,https://github.com/PanJiaChen/vue-element-admin
+2023-09-14,vue,18658,11,🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜,vueComponent,ant-design-vue,https://github.com/vueComponent/ant-design-vue
+2023-09-14,vue,2717,2,"基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面",buqiyuan,vue3-antd-admin,https://github.com/buqiyuan/vue3-antd-admin
+2023-09-14,vue,4282,8,🎧 Vue + SpringBoot + MyBatis 音乐网站,Yin-Hongwei,music-website,https://github.com/Yin-Hongwei/music-website
+2023-09-14,vue,26727,30,用 Express 和 Vue3 搭建的 ChatGPT 演示网页,Chanzhaoyu,chatgpt-web,https://github.com/Chanzhaoyu/chatgpt-web
+2023-09-14,vue,13561,2,"Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",beekeeper-studio,beekeeper-studio,https://github.com/beekeeper-studio/beekeeper-studio
+2023-09-14,vue,4399,4,A nimble Mastodon web client,elk-zone,elk,https://github.com/elk-zone/elk
+2023-09-14,vue,687,4,🎯 Desktop Widget ( 桌面小组件 ),fzf404,Monit,https://github.com/fzf404/Monit
+2023-09-14,vue,2777,1,Enterprise Design System,Tencent,tdesign,https://github.com/Tencent/tdesign
+2023-09-14,vue,315,2,mall-app-web是一个电商系统的移动端项目，基于uni-app实现。主要包括首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等功能。,macrozheng,mall-app-web,https://github.com/macrozheng/mall-app-web
+2023-09-14,vue,1849,1,📙 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室,ChanceYu,front-end-rss,https://github.com/ChanceYu/front-end-rss
+2023-09-14,vue,147,2,🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（Vue版本）,hepengwei,visualization-collection-vue,https://github.com/hepengwei/visualization-collection-vue
+2023-09-14,vue,171,2,"基于SpringBoot3开发的Ai平台 含双端 网页以及小程序 包含chatgpt newbing claude , 双端数据同步 支持自定义预设词,功能板块定义,各类绘图 web兼容手机展示",dulaiduwang003,TIME-SEA-chatgpt,https://github.com/dulaiduwang003/TIME-SEA-chatgpt
+2023-09-14,vue,327,4,"AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 OpenAI, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",yangjian102621,chatgpt-plus,https://github.com/yangjian102621/chatgpt-plus
+2023-09-14,vue,332,1,🔔 An opinionated toast component for Vue.,xiaoluoboding,vue-sonner,https://github.com/xiaoluoboding/vue-sonner
