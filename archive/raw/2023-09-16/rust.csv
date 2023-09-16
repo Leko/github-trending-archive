@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-16,rust,4215,277,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2023-09-16,rust,3922,42,"Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl",makepad,makepad,https://github.com/makepad/makepad
+2023-09-16,rust,1840,7,Apache OpenDAL: access data freely.,apache,incubator-opendal,https://github.com/apache/incubator-opendal
+2023-09-16,rust,13584,9,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-09-16,rust,957,156,"⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.",sxyazi,yazi,https://github.com/sxyazi/yazi
+2023-09-16,rust,1595,192,Static low-bandwidth search at scale,CloudCannon,pagefind,https://github.com/CloudCannon/pagefind
+2023-09-16,rust,25960,69,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-09-16,rust,85316,50,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2023-09-16,rust,28167,111,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2023-09-16,rust,6543,5,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-09-16,rust,8890,9,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2023-09-16,rust,4000,5,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-09-16,rust,24725,31,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-09-16,rust,2874,23,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2023-09-16,rust,3783,1,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2023-09-16,rust,20242,15,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
+2023-09-16,rust,21438,8,A web framework for Rust.,SergioBenitez,Rocket,https://github.com/SergioBenitez/Rocket
+2023-09-16,rust,20734,48,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-09-16,rust,38784,19,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2023-09-16,rust,22375,30,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2023-09-16,rust,741,8,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2023-09-16,rust,15563,8,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2023-09-16,rust,4094,5,WebAssembly System Interface,WebAssembly,WASI,https://github.com/WebAssembly/WASI
+2023-09-16,rust,348,35,End-to-End Example Soroban Dapp,stellar,soroban-example-dapp,https://github.com/stellar/soroban-example-dapp
+2023-09-16,rust,5174,6,The distributed streaming database: SQL stream processing with Postgres-like experience 🪄. 10X faster and more cost-efficient than Apache Flink 🚀.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave

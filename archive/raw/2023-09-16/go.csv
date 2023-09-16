@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-16,go,8541,9,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
+2023-09-16,go,11067,27,"🤖 Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others",go-skynet,LocalAI,https://github.com/go-skynet/LocalAI
+2023-09-16,go,18617,15,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-09-16,go,6477,3,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2023-09-16,go,754,28,AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。,mylxsw,aidea-server,https://github.com/mylxsw/aidea-server
+2023-09-16,go,49870,8,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-09-16,go,1109,29,"软硬路由公网神器,多平台,ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒,ipv4内网穿透,计划任务,自动证书",gdy666,lucky,https://github.com/gdy666/lucky
+2023-09-16,go,1105,8,LangChain for Go,tmc,langchaingo,https://github.com/tmc/langchaingo
+2023-09-16,go,5892,3,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-09-16,go,4594,6,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,google,uuid,https://github.com/google/uuid
+2023-09-16,go,7615,11,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish and proxy video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2023-09-16,go,22888,20,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-09-16,go,5035,6,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-09-16,go,19697,11,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-09-16,go,38803,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-09-16,go,7702,4,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-09-16,go,12081,0,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-09-16,go,24453,6,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-09-16,go,21547,3,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-09-16,go,4358,1,NGINX and NGINX Plus Ingress Controllers for Kubernetes,nginxinc,kubernetes-ingress,https://github.com/nginxinc/kubernetes-ingress
+2023-09-16,go,114383,35,The Go programming language,golang,go,https://github.com/golang/go
+2023-09-16,go,5434,9,Clean Architecture template for Golang services,evrone,go-clean-template,https://github.com/evrone/go-clean-template
+2023-09-16,go,8464,11,"An open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2023-09-16,go,9342,17,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2023-09-16,go,7539,13,Distributed server for social and realtime games and apps.,heroiclabs,nakama,https://github.com/heroiclabs/nakama
