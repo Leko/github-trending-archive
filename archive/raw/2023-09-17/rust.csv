@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-17,rust,4353,160,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2023-09-17,rust,16443,14,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-09-17,rust,21686,252,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2023-09-17,rust,2306,8,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-09-17,rust,28391,325,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2023-09-17,rust,5228,3,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-09-17,rust,8347,0,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-09-17,rust,26002,39,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2023-09-17,rust,13589,11,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-09-17,rust,1644,57,Static low-bandwidth search at scale,CloudCannon,pagefind,https://github.com/CloudCannon/pagefind
+2023-09-17,rust,21452,10,A web framework for Rust.,SergioBenitez,Rocket,https://github.com/SergioBenitez/Rocket
+2023-09-17,rust,4098,6,WebAssembly System Interface,WebAssembly,WASI,https://github.com/WebAssembly/WASI
+2023-09-17,rust,18497,13,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用,tw93,Pake,https://github.com/tw93/Pake
+2023-09-17,rust,3785,1,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2023-09-17,rust,11410,4,📚 Learn to write an embedded OS in Rust 🦀,rust-embedded,rust-raspberrypi-OS-tutorials,https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+2023-09-17,rust,1325,244,"⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.",sxyazi,yazi,https://github.com/sxyazi/yazi
+2023-09-17,rust,11768,9,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-09-17,rust,14749,307,Fuel Network Rust SDK,FuelLabs,fuels-rs,https://github.com/FuelLabs/fuels-rs
+2023-09-17,rust,18450,35,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2023-09-17,rust,2875,0,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2023-09-17,rust,20264,27,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
+2023-09-17,rust,9856,9,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-09-17,rust,2816,8,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2023-09-17,rust,1587,15,Rust bindings for Godot 4,godot-rust,gdext,https://github.com/godot-rust/gdext
+2023-09-17,rust,3442,5,Rust bindings for Godot 3,godot-rust,gdnative,https://github.com/godot-rust/gdnative
