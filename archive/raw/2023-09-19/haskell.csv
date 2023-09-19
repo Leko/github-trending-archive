@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-19,haskell,2422,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-09-19,haskell,1829,4,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-09-19,haskell,29985,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-09-19,haskell,1387,0,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2023-09-19,haskell,2961,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-09-19,haskell,8,0,"Public course materials for COMPSCI 3MI3, Fall 2023 version",JacquesCarette,COMPSCI3MI3-F2023,https://github.com/JacquesCarette/COMPSCI3MI3-F2023
+2023-09-19,haskell,33028,5,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-09-19,haskell,0,0,Scheme interpreter written in Haskell,cchuahuico,schell,https://github.com/cchuahuico/schell
+2023-09-19,haskell,8759,1,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2023-09-19,haskell,3097,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-09-19,haskell,200,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-09-19,haskell,2560,0,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-09-19,haskell,4218,6,SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!,simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-09-19,haskell,1519,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-09-19,haskell,399,1,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2023-09-19,haskell,4076,2,🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2023-09-19,haskell,5298,1,"A statically typed lisp, without a GC, for real-time applications.",carp-lang,Carp,https://github.com/carp-lang/Carp
+2023-09-19,haskell,250,1,A categorical programming language with effects,jameshaydon,lawvere,https://github.com/jameshaydon/lawvere
+2023-09-19,haskell,1755,3,Tunneling over websocket protocol - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2023-09-19,haskell,0,0,A Haskell implementation of the Befunge esoteric programming language.,kajgo,befunge-haskell,https://github.com/kajgo/befunge-haskell
+2023-09-19,haskell,0,0,"Woohoo, I'm learning Haskell!",whatisaphone,haskell-sudoku-solver,https://github.com/whatisaphone/haskell-sudoku-solver
+2023-09-19,haskell,514,1,Minimal implementations for dependent type checking and elaboration,AndrasKovacs,elaboration-zoo,https://github.com/AndrasKovacs/elaboration-zoo
+2023-09-19,haskell,752,1,Resource gathering + programming game,swarm-game,swarm,https://github.com/swarm-game/swarm
+2023-09-19,haskell,104,1,POSIX functionality,haskell,unix,https://github.com/haskell/unix
+2023-09-19,haskell,6,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
