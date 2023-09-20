@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-20,go,18556,53,"A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2023-09-20,go,3142,20,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-09-20,go,798,17,Apple Store iPhone预约助手,hteen,apple-store-helper,https://github.com/hteen/apple-store-helper
+2023-09-20,go,9013,14,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2023-09-20,go,6051,5,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2023-09-20,go,5204,3,"A horizontally scalable, highly available, multi-tenant, long term Prometheus.",cortexproject,cortex,https://github.com/cortexproject/cortex
+2023-09-20,go,3076,38,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2023-09-20,go,3687,26,A modern tool for managing database schemas,ariga,atlas,https://github.com/ariga/atlas
+2023-09-20,go,14664,18,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-09-20,go,33637,13,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-09-20,go,7178,31,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-09-20,go,18863,10,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-09-20,go,195,12,"A zero-dependency, high-performance, concurrent mysqldump tool implemented in golang. golang 中实现的零依赖、支持所有类型、 高性能、并发 mysqldump 工具。",jarvanstack,mysqldump,https://github.com/jarvanstack/mysqldump
+2023-09-20,go,21202,15,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2023-09-20,go,2100,4,"A Security Tool for Bug Bounty, Pentest and Red Teaming.",zan8in,afrog,https://github.com/zan8in/afrog
+2023-09-20,go,14828,2,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2023-09-20,go,1057,11,"✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监控和控制所有设备。",XZB-1248,Spark,https://github.com/XZB-1248/Spark
+2023-09-20,go,4830,0,syzkaller is an unsupervised coverage-guided kernel fuzzer,google,syzkaller,https://github.com/google/syzkaller
+2023-09-20,go,1887,6,Sonne tanken ☀️🚘,evcc-io,evcc,https://github.com/evcc-io/evcc
+2023-09-20,go,8041,4,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2023-09-20,go,9090,0,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2023-09-20,go,11736,6,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2023-09-20,go,15305,23,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-09-20,go,1810,7,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2023-09-20,go,4844,3,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter

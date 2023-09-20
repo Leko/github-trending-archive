@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-20,shell,7221,160,Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox,89luca89,distrobox,https://github.com/89luca89/distrobox
+2023-09-20,shell,4806,8,Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩,stupidloud,nanopi-openwrt,https://github.com/stupidloud/nanopi-openwrt
+2023-09-20,shell,5058,4,⛴ Docker image of Nextcloud,nextcloud,docker,https://github.com/nextcloud/docker
+2023-09-20,shell,70188,35,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-09-20,shell,15706,5,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2023-09-20,shell,435,28,Running x86_64 applications on Android,Ilya114,Box64Droid,https://github.com/Ilya114/Box64Droid
+2023-09-20,shell,14252,62,A curated list for awesome kubernetes sources 🚢🎉,ramitsurana,awesome-kubernetes,https://github.com/ramitsurana/awesome-kubernetes
+2023-09-20,shell,5842,7,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2023-09-20,shell,1506,3,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2023-09-20,shell,42079,35,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2023-09-20,shell,722,5,"Install sing-box/xray and configure vless / tuic / hysteria2 for reality or tls (letsencrypt) over different transport protocols (tcp, http, grpc and websocket) with user management capability in CLI, TUI and Telegram bot by a single command in docker compose!",aleskxyz,reality-ezpz,https://github.com/aleskxyz/reality-ezpz
+2023-09-20,shell,5139,5,Manage your Java environment,jenv,jenv,https://github.com/jenv/jenv
+2023-09-20,shell,2201,1,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2023-09-20,shell,33135,12,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2023-09-20,shell,4082,1,Lightweight justice for your single-board computer!,MichaIng,DietPi,https://github.com/MichaIng/DietPi
+2023-09-20,shell,646,4,"NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications",0xKayala,NucleiFuzzer,https://github.com/0xKayala/NucleiFuzzer
+2023-09-20,shell,2052,2,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2023-09-20,shell,15294,4,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2023-09-20,shell,1742,6,Provides network connectivity to WSL 2 when blocked by VPN,sakai135,wsl-vpnkit,https://github.com/sakai135/wsl-vpnkit
+2023-09-20,shell,1085,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2023-09-20,shell,1503,5,A Library for Advanced Deep Time Series Models.,thuml,Time-Series-Library,https://github.com/thuml/Time-Series-Library
+2023-09-20,shell,7497,5,"Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",Fmstrat,winapps,https://github.com/Fmstrat/winapps
+2023-09-20,shell,13716,1,A community Bash framework.,Bash-it,bash-it,https://github.com/Bash-it/bash-it
+2023-09-20,shell,8839,2,Go Version Manager,moovweb,gvm,https://github.com/moovweb/gvm
+2023-09-20,shell,8885,1,Combination of multiple linters to install as a GitHub Action,super-linter,super-linter,https://github.com/super-linter/super-linter
