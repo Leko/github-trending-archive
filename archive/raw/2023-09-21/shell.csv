@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-21,shell,70218,34,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2023-09-21,shell,7232,13,Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox,89luca89,distrobox,https://github.com/89luca89/distrobox
+2023-09-21,shell,14259,9,A curated list for awesome kubernetes sources 🚢🎉,ramitsurana,awesome-kubernetes,https://github.com/ramitsurana/awesome-kubernetes
+2023-09-21,shell,135,1,Run adb in Termux without root permissions!,nohajc,termux-adb,https://github.com/nohajc/termux-adb
+2023-09-21,shell,722,2,"Install sing-box/xray and configure vless / tuic / hysteria2 for reality or tls (letsencrypt) over different transport protocols (tcp, http, grpc and websocket) with user management capability in CLI, TUI and Telegram bot by a single command in docker compose!",aleskxyz,reality-ezpz,https://github.com/aleskxyz/reality-ezpz
+2023-09-21,shell,106282,9,"Bring data to life with SVG, Canvas and HTML. 📊📈🎉",d3,d3,https://github.com/d3/d3
+2023-09-21,shell,512,0,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2023-09-21,shell,17970,4,Node version management,tj,n,https://github.com/tj/n
+2023-09-21,shell,2418,16,🐧 Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本,dunwu,linux-tutorial,https://github.com/dunwu/linux-tutorial
+2023-09-21,shell,5842,1,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2023-09-21,shell,1744,2,Provides network connectivity to WSL 2 when blocked by VPN,sakai135,wsl-vpnkit,https://github.com/sakai135/wsl-vpnkit
+2023-09-21,shell,1576,1,winutils.exe hadoop.dll and hdfs.dll binaries for hadoop windows,cdarlint,winutils,https://github.com/cdarlint/winutils
+2023-09-21,shell,5677,2,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2023-09-21,shell,6532,3,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2023-09-21,shell,7178,2,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2023-09-21,shell,18538,23,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2023-09-21,shell,4019,3,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-09-21,shell,800,2,Port(ish) of Great Expectations to dbt test macros,calogica,dbt-expectations,https://github.com/calogica/dbt-expectations
+2023-09-21,shell,15300,7,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2023-09-21,shell,6586,3,"A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt",P3TERX,Actions-OpenWrt,https://github.com/P3TERX/Actions-OpenWrt
+2023-09-21,shell,441,4,Running x86_64 applications on Android,Ilya114,Box64Droid,https://github.com/Ilya114/Box64Droid
+2023-09-21,shell,3138,2,"WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",Nyr,wireguard-install,https://github.com/Nyr/wireguard-install
+2023-09-21,shell,3463,1,"The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!",pry0cc,axiom,https://github.com/pry0cc/axiom
+2023-09-21,shell,162495,45,"🙃 A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2023-09-21,shell,2636,1,pre-commit git hooks to take care of Terraform configurations 🇺🇦,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform

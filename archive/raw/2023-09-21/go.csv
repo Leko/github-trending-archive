@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-21,go,3317,171,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-09-21,go,18694,205,"A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2023-09-21,go,530,89,Application lifecycle orchestration,akuity,kargo,https://github.com/akuity/kargo
+2023-09-21,go,3970,15,Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron,go-co-op,gocron,https://github.com/go-co-op/gocron
+2023-09-21,go,13443,3,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2023-09-21,go,8379,12,Simple HTTP and REST client library for Go,go-resty,resty,https://github.com/go-resty/resty
+2023-09-21,go,17265,187,Terminal JSON viewer & processor,antonmedv,fx,https://github.com/antonmedv/fx
+2023-09-21,go,3077,2,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2023-09-21,go,4121,11,Optimized Go Compression Packages,klauspost,compress,https://github.com/klauspost/compress
+2023-09-21,go,9314,14,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2023-09-21,go,14094,27,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",lionsoul2014,ip2region,https://github.com/lionsoul2014/ip2region
+2023-09-21,go,38419,28,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2023-09-21,go,14112,8,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-09-21,go,8286,5,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2023-09-21,go,13574,11,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2023-09-21,go,851,57,Apple Store iPhone预约助手,hteen,apple-store-helper,https://github.com/hteen/apple-store-helper
+2023-09-21,go,3778,12,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",flyteorg,flyte,https://github.com/flyteorg/flyte
+2023-09-21,go,7523,7,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2023-09-21,go,49927,16,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-09-21,go,21561,5,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-09-21,go,43358,30,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2023-09-21,go,213,18,"A zero-dependency, high-performance, concurrent mysqldump tool implemented in golang. golang 中实现的零依赖、支持所有类型、 高性能、并发 mysqldump 工具。",jarvanstack,mysqldump,https://github.com/jarvanstack/mysqldump
+2023-09-21,go,16782,3,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2023-09-21,go,14010,18,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-09-21,go,18867,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
