@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-24,shell,11019,3,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2023-09-24,shell,1223,6,"Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",ophub,amlogic-s9xxx-openwrt,https://github.com/ophub/amlogic-s9xxx-openwrt
+2023-09-24,shell,1860,2,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2023-09-24,shell,33172,13,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2023-09-24,shell,15734,3,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2023-09-24,shell,1579,16,基于Ruby编写的命令行注入版本,QiuChenlyOpenSource,InjectLib,https://github.com/QiuChenlyOpenSource/InjectLib
+2023-09-24,shell,1092,4,"GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).",m3n0sd0n4ld,GooFuzz,https://github.com/m3n0sd0n4ld/GooFuzz
+2023-09-24,shell,7685,11,Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android),LSPosed,MagiskOnWSALocal,https://github.com/LSPosed/MagiskOnWSALocal
+2023-09-24,shell,5396,1,Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd,v2fly,fhs-install-v2ray,https://github.com/v2fly/fhs-install-v2ray
+2023-09-24,shell,7193,4,A collection of android security related resources,ashishb,android-security-awesome,https://github.com/ashishb/android-security-awesome
+2023-09-24,shell,1044,1,"Add your HDD, SSD and NVMe drives to your Synology's compatible drive database",007revad,Synology_HDD_db,https://github.com/007revad/Synology_HDD_db
+2023-09-24,shell,820,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2023-09-24,shell,1529,8,A Library for Advanced Deep Time Series Models.,thuml,Time-Series-Library,https://github.com/thuml/Time-Series-Library
+2023-09-24,shell,3735,4,"Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",Jeevan-kumar-Raj,Grokking-System-Design,https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+2023-09-24,shell,5857,5,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2023-09-24,shell,8545,0,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.,docker,docker-bench-security,https://github.com/docker/docker-bench-security
+2023-09-24,shell,57,0,#KeepEvolving,Evolution-X-Devices,official_devices,https://github.com/Evolution-X-Devices/official_devices
+2023-09-24,shell,6955,3,Docker images for Selenium Grid,SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2023-09-24,shell,38,6,,Raha-Project,Raha,https://github.com/Raha-Project/Raha
+2023-09-24,shell,4024,0,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2023-09-24,shell,12202,4,🖥 📊 🕹 🛠 A curated list of command line apps,agarrharr,awesome-cli-apps,https://github.com/agarrharr/awesome-cli-apps
+2023-09-24,shell,1790,4,An awesome & curated list of best LLMOps tools for developers,tensorchord,Awesome-LLMOps,https://github.com/tensorchord/Awesome-LLMOps
+2023-09-24,shell,1507,1,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2023-09-24,shell,2423,2,Noto CJK fonts,notofonts,noto-cjk,https://github.com/notofonts/noto-cjk
+2023-09-24,shell,1092,2,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
