@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-26,lua,4581,16,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2023-09-26,lua,4362,8,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2023-09-26,lua,7328,14,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-09-26,lua,7563,19,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-09-26,lua,8118,7,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-09-26,lua,15948,11,🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-09-26,lua,1917,3,vim-be-good is a nvim plugin designed to make you better at Vim Movements.,ThePrimeagen,vim-be-good,https://github.com/ThePrimeagen/vim-be-good
+2023-09-26,lua,19411,16,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-09-26,lua,1285,0,"A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.",ray-x,go.nvim,https://github.com/ray-x/go.nvim
+2023-09-26,lua,1321,2,Soho vibes for Neovim,rose-pine,neovim,https://github.com/rose-pine/neovim
+2023-09-26,lua,2531,6,magit for neovim,NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2023-09-26,lua,2782,6,Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2023-09-26,lua,2676,2,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2023-09-26,lua,10457,9,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-09-26,lua,353,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2023-09-26,lua,2296,4,A well configured and structured Neovim.,ayamir,nvimdots,https://github.com/ayamir/nvimdots
+2023-09-26,lua,5079,5,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-09-26,lua,11316,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-09-26,lua,7071,6,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2023-09-26,lua,1443,3,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2023-09-26,lua,2355,3,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2023-09-26,lua,32,0,A launch point for your nvim configuration for Python,chrisgrieser,nvim-kickstart-python,https://github.com/chrisgrieser/nvim-kickstart-python
+2023-09-26,lua,1224,6,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2023-09-26,lua,5793,0,awesome window manager,awesomeWM,awesome,https://github.com/awesomeWM/awesome
+2023-09-26,lua,5878,7,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
