@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-27,lua,2210,5,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-09-27,lua,13572,12,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-09-27,lua,4594,12,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2023-09-27,lua,201,0,Modules to utilise in other resources via imports and exports.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2023-09-27,lua,2666,7,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2023-09-27,lua,2533,3,magit for neovim,NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2023-09-27,lua,7885,10,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-09-27,lua,1367,3,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-09-27,lua,2830,2,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2023-09-27,lua,224,2,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2023-09-27,lua,2042,4,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-09-27,lua,3408,5,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2023-09-27,lua,7590,24,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-09-27,lua,8127,8,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-09-27,lua,7778,7,🔥 A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2023-09-27,lua,35950,5,🦍 The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-09-27,lua,4146,6,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-09-27,lua,924,0,🌅 Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.,folke,twilight.nvim,https://github.com/folke/twilight.nvim
+2023-09-27,lua,1735,5,Show code context,nvim-treesitter,nvim-treesitter-context,https://github.com/nvim-treesitter/nvim-treesitter-context
+2023-09-27,lua,193,1,This plugins prompts the user to pick a window and returns the window id of the picked window,s1n7ax,nvim-window-picker,https://github.com/s1n7ax/nvim-window-picker
+2023-09-27,lua,734,0,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2023-09-27,lua,142,0,Feedbacks & suggestion are very appreciated on ETHOS of FrSky,FrSkyRC,ETHOS-Feedback-Community,https://github.com/FrSkyRC/ETHOS-Feedback-Community
+2023-09-27,lua,1226,6,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2023-09-27,lua,1033,4,"Neovim plugin for Obsidian, written in Lua",epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2023-09-27,lua,525,1,"IDE-like breadcrumbs, out of the box",Bekaboo,dropbar.nvim,https://github.com/Bekaboo/dropbar.nvim
