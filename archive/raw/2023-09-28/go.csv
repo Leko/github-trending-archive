@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-09-28,go,17808,36,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2023-09-28,go,11286,135,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-09-28,go,24101,9,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-09-28,go,13686,7,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-09-28,go,3351,6,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2023-09-28,go,19777,11,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-09-28,go,7510,146,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-09-28,go,108962,70,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-09-28,go,3576,2,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2023-09-28,go,50026,21,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-09-28,go,12113,2,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-09-28,go,24548,20,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-09-28,go,22342,11,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2023-09-28,go,12131,35,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2023-09-28,go,27278,12,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2023-09-28,go,19161,19,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-09-28,go,28443,6,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-09-28,go,14166,5,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-09-28,go,13623,44,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2023-09-28,go,26934,8,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-09-28,go,9890,6,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2023-09-28,go,12953,8,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2023-09-28,go,18051,8,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-09-28,go,44562,14,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-09-28,go,14241,8,D2 is a modern diagram scripting language that turns text to diagrams.,terrastruct,d2,https://github.com/terrastruct/d2
