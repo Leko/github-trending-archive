@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-01,lua,3145,8,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2023-10-01,lua,7908,7,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-10-01,lua,1478,4,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-10-01,lua,7824,39,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-10-01,lua,7411,18,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-10-01,lua,8141,3,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-10-01,lua,2335,0,"A fancy, configurable, notification manager for NeoVim",rcarriga,nvim-notify,https://github.com/rcarriga/nvim-notify
+2023-10-01,lua,482,43,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2023-10-01,lua,906,3,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2023-10-01,lua,3244,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2023-10-01,lua,1381,4,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-10-01,lua,44,0,A compilation of small resources combined into one,qbcore-framework,qb-smallresources,https://github.com/qbcore-framework/qb-smallresources
+2023-10-01,lua,1278,5,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2023-10-01,lua,1290,1,"A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.",ray-x,go.nvim,https://github.com/ray-x/go.nvim
+2023-10-01,lua,476,0,FiveM RP Framework Core 💪,qbcore-framework,qb-core,https://github.com/qbcore-framework/qb-core
+2023-10-01,lua,3423,8,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2023-10-01,lua,5899,3,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-10-01,lua,35974,3,🦍 The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-10-01,lua,2615,8,"CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.",leandromoreira,cdn-up-and-running,https://github.com/leandromoreira/cdn-up-and-running
+2023-10-01,lua,471,2,A Sing-Box/Xray core for Openwrt LuCI Application.,xiaorouji,openwrt-passwall2,https://github.com/xiaorouji/openwrt-passwall2
+2023-10-01,lua,3401,6,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2023-10-01,lua,86,0,A better interaction system for FiveM,qbcore-framework,qb-target,https://github.com/qbcore-framework/qb-target
+2023-10-01,lua,2319,3,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2023-10-01,lua,2685,0,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2023-10-01,lua,1933,6,vim-be-good is a nvim plugin designed to make you better at Vim Movements.,ThePrimeagen,vim-be-good,https://github.com/ThePrimeagen/vim-be-good

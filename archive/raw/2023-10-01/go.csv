@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-01,go,20228,21,Learn Go with test-driven development,quii,learn-go-with-tests,https://github.com/quii/learn-go-with-tests
+2023-10-01,go,2584,4,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2023-10-01,go,1044,65,The Kubefirst Open Source Platform,kubefirst,kubefirst,https://github.com/kubefirst/kubefirst
+2023-10-01,go,5001,61,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-10-01,go,19231,20,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-10-01,go,16080,5,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-10-01,go,711,18,A language for writing HTML user interfaces in Go.,a-h,templ,https://github.com/a-h/templ
+2023-10-01,go,10747,4,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2023-10-01,go,13245,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-10-01,go,8879,1,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-10-01,go,8918,5,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2023-10-01,go,5163,1,The official Go client for Elasticsearch,elastic,go-elasticsearch,https://github.com/elastic/go-elasticsearch
+2023-10-01,go,24979,9,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2023-10-01,go,13872,10,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2023-10-01,go,5114,6,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-10-01,go,4150,4,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-10-01,go,13717,15,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2023-10-01,go,9428,4,⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing,Shopify,toxiproxy,https://github.com/Shopify/toxiproxy
+2023-10-01,go,3727,82,An open source visual route tracking CLI tool,nxtrace,NTrace-core,https://github.com/nxtrace/NTrace-core
+2023-10-01,go,6861,8,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-10-01,go,5515,3,Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes,googleforgames,agones,https://github.com/googleforgames/agones
+2023-10-01,go,4528,6,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2023-10-01,go,4437,6,A dependency injection based application framework for Go.,uber-go,fx,https://github.com/uber-go/fx
+2023-10-01,go,39116,15,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-10-01,go,4059,3,RocksDB/LevelDB inspired key-value database in Go,cockroachdb,pebble,https://github.com/cockroachdb/pebble
