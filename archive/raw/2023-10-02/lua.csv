@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-02,lua,535,44,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2023-10-02,lua,7913,14,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-10-02,lua,7860,40,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-10-02,lua,3152,9,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2023-10-02,lua,7429,27,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-10-02,lua,8143,5,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-10-02,lua,3427,7,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2023-10-02,lua,1478,1,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-10-02,lua,5385,7,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-10-02,lua,1225,2,Neovim plugin to improve the default vim.ui interfaces,stevearc,dressing.nvim,https://github.com/stevearc/dressing.nvim
+2023-10-02,lua,4153,7,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-10-02,lua,19516,26,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-10-02,lua,2368,4,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2023-10-02,lua,435,3,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-10-02,lua,11378,15,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-10-02,lua,1233,3,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2023-10-02,lua,1395,11,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-10-02,lua,1926,2,Widgets for Awesome Window Manager,streetturtle,awesome-wm-widgets,https://github.com/streetturtle/awesome-wm-widgets
+2023-10-02,lua,1461,1,"💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2023-10-02,lua,1292,1,"A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.",ray-x,go.nvim,https://github.com/ray-x/go.nvim
+2023-10-02,lua,1273,0,Set of preconfigured snippets for different languages.,rafamadriz,friendly-snippets,https://github.com/rafamadriz/friendly-snippets
+2023-10-02,lua,2852,2,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
+2023-10-02,lua,2767,1,"🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",numToStr,Comment.nvim,https://github.com/numToStr/Comment.nvim
+2023-10-02,lua,5795,2,awesome window manager,awesomeWM,awesome,https://github.com/awesomeWM/awesome
+2023-10-02,lua,3228,1,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
