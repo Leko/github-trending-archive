@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-04,lua,637,39,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2023-10-04,lua,7985,16,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-10-04,lua,322,40,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2023-10-04,lua,946,20,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2023-10-04,lua,1484,0,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-10-04,lua,3167,6,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2023-10-04,lua,7460,16,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-10-04,lua,1301,4,"Navigate your code with search labels, enhanced character motions and Treesitter integration",folke,flash.nvim,https://github.com/folke/flash.nvim
+2023-10-04,lua,1290,3,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2023-10-04,lua,2854,3,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
+2023-10-04,lua,2648,5,"CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.",leandromoreira,cdn-up-and-running,https://github.com/leandromoreira/cdn-up-and-running
+2023-10-04,lua,26659,2,Image Super-Resolution for Anime-Style Art,nagadomi,waifu2x,https://github.com/nagadomi/waifu2x
+2023-10-04,lua,8153,6,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-10-04,lua,1230,2,Neovim plugin to improve the default vim.ui interfaces,stevearc,dressing.nvim,https://github.com/stevearc/dressing.nvim
+2023-10-04,lua,3595,1,"Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",jose-elias-alvarez,null-ls.nvim,https://github.com/jose-elias-alvarez/null-ls.nvim
+2023-10-04,lua,3861,2,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-10-04,lua,3660,4,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2023-10-04,lua,5397,8,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-10-04,lua,1091,2,,mhartington,formatter.nvim,https://github.com/mhartington/formatter.nvim
+2023-10-04,lua,2796,6,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-10-04,lua,2605,4,ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API,jackMort,ChatGPT.nvim,https://github.com/jackMort/ChatGPT.nvim
+2023-10-04,lua,2372,1,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2023-10-04,lua,3418,9,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2023-10-04,lua,2372,5,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2023-10-04,lua,2330,3,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
