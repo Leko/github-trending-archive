@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-05,go,8297,178,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-10-05,go,6707,1,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-10-05,go,7100,5,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2023-10-05,go,114822,23,The Go programming language,golang,go,https://github.com/golang/go
+2023-10-05,go,33406,19,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2023-10-05,go,10032,2,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2023-10-05,go,7497,6,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2023-10-05,go,13503,5,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2023-10-05,go,4804,2,"Golang client for NATS, the cloud native messaging system.",nats-io,nats.go,https://github.com/nats-io/nats.go
+2023-10-05,go,20712,15,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-10-05,go,8422,1,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2023-10-05,go,5639,5,"A developer-friendly API for converting numerous document formats into PDF files, and more!",gotenberg,gotenberg,https://github.com/gotenberg/gotenberg
+2023-10-05,go,43809,54,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2023-10-05,go,50111,20,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-10-05,go,8880,1,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-10-05,go,6878,7,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-10-05,go,33742,8,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2023-10-05,go,14942,13,A process for automating Docker container base image updates.,containrrr,watchtower,https://github.com/containrrr/watchtower
+2023-10-05,go,54577,25,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-10-05,go,2407,12,THE NEXT FUTURE,XTLS,REALITY,https://github.com/XTLS/REALITY
+2023-10-05,go,8314,1,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2023-10-05,go,4432,3,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",fluxcd,flagger,https://github.com/fluxcd/flagger
+2023-10-05,go,5187,28,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-10-05,go,14341,11,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2023-10-05,go,1043,126,A language for writing HTML user interfaces in Go.,a-h,templ,https://github.com/a-h/templ
