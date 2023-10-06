@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-06,go,283,17,"A complete SQL dataset of Vietnamese administrative units, includes Vietnamese provinces, districts and wards",ThangLeQuoc,vietnamese-provinces-database,https://github.com/ThangLeQuoc/vietnamese-provinces-database
+2023-10-06,go,14241,9,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-10-06,go,11931,37,☁️ Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2023-10-06,go,4431,5,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2023-10-06,go,10391,4,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2023-10-06,go,38594,17,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2023-10-06,go,20716,10,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-10-06,go,13410,19,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-10-06,go,212,32,Kubernetes Attack Graph,DataDog,KubeHound,https://github.com/DataDog/KubeHound
+2023-10-06,go,2229,10,Easily check your clusters for use of deprecated APIs,doitintl,kube-no-trouble,https://github.com/doitintl/kube-no-trouble
+2023-10-06,go,7107,10,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2023-10-06,go,13017,5,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-10-06,go,4589,26,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2023-10-06,go,2967,1,OCI Image Format,opencontainers,image-spec,https://github.com/opencontainers/image-spec
+2023-10-06,go,9438,5,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2023-10-06,go,54590,16,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-10-06,go,5753,10,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2023-10-06,go,14849,1,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2023-10-06,go,3034,19,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2023-10-06,go,44835,15,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2023-10-06,go,5194,22,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-10-06,go,13461,12,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2023-10-06,go,43833,32,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2023-10-06,go,3583,0,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2023-10-06,go,47267,39,A rule-based tunnel in Go.,Dreamacro,clash,https://github.com/Dreamacro/clash
