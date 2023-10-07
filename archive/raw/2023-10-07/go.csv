@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-07,go,7364,16,A new way of working with Protocol Buffers.,bufbuild,buf,https://github.com/bufbuild/buf
+2023-10-07,go,3061,8,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2023-10-07,go,16461,67,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2023-10-07,go,12349,10,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-10-07,go,33586,14,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-10-07,go,4089,18,Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store,majd,ipatool,https://github.com/majd/ipatool
+2023-10-07,go,1112,19,"Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",edoardottt,cariddi,https://github.com/edoardottt/cariddi
+2023-10-07,go,38967,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-10-07,go,4139,29,"Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",hktalent,scan4all,https://github.com/hktalent/scan4all
+2023-10-07,go,4592,4,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2023-10-07,go,5016,5,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-10-07,go,7582,10,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2023-10-07,go,5079,10,A mock code autogenerator for Go,vektra,mockery,https://github.com/vektra/mockery
+2023-10-07,go,5765,16,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2023-10-07,go,10393,3,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2023-10-07,go,5593,3,Staticcheck - The advanced Go linter,dominikh,go-tools,https://github.com/dominikh/go-tools
+2023-10-07,go,13472,17,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2023-10-07,go,14249,13,Declarative continuous deployment for Kubernetes.,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-10-07,go,18854,23,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-10-07,go,9488,6,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2023-10-07,go,16601,10,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-10-07,go,5339,7,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2023-10-07,go,8882,1,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-10-07,go,4626,0,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,google,uuid,https://github.com/google/uuid
+2023-10-07,go,7110,1,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
