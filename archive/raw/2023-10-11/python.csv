@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-11,python,8749,982,Dev tool that writes scalable apps from scratch while the developer oversees the implementation,Pythagora-io,gpt-pilot,https://github.com/Pythagora-io/gpt-pilot
+2023-10-11,python,3581,190,"Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",microsoft,promptflow,https://github.com/microsoft/promptflow
+2023-10-11,python,140841,49,Python - 100天从新手到大师,jackfrued,Python-100-Days,https://github.com/jackfrued/Python-100-Days
+2023-10-11,python,11498,468,"GPT-powered chat for documentation, chat with your documents",arc53,DocsGPT,https://github.com/arc53/DocsGPT
+2023-10-11,python,7403,1060,Visual Instruction Tuning: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.,haotian-liu,LLaVA,https://github.com/haotian-liu/LLaVA
+2023-10-11,python,428,26,,MetaGLM,FinGLM,https://github.com/MetaGLM/FinGLM
+2023-10-11,python,42954,84,"为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。",binary-husky,gpt_academic,https://github.com/binary-husky/gpt_academic
+2023-10-11,python,16701,127,"Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",chatchat-space,Langchain-Chatchat,https://github.com/chatchat-space/Langchain-Chatchat
+2023-10-11,python,105175,261,Stable Diffusion web UI,AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2023-10-11,python,34719,34,"ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型",THUDM,ChatGLM-6B,https://github.com/THUDM/ChatGLM-6B
+2023-10-11,python,45930,121,"The official gpt4free repository | various collection of powerful language models",xtekky,gpt4free,https://github.com/xtekky/gpt4free
+2023-10-11,python,3167,78,"潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely.",zhile-io,pandora,https://github.com/zhile-io/pandora
+2023-10-11,python,1626,110,Code and documents of LongLoRA and LongAlpaca,dvlab-research,LongLoRA,https://github.com/dvlab-research/LongLoRA
+2023-10-11,python,11180,13,"Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).",wkentaro,labelme,https://github.com/wkentaro/labelme
+2023-10-11,python,438,52,Langchain + Docker + Neo4j,docker,genai-stack,https://github.com/docker/genai-stack
+2023-10-11,python,12715,61,The official Python library for the OpenAI API,openai,openai-python,https://github.com/openai/openai-python
+2023-10-11,python,5389,33,The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.,QwenLM,Qwen,https://github.com/QwenLM/Qwen
+2023-10-11,python,2395,25,A series of large language models developed by Baichuan Intelligent Technology,baichuan-inc,Baichuan2,https://github.com/baichuan-inc/Baichuan2
+2023-10-11,python,28777,21,"DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",microsoft,DeepSpeed,https://github.com/microsoft/DeepSpeed
+2023-10-11,python,64245,103,⚡ Building applications with LLMs through composability ⚡,langchain-ai,langchain,https://github.com/langchain-ai/langchain
+2023-10-11,python,7812,78,Next generation face swapper and enhancer,facefusion,facefusion,https://github.com/facefusion/facefusion
+2023-10-11,python,326,160,ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools.,microsoft,ToRA,https://github.com/microsoft/ToRA
+2023-10-11,python,4960,6,Example models using DeepSpeed,microsoft,DeepSpeedExamples,https://github.com/microsoft/DeepSpeedExamples
+2023-10-11,python,3159,125,"Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",Lightning-AI,lit-gpt,https://github.com/Lightning-AI/lit-gpt
+2023-10-11,python,279,42,Finetune llama2-70b and codellama on MacBook Air without quantization,okuvshynov,slowllama,https://github.com/okuvshynov/slowllama
