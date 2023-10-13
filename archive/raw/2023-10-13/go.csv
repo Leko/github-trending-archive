@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-13,go,25893,94,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2023-10-13,go,7925,53,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-10-13,go,27124,103,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-10-13,go,15726,62,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-10-13,go,11836,6,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2023-10-13,go,7414,34,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2023-10-13,go,7086,43,"World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.",bytebase,bytebase,https://github.com/bytebase/bytebase
+2023-10-13,go,12397,8,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-10-13,go,11978,8,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2023-10-13,go,347,23,微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具,wux1an,wxapkg,https://github.com/wux1an/wxapkg
+2023-10-13,go,11498,16,Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. https://sealos.io,labring,sealos,https://github.com/labring/sealos
+2023-10-13,go,9697,10,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2023-10-13,go,7141,2,Lightning Network Daemon ⚡️,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2023-10-13,go,102264,49,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-10-13,go,2206,3,"Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.",apache,incubator-devlake,https://github.com/apache/incubator-devlake
+2023-10-13,go,7520,4,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2023-10-13,go,30633,6,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-10-13,go,43039,10,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2023-10-13,go,7127,2,Golang security checker,securego,gosec,https://github.com/securego/gosec
+2023-10-13,go,4499,13,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2023-10-13,go,6643,6,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2023-10-13,go,16137,14,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-10-13,go,15573,6,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2023-10-13,go,4208,9,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-10-13,go,10420,7,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
