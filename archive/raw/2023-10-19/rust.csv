@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-19,rust,15421,22,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2023-10-19,rust,931,160,A blazing fast inference solution for text embeddings models,huggingface,text-embeddings-inference,https://github.com/huggingface/text-embeddings-inference
+2023-10-19,rust,18330,54,"An extremely fast Python linter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2023-10-19,rust,12581,61,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2023-10-19,rust,23211,16,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2023-10-19,rust,4073,65,Burn - A Flexible and Comprehensive Deep Learning Framework in Rust,burn-rs,burn,https://github.com/burn-rs/burn
+2023-10-19,rust,872,10,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2023-10-19,rust,2950,2,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
+2023-10-19,rust,4649,11,sccache is ccache with cloud storage,mozilla,sccache,https://github.com/mozilla/sccache
+2023-10-19,rust,14629,4,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-10-19,rust,5255,4,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-10-19,rust,15729,5,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2023-10-19,rust,1565,4,Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.,Yamato-Security,hayabusa,https://github.com/Yamato-Security/hayabusa
+2023-10-19,rust,9261,63,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2023-10-19,rust,5334,2,The data warehouse for operational workloads.,MaterializeInc,materialize,https://github.com/MaterializeInc/materialize
+2023-10-19,rust,26522,12,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2023-10-19,rust,1856,5,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2023-10-19,rust,932,9,zkSync era,matter-labs,zksync-era,https://github.com/matter-labs/zksync-era
+2023-10-19,rust,326,82,Monitor your system resources and processes,nokyan,resources,https://github.com/nokyan/resources
+2023-10-19,rust,2198,10,Rust Weaponization for Red Team Engagements.,trickster0,OffensiveRust,https://github.com/trickster0/OffensiveRust
+2023-10-19,rust,22956,21,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2023-10-19,rust,5469,6,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-10-19,rust,5029,23,A tiling window manager for Windows 🇵🇸,LGUG2Z,komorebi,https://github.com/LGUG2Z/komorebi
+2023-10-19,rust,11775,18,"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",analysis-tools-dev,static-analysis,https://github.com/analysis-tools-dev/static-analysis
+2023-10-19,rust,9954,14,"Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.",slint-ui,slint,https://github.com/slint-ui/slint

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-19,go,56,15,,devfullcycle,imersao15,https://github.com/devfullcycle/imersao15
+2023-10-19,go,12293,26,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2023-10-19,go,2853,30,微信聊天记录持久化备份本地硬盘，释放手机存储空间。,greycodee,wechat-backup,https://github.com/greycodee/wechat-backup
+2023-10-19,go,15732,37,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-10-19,go,2075,0,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2023-10-19,go,5037,4,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2023-10-19,go,21053,15,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2023-10-19,go,2154,1,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2023-10-19,go,10434,2,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2023-10-19,go,72070,18,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-10-19,go,39055,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-10-19,go,8907,0,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-10-19,go,709,7,"Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics",sustainable-computing-io,kepler,https://github.com/sustainable-computing-io/kepler
+2023-10-19,go,7943,10,Modern UI for Ansible,ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore
+2023-10-19,go,5515,5,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2023-10-19,go,9300,5,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2023-10-19,go,13726,2,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-10-19,go,6953,10,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-10-19,go,20342,12,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-10-19,go,3345,4,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2023-10-19,go,5256,4,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-10-19,go,14647,4,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2023-10-19,go,12211,28,☁️ Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2023-10-19,go,25530,5,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2023-10-19,go,13976,8,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
