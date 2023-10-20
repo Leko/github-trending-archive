@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-20,lua,36086,16,🦍 The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-10-20,lua,231,3,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2023-10-20,lua,12750,7,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-10-20,lua,4759,9,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2023-10-20,lua,406,1,The official Sourcegraph/Cody plugin for Neovim,sourcegraph,sg.nvim,https://github.com/sourcegraph/sg.nvim
+2023-10-20,lua,3915,9,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-10-20,lua,96,0,GTA5 Mod Stand Lua All in One；含综合、任务、crash、模组、娱乐等多种standlua于一体的存储库,xhcherry,GTA5-Stand-LuaAIO,https://github.com/xhcherry/GTA5-Stand-LuaAIO
+2023-10-20,lua,5989,2,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-10-20,lua,2849,5,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-10-20,lua,11556,14,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-10-20,lua,2724,6,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2023-10-20,lua,4459,4,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2023-10-20,lua,3713,6,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2023-10-20,lua,1496,8,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-10-20,lua,2891,5,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
+2023-10-20,lua,2456,4,Orgmode clone written in Lua for Neovim 0.9+.,nvim-orgmode,orgmode,https://github.com/nvim-orgmode/orgmode
+2023-10-20,lua,1062,7,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2023-10-20,lua,9720,36,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-10-20,lua,84,7,Start/stop LSP servers upon demand; keeps RAM usage low,hinell,lsp-timeout.nvim,https://github.com/hinell/lsp-timeout.nvim
+2023-10-20,lua,44,2,🍫 Hyperextensible Statusline / Tabline / Winbar for Neovim 🚀,MunifTanjim,nougat.nvim,https://github.com/MunifTanjim/nougat.nvim
+2023-10-20,lua,1259,4,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2023-10-20,lua,145,0,Feedbacks & suggestion are very appreciated on ETHOS of FrSky,FrSkyRC,ETHOS-Feedback-Community,https://github.com/FrSkyRC/ETHOS-Feedback-Community
+2023-10-20,lua,1493,4,"💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2023-10-20,lua,742,1,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2023-10-20,lua,7740,17,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
