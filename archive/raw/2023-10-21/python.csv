@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-21,python,577,101,TensorRT Extension for Stable Diffusion Web UI,NVIDIA,Stable-Diffusion-WebUI-TensorRT,https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT
+2023-10-21,python,16080,19,A Django content management system focused on flexibility and user experience,wagtail,wagtail,https://github.com/wagtail/wagtail
+2023-10-21,python,3408,338,Teaching LLMs memory management for unbounded context 📚🦙,cpacker,MemGPT,https://github.com/cpacker/MemGPT
+2023-10-21,python,3895,44,"A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",Azure-Samples,azure-search-openai-demo,https://github.com/Azure-Samples/azure-search-openai-demo
+2023-10-21,python,701,73,OpenAgents: An Open Platform for Language Agents in the Wild,xlang-ai,OpenAgents,https://github.com/xlang-ai/OpenAgents
+2023-10-21,python,292,43,Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference,luosiallen,latent-consistency-model,https://github.com/luosiallen/latent-consistency-model
+2023-10-21,python,7169,12,End-to-End Speech Processing Toolkit,espnet,espnet,https://github.com/espnet/espnet
+2023-10-21,python,231846,72,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,donnemartin,system-design-primer,https://github.com/donnemartin/system-design-primer
+2023-10-21,python,1869,53,[SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild,OpenTalker,video-retalking,https://github.com/OpenTalker/video-retalking
+2023-10-21,python,2096,373,,danielgross,localpilot,https://github.com/danielgross/localpilot
+2023-10-21,python,27217,20,"PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",huggingface,pytorch-image-models,https://github.com/huggingface/pytorch-image-models
+2023-10-21,python,3971,20,Game Boy emulator written in Python,Baekalfen,PyBoy,https://github.com/Baekalfen/PyBoy
+2023-10-21,python,23140,52,Open-sourced codes for MiniGPT-4 and MiniGPT-v2,Vision-CAIR,MiniGPT-4,https://github.com/Vision-CAIR/MiniGPT-4
+2023-10-21,python,274,91,Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis,PixArt-alpha,PixArt-alpha,https://github.com/PixArt-alpha/PixArt-alpha
+2023-10-21,python,7617,25,PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis,Kanaries,pygwalker,https://github.com/Kanaries/pygwalker
+2023-10-21,python,28269,26,Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.,ray-project,ray,https://github.com/ray-project/ray
+2023-10-21,python,9491,24,OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。,hiroi-sora,Umi-OCR,https://github.com/hiroi-sora/Umi-OCR
+2023-10-21,python,1874,64,Sparsity-aware deep learning inference runtime for CPUs,neuralmagic,deepsparse,https://github.com/neuralmagic/deepsparse
+2023-10-21,python,4373,37,CodeGeeX2: A More Powerful Multilingual Code Generation Model,THUDM,CodeGeeX2,https://github.com/THUDM/CodeGeeX2
+2023-10-21,python,7679,9,dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.,dbt-labs,dbt-core,https://github.com/dbt-labs/dbt-core
+2023-10-21,python,6094,11,A Python utility / library to sort imports.,PyCQA,isort,https://github.com/PyCQA/isort
+2023-10-21,python,13301,10,Network Analysis in Python,networkx,networkx,https://github.com/networkx/networkx
+2023-10-21,python,1110,16,A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.,alibaba-damo-academy,FunASR,https://github.com/alibaba-damo-academy/FunASR
+2023-10-21,python,3924,4,"Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.",Qiskit,qiskit,https://github.com/Qiskit/qiskit
+2023-10-21,python,63689,37,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",tiangolo,fastapi,https://github.com/tiangolo/fastapi

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-21,go,111,35,,devfullcycle,imersao15,https://github.com/devfullcycle/imersao15
+2023-10-21,go,12174,8,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-10-21,go,7173,5,Lightning Network Daemon ⚡️,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2023-10-21,go,15612,13,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-10-21,go,12460,124,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2023-10-21,go,15002,8,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-10-21,go,19894,8,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-10-21,go,39080,16,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-10-21,go,19442,10,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-10-21,go,20912,9,A Go microservices framework,go-micro,go-micro,https://github.com/go-micro/go-micro
+2023-10-21,go,13733,4,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-10-21,go,4587,54,Open authentication and user management for the passkey era,teamhanko,hanko,https://github.com/teamhanko/hanko
+2023-10-21,go,6744,9,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2023-10-21,go,50318,21,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-10-21,go,10077,5,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2023-10-21,go,13296,2,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-10-21,go,14197,8,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-10-21,go,11905,5,Git extension for versioning large files,git-lfs,git-lfs,https://github.com/git-lfs/git-lfs
+2023-10-21,go,9458,12,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2023-10-21,go,4841,0,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-10-21,go,15007,24,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-10-21,go,5524,1,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2023-10-21,go,4971,4,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-10-21,go,21650,9,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-10-21,go,4489,4,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
