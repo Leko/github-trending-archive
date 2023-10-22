@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-22,go,499,61,"Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.",radius-project,radius,https://github.com/radius-project/radius
+2023-10-22,go,8933,2,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-10-22,go,12178,2,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-10-22,go,15017,24,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-10-22,go,12389,13,The most customisable and low-latency cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2023-10-22,go,19033,9,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-10-22,go,20793,7,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-10-22,go,4621,51,Open authentication and user management for the passkey era,teamhanko,hanko,https://github.com/teamhanko/hanko
+2023-10-22,go,22440,6,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2023-10-22,go,5415,18,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-10-22,go,6577,1,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2023-10-22,go,7227,4,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP, MFA and RADIUS",casdoor,casdoor,https://github.com/casdoor/casdoor
+2023-10-22,go,9760,10,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2023-10-22,go,4976,4,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-10-22,go,8493,0,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2023-10-22,go,11809,17,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-10-22,go,4626,2,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2023-10-22,go,21653,4,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-10-22,go,5819,4,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2023-10-22,go,9131,4,A programmable CI/CD engine that runs your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2023-10-22,go,2304,7,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2023-10-22,go,14260,22,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2023-10-22,go,2218,0,"Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.",apache,incubator-devlake,https://github.com/apache/incubator-devlake
+2023-10-22,go,33801,13,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-10-22,go,16758,2,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium

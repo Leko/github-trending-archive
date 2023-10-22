@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-22,lua,36114,7,🦍 The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-10-22,lua,2297,1,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-10-22,lua,11575,9,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-10-22,lua,4466,7,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2023-10-22,lua,2127,4,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-10-22,lua,4945,5,📚 A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2023-10-22,lua,12763,5,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-10-22,lua,2660,2,ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API,jackMort,ChatGPT.nvim,https://github.com/jackMort/ChatGPT.nvim
+2023-10-22,lua,1123,5,🧘 Distraction-free coding for Neovim,folke,zen-mode.nvim,https://github.com/folke/zen-mode.nvim
+2023-10-22,lua,3249,2,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2023-10-22,lua,2369,3,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2023-10-22,lua,7770,15,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-10-22,lua,1506,1,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-10-22,lua,8253,6,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-10-22,lua,2866,6,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2023-10-22,lua,2905,4,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2023-10-22,lua,122,0,"LSP formatting, but only on modified text regions.",joechrisellis,lsp-format-modifications.nvim,https://github.com/joechrisellis/lsp-format-modifications.nvim
+2023-10-22,lua,1567,3,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest
+2023-10-22,lua,304,1,,jay-babu,mason-nvim-dap.nvim,https://github.com/jay-babu/mason-nvim-dap.nvim
+2023-10-22,lua,26,3,Neovim plugin for interacting with Rust-Analyzer's LSP extensions,vxpm,ferris.nvim,https://github.com/vxpm/ferris.nvim
+2023-10-22,lua,423,1,💼 Neovim plugin to manage global and project-local settings,folke,neoconf.nvim,https://github.com/folke/neoconf.nvim
+2023-10-22,lua,742,0,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2023-10-22,lua,2633,1,A language server that offers Lua language support - programmed in Lua,LuaLS,lua-language-server,https://github.com/LuaLS/lua-language-server
+2023-10-22,lua,598,0,A neovim plugin that helps managing crates.io dependencies,Saecki,crates.nvim,https://github.com/Saecki/crates.nvim
+2023-10-22,lua,1069,5,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
