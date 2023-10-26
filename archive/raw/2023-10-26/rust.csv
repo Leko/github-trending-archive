@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-26,rust,3746,47,"💥 Blazing fast terminal file manager written in Rust, based on async I/O.",sxyazi,yazi,https://github.com/sxyazi/yazi
+2023-10-26,rust,157,13,A high-performance no-code GraphQL backend,tailcallhq,tailcall,https://github.com/tailcallhq/tailcall
+2023-10-26,rust,18849,211,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2023-10-26,rust,2290,1,👁‍🗨 Rare and exotic sats,ordinals,ord,https://github.com/ordinals/ord
+2023-10-26,rust,28540,27,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2023-10-26,rust,13476,8,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2023-10-26,rust,351,3,Valthrun an open source external CS2 read only kernel gameplay enhancer.,Valthrun,Valthrun,https://github.com/Valthrun/Valthrun
+2023-10-26,rust,3084,14,Multiplayer at the speed of light,clockworklabs,SpacetimeDB,https://github.com/clockworklabs/SpacetimeDB
+2023-10-26,rust,15681,43,a structural diff that understands syntax 🟥🟩,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2023-10-26,rust,3953,41,Rust library that's all about cooking up terminal user interfaces (TUIs),ratatui-org,ratatui,https://github.com/ratatui-org/ratatui
+2023-10-26,rust,2973,7,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
+2023-10-26,rust,19736,8,A modern editor with a backend written in Rust.,xi-editor,xi-editor,https://github.com/xi-editor/xi-editor
+2023-10-26,rust,5264,3,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-10-26,rust,3433,6,A pure Rust implementation of WebRTC,webrtc-rs,webrtc,https://github.com/webrtc-rs/webrtc
+2023-10-26,rust,6736,8,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-10-26,rust,13288,14,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2023-10-26,rust,20849,13,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-10-26,rust,2526,6,"Type-safe, compiled Jinja-like templates for Rust",djc,askama,https://github.com/djc/askama
+2023-10-26,rust,6577,8,Alternative to Snowflake. Cost-effective and simple for massive-scale insights. DatabendCloud: https://databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-10-26,rust,21106,29,"Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends",pola-rs,polars,https://github.com/pola-rs/polars
+2023-10-26,rust,166,0,该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。,0xlane,wechat-dump-rs,https://github.com/0xlane/wechat-dump-rs
+2023-10-26,rust,11009,5,Sampling profiler for Python programs,benfred,py-spy,https://github.com/benfred/py-spy
+2023-10-26,rust,5059,8,The Decentralized and Scaled Blockchain,massalabs,massa,https://github.com/massalabs/massa
+2023-10-26,rust,3000,25,"A toolchain for web projects, aimed to provide functionalities to maintain them.",biomejs,biome,https://github.com/biomejs/biome
+2023-10-26,rust,18830,13,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",actix,actix-web,https://github.com/actix/actix-web
