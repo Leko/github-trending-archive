@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-27,go,55147,23,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-10-27,go,8335,220,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.",apache,incubator-answer,https://github.com/apache/incubator-answer
+2023-10-27,go,8625,12,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2023-10-27,go,28620,16,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-10-27,go,27215,5,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-10-27,go,6765,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-10-27,go,7287,10,"World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.",bytebase,bytebase,https://github.com/bytebase/bytebase
+2023-10-27,go,3842,14,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-10-27,go,24333,5,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-10-27,go,25109,9,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2023-10-27,go,21472,11,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2023-10-27,go,5025,4,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2023-10-27,go,33902,14,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-10-27,go,8371,7,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-10-27,go,39126,8,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-10-27,go,4307,5,The Docker CLI,docker,cli,https://github.com/docker/cli
+2023-10-27,go,5424,6,Arbitrary-precision fixed-point decimal numbers in go,shopspring,decimal,https://github.com/shopspring/decimal
+2023-10-27,go,2658,2,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2023-10-27,go,66856,8,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-10-27,go,19505,15,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-10-27,go,14467,14,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-10-27,go,1206,1,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,kubernetes-sigs,gateway-api,https://github.com/kubernetes-sigs/gateway-api
+2023-10-27,go,20024,2,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-10-27,go,7690,9,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2023-10-27,go,2277,2,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,WireGuard,wireguard-go,https://github.com/WireGuard/wireguard-go

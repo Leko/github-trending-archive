@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-27,rust,25470,60,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2023-10-27,rust,199,23,A multiprotocol credentials bruteforcer / password sprayer and enumerator.,evilsocket,legba,https://github.com/evilsocket/legba
+2023-10-27,rust,18966,146,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2023-10-27,rust,4289,40,Burn - A Flexible and Comprehensive Deep Learning Framework in Rust,burn-rs,burn,https://github.com/burn-rs/burn
+2023-10-27,rust,5772,13,A fast Rust-based web bundler 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2023-10-27,rust,17763,20,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2023-10-27,rust,10998,8,🤖 The Modern Port Scanner 🤖,RustScan,RustScan,https://github.com/RustScan/RustScan
+2023-10-27,rust,4070,8,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2023-10-27,rust,3538,26,GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.,ImageOptim,gifski,https://github.com/ImageOptim/gifski
+2023-10-27,rust,6743,9,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-10-27,rust,3026,2,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2023-10-27,rust,1370,3,OpenTelemetry API and SDK for Rust,open-telemetry,opentelemetry-rust,https://github.com/open-telemetry/opentelemetry-rust
+2023-10-27,rust,15763,6,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2023-10-27,rust,346,3,,TeamFlos,phira,https://github.com/TeamFlos/phira
+2023-10-27,rust,6974,13,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2023-10-27,rust,9111,12,"Cross-platform, safe, pure-rust graphics api.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-10-27,rust,4355,7,"The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.",postgresml,postgresml,https://github.com/postgresml/postgresml
+2023-10-27,rust,495,19,Reverse engineered ChatGPT proxy,gngpp,ninja,https://github.com/gngpp/ninja
+2023-10-27,rust,11025,16,Sampling profiler for Python programs,benfred,py-spy,https://github.com/benfred/py-spy
+2023-10-27,rust,14668,3,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2023-10-27,rust,13681,22,"🚀 Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
+2023-10-27,rust,2530,11,"Type-safe, compiled Jinja-like templates for Rust",djc,askama,https://github.com/djc/askama
+2023-10-27,rust,3556,5,An interpreter for Rust's mid-level intermediate representation,rust-lang,miri,https://github.com/rust-lang/miri
+2023-10-27,rust,28162,22,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2023-10-27,rust,5318,13,The streaming database: SQL stream processing with Postgres-like experience 🪄. 10X more cost-efficient than Apache Flink 🚀.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave

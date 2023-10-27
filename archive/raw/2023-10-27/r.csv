@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-10-27,r,6112,0,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2023-10-27,r,1203,2,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2023-10-27,r,62,0,tools for the analysis of color data in R,rmaia,pavo,https://github.com/rmaia/pavo
+2023-10-27,r,1957,3,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2023-10-27,r,18,1,R bytecode assembler/disassembler,coolbutuseless,rbytecode,https://github.com/coolbutuseless/rbytecode
+2023-10-27,r,930,1,"Robyn is an experimental, AI/ML-powered and open sourced Marketing Mix Modeling (MMM) package from Meta Marketing Science. Our mission is to democratise modeling knowledge, inspire the industry through innovation, reduce human bias in the modeling process & build a strong open source marketing science community.",facebookexperimental,Robyn,https://github.com/facebookexperimental/Robyn
+2023-10-27,r,92,4,Analyzing and visualizing KEGG information using the grammar of graphics,noriakis,ggkegg,https://github.com/noriakis/ggkegg
+2023-10-27,r,6,0,Do not use this version of gridSVG as it is out of date. The version on CRAN is newer and development occurs on R-Forge.,sjp,gridSVG,https://github.com/sjp/gridSVG
+2023-10-27,r,279,0,,cole-trapnell-lab,monocle3,https://github.com/cole-trapnell-lab/monocle3
+2023-10-27,r,109,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2023-10-27,r,523,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2023-10-27,r,409,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2023-10-27,r,537,2,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2023-10-27,r,1152,0,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2023-10-27,r,466,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2023-10-27,r,1786,0,A Wes Anderson color palette for R,karthik,wesanderson,https://github.com/karthik/wesanderson
+2023-10-27,r,161,0,,kpatel427,YouTubeTutorials,https://github.com/kpatel427/YouTubeTutorials
+2023-10-27,r,1289,0,Tidy Messy Data,tidyverse,tidyr,https://github.com/tidyverse/tidyr
+2023-10-27,r,5114,1,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2023-10-27,r,4140,2,🎓 A collection of interactive courses for the swirl R package.,swirldev,swirl_courses,https://github.com/swirldev/swirl_courses
+2023-10-27,r,259,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2023-10-27,r,9,0,Reproducible slice module for teal applications,insightsengineering,teal.slice,https://github.com/insightsengineering/teal.slice
+2023-10-27,r,293,1,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2023-10-27,r,971,0,"RStan, the R interface to Stan",stan-dev,rstan,https://github.com/stan-dev/rstan
+2023-10-27,r,629,0,Construct Complex Table with knitr::kable() + pipe.,haozhu233,kableExtra,https://github.com/haozhu233/kableExtra
