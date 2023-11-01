@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-01,haskell,9111,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-11-01,haskell,1920,5,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-11-01,haskell,8316,4,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-11-01,haskell,48,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2023-11-01,haskell,30387,15,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-11-01,haskell,2566,0,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-11-01,haskell,202,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-11-01,haskell,225,0,Implementation of the Hydra Head protocol,input-output-hk,hydra,https://github.com/input-output-hk/hydra
+2023-11-01,haskell,11,0,This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.,input-output-hk,cardano-cli,https://github.com/input-output-hk/cardano-cli
+2023-11-01,haskell,21257,8,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-11-01,haskell,5352,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-11-01,haskell,1522,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-11-01,haskell,221,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2023-11-01,haskell,7,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2023-11-01,haskell,1466,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2023-11-01,haskell,2968,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-11-01,haskell,2203,2,Terminal-based presentations using Pandoc,jaspervdj,patat,https://github.com/jaspervdj/patat
+2023-11-01,haskell,2441,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server

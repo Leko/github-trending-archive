@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-01,go,2018,159,Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF,keyval-dev,odigos,https://github.com/keyval-dev/odigos
+2023-11-01,go,5641,93,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-11-01,go,14284,13,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-11-01,go,50436,21,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-11-01,go,18207,4,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-11-01,go,267,52,Old Unix programs running on modern computers.,rsc,unix,https://github.com/rsc/unix
+2023-11-01,go,3730,5,"lakeFS - Data version control for your data lake | Git for data",treeverse,lakeFS,https://github.com/treeverse/lakeFS
+2023-11-01,go,35083,7,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-11-01,go,1390,8,LangChain for Go,tmc,langchaingo,https://github.com/tmc/langchaingo
+2023-11-01,go,958,26,ChatGPT in terminal without needing API keys,aandrew-me,tgpt,https://github.com/aandrew-me/tgpt
+2023-11-01,go,23279,33,A cross-platform launcher that simply works,Wox-launcher,Wox,https://github.com/Wox-launcher/Wox
+2023-11-01,go,18615,25,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2023-11-01,go,39175,15,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-11-01,go,7217,3,Go library for decoding generic map values into native Go structures and vice versa.,mitchellh,mapstructure,https://github.com/mitchellh/mapstructure
+2023-11-01,go,3277,3,Community managed domain list. Generate geosite.dat for V2Ray.,v2fly,domain-list-community,https://github.com/v2fly/domain-list-community
+2023-11-01,go,11859,19,Pure Go implementation of the WebRTC API,pion,webrtc,https://github.com/pion/webrtc
+2023-11-01,go,4221,2,Cost monitoring for Kubernetes workload and cloud costs,opencost,opencost,https://github.com/opencost/opencost
+2023-11-01,go,11515,4,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2023-11-01,go,3853,3,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-11-01,go,5220,4,The open source high performance data integration platform built for developers.,cloudquery,cloudquery,https://github.com/cloudquery/cloudquery
+2023-11-01,go,631,5,Celestia Data Availability Nodes,celestiaorg,celestia-node,https://github.com/celestiaorg/celestia-node
+2023-11-01,go,4183,6,Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron,go-co-op,gocron,https://github.com/go-co-op/gocron
+2023-11-01,go,2667,3,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2023-11-01,go,19015,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-11-01,go,102618,38,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
