@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-02,go,662,18,Celestia Data Availability Nodes,celestiaorg,celestia-node,https://github.com/celestiaorg/celestia-node
+2023-11-02,go,15853,6,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-11-02,go,12079,7,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2023-11-02,go,9518,6,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2023-11-02,go,19024,11,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-11-02,go,2147,147,Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF,keyval-dev,odigos,https://github.com/keyval-dev/odigos
+2023-11-02,go,5219,1,The official Go client for Elasticsearch,elastic,go-elasticsearch,https://github.com/elastic/go-elasticsearch
+2023-11-02,go,7267,3,DNS library in Go,miekg,dns,https://github.com/miekg/dns
+2023-11-02,go,15049,7,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-11-02,go,610,14,CVE-2023-2023,GREENHAT7,pxplan,https://github.com/GREENHAT7/pxplan
+2023-11-02,go,4261,5,"Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",hktalent,scan4all,https://github.com/hktalent/scan4all
+2023-11-02,go,23311,34,A cross-platform launcher that simply works,Wox-launcher,Wox,https://github.com/Wox-launcher/Wox
+2023-11-02,go,8866,21,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2023-11-02,go,9854,20,⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing,Shopify,toxiproxy,https://github.com/Shopify/toxiproxy
+2023-11-02,go,8974,2,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2023-11-02,go,14295,11,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-11-02,go,11871,11,Pure Go implementation of the WebRTC API,pion,webrtc,https://github.com/pion/webrtc
+2023-11-02,go,6789,12,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-11-02,go,14068,36,GO Simple Tunnel - a simple tunnel written in golang,ginuerzh,gost,https://github.com/ginuerzh/gost
+2023-11-02,go,8157,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-11-02,go,24375,17,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-11-02,go,5038,12,"ZITADEL - Identity infrastructure, simplified for you.",zitadel,zitadel,https://github.com/zitadel/zitadel
+2023-11-02,go,50456,22,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-11-02,go,19376,3,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2023-11-02,go,13324,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
