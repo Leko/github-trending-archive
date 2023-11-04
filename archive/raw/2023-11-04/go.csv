@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-04,go,12474,1225,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-11-04,go,24562,208,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2023-11-04,go,6444,380,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-11-04,go,8633,57,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2023-11-04,go,43474,166,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2023-11-04,go,16981,256,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-11-04,go,1257,14,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,kubernetes-sigs,gateway-api,https://github.com/kubernetes-sigs/gateway-api
+2023-11-04,go,5374,22,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2023-11-04,go,2173,2,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2023-11-04,go,6805,2,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2023-11-04,go,1880,41,A language for writing HTML user interfaces in Go.,a-h,templ,https://github.com/a-h/templ
+2023-11-04,go,2895,12,算法竞赛模板库 by 灵茶山艾府 💭💡🎈,EndlessCheng,codeforces-go,https://github.com/EndlessCheng/codeforces-go
+2023-11-04,go,424,22,Shortlink service (Microservice example),shortlink-org,shortlink,https://github.com/shortlink-org/shortlink
+2023-11-04,go,99,14,"ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言",X1r0z,ActiveMQ-RCE,https://github.com/X1r0z/ActiveMQ-RCE
+2023-11-04,go,310,26,An opinionated Go framework for accelerated microservice development,gofr-dev,gofr,https://github.com/gofr-dev/gofr
+2023-11-04,go,20858,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-11-04,go,4861,4,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2023-11-04,go,13567,34,"Render markdown on the CLI, with pizzazz! 💅🏻",charmbracelet,glow,https://github.com/charmbracelet/glow
+2023-11-04,go,1667,5,"Open-source platform for IT and security teams with thousands of computers. (Linux, macOS, Windows, Chromebooks, AWS, Google Cloud, Azure, data center, containers, IoT)",fleetdm,fleet,https://github.com/fleetdm/fleet
+2023-11-04,go,2731,37,eBPF-based Security Observability and Runtime Enforcement,cilium,tetragon,https://github.com/cilium/tetragon
+2023-11-04,go,8969,7,"Terminal UI library with rich, interactive widgets — written in Golang",rivo,tview,https://github.com/rivo/tview
+2023-11-04,go,2365,2,Main repository for Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2023-11-04,go,15798,41,Dolt – Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2023-11-04,go,19036,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-04,rust,525,187,A multiprotocol credentials bruteforcer / password sprayer and enumerator.,evilsocket,legba,https://github.com/evilsocket/legba
+2023-11-04,rust,28551,175,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2023-11-04,rust,8241,174,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2023-11-04,rust,1484,6,"A native Rust library for Delta Lake, with bindings into Python",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2023-11-04,rust,7044,9,Polkadot Node Implementation,paritytech,polkadot,https://github.com/paritytech/polkadot
+2023-11-04,rust,8349,13,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-11-04,rust,4562,35,Build & ship backends without writing any infrastructure files.,shuttle-hq,shuttle,https://github.com/shuttle-hq/shuttle
+2023-11-04,rust,6605,5,Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-11-04,rust,16435,13,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2023-11-04,rust,10727,12,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2023-11-04,rust,13760,4,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-11-04,rust,950,22,A native Rust UI library with fine-grained reactivity,lapce,floem,https://github.com/lapce/floem
+2023-11-04,rust,69918,105,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-11-04,rust,2128,54,"High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/q/project:hikari-no-yume/touchHLE+status:open",hikari-no-yume,touchHLE,https://github.com/hikari-no-yume/touchHLE
+2023-11-04,rust,40840,27,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2023-11-04,rust,3725,3,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2023-11-04,rust,10853,16,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2023-11-04,rust,2954,18,📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com,johnlui,PPHC,https://github.com/johnlui/PPHC
+2023-11-04,rust,18347,10,"x86 PC emulator and x86-to-wasm JIT, running in the browser",copy,v86,https://github.com/copy/v86
+2023-11-04,rust,7393,15,An Experimental Package Management Solution for Python,mitsuhiko,rye,https://github.com/mitsuhiko/rye
+2023-11-04,rust,12692,5,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-11-04,rust,21731,9,A web framework for Rust.,SergioBenitez,Rocket,https://github.com/SergioBenitez/Rocket
+2023-11-04,rust,91322,18,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2023-11-04,rust,5491,2,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-11-04,rust,10262,12,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
