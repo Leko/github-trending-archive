@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-05,python,2727,30,VideoCrafter1: Open Diffusion Models for High-Quality Video Generation,AILab-CVC,VideoCrafter,https://github.com/AILab-CVC/VideoCrafter
+2023-11-05,python,528,77,Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音,jianchang512,pyvideotrans,https://github.com/jianchang512/pyvideotrans
+2023-11-05,python,14219,207,Dev tool that writes scalable apps from scratch while the developer oversees the implementation,Pythagora-io,gpt-pilot,https://github.com/Pythagora-io/gpt-pilot
+2023-11-05,python,11771,157,OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。,hiroi-sora,Umi-OCR,https://github.com/hiroi-sora/Umi-OCR
+2023-11-05,python,26291,54,"A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",oobabooga,text-generation-webui,https://github.com/oobabooga/text-generation-webui
+2023-11-05,python,3687,5,"A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",spack,spack,https://github.com/spack/spack
+2023-11-05,python,458,51,Ship RAG based LLM web apps in seconds.,safevideo,autollm,https://github.com/safevideo/autollm
+2023-11-05,python,216,36,"Open Source LLM toolkit to build LLM applications. TigerRag (embedding, RAG), TigerTune (fine-tuning), TigerArmor (AI safety)",tigerlab-ai,tiger,https://github.com/tigerlab-ai/tiger
+2023-11-05,python,8967,5,"Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",kedro-org,kedro,https://github.com/kedro-org/kedro
+2023-11-05,python,12353,27,🦉 ML Experiments Management with Git,iterative,dvc,https://github.com/iterative/dvc
+2023-11-05,python,4878,126,🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).,spdustin,ChatGPT-AutoExpert,https://github.com/spdustin/ChatGPT-AutoExpert
+2023-11-05,python,2209,25,Bisheng is an open LLM devops platform for next generation AI applications.,dataelement,bisheng,https://github.com/dataelement/bisheng
+2023-11-05,python,28271,24,Streamlit — A faster way to build and share data apps.,streamlit,streamlit,https://github.com/streamlit/streamlit
+2023-11-05,python,65,23,Run MemGPT-AutoGEN-Local LLM Together,PromptEngineer48,MemGPT-AutoGEN-LLM,https://github.com/PromptEngineer48/MemGPT-AutoGEN-LLM
+2023-11-05,python,67030,106,⚡ Building applications with LLMs through composability ⚡,langchain-ai,langchain,https://github.com/langchain-ai/langchain
+2023-11-05,python,16240,20,Data validation using Python type hints,pydantic,pydantic,https://github.com/pydantic/pydantic
+2023-11-05,python,435,27,A PySide6-based cross platform GUI client that launches your beloved GFW to outer space. Support Xray-core and hysteria.,LorenEteval,Furious,https://github.com/LorenEteval/Furious
+2023-11-05,python,1588,12,"A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!",Kav-K,GPTDiscord,https://github.com/Kav-K/GPTDiscord
+2023-11-05,python,1658,14,Top free VPN (ClashX & V2Ray proxy) with subscription links. [免费VPN、免费梯子、免费科学上网、免费订阅链接、免费节点、精选、ClashX & V2Ray 教程],WilliamStar007,ClashX-V2Ray-TopFreeProxy,https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy
+2023-11-05,python,261,14,This repo contains some solved python hacker codes,RekhuGopal,PythonHacks,https://github.com/RekhuGopal/PythonHacks
+2023-11-05,python,33468,17,,shadowsocks,shadowsocks,https://github.com/shadowsocks/shadowsocks
+2023-11-05,python,5792,30,"Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3)",hiyouga,LLaMA-Factory,https://github.com/hiyouga/LLaMA-Factory
+2023-11-05,python,1794,53,ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.,helblazer811,ManimML,https://github.com/helblazer811/ManimML
+2023-11-05,python,1404,21,AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI,continue-revolution,sd-webui-animatediff,https://github.com/continue-revolution/sd-webui-animatediff
+2023-11-05,python,193,15,"Enforce the output format (JSON Schema, Regex etc) of a language model",noamgat,lm-format-enforcer,https://github.com/noamgat/lm-format-enforcer

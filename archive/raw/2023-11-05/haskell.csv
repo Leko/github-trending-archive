@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-05,haskell,33526,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-11-05,haskell,9123,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-11-05,haskell,202,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-11-05,haskell,2966,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-11-05,haskell,1525,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-11-05,haskell,7,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2023-11-05,haskell,2208,1,Terminal-based presentations using Pandoc,jaspervdj,patat,https://github.com/jaspervdj/patat
+2023-11-05,haskell,2565,0,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-11-05,haskell,10,0,Cardano API,input-output-hk,cardano-api,https://github.com/input-output-hk/cardano-api
+2023-11-05,haskell,222,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2023-11-05,haskell,2237,2,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2023-11-05,haskell,1665,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2023-11-05,haskell,4439,2,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-11-05,haskell,80,0,Marlowe smart contract language Cardano implementation,input-output-hk,marlowe-cardano,https://github.com/input-output-hk/marlowe-cardano
+2023-11-05,haskell,1177,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-11-05,haskell,89,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2023-11-05,haskell,3,0,IO concurrent promitives for conduit,qnikst,iochan-conduit,https://github.com/qnikst/iochan-conduit
+2023-11-05,haskell,1,0,,eskaton,dotfiles,https://github.com/eskaton/dotfiles
+2023-11-05,haskell,725,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-11-05,haskell,5,0,Formats haskell import lists,Simspace,simformat,https://github.com/Simspace/simformat
+2023-11-05,haskell,1112,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2023-11-05,haskell,7313,2,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-11-05,haskell,8318,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-11-05,haskell,1924,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-11-05,haskell,5357,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
