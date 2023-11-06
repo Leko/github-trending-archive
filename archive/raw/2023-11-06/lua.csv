@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-06,lua,584,12,,xiaorouji,openwrt-passwall2,https://github.com/xiaorouji/openwrt-passwall2
+2023-11-06,lua,8523,34,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-11-06,lua,7999,17,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-11-06,lua,9995,21,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-11-06,lua,13909,11,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-11-06,lua,2397,2,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2023-11-06,lua,19987,18,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-11-06,lua,3657,7,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2023-11-06,lua,8335,4,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-11-06,lua,7175,3,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2023-11-06,lua,1185,3,"One dark and light colorscheme for neovim >= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles",navarasu,onedark.nvim,https://github.com/navarasu/onedark.nvim
+2023-11-06,lua,1251,1,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
+2023-11-06,lua,6070,6,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-11-06,lua,16286,13,🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-11-06,lua,5158,1,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-11-06,lua,4983,4,📚 A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2023-11-06,lua,3750,2,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2023-11-06,lua,1363,1,Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/],minetest,minetest_game,https://github.com/minetest/minetest_game
+2023-11-06,lua,487,0,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-11-06,lua,1111,3,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2023-11-06,lua,3583,7,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2023-11-06,lua,1763,1,A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.,simrat39,symbols-outline.nvim,https://github.com/simrat39/symbols-outline.nvim
+2023-11-06,lua,2076,2,Tools for better development in rust using neovim's builtin lsp,simrat39,rust-tools.nvim,https://github.com/simrat39/rust-tools.nvim
+2023-11-06,lua,1990,3,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2023-11-06,lua,1558,6,Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot,zbirenbaum,copilot.lua,https://github.com/zbirenbaum/copilot.lua
