@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-08,go,15386,1384,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-11-08,go,18352,183,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-11-08,go,6829,25,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2023-11-08,go,2782,17,eBPF-based Security Observability and Runtime Enforcement,cilium,tetragon,https://github.com/cilium/tetragon
+2023-11-08,go,28823,5,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2023-11-08,go,3947,2,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2023-11-08,go,13734,41,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-11-08,go,74,7,fork from clash,Ieooo,clash,https://github.com/Ieooo/clash
+2023-11-08,go,328,30,backup of clash core,Kuingsmile,clash-core,https://github.com/Kuingsmile/clash-core
+2023-11-08,go,6662,8,Color package for Go (golang),fatih,color,https://github.com/fatih/color
+2023-11-08,go,5662,16,A blazingly fast JSON serializing & deserializing library,bytedance,sonic,https://github.com/bytedance/sonic
+2023-11-08,go,14546,19,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2023-11-08,go,31698,67,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-11-08,go,3229,10,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2023-11-08,go,20106,7,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-11-08,go,5020,9,Dendrite is a second-generation Matrix homeserver written in Go!,matrix-org,dendrite,https://github.com/matrix-org/dendrite
+2023-11-08,go,7732,203,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-11-08,go,2246,24,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",AlexxIT,go2rtc,https://github.com/AlexxIT/go2rtc
+2023-11-08,go,31355,25,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2023-11-08,go,8229,18,Modern UI for Ansible,ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore
+2023-11-08,go,34002,10,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-11-08,go,3749,4,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2023-11-08,go,2449,2,,eclipse,paho.mqtt.golang,https://github.com/eclipse/paho.mqtt.golang
+2023-11-08,go,4211,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-11-08,go,14553,25,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
