@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-09,go,15836,462,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-11-09,go,6784,26,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2023-11-09,go,18262,12,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-11-09,go,34021,25,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-11-09,go,2270,28,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",AlexxIT,go2rtc,https://github.com/AlexxIT/go2rtc
+2023-11-09,go,72409,25,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-11-09,go,44839,10,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-11-09,go,8140,14,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2023-11-09,go,24456,12,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-11-09,go,4547,5,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2023-11-09,go,14560,16,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2023-11-09,go,19429,30,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2023-11-09,go,13,3,"Домашнее задание для DevOps-тренировок в Яндексе, лекция ""Облако. Кто виноват и что делать.""",krya-kryak,y-y-devops-trainings-cloud-1,https://github.com/krya-kryak/y-y-devops-trainings-cloud-1
+2023-11-09,go,3843,44,Goroutine leak detector,uber-go,goleak,https://github.com/uber-go/goleak
+2023-11-09,go,9279,3,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2023-11-09,go,80,15,a2fa is a command line tool for generating and validating one-time password. Its purpose is to get rid of phones and be able to authenticate easily.,csyezheng,a2fa,https://github.com/csyezheng/a2fa
+2023-11-09,go,6679,21,Color package for Go (golang),fatih,color,https://github.com/fatih/color
+2023-11-09,go,32,6,Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604),SaumyajeetDas,CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ,https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ
+2023-11-09,go,8172,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-11-09,go,2095,3,Docker-based local PHP+Node.js web development environments,ddev,ddev,https://github.com/ddev/ddev
+2023-11-09,go,6852,18,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2023-11-09,go,383,15,An opinionated Go framework for accelerated microservice development,gofr-dev,gofr,https://github.com/gofr-dev/gofr
+2023-11-09,go,8448,10,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-11-09,go,41513,18,High Performance Object Storage for AI,minio,minio,https://github.com/minio/minio
+2023-11-09,go,770,5,Terraform GitHub provider,integrations,terraform-provider-github,https://github.com/integrations/terraform-provider-github
