@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-11,go,3908,15,Goroutine leak detector,uber-go,goleak,https://github.com/uber-go/goleak
+2023-11-11,go,50570,19,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-11-11,go,4339,5,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-11-11,go,20506,8,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-11-11,go,55683,86,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-11-11,go,3409,9,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2023-11-11,go,41552,21,High Performance Object Storage for AI,minio,minio,https://github.com/minio/minio
+2023-11-11,go,4439,69,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-11-11,go,19076,12,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-11-11,go,30357,24,"beego is an open-source, high-performance web framework for the Go programming language.",beego,beego,https://github.com/beego/beego
+2023-11-11,go,5560,37,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-11-11,go,6675,160,Build and deploy Go applications,ko-build,ko,https://github.com/ko-build/ko
+2023-11-11,go,1537,1,"Evmos is the first decentralized EVM chain on the Cosmos Network. It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.",evmos,evmos,https://github.com/evmos/evmos
+2023-11-11,go,21748,6,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-11-11,go,7049,8,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-11-11,go,5130,29,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter,https://github.com/aws/karpenter
+2023-11-11,go,6884,4,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2023-11-11,go,11688,4,The developer platform for on-demand cloud development environments to create software faster and more securely.,gitpod-io,gitpod,https://github.com/gitpod-io/gitpod
+2023-11-11,go,6907,68,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2023-11-11,go,19977,7,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2023-11-11,go,72453,24,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-11-11,go,7207,5,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2023-11-11,go,19266,21,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-11-11,go,45329,20,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2023-11-11,go,3215,15,An automated e-mail OSINT tool,alpkeskin,mosint,https://github.com/alpkeskin/mosint

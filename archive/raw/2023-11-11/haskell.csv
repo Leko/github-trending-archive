@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-11,haskell,9127,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-11-11,haskell,33569,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-11-11,haskell,726,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-11-11,haskell,5362,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-11-11,haskell,201,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-11-11,haskell,3095,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-11-11,haskell,21300,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-11-11,haskell,30513,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-11-11,haskell,10,0,Cardano API,input-output-hk,cardano-api,https://github.com/input-output-hk/cardano-api
+2023-11-11,haskell,221,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2023-11-11,haskell,577,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2023-11-11,haskell,7317,2,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-11-11,haskell,17,0,Haskell bindings to Xen hypervisor interface,selectel,hen,https://github.com/selectel/hen
+2023-11-11,haskell,1317,3,Easy dependency management for Nix projects,nmattia,niv,https://github.com/nmattia/niv
+2023-11-11,haskell,2566,0,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2023-11-11,haskell,3903,2,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2023-11-11,haskell,1526,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-11-11,haskell,76,0,"Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]",nix-community,nix-vscode-extensions,https://github.com/nix-community/nix-vscode-extensions
+2023-11-11,haskell,2240,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2023-11-11,haskell,1467,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
