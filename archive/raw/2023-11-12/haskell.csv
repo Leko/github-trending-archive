@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-12,haskell,448,1,A formatter for Nix code,serokell,nixfmt,https://github.com/serokell/nixfmt
+2023-11-12,haskell,3096,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-11-12,haskell,726,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-11-12,haskell,21301,2,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-11-12,haskell,1528,2,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-11-12,haskell,1318,0,Easy dependency management for Nix projects,nmattia,niv,https://github.com/nmattia/niv
+2023-11-12,haskell,9131,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-11-12,haskell,1,0,,imsut,starthaskell,https://github.com/imsut/starthaskell
+2023-11-12,haskell,4466,6,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-11-12,haskell,2450,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-11-12,haskell,33575,4,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-11-12,haskell,226,0,A blazingly fast HTML combinator library for Haskell.,jaspervdj,blaze-html,https://github.com/jaspervdj/blaze-html
+2023-11-12,haskell,246,0,💻 Exercises for the Haskell Beginners 2022 course,haskell-beginners-2022,exercises,https://github.com/haskell-beginners-2022/exercises
+2023-11-12,haskell,7318,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-11-12,haskell,311,0,Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.,change-metrics,monocle,https://github.com/change-metrics/monocle
+2023-11-12,haskell,6,0,A compiler for sed,Roguelazer,sedc,https://github.com/Roguelazer/sedc
+2023-11-12,haskell,3904,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2023-11-12,haskell,36,0,A lightweight Haskell binding to the C mysqlclient API,paul-rouse,mysql,https://github.com/paul-rouse/mysql
+2023-11-12,haskell,181,0,Open source binary analysis tools.,GaloisInc,macaw,https://github.com/GaloisInc/macaw
+2023-11-12,haskell,550,1,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2023-11-12,haskell,80,0,Marlowe smart contract language Cardano implementation,input-output-hk,marlowe-cardano,https://github.com/input-output-hk/marlowe-cardano
+2023-11-12,haskell,8326,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-11-12,haskell,221,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2023-11-12,haskell,1467,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2023-11-12,haskell,219,1,,haskell,ghcup-hs,https://github.com/haskell/ghcup-hs
