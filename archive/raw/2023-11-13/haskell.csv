@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-13,haskell,4469,3,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-11-13,haskell,2450,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-11-13,haskell,9132,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-11-13,haskell,30524,6,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-11-13,haskell,33586,14,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-11-13,haskell,7,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2023-11-13,haskell,1528,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-11-13,haskell,15,0,Calendar of Public Holidays in China & Automatic Alarm Clock 中国大陆节假日日历订阅 自动节假日闹钟,theRank,chinese-holidays-calendar,https://github.com/theRank/chinese-holidays-calendar
+2023-11-13,haskell,201,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-11-13,haskell,5,1,Accelerates K Framework's Haskell backend,runtimeverification,hs-backend-booster,https://github.com/runtimeverification/hs-backend-booster
+2023-11-13,haskell,1934,0,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-11-13,haskell,8328,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-11-13,haskell,36,0,A lightweight Haskell binding to the C mysqlclient API,paul-rouse,mysql,https://github.com/paul-rouse/mysql
+2023-11-13,haskell,2568,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2023-11-13,haskell,0,0,Customizable slideshow written with Elm,brender,slideshow,https://github.com/brender/slideshow
+2023-11-13,haskell,726,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-11-13,haskell,5363,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-11-13,haskell,267,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2023-11-13,haskell,36,0,The elf-edit library provides a datatype suitable for reading and writing Elf files.,GaloisInc,elf-edit,https://github.com/GaloisInc/elf-edit
+2023-11-13,haskell,3097,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-11-13,haskell,7320,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-11-13,haskell,2970,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-11-13,haskell,1667,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2023-11-13,haskell,10,0,Cardano API,input-output-hk,cardano-api,https://github.com/input-output-hk/cardano-api
+2023-11-13,haskell,436,1,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
