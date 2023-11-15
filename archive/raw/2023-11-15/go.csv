@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-15,go,7782,10,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2023-11-15,go,2130,1,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2023-11-15,go,5533,82,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2023-11-15,go,5993,1,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2023-11-15,go,4878,3,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-11-15,go,4658,6,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2023-11-15,go,18615,12,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2023-11-15,go,24016,30,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-11-15,go,8158,17,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2023-11-15,go,15358,21,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-11-15,go,23412,5,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2023-11-15,go,11950,4,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2023-11-15,go,7355,13,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS",casbin,casdoor,https://github.com/casbin/casdoor
+2023-11-15,go,7572,14,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
+2023-11-15,go,2032,3,Static checker for GitHub Actions workflow files,rhysd,actionlint,https://github.com/rhysd/actionlint
+2023-11-15,go,14484,21,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2023-11-15,go,268,11,easy-ngo是由网易传媒开发的基于Go语言的开发工具包，基于easy-ngo工具包，开发者可以快速构建高可用、大并发的应用。,NetEase-Media,easy-ngo,https://github.com/NetEase-Media/easy-ngo
+2023-11-15,go,909,5,GoMock is a mocking framework for the Go programming language.,uber-go,mock,https://github.com/uber-go/mock
+2023-11-15,go,8473,8,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-11-15,go,321,44,Golang weaponization for red teamers.,Enelg52,OffensiveGo,https://github.com/Enelg52/OffensiveGo
+2023-11-15,go,44797,42,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2023-11-15,go,34096,14,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-11-15,go,9700,8,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2023-11-15,go,3106,1,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2023-11-15,go,21763,5,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
