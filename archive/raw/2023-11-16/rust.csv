@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-16,rust,43814,110,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2023-11-16,rust,29182,267,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2023-11-16,rust,33105,606,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2023-11-16,rust,25509,184,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2023-11-16,rust,11968,26,📚 Learn to write an embedded OS in Rust 🦀,rust-embedded,rust-raspberrypi-OS-tutorials,https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+2023-11-16,rust,50327,52,"An open-source remote desktop, and alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2023-11-16,rust,3823,1,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2023-11-16,rust,8249,12,An easy and powerful Rust HTTP Client,seanmonstar,reqwest,https://github.com/seanmonstar/reqwest
+2023-11-16,rust,70367,48,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-11-16,rust,38563,30,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2023-11-16,rust,16474,4,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2023-11-16,rust,3489,14,"Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.",rerun-io,rerun,https://github.com/rerun-io/rerun
+2023-11-16,rust,1334,69,A native Rust UI library with fine-grained reactivity,lapce,floem,https://github.com/lapce/floem
+2023-11-16,rust,7843,9,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2023-11-16,rust,1081,255,Reimagine state management with CRDTs. Make your app state synchronized and collaborative effortlessly.,loro-dev,loro,https://github.com/loro-dev/loro
+2023-11-16,rust,17576,167,Fuel Network Rust SDK,FuelLabs,fuels-rs,https://github.com/FuelLabs/fuels-rs
+2023-11-16,rust,1340,12,A visualization library for Rust,yuankunzhang,charming,https://github.com/yuankunzhang/charming
+2023-11-16,rust,3453,32,"A toolchain for web projects, aimed to provide functionalities to maintain them.",biomejs,biome,https://github.com/biomejs/biome
+2023-11-16,rust,832,3,Unix-like OS in Rust inspired by xv6-riscv,o8vm,octox,https://github.com/o8vm/octox
+2023-11-16,rust,5515,5,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-11-16,rust,11188,14,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2023-11-16,rust,10793,6,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2023-11-16,rust,12805,7,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2023-11-16,rust,21550,29,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2023-11-16,rust,1972,6,Write Cloudflare Workers in 100% Rust via WebAssembly,cloudflare,workers-rs,https://github.com/cloudflare/workers-rs
