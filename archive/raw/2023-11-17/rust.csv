@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-17,rust,1326,148,Reimagine state management with CRDTs. Make your app collaborative effortlessly.,loro-dev,loro,https://github.com/loro-dev/loro
+2023-11-17,rust,12832,54,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2023-11-17,rust,25738,263,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2023-11-17,rust,8261,14,An easy and powerful Rust HTTP Client,seanmonstar,reqwest,https://github.com/seanmonstar/reqwest
+2023-11-17,rust,33476,610,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2023-11-17,rust,17772,209,Fuel Network Rust SDK,FuelLabs,fuels-rs,https://github.com/FuelLabs/fuels-rs
+2023-11-17,rust,29260,199,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2023-11-17,rust,1748,74,"🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",AleoHQ,leo,https://github.com/AleoHQ/leo
+2023-11-17,rust,26685,4,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2023-11-17,rust,3496,8,"Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.",rerun-io,rerun,https://github.com/rerun-io/rerun
+2023-11-17,rust,14479,8,Blazing 💥 fast terminal-ui for git written in rust 🦀,extrawurst,gitui,https://github.com/extrawurst/gitui
+2023-11-17,rust,11193,1,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2023-11-17,rust,10072,4,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2023-11-17,rust,5289,1,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-11-17,rust,3019,3,"Build system, successor to Buck",facebook,buck2,https://github.com/facebook/buck2
+2023-11-17,rust,2369,20,Rust friendly bindings to *nix APIs,nix-rust,nix,https://github.com/nix-rust/nix
+2023-11-17,rust,3461,4,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2023-11-17,rust,5519,3,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-11-17,rust,9313,10,"Cross-platform, safe, pure-rust graphics api.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-11-17,rust,661,2,A Virtual Machine for Zero-Knowledge Executions,AleoHQ,snarkVM,https://github.com/AleoHQ/snarkVM
+2023-11-17,rust,3083,3,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2023-11-17,rust,7849,7,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2023-11-17,rust,10370,14,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-11-17,rust,5400,5,"The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.",risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2023-11-17,rust,22214,21,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.,google,comprehensive-rust,https://github.com/google/comprehensive-rust

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-17,go,9337,4,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2023-11-17,go,3581,4,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2023-11-17,go,14093,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-11-17,go,4653,8,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2023-11-17,go,12623,8,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-11-17,go,936,399,Continuation of Clash core project,MerlinKodo,clash-rev,https://github.com/MerlinKodo/clash-rev
+2023-11-17,go,9143,4,Code AI platform with Code Search & Cody,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2023-11-17,go,15370,5,Protect access to all of your infrastructure.,gravitational,teleport,https://github.com/gravitational/teleport
+2023-11-17,go,6652,12,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2023-11-17,go,13820,5,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-11-17,go,17031,11,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-11-17,go,3466,0,"Libraries, samples and tools to help Go developers develop AWS Lambda functions.",aws,aws-lambda-go,https://github.com/aws/aws-lambda-go
+2023-11-17,go,1556,2,The SPIFFE Runtime Environment,spiffe,spire,https://github.com/spiffe/spire
+2023-11-17,go,13360,3,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-11-17,go,8194,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-11-17,go,2868,26,eBPF-based Security Observability and Runtime Enforcement,cilium,tetragon,https://github.com/cilium/tetragon
+2023-11-17,go,4358,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-11-17,go,2070,5,NVIDIA device plugin for Kubernetes,NVIDIA,k8s-device-plugin,https://github.com/NVIDIA/k8s-device-plugin
+2023-11-17,go,6231,3,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2023-11-17,go,14435,5,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-11-17,go,6864,8,A Go port of Ruby's dotenv library (Loads environment variables from .env files),joho,godotenv,https://github.com/joho/godotenv
+2023-11-17,go,9745,4,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2023-11-17,go,27102,14,Making Docker and Kubernetes management easy.,portainer,portainer,https://github.com/portainer/portainer
+2023-11-17,go,24068,32,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-11-17,go,5771,2,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
