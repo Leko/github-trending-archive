@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-18,go,39525,53,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-11-18,go,1368,254,Continuation of Clash core project,MerlinKodo,clash-rev,https://github.com/MerlinKodo/clash-rev
+2023-11-18,go,103154,24,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-11-18,go,24975,11,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-11-18,go,9340,4,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2023-11-18,go,9241,12,Application Delivery as Code that Runs Anywhere,dagger,dagger,https://github.com/dagger/dagger
+2023-11-18,go,15124,5,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-11-18,go,14097,7,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-11-18,go,6233,2,A network load-balancer implementation for Kubernetes using standard routing protocols,metallb,metallb,https://github.com/metallb/metallb
+2023-11-18,go,6657,8,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2023-11-18,go,1835,11,Permify is an open-source authorization service inspired by Google Zanzibar.,Permify,permify,https://github.com/Permify/permify
+2023-11-18,go,174,20,"Automated private cloud based on LXD, Ceph and OVN",canonical,microcloud,https://github.com/canonical/microcloud
+2023-11-18,go,19121,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-11-18,go,3903,5,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-11-18,go,19722,12,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-11-18,go,8451,2,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2023-11-18,go,11548,9,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2023-11-18,go,10535,4,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2023-11-18,go,5789,29,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-11-18,go,5557,8,📖 100 Go Mistakes and How to Avoid Them,teivah,100-go-mistakes,https://github.com/teivah/100-go-mistakes
+2023-11-18,go,21779,8,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-11-18,go,4848,3,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2023-11-18,go,16023,2,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",casbin,casbin,https://github.com/casbin/casbin
+2023-11-18,go,12703,5,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2023-11-18,go,5117,2,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico

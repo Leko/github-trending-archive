@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-18,haskell,726,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-11-18,haskell,9149,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-11-18,haskell,2452,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-11-18,haskell,21326,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-11-18,haskell,0,0,Walther's Project Euler repository,Walther,euler,https://github.com/Walther/euler
+2023-11-18,haskell,33627,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-11-18,haskell,221,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2023-11-18,haskell,1326,1,Easy dependency management for Nix projects,nmattia,niv,https://github.com/nmattia/niv
+2023-11-18,haskell,0,0,My website,falgon,roki-web,https://github.com/falgon/roki-web
+2023-11-18,haskell,91,0,Core types and utilities,diagrams,diagrams-core,https://github.com/diagrams/diagrams-core
+2023-11-18,haskell,225,0,Implementation of the Hydra Head protocol,input-output-hk,hydra,https://github.com/input-output-hk/hydra
+2023-11-18,haskell,1177,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-11-18,haskell,1466,0,The Plutus language implementation and tools,input-output-hk,plutus,https://github.com/input-output-hk/plutus
+2023-11-18,haskell,1,0,Haskell library for (C++) symbol name demangling,GaloisInc,demangler,https://github.com/GaloisInc/demangler
+2023-11-18,haskell,10,0,Cardano API,input-output-hk,cardano-api,https://github.com/input-output-hk/cardano-api
+2023-11-18,haskell,4490,6,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-11-18,haskell,2233,11,Terminal-based presentations using Pandoc,jaspervdj,patat,https://github.com/jaspervdj/patat
+2023-11-18,haskell,30598,10,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-11-18,haskell,3952,0,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",facebook,duckling,https://github.com/facebook/duckling
+2023-11-18,haskell,0,0,Playing around with Haskell.,mooseman,Haskell,https://github.com/mooseman/Haskell
+2023-11-18,haskell,1,0,Language Evolution Model,aivuk,lang-evol,https://github.com/aivuk/lang-evol
+2023-11-18,haskell,0,0,Creates a timesheet based on the earliest and latest windows event log entries for the day,womfoo,timesheet,https://github.com/womfoo/timesheet
+2023-11-18,haskell,1530,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-11-18,haskell,3146,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-11-18,haskell,268,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync

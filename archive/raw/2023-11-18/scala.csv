@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-18,scala,4655,36,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2023-11-18,scala,3267,2,Chisel: A Modern Hardware Design Language,chipsalliance,chisel,https://github.com/chipsalliance/chisel
+2023-11-18,scala,3503,2,"StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",apache,incubator-streampark,https://github.com/apache/incubator-streampark
+2023-11-18,scala,12814,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-11-18,scala,1779,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-11-18,scala,1378,0,Code formatter for Scala,scalameta,scalafmt,https://github.com/scalameta/scalafmt
+2023-11-18,scala,14194,1,Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/lampepfl/dotty,scala,scala,https://github.com/scala/scala
+2023-11-18,scala,11557,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2023-11-18,scala,37206,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-11-18,scala,2319,0,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2023-11-18,scala,170,0,The batteries-included testing and formal verification library for Chisel-based RTL designs.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2023-11-18,scala,1929,0,Your shiny new Java/Scala build tool!,com-lihaoyi,mill,https://github.com/com-lihaoyi/mill
+2023-11-18,scala,1574,6,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc,joernio,joern,https://github.com/joernio/joern
+2023-11-18,scala,60160,12,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2023-11-18,scala,405,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2023-11-18,scala,767,2,Gluten: Plugin to Double SparkSQL's Performance,oap-project,gluten,https://github.com/oap-project/gluten
+2023-11-18,scala,645,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2023-11-18,scala,52,0,A minimal quickstart ZIO application for writing a RESTful Web Service,zio,zio-quickstarts,https://github.com/zio/zio-quickstarts
+2023-11-18,scala,6114,3,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-11-18,scala,228,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2023-11-18,scala,8984,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2023-11-18,scala,590,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2023-11-18,scala,3894,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-11-18,scala,2998,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-11-18,scala,1956,2,Scala language server with rich IDE features 🚀,scalameta,metals,https://github.com/scalameta/metals
