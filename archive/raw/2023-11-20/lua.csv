@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-20,lua,8287,26,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-11-20,lua,8414,3,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-11-20,lua,2229,1,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-11-20,lua,3018,9,Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2023-11-20,lua,1140,9,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2023-11-20,lua,20184,14,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-11-20,lua,5886,2,awesome window manager,awesomeWM,awesome,https://github.com/awesomeWM/awesome
+2023-11-20,lua,1611,3,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2023-11-20,lua,60,18,An WAF Framework based on OpenResty,xxddpac,wArmor,https://github.com/xxddpac/wArmor
+2023-11-20,lua,507,1,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-11-20,lua,2055,2,vim-be-good is a nvim plugin designed to make you better at Vim Movements.,ThePrimeagen,vim-be-good,https://github.com/ThePrimeagen/vim-be-good
+2023-11-20,lua,1522,18,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2023-11-20,lua,4020,2,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-11-20,lua,606,5,NoVR Script for Half-Life: Alyx,bfeber,HLA-NoVR,https://github.com/bfeber/HLA-NoVR
+2023-11-20,lua,259,0,Rainbow delimiters for Neovim with Tree-sitter,HiPhish,rainbow-delimiters.nvim,https://github.com/HiPhish/rainbow-delimiters.nvim
+2023-11-20,lua,829,6,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2023-11-20,lua,14036,9,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-11-20,lua,21,6,Cheat Engine Bypass roblox,l4tt,rune-cheat-engine,https://github.com/l4tt/rune-cheat-engine
+2023-11-20,lua,16394,10,🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-11-20,lua,4919,5,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2023-11-20,lua,7205,1,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2023-11-20,lua,1150,6,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2023-11-20,lua,10413,26,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-11-20,lua,2776,6,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2023-11-20,lua,5406,12,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
