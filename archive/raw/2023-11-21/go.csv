@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-21,go,3159,523,Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL,everywall,ladder,https://github.com/everywall/ladder
+2023-11-21,go,56132,33,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-11-21,go,4122,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2023-11-21,go,8232,15,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2023-11-21,go,14310,28,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2023-11-21,go,979,150,Static Analysis tool to detect potential Nil panics in Go code,uber-go,nilaway,https://github.com/uber-go/nilaway
+2023-11-21,go,3445,17,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2023-11-21,go,1444,66,Continuation of Clash core project,MerlinKodo,clash-rev,https://github.com/MerlinKodo/clash-rev
+2023-11-21,go,13980,32,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-11-21,go,39487,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-11-21,go,25001,9,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-11-21,go,18025,193,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-11-21,go,19127,37,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2023-11-21,go,19194,18,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2023-11-21,go,23044,15,A modern and intuitive terminal-based text editor,zyedidia,micro,https://github.com/zyedidia/micro
+2023-11-21,go,25060,13,Easily and securely send things from one computer to another 🐊 📦,schollz,croc,https://github.com/schollz/croc
+2023-11-21,go,4367,7,(Golang) Go bindings for Discord,bwmarrin,discordgo,https://github.com/bwmarrin/discordgo
+2023-11-21,go,18669,9,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2023-11-21,go,7281,6,简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain),jeessy2,ddns-go,https://github.com/jeessy2/ddns-go
+2023-11-21,go,29238,15,⚡️ Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2023-11-21,go,6868,6,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2023-11-21,go,17900,20,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2023-11-21,go,15275,4,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2023-11-21,go,10334,9,"Manage your dotfiles across multiple diverse machines, securely.",twpayne,chezmoi,https://github.com/twpayne/chezmoi
+2023-11-21,go,1887,17,Permify is an open-source authorization service inspired by Google Zanzibar.,Permify,permify,https://github.com/Permify/permify
