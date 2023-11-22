@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-22,go,1101,101,Static Analysis tool to detect potential Nil panics in Go code,uber-go,nilaway,https://github.com/uber-go/nilaway
+2023-11-22,go,18345,12,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-11-22,go,9212,24,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",kubescape,kubescape,https://github.com/kubescape/kubescape
+2023-11-22,go,14174,6,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2023-11-22,go,8537,24,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-11-22,go,4717,8,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2023-11-22,go,3329,407,Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL,everywall,ladder,https://github.com/everywall/ladder
+2023-11-22,go,8995,2,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2023-11-22,go,9161,5,Code AI platform with Code Search & Cody,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2023-11-22,go,3462,19,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2023-11-22,go,1742,1,The Public Suffix List,publicsuffix,list,https://github.com/publicsuffix/list
+2023-11-22,go,50695,21,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-11-22,go,8439,2,Pure Go Postgres driver for database/sql,lib,pq,https://github.com/lib/pq
+2023-11-22,go,24563,13,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-11-22,go,20592,11,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-11-22,go,6966,4,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2023-11-22,go,9767,7,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2023-11-22,go,31656,31,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2023-11-22,go,2675,11,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",helmfile,helmfile,https://github.com/helmfile/helmfile
+2023-11-22,go,2366,8,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",AlexxIT,go2rtc,https://github.com/AlexxIT/go2rtc
+2023-11-22,go,18653,8,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2023-11-22,go,5682,11,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-11-22,go,115872,38,The Go programming language,golang,go,https://github.com/golang/go
+2023-11-22,go,18738,10,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2023-11-22,go,6816,7,Fancy stream processing made operationally mundane,benthosdev,benthos,https://github.com/benthosdev/benthos
