@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-24,go,12639,64,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-11-24,go,18814,342,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-11-24,go,920,19,Application lifecycle orchestration,akuity,kargo,https://github.com/akuity/kargo
+2023-11-24,go,5712,18,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-11-24,go,9125,15,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2023-11-24,go,19438,44,"🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2023-11-24,go,4896,2,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-11-24,go,74157,76,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2023-11-24,go,1363,2,Vendor-neutral programmable observability pipelines.,grafana,agent,https://github.com/grafana/agent
+2023-11-24,go,4506,4,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-11-24,go,7112,7,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-11-24,go,18768,15,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2023-11-24,go,7430,11,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS",casbin,casdoor,https://github.com/casbin/casdoor
+2023-11-24,go,3348,6,LiveRedirect,youshandefeiyang,LiveRedirect,https://github.com/youshandefeiyang/LiveRedirect
+2023-11-24,go,14734,17,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-11-24,go,1565,43,"LangChain for Go, the easiest way to write LLM-based programs in Go",tmc,langchaingo,https://github.com/tmc/langchaingo
+2023-11-24,go,2468,2,Prometheus exporter for Windows machines,prometheus-community,windows_exporter,https://github.com/prometheus-community/windows_exporter
+2023-11-24,go,18351,2,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-11-24,go,50724,13,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-11-24,go,8585,8,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2023-11-24,go,14202,13,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2023-11-24,go,11309,31,🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。,panjf2000,ants,https://github.com/panjf2000/ants
+2023-11-24,go,7284,4,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2023-11-24,go,35224,9,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-11-24,go,24202,30,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
