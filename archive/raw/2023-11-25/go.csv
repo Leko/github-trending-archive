@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-25,go,112059,58,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2023-11-25,go,12003,7,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2023-11-25,go,9023,7,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",apache,incubator-answer,https://github.com/apache/incubator-answer
+2023-11-25,go,74200,50,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2023-11-25,go,138,6,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",kubernetes-sigs,karpenter,https://github.com/kubernetes-sigs/karpenter
+2023-11-25,go,34233,16,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-11-25,go,12753,187,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-11-25,go,6039,55,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-11-25,go,408,6,Team IDE 工具 集成MySql、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch等管理工具,team-ide,teamide,https://github.com/team-ide/teamide
+2023-11-25,go,1714,84,Continuation of Clash core project,MerlinKodo,clash-rev,https://github.com/MerlinKodo/clash-rev
+2023-11-25,go,2518,26,一个直播录制工具,hr3lxphr6j,bililive-go,https://github.com/hr3lxphr6j/bililive-go
+2023-11-25,go,18772,8,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2023-11-25,go,8660,6,Simple HTTP and REST client library for Go,go-resty,resty,https://github.com/go-resty/resty
+2023-11-25,go,26396,16,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2023-11-25,go,30971,16,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-11-25,go,15965,6,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-11-25,go,18954,176,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-11-25,go,1364,5,Vendor-neutral programmable observability pipelines.,grafana,agent,https://github.com/grafana/agent
+2023-11-25,go,24217,24,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-11-25,go,72705,30,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-11-25,go,41758,15,High Performance Object Storage for AI,minio,minio,https://github.com/minio/minio
+2023-11-25,go,8919,3,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk
+2023-11-25,go,5480,4,Arbitrary-precision fixed-point decimal numbers in go,shopspring,decimal,https://github.com/shopspring/decimal
+2023-11-25,go,19812,14,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2023-11-25,go,11321,16,🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。,panjf2000,ants,https://github.com/panjf2000/ants
