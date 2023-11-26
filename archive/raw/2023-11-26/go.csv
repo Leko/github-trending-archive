@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-26,go,12855,57,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-11-26,go,30009,25,AI-Powered Photos App for the Decentralized Web 🌈💎✨,photoprism,photoprism,https://github.com/photoprism/photoprism
+2023-11-26,go,5114,3,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2023-11-26,go,20970,3,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-11-26,go,10160,14,A fast TCP/UDP tunnel over HTTP,jpillora,chisel,https://github.com/jpillora/chisel
+2023-11-26,go,2820,15,Wireguard web interface,ngoduykhanh,wireguard-ui,https://github.com/ngoduykhanh/wireguard-ui
+2023-11-26,go,6069,28,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-11-26,go,185,7,,teslamotors,vehicle-command,https://github.com/teslamotors/vehicle-command
+2023-11-26,go,13834,2,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-11-26,go,8881,50,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-11-26,go,15885,20,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-11-26,go,2527,9,一个直播录制工具,hr3lxphr6j,bililive-go,https://github.com/hr3lxphr6j/bililive-go
+2023-11-26,go,72723,22,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-11-26,go,32438,35,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2023-11-26,go,15510,4,An IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
+2023-11-26,go,5087,0,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
+2023-11-26,go,9606,2,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2023-11-26,go,3455,2,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2023-11-26,go,8664,5,Simple HTTP and REST client library for Go,go-resty,resty,https://github.com/go-resty/resty
+2023-11-26,go,44967,9,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-11-26,go,13238,4,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2023-11-26,go,7443,7,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS",casbin,casdoor,https://github.com/casbin/casdoor
+2023-11-26,go,13839,5,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2023-11-26,go,13859,3,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-11-26,go,14487,1,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
