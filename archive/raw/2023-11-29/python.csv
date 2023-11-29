@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-29,python,3683,990,"Build ChatGPT over your data, all with natural language",run-llama,rags,https://github.com/run-llama/rags
+2023-11-29,python,815,24,Code for CRATE (Coding RAte reduction TransformEr).,Ma-Lab-Berkeley,CRATE,https://github.com/Ma-Lab-Berkeley/CRATE
+2023-11-29,python,20877,50,You like pytorch? You like micrograd? You love tinygrad! ❤️,tinygrad,tinygrad,https://github.com/tinygrad/tinygrad
+2023-11-29,python,99,23,"The Lakehouse Engine is a configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.",adidas,lakehouse-engine,https://github.com/adidas/lakehouse-engine
+2023-11-29,python,65195,87,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",tiangolo,fastapi,https://github.com/tiangolo/fastapi
+2023-11-29,python,6520,23,,bmaltais,kohya_ss,https://github.com/bmaltais/kohya_ss
+2023-11-29,python,25254,16,"Deep learning framework to train, deploy, and ship AI products Lightning fast.",Lightning-AI,lightning,https://github.com/Lightning-AI/lightning
+2023-11-29,python,3364,76,OpenChat: Advancing Open-source Language Models with Imperfect Data,imoneoi,openchat,https://github.com/imoneoi/openchat
+2023-11-29,python,18873,58,"Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",chatchat-space,Langchain-Chatchat,https://github.com/chatchat-space/Langchain-Chatchat
+2023-11-29,python,6211,3,PyTorch implementation of MAE https//arxiv.org/abs/2111.06377,facebookresearch,mae,https://github.com/facebookresearch/mae
+2023-11-29,python,8474,6,"Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.",pennersr,django-allauth,https://github.com/pennersr/django-allauth
+2023-11-29,python,33966,118,Comprehensive Python Cheatsheet,gto76,python-cheatsheet,https://github.com/gto76/python-cheatsheet
+2023-11-29,python,1361,9,Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.,Yvictor,TradingGym,https://github.com/Yvictor/TradingGym
+2023-11-29,python,4697,8,Static Analyzer for Solidity and Vyper,crytic,slither,https://github.com/crytic/slither
+2023-11-29,python,7067,7,Main Sigma Rule Repository,SigmaHQ,sigma,https://github.com/SigmaHQ/sigma
+2023-11-29,python,292,14,An offensive data enrichment pipeline,SpecterOps,Nemesis,https://github.com/SpecterOps/Nemesis
+2023-11-29,python,312,65,Codebase for Merging Language Models,yule-BUAA,MergeLM,https://github.com/yule-BUAA/MergeLM
+2023-11-29,python,460,8,A reconnaissance framework for researching and investigating Telegram.,sockysec,Telerecon,https://github.com/sockysec/Telerecon
+2023-11-29,python,466,4,,patrickloeber,snake-ai-pytorch,https://github.com/patrickloeber/snake-ai-pytorch
+2023-11-29,python,12746,57,"🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.",LiLittleCat,awesome-free-chatgpt,https://github.com/LiLittleCat/awesome-free-chatgpt
+2023-11-29,python,310,32,"Implementation of ""ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs""",mkshing,ziplora-pytorch,https://github.com/mkshing/ziplora-pytorch
+2023-11-29,python,410,43,"A minimal Python package for storing and retrieving text using chunking, embeddings, and vector search.",kagisearch,vectordb,https://github.com/kagisearch/vectordb
+2023-11-29,python,7541,43,"Original reference implementation of ""3D Gaussian Splatting for Real-Time Radiance Field Rendering""",graphdeco-inria,gaussian-splatting,https://github.com/graphdeco-inria/gaussian-splatting
+2023-11-29,python,16234,195,The most powerful and modular stable diffusion GUI with a graph/nodes interface.,comfyanonymous,ComfyUI,https://github.com/comfyanonymous/ComfyUI
+2023-11-29,python,7487,13,"so-vits-svc fork with realtime support, improved interface and more features.",voicepaw,so-vits-svc-fork,https://github.com/voicepaw/so-vits-svc-fork

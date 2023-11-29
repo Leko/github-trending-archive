@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-29,rust,41448,64,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2023-11-29,rust,4635,382,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",biomejs,biome,https://github.com/biomejs/biome
+2023-11-29,rust,2575,98,"🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",AleoHQ,leo,https://github.com/AleoHQ/leo
+2023-11-29,rust,13536,44,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-11-29,rust,6678,19,"A massively parallel, optimal functional runtime in Rust",HigherOrderCO,HVM,https://github.com/HigherOrderCO/HVM
+2023-11-29,rust,6361,12,notion 中文化,Reamd7,notion-zh_CN,https://github.com/Reamd7/notion-zh_CN
+2023-11-29,rust,5308,2,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2023-11-29,rust,5396,2,The data warehouse for operational workloads.,MaterializeInc,materialize,https://github.com/MaterializeInc/materialize
+2023-11-29,rust,413,69,"A high-performance, lightweight, and cross-platform QUIC library",Tencent,tquic,https://github.com/Tencent/tquic
+2023-11-29,rust,6715,19,Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-11-29,rust,17413,43,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-11-29,rust,28985,11,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2023-11-29,rust,3384,3,Community showcase and examples of Actix ecosystem usage.,actix,examples,https://github.com/actix/examples
+2023-11-29,rust,1296,6,A blazing fast inference solution for text embeddings models,huggingface,text-embeddings-inference,https://github.com/huggingface/text-embeddings-inference
+2023-11-29,rust,3135,9,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2023-11-29,rust,4915,24,Feature packed AUR helper,Morganamilo,paru,https://github.com/Morganamilo/paru
+2023-11-29,rust,22799,39,The user-friendly command line shell.,fish-shell,fish-shell,https://github.com/fish-shell/fish-shell
+2023-11-29,rust,100,16,📦 An independent package manager that every hacker deserves.,pwnwriter,hysp,https://github.com/pwnwriter/hysp
+2023-11-29,rust,10833,9,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2023-11-29,rust,2442,1,A collection of Solana programs maintained by Solana Labs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2023-11-29,rust,21156,21,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-11-29,rust,3542,18,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2023-11-29,rust,931,21,Reverse engineered ChatGPT proxy,gngpp,ninja,https://github.com/gngpp/ninja
+2023-11-29,rust,26758,8,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2023-11-29,rust,27347,19,A new type of shell,nushell,nushell,https://github.com/nushell/nushell

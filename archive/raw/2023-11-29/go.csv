@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-29,go,13308,182,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-11-29,go,16438,6,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-11-29,go,3959,7,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-11-29,go,34283,20,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-11-29,go,56,9,,minchenzz,ierc-miner,https://github.com/minchenzz/ierc-miner
+2023-11-29,go,5189,5,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2023-11-29,go,13038,5,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2023-11-29,go,1538,21,PostgreSQL zero-downtime migrations made easy,xataio,pgroll,https://github.com/xataio/pgroll
+2023-11-29,go,21001,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-11-29,go,8098,3,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2023-11-29,go,7605,9,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2023-11-29,go,34180,13,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-11-29,go,19154,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-11-29,go,5145,15,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2023-11-29,go,21836,4,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-11-29,go,5524,0,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2023-11-29,go,10927,5,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2023-11-29,go,13852,8,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2023-11-29,go,10130,8,基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2023-11-29,go,9131,1,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2023-11-29,go,2365,1,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
+2023-11-29,go,3983,4,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2023-11-29,go,4248,4,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2023-11-29,go,12264,4,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2023-11-29,go,17144,12,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
