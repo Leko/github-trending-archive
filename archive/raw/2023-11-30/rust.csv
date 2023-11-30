@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-11-30,rust,4824,297,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",biomejs,biome,https://github.com/biomejs/biome
+2023-11-30,rust,13704,16,Chromium running inside your terminal,fathyb,carbonyl,https://github.com/fathyb/carbonyl
+2023-11-30,rust,13782,16,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2023-11-30,rust,3564,14,"Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.",rerun-io,rerun,https://github.com/rerun-io/rerun
+2023-11-30,rust,11254,8,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2023-11-30,rust,26769,13,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2023-11-30,rust,4837,16,Build & ship backends without writing any infrastructure files.,shuttle-hq,shuttle,https://github.com/shuttle-hq/shuttle
+2023-11-30,rust,2592,7,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2023-11-30,rust,445,30,"A high-performance, lightweight, and cross-platform QUIC library",Tencent,tquic,https://github.com/Tencent/tquic
+2023-11-30,rust,15673,3,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2023-11-30,rust,3147,18,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2023-11-30,rust,41539,166,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2023-11-30,rust,6737,15,Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2023-11-30,rust,6906,6,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2023-11-30,rust,21838,27,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2023-11-30,rust,29401,26,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2023-11-30,rust,13561,25,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-11-30,rust,5534,9,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-11-30,rust,2106,33,Apache OpenDAL: access data freely.,apache,incubator-opendal,https://github.com/apache/incubator-opendal
+2023-11-30,rust,19201,9,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2023-11-30,rust,2445,4,A collection of Solana programs maintained by Solana Labs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2023-11-30,rust,3555,20,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2023-11-30,rust,2695,137,"🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",AleoHQ,leo,https://github.com/AleoHQ/leo
+2023-11-30,rust,10834,3,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2023-11-30,rust,20733,63,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
