@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-01,lua,965,10,A fast Neovim http client written in Lua,rest-nvim,rest.nvim,https://github.com/rest-nvim/rest.nvim
+2023-12-01,lua,2267,14,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-12-01,lua,2842,12,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2023-12-01,lua,1233,9,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2023-12-01,lua,12972,5,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-12-01,lua,4063,4,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-12-01,lua,1645,4,Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot,zbirenbaum,copilot.lua,https://github.com/zbirenbaum/copilot.lua
+2023-12-01,lua,4995,4,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2023-12-01,lua,1598,11,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2023-12-01,lua,1186,2,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2023-12-01,lua,1576,4,"💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2023-12-01,lua,78,0,,nvim-neotest,neotest-go,https://github.com/nvim-neotest/neotest-go
+2023-12-01,lua,1352,1,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2023-12-01,lua,2800,5,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2023-12-01,lua,644,2,A neovim plugin that helps managing crates.io dependencies,Saecki,crates.nvim,https://github.com/Saecki/crates.nvim
+2023-12-01,lua,36354,6,🦍 The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-12-01,lua,1340,3,Set of preconfigured snippets for different languages.,rafamadriz,friendly-snippets,https://github.com/rafamadriz/friendly-snippets
+2023-12-01,lua,16,2,Jupyter notebooks on neovim powered by Jupytext,GCBallesteros,jupytext.nvim,https://github.com/GCBallesteros/jupytext.nvim
+2023-12-01,lua,321,1,A native neovim extension for Codeium,Exafunction,codeium.nvim,https://github.com/Exafunction/codeium.nvim
+2023-12-01,lua,87,0,Promise & Async in Lua,kevinhwang91,promise-async,https://github.com/kevinhwang91/promise-async
+2023-12-01,lua,531,0,High-performance on-the-fly thumbnailer script for mpv,po5,thumbfast,https://github.com/po5/thumbfast
+2023-12-01,lua,646,2,Hlsearch Lens for Neovim,kevinhwang91,nvim-hlslens,https://github.com/kevinhwang91/nvim-hlslens
+2023-12-01,lua,1069,0,Feature-rich minimalist proximity-based UI for MPV player.,tomasklaen,uosc,https://github.com/tomasklaen/uosc
+2023-12-01,lua,172,0,Allows selection of python virtual environment from within neovim,linux-cultist,venv-selector.nvim,https://github.com/linux-cultist/venv-selector.nvim
+2023-12-01,lua,176,0,An example user configuration with a split up structure,AstroNvim,user_example,https://github.com/AstroNvim/user_example

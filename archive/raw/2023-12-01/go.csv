@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-01,go,16637,126,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-12-01,go,1981,6,Hacker tools on Go (Golang),dreddsa5dies,goHackTools,https://github.com/dreddsa5dies/goHackTools
+2023-12-01,go,103432,38,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-12-01,go,3721,184,Random fake data generator written in go,brianvoe,gofakeit,https://github.com/brianvoe/gofakeit
+2023-12-01,go,4633,4,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2023-12-01,go,19169,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-12-01,go,313,38,</> Build awesome HTMX + Go projects faster.,angelofallars,htmx-go,https://github.com/angelofallars/htmx-go
+2023-12-01,go,8106,2,Simple error handling primitives,pkg,errors,https://github.com/pkg/errors
+2023-12-01,go,21015,6,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-12-01,go,67001,7,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-12-01,go,2575,4,"Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.",determined-ai,determined,https://github.com/determined-ai/determined
+2023-12-01,go,7231,0,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2023-12-01,go,3982,10,"Meshery, the cloud native manager",meshery,meshery,https://github.com/meshery/meshery
+2023-12-01,go,23473,6,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2023-12-01,go,3083,8,算法竞赛模板库 by 灵茶山艾府 💭💡🎈,EndlessCheng,codeforces-go,https://github.com/EndlessCheng/codeforces-go
+2023-12-01,go,12785,11,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2023-12-01,go,14650,5,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",emirpasic,gods,https://github.com/emirpasic/gods
+2023-12-01,go,23851,24,OpenFaaS - Serverless Functions Made Simple,openfaas,faas,https://github.com/openfaas/faas
+2023-12-01,go,12833,17,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2023-12-01,go,8459,0,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2023-12-01,go,22651,8,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2023-12-01,go,19553,13,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2023-12-01,go,6980,6,Define your dev environment as code. For microservice apps on Kubernetes.,tilt-dev,tilt,https://github.com/tilt-dev/tilt
+2023-12-01,go,2709,0,Go library and CLIs for working with container registries,google,go-containerregistry,https://github.com/google/go-containerregistry
+2023-12-01,go,673,53,Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.,F1bonacc1,process-compose,https://github.com/F1bonacc1/process-compose
