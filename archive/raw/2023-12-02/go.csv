@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-02,go,16759,94,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-12-02,go,3755,41,Random fake data generator written in go,brianvoe,gofakeit,https://github.com/brianvoe/gofakeit
+2023-12-02,go,1340,1,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,kubernetes-sigs,gateway-api,https://github.com/kubernetes-sigs/gateway-api
+2023-12-02,go,96,2,,kosmos-io,kosmos,https://github.com/kosmos-io/kosmos
+2023-12-02,go,19501,11,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2023-12-02,go,3159,1,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2023-12-02,go,22114,12,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2023-12-02,go,4953,4,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2023-12-02,go,14391,4,Application Kernel for Containers,google,gvisor,https://github.com/google/gvisor
+2023-12-02,go,24658,14,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-12-02,go,116091,31,The Go programming language,golang,go,https://github.com/golang/go
+2023-12-02,go,13901,6,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-12-02,go,21020,8,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2023-12-02,go,9195,6,Code AI platform with Code Search & Cody,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2023-12-02,go,650,0,CSI Driver for Amazon EFS https://aws.amazon.com/efs/,kubernetes-sigs,aws-efs-csi-driver,https://github.com/kubernetes-sigs/aws-efs-csi-driver
+2023-12-02,go,2593,21,"Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.",determined-ai,determined,https://github.com/determined-ai/determined
+2023-12-02,go,3714,0,Test infrastructure for the Kubernetes project.,kubernetes,test-infra,https://github.com/kubernetes/test-infra
+2023-12-02,go,6495,16,"Instant, easy, and predictable development environments",jetpack-io,devbox,https://github.com/jetpack-io/devbox
+2023-12-02,go,2130,6,GO Simple Tunnel - a simple tunnel written in golang,go-gost,gost,https://github.com/go-gost/gost
+2023-12-02,go,6162,2,Kubernetes Native Edge Computing Framework (project under CNCF),kubeedge,kubeedge,https://github.com/kubeedge/kubeedge
+2023-12-02,go,4537,4,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-12-02,go,923,1,Kubernetes Operator for OpenTelemetry Collector,open-telemetry,opentelemetry-operator,https://github.com/open-telemetry/opentelemetry-operator
+2023-12-02,go,19175,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-12-02,go,23478,10,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2023-12-02,go,311,61,An alternative to stack traces for your Go errors,bracesdev,errtrace,https://github.com/bracesdev/errtrace
