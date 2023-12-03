@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-03,go,16803,95,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-12-03,go,20013,150,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-12-03,go,9507,12,Generate type-safe code from SQL,sqlc-dev,sqlc,https://github.com/sqlc-dev/sqlc
+2023-12-03,go,19565,3,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2023-12-03,go,41883,11,High Performance Object Storage for AI,minio,minio,https://github.com/minio/minio
+2023-12-03,go,3394,38,An automated e-mail OSINT tool,alpkeskin,mosint,https://github.com/alpkeskin/mosint
+2023-12-03,go,2599,8,"Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.",determined-ai,determined,https://github.com/determined-ai/determined
+2023-12-03,go,4488,11,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2023-12-03,go,21287,8,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2023-12-03,go,14792,6,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-12-03,go,13065,7,"Linux virtual machines, with a focus on running containers",lima-vm,lima,https://github.com/lima-vm/lima
+2023-12-03,go,4668,6,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2023-12-03,go,5542,4,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2023-12-03,go,8599,11,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-12-03,go,6833,3,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2023-12-03,go,24350,23,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-12-03,go,116108,18,The Go programming language,golang,go,https://github.com/golang/go
+2023-12-03,go,14124,2,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2023-12-03,go,6325,11,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
+2023-12-03,go,22124,11,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2023-12-03,go,11281,3,CoreDNS is a DNS server that chains plugins,coredns,coredns,https://github.com/coredns/coredns
+2023-12-03,go,4961,12,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2023-12-03,go,1549,0,"Evmos is the first decentralized EVM chain on the Cosmos Network. It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.",evmos,evmos,https://github.com/evmos/evmos
+2023-12-03,go,9114,7,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2023-12-03,go,8933,2,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs

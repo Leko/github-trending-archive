@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-03,haskell,2455,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-12-03,haskell,21395,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-12-03,haskell,5,1,Template for solving Advent of Code 2023 in Haskell,Martinsos,aoc-2023-haskell-template,https://github.com/Martinsos/aoc-2023-haskell-template
+2023-12-03,haskell,18,1,Haskell Bindings for the OpenCASCADE CAD Kernel + A Declarative CAD/Solid Modeling Library,joe-warren,opencascade-hs,https://github.com/joe-warren/opencascade-hs
+2023-12-03,haskell,1532,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-12-03,haskell,1,1,Community solutions for Advent of Code 2023,AoC-ESPOL,AoC-2023-Solutions,https://github.com/AoC-ESPOL/AoC-2023-Solutions
+2023-12-03,haskell,9231,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-12-03,haskell,1,0,,upenn-cis5520,empty-project,https://github.com/upenn-cis5520/empty-project
+2023-12-03,haskell,5,0,Accelerates K Framework's Haskell backend,runtimeverification,hs-backend-booster,https://github.com/runtimeverification/hs-backend-booster
+2023-12-03,haskell,48,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2023-12-03,haskell,3142,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-12-03,haskell,1,0,Yet Another DCPU-16 Emulator,QuinnWilton,YADCPUE,https://github.com/QuinnWilton/YADCPUE
+2023-12-03,haskell,726,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-12-03,haskell,5,0,Formats haskell import lists,Simspace,simformat,https://github.com/Simspace/simformat
+2023-12-03,haskell,200,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-12-03,haskell,3915,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2023-12-03,haskell,2590,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2023-12-03,haskell,2970,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-12-03,haskell,33803,5,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-12-03,haskell,4595,10,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-12-03,haskell,455,1,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2023-12-03,haskell,1949,0,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-12-03,haskell,1179,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2023-12-03,haskell,8,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2023-12-03,haskell,0,0,"A general data-flow framework featuring nondeterminism, laziness and neurological pseudo-terminology.",mitar,etage,https://github.com/mitar/etage
