@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-06,python,9909,2146,提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告,LC044,WeChatMsg,https://github.com/LC044/WeChatMsg
+2023-12-06,python,1254,196,A code-first agent framework for seamlessly planning and executing data analytics tasks.,microsoft,TaskWeaver,https://github.com/microsoft/TaskWeaver
+2023-12-06,python,912,99,获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。,xaoyaoo,PyWxDump,https://github.com/xaoyaoo/PyWxDump
+2023-12-06,python,572,137,The official implementation of HierSpeech++,sh-lee-prml,HierSpeechpp,https://github.com/sh-lee-prml/HierSpeechpp
+2023-12-06,python,3634,219,Machine Learning Engineering Online Book,stas00,ml-engineering,https://github.com/stas00/ml-engineering
+2023-12-06,python,23491,660,Focus on prompting and generating,lllyasviel,Fooocus,https://github.com/lllyasviel/Fooocus
+2023-12-06,python,45118,237,🔎 Hunt down social media accounts by username across social networks,sherlock-project,sherlock,https://github.com/sherlock-project/sherlock
+2023-12-06,python,270691,135,A collective list of free APIs,public-apis,public-apis,https://github.com/public-apis/public-apis
+2023-12-06,python,19159,58,"Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",chatchat-space,Langchain-Chatchat,https://github.com/chatchat-space/Langchain-Chatchat
+2023-12-06,python,18312,80,"Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用大模型搭建微信聊天机器人，基于 GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/LinkAI，支持个人微信、公众号、企业微信、飞书部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。",zhayujie,chatgpt-on-wechat,https://github.com/zhayujie/chatgpt-on-wechat
+2023-12-06,python,575,49,,cubiq,ComfyUI_IPAdapter_plus,https://github.com/cubiq/ComfyUI_IPAdapter_plus
+2023-12-06,python,28411,58,"A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",oobabooga,text-generation-webui,https://github.com/oobabooga/text-generation-webui
+2023-12-06,python,11813,17,"🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",deepset-ai,haystack,https://github.com/deepset-ai/haystack
+2023-12-06,python,10563,35,A high-throughput and memory-efficient inference and serving engine for LLMs,vllm-project,vllm,https://github.com/vllm-project/vllm
+2023-12-06,python,18270,378,The most powerful and modular stable diffusion GUI with a graph/nodes interface.,comfyanonymous,ComfyUI,https://github.com/comfyanonymous/ComfyUI
+2023-12-06,python,48531,111,"为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。",binary-husky,gpt_academic,https://github.com/binary-husky/gpt_academic
+2023-12-06,python,3551,262,Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.,pytorch-labs,gpt-fast,https://github.com/pytorch-labs/gpt-fast
+2023-12-06,python,394,55,Invisible network protocol sniffer,wearecaster,Above,https://github.com/wearecaster/Above
+2023-12-06,python,16992,46,A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training,karpathy,minGPT,https://github.com/karpathy/minGPT
+2023-12-06,python,112306,300,Stable Diffusion web UI,AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2023-12-06,python,6747,11,"Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",microsoft,promptflow,https://github.com/microsoft/promptflow
+2023-12-06,python,739,4,[PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.,microsoft,sample-app-aoai-chatGPT,https://github.com/microsoft/sample-app-aoai-chatGPT
+2023-12-06,python,184,21,"Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch",lucidrains,meshgpt-pytorch,https://github.com/lucidrains/meshgpt-pytorch
+2023-12-06,python,79,12,Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On,HumanAIGC,Cloth2Tex,https://github.com/HumanAIGC/Cloth2Tex
+2023-12-06,python,348,9,secgpt网络安全大模型,Clouditera,secgpt,https://github.com/Clouditera/secgpt
