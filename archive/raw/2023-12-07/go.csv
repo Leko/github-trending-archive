@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-07,go,39611,8,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-12-07,go,27398,94,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-12-07,go,12844,19,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2023-12-07,go,12272,6,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2023-12-07,go,103586,32,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-12-07,go,2556,30,GO Simple Tunnel - a simple tunnel written in golang,go-gost,gost,https://github.com/go-gost/gost
+2023-12-07,go,72898,20,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-12-07,go,4410,2,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-12-07,go,7017,6,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2023-12-07,go,5696,4,Staticcheck - The advanced Go linter,dominikh,go-tools,https://github.com/dominikh/go-tools
+2023-12-07,go,8447,9,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2023-12-07,go,180,36,"SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.",dub-flow,sessionprobe,https://github.com/dub-flow/sessionprobe
+2023-12-07,go,28208,10,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2023-12-07,go,27359,7,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2023-12-07,go,50872,11,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2023-12-07,go,5185,4,"Kubernetes-based, scale-to-zero, request-driven compute",knative,serving,https://github.com/knative/serving
+2023-12-07,go,9371,8,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2023-12-07,go,5814,2,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2023-12-07,go,33757,4,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2023-12-07,go,111,14,,jvns,git-commit-folders,https://github.com/jvns/git-commit-folders
+2023-12-07,go,67025,12,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-12-07,go,13413,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-12-07,go,4686,1,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2023-12-07,go,14282,10,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2023-12-07,go,6717,3,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
