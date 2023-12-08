@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-08,go,8247,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-12-08,go,19535,42,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2023-12-08,go,39673,142,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-12-08,go,6883,9,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",containerd,nerdctl,https://github.com/containerd/nerdctl
+2023-12-08,go,14835,16,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2023-12-08,go,10439,6,"Manage your dotfiles across multiple diverse machines, securely.",twpayne,chezmoi,https://github.com/twpayne/chezmoi
+2023-12-08,go,192,17,"SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.",dub-flow,sessionprobe,https://github.com/dub-flow/sessionprobe
+2023-12-08,go,2585,3,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",testcontainers,testcontainers-go,https://github.com/testcontainers/testcontainers-go
+2023-12-08,go,4237,6,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-12-08,go,27,7,,devfullcycle,imersao16,https://github.com/devfullcycle/imersao16
+2023-12-08,go,3825,4,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2023-12-08,go,31090,10,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2023-12-08,go,892,1,Collection of extensions for OpenTelemetry-Go.,open-telemetry,opentelemetry-go-contrib,https://github.com/open-telemetry/opentelemetry-go-contrib
+2023-12-08,go,5282,17,The Havoc Framework.,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2023-12-08,go,18432,9,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-12-08,go,6720,9,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2023-12-08,go,16362,8,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2023-12-08,go,116229,38,The Go programming language,golang,go,https://github.com/golang/go
+2023-12-08,go,8461,2,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2023-12-08,go,34048,3,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2023-12-08,go,34398,13,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2023-12-08,go,17142,6,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2023-12-08,go,5263,3,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2023-12-08,go,7250,2,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2023-12-08,go,2180,5,"OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)",getkin,kin-openapi,https://github.com/getkin/kin-openapi

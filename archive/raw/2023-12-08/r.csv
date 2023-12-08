@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-08,r,5632,0,"A curated list of awesome R packages, frameworks and software.",qinwf,awesome-R,https://github.com/qinwf/awesome-R
+2023-12-08,r,1996,0,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2023-12-08,r,0,0,R scripts for a reproducible analysis of logistic growth,josegabrielnb,logistic_growth,https://github.com/josegabrielnb/logistic_growth
+2023-12-08,r,131,3,"Setting R Development Environment with VScode, Dev Containers, and Docker",RamiKrispin,vscode-r,https://github.com/RamiKrispin/vscode-r
+2023-12-08,r,1,0,,josegabrielnb,reproducible-research_homework,https://github.com/josegabrielnb/reproducible-research_homework
+2023-12-08,r,4201,1,R for data science: a book,hadley,r4ds,https://github.com/hadley/r4ds
+2023-12-08,r,6165,2,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2023-12-08,r,878,1,📊 A universal enrichment tool for interpreting omics data,YuLab-SMU,clusterProfiler,https://github.com/YuLab-SMU/clusterProfiler
+2023-12-08,r,174,0,,kpatel427,YouTubeTutorials,https://github.com/kpatel427/YouTubeTutorials
+2023-12-08,r,260,0,Community-provided extensions to Seurat,satijalab,seurat-wrappers,https://github.com/satijalab/seurat-wrappers
+2023-12-08,r,972,1,"Read flat files (csv, tsv, fwf) into R",tidyverse,readr,https://github.com/tidyverse/readr
+2023-12-08,r,6,0,Do not use this version of gridSVG as it is out of date. The version on CRAN is newer and development occurs on R-Forge.,sjp,gridSVG,https://github.com/sjp/gridSVG
+2023-12-08,r,533,1,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2023-12-08,r,321,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2023-12-08,r,3415,1,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2023-12-08,r,304,0,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2023-12-08,r,48,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",jinworks,CellChat,https://github.com/jinworks/CellChat
+2023-12-08,r,398,2,NicheNet: predict active ligand-target links between interacting cells,saeyslab,nichenetr,https://github.com/saeyslab/nichenetr
+2023-12-08,r,298,0,R package for performing 2-sample MR using MR-Base database,MRCIEU,TwoSampleMR,https://github.com/MRCIEU/TwoSampleMR
+2023-12-08,r,64,0,tools for the analysis of color data in R,rmaia,pavo,https://github.com/rmaia/pavo
+2023-12-08,r,560,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2023-12-08,r,477,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2023-12-08,r,924,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2023-12-08,r,264,0,,cole-trapnell-lab,monocle-release,https://github.com/cole-trapnell-lab/monocle-release
+2023-12-08,r,118,0,Fast truncated singular value decompositions,bwlewis,irlba,https://github.com/bwlewis/irlba
