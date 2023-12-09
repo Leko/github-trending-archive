@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-09,go,39736,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2023-12-09,go,20296,12,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-12-09,go,36477,14,An extremely fast bundler for the web,evanw,esbuild,https://github.com/evanw/esbuild
+2023-12-09,go,72931,28,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-12-09,go,23067,19,🐶 Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2023-12-09,go,14268,15,"The lightweight, distributed relational database built on SQLite",rqlite,rqlite,https://github.com/rqlite/rqlite
+2023-12-09,go,14586,10,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-12-09,go,13421,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-12-09,go,5127,7,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
+2023-12-09,go,45168,30,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2023-12-09,go,15620,12,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-12-09,go,40647,20,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2023-12-09,go,4725,4,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2023-12-09,go,31999,16,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2023-12-09,go,56637,29,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-12-09,go,5825,3,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2023-12-09,go,498,3,FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool.,FalconForceTeam,FalconHound,https://github.com/FalconForceTeam/FalconHound
+2023-12-09,go,15249,9,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-12-09,go,8464,0,Pure Go Postgres driver for database/sql,lib,pq,https://github.com/lib/pq
+2023-12-09,go,12975,10,☁️ Live reload for Go apps,cosmtrek,air,https://github.com/cosmtrek/air
+2023-12-09,go,16039,10,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-12-09,go,39576,22,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2023-12-09,go,915,6,Kubernetes-native Job Queueing,kubernetes-sigs,kueue,https://github.com/kubernetes-sigs/kueue
+2023-12-09,go,2379,1,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
+2023-12-09,go,18587,26,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
