@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-12,haskell,2462,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-12-12,haskell,9258,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-12-12,haskell,3919,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2023-12-12,haskell,4637,7,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-12-12,haskell,5401,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-12-12,haskell,1674,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2023-12-12,haskell,1956,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2023-12-12,haskell,2969,1,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-12-12,haskell,123,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2023-12-12,haskell,268,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2023-12-12,haskell,1232,0,Educational computer programming environment using Haskell,google,codeworld,https://github.com/google/codeworld
+2023-12-12,haskell,3164,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-12-12,haskell,21439,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-12-12,haskell,33866,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-12-12,haskell,200,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-12-12,haskell,1531,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-12-12,haskell,8,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2023-12-12,haskell,253,1,💻 Exercises for the Haskell Beginners 2022 course,haskell-beginners-2022,exercises,https://github.com/haskell-beginners-2022/exercises
+2023-12-12,haskell,142,0,Symbolic formula representation and solver interaction library,GaloisInc,what4,https://github.com/GaloisInc/what4
+2023-12-12,haskell,281,0,❇️ A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2023-12-12,haskell,224,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2023-12-12,haskell,81,0,Marlowe smart contract language Cardano implementation,input-output-hk,marlowe-cardano,https://github.com/input-output-hk/marlowe-cardano
+2023-12-12,haskell,400,0,A language for intent-centric and declarative decentralised applications,anoma,juvix,https://github.com/anoma/juvix
+2023-12-12,haskell,3165,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-12-12,haskell,728,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet

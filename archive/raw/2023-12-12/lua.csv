@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-12,lua,554,2,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2023-12-12,lua,6237,2,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2023-12-12,lua,10809,16,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-12-12,lua,16560,10,🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-12-12,lua,8514,5,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-12-12,lua,5782,8,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-12-12,lua,2297,0,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-12-12,lua,3865,5,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2023-12-12,lua,2824,1,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2023-12-12,lua,2292,4,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-12-12,lua,4113,7,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2023-12-12,lua,4446,5,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2023-12-12,lua,3790,3,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2023-12-12,lua,1854,6,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2023-12-12,lua,2453,2,"A fancy, configurable, notification manager for NeoVim",rcarriga,nvim-notify,https://github.com/rcarriga/nvim-notify
+2023-12-12,lua,2473,0,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2023-12-12,lua,2452,5,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-12-12,lua,5914,8,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2023-12-12,lua,1491,3,💫 Extensible UI for Neovim notifications and LSP progress messages.,j-hui,fidget.nvim,https://github.com/j-hui/fidget.nvim
+2023-12-12,lua,3745,4,💥 Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2023-12-12,lua,1300,4,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2023-12-12,lua,1219,2,Neovim plugin for a code outline window,stevearc,aerial.nvim,https://github.com/stevearc/aerial.nvim
+2023-12-12,lua,5498,4,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2023-12-12,lua,3794,5,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2023-12-12,lua,9722,19,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
