@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-13,go,21695,303,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-12-13,go,7373,11,DNS library in Go,miekg,dns,https://github.com/miekg/dns
+2023-12-13,go,3162,208,A language for writing HTML user interfaces in Go.,a-h,templ,https://github.com/a-h/templ
+2023-12-13,go,28135,328,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-12-13,go,5885,17,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2023-12-13,go,12960,28,"A scalable overlay networking tool with a focus on performance, simplicity and security",slackhq,nebula,https://github.com/slackhq/nebula
+2023-12-13,go,20336,18,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-12-13,go,6998,17,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2023-12-13,go,56722,34,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2023-12-13,go,9225,5,Code AI platform with Code Search & Cody,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2023-12-13,go,4695,4,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2023-12-13,go,4925,5,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-12-13,go,16826,5,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2023-12-13,go,13434,2,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-12-13,go,13994,36,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-12-13,go,6886,8,Fancy stream processing made operationally mundane,benthosdev,benthos,https://github.com/benthosdev/benthos
+2023-12-13,go,2607,15,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",testcontainers,testcontainers-go,https://github.com/testcontainers/testcontainers-go
+2023-12-13,go,14353,7,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
+2023-12-13,go,2327,2,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2023-12-13,go,5572,6,:chains: A Framework for Building High Value Public Blockchains :sparkles:,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2023-12-13,go,11876,1,🐠 Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2023-12-13,go,13123,9,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2023-12-13,go,14622,12,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2023-12-13,go,4281,84,The modern PHP app server,dunglas,frankenphp,https://github.com/dunglas/frankenphp
+2023-12-13,go,421,23,,chaseSpace,k8s-tutorial-cn,https://github.com/chaseSpace/k8s-tutorial-cn

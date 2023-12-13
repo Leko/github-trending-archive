@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-13,haskell,4645,8,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-12-13,haskell,2968,0,The core component that is used to participate in a Cardano decentralised blockchain.,input-output-hk,cardano-node,https://github.com/input-output-hk/cardano-node
+2023-12-13,haskell,728,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-12-13,haskell,9264,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-12-13,haskell,33878,13,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-12-13,haskell,0,0,My website,falgon,roki-web,https://github.com/falgon/roki-web
+2023-12-13,haskell,5400,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-12-13,haskell,268,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2023-12-13,haskell,200,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-12-13,haskell,21441,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-12-13,haskell,224,0,The ledger implementation and specifications of the Cardano blockchain.,input-output-hk,cardano-ledger,https://github.com/input-output-hk/cardano-ledger
+2023-12-13,haskell,142,0,Symbolic formula representation and solver interaction library,GaloisInc,what4,https://github.com/GaloisInc/what4
+2023-12-13,haskell,0,0,,belyaev-mikhail,hs-poly-test-repo,https://github.com/belyaev-mikhail/hs-poly-test-repo
+2023-12-13,haskell,1532,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-12-13,haskell,3165,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-12-13,haskell,2462,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-12-13,haskell,281,0,❇️ A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2023-12-13,haskell,556,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2023-12-13,haskell,13,0,This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.,input-output-hk,cardano-cli,https://github.com/input-output-hk/cardano-cli
+2023-12-13,haskell,125,0,"Pure Haskell commonmark parsing library, designed to be flexible and extensible",jgm,commonmark-hs,https://github.com/jgm/commonmark-hs

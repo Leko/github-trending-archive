@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-13,rust,4345,335,"⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",ast-grep,ast-grep,https://github.com/ast-grep/ast-grep
+2023-12-13,rust,9283,18,"Count your code, quickly.",XAMPPRocky,tokei,https://github.com/XAMPPRocky/tokei
+2023-12-13,rust,1642,99,A network diagnostic tool,fujiapple852,trippy,https://github.com/fujiapple852/trippy
+2023-12-13,rust,12359,25,✨ Magical shell history,atuinsh,atuin,https://github.com/atuinsh/atuin
+2023-12-13,rust,10979,65,"Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",slint-ui,slint,https://github.com/slint-ui/slint
+2023-12-13,rust,5081,92,Rust library that's all about cooking up terminal user interfaces (TUIs),ratatui-org,ratatui,https://github.com/ratatui-org/ratatui
+2023-12-13,rust,1153,3,Ethereum Virtual Machine written in rust that is fast and simple to use,bluealloy,revm,https://github.com/bluealloy/revm
+2023-12-13,rust,15947,17,Spotify for the terminal written in Rust 🚀,Rigellute,spotify-tui,https://github.com/Rigellute/spotify-tui
+2023-12-13,rust,1200,10,zkSync era,matter-labs,zksync-era,https://github.com/matter-labs/zksync-era
+2023-12-13,rust,8338,0,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2023-12-13,rust,71346,34,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-12-13,rust,23016,25,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-12-13,rust,14885,32,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2023-12-13,rust,40286,40,"A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2023-12-13,rust,3845,126,"🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",AleoHQ,leo,https://github.com/AleoHQ/leo
+2023-12-13,rust,26865,3,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2023-12-13,rust,22189,28,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2023-12-13,rust,21272,12,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2023-12-13,rust,6001,173,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",biomejs,biome,https://github.com/biomejs/biome
+2023-12-13,rust,7332,8,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2023-12-13,rust,13815,25,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-12-13,rust,4338,8,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2023-12-13,rust,11320,6,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2023-12-13,rust,13770,12,An interactive cheatsheet tool for the command-line,denisidoro,navi,https://github.com/denisidoro/navi
+2023-12-13,rust,11358,18,The next gen ls command,lsd-rs,lsd,https://github.com/lsd-rs/lsd
