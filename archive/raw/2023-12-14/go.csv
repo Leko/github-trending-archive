@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-14,go,3438,3,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2023-12-14,go,7416,33,DNS library in Go,miekg,dns,https://github.com/miekg/dns
+2023-12-14,go,435,89,Simplifying LLM ops in production,bricks-cloud,BricksLLM,https://github.com/bricks-cloud/BricksLLM
+2023-12-14,go,28181,66,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2023-12-14,go,4799,6,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2023-12-14,go,1126,269,"A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️",charmbracelet,huh,https://github.com/charmbracelet/huh
+2023-12-14,go,19243,13,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-12-14,go,1184,17,"Small, fast tool for performing reverse DNS lookups en masse.",hakluke,hakrevdns,https://github.com/hakluke/hakrevdns
+2023-12-14,go,6739,11,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2023-12-14,go,21956,259,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-12-14,go,5324,19,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2023-12-14,go,7148,15,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2023-12-14,go,20357,22,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2023-12-14,go,32110,33,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2023-12-14,go,18459,10,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-12-14,go,8519,15,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2023-12-14,go,3176,3,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2023-12-14,go,7908,7,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2023-12-14,go,14724,19,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",emirpasic,gods,https://github.com/emirpasic/gods
+2023-12-14,go,13143,14,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2023-12-14,go,14888,20,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2023-12-14,go,13959,8,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-12-14,go,20857,35,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2023-12-14,go,3014,6,"Hubble - Network, Service & Security Observability for Kubernetes using eBPF",cilium,hubble,https://github.com/cilium/hubble
+2023-12-14,go,16834,12,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
