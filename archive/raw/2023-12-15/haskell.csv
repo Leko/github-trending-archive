@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-15,haskell,21466,15,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-12-15,haskell,33890,12,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-12-15,haskell,9266,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-12-15,haskell,268,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,input-output-hk,cardano-db-sync,https://github.com/input-output-hk/cardano-db-sync
+2023-12-15,haskell,1218,0,A fast Haskell JSON library,haskell,aeson,https://github.com/haskell/aeson
+2023-12-15,haskell,2564,0,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-12-15,haskell,12,0,,input-output-hk,marconi,https://github.com/input-output-hk/marconi
+2023-12-15,haskell,2465,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-12-15,haskell,0,0,,belyaev-mikhail,hs-poly-test-repo,https://github.com/belyaev-mikhail/hs-poly-test-repo
+2023-12-15,haskell,2251,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2023-12-15,haskell,200,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-12-15,haskell,3919,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2023-12-15,haskell,1387,0,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2023-12-15,haskell,4657,6,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-12-15,haskell,30867,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-12-15,haskell,57,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
