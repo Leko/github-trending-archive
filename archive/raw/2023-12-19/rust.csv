@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-19,rust,1519,852,"Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy",anoma,namada,https://github.com/anoma/namada
+2023-12-19,rust,2723,117,👁‍🗨 Rare and exotic sats,ordinals,ord,https://github.com/ordinals/ord
+2023-12-19,rust,22353,35,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2023-12-19,rust,5604,215,⚓ A collection of JavaScript tools written in Rust.,oxc-project,oxc,https://github.com/oxc-project/oxc
+2023-12-19,rust,44874,39,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2023-12-19,rust,38096,23,"☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2023-12-19,rust,3901,1,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2023-12-19,rust,15988,11,"Anki's shared backend and web components, and the Qt frontend",ankitects,anki,https://github.com/ankitects/anki
+2023-12-19,rust,23271,14,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2023-12-19,rust,633,79,A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.,Totodore,socketioxide,https://github.com/Totodore/socketioxide
+2023-12-19,rust,669,18,"BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality",bionic-gpt,bionic-gpt,https://github.com/bionic-gpt/bionic-gpt
+2023-12-19,rust,12959,8,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2023-12-19,rust,11087,10,No Nonsense Neovim Client in Rust,neovide,neovide,https://github.com/neovide/neovide
+2023-12-19,rust,3654,10,An interpreter for Rust's mid-level intermediate representation,rust-lang,miri,https://github.com/rust-lang/miri
+2023-12-19,rust,17630,13,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2023-12-19,rust,208,18,A distributed thread-per-core document database,tontinton,dbeel,https://github.com/tontinton/dbeel
+2023-12-19,rust,10680,7,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2023-12-19,rust,13902,21,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-12-19,rust,44278,17,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2023-12-19,rust,7194,8,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2023-12-19,rust,3094,8,Light LDAP implementation,lldap,lldap,https://github.com/lldap/lldap
+2023-12-19,rust,3497,5,Rust bindings for the C++ api of PyTorch.,LaurentMazare,tch-rs,https://github.com/LaurentMazare/tch-rs
+2023-12-19,rust,2193,1,Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers,gakonst,ethers-rs,https://github.com/gakonst/ethers-rs
+2023-12-19,rust,44,9,evm 系列 以太坊 bsc matic avax okx 等 区块链 通用 快速 打铭文工具,okeyzero,evm_Ink_Rs,https://github.com/okeyzero/evm_Ink_Rs
+2023-12-19,rust,2074,63,Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel

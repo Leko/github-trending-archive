@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-19,haskell,30907,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2023-12-19,haskell,5408,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-12-19,haskell,3181,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2023-12-19,haskell,4673,2,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-12-19,haskell,2972,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2023-12-19,haskell,2469,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-12-19,haskell,21495,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2023-12-19,haskell,3170,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-12-19,haskell,837,1,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly
+2023-12-19,haskell,2566,0,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-12-19,haskell,33910,3,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-12-19,haskell,2203,1,💥💻💥 A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2023-12-19,haskell,200,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-12-19,haskell,0,0,Sources of the asblballondoxygene.be website.,RaphaelJ,asblballondoxygene.be,https://github.com/RaphaelJ/asblballondoxygene.be
+2023-12-19,haskell,1533,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-12-19,haskell,225,1,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2023-12-19,haskell,3919,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2023-12-19,haskell,9280,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-12-19,haskell,261,0,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
+2023-12-19,haskell,57,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2023-12-19,haskell,81,0,Marlowe smart contract language Cardano implementation,input-output-hk,marlowe-cardano,https://github.com/input-output-hk/marlowe-cardano
+2023-12-19,haskell,230,0,Implementation of the Hydra Head protocol,input-output-hk,hydra,https://github.com/input-output-hk/hydra
+2023-12-19,haskell,15,0,This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.,IntersectMBO,cardano-cli,https://github.com/IntersectMBO/cardano-cli
+2023-12-19,haskell,12,0,Cardano API,IntersectMBO,cardano-api,https://github.com/IntersectMBO/cardano-api
+2023-12-19,haskell,1966,3,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
