@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-20,lua,9862,26,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-12-20,lua,132,10,"DCS Olympus is a independent and non-profit mod for DCS World. It allows users to spawn, control, task, group, and remove units from a DCS World server using a real-time map interface, similarly to Real Time Strategy games.",Pax1601,DCSOlympus,https://github.com/Pax1601/DCSOlympus
+2023-12-20,lua,13074,8,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-12-20,lua,10959,24,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-12-20,lua,2479,4,A well configured and structured Neovim.,ayamir,nvimdots,https://github.com/ayamir/nvimdots
+2023-12-20,lua,1292,7,Obsidian 🤝 Neovim,epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2023-12-20,lua,8567,6,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2023-12-20,lua,11,2,,WaypointRP,wp-tow-hauling,https://github.com/WaypointRP/wp-tow-hauling
+2023-12-20,lua,1382,2,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2023-12-20,lua,16606,9,🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2023-12-20,lua,2490,5,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-12-20,lua,2335,4,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2023-12-20,lua,141,3,Neovim :: M Λ C R O - Editing made simple,Bekaboo,nvim,https://github.com/Bekaboo/nvim
+2023-12-20,lua,36489,10,🦍 The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2023-12-20,lua,20596,13,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2023-12-20,lua,1707,3,"Not UFO in the sky, but an ultra fold in Neovim.",kevinhwang91,nvim-ufo,https://github.com/kevinhwang91/nvim-ufo
+2023-12-20,lua,2288,3,Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.,kylechui,nvim-surround,https://github.com/kylechui/nvim-surround
+2023-12-20,lua,10818,6,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2023-12-20,lua,1241,2,"One dark and light colorscheme for neovim >= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles",navarasu,onedark.nvim,https://github.com/navarasu/onedark.nvim
+2023-12-20,lua,1755,6,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2023-12-20,lua,67,1,Neovim Lua plugin for fast and familiar per-line commenting. Part of 'mini.nvim' library.,echasnovski,mini.comment,https://github.com/echasnovski/mini.comment
+2023-12-20,lua,63,1,Neovim Lua plugin to automatically manage character pairs. Part of 'mini.nvim' library.,echasnovski,mini.pairs,https://github.com/echasnovski/mini.pairs
+2023-12-20,lua,145,1,Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.,echasnovski,mini.surround,https://github.com/echasnovski/mini.surround
+2023-12-20,lua,50,2,Neovim Lua plugin to remove buffers. Part of 'mini.nvim' library.,echasnovski,mini.bufremove,https://github.com/echasnovski/mini.bufremove
+2023-12-20,lua,87,0,,nvim-neotest,neotest-jest,https://github.com/nvim-neotest/neotest-jest

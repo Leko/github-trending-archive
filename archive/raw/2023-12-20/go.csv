@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-20,go,8356,45,"World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.",bytebase,bytebase,https://github.com/bytebase/bytebase
+2023-12-20,go,18483,7,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-12-20,go,34342,9,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-12-20,go,16169,7,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",casbin,casbin,https://github.com/casbin/casbin
+2023-12-20,go,1490,239,"SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396",francoismichel,ssh3,https://github.com/francoismichel/ssh3
+2023-12-20,go,67074,4,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2023-12-20,go,44303,11,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-12-20,go,25126,1228,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-12-20,go,9864,27,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2023-12-20,go,2409,0,Main repository for Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2023-12-20,go,27340,18,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2023-12-20,go,5588,5,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2023-12-20,go,132,13,Observability at 100x Efficiency,siglens,siglens,https://github.com/siglens/siglens
+2023-12-20,go,743,1,Celestia Data Availability Nodes,celestiaorg,celestia-node,https://github.com/celestiaorg/celestia-node
+2023-12-20,go,9674,3,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",ory,kratos,https://github.com/ory/kratos
+2023-12-20,go,2393,2,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
+2023-12-20,go,7936,5,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2023-12-20,go,19270,8,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2023-12-20,go,24781,14,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-12-20,go,261,6,PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk,celestiaorg,celestia-app,https://github.com/celestiaorg/celestia-app
+2023-12-20,go,14425,20,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2023-12-20,go,13996,11,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-12-20,go,21184,68,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2023-12-20,go,19652,5,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2023-12-20,go,3247,8,The Finch CLI an open source client for container development,runfinch,finch,https://github.com/runfinch/finch
