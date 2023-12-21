@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-21,scala,4127,1,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2023-12-21,scala,6146,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2023-12-21,scala,37445,5,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2023-12-21,scala,1817,3,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2023-12-21,scala,820,1,Gluten: Plugin to Double SparkSQL's Performance,oap-project,gluten,https://github.com/oap-project/gluten
+2023-12-21,scala,5486,2,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2023-12-21,scala,1,0,i'm numa08,numa08,numa08,https://github.com/numa08/numa08
+2023-12-21,scala,48,0,Scala Center's solution of Advent of Code,scalacenter,scala-advent-of-code,https://github.com/scalacenter/scala-advent-of-code
+2023-12-21,scala,10328,6,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2023-12-21,scala,605,1,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2023-12-21,scala,0,0,,pityka,egyezoek,https://github.com/pityka/egyezoek
+2023-12-21,scala,12837,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2023-12-21,scala,14224,0,Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/lampepfl/dotty,scala,scala,https://github.com/scala/scala
+2023-12-21,scala,2501,0,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2023-12-21,scala,2340,0,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2023-12-21,scala,60456,10,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2023-12-21,scala,3535,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2023-12-21,scala,3028,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2023-12-21,scala,12480,1,The Community Maintained High Velocity Web Framework For Java and Scala.,playframework,playframework,https://github.com/playframework/playframework
+2023-12-21,scala,652,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2023-12-21,scala,251,1,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2023-12-21,scala,230,0,The repository for the free Scala at Light Speed mini-course,rockthejvm,scala-at-light-speed,https://github.com/rockthejvm/scala-at-light-speed
+2023-12-21,scala,2880,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2023-12-21,scala,3914,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2023-12-21,scala,412,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel

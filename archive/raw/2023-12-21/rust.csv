@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-21,rust,3869,22,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2023-12-21,rust,1749,154,"Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy",anoma,namada,https://github.com/anoma/namada
+2023-12-21,rust,10632,10,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2023-12-21,rust,29873,25,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2023-12-21,rust,482,18,A minimalistic crossplatform image viewer written in rust,woelper,oculante,https://github.com/woelper/oculante
+2023-12-21,rust,42069,24,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2023-12-21,rust,355,7,Counter-Strike 2 Offset Dumper,a2x,cs2-dumper,https://github.com/a2x/cs2-dumper
+2023-12-21,rust,15001,12,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2023-12-21,rust,2156,34,Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2023-12-21,rust,710,17,"BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality",bionic-gpt,bionic-gpt,https://github.com/bionic-gpt/bionic-gpt
+2023-12-21,rust,24242,51,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2023-12-21,rust,8273,7,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2023-12-21,rust,71595,44,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-12-21,rust,11322,10,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2023-12-21,rust,26917,17,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2023-12-21,rust,13933,14,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2023-12-21,rust,22355,10,A web framework for Rust.,rwf2,Rocket,https://github.com/rwf2/Rocket
+2023-12-21,rust,12038,5,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,getzola,zola,https://github.com/getzola/zola
+2023-12-21,rust,30006,35,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2023-12-21,rust,5579,2,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2023-12-21,rust,3906,0,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2023-12-21,rust,50078,26,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2023-12-21,rust,240,5,Kaspa full-node and related libraries in the Rust programming language. This is an Alpha version at the initial testing phase.,kaspanet,rusty-kaspa,https://github.com/kaspanet/rusty-kaspa
+2023-12-21,rust,16768,12,"🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten",wasmerio,wasmer,https://github.com/wasmerio/wasmer
+2023-12-21,rust,1626,1,rust wrapper for rocksdb,rust-rocksdb,rust-rocksdb,https://github.com/rust-rocksdb/rust-rocksdb

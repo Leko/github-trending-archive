@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-21,go,26091,739,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-12-21,go,14015,21,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-12-21,go,15745,19,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-12-21,go,8042,8,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2023-12-21,go,25748,7,A standard library for microservices.,go-kit,kit,https://github.com/go-kit/kit
+2023-12-21,go,5862,14,A blazingly fast JSON serializing & deserializing library,bytedance,sonic,https://github.com/bytedance/sonic
+2023-12-21,go,7205,3,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-12-21,go,15311,10,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2023-12-21,go,8290,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-12-21,go,1571,33,A Linux high-performance transparent proxy solution based on eBPF.,daeuniverse,dae,https://github.com/daeuniverse/dae
+2023-12-21,go,8511,282,"World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.",bytebase,bytebase,https://github.com/bytebase/bytebase
+2023-12-21,go,14740,9,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2023-12-21,go,10633,4,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2023-12-21,go,7299,6,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",drakkan,sftpgo,https://github.com/drakkan/sftpgo
+2023-12-21,go,21918,8,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-12-21,go,4436,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-12-21,go,24796,16,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-12-21,go,153,21,Observability at 100x Efficiency,siglens,siglens,https://github.com/siglens/siglens
+2023-12-21,go,73145,22,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2023-12-21,go,2529,6,Go support for Google's protocol buffers,protocolbuffers,protobuf-go,https://github.com/protocolbuffers/protobuf-go
+2023-12-21,go,4632,6,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2023-12-21,go,2596,6,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2023-12-21,go,43463,13,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2023-12-21,go,16179,13,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",casbin,casbin,https://github.com/casbin/casbin
+2023-12-21,go,21350,8,Elegant Scraper and Crawler Framework for Golang,gocolly,colly,https://github.com/gocolly/colly
