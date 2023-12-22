@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-22,go,203,68,"This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper ""Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation"".",RUB-NDS,Terrapin-Scanner,https://github.com/RUB-NDS/Terrapin-Scanner
+2023-12-22,go,26990,1502,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-12-22,go,14030,14,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-12-22,go,24809,17,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2023-12-22,go,4625,52,The modern PHP app server,dunglas,frankenphp,https://github.com/dunglas/frankenphp
+2023-12-22,go,18494,8,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2023-12-22,go,8687,5,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-12-22,go,103980,33,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2023-12-22,go,8542,52,"World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.",bytebase,bytebase,https://github.com/bytebase/bytebase
+2023-12-22,go,4607,21,"Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",GhostTroops,scan4all,https://github.com/GhostTroops/scan4all
+2023-12-22,go,15774,30,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-12-22,go,7787,32,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2023-12-22,go,7984,26,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2023-12-22,go,3627,10,Giving Kubernetes Superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2023-12-22,go,8047,7,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2023-12-22,go,7205,18,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2023-12-22,go,9044,10,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2023-12-22,go,24725,30,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-12-22,go,2226,5,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2023-12-22,go,16132,14,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2023-12-22,go,18508,9,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀,pulumi,pulumi,https://github.com/pulumi/pulumi
+2023-12-22,go,6766,7,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2023-12-22,go,4523,13,Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store,majd,ipatool,https://github.com/majd/ipatool
+2023-12-22,go,1590,19,A Linux high-performance transparent proxy solution based on eBPF.,daeuniverse,dae,https://github.com/daeuniverse/dae
+2023-12-22,go,8130,19,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
