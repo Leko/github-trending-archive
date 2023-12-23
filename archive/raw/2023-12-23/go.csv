@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-23,go,27372,392,Get up and running with Llama 2 and other large language models locally,jmorganca,ollama,https://github.com/jmorganca/ollama
+2023-12-23,go,263,91,"This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper ""Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation"".",RUB-NDS,Terrapin-Scanner,https://github.com/RUB-NDS/Terrapin-Scanner
+2023-12-23,go,24740,30,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2023-12-23,go,14042,17,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-12-23,go,43489,15,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2023-12-23,go,20842,12,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-12-23,go,7992,8,Cloud Native Control Planes,crossplane,crossplane,https://github.com/crossplane/crossplane
+2023-12-23,go,8144,19,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-12-23,go,7213,7,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2023-12-23,go,11619,4,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2023-12-23,go,7365,44,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-12-23,go,4630,30,"Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",GhostTroops,scan4all,https://github.com/GhostTroops/scan4all
+2023-12-23,go,10228,2,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2023-12-23,go,116535,26,The Go programming language,golang,go,https://github.com/golang/go
+2023-12-23,go,35405,10,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2023-12-23,go,15791,22,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2023-12-23,go,7810,27,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2023-12-23,go,17398,21,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2023-12-23,go,16111,8,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-12-23,go,14373,9,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2023-12-23,go,13457,2,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2023-12-23,go,21107,8,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2023-12-23,go,10638,3,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2023-12-23,go,914,3,bookget 数字古籍图书下载工具,deweizhu,bookget,https://github.com/deweizhu/bookget
+2023-12-23,go,28316,11,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
