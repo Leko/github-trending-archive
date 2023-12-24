@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-24,go,578,98,A Matrix-iMessage puppeting bridge.,beeper,imessage,https://github.com/beeper/imessage
+2023-12-24,go,308,37,"This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper ""Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation"".",RUB-NDS,Terrapin-Scanner,https://github.com/RUB-NDS/Terrapin-Scanner
+2023-12-24,go,58,12,A small service that generates iMessage registration data on a Mac,beeper,mac-registration-provider,https://github.com/beeper/mac-registration-provider
+2023-12-24,go,75162,26,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2023-12-24,go,8705,7,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-12-24,go,14328,27,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2023-12-24,go,25309,14,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2023-12-24,go,4701,5,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2023-12-24,go,7614,8,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS",casbin,casdoor,https://github.com/casbin/casdoor
+2023-12-24,go,3049,1,OCI Image Format,opencontainers,image-spec,https://github.com/opencontainers/image-spec
+2023-12-24,go,7219,9,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2023-12-24,go,4428,4,A Devtools driver for web automation and scraping,go-rod,rod,https://github.com/go-rod/rod
+2023-12-24,go,4448,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2023-12-24,go,1295,1,Algorand's official implementation in Go.,algorand,go-algorand,https://github.com/algorand/go-algorand
+2023-12-24,go,20853,10,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-12-24,go,4650,23,"Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",GhostTroops,scan4all,https://github.com/GhostTroops/scan4all
+2023-12-24,go,7827,12,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2023-12-24,go,18941,15,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2023-12-24,go,14050,10,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2023-12-24,go,12097,2,Pure Go implementation of the WebRTC API,pion,webrtc,https://github.com/pion/webrtc
+2023-12-24,go,13224,19,"Linux virtual machines, with a focus on running containers",lima-vm,lima,https://github.com/lima-vm/lima
+2023-12-24,go,16115,5,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2023-12-24,go,8148,5,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2023-12-24,go,2443,8,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,WireGuard,wireguard-go,https://github.com/WireGuard/wireguard-go
+2023-12-24,go,9989,8,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
