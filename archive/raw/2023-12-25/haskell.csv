@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-25,haskell,33996,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2023-12-25,haskell,2476,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2023-12-25,haskell,2606,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2023-12-25,haskell,24,1,Advent of Code,mrphlip,aoc,https://github.com/mrphlip/aoc
+2023-12-25,haskell,558,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2023-12-25,haskell,3173,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2023-12-25,haskell,730,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2023-12-25,haskell,5419,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2023-12-25,haskell,484,0,Haskell-based shell scripting language,chrisdone,hell,https://github.com/chrisdone/hell
+2023-12-25,haskell,40,0,Open-source Smart Order Router framework to connect liquidity from the Genius Yield DEX,geniusyield,smart-order-router,https://github.com/geniusyield/smart-order-router
+2023-12-25,haskell,837,0,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly
+2023-12-25,haskell,8353,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2023-12-25,haskell,1,0,Rust backend for Copilot,Copilot-Language,copilot-rust,https://github.com/Copilot-Language/copilot-rust
+2023-12-25,haskell,18,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2023-12-25,haskell,7353,3,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2023-12-25,haskell,478,0,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2023-12-25,haskell,394,0,A Haskell library for creating WebSocket-capable servers,jaspervdj,websockets,https://github.com/jaspervdj/websockets
+2023-12-25,haskell,9295,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2023-12-25,haskell,1534,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2023-12-25,haskell,4689,8,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2023-12-25,haskell,200,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2023-12-25,haskell,2567,0,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2023-12-25,haskell,1129,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2023-12-25,haskell,405,1,A language for intent-centric and declarative decentralised applications,anoma,juvix,https://github.com/anoma/juvix
+2023-12-25,haskell,1674,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
