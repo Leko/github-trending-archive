@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-29,rust,1786,127,"CSVs sliced, diced & analyzed.",jqnatividad,qsv,https://github.com/jqnatividad/qsv
+2023-12-29,rust,1902,34,"Use GPT-4(V), Gemini, LocalAI, Ollama and other LLMs in the terminal.",sigoden,aichat,https://github.com/sigoden/aichat
+2023-12-29,rust,20197,39,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用,tw93,Pake,https://github.com/tw93/Pake
+2023-12-29,rust,12595,47,Application to comfortably monitor your Internet traffic 🕵️‍♂️,GyulyVGC,sniffnet,https://github.com/GyulyVGC/sniffnet
+2023-12-29,rust,39650,30,A curated list of Rust code and resources.,rust-unofficial,awesome-rust,https://github.com/rust-unofficial/awesome-rust
+2023-12-29,rust,10283,12,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2023-12-29,rust,13442,26,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2023-12-29,rust,15100,16,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2023-12-29,rust,39085,91,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2023-12-29,rust,9690,12,"Cross-platform, safe, pure-rust graphics api.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2023-12-29,rust,29848,28,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2023-12-29,rust,13193,22,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2023-12-29,rust,15208,31,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2023-12-29,rust,6477,14,A fast Rust-based web bundler 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2023-12-29,rust,8847,58,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2023-12-29,rust,15683,14,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2023-12-29,rust,5568,7,🐚 An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2023-12-29,rust,7588,24,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2023-12-29,rust,13983,7,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2023-12-29,rust,46,6,Re-imagined approach to application design and architecture,GregoryConrad,rearch-rs,https://github.com/GregoryConrad/rearch-rs
+2023-12-29,rust,71828,45,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2023-12-29,rust,3189,8,Incomplete Redis client and server implementation using Tokio - for learning purposes only,tokio-rs,mini-redis,https://github.com/tokio-rs/mini-redis
+2023-12-29,rust,23232,14,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2023-12-29,rust,2369,12,"HoraeDB is a high-performance, distributed, cloud native time-series database.",apache,incubator-horaedb,https://github.com/apache/incubator-horaedb
+2023-12-29,rust,29392,65,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
