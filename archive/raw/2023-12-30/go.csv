@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-30,go,7796,89,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2023-12-30,go,20922,17,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2023-12-30,go,17238,52,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2023-12-30,go,27758,6,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2023-12-30,go,34443,13,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2023-12-30,go,5621,4,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2023-12-30,go,21894,7,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2023-12-30,go,44374,19,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2023-12-30,go,5881,7,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2023-12-30,go,7906,4,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2023-12-30,go,8725,4,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2023-12-30,go,4717,11,A self hosted virtual browser that runs in docker and uses WebRTC.,m1k1o,neko,https://github.com/m1k1o/neko
+2023-12-30,go,10993,7,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2023-12-30,go,9057,17,A QUIC implementation in pure go,quic-go,quic-go,https://github.com/quic-go/quic-go
+2023-12-30,go,2690,13,一个直播录制工具,hr3lxphr6j,bililive-go,https://github.com/hr3lxphr6j/bililive-go
+2023-12-30,go,7228,6,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2023-12-30,go,3492,10,Realtime log viewer for docker containers.,amir20,dozzle,https://github.com/amir20/dozzle
+2023-12-30,go,4274,1,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2023-12-30,go,116654,37,The Go programming language,golang,go,https://github.com/golang/go
+2023-12-30,go,8310,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2023-12-30,go,21947,2,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2023-12-30,go,5166,4,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
+2023-12-30,go,4964,5,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2023-12-30,go,5548,3,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2023-12-30,go,10587,8,In-depth attack surface mapping and asset discovery,owasp-amass,amass,https://github.com/owasp-amass/amass
