@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-31,lua,10176,29,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2023-12-31,lua,2536,3,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2023-12-31,lua,114,7,a simple lua neovim configuration for newbs,cpow,neovim-for-newbs,https://github.com/cpow/neovim-for-newbs
+2023-12-31,lua,1270,1,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2023-12-31,lua,11132,20,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2023-12-31,lua,1399,4,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2023-12-31,lua,5910,7,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2023-12-31,lua,1911,2,The neovim tabline plugin.,romgrk,barbar.nvim,https://github.com/romgrk/barbar.nvim
+2023-12-31,lua,1415,52,Obsidian 🤝 Neovim,epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2023-12-31,lua,2329,1,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2023-12-31,lua,13136,2,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2023-12-31,lua,369,2,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2023-12-31,lua,260,0,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2023-12-31,lua,1392,4,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2023-12-31,lua,3273,1,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2023-12-31,lua,9079,24,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2023-12-31,lua,12324,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2023-12-31,lua,187,3,"Download Olympus here: https://github.com/Pax1601/DCSOlympus/releases. DCS Olympus is a independent and non-profit mod for DCS World. It allows users to spawn, control, task, group, and remove units from a DCS World server using a real-time map interface, similarly to Real Time Strategy games.",Pax1601,DCSOlympus,https://github.com/Pax1601/DCSOlympus
+2023-12-31,lua,14313,8,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2023-12-31,lua,1654,2,"💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2023-12-31,lua,2978,2,ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API,jackMort,ChatGPT.nvim,https://github.com/jackMort/ChatGPT.nvim
+2023-12-31,lua,1692,2,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest
+2023-12-31,lua,2551,1,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2023-12-31,lua,2541,5,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2023-12-31,lua,1244,0,Neovim plugin for a code outline window,stevearc,aerial.nvim,https://github.com/stevearc/aerial.nvim

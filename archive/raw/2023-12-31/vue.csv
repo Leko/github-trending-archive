@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-31,vue,1706,11,⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。,zclzone,vue-naive-admin,https://github.com/zclzone/vue-naive-admin
+2023-12-31,vue,70,19,迈特短剧系统是一款功能强大的海外短剧 SaaS 平台，包含H5、安卓APP、苹果APPP多种展示形式，支持PayPal支付、Stripe，多语言选择，提供无限多开的开源系统。该系统提供了丰富的短剧资源，支持用户免费观看热门短剧、影视作品，同时也支持多种付费观看方式，如单人、全款和会员等，满足不同用户的需求。,helloqyg,MettShortOverseas,https://github.com/helloqyg/MettShortOverseas
+2023-12-31,vue,1426,9,Vue port of shadcn-ui,radix-vue,shadcn-vue,https://github.com/radix-vue/shadcn-vue
+2023-12-31,vue,99,5,"An open-source alternative to v0.dev. Cost-effective, highly customizable, and seamlessly integrated within GitHub.",Yuyz0112,vx.dev,https://github.com/Yuyz0112/vx.dev
+2023-12-31,vue,4706,3,A nimble Mastodon web client,elk-zone,elk,https://github.com/elk-zone/elk
+2023-12-31,vue,836,6,"AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI 绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",yangjian102621,chatgpt-plus,https://github.com/yangjian102621/chatgpt-plus
+2023-12-31,vue,2523,3,"A UI Library for Modern Web Apps, powered by Vue & TailwindCSS.",nuxt,ui,https://github.com/nuxt/ui
+2023-12-31,vue,274,39,支持GeminiPro Vision / Cloudflare Workers AI / ChatGPT的融合Web平台,Jazee6,cloudflare-ai-web,https://github.com/Jazee6/cloudflare-ai-web
+2023-12-31,vue,2002,17,Beautiful API references from Swagger/OpenAPI files ✨,scalar,scalar,https://github.com/scalar/scalar
+2023-12-31,vue,735,1,芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。,yudaocode,yudao-ui-admin-vue3,https://github.com/yudaocode/yudao-ui-admin-vue3
+2023-12-31,vue,16,1,开放签电子签章/电子合同开源工具版前端源代码，主要功能包括：手写面板/手写签名，印章生成，文件签署，根据关键字定位签署位置，拖动签名定位签署位置，您通过源代码基本可以掌握市面上电子签章/电子合同等产品在前端层面的技术，便于您自行构建电子签章/电子合同系统。,kaifangqian,open-sign-vue,https://github.com/kaifangqian/open-sign-vue
+2023-12-31,vue,1669,6,"Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",radix-vue,radix-vue,https://github.com/radix-vue/radix-vue
+2023-12-31,vue,8811,0,⚡️ Blazing fast scrolling for any amount of data,Akryum,vue-virtual-scroller,https://github.com/Akryum/vue-virtual-scroller
+2023-12-31,vue,19129,5,🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜,vueComponent,ant-design-vue,https://github.com/vueComponent/ant-design-vue
+2023-12-31,vue,3065,2,"基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.",nihaojob,vue-fabric-editor,https://github.com/nihaojob/vue-fabric-editor
+2023-12-31,vue,365,0,基于Vue3 + WebRTC + Node + SRS搭建的直播间,galaxy-s10,billd-live,https://github.com/galaxy-s10/billd-live
+2023-12-31,vue,3773,4,🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。,XPoet,picx,https://github.com/XPoet/picx
+2023-12-31,vue,2661,0,📄 Documentation for Vue 3,vuejs,docs,https://github.com/vuejs/docs
+2023-12-31,vue,2931,3,"基于 vite4.x/vue-cli5.x + vue3.x + ant-design-vue4.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面",buqiyuan,vue3-antdv-admin,https://github.com/buqiyuan/vue3-antdv-admin
+2023-12-31,vue,11593,9,🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）,pure-admin,vue-pure-admin,https://github.com/pure-admin/vue-pure-admin
+2023-12-31,vue,4335,0,"Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。",jekip,naive-ui-admin,https://github.com/jekip/naive-ui-admin
+2023-12-31,vue,3161,2,Free and Open Source UI Library for Vue 3 🤘,epicmaxco,vuestic-ui,https://github.com/epicmaxco/vuestic-ui
+2023-12-31,vue,5326,13,Interface for Snapshot. Join us on Discord http://discord.snapshot.org,snapshot-labs,snapshot,https://github.com/snapshot-labs/snapshot
+2023-12-31,vue,233,0,前后端分离机场面板AirGo,ppoonk,AirGo,https://github.com/ppoonk/AirGo
+2023-12-31,vue,5548,3,✨✨✨ Geeker Admin，基于 Vue3.3、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。,HalseySpicy,Geeker-Admin,https://github.com/HalseySpicy/Geeker-Admin

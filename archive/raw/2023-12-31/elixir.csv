@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2023-12-31,elixir,20225,5,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2023-12-31,elixir,5533,4,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2023-12-31,elixir,17156,5,"Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2023-12-31,elixir,94,0,🛡 Public database of Elixir security advisories pulled from GitHub Advisory Database,mirego,elixir-security-advisories,https://github.com/mirego/elixir-security-advisories
+2023-12-31,elixir,2910,1,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2023-12-31,elixir,39,2,"Writing Phoenix controllers, templates, plugs, and live views from Erlang",josevalim,erl_phoenix,https://github.com/josevalim/erl_phoenix
+2023-12-31,elixir,280,0,"Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",elixir-lsp,elixir_sense,https://github.com/elixir-lsp/elixir_sense
+2023-12-31,elixir,87,3,Collection of Phoenix components,woylie,doggo,https://github.com/woylie/doggo
+2023-12-31,elixir,6267,0,"Broadcast, Presence, and Postgres Changes via WebSockets",supabase,realtime,https://github.com/supabase/realtime
+2023-12-31,elixir,4821,8,A self-hosted data logger for your Tesla 🚘,teslamate-org,teslamate,https://github.com/teslamate-org/teslamate
+2023-12-31,elixir,22400,5,"Elixir is a dynamic, functional language for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2023-12-31,elixir,2873,2,"💎 Robust job processing in Elixir, backed by modern PostgreSQL or SQLite3",sorentwo,oban,https://github.com/sorentwo/oban
+2023-12-31,elixir,14,0,Console adapter/logger for Spandex traces & spans.,pepsico-ecommerce,spandex_console,https://github.com/pepsico-ecommerce/spandex_console
+2023-12-31,elixir,4078,0,Automate code & data workflows with interactive Elixir notebooks,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2023-12-31,elixir,1320,0,"A frontend-independent IDE ""smartness"" server for Elixir. Implements the ""Language Server Protocol"" standard and provides debugger support via the ""Debug Adapter Protocol""",elixir-lsp,elixir-ls,https://github.com/elixir-lsp/elixir-ls
+2023-12-31,elixir,5893,0,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2023-12-31,elixir,24,0,The fusion_auth library provides an Elixir API for accessing the FusionAuth Developer APIs.,leo-technologies-llc,fusion_auth,https://github.com/leo-technologies-llc/fusion_auth
+2023-12-31,elixir,2953,0,Simplify deployments in Elixir with OTP releases!,bitwalker,distillery,https://github.com/bitwalker/distillery
+2023-12-31,elixir,14,0,,elixir-tools,spitfire,https://github.com/elixir-tools/spitfire
