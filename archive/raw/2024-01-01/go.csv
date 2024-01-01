@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-01,go,9235,42,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",apache,incubator-answer,https://github.com/apache/incubator-answer
+2024-01-01,go,7892,34,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",songquanpeng,one-api,https://github.com/songquanpeng/one-api
+2024-01-01,go,31605,51,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2024-01-01,go,11318,15,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",apernet,hysteria,https://github.com/apernet/hysteria
+2024-01-01,go,20017,11,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-01-01,go,14606,11,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2024-01-01,go,30649,21,AI-Powered Photos App for the Decentralized Web 🌈💎✨,photoprism,photoprism,https://github.com/photoprism/photoprism
+2024-01-01,go,10229,42,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-01-01,go,39922,6,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-01-01,go,4608,4,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-01-01,go,3527,18,Realtime log viewer for docker containers.,amir20,dozzle,https://github.com/amir20/dozzle
+2024-01-01,go,26330,12,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2024-01-01,go,7312,0,Lightning Network Daemon ⚡️,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2024-01-01,go,14581,7,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",FiloSottile,age,https://github.com/FiloSottile/age
+2024-01-01,go,19889,16,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-01-01,go,12342,1,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2024-01-01,go,11881,4,The developer platform for on-demand cloud development environments to create software faster and more securely.,gitpod-io,gitpod,https://github.com/gitpod-io/gitpod
+2024-01-01,go,21661,21,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-01-01,go,2069,29,"SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396",francoismichel,ssh3,https://github.com/francoismichel/ssh3
+2024-01-01,go,5795,13,"ZITADEL - Identity infrastructure, simplified for you.",zitadel,zitadel,https://github.com/zitadel/zitadel
+2024-01-01,go,2165,7,Sonne tanken ☀️🚘,evcc-io,evcc,https://github.com/evcc-io/evcc
+2024-01-01,go,19771,2,"🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2024-01-01,go,162,19,Workout diary with GitHub-style year visualization,aceberg,ExerciseDiary,https://github.com/aceberg/ExerciseDiary
+2024-01-01,go,13142,8,The most customisable and low-latency cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2024-01-01,go,1318,8,The Kubefirst Open Source Platform,kubefirst,kubefirst,https://github.com/kubefirst/kubefirst

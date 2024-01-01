@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-01,haskell,4715,4,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-01-01,haskell,31032,6,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-01-01,haskell,3182,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-01-01,haskell,2481,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-01-01,haskell,3209,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-01-01,haskell,2879,9,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2024-01-01,haskell,9323,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-01-01,haskell,0,0,,belyaev-mikhail,hs-poly-test-repo,https://github.com/belyaev-mikhail/hs-poly-test-repo
+2024-01-01,haskell,281,0,❇️ A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2024-01-01,haskell,730,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2024-01-01,haskell,1535,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-01-01,haskell,34068,9,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-01-01,haskell,2979,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-01-01,haskell,396,0,A Haskell library for creating WebSocket-capable servers,jaspervdj,websockets,https://github.com/jaspervdj/websockets
+2024-01-01,haskell,557,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-01-01,haskell,226,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-01-01,haskell,838,0,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly
+2024-01-01,haskell,21605,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-01-01,haskell,1676,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2024-01-01,haskell,5426,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-01-01,haskell,440,0,API for protocol buffers using modern Haskell language and library patterns.,google,proto-lens,https://github.com/google/proto-lens
+2024-01-01,haskell,113,0,"Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",mtolly,onyx,https://github.com/mtolly/onyx
+2024-01-01,haskell,6,0,Accelerates K Framework's Haskell backend,runtimeverification,hs-backend-booster,https://github.com/runtimeverification/hs-backend-booster
+2024-01-01,haskell,3,0,Market maker for the Genius Yield DEX,geniusyield,market-maker,https://github.com/geniusyield/market-maker
+2024-01-01,haskell,2609,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
