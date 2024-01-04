@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-04,shell,79795,55,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2024-01-04,shell,25479,122,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2024-01-04,shell,2155,2,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-01-04,shell,165554,52,"🙃 A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2024-01-04,shell,1832,215,"Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs.",ublue-os,bazzite,https://github.com/ublue-os/bazzite
+2024-01-04,shell,12541,17,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2024-01-04,shell,8983,3,Combination of multiple linters to install as a GitHub Action,super-linter,super-linter,https://github.com/super-linter/super-linter
+2024-01-04,shell,72721,28,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-01-04,shell,4169,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-01-04,shell,40623,32,A Zsh theme,romkatv,powerlevel10k,https://github.com/romkatv/powerlevel10k
+2024-01-04,shell,2768,3,pre-commit git hooks to take care of Terraform configurations 🇺🇦,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2024-01-04,shell,6414,5,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2024-01-04,shell,5844,1,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2024-01-04,shell,6899,4,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-01-04,shell,9285,3,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2024-01-04,shell,3345,6,"Cloudflare WARP Installer | WARP 一键安装脚本",P3TERX,warp.sh,https://github.com/P3TERX/warp.sh
+2024-01-04,shell,44374,27,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2024-01-04,shell,5288,2,Manage your Java environment,jenv,jenv,https://github.com/jenv/jenv
+2024-01-04,shell,2122,10,"1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",HariSekhon,DevOps-Bash-tools,https://github.com/HariSekhon/DevOps-Bash-tools
+2024-01-04,shell,10492,5,Tmux Plugin Manager,tmux-plugins,tpm,https://github.com/tmux-plugins/tpm
+2024-01-04,shell,11199,3,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2024-01-04,shell,15524,8,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2024-01-04,shell,799,1,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2024-01-04,shell,2550,3,"Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.",Security-Onion-Solutions,securityonion,https://github.com/Security-Onion-Solutions/securityonion
+2024-01-04,shell,1176,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
