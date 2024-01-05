@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-05,go,9815,278,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",apache,incubator-answer,https://github.com/apache/incubator-answer
+2024-01-05,go,9112,5,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-01-05,go,39956,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-01-05,go,13493,2,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-01-05,go,256,29,A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.,zhu327,gemini-openai-proxy,https://github.com/zhu327/gemini-openai-proxy
+2024-01-05,go,20497,9,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-01-05,go,3750,22,Giving Kubernetes Superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2024-01-05,go,12360,8,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2024-01-05,go,977,6,"trzsz-ssh ( tssh ) is an alternative to openssh client, supports trzsz (trz / tsz), batch login, remember password, etc.",trzsz,trzsz-ssh,https://github.com/trzsz/trzsz-ssh
+2024-01-05,go,3680,2,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2024-01-05,go,13796,7,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2024-01-05,go,3750,8,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,zalando,postgres-operator,https://github.com/zalando/postgres-operator
+2024-01-05,go,31336,10,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-01-05,go,4474,5,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-01-05,go,3609,6,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2024-01-05,go,2108,41,Static Analysis tool to detect potential Nil panics in Go code,uber-go,nilaway,https://github.com/uber-go/nilaway
+2024-01-05,go,19866,16,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-01-05,go,7304,2,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-01-05,go,67144,14,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-01-05,go,25436,7,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-01-05,go,2430,3,Main repository for Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2024-01-05,go,19332,5,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-01-05,go,6833,4,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2024-01-05,go,29782,15,⚡️ Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2024-01-05,go,15044,10,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd

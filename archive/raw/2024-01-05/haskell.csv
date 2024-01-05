@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-05,haskell,9332,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-01-05,haskell,34093,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-01-05,haskell,2616,2,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-01-05,haskell,4744,6,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-01-05,haskell,1537,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-01-05,haskell,3976,2,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",facebook,duckling,https://github.com/facebook/duckling
+2024-01-05,haskell,9,0,Abstract data structures for representations of R2 and R3,isovector,nspace,https://github.com/isovector/nspace
+2024-01-05,haskell,1980,2,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-01-05,haskell,2486,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-01-05,haskell,3224,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-01-05,haskell,6,0,Haskell bindings to wlroots (and libwayland),bradrn,wlhs,https://github.com/bradrn/wlhs
+2024-01-05,haskell,3928,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-01-05,haskell,21628,8,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-01-05,haskell,31076,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-01-05,haskell,237,0,,haskell,ghcup-hs,https://github.com/haskell/ghcup-hs
+2024-01-05,haskell,226,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-01-05,haskell,838,0,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly
+2024-01-05,haskell,15,0,This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.,IntersectMBO,cardano-cli,https://github.com/IntersectMBO/cardano-cli
+2024-01-05,haskell,731,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet

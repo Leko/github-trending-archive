@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-05,shell,80,7,"Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam.",emrekybs,AD-AssessmentKit,https://github.com/emrekybs/AD-AssessmentKit
+2024-01-05,shell,6909,9,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-01-05,shell,4081,2,"ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.",ONLYOFFICE,DocumentServer,https://github.com/ONLYOFFICE/DocumentServer
+2024-01-05,shell,7858,10,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2024-01-05,shell,16129,2,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2024-01-05,shell,72756,40,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-01-05,shell,4171,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-01-05,shell,7397,1,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2024-01-05,shell,462,5,Homelab Goodies,JamesTurland,JimsGarage,https://github.com/JamesTurland/JimsGarage
+2024-01-05,shell,25496,19,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2024-01-05,shell,57448,40,程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).,Anduin2017,HowToCook,https://github.com/Anduin2017/HowToCook
+2024-01-05,shell,5845,0,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2024-01-05,shell,2769,0,pre-commit git hooks to take care of Terraform configurations 🇺🇦,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2024-01-05,shell,165578,29,"🙃 A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2024-01-05,shell,4434,4,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2024-01-05,shell,2131,9,"1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",HariSekhon,DevOps-Bash-tools,https://github.com/HariSekhon/DevOps-Bash-tools
+2024-01-05,shell,19382,7,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-01-05,shell,11743,1,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2024-01-05,shell,1498,2,🐳 Docker Image of NetBox,netbox-community,netbox-docker,https://github.com/netbox-community/netbox-docker
+2024-01-05,shell,26,3,Automated Redpill Loader,syno-community,arpl-i18n,https://github.com/syno-community/arpl-i18n
+2024-01-05,shell,2264,4,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
+2024-01-05,shell,814,1,Node.js plugin for asdf version manager,asdf-vm,asdf-nodejs,https://github.com/asdf-vm/asdf-nodejs
+2024-01-05,shell,1820,0,Apache Kafka and Confluent Platform examples and demos,confluentinc,examples,https://github.com/confluentinc/examples
+2024-01-05,shell,2341,11,An awesome & curated list of best LLMOps tools for developers,tensorchord,Awesome-LLMOps,https://github.com/tensorchord/Awesome-LLMOps
+2024-01-05,shell,2157,1,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
