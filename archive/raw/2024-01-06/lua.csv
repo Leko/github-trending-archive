@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-06,lua,36602,9,🦍 The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2024-01-06,lua,1903,3,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2024-01-06,lua,228,26,CyberNvim: A IDE-like Neovim distribution. Simplicity is Power.,pgosar,CyberNvim,https://github.com/pgosar/CyberNvim
+2024-01-06,lua,3189,1,Advanced vulnerability scanning with Nmap NSE,scipag,vulscan,https://github.com/scipag/vulscan
+2024-01-06,lua,203,11,"Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.",HakonHarnes,img-clip.nvim,https://github.com/HakonHarnes/img-clip.nvim
+2024-01-06,lua,1268,7,Neovim plugin for a code outline window,stevearc,aerial.nvim,https://github.com/stevearc/aerial.nvim
+2024-01-06,lua,13170,10,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2024-01-06,lua,2513,5,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2024-01-06,lua,3991,17,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2024-01-06,lua,2998,3,ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API,jackMort,ChatGPT.nvim,https://github.com/jackMort/ChatGPT.nvim
+2024-01-06,lua,367,3,Bundle of more than 30 new text objects for Neovim.,chrisgrieser,nvim-various-textobjs,https://github.com/chrisgrieser/nvim-various-textobjs
+2024-01-06,lua,213,2,Interactive database client for neovim,kndndrj,nvim-dbee,https://github.com/kndndrj/nvim-dbee
+2024-01-06,lua,3246,6,Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-01-06,lua,273,31,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-01-06,lua,2572,5,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-01-06,lua,9220,29,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-01-06,lua,1023,5,🌅 Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.,folke,twilight.nvim,https://github.com/folke/twilight.nvim
+2024-01-06,lua,23,3,,Byte-Labs-Project,bl_customs,https://github.com/Byte-Labs-Project/bl_customs
+2024-01-06,lua,676,2,A plugin to visualise and resolve merge conflicts in neovim,akinsho,git-conflict.nvim,https://github.com/akinsho/git-conflict.nvim
+2024-01-06,lua,12403,20,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-01-06,lua,1847,1,Github's Neovim themes,projekt0n,github-nvim-theme,https://github.com/projekt0n/github-nvim-theme
+2024-01-06,lua,1280,1,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2024-01-06,lua,1249,6,🧘 Distraction-free coding for Neovim,folke,zen-mode.nvim,https://github.com/folke/zen-mode.nvim
+2024-01-06,lua,1820,0,A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.,simrat39,symbols-outline.nvim,https://github.com/simrat39/symbols-outline.nvim
+2024-01-06,lua,1700,0,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest

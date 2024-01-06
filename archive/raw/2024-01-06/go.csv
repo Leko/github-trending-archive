@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-06,go,616,86,"This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper ""Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation"".",RUB-NDS,Terrapin-Scanner,https://github.com/RUB-NDS/Terrapin-Scanner
+2024-01-06,go,9939,113,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",apache,incubator-answer,https://github.com/apache/incubator-answer
+2024-01-06,go,26756,17,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2024-01-06,go,9112,3,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-01-06,go,20507,11,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-01-06,go,250,6,一款Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等,qiwentaidi,Slack,https://github.com/qiwentaidi/Slack
+2024-01-06,go,5334,4,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2024-01-06,go,15050,13,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-01-06,go,9383,2,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2024-01-06,go,11027,17,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-01-06,go,12356,4,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2024-01-06,go,73447,19,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-01-06,go,21254,8,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-01-06,go,7099,7,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-01-06,go,7685,3,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2024-01-06,go,12400,8,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-01-06,go,7311,6,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-01-06,go,24911,25,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-01-06,go,67148,6,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-01-06,go,14777,6,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-01-06,go,22116,14,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2024-01-06,go,10117,3,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2024-01-06,go,34165,4,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2024-01-06,go,4974,0,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2024-01-06,go,24917,10,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper

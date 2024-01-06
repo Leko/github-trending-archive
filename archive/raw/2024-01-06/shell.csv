@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-06,shell,72779,29,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-01-06,shell,6912,3,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-01-06,shell,11274,12,Xray、Tuic、hy2、sing-box 八合一一键脚本,mack-a,v2ray-agent,https://github.com/mack-a/v2ray-agent
+2024-01-06,shell,11205,2,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2024-01-06,shell,7859,2,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2024-01-06,shell,4171,0,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-01-06,shell,24544,14,"I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2024-01-06,shell,260,21,,olegos2,mobox,https://github.com/olegos2/mobox
+2024-01-06,shell,12912,6,NodeSource Node.js Binary Distributions,nodesource,distributions,https://github.com/nodesource/distributions
+2024-01-06,shell,7194,2,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-01-06,shell,57476,30,程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).,Anduin2017,HowToCook,https://github.com/Anduin2017/HowToCook
+2024-01-06,shell,2137,5,"1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",HariSekhon,DevOps-Bash-tools,https://github.com/HariSekhon/DevOps-Bash-tools
+2024-01-06,shell,1177,0,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2024-01-06,shell,15533,4,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2024-01-06,shell,19390,10,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-01-06,shell,2163,6,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-01-06,shell,3266,12,A Library for Advanced Deep Time Series Models.,thuml,Time-Series-Library,https://github.com/thuml/Time-Series-Library
+2024-01-06,shell,4434,0,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2024-01-06,shell,2771,2,pre-commit git hooks to take care of Terraform configurations 🇺🇦,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2024-01-06,shell,3306,4,"YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench",masonr,yet-another-bench-script,https://github.com/masonr/yet-another-bench-script
+2024-01-06,shell,5847,2,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2024-01-06,shell,11744,1,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2024-01-06,shell,643,3,A collection of Dev Container Features managed by Dev Container spec maintainers. See https://github.com/devcontainers/feature-starter to publish your own,devcontainers,features,https://github.com/devcontainers/features
+2024-01-06,shell,181,2,ReverseTlsTunnel,Ptechgithub,ReverseTlsTunnel,https://github.com/Ptechgithub/ReverseTlsTunnel
+2024-01-06,shell,7400,2,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
