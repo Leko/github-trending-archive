@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-07,haskell,2488,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-01-07,haskell,2624,2,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-01-07,haskell,34102,5,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-01-07,haskell,15,0,This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.,IntersectMBO,cardano-cli,https://github.com/IntersectMBO/cardano-cli
+2024-01-07,haskell,5433,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-01-07,haskell,1986,4,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-01-07,haskell,9335,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-01-07,haskell,1677,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2024-01-07,haskell,2981,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-01-07,haskell,1538,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-01-07,haskell,2901,2,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2024-01-07,haskell,3,0,HJScript is a DSL for outputting JavaScript code.,jobjo,HJScript,https://github.com/jobjo/HJScript
+2024-01-07,haskell,21633,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-01-07,haskell,31090,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-01-07,haskell,3928,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-01-07,haskell,226,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-01-07,haskell,18,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
