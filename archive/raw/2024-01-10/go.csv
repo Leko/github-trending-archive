@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-10,go,3070,466,"Convert Github Copilot to ChatGPT, free to use the GPT-4 model",aaamoon,copilot-gpt4-service,https://github.com/aaamoon/copilot-gpt4-service
+2024-01-10,go,29893,447,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-01-10,go,40009,20,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-01-10,go,19999,30,"🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2024-01-10,go,142,28,"Create, Deploy, and Run your applications on the edge",anthdm,raptor,https://github.com/anthdm/raptor
+2024-01-10,go,5655,17,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-01-10,go,31404,26,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-01-10,go,15429,8,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-01-10,go,8827,19,"World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.",bytebase,bytebase,https://github.com/bytebase/bytebase
+2024-01-10,go,36612,10,An extremely fast bundler for the web,evanw,esbuild,https://github.com/evanw/esbuild
+2024-01-10,go,2248,4,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2024-01-10,go,2283,83,Build terminal forms and prompts 🤷🏻‍♀️,charmbracelet,huh,https://github.com/charmbracelet/huh
+2024-01-10,go,4742,7,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-01-10,go,3935,9,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-01-10,go,19352,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-01-10,go,10260,2,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2024-01-10,go,9020,10,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk
+2024-01-10,go,15023,2,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2024-01-10,go,29109,10,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-01-10,go,22395,10,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-01-10,go,14123,7,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2024-01-10,go,4985,14,Expression language and expression evaluation for Go,expr-lang,expr,https://github.com/expr-lang/expr
+2024-01-10,go,11908,2,🐠 Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2024-01-10,go,17466,38,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2024-01-10,go,27461,9,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
