@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-11,go,4725,1928,"Convert Github Copilot to ChatGPT, free to use the GPT-4 model",aaamoon,copilot-gpt4-service,https://github.com/aaamoon/copilot-gpt4-service
+2024-01-11,go,41393,204,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2024-01-11,go,30030,246,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-01-11,go,34522,12,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-01-11,go,73549,31,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-01-11,go,17530,16,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-01-11,go,27466,3,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2024-01-11,go,9398,13,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2024-01-11,go,31431,30,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-01-11,go,29866,20,⚡️ Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2024-01-11,go,23449,19,🐶 Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2024-01-11,go,4747,5,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-01-11,go,13899,9,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2024-01-11,go,30504,176,"Get up and running with Llama 2, Mistral, and other large language models locally.",jmorganca,ollama,https://github.com/jmorganca/ollama
+2024-01-11,go,2218,2,"OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)",getkin,kin-openapi,https://github.com/getkin/kin-openapi
+2024-01-11,go,10122,15,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-01-11,go,8080,2,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2024-01-11,go,14446,6,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-01-11,go,116893,44,The Go programming language,golang,go,https://github.com/golang/go
+2024-01-11,go,45535,6,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-01-11,go,3907,23,"Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds",AnalogJ,scrutiny,https://github.com/AnalogJ/scrutiny
+2024-01-11,go,7947,5,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2024-01-11,go,67169,9,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-01-11,go,13375,3,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2024-01-11,go,14141,15,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
