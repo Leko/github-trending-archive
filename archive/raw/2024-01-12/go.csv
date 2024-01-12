@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-12,go,6036,1505,Convert Github Copilot to ChatGPT,aaamoon,copilot-gpt4-service,https://github.com/aaamoon/copilot-gpt4-service
+2024-01-12,go,3176,4,Starter-kit for writing services in Go using Kubernetes.,ardanlabs,service,https://github.com/ardanlabs/service
+2024-01-12,go,1942,36,Application Observability using eBPF,deepflowio,deepflow,https://github.com/deepflowio/deepflow
+2024-01-12,go,2277,3,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-01-12,go,34185,15,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2024-01-12,go,24230,27,A realtime distributed messaging platform,nsqio,nsq,https://github.com/nsqio/nsq
+2024-01-12,go,9778,8,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-01-12,go,6954,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-01-12,go,8999,126,"World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.",bytebase,bytebase,https://github.com/bytebase/bytebase
+2024-01-12,go,20057,18,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-01-12,go,116931,39,The Go programming language,golang,go,https://github.com/golang/go
+2024-01-12,go,17170,188,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu
+2024-01-12,go,34782,26,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-01-12,go,4723,8,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2024-01-12,go,21006,12,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-01-12,go,11918,8,🐠 Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2024-01-12,go,3542,1,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-01-12,go,17540,6,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-01-12,go,24964,7,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-01-12,go,13910,15,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2024-01-12,go,3643,1,A Kubernetes controller for Elastic Load Balancers,kubernetes-sigs,aws-load-balancer-controller,https://github.com/kubernetes-sigs/aws-load-balancer-controller
+2024-01-12,go,3546,8,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2024-01-12,go,15107,19,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-01-12,go,9867,1,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2024-01-12,go,16943,10,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway

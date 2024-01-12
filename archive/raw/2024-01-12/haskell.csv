@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-12,haskell,34180,18,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-01-12,haskell,9347,8,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-01-12,haskell,4779,4,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-01-12,haskell,2983,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-01-12,haskell,31151,17,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-01-12,haskell,21646,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-01-12,haskell,270,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,IntersectMBO,cardano-db-sync,https://github.com/IntersectMBO/cardano-db-sync
+2024-01-12,haskell,502,1,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-01-12,haskell,1389,1,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2024-01-12,haskell,2631,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-01-12,haskell,0,0,A simple library for Haskell that can be used to test programs,mgmillani,haskell-tester,https://github.com/mgmillani/haskell-tester
+2024-01-12,haskell,1,0,home,xuebo,xset,https://github.com/xuebo/xset
+2024-01-12,haskell,3242,5,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-01-12,haskell,2490,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-01-12,haskell,10,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2024-01-12,haskell,3929,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-01-12,haskell,1,0,,solidsnack,colog,https://github.com/solidsnack/colog
+2024-01-12,haskell,0,0,Simula operaciones de memoria y caché a partir de datos extraídos de sesiones GAP,jsoffer,gapsim,https://github.com/jsoffer/gapsim
