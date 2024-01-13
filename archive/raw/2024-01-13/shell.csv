@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-13,shell,80360,87,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2024-01-13,shell,34940,41,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2024-01-13,shell,605,40,"🚀 Replicate your production environment locally using Docker. Just run ""spin up"". It's really that easy.",serversideup,spin,https://github.com/serversideup/spin
+2024-01-13,shell,66000,9,Everything required to run your own Base node,base-org,node,https://github.com/base-org/node
+2024-01-13,shell,48,9,EDK2 firmware images for Raspberry Pi 5,worproject,rpi5-uefi,https://github.com/worproject/rpi5-uefi
+2024-01-13,shell,11222,0,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2024-01-13,shell,72954,32,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-01-13,shell,4444,1,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2024-01-13,shell,2271,0,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
+2024-01-13,shell,44587,28,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2024-01-13,shell,7888,5,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2024-01-13,shell,2835,5,"Hestia Control Panel | A lightweight and powerful control panel for the modern web.",hestiacp,hestiacp,https://github.com/hestiacp/hestiacp
+2024-01-13,shell,560,0,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2024-01-13,shell,7416,3,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2024-01-13,shell,7207,3,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-01-13,shell,40821,26,A Zsh theme,romkatv,powerlevel10k,https://github.com/romkatv/powerlevel10k
+2024-01-13,shell,5002,33,SteamOS 3 (Holo) archiso configuration,HoloISO,holoiso,https://github.com/HoloISO/holoiso
+2024-01-13,shell,396,6,aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.,aws-samples,aws2tf,https://github.com/aws-samples/aws2tf
+2024-01-13,shell,6935,6,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-01-13,shell,5556,21,A cli tool to browse and play anime,pystardust,ani-cli,https://github.com/pystardust/ani-cli
+2024-01-13,shell,34966,7,📙 Amazon Web Services — a practical guide,open-guides,og-aws,https://github.com/open-guides/og-aws
+2024-01-13,shell,2057,2,Official Zabbix Dockerfiles,zabbix,zabbix-docker,https://github.com/zabbix/zabbix-docker
+2024-01-13,shell,57,5,A Windows/macOS/Linux GUI based on Clash,lantongxue,clash_for_windows_pkg,https://github.com/lantongxue/clash_for_windows_pkg
+2024-01-13,shell,16165,3,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2024-01-13,shell,4176,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv

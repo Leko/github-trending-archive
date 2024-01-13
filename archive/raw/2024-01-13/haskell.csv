@@ -1,0 +1,15 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-13,haskell,34181,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-01-13,haskell,9361,15,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-01-13,haskell,31154,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-01-13,haskell,227,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-01-13,haskell,2490,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-01-13,haskell,2983,2,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-01-13,haskell,21647,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-01-13,haskell,1389,0,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2024-01-13,haskell,732,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2024-01-13,haskell,10,0,Beginnings of a parser for a new functional language,benwbooth,cleo,https://github.com/benwbooth/cleo
+2024-01-13,haskell,0,0,Common base to replicate in all of my machines.,t0rrant,xmonad-config,https://github.com/t0rrant/xmonad-config
+2024-01-13,haskell,3247,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-01-13,haskell,146,13,A toy programming language with time travel,ambulancja,mariposa,https://github.com/ambulancja/mariposa
+2024-01-13,haskell,4784,5,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
