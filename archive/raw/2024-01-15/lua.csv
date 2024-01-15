@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-15,lua,3219,6,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-01-15,lua,14411,12,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-01-15,lua,8760,11,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-01-15,lua,20889,15,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2024-01-15,lua,4601,3,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-01-15,lua,11360,21,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-01-15,lua,2110,3,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2024-01-15,lua,10504,17,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-01-15,lua,4547,11,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2024-01-15,lua,241,7,"Download Olympus here: https://github.com/Pax1601/DCSOlympus/releases. DCS Olympus is an independent and non-profit mod for DCS World. It allows users to spawn, control, task, group, and remove units from a DCS World server using a real-time map interface, similar to Real Time Strategy games.",Pax1601,DCSOlympus,https://github.com/Pax1601/DCSOlympus
+2024-01-15,lua,199,3,"Vim APM, Actions per minute, is the greatest plugin since vim-slicedbread",ThePrimeagen,vim-apm,https://github.com/ThePrimeagen/vim-apm
+2024-01-15,lua,1842,4,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-01-15,lua,3435,1,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2024-01-15,lua,17,3,Vehicle Menu for FiveM,Byte-Labs-Project,bl_vehiclemenu,https://github.com/Byte-Labs-Project/bl_vehiclemenu
+2024-01-15,lua,1442,7,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2024-01-15,lua,2367,5,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2024-01-15,lua,2614,1,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-01-15,lua,1749,1,"Not UFO in the sky, but an ultra fold in Neovim.",kevinhwang91,nvim-ufo,https://github.com/kevinhwang91/nvim-ufo
+2024-01-15,lua,3904,7,💥 Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2024-01-15,lua,372,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2024-01-15,lua,9432,30,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-01-15,lua,4249,6,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-01-15,lua,2351,1,"✅ Highlight, list and search todo comments in your projects",folke,todo-comments.nvim,https://github.com/folke/todo-comments.nvim
+2024-01-15,lua,1033,2,一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT,linkease,istore,https://github.com/linkease/istore
+2024-01-15,lua,6449,5,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp

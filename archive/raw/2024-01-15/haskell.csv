@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-15,haskell,2226,3,💥💻💥 A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2024-01-15,haskell,2492,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-01-15,haskell,3189,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-01-15,haskell,732,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2024-01-15,haskell,1678,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2024-01-15,haskell,0,0,,mr-,hsDrinkinbot,https://github.com/mr-/hsDrinkinbot
+2024-01-15,haskell,558,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-01-15,haskell,458,0,Exercism exercises in Haskell.,exercism,haskell,https://github.com/exercism/haskell
+2024-01-15,haskell,284,0,❇️ A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2024-01-15,haskell,4176,0,🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2024-01-15,haskell,2570,0,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2024-01-15,haskell,4789,4,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-01-15,haskell,1087,0,Cryptol: The Language of Cryptography,GaloisInc,cryptol,https://github.com/GaloisInc/cryptol
+2024-01-15,haskell,3252,6,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-01-15,haskell,508,1,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-01-15,haskell,324,0,Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.,change-metrics,monocle,https://github.com/change-metrics/monocle
+2024-01-15,haskell,57,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2024-01-15,haskell,2984,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-01-15,haskell,7370,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
