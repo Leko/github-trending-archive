@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-17,go,7104,8,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2024-01-17,go,25084,32,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-01-17,go,2936,31,Test generation for Developers. Generate tests and stubs for your application that actually work!,keploy,keploy,https://github.com/keploy/keploy
+2024-01-17,go,371,9,Azure Quick Review,Azure,azqr,https://github.com/Azure/azqr
+2024-01-17,go,13222,10,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-01-17,go,31479,179,"Get up and running with Llama 2, Mistral, and other large language models locally.",jmorganca,ollama,https://github.com/jmorganca/ollama
+2024-01-17,go,7282,7,An embedded key/value database for Go.,etcd-io,bbolt,https://github.com/etcd-io/bbolt
+2024-01-17,go,4289,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2024-01-17,go,15431,44,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2024-01-17,go,14842,3,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2024-01-17,go,7349,5,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-01-17,go,8532,4,Pure Go Postgres driver for database/sql,lib,pq,https://github.com/lib/pq
+2024-01-17,go,22253,59,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2024-01-17,go,10163,5,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2024-01-17,go,13961,3,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2024-01-17,go,16971,12,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-01-17,go,45569,12,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-01-17,go,5614,6,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",kopia,kopia,https://github.com/kopia/kopia
+2024-01-17,go,25003,8,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-01-17,go,9291,9,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2024-01-17,go,2688,9,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",AlexxIT,go2rtc,https://github.com/AlexxIT/go2rtc
+2024-01-17,go,44210,16,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2024-01-17,go,27595,17,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2024-01-17,go,8106,5,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2024-01-17,go,753,16,"Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.",berachain,polaris,https://github.com/berachain/polaris

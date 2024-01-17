@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-17,rust,10920,9,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2024-01-17,rust,1139,6,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-01-17,rust,45942,67,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2024-01-17,rust,15424,31,"Fullstack GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2024-01-17,rust,7577,16,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2024-01-17,rust,4551,5,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-01-17,rust,2375,14,🚂 🦀 The one-person framework for Rust for side-projects and startups,loco-rs,loco,https://github.com/loco-rs/loco
+2024-01-17,rust,23413,64,The user-friendly command line shell.,fish-shell,fish-shell,https://github.com/fish-shell/fish-shell
+2024-01-17,rust,29306,10,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2024-01-17,rust,23950,9,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2024-01-17,rust,464,15,Find out what the past year looks like in command line!,YiNNx,cmd-wrapped,https://github.com/YiNNx/cmd-wrapped
+2024-01-17,rust,7889,17,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2024-01-17,rust,8518,3,An easy and powerful Rust HTTP Client,seanmonstar,reqwest,https://github.com/seanmonstar/reqwest
+2024-01-17,rust,3262,5,Incomplete Redis client and server implementation using Tokio - for learning purposes only,tokio-rs,mini-redis,https://github.com/tokio-rs/mini-redis
+2024-01-17,rust,637,45,A high-performance no-code GraphQL backend,tailcallhq,tailcall,https://github.com/tailcallhq/tailcall
+2024-01-17,rust,2931,1,⚓ Solana Sealevel Framework,coral-xyz,anchor,https://github.com/coral-xyz/anchor
+2024-01-17,rust,2893,4,👁‍🗨 Rare and exotic sats,ordinals,ord,https://github.com/ordinals/ord
+2024-01-17,rust,14482,20,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2024-01-17,rust,833,2,A Virtual Machine for Zero-Knowledge Executions,AleoHQ,snarkVM,https://github.com/AleoHQ/snarkVM
+2024-01-17,rust,1103,7,"zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.",eclipse-zenoh,zenoh,https://github.com/eclipse-zenoh/zenoh
+2024-01-17,rust,1297,1,zkSync era,matter-labs,zksync-era,https://github.com/matter-labs/zksync-era
+2024-01-17,rust,2224,8,"Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy",anoma,namada,https://github.com/anoma/namada
+2024-01-17,rust,13465,22,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2024-01-17,rust,2725,7,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2024-01-17,rust,2999,9,Cross-platform WebView library in Rust for Tauri.,tauri-apps,wry,https://github.com/tauri-apps/wry
