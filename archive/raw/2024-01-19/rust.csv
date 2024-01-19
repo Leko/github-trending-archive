@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-19,rust,23577,56,The user-friendly command line shell.,fish-shell,fish-shell,https://github.com/fish-shell/fish-shell
+2024-01-19,rust,1148,4,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-01-19,rust,15550,17,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-01-19,rust,5759,8,The distributed streaming database. Engineered to offer the simplest and most cost-efficient way for stream processing and management.,risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2024-01-19,rust,2737,6,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2024-01-19,rust,29321,7,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2024-01-19,rust,16739,8,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2024-01-19,rust,13169,62,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2024-01-19,rust,15523,62,"Fullstack GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2024-01-19,rust,28168,46,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2024-01-19,rust,3240,3,An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.,rust-lang,regex,https://github.com/rust-lang/regex
+2024-01-19,rust,3474,6,A Decentralized Operating System for ZK Applications,AleoHQ,snarkOS,https://github.com/AleoHQ/snarkOS
+2024-01-19,rust,2611,5,A collection of Solana programs maintained by Solana Labs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2024-01-19,rust,10935,6,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2024-01-19,rust,13532,37,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2024-01-19,rust,72867,44,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-01-19,rust,5667,5,"Distributed SQL database in Rust, written as a learning project",erikgrinaker,toydb,https://github.com/erikgrinaker/toydb
+2024-01-19,rust,23516,23,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2024-01-19,rust,21550,63,Fuel Network Rust SDK,FuelLabs,fuels-rs,https://github.com/FuelLabs/fuels-rs
+2024-01-19,rust,4577,2,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2024-01-19,rust,1184,4,Safe Rust bindings to POSIX-ish APIs,bytecodealliance,rustix,https://github.com/bytecodealliance/rustix
+2024-01-19,rust,4443,17,"🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",AleoHQ,leo,https://github.com/AleoHQ/leo
+2024-01-19,rust,3275,5,Redis library for rust,redis-rs,redis-rs,https://github.com/redis-rs/redis-rs
+2024-01-19,rust,30757,65,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2024-01-19,rust,30658,27,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden

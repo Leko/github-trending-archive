@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-19,go,7358,7,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-01-19,go,39,4,Prototype implementations of database internal concepts and algorithms.,arpitbbhayani,database-fundamentals,https://github.com/arpitbbhayani/database-fundamentals
+2024-01-19,go,14854,5,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2024-01-19,go,1517,82,"An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.",nicocha30,ligolo-ng,https://github.com/nicocha30/ligolo-ng
+2024-01-19,go,1329,54,"TCP proxy for simulating variable, yet predictable network latency 🌐⏳",kffl,speedbump,https://github.com/kffl/speedbump
+2024-01-19,go,8119,4,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2024-01-19,go,3500,3,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-01-19,go,29153,4,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-01-19,go,9318,9,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2024-01-19,go,8819,6,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2024-01-19,go,5201,3,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
+2024-01-19,go,7415,58,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-01-19,go,8362,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-01-19,go,16985,10,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-01-19,go,25120,23,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-01-19,go,5344,5,A mock code autogenerator for Go,vektra,mockery,https://github.com/vektra/mockery
+2024-01-19,go,6211,7,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2024-01-19,go,385,24,"最轻量、高效、透明、稳定的多币种矿池代理、矿池中转。支持 BTC, ETC, RVN, NicaHash, XNA, ETHW, Ergo 等币种。自定义抽水账号及比例，高性能数据中转算法，无任何share损耗。具有高效的抽水算法，保证精确抽水。支持多端口监听及多矿池连接，同时接入3000+矿机性能稳定且不掉线。The lightest, most efficient, transparent, and stable multi-cryptocurrency mining pool proxy.",zero-proxy,zero-proxy,https://github.com/zero-proxy/zero-proxy
+2024-01-19,go,10042,10,⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing,Shopify,toxiproxy,https://github.com/Shopify/toxiproxy
+2024-01-19,go,21330,10,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-01-19,go,27501,6,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2024-01-19,go,2147,1,Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS,aws,amazon-vpc-cni-k8s,https://github.com/aws/amazon-vpc-cni-k8s
+2024-01-19,go,1747,7,"🔥minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,矿池抽水,矿池中转,矿场运维专用",FxPool,FXMinerProxy,https://github.com/FxPool/FXMinerProxy
+2024-01-19,go,4498,5,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-01-19,go,2260,0,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
