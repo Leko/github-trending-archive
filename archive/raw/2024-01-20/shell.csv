@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-20,shell,73143,26,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-01-20,shell,534,10,Linux最完整的Clash for Linux的备份仓库，完全可以使用！由Yizuko进行修复及维护,Elegycloud,clash-for-linux-backup,https://github.com/Elegycloud/clash-for-linux-backup
+2024-01-20,shell,4188,3,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-01-20,shell,7928,2,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2024-01-20,shell,11773,1,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2024-01-20,shell,295,14,A collection of build properties for the PIF module,TheFreeman193,PIFS,https://github.com/TheFreeman193/PIFS
+2024-01-20,shell,1511,1,🐳 Docker Image of NetBox,netbox-community,netbox-docker,https://github.com/netbox-community/netbox-docker
+2024-01-20,shell,425,5,aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.,aws-samples,aws2tf,https://github.com/aws-samples/aws2tf
+2024-01-20,shell,4461,1,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2024-01-20,shell,86,26,Tool for hiding Kali Linux on the network,wearecaster,F31,https://github.com/wearecaster/F31
+2024-01-20,shell,2204,4,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-01-20,shell,19509,11,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-01-20,shell,1187,2,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2024-01-20,shell,2035,9,基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等,haiibo,OpenWrt,https://github.com/haiibo/OpenWrt
+2024-01-20,shell,2415,4,An awesome & curated list of best LLMOps tools for developers,tensorchord,Awesome-LLMOps,https://github.com/tensorchord/Awesome-LLMOps
+2024-01-20,shell,6967,3,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-01-20,shell,141,0,,SonarSource,sonarqube-scan-action,https://github.com/SonarSource/sonarqube-scan-action
+2024-01-20,shell,15571,5,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2024-01-20,shell,803,0,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2024-01-20,shell,742,5,一个 DNS 转发器 - OpenWrt 🎁 MosDNS v5 is Ready! 🎉,sbwml,luci-app-mosdns,https://github.com/sbwml/luci-app-mosdns
+2024-01-20,shell,23416,9,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2024-01-20,shell,3478,0,"Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",urbanadventurer,Android-PIN-Bruteforce,https://github.com/urbanadventurer/Android-PIN-Bruteforce
+2024-01-20,shell,6700,7,WireGuard VPN installer for Linux servers,angristan,wireguard-install,https://github.com/angristan/wireguard-install
+2024-01-20,shell,581,2,Main package repository for production Wolfi images,wolfi-dev,os,https://github.com/wolfi-dev/os
+2024-01-20,shell,1457,2,"Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",ophub,amlogic-s9xxx-openwrt,https://github.com/ophub/amlogic-s9xxx-openwrt

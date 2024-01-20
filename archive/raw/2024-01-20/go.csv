@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-20,go,19397,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-01-20,go,21342,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-01-20,go,23739,55,"Learn and understand Docker&Container technologies, with real DevOps practice!",yeasy,docker_practice,https://github.com/yeasy/docker_practice
+2024-01-20,go,115123,70,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-01-20,go,16997,12,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-01-20,go,7419,5,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-01-20,go,5985,25,"ZITADEL - Identity infrastructure, simplified for you.",zitadel,zitadel,https://github.com/zitadel/zitadel
+2024-01-20,go,14507,19,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-01-20,go,22479,13,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-01-20,go,7416,122,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-01-20,go,8361,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-01-20,go,4784,3,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-01-20,go,17626,13,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-01-20,go,7715,4,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2024-01-20,go,3073,0,eBPF-based Security Observability and Runtime Enforcement,cilium,tetragon,https://github.com/cilium/tetragon
+2024-01-20,go,4989,1,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2024-01-20,go,40105,12,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-01-20,go,7144,4,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-01-20,go,16217,5,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2024-01-20,go,8848,12,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-01-20,go,27504,6,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2024-01-20,go,3502,4,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-01-20,go,5598,5,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2024-01-20,go,3557,2,Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2024-01-20,go,2422,1,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
