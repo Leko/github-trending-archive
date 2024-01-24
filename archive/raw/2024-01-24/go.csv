@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-24,go,3084,1041,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux",apernet,OpenGFW,https://github.com/apernet/OpenGFW
+2024-01-24,go,16623,24,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2024-01-24,go,8862,27,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2024-01-24,go,30787,66,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-01-24,go,8535,2,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2024-01-24,go,11129,135,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-01-24,go,14892,7,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-01-24,go,22014,8,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-01-24,go,18537,42,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2024-01-24,go,12383,4,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2024-01-24,go,11752,70,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",apernet,hysteria,https://github.com/apernet/hysteria
+2024-01-24,go,14674,18,GO Simple Tunnel - a simple tunnel written in golang,ginuerzh,gost,https://github.com/ginuerzh/gost
+2024-01-24,go,1638,49,A Golang framework for web artisans. Tribute to Laravel.,goravel,goravel,https://github.com/goravel/goravel
+2024-01-24,go,13080,14,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-01-24,go,40141,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-01-24,go,3566,2,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-01-24,go,1909,13,eBPF-based Linux high-performance transparent proxy solution.,daeuniverse,dae,https://github.com/daeuniverse/dae
+2024-01-24,go,21379,11,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-01-24,go,73788,23,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-01-24,go,9313,4,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2024-01-24,go,48,19,"♊️ An application layer networking framework with rpc, bidirectional-rpc, multiplexer, raw-io and client-server consistency. 一个Go的应用层网络编程库，支持消息和确认、RPC、双向RPC、多路复用、多会话管理等",singchia,geminio,https://github.com/singchia/geminio
+2024-01-24,go,6104,2,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2024-01-24,go,20372,5,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-01-24,go,13449,8,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2024-01-24,go,7886,15,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS",casbin,casdoor,https://github.com/casbin/casdoor
