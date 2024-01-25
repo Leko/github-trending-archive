@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-25,elixir,22480,7,"Elixir is a dynamic, functional language for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2024-01-25,elixir,17387,9,"Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2024-01-25,elixir,2970,4,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2024-01-25,elixir,281,0,"Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",elixir-lsp,elixir_sense,https://github.com/elixir-lsp/elixir_sense
+2024-01-25,elixir,1335,0,"A frontend-independent IDE ""smartness"" server for Elixir. Implements the ""Language Server Protocol"" standard and provides debugger support via the ""Debug Adapter Protocol""",elixir-lsp,elixir-ls,https://github.com/elixir-lsp/elixir-ls
+2024-01-25,elixir,97,0,🛡 Public database of Elixir security advisories pulled from GitHub Advisory Database,mirego,elixir-security-advisories,https://github.com/mirego/elixir-security-advisories
+2024-01-25,elixir,4,0,A bunch of utility modules to accompany elixir-blueprint,rum-and-code,elixir-utils,https://github.com/rum-and-code/elixir-utils
+2024-01-25,elixir,2,0,,carlosmn,exgitd,https://github.com/carlosmn/exgitd
+2024-01-25,elixir,745,2,,DockYard-Academy,curriculum,https://github.com/DockYard-Academy/curriculum
+2024-01-25,elixir,4926,7,A self-hosted data logger for your Tesla 🚘,teslamate-org,teslamate,https://github.com/teslamate-org/teslamate
+2024-01-25,elixir,7,0,,carsdotcom,car_req,https://github.com/carsdotcom/car_req
+2024-01-25,elixir,3761,18,"Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.",electric-sql,electric,https://github.com/electric-sql/electric
+2024-01-25,elixir,5595,0,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2024-01-25,elixir,35,0,A Redis backend for for the Hammer rate-limiter,ExHammer,hammer-backend-redis,https://github.com/ExHammer/hammer-backend-redis
+2024-01-25,elixir,134,0,Wrapper around the Erlang crypto module for Elixir.,ntrepid8,ex_crypto,https://github.com/ntrepid8/ex_crypto
+2024-01-25,elixir,4148,1,Automate code & data workflows with interactive Elixir notebooks,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2024-01-25,elixir,37,0,,OffchainLabs,blockscout,https://github.com/OffchainLabs/blockscout
+2024-01-25,elixir,5863,7,"WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.",firezone,firezone,https://github.com/firezone/firezone
+2024-01-25,elixir,294,2,Convenient HTML to PDF/A rendering library for Elixir based on Chrome & Ghostscript,bitcrowd,chromic_pdf,https://github.com/bitcrowd/chromic_pdf
+2024-01-25,elixir,14,0,Console adapter/logger for Spandex traces & spans.,pepsico-ecommerce,spandex_console,https://github.com/pepsico-ecommerce/spandex_console
+2024-01-25,elixir,5912,0,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2024-01-25,elixir,1431,5,"A cloud-native, multi-tenant Postgres connection pooler.",supabase,supavisor,https://github.com/supabase/supavisor
+2024-01-25,elixir,4,0,ExUnit.run in IEx shell,scottming,iex-unit,https://github.com/scottming/iex-unit
+2024-01-25,elixir,547,0,Lexical is a next-generation elixir language server,lexical-lsp,lexical,https://github.com/lexical-lsp/lexical
+2024-01-25,elixir,1,0,,Enbala,libcluster_dns_poll_add_only,https://github.com/Enbala/libcluster_dns_poll_add_only

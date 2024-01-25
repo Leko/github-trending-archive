@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-25,go,3980,1038,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux",apernet,OpenGFW,https://github.com/apernet/OpenGFW
+2024-01-25,go,31615,23,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-01-25,go,11153,31,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-01-25,go,282,88,Project to provide functionality similar to ESPHome but for Zigbee instead of WiFi for nRF52,ffenix113,zigbee_home,https://github.com/ffenix113/zigbee_home
+2024-01-25,go,1675,66,A Golang framework for web artisans. Tribute to Laravel.,goravel,goravel,https://github.com/goravel/goravel
+2024-01-25,go,8877,7,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-01-25,go,6252,14,Generate a Go ORM tailored to your database schema.,volatiletech,sqlboiler,https://github.com/volatiletech/sqlboiler
+2024-01-25,go,12389,3,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2024-01-25,go,3971,5,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-01-25,go,13106,25,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-01-25,go,54,7,"♊️ An application layer networking framework with rpc, bidirectional-rpc, multiplexer, raw-io and client-server consistency. 一个Go的应用层网络编程库，支持消息和确认、RPC、双向RPC、多路复用、多会话管理等",singchia,geminio,https://github.com/singchia/geminio
+2024-01-25,go,76366,60,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-01-25,go,73829,37,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-01-25,go,11788,40,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",apernet,hysteria,https://github.com/apernet/hysteria
+2024-01-25,go,41975,79,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-01-25,go,4027,8,A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests,projectdiscovery,naabu,https://github.com/projectdiscovery/naabu
+2024-01-25,go,3562,3,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2024-01-25,go,9155,7,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-01-25,go,34638,13,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-01-25,go,20627,6,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-01-25,go,23726,5,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-01-25,go,5147,15,Expression language and expression evaluation for Go,expr-lang,expr,https://github.com/expr-lang/expr
+2024-01-25,go,18562,28,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2024-01-25,go,4039,16,Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q,litmuschaos,litmus,https://github.com/litmuschaos/litmus
+2024-01-25,go,3639,3,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
