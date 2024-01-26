@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-26,go,4469,810,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux",apernet,OpenGFW,https://github.com/apernet/OpenGFW
+2024-01-26,go,73855,37,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-01-26,go,381,105,Navigate the CVE jungle with ease.,projectdiscovery,cvemap,https://github.com/projectdiscovery/cvemap
+2024-01-26,go,42061,102,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-01-26,go,5179,38,Expression language and expression evaluation for Go,expr-lang,expr,https://github.com/expr-lang/expr
+2024-01-26,go,5583,21,"Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go",boyter,scc,https://github.com/boyter/scc
+2024-01-26,go,4047,13,Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q,litmuschaos,litmus,https://github.com/litmuschaos/litmus
+2024-01-26,go,33166,470,"Get up and running with Llama 2, Mistral, and other large language models locally.",ollama,ollama,https://github.com/ollama/ollama
+2024-01-26,go,309,27,Project to provide functionality similar to ESPHome but for Zigbee instead of WiFi for nRF52,ffenix113,zigbee_home,https://github.com/ffenix113/zigbee_home
+2024-01-26,go,76430,78,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-01-26,go,104708,36,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-01-26,go,40168,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-01-26,go,20391,6,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-01-26,go,3578,5,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-01-26,go,11696,7,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2024-01-26,go,15728,9,Protect access to all of your infrastructure.,gravitational,teleport,https://github.com/gravitational/teleport
+2024-01-26,go,21404,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-01-26,go,5302,7,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2024-01-26,go,7166,8,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-01-26,go,29194,10,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-01-26,go,12390,5,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2024-01-26,go,14908,4,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-01-26,go,9253,12,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2024-01-26,go,8542,5,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2024-01-26,go,4831,1,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,google,uuid,https://github.com/google/uuid
