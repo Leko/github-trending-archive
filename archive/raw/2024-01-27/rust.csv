@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-27,rust,9504,2688,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
+2024-01-27,rust,14481,65,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2024-01-27,rust,127,26,Rust library to read and write Unreal Engine save files,trumank,uesave-rs,https://github.com/trumank/uesave-rs
+2024-01-27,rust,30317,44,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2024-01-27,rust,14108,6,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-01-27,rust,413,90,Cloudflare's Rust service foundations library.,cloudflare,foundations,https://github.com/cloudflare/foundations
+2024-01-27,rust,25342,33,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2024-01-27,rust,4523,7,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2024-01-27,rust,23856,23,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-01-27,rust,1354,22,Reverse engineered ChatGPT proxy,gngpp,ninja,https://github.com/gngpp/ninja
+2024-01-27,rust,2772,4,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2024-01-27,rust,21073,288,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2024-01-27,rust,12158,16,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2024-01-27,rust,41435,30,"A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2024-01-27,rust,83,18,Transcribe on your own!,thewh1teagle,vibe,https://github.com/thewh1teagle/vibe
+2024-01-27,rust,107,4,"Open Protocol Indexer, OPI, is the best-in-slot open-source indexing client for meta-protocols on Bitcoin.",bestinslot-xyz,OPI,https://github.com/bestinslot-xyz/OPI
+2024-01-27,rust,91966,25,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2024-01-27,rust,6905,5,Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com,datafuselabs,databend,https://github.com/datafuselabs/databend
+2024-01-27,rust,10279,8,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2024-01-27,rust,1163,3,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-01-27,rust,88,13,A WiFi auditing software that can perform deauth attacks and passwords cracking,martin-olivier,airgorah,https://github.com/martin-olivier/airgorah
+2024-01-27,rust,6702,10,🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧,EmbarkStudios,rust-gpu,https://github.com/EmbarkStudios/rust-gpu
+2024-01-27,rust,1577,12,A high performance rust-powered UI layout library,DioxusLabs,taffy,https://github.com/DioxusLabs/taffy
+2024-01-27,rust,8060,119,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",biomejs,biome,https://github.com/biomejs/biome
+2024-01-27,rust,3770,24,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
