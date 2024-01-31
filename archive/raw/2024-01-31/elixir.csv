@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-31,elixir,22513,5,"Elixir is a dynamic, functional language for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2024-01-31,elixir,4172,3,Automate code & data workflows with interactive Elixir notebooks,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2024-01-31,elixir,20317,4,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2024-01-31,elixir,17453,15,"Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2024-01-31,elixir,5897,4,"WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.",firezone,firezone,https://github.com/firezone/firezone
+2024-01-31,elixir,4945,5,A self-hosted data logger for your Tesla 🚘,teslamate-org,teslamate,https://github.com/teslamate-org/teslamate
+2024-01-31,elixir,2975,0,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2024-01-31,elixir,99,1,🛡 Public database of Elixir security advisories pulled from GitHub Advisory Database,mirego,elixir-security-advisories,https://github.com/mirego/elixir-security-advisories
+2024-01-31,elixir,1103,2,Open Source Newsletter Tool.,pentacent,keila,https://github.com/pentacent/keila
+2024-01-31,elixir,356,0,Generate Phoenix API documentation from tests,api-hogs,bureaucrat,https://github.com/api-hogs/bureaucrat
+2024-01-31,elixir,994,1,Event store using PostgreSQL for persistence,commanded,eventstore,https://github.com/commanded/eventstore
+2024-01-31,elixir,3791,9,"Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.",electric-sql,electric,https://github.com/electric-sql/electric
+2024-01-31,elixir,5615,4,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2024-01-31,elixir,279,0,A framework for building native applications with Phoenix LiveView,liveview-native,live_view_native,https://github.com/liveview-native/live_view_native
+2024-01-31,elixir,36,0,A Redis backend for for the Hammer rate-limiter,ExHammer,hammer-backend-redis,https://github.com/ExHammer/hammer-backend-redis
+2024-01-31,elixir,1678,0,Fast batch message passing between nodes for Erlang/Elixir.,discord,manifold,https://github.com/discord/manifold
+2024-01-31,elixir,5538,1,Open-source live customer chat,papercups-io,papercups,https://github.com/papercups-io/papercups
+2024-01-31,elixir,752,0,,DockYard-Academy,curriculum,https://github.com/DockYard-Academy/curriculum
+2024-01-31,elixir,2952,0,Simplify deployments in Elixir with OTP releases!,bitwalker,distillery,https://github.com/bitwalker/distillery
+2024-01-31,elixir,38,0,,OffchainLabs,blockscout,https://github.com/OffchainLabs/blockscout
+2024-01-31,elixir,2645,0,Changelog is news and podcast for developers. This is our open source platform.,thechangelog,changelog.com,https://github.com/thechangelog/changelog.com
+2024-01-31,elixir,1453,5,"A cloud-native, multi-tenant Postgres connection pooler.",supabase,supavisor,https://github.com/supabase/supavisor
+2024-01-31,elixir,708,3,"Open-source content management system (CMS) built with Phoenix LiveView. Faster render times to boost SEO performance, even for the most content-heavy pages.",BeaconCMS,beacon,https://github.com/BeaconCMS/beacon
+2024-01-31,elixir,6317,0,"Broadcast, Presence, and Postgres Changes via WebSockets",supabase,realtime,https://github.com/supabase/realtime
+2024-01-31,elixir,1041,2,⚗ The stable base upon which we build our Elixir projects at Mirego.,mirego,elixir-boilerplate,https://github.com/mirego/elixir-boilerplate

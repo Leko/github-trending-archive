@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-01-31,go,2771,12,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2024-01-31,go,375,91,代理discord-bot，api调用coze-bot,deanxv,coze-discord-proxy,https://github.com/deanxv/coze-discord-proxy
+2024-01-31,go,7746,2,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2024-01-31,go,250,49,Pal World all-in-one webui for pc and mobile devices.,Hoshinonyaruko,palworld-go,https://github.com/Hoshinonyaruko/palworld-go
+2024-01-31,go,117452,38,The Go programming language,golang,go,https://github.com/golang/go
+2024-01-31,go,14937,11,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2024-01-31,go,4818,8,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-01-31,go,18095,9,"❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.",inancgumus,learngo,https://github.com/inancgumus/learngo
+2024-01-31,go,22199,67,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-01-31,go,26940,12,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2024-01-31,go,20430,9,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-01-31,go,34712,15,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-01-31,go,4430,9,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",flyteorg,flyte,https://github.com/flyteorg/flyte
+2024-01-31,go,2248,0,"OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)",getkin,kin-openapi,https://github.com/getkin/kin-openapi
+2024-01-31,go,15552,4,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-01-31,go,21649,9,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-01-31,go,19475,3,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-01-31,go,9686,6,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",fullstorydev,grpcurl,https://github.com/fullstorydev/grpcurl
+2024-01-31,go,22078,5,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-01-31,go,2410,4,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2024-01-31,go,5461,6,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",cilium,ebpf,https://github.com/cilium/ebpf
+2024-01-31,go,5591,11,The Havoc Framework.,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2024-01-31,go,9178,6,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-01-31,go,8565,3,Pure Go Postgres driver for database/sql,lib,pq,https://github.com/lib/pq
+2024-01-31,go,45636,9,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
