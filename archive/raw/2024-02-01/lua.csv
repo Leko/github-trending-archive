@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-01,lua,10885,26,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-02-01,lua,8883,13,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-02-01,lua,4141,6,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2024-02-01,lua,1940,3,Show code context,nvim-treesitter,nvim-treesitter-context,https://github.com/nvim-treesitter/nvim-treesitter-context
+2024-02-01,lua,3290,8,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-02-01,lua,3291,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-02-01,lua,203,0,An example user configuration with a split up structure,AstroNvim,user_example,https://github.com/AstroNvim/user_example
+2024-02-01,lua,2570,8,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2024-02-01,lua,499,7,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-02-01,lua,2149,2,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2024-02-01,lua,36885,14,🦍 The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2024-02-01,lua,8404,4,🔥 A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2024-02-01,lua,10986,11,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2024-02-01,lua,2328,6,vim-be-good is a nvim plugin designed to make you better at Vim Movements.,ThePrimeagen,vim-be-good,https://github.com/ThePrimeagen/vim-be-good
+2024-02-01,lua,1842,11,Obsidian 🤝 Neovim,epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2024-02-01,lua,13313,6,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2024-02-01,lua,1386,1,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
+2024-02-01,lua,1456,3,Set of preconfigured snippets for different languages.,rafamadriz,friendly-snippets,https://github.com/rafamadriz/friendly-snippets
+2024-02-01,lua,9810,25,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-02-01,lua,146,1,Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.,echasnovski,mini.indentscope,https://github.com/echasnovski/mini.indentscope
+2024-02-01,lua,77,0,Neovim Lua plugin for fast and familiar per-line commenting. Part of 'mini.nvim' library.,echasnovski,mini.comment,https://github.com/echasnovski/mini.comment
+2024-02-01,lua,3989,20,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2024-02-01,lua,371,21,A Neovim plugin enabling you to solve LeetCode problems.,kawre,leetcode.nvim,https://github.com/kawre/leetcode.nvim
+2024-02-01,lua,5323,3,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2024-02-01,lua,5151,2,📚 A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch

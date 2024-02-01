@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-01,rust,214,17,A rusty Youtube client.,opensourcecheemsburgers,RustyTube,https://github.com/opensourcecheemsburgers/RustyTube
+2024-02-01,rust,23682,24,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2024-02-01,rust,2271,4,"Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy",anoma,namada,https://github.com/anoma/namada
+2024-02-01,rust,4543,5,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2024-02-01,rust,1491,58,Reverse engineered ChatGPT proxy,gngpp,ninja,https://github.com/gngpp/ninja
+2024-02-01,rust,27184,15,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2024-02-01,rust,3306,13,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2024-02-01,rust,15400,29,Self-hosted AI coding assistant,TabbyML,tabby,https://github.com/TabbyML/tabby
+2024-02-01,rust,23972,29,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-02-01,rust,11330,19,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2024-02-01,rust,46443,37,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2024-02-01,rust,22532,31,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2024-02-01,rust,35,3,A sandwich bot,solidquant,sandooo,https://github.com/solidquant/sandooo
+2024-02-01,rust,1664,151,A tutorial of building an LSM-Tree storage engine in a week!,skyzh,mini-lsm,https://github.com/skyzh/mini-lsm
+2024-02-01,rust,257,27,"Helios: Or, a Vision in a Dream. A Fragment.",oxidecomputer,helios,https://github.com/oxidecomputer/helios
+2024-02-01,rust,955,10,Run web applications on AWS Lambda,awslabs,aws-lambda-web-adapter,https://github.com/awslabs/aws-lambda-web-adapter
+2024-02-01,rust,9375,3,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2024-02-01,rust,1276,35,A declarative GUI library written in Rust,vizia,vizia,https://github.com/vizia/vizia
+2024-02-01,rust,2587,33,Postgres for Search and Analytics,paradedb,paradedb,https://github.com/paradedb/paradedb
+2024-02-01,rust,44236,319,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2024-02-01,rust,29421,10,Rust-based platform for the Web,swc-project,swc,https://github.com/swc-project/swc
+2024-02-01,rust,294,9,,availproject,avail,https://github.com/availproject/avail
+2024-02-01,rust,630,3,End-to-End Example Soroban Dapp,stellar,soroban-example-dapp,https://github.com/stellar/soroban-example-dapp
+2024-02-01,rust,15411,18,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-02-01,rust,3928,3,Automatically generates Rust FFI bindings to C (and some C++) libraries.,rust-lang,rust-bindgen,https://github.com/rust-lang/rust-bindgen
