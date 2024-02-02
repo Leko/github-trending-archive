@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-02,go,15721,96,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-02-02,go,533,62,代理discord-bot，api调用coze-bot,deanxv,coze-discord-proxy,https://github.com/deanxv/coze-discord-proxy
+2024-02-02,go,11101,10,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2024-02-02,go,104865,37,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-02-02,go,7624,23,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2024-02-02,go,329,41,Pal World all-in-one webui for pc and mobile devices.,Hoshinonyaruko,palworld-go,https://github.com/Hoshinonyaruko/palworld-go
+2024-02-02,go,7164,12,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-02-02,go,35656,10,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2024-02-02,go,8864,5,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2024-02-02,go,4535,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-02-02,go,20675,13,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2024-02-02,go,19487,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-02-02,go,1254,2,,rancher,rke2,https://github.com/rancher/rke2
+2024-02-02,go,7974,17,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS",casbin,casdoor,https://github.com/casbin/casdoor
+2024-02-02,go,10300,7,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-02-02,go,2759,25,SQL-first Golang ORM,uptrace,bun,https://github.com/uptrace/bun
+2024-02-02,go,27934,10,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2024-02-02,go,76745,47,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-02-02,go,25605,16,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-02-02,go,22287,38,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-02-02,go,20689,5,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-02-02,go,3710,9,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2024-02-02,go,2467,2,Main repository for Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2024-02-02,go,22854,62,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2024-02-02,go,22121,6,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
