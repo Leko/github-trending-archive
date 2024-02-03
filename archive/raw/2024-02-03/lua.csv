@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-03,lua,1729,4,"💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2024-02-03,lua,216,5,a simple lua neovim configuration for newbs,cpow,neovim-for-newbs,https://github.com/cpow/neovim-for-newbs
+2024-02-03,lua,162,24,,ThePrimeagen,neovimrc,https://github.com/ThePrimeagen/neovimrc
+2024-02-03,lua,13319,3,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2024-02-03,lua,1765,4,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest
+2024-02-03,lua,1599,5,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-02-03,lua,838,2,Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls,mfussenegger,nvim-jdtls,https://github.com/mfussenegger/nvim-jdtls
+2024-02-03,lua,520,6,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-02-03,lua,12794,14,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-02-03,lua,2444,5,Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.,kylechui,nvim-surround,https://github.com/kylechui/nvim-surround
+2024-02-03,lua,3109,6,ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API,jackMort,ChatGPT.nvim,https://github.com/jackMort/ChatGPT.nvim
+2024-02-03,lua,1936,5,Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot,zbirenbaum,copilot.lua,https://github.com/zbirenbaum/copilot.lua
+2024-02-03,lua,2623,3,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2024-02-03,lua,36895,5,🦍 The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2024-02-03,lua,5338,7,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2024-02-03,lua,3393,5,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2024-02-03,lua,393,0,"An extension for nvim-dap, providing default configurations for python and methods to debug individual test methods or classes.",mfussenegger,nvim-dap-python,https://github.com/mfussenegger/nvim-dap-python
+2024-02-03,lua,476,1,,jay-babu,mason-null-ls.nvim,https://github.com/jay-babu/mason-null-ls.nvim
+2024-02-03,lua,1066,16,A fast Neovim http client written in Lua,rest-nvim,rest.nvim,https://github.com/rest-nvim/rest.nvim
+2024-02-03,lua,3302,4,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-02-03,lua,1512,1,Find the enemy and replace them with dark power.,nvim-pack,nvim-spectre,https://github.com/nvim-pack/nvim-spectre
+2024-02-03,lua,22,4,🚧 monitors the (server-side) console,alp1x,um-error-tracker,https://github.com/alp1x/um-error-tracker
+2024-02-03,lua,237,1,"A public collection of mods for Sky: Children of the Light, the latest game by thatgamecompany!",thatskymod,Sky-CotL-Scripts,https://github.com/thatskymod/Sky-CotL-Scripts
+2024-02-03,lua,4704,6,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-02-03,lua,46,1,Live Editor for FC 24,xAranaktu,FC-24-Live-Editor,https://github.com/xAranaktu/FC-24-Live-Editor

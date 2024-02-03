@@ -1,0 +1,13 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-03,haskell,9440,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-02-03,haskell,2026,2,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-02-03,haskell,37,4,A Terminal User Interface for the Glasgow Haskell Compiler Interactive Mode,CrystalSplitter,ghcitui,https://github.com/CrystalSplitter/ghcitui
+2024-02-03,haskell,20,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-02-03,haskell,229,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-02-03,haskell,2522,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-02-03,haskell,15,0,Symbolic execution of LLVM IR traces for program understanding.,phulin,symbolic-trace,https://github.com/phulin/symbolic-trace
+2024-02-03,haskell,34350,15,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-02-03,haskell,2988,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-02-03,haskell,738,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2024-02-03,haskell,36,0,The main concordium node implementation.,Concordium,concordium-node,https://github.com/Concordium/concordium-node
+2024-02-03,haskell,198,2,A toy programming language with time travel,ambulancja,mariposa,https://github.com/ambulancja/mariposa

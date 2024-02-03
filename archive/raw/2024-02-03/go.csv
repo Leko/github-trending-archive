@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-03,go,11144,12,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2024-02-03,go,22197,57,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-02-03,go,22052,2,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-02-03,go,7637,18,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2024-02-03,go,4545,7,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-02-03,go,15067,2,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2024-02-03,go,104884,32,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-02-03,go,15796,142,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-02-03,go,25696,18,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2024-02-03,go,14787,16,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",FiloSottile,age,https://github.com/FiloSottile/age
+2024-02-03,go,14266,12,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2024-02-03,go,10203,8,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2024-02-03,go,1722,4,Terraform provider plugin for proxmox,Telmate,terraform-provider-proxmox,https://github.com/Telmate/terraform-provider-proxmox
+2024-02-03,go,19,3,,blast-io,blast,https://github.com/blast-io/blast
+2024-02-03,go,15314,16,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-02-03,go,3671,2,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-02-03,go,6134,2,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2024-02-03,go,21460,5,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-02-03,go,1159,38,⚛️ ownCloud Infinite Scale Stack,owncloud,ocis,https://github.com/owncloud/ocis
+2024-02-03,go,7177,21,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-02-03,go,9420,6,Code AI platform with Code Search & Cody,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2024-02-03,go,9529,8,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2024-02-03,go,25360,24,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-02-03,go,4891,6,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2024-02-03,go,8493,1,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
