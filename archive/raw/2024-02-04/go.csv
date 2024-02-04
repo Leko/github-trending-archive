@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-04,go,23213,97,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2024-02-04,go,46,5,"Static detection tool for runc and Docker ""Leaky Vessels"" vulnerabilities",snyk,leaky-vessels-static-detector,https://github.com/snyk/leaky-vessels-static-detector
+2024-02-04,go,11172,56,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2024-02-04,go,227,34,"🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and get automatic updates via a central public package repository.",glasskube,glasskube,https://github.com/glasskube/glasskube
+2024-02-04,go,4551,7,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-02-04,go,19811,552,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-02-04,go,25707,17,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2024-02-04,go,250,35,"基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.",zaigie,palworld-server-tool,https://github.com/zaigie/palworld-server-tool
+2024-02-04,go,22245,86,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-02-04,go,1169,11,⚛️ ownCloud Infinite Scale Stack,owncloud,ocis,https://github.com/owncloud/ocis
+2024-02-04,go,25370,18,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-02-04,go,3117,36,Artificial Intelligence Infrastructure-as-Code Generator.,gofireflyio,aiac,https://github.com/gofireflyio/aiac
+2024-02-04,go,8172,19,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",jeessy2,ddns-go,https://github.com/jeessy2/ddns-go
+2024-02-04,go,1008,86,Navigate the CVE jungle with ease.,projectdiscovery,cvemap,https://github.com/projectdiscovery/cvemap
+2024-02-04,go,7244,16,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2024-02-04,go,42270,28,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2024-02-04,go,15806,15,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-02-04,go,31287,27,AI-Powered Photos App for the Decentralized Web 🌈💎✨,photoprism,photoprism,https://github.com/photoprism/photoprism
+2024-02-04,go,4174,5,"Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications",authzed,spicedb,https://github.com/authzed/spicedb
+2024-02-04,go,5863,9,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2024-02-04,go,7994,5,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS",casbin,casdoor,https://github.com/casbin/casdoor
+2024-02-04,go,35045,191,"Get up and running with Llama 2, Mistral, and other large language models locally.",ollama,ollama,https://github.com/ollama/ollama
+2024-02-04,go,2809,15,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2024-02-04,go,20722,8,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-02-04,go,7492,3,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
