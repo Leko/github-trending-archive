@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-05,go,20015,147,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-02-05,go,23454,272,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2024-02-05,go,9455,11,Ebitengine - A dead simple 2D game engine for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2024-02-05,go,26778,27,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2024-02-05,go,34855,35,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-02-05,go,4586,5,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",fluxcd,flagger,https://github.com/fluxcd/flagger
+2024-02-05,go,255,37,"🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and get automatic updates via a central public package repository.",glasskube,glasskube,https://github.com/glasskube/glasskube
+2024-02-05,go,4924,22,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
+2024-02-05,go,11508,48,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-02-05,go,2880,19,📥 A Telegram downloader/tools written in Golang,iyear,tdl,https://github.com/iyear/tdl
+2024-02-05,go,5233,5,Dendrite is a second-generation Matrix homeserver written in Go!,matrix-org,dendrite,https://github.com/matrix-org/dendrite
+2024-02-05,go,2300,2,Sonne tanken ☀️🚘,evcc-io,evcc,https://github.com/evcc-io/evcc
+2024-02-05,go,7116,1,[mirror] Go Tools,golang,tools,https://github.com/golang/tools
+2024-02-05,go,8189,15,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",jeessy2,ddns-go,https://github.com/jeessy2/ddns-go
+2024-02-05,go,22260,22,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-02-05,go,57258,30,🌸 A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2024-02-05,go,4766,11,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-02-05,go,43739,13,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2024-02-05,go,20573,16,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-02-05,go,2004,1,Go implementation of an Avalanche node.,ava-labs,avalanchego,https://github.com/ava-labs/avalanchego
+2024-02-05,go,65,42,"Static detection tool for runc and Docker ""Leaky Vessels"" vulnerabilities",snyk,leaky-vessels-static-detector,https://github.com/snyk/leaky-vessels-static-detector
+2024-02-05,go,10064,4,cqhttp的golang实现，轻量、原生跨平台.,Mrs4s,go-cqhttp,https://github.com/Mrs4s/go-cqhttp
+2024-02-05,go,44721,16,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-02-05,go,11551,7,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2024-02-05,go,4558,18,The home of the CUE language! Validate and define text-based and dynamic configuration,cue-lang,cue,https://github.com/cue-lang/cue
