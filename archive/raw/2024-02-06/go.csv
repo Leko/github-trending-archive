@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-06,go,23693,204,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2024-02-06,go,406,85,"基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.",zaigie,palworld-server-tool,https://github.com/zaigie/palworld-server-tool
+2024-02-06,go,34887,45,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-02-06,go,20208,330,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-02-06,go,11529,33,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-02-06,go,5002,9,"Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",GhostTroops,scan4all,https://github.com/GhostTroops/scan4all
+2024-02-06,go,15269,23,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-02-06,go,5406,4,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",qdm12,gluetun,https://github.com/qdm12/gluetun
+2024-02-06,go,9464,15,Ebitengine - A dead simple 2D game engine for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2024-02-06,go,7508,5,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2024-02-06,go,22070,5,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-02-06,go,9318,9,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2024-02-06,go,2880,12,Archival and Restoration for databases in the Cloud,wal-g,wal-g,https://github.com/wal-g/wal-g
+2024-02-06,go,31345,27,AI-Powered Photos App for the Decentralized Web 🌈💎✨,photoprism,photoprism,https://github.com/photoprism/photoprism
+2024-02-06,go,22525,9,Cross platform GUI toolkit in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2024-02-06,go,10450,3,基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2024-02-06,go,57921,30,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2024-02-06,go,20503,23,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-02-06,go,4934,6,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
+2024-02-06,go,22437,29,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-02-06,go,3280,5,Starter-kit for writing services in Go using Kubernetes.,ardanlabs,service,https://github.com/ardanlabs/service
+2024-02-06,go,5891,12,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2024-02-06,go,11170,9,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",tinode,chat,https://github.com/tinode/chat
+2024-02-06,go,1984,8,Homebox is the inventory and organization system built for the Home User,hay-kot,homebox,https://github.com/hay-kot/homebox
+2024-02-06,go,4589,5,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",fluxcd,flagger,https://github.com/fluxcd/flagger

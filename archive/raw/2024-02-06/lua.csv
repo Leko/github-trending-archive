@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-06,lua,8416,3,🔥 A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2024-02-06,lua,6281,14,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-02-06,lua,2550,9,Ant game engine,ejoy,ant,https://github.com/ejoy/ant
+2024-02-06,lua,12845,22,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-02-06,lua,1881,1,🚀 Launch.nvim is modular starter for Neovim.,LunarVim,Launch.nvim,https://github.com/LunarVim/Launch.nvim
+2024-02-06,lua,6581,9,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-02-06,lua,1614,5,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-02-06,lua,6155,12,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2024-02-06,lua,8920,8,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-02-06,lua,1355,9,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2024-02-06,lua,5990,3,awesome window manager,awesomeWM,awesome,https://github.com/awesomeWM/awesome
+2024-02-06,lua,2871,3,"An interactive and powerful Git interface for Neovim, inspired by Magit",NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2024-02-06,lua,1600,3,💫 Extensible UI for Neovim notifications and LSP progress messages.,j-hui,fidget.nvim,https://github.com/j-hui/fidget.nvim
+2024-02-06,lua,11000,25,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-02-06,lua,1676,1,"A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content of neovim buffer.",Eandrju,cellular-automaton.nvim,https://github.com/Eandrju/cellular-automaton.nvim
+2024-02-06,lua,3357,1,Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-02-06,lua,1948,3,Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot,zbirenbaum,copilot.lua,https://github.com/zbirenbaum/copilot.lua
+2024-02-06,lua,232,0,Modules to utilise in other resources via imports and exports.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2024-02-06,lua,11730,19,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-02-06,lua,548,9,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-02-06,lua,1463,0,Set of preconfigured snippets for different languages.,rafamadriz,friendly-snippets,https://github.com/rafamadriz/friendly-snippets
+2024-02-06,lua,229,1,Cloak allows you to overlay *'s over defined patterns in defined files.,laytan,cloak.nvim,https://github.com/laytan/cloak.nvim
+2024-02-06,lua,224,3,a simple lua neovim configuration for newbs,cpow,neovim-for-newbs,https://github.com/cpow/neovim-for-newbs
+2024-02-06,lua,14597,10,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-02-06,lua,1921,6,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim

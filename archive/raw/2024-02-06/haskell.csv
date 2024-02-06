@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-06,haskell,2524,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-02-06,haskell,31493,28,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-02-06,haskell,2028,2,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-02-06,haskell,1134,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2024-02-06,haskell,4928,3,"SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-02-06,haskell,24,0,Jambhala Cardano Development Suite,iburzynski,jambhala,https://github.com/iburzynski/jambhala
+2024-02-06,haskell,200,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-02-06,haskell,3198,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-02-06,haskell,562,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-02-06,haskell,34370,9,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-02-06,haskell,2988,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-02-06,haskell,21748,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-02-06,haskell,420,0,A language for intent-centric and declarative decentralised applications,anoma,juvix,https://github.com/anoma/juvix
+2024-02-06,haskell,1545,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-02-06,haskell,272,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,IntersectMBO,cardano-db-sync,https://github.com/IntersectMBO/cardano-db-sync
+2024-02-06,haskell,85,0,Marlowe smart contract language Cardano implementation,input-output-hk,marlowe-cardano,https://github.com/input-output-hk/marlowe-cardano
+2024-02-06,haskell,56,0,OpenTelemetry support for the Haskell programming language,iand675,hs-opentelemetry,https://github.com/iand675/hs-opentelemetry
+2024-02-06,haskell,1385,0,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2024-02-06,haskell,3934,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-02-06,haskell,230,1,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-02-06,haskell,8,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2024-02-06,haskell,738,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
