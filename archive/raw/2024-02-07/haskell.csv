@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-07,haskell,21758,11,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-02-07,haskell,2987,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-02-07,haskell,0,0,,scarf-sh,engineering-test,https://github.com/scarf-sh/engineering-test
+2024-02-07,haskell,31506,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-02-07,haskell,263,0,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
+2024-02-07,haskell,1545,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-02-07,haskell,34375,4,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-02-07,haskell,2524,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-02-07,haskell,9452,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-02-07,haskell,3335,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-02-07,haskell,0,0,,GU-CLASP,MILLing,https://github.com/GU-CLASP/MILLing
+2024-02-07,haskell,2,0,Lenses for ixset,lens,lens-ixset,https://github.com/lens/lens-ixset
+2024-02-07,haskell,1385,0,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2024-02-07,haskell,420,0,A language for intent-centric and declarative decentralised applications,anoma,juvix,https://github.com/anoma/juvix
+2024-02-07,haskell,230,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-02-07,haskell,20,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-02-07,haskell,738,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2024-02-07,haskell,8,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2024-02-07,haskell,200,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-02-07,haskell,563,1,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-02-07,haskell,5,0,Sample Repo for teaching Git concepts,jiitprashant,OSSDEven2024,https://github.com/jiitprashant/OSSDEven2024
+2024-02-07,haskell,25,0,An llvm pretty printer inspired by the haskell llvm binding,elliottt,llvm-pretty,https://github.com/elliottt/llvm-pretty
+2024-02-07,haskell,272,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,IntersectMBO,cardano-db-sync,https://github.com/IntersectMBO/cardano-db-sync
+2024-02-07,haskell,283,0,❇️ A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
