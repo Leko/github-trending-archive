@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-09,go,1015,69,代理Discord-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型,deanxv,coze-discord-proxy,https://github.com/deanxv/coze-discord-proxy
+2024-02-09,go,890,157,Telegram Drive Storage,divyam234,teldrive,https://github.com/divyam234/teldrive
+2024-02-09,go,247,9,Dymension Hub,dymensionxyz,dymension,https://github.com/dymensionxyz/dymension
+2024-02-09,go,5176,138,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",apernet,OpenGFW,https://github.com/apernet/OpenGFW
+2024-02-09,go,6942,83,Let's Encrypt/ACME client and library written in Go,go-acme,lego,https://github.com/go-acme/lego
+2024-02-09,go,47305,44,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2024-02-09,go,28610,14,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2024-02-09,go,24288,87,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2024-02-09,go,67319,9,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-02-09,go,11405,14,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2024-02-09,go,523,73,Multi-Cluster Kubernetes Orchestration,kubewharf,kubeadmiral,https://github.com/kubewharf/kubeadmiral
+2024-02-09,go,35985,151,"Get up and running with Llama 2, Mistral, and other large language models locally.",ollama,ollama,https://github.com/ollama/ollama
+2024-02-09,go,5121,32,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2024-02-09,go,533,16,"A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.",vdjagilev,nmap-formatter,https://github.com/vdjagilev/nmap-formatter
+2024-02-09,go,13208,10,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-02-09,go,12573,5,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-02-09,go,7454,2,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-02-09,go,21502,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-02-09,go,11150,6,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-02-09,go,117665,37,The Go programming language,golang,go,https://github.com/golang/go
+2024-02-09,go,12771,8,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2024-02-09,go,5756,9,"Self-hosted, lightweight server and website monitoring and O&M tool",naiba,nezha,https://github.com/naiba/nezha
+2024-02-09,go,3584,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2024-02-09,go,9454,3,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2024-02-09,go,8232,4,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy

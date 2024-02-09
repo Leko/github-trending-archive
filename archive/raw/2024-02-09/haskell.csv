@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-09,haskell,21774,9,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-02-09,haskell,34386,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-02-09,haskell,9462,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-02-09,haskell,1385,0,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2024-02-09,haskell,2030,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-02-09,haskell,43,0,Concurrency for the pipes ecosystem,Gabriella439,pipes-concurrency,https://github.com/Gabriella439/pipes-concurrency
+2024-02-09,haskell,547,0,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-02-09,haskell,8,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2024-02-09,haskell,1,0,home,xuebo,xset,https://github.com/xuebo/xset
+2024-02-09,haskell,2527,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-02-09,haskell,4190,0,🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness,digitallyinduced,ihp,https://github.com/digitallyinduced/ihp
+2024-02-09,haskell,16,0,Symbolic execution of LLVM IR traces for program understanding.,phulin,symbolic-trace,https://github.com/phulin/symbolic-trace
+2024-02-09,haskell,3203,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-02-09,haskell,2988,2,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-02-09,haskell,1546,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-02-09,haskell,31528,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-02-09,haskell,739,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2024-02-09,haskell,3934,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-02-09,haskell,2291,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-02-09,haskell,2824,2,Linux VR Desktop,SimulaVR,Simula,https://github.com/SimulaVR/Simula
+2024-02-09,haskell,85,0,Marlowe smart contract language Cardano implementation,input-output-hk,marlowe-cardano,https://github.com/input-output-hk/marlowe-cardano
+2024-02-09,haskell,20,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-02-09,haskell,16,0,This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.,IntersectMBO,cardano-cli,https://github.com/IntersectMBO/cardano-cli
+2024-02-09,haskell,263,0,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
