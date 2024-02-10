@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-10,shell,621,13,Code snippets for ROS2,mikeferguson,ros2_cookbook,https://github.com/mikeferguson/ros2_cookbook
+2024-02-10,shell,5943,20,A cli tool to browse and play anime,pystardust,ani-cli,https://github.com/pystardust/ani-cli
+2024-02-10,shell,4239,23,"Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",hiddify,Hiddify-Manager,https://github.com/hiddify/Hiddify-Manager
+2024-02-10,shell,2285,2,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-02-10,shell,4220,0,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-02-10,shell,2298,2,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2024-02-10,shell,15610,2,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2024-02-10,shell,73687,15,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-02-10,shell,245,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2024-02-10,shell,216,3,"Small improvements and tweaks for rM devices, covering both rM1 and rM2.",mb1986,rm-hacks,https://github.com/mb1986/rm-hacks
+2024-02-10,shell,2825,3,pre-commit git hooks to take care of Terraform configurations 🇺🇦,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2024-02-10,shell,7870,6,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2024-02-10,shell,5901,1,"A huge collection of Rofi based custom Applets, Launchers & Powermenus.",adi1090x,rofi,https://github.com/adi1090x/rofi
+2024-02-10,shell,16280,2,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2024-02-10,shell,19703,14,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-02-10,shell,3358,2,Guia rápido do WSL2 + Docker,codeedu,wsl2-docker-quickstart,https://github.com/codeedu/wsl2-docker-quickstart
+2024-02-10,shell,147,0,,SonarSource,sonarqube-scan-action,https://github.com/SonarSource/sonarqube-scan-action
+2024-02-10,shell,19,0,,CoinHuntersTR,Avail-Full-Node,https://github.com/CoinHuntersTR/Avail-Full-Node
+2024-02-10,shell,6811,4,WireGuard VPN installer for Linux servers,angristan,wireguard-install,https://github.com/angristan/wireguard-install
+2024-02-10,shell,5825,2,openwrt常用软件包,kenzok8,openwrt-packages,https://github.com/kenzok8/openwrt-packages
+2024-02-10,shell,2900,2,"Hestia Control Panel | A lightweight and powerful control panel for the modern web.",hestiacp,hestiacp,https://github.com/hestiacp/hestiacp
+2024-02-10,shell,598,2,Main package repository for production Wolfi images,wolfi-dev,os,https://github.com/wolfi-dev/os
+2024-02-10,shell,348,3,"Tutorial to install Debian virtual machine with functional WordPress site with the following services: lighttpd, MariaDB, PHP and Litespeed.",gemartin99,Born2beroot-Tutorial,https://github.com/gemartin99/Born2beroot-Tutorial
+2024-02-10,shell,1420,2,A simple script just made for self use for bypassing 403,iamj0ker,bypass-403,https://github.com/iamj0ker/bypass-403
+2024-02-10,shell,817,0,"A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.",fluxcd,flux2-kustomize-helm-example,https://github.com/fluxcd/flux2-kustomize-helm-example
