@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-11,scala,37794,6,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-02-11,scala,3605,0,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2024-02-11,scala,12879,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2024-02-11,scala,4933,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2024-02-11,scala,0,0,,LeifAndersen,CPSLambdaCalc,https://github.com/LeifAndersen/CPSLambdaCalc
+2024-02-11,scala,1,0,A simplified distributed locking and synchronization manager written with scala and akka. A lightweight alternative to zookeeper.,kalmanb,gridlock,https://github.com/kalmanb/gridlock
+2024-02-11,scala,2507,1,A Scala API for Apache Beam and Google Cloud Dataflow.,spotify,scio,https://github.com/spotify/scio
+2024-02-11,scala,259,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2024-02-11,scala,5523,1,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2024-02-11,scala,15,2,Diagrams for fs2,zainab-ali,aquascape,https://github.com/zainab-ali/aquascape
+2024-02-11,scala,3950,0,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2024-02-11,scala,2362,0,In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.,softwaremill,elasticmq,https://github.com/softwaremill/elasticmq
+2024-02-11,scala,476,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2024-02-11,scala,658,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-02-11,scala,14247,1,Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/lampepfl/dotty,scala,scala,https://github.com/scala/scala
+2024-02-11,scala,473,0,"Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)",VirtusLab,scala-cli,https://github.com/VirtusLab/scala-cli
+2024-02-11,scala,841,0,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2024-02-11,scala,55,0,Java and Scala SDKs for Kalix,lightbend,kalix-jvm-sdk,https://github.com/lightbend/kalix-jvm-sdk
+2024-02-11,scala,228,0,Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs,Azure,azure-event-hubs-spark,https://github.com/Azure/azure-event-hubs-spark
+2024-02-11,scala,686,1,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2024-02-11,scala,0,0,HAW SS2013 - Nao Project,mStellmann,MongoDB_NaoActor,https://github.com/mStellmann/MongoDB_NaoActor
+2024-02-11,scala,946,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2024-02-11,scala,8735,1,"A fault tolerant, protocol-agnostic RPC system",twitter,finagle,https://github.com/twitter/finagle
+2024-02-11,scala,12482,1,The Community Maintained High Velocity Web Framework For Java and Scala.,playframework,playframework,https://github.com/playframework/playframework
+2024-02-11,scala,723,0,"A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",zio,zio-http,https://github.com/zio/zio-http
