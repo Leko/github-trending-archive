@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-12,go,141,12,🛡️ Inox is your shield against complexity in full-stack development.,inoxlang,inox,https://github.com/inoxlang/inox
+2024-02-12,go,36671,262,"Get up and running with Llama 2, Mistral, and other large language models locally.",ollama,ollama,https://github.com/ollama/ollama
+2024-02-12,go,21183,134,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-02-12,go,6908,4,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2024-02-12,go,6361,9,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2024-02-12,go,1079,4,Torrent stream server,YouROK,TorrServer,https://github.com/YouROK/TorrServer
+2024-02-12,go,7057,15,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-02-12,go,14602,2,Application Kernel for Containers,google,gvisor,https://github.com/google/gvisor
+2024-02-12,go,5418,22,A language for writing HTML user interfaces in Go.,a-h,templ,https://github.com/a-h/templ
+2024-02-12,go,7094,3,🐶 Automated code review tool integrated with any code analysis tools regardless of programming language,reviewdog,reviewdog,https://github.com/reviewdog/reviewdog
+2024-02-12,go,9063,33,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2024-02-12,go,1100,22,Telegram Drive Storage,divyam234,teldrive,https://github.com/divyam234/teldrive
+2024-02-12,go,495,27,Huma REST/HTTP API Framework for Golang with OpenAPI 3,danielgtaylor,huma,https://github.com/danielgtaylor/huma
+2024-02-12,go,3586,22,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2024-02-12,go,4953,12,A dependency injection based application framework for Go.,uber-go,fx,https://github.com/uber-go/fx
+2024-02-12,go,9944,16,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2024-02-12,go,2542,2,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,WireGuard,wireguard-go,https://github.com/WireGuard/wireguard-go
+2024-02-12,go,14107,6,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2024-02-12,go,6983,10,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2024-02-12,go,846,1,"Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.",berachain,polaris,https://github.com/berachain/polaris
+2024-02-12,go,13531,10,The most customisable and low-latency cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2024-02-12,go,7371,3,Lightning Network Daemon ⚡️,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2024-02-12,go,4237,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2024-02-12,go,5681,5,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2024-02-12,go,11673,23,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
