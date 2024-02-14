@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-14,go,15179,6,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2024-02-14,go,4444,8,Giving Kubernetes Superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2024-02-14,go,6927,9,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2024-02-14,go,16539,10,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2024-02-14,go,5704,1,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2024-02-14,go,9104,20,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2024-02-14,go,15036,7,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-02-14,go,19529,2,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-02-14,go,99,6,Examples for using Pkl within Go applications,apple,pkl-go-examples,https://github.com/apple/pkl-go-examples
+2024-02-14,go,6482,10,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,projectdiscovery,httpx,https://github.com/projectdiscovery/httpx
+2024-02-14,go,3110,1,OCI Image Format,opencontainers,image-spec,https://github.com/opencontainers/image-spec
+2024-02-14,go,4498,9,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",flyteorg,flyte,https://github.com/flyteorg/flyte
+2024-02-14,go,9221,8,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-02-14,go,2493,4,Main repository for Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2024-02-14,go,3094,3,Docker CLI plugin for extended build capabilities with BuildKit,docker,buildx,https://github.com/docker/buildx
+2024-02-14,go,4910,2,"An ACME-based certificate authority, written in Go.",letsencrypt,boulder,https://github.com/letsencrypt/boulder
+2024-02-14,go,2923,1,An OOB interaction gathering server and client library,projectdiscovery,interactsh,https://github.com/projectdiscovery/interactsh
+2024-02-14,go,2338,2,"Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.",apache,incubator-devlake,https://github.com/apache/incubator-devlake
+2024-02-14,go,16401,14,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-02-14,go,22301,4,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-02-14,go,9953,7,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2024-02-14,go,6376,6,Fluent SQL generation for golang,Masterminds,squirrel,https://github.com/Masterminds/squirrel
+2024-02-14,go,3521,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-02-14,go,21408,185,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-02-14,go,13583,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf

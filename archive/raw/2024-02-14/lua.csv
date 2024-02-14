@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-14,lua,4175,6,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2024-02-14,lua,1487,0,Set of preconfigured snippets for different languages.,rafamadriz,friendly-snippets,https://github.com/rafamadriz/friendly-snippets
+2024-02-14,lua,1581,38,Find the enemy and replace them with dark power.,nvim-pack,nvim-spectre,https://github.com/nvim-pack/nvim-spectre
+2024-02-14,lua,3068,15,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2024-02-14,lua,2909,11,"An interactive and powerful Git interface for Neovim, inspired by Magit",NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2024-02-14,lua,3389,7,Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-02-14,lua,5774,1,Web-based Traffic and Security Network Traffic Monitoring,ntop,ntopng,https://github.com/ntop/ntopng
+2024-02-14,lua,11124,24,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-02-14,lua,232,0,a simple lua neovim configuration for newbs,cpow,neovim-for-newbs,https://github.com/cpow/neovim-for-newbs
+2024-02-14,lua,6636,9,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-02-14,lua,3284,5,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
+2024-02-14,lua,1974,1,The neovim tabline plugin.,romgrk,barbar.nvim,https://github.com/romgrk/barbar.nvim
+2024-02-14,lua,14646,7,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-02-14,lua,321,0,"Monokai Pro theme for Neovim written in Lua, with multiple filters: Pro, Classic, Machine, Octagon, Ristretto, Spectrum",loctvl842,monokai-pro.nvim,https://github.com/loctvl842/monokai-pro.nvim
+2024-02-14,lua,902,3,nvim-cmp source for neovim builtin LSP client,hrsh7th,cmp-nvim-lsp,https://github.com/hrsh7th/cmp-nvim-lsp
+2024-02-14,lua,588,3,Neovim plugin to generate text using LLMs with customizable prompts,David-Kunz,gen.nvim,https://github.com/David-Kunz/gen.nvim
+2024-02-14,lua,41,2,,dmmulroy,kickstart.nix,https://github.com/dmmulroy/kickstart.nix
+2024-02-14,lua,2426,3,"✅ Highlight, list and search todo comments in your projects",folke,todo-comments.nvim,https://github.com/folke/todo-comments.nvim
+2024-02-14,lua,1941,3,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-02-14,lua,1981,5,Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot,zbirenbaum,copilot.lua,https://github.com/zbirenbaum/copilot.lua
+2024-02-14,lua,1980,11,Obsidian 🤝 Neovim,epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2024-02-14,lua,11018,3,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2024-02-14,lua,3425,1,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2024-02-14,lua,234,1,A normal Neovim distro,NormalNvim,NormalNvim,https://github.com/NormalNvim/NormalNvim
+2024-02-14,lua,77,1,Neovim Lua plugin to automatically manage character pairs. Part of 'mini.nvim' library.,echasnovski,mini.pairs,https://github.com/echasnovski/mini.pairs
