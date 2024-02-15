@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-15,lua,8979,8,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-02-15,lua,1586,5,Find the enemy and replace them with dark power.,nvim-pack,nvim-spectre,https://github.com/nvim-pack/nvim-spectre
+2024-02-15,lua,3079,18,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2024-02-15,lua,36964,4,🦍 The Cloud-Native API Gateway,Kong,kong,https://github.com/Kong/kong
+2024-02-15,lua,2915,9,"An interactive and powerful Git interface for Neovim, inspired by Magit",NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2024-02-15,lua,1011,8,Plugin for calling lazygit from within neovim.,kdheepak,lazygit.nvim,https://github.com/kdheepak/lazygit.nvim
+2024-02-15,lua,2700,2,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-02-15,lua,21873,48,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2024-02-15,lua,1660,4,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-02-15,lua,27035,1,Image Super-Resolution for Anime-Style Art,nagadomi,waifu2x,https://github.com/nagadomi/waifu2x
+2024-02-15,lua,1913,2,vim dashboard,nvimdev,dashboard-nvim,https://github.com/nvimdev/dashboard-nvim
+2024-02-15,lua,10092,22,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-02-15,lua,3393,5,Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-02-15,lua,1379,3,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2024-02-15,lua,3297,1,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-02-15,lua,17031,12,🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2024-02-15,lua,12967,15,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-02-15,lua,1730,4,Soho vibes for Neovim,rose-pine,neovim,https://github.com/rose-pine/neovim
+2024-02-15,lua,1944,5,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-02-15,lua,756,2,A task runner and job management plugin for Neovim,stevearc,overseer.nvim,https://github.com/stevearc/overseer.nvim
+2024-02-15,lua,3543,1,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2024-02-15,lua,245,0,"A public collection of mods for Sky: Children of the Light, the latest game by thatgamecompany!",thatskymod,Sky-CotL-Scripts,https://github.com/thatskymod/Sky-CotL-Scripts
+2024-02-15,lua,173,14,"Configurable ComputerCraft SCADA system for multi-reactor control of Mekanism fission reactors with a GUI, automatic safety features, waste processing control, and more! Please be sure to take a look at the Wiki tab, this project has lots of docs!",MikaylaFischler,cc-mek-scada,https://github.com/MikaylaFischler/cc-mek-scada
+2024-02-15,lua,18,2,"Neovim theme inspired in Palenight, support a lot of plugins out-of-the-box. Includes themes for iTerm2, Alacritty, Kitty, Fish and others.",pauchiner,pastelnight.nvim,https://github.com/pauchiner/pastelnight.nvim
+2024-02-15,lua,3284,6,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
