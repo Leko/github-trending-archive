@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-16,go,40513,106,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-02-16,go,6557,8,"A shell parser, formatter, and interpreter with bash support; includes shfmt",mvdan,sh,https://github.com/mvdan/sh
+2024-02-16,go,105115,28,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-02-16,go,9931,16,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-02-16,go,2359,5,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-02-16,go,51743,18,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-02-16,go,15057,7,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-02-16,go,46757,44,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2024-02-16,go,8417,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-02-16,go,4153,4,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2024-02-16,go,8193,3,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2024-02-16,go,2499,3,Main repository for Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2024-02-16,go,2192,5,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2024-02-16,go,4964,3,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2024-02-16,go,13588,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-02-16,go,34372,0,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2024-02-16,go,57605,70,🌸 A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2024-02-16,go,186,13,Tool to remotely dump secrets from the Windows registry,jfjallid,go-secdump,https://github.com/jfjallid/go-secdump
+2024-02-16,go,23804,5,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-02-16,go,371,0,Terraform Datadog provider,DataDog,terraform-provider-datadog,https://github.com/DataDog/terraform-provider-datadog
+2024-02-16,go,11921,10,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2024-02-16,go,7510,6,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-02-16,go,15835,8,Protect access to all of your infrastructure,gravitational,teleport,https://github.com/gravitational/teleport
+2024-02-16,go,7247,11,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-02-16,go,17086,6,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway

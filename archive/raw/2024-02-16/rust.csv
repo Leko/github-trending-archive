@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-16,rust,4186,364,CUDA on AMD GPUs,vosen,ZLUDA,https://github.com/vosen/ZLUDA
+2024-02-16,rust,9827,251,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2024-02-16,rust,1669,59,zkSync era,matter-labs,zksync-era,https://github.com/matter-labs/zksync-era
+2024-02-16,rust,141,9,Apache Arrow DataFusion Comet Spark Accelerator,apache,arrow-datafusion-comet,https://github.com/apache/arrow-datafusion-comet
+2024-02-16,rust,19898,17,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2024-02-16,rust,126,22,,Dillonb,nmuidi,https://github.com/Dillonb/nmuidi
+2024-02-16,rust,4156,117,"Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.",rerun-io,rerun,https://github.com/rerun-io/rerun
+2024-02-16,rust,5640,4,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-02-16,rust,17049,22,a structural diff that understands syntax 🟥🟩,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2024-02-16,rust,14273,601,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2024-02-16,rust,22069,302,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
+2024-02-16,rust,3392,7,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2024-02-16,rust,28920,52,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2024-02-16,rust,24277,32,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-02-16,rust,23555,7,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2024-02-16,rust,12090,16,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-02-16,rust,26177,55,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2024-02-16,rust,16875,7,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2024-02-16,rust,1633,5,A blazing fast inference solution for text embeddings models,huggingface,text-embeddings-inference,https://github.com/huggingface/text-embeddings-inference
+2024-02-16,rust,18436,23,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2024-02-16,rust,4061,66,zkSync: trustless scaling and privacy engine for Ethereum,matter-labs,zksync,https://github.com/matter-labs/zksync
+2024-02-16,rust,43332,24,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2024-02-16,rust,15510,5,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-02-16,rust,1009,3,Run web applications on AWS Lambda,awslabs,aws-lambda-web-adapter,https://github.com/awslabs/aws-lambda-web-adapter
+2024-02-16,rust,15006,20,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
