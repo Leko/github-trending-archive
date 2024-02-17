@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-17,go,371,60,Natural Language Programming,gptscript-ai,gptscript,https://github.com/gptscript-ai/gptscript
+2024-02-17,go,9314,83,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-02-17,go,105131,25,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-02-17,go,40570,104,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-02-17,go,19542,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-02-17,go,3699,3,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-02-17,go,94,13,"This repo provides the enterprise level features for the weave-gitops product, including CAPI cluster creation and team workspaces.",weaveworks,weave-gitops-enterprise,https://github.com/weaveworks/weave-gitops-enterprise
+2024-02-17,go,7265,22,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-02-17,go,5312,1,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2024-02-17,go,7514,5,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-02-17,go,4613,3,Modlishka. Reverse Proxy.,drk1wi,Modlishka,https://github.com/drk1wi/Modlishka
+2024-02-17,go,13445,5,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-02-17,go,4162,8,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2024-02-17,go,9424,7,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2024-02-17,go,2363,5,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-02-17,go,57656,66,🌸 A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2024-02-17,go,46788,37,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2024-02-17,go,117841,21,The Go programming language,golang,go,https://github.com/golang/go
+2024-02-17,go,9934,7,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-02-17,go,25684,10,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-02-17,go,20535,12,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-02-17,go,6596,57,"A shell parser, formatter, and interpreter with bash support; includes shfmt",mvdan,sh,https://github.com/mvdan/sh
+2024-02-17,go,7470,0,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-02-17,go,51751,7,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-02-17,go,1462,0,Vendor-neutral programmable observability pipelines.,grafana,agent,https://github.com/grafana/agent
