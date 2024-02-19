@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-19,lua,13018,18,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-02-19,lua,3119,12,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2024-02-19,lua,640,5,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-02-19,lua,3406,5,Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-02-19,lua,2225,3,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2024-02-19,lua,1330,5,🧘 Distraction-free coding for Neovim,folke,zen-mode.nvim,https://github.com/folke/zen-mode.nvim
+2024-02-19,lua,11052,9,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2024-02-19,lua,6364,11,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-02-19,lua,6663,10,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-02-19,lua,9012,12,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-02-19,lua,10184,25,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-02-19,lua,1501,6,Set of preconfigured snippets for different languages.,rafamadriz,friendly-snippets,https://github.com/rafamadriz/friendly-snippets
+2024-02-19,lua,4441,8,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-02-19,lua,2717,2,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2024-02-19,lua,14678,10,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-02-19,lua,6268,9,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2024-02-19,lua,2666,3,autopairs for neovim written by lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2024-02-19,lua,4092,8,💥 Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2024-02-19,lua,914,2,nvim-cmp source for neovim builtin LSP client,hrsh7th,cmp-nvim-lsp,https://github.com/hrsh7th/cmp-nvim-lsp
+2024-02-19,lua,8455,2,🔥 A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2024-02-19,lua,1048,2,A better annotation generator. Supports multiple languages and annotation conventions.,danymat,neogen,https://github.com/danymat/neogen
+2024-02-19,lua,7449,8,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2024-02-19,lua,4956,16,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2024-02-19,lua,11939,20,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-02-19,lua,158,0,QBCore Dispatch,Project-Sloth,ps-dispatch,https://github.com/Project-Sloth/ps-dispatch

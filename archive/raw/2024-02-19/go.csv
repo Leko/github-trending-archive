@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-19,go,667,61,Natural Language Programming,gptscript-ai,gptscript,https://github.com/gptscript-ai/gptscript
+2024-02-19,go,28591,12,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2024-02-19,go,298,3,A simple DPI bypass tool written in go,bepass-org,bepass,https://github.com/bepass-org/bepass
+2024-02-19,go,71342,21,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2024-02-19,go,7743,18,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2024-02-19,go,35189,44,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-02-19,go,6216,142,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2024-02-19,go,11851,35,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-02-19,go,9512,7,Ebitengine - A dead simple 2D game engine for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2024-02-19,go,20673,20,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-02-19,go,5531,9,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",qdm12,gluetun,https://github.com/qdm12/gluetun
+2024-02-19,go,52335,36,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2024-02-19,go,5571,26,A language for writing HTML user interfaces in Go.,a-h,templ,https://github.com/a-h/templ
+2024-02-19,go,58145,28,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2024-02-19,go,4822,8,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-02-19,go,44412,8,A platform for building proxies to bypass network restrictions.,v2ray,v2ray-core,https://github.com/v2ray/v2ray-core
+2024-02-19,go,2750,5,📁 Examples for 🚀 Fiber,gofiber,recipes,https://github.com/gofiber/recipes
+2024-02-19,go,3028,6,GO Simple Tunnel - a simple tunnel written in golang,go-gost,gost,https://github.com/go-gost/gost
+2024-02-19,go,25785,14,Easily and securely send things from one computer to another 🐊 📦,schollz,croc,https://github.com/schollz/croc
+2024-02-19,go,4306,20,Create beautiful system diagrams with Go,blushft,go-diagrams,https://github.com/blushft/go-diagrams
+2024-02-19,go,72,9,"A production-grade todo app applying the following technologies: Go, gRPC, Docker, Kubernetes, Zap, Jaeger, Prometheus, Grafana and more",marcoshuck,todo,https://github.com/marcoshuck/todo
+2024-02-19,go,19374,6,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2024-02-19,go,42,0,IP address Manager for Cluster API Provider Metal3,metal3-io,ip-address-manager,https://github.com/metal3-io/ip-address-manager
+2024-02-19,go,1139,3,CLI tool for linting and testing Helm charts,helm,chart-testing,https://github.com/helm/chart-testing
+2024-02-19,go,25708,18,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
