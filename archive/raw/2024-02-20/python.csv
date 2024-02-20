@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-20,python,4098,1372,"Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.",karpathy,minbpe,https://github.com/karpathy/minbpe
+2024-02-20,python,4003,1882,,LargeWorldModel,LWM,https://github.com/LargeWorldModel/LWM
+2024-02-20,python,13946,828,1 min voice data can also be used to train a good TTS model! (few shot voice cloning),RVC-Boss,GPT-SoVITS,https://github.com/RVC-Boss/GPT-SoVITS
+2024-02-20,python,2684,386,"Official PyTorch Implementation of ""Scalable Diffusion Models with Transformers""",facebookresearch,DiT,https://github.com/facebookresearch/DiT
+2024-02-20,python,4881,2682,Detect file content types with deep learning,google,magika,https://github.com/google/magika
+2024-02-20,python,121653,293,Stable Diffusion web UI,AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2024-02-20,python,51720,47,"为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",binary-husky,gpt_academic,https://github.com/binary-husky/gpt_academic
+2024-02-20,python,916,223,PyTorch code and models for V-JEPA self-supervised learning from video.,facebookresearch,jepa,https://github.com/facebookresearch/jepa
+2024-02-20,python,25667,132,"The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",comfyanonymous,ComfyUI,https://github.com/comfyanonymous/ComfyUI
+2024-02-20,python,1761,137,,lllyasviel,stable-diffusion-webui-forge,https://github.com/lllyasviel/stable-diffusion-webui-forge
+2024-02-20,python,11539,80,Next generation face swapper and enhancer,facefusion,facefusion,https://github.com/facefusion/facefusion
+2024-02-20,python,21474,75,基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。,zhayujie,chatgpt-on-wechat,https://github.com/zhayujie/chatgpt-on-wechat
+2024-02-20,python,52884,76,"The official gpt4free repository | various collection of powerful language models",xtekky,gpt4free,https://github.com/xtekky/gpt4free
+2024-02-20,python,47575,592,🔎 Hunt down social media accounts by username across social networks,sherlock-project,sherlock,https://github.com/sherlock-project/sherlock
+2024-02-20,python,120350,62,"🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",huggingface,transformers,https://github.com/huggingface/transformers
+2024-02-20,python,22334,49,"Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",chatchat-space,Langchain-Chatchat,https://github.com/chatchat-space/Langchain-Chatchat
+2024-02-20,python,1315,499,A UI-Focused Agent for Windows OS Interaction.,microsoft,UFO,https://github.com/microsoft/UFO
+2024-02-20,python,46565,38,openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.,commaai,openpilot,https://github.com/commaai/openpilot
+2024-02-20,python,1894,93,Real-Time Open-Vocabulary Object Detection,AILab-CVC,YOLO-World,https://github.com/AILab-CVC/YOLO-World
+2024-02-20,python,31215,93,Focus on prompting and generating,lllyasviel,Fooocus,https://github.com/lllyasviel/Fooocus
+2024-02-20,python,15699,54,"An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.",langgenius,dify,https://github.com/langgenius/dify
+2024-02-20,python,26915,44,"🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",coqui-ai,TTS,https://github.com/coqui-ai/TTS
+2024-02-20,python,175861,40,All Algorithms implemented in Python,TheAlgorithms,Python,https://github.com/TheAlgorithms/Python
+2024-02-20,python,19701,39,Generative Models by Stability AI,Stability-AI,generative-models,https://github.com/Stability-AI/generative-models
+2024-02-20,python,29285,75,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",karpathy,nanoGPT,https://github.com/karpathy/nanoGPT
