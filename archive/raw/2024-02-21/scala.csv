@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-21,scala,60804,8,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2024-02-21,scala,37855,15,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-02-21,scala,2936,2,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2024-02-21,scala,5526,2,"The Scala 3 compiler, also known as Dotty.",lampepfl,dotty,https://github.com/lampepfl/dotty
+2024-02-21,scala,3953,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2024-02-21,scala,12888,3,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2024-02-21,scala,4741,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2024-02-21,scala,9039,1,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2024-02-21,scala,11628,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2024-02-21,scala,10501,4,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2024-02-21,scala,4418,1,Your favorite language gets closer to bare metal.,scala-native,scala-native,https://github.com/scala-native/scala-native
+2024-02-21,scala,897,3,Gluten: Plugin to Double SparkSQL's Performance,oap-project,gluten,https://github.com/oap-project/gluten
+2024-02-21,scala,24,0,Rawls service for DSDE,broadinstitute,rawls,https://github.com/broadinstitute/rawls
+2024-02-21,scala,283,1,Functional Kafka Streams for Scala,fd4s,fs2-kafka,https://github.com/fd4s/fs2-kafka
+2024-02-21,scala,4936,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2024-02-21,scala,6309,1,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2024-02-21,scala,110,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2024-02-21,scala,225,0,"Open, Modular, Deep Learning Accelerator",apache,tvm-vta,https://github.com/apache/tvm-vta
+2024-02-21,scala,14336,4,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2024-02-21,scala,3152,3,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2024-02-21,scala,1916,0,The pure asynchronous runtime for Scala,typelevel,cats-effect,https://github.com/typelevel/cats-effect
+2024-02-21,scala,1709,0,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc,joernio,joern,https://github.com/joernio/joern
+2024-02-21,scala,6199,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2024-02-21,scala,41,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo
+2024-02-21,scala,1998,0,Scala language server with rich IDE features 🚀,scalameta,metals,https://github.com/scalameta/metals
