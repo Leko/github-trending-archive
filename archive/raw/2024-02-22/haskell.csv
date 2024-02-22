@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-22,haskell,9510,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-02-22,haskell,34468,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-02-22,haskell,21833,10,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-02-22,haskell,3,0,IO concurrent promitives for conduit,qnikst,iochan-conduit,https://github.com/qnikst/iochan-conduit
+2024-02-22,haskell,2677,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-02-22,haskell,2989,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-02-22,haskell,2235,1,💥💻💥 A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2024-02-22,haskell,2,0,,markandrus,Matrix-Decomposition,https://github.com/markandrus/Matrix-Decomposition
+2024-02-22,haskell,0,0,Monitor ripple server for transactions and send emails,singpolyma,ripple-notify,https://github.com/singpolyma/ripple-notify
+2024-02-22,haskell,202,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-02-22,haskell,31619,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-02-22,haskell,2289,1,Terminal-based presentations using Pandoc,jaspervdj,patat,https://github.com/jaspervdj/patat
+2024-02-22,haskell,8,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2024-02-22,haskell,6,0,Accelerates K Framework's Haskell backend,runtimeverification,hs-backend-booster,https://github.com/runtimeverification/hs-backend-booster
+2024-02-22,haskell,5480,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-02-22,haskell,2539,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
