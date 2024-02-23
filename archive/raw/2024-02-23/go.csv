@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-23,go,34483,100,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2024-02-23,go,15930,118,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-02-23,go,39194,352,"Get up and running with Llama 2, Mistral, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-02-23,go,74311,22,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-02-23,go,18757,11,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-02-23,go,12627,6,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-02-23,go,8444,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-02-23,go,13367,5,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2024-02-23,go,337,33,Golang Fuego - web framework generating OpenAPI 3 spec from source code,go-fuego,fuego,https://github.com/go-fuego/fuego
+2024-02-23,go,23230,10,👾 Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2024-02-23,go,15112,13,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-02-23,go,13384,71,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-02-23,go,20801,6,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-02-23,go,16518,19,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-02-23,go,35285,19,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-02-23,go,19429,16,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2024-02-23,go,7102,8,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-02-23,go,25282,14,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-02-23,go,10800,4,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2024-02-23,go,8551,60,Convert Github Copilot to ChatGPT,aaamoon,copilot-gpt4-service,https://github.com/aaamoon/copilot-gpt4-service
+2024-02-23,go,5030,0,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2024-02-23,go,2262,21,"LangChain for Go, the easiest way to write LLM-based programs in Go",tmc,langchaingo,https://github.com/tmc/langchaingo
+2024-02-23,go,2433,1,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2024-02-23,go,105246,33,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-02-23,go,12930,5,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
