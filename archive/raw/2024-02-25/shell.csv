@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-25,shell,1381,90,"SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.",MegaManSec,SSH-Snake,https://github.com/MegaManSec/SSH-Snake
+2024-02-25,shell,529,47,"Bluesky PDS (Personal Data Server) container image, compose file, and documentation",bluesky-social,pds,https://github.com/bluesky-social/pds
+2024-02-25,shell,6916,19,A collection of inspiring resources related to engineering management and tech leadership,charlax,engineering-management,https://github.com/charlax/engineering-management
+2024-02-25,shell,4333,13,🐧 Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本,dunwu,linux-tutorial,https://github.com/dunwu/linux-tutorial
+2024-02-25,shell,3343,9,"redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here",remote-android,redroid-doc,https://github.com/remote-android/redroid-doc
+2024-02-25,shell,59057,21,程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).,Anduin2017,HowToCook,https://github.com/Anduin2017/HowToCook
+2024-02-25,shell,3631,5,A Library for Advanced Deep Time Series Models.,thuml,Time-Series-Library,https://github.com/thuml/Time-Series-Library
+2024-02-25,shell,74005,21,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-02-25,shell,886,6,Docker container to easily provision and manage Palworld Dedicated Server,jammsen,docker-palworld-dedicated-server,https://github.com/jammsen/docker-palworld-dedicated-server
+2024-02-25,shell,970,6,Collection of Alacritty color schemes,alacritty,alacritty-theme,https://github.com/alacritty/alacritty-theme
+2024-02-25,shell,2857,2,pre-commit git hooks to take care of Terraform configurations 🇺🇦,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2024-02-25,shell,575,0,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2024-02-25,shell,3562,1,Armbian Linux Build Framework,armbian,build,https://github.com/armbian/build
+2024-02-25,shell,2021,2,"Security automation content in SCAP, Bash, Ansible, and other formats",ComplianceAsCode,content,https://github.com/ComplianceAsCode/content
+2024-02-25,shell,2322,0,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
+2024-02-25,shell,7991,21,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2024-02-25,shell,3575,7,"proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.",ivanhao,pvetools,https://github.com/ivanhao/pvetools
+2024-02-25,shell,142,0,Example scenario workflows for Confluent for Kubernetes,confluentinc,confluent-kubernetes-examples,https://github.com/confluentinc/confluent-kubernetes-examples
+2024-02-25,shell,6271,3,,BtbN,FFmpeg-Builds,https://github.com/BtbN/FFmpeg-Builds
+2024-02-25,shell,16337,1,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2024-02-25,shell,7490,0,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2024-02-25,shell,662,2,"WireGuard VPN server installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS, Fedora, openSUSE and Raspberry Pi OS",hwdsl2,wireguard-install,https://github.com/hwdsl2/wireguard-install
+2024-02-25,shell,2304,1,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2024-02-25,shell,698,3,A collection of Dev Container Features managed by Dev Container spec maintainers. See https://github.com/devcontainers/feature-starter to publish your own,devcontainers,features,https://github.com/devcontainers/features
+2024-02-25,shell,4505,3,如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。,ben1234560,k8s_PaaS,https://github.com/ben1234560/k8s_PaaS

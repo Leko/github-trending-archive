@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-25,go,1498,22,代理Discord对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型,deanxv,coze-discord-proxy,https://github.com/deanxv/coze-discord-proxy
+2024-02-25,go,29347,12,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-02-25,go,40088,439,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-02-25,go,4606,35,⛑ Automated developer-oriented status page,TwiN,gatus,https://github.com/TwiN/gatus
+2024-02-25,go,22126,1,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-02-25,go,14895,6,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",ory,hydra,https://github.com/ory/hydra
+2024-02-25,go,9505,7,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2024-02-25,go,8593,4,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2024-02-25,go,4874,4,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2024-02-25,go,17121,3,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-02-25,go,22337,6,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-02-25,go,19449,4,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。",flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2024-02-25,go,23576,9,A modern and intuitive terminal-based text editor,zyedidia,micro,https://github.com/zyedidia/micro
+2024-02-25,go,11244,2,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-02-25,go,538,11,"Synchronized viewing, theater, live streaming, video, long-distance relationship",synctv-org,synctv,https://github.com/synctv-org/synctv
+2024-02-25,go,8401,4,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2024-02-25,go,2286,8,"LangChain for Go, the easiest way to write LLM-based programs in Go",tmc,langchaingo,https://github.com/tmc/langchaingo
+2024-02-25,go,19571,5,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-02-25,go,4619,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-02-25,go,13450,33,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-02-25,go,19088,12,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀,pulumi,pulumi,https://github.com/pulumi/pulumi
+2024-02-25,go,3766,5,Test infrastructure for the Kubernetes project.,kubernetes,test-infra,https://github.com/kubernetes/test-infra
+2024-02-25,go,9505,18,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2024-02-25,go,16543,6,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-02-25,go,14638,2,"The lightweight, distributed relational database built on SQLite.",rqlite,rqlite,https://github.com/rqlite/rqlite
