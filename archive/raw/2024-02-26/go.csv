@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-26,go,40572,477,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-02-26,go,5404,9,🧟 The modern PHP app server,dunglas,frankenphp,https://github.com/dunglas/frankenphp
+2024-02-26,go,35391,17,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-02-26,go,5629,14,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",apernet,OpenGFW,https://github.com/apernet/OpenGFW
+2024-02-26,go,8908,12,"A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀",v2rayA,v2rayA,https://github.com/v2rayA/v2rayA
+2024-02-26,go,18420,25,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2024-02-26,go,48,7,网页红警边缘合规安全网关，用于对Chronodivide官方客户端进行转发，并对代码和内容动态注入，实现区域合规要求,ra2web,ra2web-proxy,https://github.com/ra2web/ra2web-proxy
+2024-02-26,go,12064,19,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-02-26,go,2058,9,eBPF-based Linux high-performance transparent proxy solution.,daeuniverse,dae,https://github.com/daeuniverse/dae
+2024-02-26,go,20404,4,"🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",cloudreve,Cloudreve,https://github.com/cloudreve/Cloudreve
+2024-02-26,go,2376,3,Sonne tanken ☀️🚘,evcc-io,evcc,https://github.com/evcc-io/evcc
+2024-02-26,go,21730,13,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-02-26,go,22780,20,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-02-26,go,1882,6,Type safe SQL builder with code generation and automatic query result data mapping,go-jet,jet,https://github.com/go-jet/jet
+2024-02-26,go,5721,23,A language for writing HTML user interfaces in Go.,a-h,templ,https://github.com/a-h/templ
+2024-02-26,go,15486,14,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2024-02-26,go,18891,22,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2024-02-26,go,14645,12,"The lightweight, distributed relational database built on SQLite.",rqlite,rqlite,https://github.com/rqlite/rqlite
+2024-02-26,go,4106,15,"Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds",AnalogJ,scrutiny,https://github.com/AnalogJ/scrutiny
+2024-02-26,go,2674,2,VMware macOS utilities,DrDonk,unlocker,https://github.com/DrDonk/unlocker
+2024-02-26,go,6697,69,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",loft-sh,devpod,https://github.com/loft-sh/devpod
+2024-02-26,go,3575,18,算法竞赛模板库 by 灵茶山艾府 💭💡🎈,EndlessCheng,codeforces-go,https://github.com/EndlessCheng/codeforces-go
+2024-02-26,go,4836,63,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,loft-sh,vcluster,https://github.com/loft-sh/vcluster
+2024-02-26,go,2720,4,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2024-02-26,go,14185,7,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-26,haskell,5029,4,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-02-26,haskell,34501,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-02-26,haskell,3385,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-02-26,haskell,2540,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-02-26,haskell,741,1,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2024-02-26,haskell,565,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-02-26,haskell,3216,3,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-02-26,haskell,21849,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-02-26,haskell,9523,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-02-26,haskell,236,5,A toy programming language with time travel,ambulancja,mariposa,https://github.com/ambulancja/mariposa
+2024-02-26,haskell,231,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-02-26,haskell,15,0,Cardano API,IntersectMBO,cardano-api,https://github.com/IntersectMBO/cardano-api
+2024-02-26,haskell,2685,4,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-02-26,haskell,201,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-02-26,haskell,2334,3,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-02-26,haskell,8415,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2024-02-26,haskell,588,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2024-02-26,haskell,2992,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2024-02-26,haskell,272,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,IntersectMBO,cardano-db-sync,https://github.com/IntersectMBO/cardano-db-sync
+2024-02-26,haskell,2059,2,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-02-26,haskell,284,0,❇️ A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2024-02-26,haskell,342,0,Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.,change-metrics,monocle,https://github.com/change-metrics/monocle
+2024-02-26,haskell,1477,1,The Plutus language implementation and tools,IntersectMBO,plutus,https://github.com/IntersectMBO/plutus
+2024-02-26,haskell,1552,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-02-26,haskell,2240,0,💥💻💥 A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
