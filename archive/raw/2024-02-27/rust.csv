@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-27,rust,15286,58,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2024-02-27,rust,13300,20,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2024-02-27,rust,16684,26,"Anki's shared backend and web components, and the Qt frontend",ankitects,anki,https://github.com/ankitects/anki
+2024-02-27,rust,42546,562,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2024-02-27,rust,53651,606,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2024-02-27,rust,16374,47,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2024-02-27,rust,2720,24,A collection of Solana programs maintained by Solana Labs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2024-02-27,rust,33917,366,Fuel Network Rust SDK,FuelLabs,fuels-rs,https://github.com/FuelLabs/fuels-rs
+2024-02-27,rust,12705,24,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2024-02-27,rust,14185,15,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2024-02-27,rust,12289,27,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-02-27,rust,47232,33,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2024-02-27,rust,4315,13,"Code for ""Zero To Production In Rust"", a book on API development using Rust.",LukeMathWalker,zero-to-production,https://github.com/LukeMathWalker/zero-to-production
+2024-02-27,rust,28498,44,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2024-02-27,rust,51594,40,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2024-02-27,rust,4121,7,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2024-02-27,rust,4664,11,"🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",AleoHQ,leo,https://github.com/AleoHQ/leo
+2024-02-27,rust,45418,32,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2024-02-27,rust,9924,11,Rayon: A data parallelism library for Rust,rayon-rs,rayon,https://github.com/rayon-rs/rayon
+2024-02-27,rust,271,16,"🍭 A sweet, functional programming language that is robust, minimalistic, and expressive.",candy-lang,candy,https://github.com/candy-lang/candy
+2024-02-27,rust,1231,6,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-02-27,rust,3973,3,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2024-02-27,rust,727,10,End-to-End Example Soroban Dapp,stellar,soroban-example-dapp,https://github.com/stellar/soroban-example-dapp
+2024-02-27,rust,82,25,High-performance key-value store for ML inference. 100x faster than Redis.,inlinedio,ikv-store,https://github.com/inlinedio/ikv-store
+2024-02-27,rust,31,6,memchr vs stringzilla - up to 7x throughput difference between two SIMD-accelerated substring search libraries in Rust,ashvardanian,memchr_vs_stringzilla,https://github.com/ashvardanian/memchr_vs_stringzilla

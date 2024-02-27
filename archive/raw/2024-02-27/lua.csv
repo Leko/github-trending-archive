@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-27,lua,13146,17,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-02-27,lua,11426,37,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-02-27,lua,8493,15,🔥 A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2024-02-27,lua,9082,16,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-02-27,lua,2956,3,"An interactive and powerful Git interface for Neovim, inspired by Magit",NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2024-02-27,lua,22141,18,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2024-02-27,lua,1618,11,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2024-02-27,lua,4268,10,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2024-02-27,lua,1419,5,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2024-02-27,lua,2717,1,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-02-27,lua,2146,15,Obsidian 🤝 Neovim,epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2024-02-27,lua,2695,5,autopairs for neovim written in lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2024-02-27,lua,5041,11,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2024-02-27,lua,10346,16,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-02-27,lua,1985,4,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-02-27,lua,677,4,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-02-27,lua,843,7,,xiaorouji,openwrt-passwall2,https://github.com/xiaorouji/openwrt-passwall2
+2024-02-27,lua,252,2,a simple lua neovim configuration for newbs,cpow,neovim-for-newbs,https://github.com/cpow/neovim-for-newbs
+2024-02-27,lua,2640,3,Orgmode clone written in Lua for Neovim 0.9+.,nvim-orgmode,orgmode,https://github.com/nvim-orgmode/orgmode
+2024-02-27,lua,6718,6,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-02-27,lua,1517,0,Set of preconfigured snippets for different languages.,rafamadriz,friendly-snippets,https://github.com/rafamadriz/friendly-snippets
+2024-02-27,lua,12060,12,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-02-27,lua,2759,4,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2024-02-27,lua,1774,1,"💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2024-02-27,lua,4475,7,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
