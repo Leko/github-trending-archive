@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-28,go,41852,625,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-02-28,go,107,13,Solution to One Billion Rows Challenge in Golang.,shraddhaag,1brc,https://github.com/shraddhaag/1brc
+2024-02-28,go,20871,30,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-02-28,go,16894,29,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2024-02-28,go,7486,1,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-02-28,go,20828,9,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-02-28,go,4826,141,⛑ Automated developer-oriented status page,TwiN,gatus,https://github.com/TwiN/gatus
+2024-02-28,go,8950,8,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2024-02-28,go,27121,17,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2024-02-28,go,27603,4,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2024-02-28,go,122,8,Mirror of Quilibrium git repo: ceremonyclient,QuilibriumNetwork,ceremonyclient,https://github.com/QuilibriumNetwork/ceremonyclient
+2024-02-28,go,117378,60,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-02-28,go,15167,11,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-02-28,go,67414,8,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-02-28,go,8513,4,AWS SDK for the Go programming language.,aws,aws-sdk-go,https://github.com/aws/aws-sdk-go
+2024-02-28,go,19585,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-02-28,go,3265,0,"The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.",aws,copilot-cli,https://github.com/aws/copilot-cli
+2024-02-28,go,7263,10,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-02-28,go,995,2,Kubernetes Operator for OpenTelemetry Collector,open-telemetry,opentelemetry-operator,https://github.com/open-telemetry/opentelemetry-operator
+2024-02-28,go,21648,10,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-02-28,go,3615,17,算法竞赛模板库 by 灵茶山艾府 💭💡🎈,EndlessCheng,codeforces-go,https://github.com/EndlessCheng/codeforces-go
+2024-02-28,go,23843,6,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-02-28,go,40926,23,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-02-28,go,9074,7,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-02-28,go,4489,3,NGINX and NGINX Plus Ingress Controllers for Kubernetes,nginxinc,kubernetes-ingress,https://github.com/nginxinc/kubernetes-ingress
