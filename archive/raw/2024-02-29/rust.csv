@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-29,rust,54481,555,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2024-02-29,rust,43250,473,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2024-02-29,rust,904,331,"bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.",Netflix,bpftop,https://github.com/Netflix/bpftop
+2024-02-29,rust,2203,52,zkSync era,matter-labs,zksync-era,https://github.com/matter-labs/zksync-era
+2024-02-29,rust,370,6,An experimental modular OS written in Rust.,rcore-os,arceos,https://github.com/rcore-os/arceos
+2024-02-29,rust,6985,4,A fast Rust-based web bundler 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2024-02-29,rust,7921,19,⚓ A collection of JavaScript tools written in Rust.,oxc-project,oxc,https://github.com/oxc-project/oxc
+2024-02-29,rust,15622,119,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2024-02-29,rust,27351,17,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2024-02-29,rust,5753,8,A Git-compatible VCS that is both simple and powerful,martinvonz,jj,https://github.com/martinvonz/jj
+2024-02-29,rust,1068,13,Run web applications on AWS Lambda,awslabs,aws-lambda-web-adapter,https://github.com/awslabs/aws-lambda-web-adapter
+2024-02-29,rust,15963,18,"Fullstack GUI library for desktop, web, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2024-02-29,rust,5764,4,The Rust toolchain installer,rust-lang,rustup,https://github.com/rust-lang/rustup
+2024-02-29,rust,11701,7,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2024-02-29,rust,421,8,Intermediate Language (IL) for Hardware Accelerator Generators,calyxir,calyx,https://github.com/calyxir/calyx
+2024-02-29,rust,7376,52,A more intuitive version of du in rust,bootandy,dust,https://github.com/bootandy/dust
+2024-02-29,rust,1314,12,"BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality",bionic-gpt,bionic-gpt,https://github.com/bionic-gpt/bionic-gpt
+2024-02-29,rust,31053,23,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2024-02-29,rust,24586,22,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2024-02-29,rust,5514,4,The data warehouse for operational workloads.,MaterializeInc,materialize,https://github.com/MaterializeInc/materialize
+2024-02-29,rust,16422,27,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-02-29,rust,9523,5,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2024-02-29,rust,8582,16,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2024-02-29,rust,21681,23,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2024-02-29,rust,24594,35,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb

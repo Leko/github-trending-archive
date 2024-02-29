@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-02-29,go,27605,4,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2024-02-29,go,9975,2,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2024-02-29,go,45048,58,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-02-29,go,42428,592,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-02-29,go,31882,35,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-02-29,go,21631,280,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-02-29,go,4897,91,⛑ Automated developer-oriented status page,TwiN,gatus,https://github.com/TwiN/gatus
+2024-02-29,go,16082,9,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2024-02-29,go,29366,3,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-02-29,go,67419,8,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-02-29,go,20893,23,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-02-29,go,7268,9,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-02-29,go,1475,2,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,kubernetes-sigs,gateway-api,https://github.com/kubernetes-sigs/gateway-api
+2024-02-29,go,7152,4,[mirror] Go Tools,golang,tools,https://github.com/golang/tools
+2024-02-29,go,117,17,Golang implementation of the EthStorage node.,ethstorage,es-node,https://github.com/ethstorage/es-node
+2024-02-29,go,5338,3,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2024-02-29,go,3627,2,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-02-29,go,20638,29,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-02-29,go,4132,38,An email and SMTP testing tool with API for developers,axllent,mailpit,https://github.com/axllent/mailpit
+2024-02-29,go,15555,7,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-02-29,go,35489,36,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-02-29,go,22156,10,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-02-29,go,18014,7,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-02-29,go,21027,13,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-02-29,go,5738,4,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
