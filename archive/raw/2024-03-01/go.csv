@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-01,go,105425,41,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-03-01,go,21645,17,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-03-01,go,12204,40,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-03-01,go,97,5,Main repo for Babylon full node,babylonchain,babylon,https://github.com/babylonchain/babylon
+2024-03-01,go,23849,4,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-03-01,go,10605,6,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2024-03-01,go,3614,56,LiveRedirect,youshandefeiyang,LiveRedirect,https://github.com/youshandefeiyang/LiveRedirect
+2024-03-01,go,20685,77,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-03-01,go,147,12,Solution to One Billion Rows Challenge in Golang.,shraddhaag,1brc,https://github.com/shraddhaag/1brc
+2024-03-01,go,2937,8,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2024-03-01,go,42886,491,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-03-01,go,3619,6,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2024-03-01,go,16094,11,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2024-03-01,go,8981,12,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2024-03-01,go,40707,19,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-03-01,go,3634,8,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-03-01,go,51909,13,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-03-01,go,11778,7,🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。,panjf2000,ants,https://github.com/panjf2000/ants
+2024-03-01,go,3172,42,OCI Image Format,opencontainers,image-spec,https://github.com/opencontainers/image-spec
+2024-03-01,go,2361,5,"Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.",apache,incubator-devlake,https://github.com/apache/incubator-devlake
+2024-03-01,go,4947,8,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2024-03-01,go,10423,5,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2024-03-01,go,23033,9,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2024-03-01,go,19923,8,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2024-03-01,go,9545,11,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task

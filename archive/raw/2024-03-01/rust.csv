@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-01,rust,1123,243,"bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.",Netflix,bpftop,https://github.com/Netflix/bpftop
+2024-03-01,rust,24610,20,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2024-03-01,rust,54724,287,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2024-03-01,rust,16529,16,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2024-03-01,rust,8018,5,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2024-03-01,rust,42038,35,"A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2024-03-01,rust,3003,5,👁‍🗨 Rare and exotic sats,ordinals,ord,https://github.com/ordinals/ord
+2024-03-01,rust,383,12,An experimental modular OS written in Rust.,rcore-os,arceos,https://github.com/rcore-os/arceos
+2024-03-01,rust,47343,43,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2024-03-01,rust,4683,8,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2024-03-01,rust,7393,15,A more intuitive version of du in rust,bootandy,dust,https://github.com/bootandy/dust
+2024-03-01,rust,966,55,"A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems",electric-capital,crypto-ecosystems,https://github.com/electric-capital/crypto-ecosystems
+2024-03-01,rust,5268,7,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2024-03-01,rust,13766,44,"Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",slint-ui,slint,https://github.com/slint-ui/slint
+2024-03-01,rust,24605,24,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2024-03-01,rust,75255,62,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-03-01,rust,10527,14,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2024-03-01,rust,8975,10,"A super-easy, composable, web server framework for warp speeds.",seanmonstar,warp,https://github.com/seanmonstar/warp
+2024-03-01,rust,16442,19,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-03-01,rust,2352,5,"Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy",anoma,namada,https://github.com/anoma/namada
+2024-03-01,rust,16931,5,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2024-03-01,rust,11481,17,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2024-03-01,rust,10024,8,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2024-03-01,rust,9552,7,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2024-03-01,rust,11712,17,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
