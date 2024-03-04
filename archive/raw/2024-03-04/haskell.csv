@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-04,haskell,2542,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-03-04,haskell,1554,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-03-04,haskell,580,7,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-03-04,haskell,13,0,Fast serialization in haskell,vincenthz,hs-packer,https://github.com/vincenthz/hs-packer
+2024-03-04,haskell,21867,2,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-03-04,haskell,5067,6,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-03-04,haskell,31744,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-03-04,haskell,0,0,Experimental implementation of a Cubical Type Theory modeled by presheaves over posets,JonasHoefer,poset-type-theory,https://github.com/JonasHoefer/poset-type-theory
+2024-03-04,haskell,201,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-03-04,haskell,133,0,Fast parsing from bytestrings,AndrasKovacs,flatparse,https://github.com/AndrasKovacs/flatparse
+2024-03-04,haskell,2341,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-03-04,haskell,9,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2024-03-04,haskell,1684,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2024-03-04,haskell,2694,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-03-04,haskell,34558,13,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-03-04,haskell,3395,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-03-04,haskell,2580,0,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2024-03-04,haskell,232,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-03-04,haskell,25,0,Haskell bindings for the Botan cryptography library,haskell-cryptography,botan,https://github.com/haskell-cryptography/botan
+2024-03-04,haskell,2998,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-03-04,haskell,710,0,Haskell API search engine,ndmitchell,hoogle,https://github.com/ndmitchell/hoogle
+2024-03-04,haskell,8417,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
