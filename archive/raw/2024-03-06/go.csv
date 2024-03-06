@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-06,go,4755,28,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2024-03-06,go,30663,40,⚡️ Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2024-03-06,go,13647,10,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2024-03-06,go,8244,5,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2024-03-06,go,19205,27,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀,pulumi,pulumi,https://github.com/pulumi/pulumi
+2024-03-06,go,4567,7,Cost monitoring for Kubernetes workloads and cloud costs,opencost,opencost,https://github.com/opencost/opencost
+2024-03-06,go,48600,48,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2024-03-06,go,4981,33,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-03-06,go,2411,7,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-03-06,go,16706,7,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2024-03-06,go,8063,3,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2024-03-06,go,16652,13,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-03-06,go,9629,51,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
+2024-03-06,go,43347,31,The Object Store for AI Data Infrastructure,minio,minio,https://github.com/minio/minio
+2024-03-06,go,19150,9,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2024-03-06,go,45867,8,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-03-06,go,14689,11,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2024-03-06,go,42759,11,A golang ebook intro how to build a web with golang,astaxie,build-web-application-with-golang,https://github.com/astaxie/build-web-application-with-golang
+2024-03-06,go,22933,14,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-03-06,go,35808,9,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2024-03-06,go,6119,8,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2024-03-06,go,4946,6,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-03-06,go,11532,4,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2024-03-06,go,34014,5,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2024-03-06,go,29,3,My Go solutions to the One Billion Row Challenge,benhoyt,go-1brc,https://github.com/benhoyt/go-1brc
