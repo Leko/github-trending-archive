@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-07,go,9366,2,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-03-07,go,3541,1,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-03-07,go,21865,9,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-03-07,go,4836,124,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2024-03-07,go,9656,33,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
+2024-03-07,go,99,12,HTTP 403 bypass tool,trap-bytes,403jump,https://github.com/trap-bytes/403jump
+2024-03-07,go,13520,5,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2024-03-07,go,8851,26,Convert Github Copilot to ChatGPT,aaamoon,copilot-gpt4-service,https://github.com/aaamoon/copilot-gpt4-service
+2024-03-07,go,7131,2,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-03-07,go,50,5,Multithread crypto bot implemented on Golang,AndreyMashukov,go-crypto-bot,https://github.com/AndreyMashukov/go-crypto-bot
+2024-03-07,go,19223,19,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀,pulumi,pulumi,https://github.com/pulumi/pulumi
+2024-03-07,go,22971,31,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-03-07,go,22944,9,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-03-07,go,19161,13,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2024-03-07,go,8441,3,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2024-03-07,go,4958,6,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2024-03-07,go,35813,4,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2024-03-07,go,18084,15,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-03-07,go,1075,2,Automatic container image update for Argo CD,argoproj-labs,argocd-image-updater,https://github.com/argoproj-labs/argocd-image-updater
+2024-03-07,go,6132,16,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2024-03-07,go,4925,1,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,google,uuid,https://github.com/google/uuid
+2024-03-07,go,2414,1,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-03-07,go,9201,2,GoMock is a mocking framework for the Go programming language.,golang,mock,https://github.com/golang/mock
+2024-03-07,go,495,2,"CometBFT (fork of Tendermint Core): A distributed, Byzantine fault-tolerant, deterministic state machine replication engine",cometbft,cometbft,https://github.com/cometbft/cometbft
+2024-03-07,go,5805,4,An alternative full node bitcoin implementation written in Go (golang),btcsuite,btcd,https://github.com/btcsuite/btcd

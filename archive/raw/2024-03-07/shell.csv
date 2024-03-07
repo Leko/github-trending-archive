@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-07,shell,2741,12,Mod repo for TOTK on Yuzu emulator.,hoverbike1,TOTK-Mods-collection,https://github.com/hoverbike1/TOTK-Mods-collection
+2024-03-07,shell,231,12,"遥控助手软路由版,适用于OpenWrt系统，包括iStoreOS。其主要作用是帮助安卓原生盒子,解决一些水土不服的小问题。",wukongdaily,tvhelper,https://github.com/wukongdaily/tvhelper
+2024-03-07,shell,1410,17,Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.,iam-veeramalla,Azure-zero-to-hero,https://github.com/iam-veeramalla/Azure-zero-to-hero
+2024-03-07,shell,583,0,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2024-03-07,shell,12,1,,flathub,org.yuzu_emu.yuzu,https://github.com/flathub/org.yuzu_emu.yuzu
+2024-03-07,shell,14605,6,A curated list for awesome kubernetes sources 🚢🎉,ramitsurana,awesome-kubernetes,https://github.com/ramitsurana/awesome-kubernetes
+2024-03-07,shell,11633,18,"Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.",angristan,openvpn-install,https://github.com/angristan/openvpn-install
+2024-03-07,shell,35724,20,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2024-03-07,shell,162,2,"Transform your Neptune 4 3D printer with OpenNept4une, a collection of scripts designed to replace the manufacturer's software, reverting to the original open-source projects for enhanced performance, reliability, and features.",OpenNeptune3D,OpenNept4une,https://github.com/OpenNeptune3D/OpenNept4une
+2024-03-07,shell,2361,6,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-03-07,shell,4257,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-03-07,shell,1242,2,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2024-03-07,shell,11901,5,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2024-03-07,shell,9173,2,Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本,wulabing,Xray_onekey,https://github.com/wulabing/Xray_onekey
+2024-03-07,shell,4335,2,"Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",Jeevan-kumar-Raj,Grokking-System-Design,https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+2024-03-07,shell,2327,4,EMBA - The firmware security analyzer,e-m-b-a,emba,https://github.com/e-m-b-a/emba
+2024-03-07,shell,6869,6,"A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件",P3TERX,Actions-OpenWrt,https://github.com/P3TERX/Actions-OpenWrt
+2024-03-07,shell,74389,35,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-03-07,shell,2278,0,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2024-03-07,shell,7279,8,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-03-07,shell,958,1,"Install sing-box/xray and configure vless / tuic / hysteria2 for reality or tls (letsencrypt) over different transport protocols (tcp, http, grpc and websocket) with user management capability in CLI, TUI and Telegram bot by a single command in docker compose!",aleskxyz,reality-ezpz,https://github.com/aleskxyz/reality-ezpz
+2024-03-07,shell,1545,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2024-03-07,shell,4952,8,A conda-forge distribution.,conda-forge,miniforge,https://github.com/conda-forge/miniforge
+2024-03-07,shell,2874,2,pre-commit git hooks to take care of Terraform configurations 🇺🇦,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2024-03-07,shell,850,1,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
