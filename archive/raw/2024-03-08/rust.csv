@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-08,rust,6726,197,CUDA on AMD GPUs,vosen,ZLUDA,https://github.com/vosen/ZLUDA
+2024-03-08,rust,941,92,Swaypplications,FuelLabs,sway-applications,https://github.com/FuelLabs/sway-applications
+2024-03-08,rust,10354,49,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2024-03-08,rust,13018,11,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2024-03-08,rust,6031,7,"Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.",risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2024-03-08,rust,1722,8,A blazing fast inference solution for text embeddings models,huggingface,text-embeddings-inference,https://github.com/huggingface/text-embeddings-inference
+2024-03-08,rust,17249,11,a structural diff that understands syntax 🟥🟩,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2024-03-08,rust,16965,7,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2024-03-08,rust,4702,6,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-03-08,rust,6396,21,"Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.",tracel-ai,burn,https://github.com/tracel-ai/burn
+2024-03-08,rust,1539,4,The Rust OpenTelemetry implementation,open-telemetry,opentelemetry-rust,https://github.com/open-telemetry/opentelemetry-rust
+2024-03-08,rust,43,7,A text based river ride clone in Rust; streamed,jadijadi,riverraidrust,https://github.com/jadijadi/riverraidrust
+2024-03-08,rust,10233,12,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2024-03-08,rust,16295,28,Self-hosted AI coding assistant,TabbyML,tabby,https://github.com/TabbyML/tabby
+2024-03-08,rust,7143,8,"A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",rapiz1,rathole,https://github.com/rapiz1/rathole
+2024-03-08,rust,3483,5,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2024-03-08,rust,15705,11,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-03-08,rust,231,33,Like grep but for natural language questions. Based on Mistral 7B or Mixtral 8x7B.,moritztng,fltr,https://github.com/moritztng/fltr
+2024-03-08,rust,3466,12,"An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.",GreptimeTeam,greptimedb,https://github.com/GreptimeTeam/greptimedb
+2024-03-08,rust,6255,98,"⭐️ A friendly language for building type-safe, scalable systems!",gleam-lang,gleam,https://github.com/gleam-lang/gleam
+2024-03-08,rust,7227,21,🦀 How to minimize Rust binary size 📦,johnthagen,min-sized-rust,https://github.com/johnthagen/min-sized-rust
+2024-03-08,rust,4721,10,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2024-03-08,rust,11613,31,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2024-03-08,rust,741,0,"A configurable, high-performance routing runtime for Apollo Federation 🚀",apollographql,router,https://github.com/apollographql/router
+2024-03-08,rust,17158,7,"🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten",wasmerio,wasmer,https://github.com/wasmerio/wasmer
