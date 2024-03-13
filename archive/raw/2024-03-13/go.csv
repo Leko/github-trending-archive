@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-13,go,7843,1024,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",apernet,OpenGFW,https://github.com/apernet/OpenGFW
+2024-03-13,go,13634,93,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2024-03-13,go,7517,2,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-03-13,go,428,101,使用vercel的functions，将ai功能加入微信公众号,pwh-pwh,aiwechat-vercel,https://github.com/pwh-pwh/aiwechat-vercel
+2024-03-13,go,160,37,Diagram-as-code for AWS architecture.,awslabs,diagram-as-code,https://github.com/awslabs/diagram-as-code
+2024-03-13,go,913,76,Huma REST/HTTP API Framework for Golang with OpenAPI 3.1,danielgtaylor,huma,https://github.com/danielgtaylor/huma
+2024-03-13,go,2878,99,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2024-03-13,go,1453,45,「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！,mao888,golang-guide,https://github.com/mao888/golang-guide
+2024-03-13,go,74682,31,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-03-13,go,3758,2,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-03-13,go,45344,32,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-03-13,go,2911,2,[mirror] Go supplementary cryptography libraries,golang,crypto,https://github.com/golang/crypto
+2024-03-13,go,11806,8,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2024-03-13,go,9429,36,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2024-03-13,go,12523,42,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",apernet,hysteria,https://github.com/apernet/hysteria
+2024-03-13,go,7592,7,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-03-13,go,7523,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-03-13,go,12972,3,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2024-03-13,go,25429,8,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-03-13,go,18861,8,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-03-13,go,848,6,Tool to bypass 403/40X response codes.,devploit,nomore403,https://github.com/devploit/nomore403
+2024-03-13,go,19631,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-03-13,go,67477,11,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-03-13,go,7898,9,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2024-03-13,go,9388,5,Terraform AWS provider,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
