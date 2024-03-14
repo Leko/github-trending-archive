@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-14,perl,18166,11,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2024-03-14,perl,8538,2,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
+2024-03-14,perl,0,0,"Perl module to scope database transactions on DBI handles in code, to detect and prevent issues with unterminated transactions.",guillaumeaubert,DBIx-ScopedTransaction,https://github.com/guillaumeaubert/DBIx-ScopedTransaction
+2024-03-14,perl,394,2,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2024-03-14,perl,251,0,FusionInventory Agent,fusioninventory,fusioninventory-agent,https://github.com/fusioninventory/fusioninventory-agent
+2024-03-14,perl,791,1,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2024-03-14,perl,418,1,The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants,Ensembl,ensembl-vep,https://github.com/Ensembl/ensembl-vep
+2024-03-14,perl,307,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2024-03-14,perl,10,0,A simple script that controlls MPlayer with a Hercules DJ Control MP3 - a USB MIDI controller,goblin,hercules_controller,https://github.com/goblin/hercules_controller
+2024-03-14,perl,16180,8,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2024-03-14,perl,1400,0,ModSecurity v3 Nginx Connector,owasp-modsecurity,ModSecurity-nginx,https://github.com/owasp-modsecurity/ModSecurity-nginx
+2024-03-14,perl,17,0,"Qt Repository Tools - git commands and hooks, etc.",qt,qtrepotools,https://github.com/qt/qtrepotools
+2024-03-14,perl,16,0,Qt QA Scripts,qt,qtqa,https://github.com/qt/qtqa
+2024-03-14,perl,181,1,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2024-03-14,perl,304,0,BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukaryotic genomes,Gaius-Augustus,BRAKER,https://github.com/Gaius-Augustus/BRAKER
+2024-03-14,perl,814,1,LCOV,linux-test-project,lcov,https://github.com/linux-test-project/lcov
+2024-03-14,perl,0,0,,Ensembl,ensembl-genes-metadata,https://github.com/Ensembl/ensembl-genes-metadata
+2024-03-14,perl,46,0,The Ensembl Compara Perl API and SQL schema,Ensembl,ensembl-compara,https://github.com/Ensembl/ensembl-compara
+2024-03-14,perl,2,0,Language files for Binary.com Websockets API service,binary-com,translations-websockets-api,https://github.com/binary-com/translations-websockets-api
+2024-03-14,perl,517,0,Extended information (especially license and layer details) about the published Official Images,docker-library,repo-info,https://github.com/docker-library/repo-info
+2024-03-14,perl,2443,0,Client for PPP+TLS VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
+2024-03-14,perl,423,2,"A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",FelixKrueger,TrimGalore,https://github.com/FelixKrueger/TrimGalore
+2024-03-14,perl,1214,1,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
+2024-03-14,perl,996,1,Server for Logitech Squeezebox players. This server is also called Logitech Media Server,LMS-Community,slimserver,https://github.com/LMS-Community/slimserver
+2024-03-14,perl,4549,1,"💻 🎓 Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub",jlord,git-it-electron,https://github.com/jlord/git-it-electron
