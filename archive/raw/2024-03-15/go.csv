@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-15,go,18927,11,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-03-15,go,16067,15,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-03-15,go,14066,5,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2024-03-15,go,14936,149,Application Kernel for Containers,google,gvisor,https://github.com/google/gvisor
+2024-03-15,go,8261,90,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2024-03-15,go,11314,5,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2024-03-15,go,15322,181,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",lionsoul2014,ip2region,https://github.com/lionsoul2014/ip2region
+2024-03-15,go,9930,6,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",fullstorydev,grpcurl,https://github.com/fullstorydev/grpcurl
+2024-03-15,go,19643,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-03-15,go,4208,1,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2024-03-15,go,13642,9,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-03-15,go,957,0,Collection of extensions for OpenTelemetry-Go.,open-telemetry,opentelemetry-go-contrib,https://github.com/open-telemetry/opentelemetry-go-contrib
+2024-03-15,go,6053,8,Provides packet processing capabilities for Go,google,gopacket,https://github.com/google/gopacket
+2024-03-15,go,16668,10,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",casbin,casbin,https://github.com/casbin/casbin
+2024-03-15,go,118574,44,The Go programming language,golang,go,https://github.com/golang/go
+2024-03-15,go,7459,14,An embedded key/value database for Go.,etcd-io,bbolt,https://github.com/etcd-io/bbolt
+2024-03-15,go,43808,50,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-03-15,go,45388,33,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-03-15,go,45950,10,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-03-15,go,14291,7,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2024-03-15,go,19987,8,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2024-03-15,go,19963,6,The high-performance database for modern applications,dgraph-io,dgraph,https://github.com/dgraph-io/dgraph
+2024-03-15,go,2041,4,"Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳",kubesphere,kubekey,https://github.com/kubesphere/kubekey
+2024-03-15,go,21736,8,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-03-15,go,25819,8,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
