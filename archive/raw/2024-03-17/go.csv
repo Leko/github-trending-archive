@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-17,go,19052,84,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-03-17,go,13650,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-03-17,go,15447,62,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",lionsoul2014,ip2region,https://github.com/lionsoul2014/ip2region
+2024-03-17,go,2054,2,"Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳",kubesphere,kubekey,https://github.com/kubesphere/kubekey
+2024-03-17,go,597,50,"Local CLI Copilot, powered by CodeLLaMa. 💻🦙",yusufcanb,tlm,https://github.com/yusufcanb/tlm
+2024-03-17,go,18837,26,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu
+2024-03-17,go,1676,21,"Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes",Altinity,clickhouse-operator,https://github.com/Altinity/clickhouse-operator
+2024-03-17,go,7474,2,An embedded key/value database for Go.,etcd-io,bbolt,https://github.com/etcd-io/bbolt
+2024-03-17,go,7574,8,Go library for decoding generic map values into native Go structures and vice versa.,mitchellh,mapstructure,https://github.com/mitchellh/mapstructure
+2024-03-17,go,10146,18,Yet another Yogurt - An AUR Helper written in Go,Jguer,yay,https://github.com/Jguer/yay
+2024-03-17,go,25833,10,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-03-17,go,14527,9,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2024-03-17,go,19653,1,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-03-17,go,16784,13,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-03-17,go,9196,7,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-03-17,go,1305,0,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway,envoyproxy,gateway,https://github.com/envoyproxy/gateway
+2024-03-17,go,370,17,,basecamp,thruster,https://github.com/basecamp/thruster
+2024-03-17,go,20936,6,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-03-17,go,6032,14,"🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",smallstep,certificates,https://github.com/smallstep/certificates
+2024-03-17,go,8509,0,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-03-17,go,26020,54,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2024-03-17,go,105826,28,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-03-17,go,23493,20,👾 Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2024-03-17,go,25995,15,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-03-17,go,2964,8,Wireguard client that exposes itself as a socks5 proxy,pufferffish,wireproxy,https://github.com/pufferffish/wireproxy
