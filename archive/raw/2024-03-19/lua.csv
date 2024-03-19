@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-19,lua,3099,19,"An interactive and powerful Git interface for Neovim, inspired by Magit",NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2024-03-19,lua,10776,23,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-03-19,lua,2438,17,Obsidian 🤝 Neovim,epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2024-03-19,lua,6332,3,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2024-03-19,lua,13294,47,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-03-19,lua,5152,7,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2024-03-19,lua,9234,9,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-03-19,lua,13437,19,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-03-19,lua,1349,1,"One dark and light colorscheme for neovim >= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles",navarasu,onedark.nvim,https://github.com/navarasu/onedark.nvim
+2024-03-19,lua,14902,6,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-03-19,lua,3107,2,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2024-03-19,lua,6486,9,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2024-03-19,lua,376,12,Neovim plugin for tagging important files,cbochs,grapple.nvim,https://github.com/cbochs/grapple.nvim
+2024-03-19,lua,2659,4,"A fancy, configurable, notification manager for NeoVim",rcarriga,nvim-notify,https://github.com/rcarriga/nvim-notify
+2024-03-19,lua,22445,22,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2024-03-19,lua,815,5,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-03-19,lua,2092,5,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2024-03-19,lua,3209,3,improve neovim lsp experience,nvimdev,lspsaga.nvim,https://github.com/nvimdev/lspsaga.nvim
+2024-03-19,lua,5253,9,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2024-03-19,lua,6252,6,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2024-03-19,lua,608,4,,nvim-telescope,telescope-ui-select.nvim,https://github.com/nvim-telescope/telescope-ui-select.nvim
+2024-03-19,lua,466,6,My dotfiles synced form localhost and remote machines,omerxx,dotfiles,https://github.com/omerxx/dotfiles
+2024-03-19,lua,1723,2,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2024-03-19,lua,1084,2,A better annotation generator. Supports multiple languages and annotation conventions.,danymat,neogen,https://github.com/danymat/neogen
+2024-03-19,lua,1540,2,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
