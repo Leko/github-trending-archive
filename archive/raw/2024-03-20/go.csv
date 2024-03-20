@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-20,go,23816,81,👾 Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2024-03-20,go,4963,10,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2024-03-20,go,8107,9,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2024-03-20,go,14947,13,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-03-20,go,10597,8,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-03-20,go,23268,40,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2024-03-20,go,5831,7,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-03-20,go,14090,7,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2024-03-20,go,2202,0,Terraform Google Cloud Platform provider,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2024-03-20,go,9035,6,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2024-03-20,go,26075,47,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-03-20,go,7334,4,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-03-20,go,6540,22,"ZITADEL - Identity infrastructure, simplified for you.",zitadel,zitadel,https://github.com/zitadel/zitadel
+2024-03-20,go,33936,21,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2024-03-20,go,20757,15,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-03-20,go,29469,10,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-03-20,go,9159,9,Simple HTTP and REST client library for Go,go-resty,resty,https://github.com/go-resty/resty
+2024-03-20,go,9550,12,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-03-20,go,25477,11,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-03-20,go,9125,6,Fast passive subdomain enumeration tool.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2024-03-20,go,10108,11,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-03-20,go,45988,16,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-03-20,go,2616,3,Prometheus exporter for Windows machines,prometheus-community,windows_exporter,https://github.com/prometheus-community/windows_exporter
+2024-03-20,go,7373,8,A Go port of Ruby's dotenv library (Loads environment variables from .env files),joho,godotenv,https://github.com/joho/godotenv
+2024-03-20,go,8239,8,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana

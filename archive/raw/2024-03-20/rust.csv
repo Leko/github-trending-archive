@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-20,rust,17057,93,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-03-20,rust,16137,85,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-03-20,rust,42440,42,"A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2024-03-20,rust,16626,7,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2024-03-20,rust,18899,36,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2024-03-20,rust,76072,51,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-03-20,rust,8966,65,"An extremely fast Python package installer and resolver, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-03-20,rust,11685,21,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2024-03-20,rust,2820,8,A collection of Solana programs maintained by Solana Labs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2024-03-20,rust,20326,13,"A syntax-highlighting pager for git, diff, and grep output",dandavison,delta,https://github.com/dandavison/delta
+2024-03-20,rust,2114,2,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2024-03-20,rust,14197,18,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2024-03-20,rust,777,59,"Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",Universal-Debloater-Alliance,universal-android-debloater-next-generation,https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+2024-03-20,rust,3067,5,⚓ Solana Sealevel Framework,coral-xyz,anchor,https://github.com/coral-xyz/anchor
+2024-03-20,rust,45795,20,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2024-03-20,rust,17378,7,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2024-03-20,rust,5240,6,"Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.",mozilla,sccache,https://github.com/mozilla/sccache
+2024-03-20,rust,11451,11,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2024-03-20,rust,1751,0,"A native Rust library for Delta Lake, with bindings into Python",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2024-03-20,rust,8787,10,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2024-03-20,rust,15571,25,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2024-03-20,rust,82,22,Template to maintain a rust project running CI/CD with Github Workflows.,ameknite,rust-ci-cd-template,https://github.com/ameknite/rust-ci-cd-template
+2024-03-20,rust,8849,3,An easy and powerful Rust HTTP Client,seanmonstar,reqwest,https://github.com/seanmonstar/reqwest
+2024-03-20,rust,14267,18,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2024-03-20,rust,6101,5,"Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.",risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
