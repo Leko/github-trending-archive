@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-21,go,8248,7,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2024-03-21,go,14967,24,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-03-21,go,25483,15,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-03-21,go,150,13,Provide secure access and control over all infrastructure,veops,oneterm,https://github.com/veops/oneterm
+2024-03-21,go,18246,53,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-03-21,go,2113,60,代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。,deanxv,coze-discord-proxy,https://github.com/deanxv/coze-discord-proxy
+2024-03-21,go,26094,37,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-03-21,go,23899,75,👾 Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2024-03-21,go,14835,2,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2024-03-21,go,16064,45,Protect access to all of your infrastructure,gravitational,teleport,https://github.com/gravitational/teleport
+2024-03-21,go,2721,9,Real-time HTTP Intrusion Detection,kitabisa,teler,https://github.com/kitabisa/teler
+2024-03-21,go,5835,12,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",qdm12,gluetun,https://github.com/qdm12/gluetun
+2024-03-21,go,8118,12,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2024-03-21,go,4228,5,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2024-03-21,go,2470,4,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2024-03-21,go,19676,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-03-21,go,8363,18,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",casdoor,casdoor,https://github.com/casdoor/casdoor
+2024-03-21,go,1106,5,A JWT based API for managing users and issuing JWT tokens,supabase,gotrue,https://github.com/supabase/gotrue
+2024-03-21,go,9042,7,Cross-platform file system notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2024-03-21,go,8523,5,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-03-21,go,40875,10,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-03-21,go,4696,8,Giving Kubernetes Superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2024-03-21,go,9568,17,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-03-21,go,35562,17,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-03-21,go,7549,4,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-21,rust,25106,40,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-03-21,rust,17195,250,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-03-21,rust,11708,27,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2024-03-21,rust,31611,35,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2024-03-21,rust,9340,10,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-03-21,rust,10451,16,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2024-03-21,rust,14308,32,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2024-03-21,rust,5618,10,"Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",quickwit-oss,quickwit,https://github.com/quickwit-oss/quickwit
+2024-03-21,rust,5596,5,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2024-03-21,rust,603,1,All of the official Tauri plugins in one place!,tauri-apps,plugins-workspace,https://github.com/tauri-apps/plugins-workspace
+2024-03-21,rust,6059,8,🐚 An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2024-03-21,rust,3185,16,Distributed stream processing engine in Rust,ArroyoSystems,arroyo,https://github.com/ArroyoSystems/arroyo
+2024-03-21,rust,8356,8,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2024-03-21,rust,8208,3,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2024-03-21,rust,6372,29,"A modern, maintained replacement for ls",eza-community,eza,https://github.com/eza-community/eza
+2024-03-21,rust,9490,3,A spotify daemon,Spotifyd,spotifyd,https://github.com/Spotifyd/spotifyd
+2024-03-21,rust,16633,10,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2024-03-21,rust,16536,23,Self-hosted AI coding assistant,TabbyML,tabby,https://github.com/TabbyML/tabby
+2024-03-21,rust,10744,25,a Hassle-Free Python Experience,astral-sh,rye,https://github.com/astral-sh/rye
+2024-03-21,rust,1163,7,rust raft with improvements,datafuselabs,openraft,https://github.com/datafuselabs/openraft
+2024-03-21,rust,11813,15,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2024-03-21,rust,366,7,"简洁, 快速, 划词翻译",Borber,Tran,https://github.com/Borber/Tran
+2024-03-21,rust,15592,19,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2024-03-21,rust,42465,31,"A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2024-03-21,rust,24827,13,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
