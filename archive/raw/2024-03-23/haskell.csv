@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-23,haskell,34758,15,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-03-23,haskell,31958,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-03-23,haskell,201,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-03-23,haskell,1559,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-03-23,haskell,1525,1,The Plutus language implementation and tools,IntersectMBO,plutus,https://github.com/IntersectMBO/plutus
+2024-03-23,haskell,1,0,"Efficient, pure binary decoding using Arrows and ByteStrings in Haskell.",kolmodin,binary-arrow,https://github.com/kolmodin/binary-arrow
+2024-03-23,haskell,13,0,Fast serialization in haskell,vincenthz,hs-packer,https://github.com/vincenthz/hs-packer
+2024-03-23,haskell,7431,0,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2024-03-23,haskell,9598,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-03-23,haskell,2723,2,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-03-23,haskell,21975,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-03-23,haskell,3,0,Testy do zadań z JPP 2023/24,MIMUW-Inf-2002,JPP_testy,https://github.com/MIMUW-Inf-2002/JPP_testy
+2024-03-23,haskell,2553,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-03-23,haskell,5144,2,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-03-23,haskell,1688,1,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2024-03-23,haskell,567,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-03-23,haskell,3229,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-03-23,haskell,239,0,Implementation of the Hydra Head protocol,input-output-hk,hydra,https://github.com/input-output-hk/hydra

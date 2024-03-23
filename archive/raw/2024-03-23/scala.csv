@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-23,scala,38103,5,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-03-23,scala,949,2,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-03-23,scala,6783,4,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-03-23,scala,5576,3,"The Scala 3 compiler, also known as Dotty.",scala,scala3,https://github.com/scala/scala3
+2024-03-23,scala,12905,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2024-03-23,scala,14,0,All Rudder public plugins in one repository. Licenses are by-plugin.,Normation,rudder-plugins,https://github.com/Normation/rudder-plugins
+2024-03-23,scala,1903,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2024-03-23,scala,2971,2,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2024-03-23,scala,24,0,Rawls service for DSDE,broadinstitute,rawls,https://github.com/broadinstitute/rawls
+2024-03-23,scala,264,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2024-03-23,scala,4953,3,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2024-03-23,scala,783,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2024-03-23,scala,3648,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2024-03-23,scala,672,1,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-03-23,scala,14459,5,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2024-03-23,scala,9050,1,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2024-03-23,scala,6231,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2024-03-23,scala,705,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2024-03-23,scala,479,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2024-03-23,scala,14263,1,Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,scala,scala,https://github.com/scala/scala
+2024-03-23,scala,3978,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2024-03-23,scala,149,1,RISC-V Torture Test,ucb-bar,riscv-torture,https://github.com/ucb-bar/riscv-torture
+2024-03-23,scala,13,0,RTL blocks compatible with the Rocket Chip Generator,chipsalliance,rocket-chip-blocks,https://github.com/chipsalliance/rocket-chip-blocks
+2024-03-23,scala,14,0,A Rocket-based RISC-V superscalar in-order core,ucb-bar,shuttle,https://github.com/ucb-bar/shuttle
+2024-03-23,scala,948,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell

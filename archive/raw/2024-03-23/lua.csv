@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-23,lua,13484,57,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-03-23,lua,37274,9,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-03-23,lua,4442,9,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2024-03-23,lua,12512,18,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-03-23,lua,5178,8,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2024-03-23,lua,115,6,A library for asynchronous IO in Neovim,nvim-neotest,nvim-nio,https://github.com/nvim-neotest/nvim-nio
+2024-03-23,lua,847,3,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-03-23,lua,6867,8,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-03-23,lua,10870,26,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-03-23,lua,1884,6,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest
+2024-03-23,lua,569,0,💼 Neovim plugin to manage global and project-local settings,folke,neoconf.nvim,https://github.com/folke/neoconf.nvim
+2024-03-23,lua,9266,7,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-03-23,lua,2559,4,vim-be-good is a nvim plugin designed to make you better at Vim Movements.,ThePrimeagen,vim-be-good,https://github.com/ThePrimeagen/vim-be-good
+2024-03-23,lua,2025,0,Edit and review GitHub issues and pull requests from the comfort of your favorite editor,pwntester,octo.nvim,https://github.com/pwntester/octo.nvim
+2024-03-23,lua,3312,1,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-03-23,lua,1489,4,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2024-03-23,lua,303,1,a simple lua neovim configuration for newbs,cpow,neovim-for-newbs,https://github.com/cpow/neovim-for-newbs
+2024-03-23,lua,5841,3,Web-based Traffic and Security Network Traffic Monitoring,ntop,ntopng,https://github.com/ntop/ntopng
+2024-03-23,lua,6510,6,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2024-03-23,lua,590,15,Chat with GitHub Copilot in Neovim,CopilotC-Nvim,CopilotChat.nvim,https://github.com/CopilotC-Nvim/CopilotChat.nvim
+2024-03-23,lua,322,5,Just ask an otter! 🦦,jmbuhr,otter.nvim,https://github.com/jmbuhr/otter.nvim
+2024-03-23,lua,2111,3,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2024-03-23,lua,4,0,彩虹ui 整合包 (巨龍崛起),WOWRainbowUI,RainbowUI-Retail,https://github.com/WOWRainbowUI/RainbowUI-Retail
+2024-03-23,lua,214,0,"The ultimate encounter helper to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.",DeadlyBossMods,DeadlyBossMods,https://github.com/DeadlyBossMods/DeadlyBossMods
+2024-03-23,lua,4978,7,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
