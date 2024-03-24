@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-24,lua,600,13,Chat with GitHub Copilot in Neovim,CopilotC-Nvim,CopilotChat.nvim,https://github.com/CopilotC-Nvim/CopilotChat.nvim
+2024-03-24,lua,6872,7,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-03-24,lua,10889,21,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-03-24,lua,12523,12,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-03-24,lua,9274,6,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-03-24,lua,2840,4,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2024-03-24,lua,574,4,"This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.",lukas-reineke,headlines.nvim,https://github.com/lukas-reineke/headlines.nvim
+2024-03-24,lua,2043,5,Show code context,nvim-treesitter,nvim-treesitter-context,https://github.com/nvim-treesitter/nvim-treesitter-context
+2024-03-24,lua,302,2,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-03-24,lua,13524,38,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-03-24,lua,13520,14,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-03-24,lua,1323,4,UI Component Library for Neovim.,MunifTanjim,nui.nvim,https://github.com/MunifTanjim/nui.nvim
+2024-03-24,lua,6521,12,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2024-03-24,lua,54,4,A Balatro ModLoader,Steamopollys,Steamodded,https://github.com/Steamopollys/Steamodded
+2024-03-24,lua,742,5,Neovim plugin to generate text using LLMs with customizable prompts,David-Kunz,gen.nvim,https://github.com/David-Kunz/gen.nvim
+2024-03-24,lua,2120,9,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2024-03-24,lua,490,4,A native neovim extension for Codeium,Exafunction,codeium.nvim,https://github.com/Exafunction/codeium.nvim
+2024-03-24,lua,5217,4,📚 A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2024-03-24,lua,2854,4,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2024-03-24,lua,3507,1,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2024-03-24,lua,2587,6,Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.,kylechui,nvim-surround,https://github.com/kylechui/nvim-surround
+2024-03-24,lua,849,3,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-03-24,lua,226,2,An example user configuration with a split up structure,AstroNvim,user_example,https://github.com/AstroNvim/user_example
+2024-03-24,lua,1427,3,www.beyondallreason.info,beyond-all-reason,Beyond-All-Reason,https://github.com/beyond-all-reason/Beyond-All-Reason
+2024-03-24,lua,1886,1,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest
