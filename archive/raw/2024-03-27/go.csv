@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-27,go,15689,24,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",lionsoul2014,ip2region,https://github.com/lionsoul2014/ip2region
+2024-03-27,go,19709,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-03-27,go,19121,7,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-03-27,go,23909,76,"Curated list of Go design patterns, recipes and idioms",tmrts,go-patterns,https://github.com/tmrts/go-patterns
+2024-03-27,go,50666,259,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-03-27,go,25553,9,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-03-27,go,20745,6,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-03-27,go,13677,5,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-03-27,go,16879,9,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-03-27,go,7856,3,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2024-03-27,go,74956,29,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-03-27,go,46054,16,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-03-27,go,1302,42,Low-code platform,cortezaproject,corteza,https://github.com/cortezaproject/corteza
+2024-03-27,go,11643,9,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2024-03-27,go,4698,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-03-27,go,5401,4,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2024-03-27,go,6543,10,"A developer-friendly API for converting numerous document formats into PDF files, and more!",gotenberg,gotenberg,https://github.com/gotenberg/gotenberg
+2024-03-27,go,9267,12,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-03-27,go,9952,10,Application Delivery as Code that Runs Anywhere,dagger,dagger,https://github.com/dagger/dagger
+2024-03-27,go,8579,9,The Cloud Native Control Plane,crossplane,crossplane,https://github.com/crossplane/crossplane
+2024-03-27,go,1560,0,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
+2024-03-27,go,32482,47,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-03-27,go,8446,12,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
+2024-03-27,go,8536,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-03-27,go,44556,240,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
