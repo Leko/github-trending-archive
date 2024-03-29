@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-29,go,7643,9,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-03-29,go,15909,10,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-03-29,go,13685,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-03-29,go,11823,23,"cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.",cheat,cheat,https://github.com/cheat/cheat
+2024-03-29,go,46090,15,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-03-29,go,9995,22,Application Delivery as Code that Runs Anywhere,dagger,dagger,https://github.com/dagger/dagger
+2024-03-29,go,873,175,Generate images of code and terminal output 📸,charmbracelet,freeze,https://github.com/charmbracelet/freeze
+2024-03-29,go,8391,36,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2024-03-29,go,51217,282,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-03-29,go,4774,18,Giving Kubernetes Superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2024-03-29,go,118907,34,The Go programming language,golang,go,https://github.com/golang/go
+2024-03-29,go,8687,5,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2024-03-29,go,20770,13,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-03-29,go,47421,22,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2024-03-29,go,4712,8,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-03-29,go,6125,15,A PDF processor written in Go.,pdfcpu,pdfcpu,https://github.com/pdfcpu/pdfcpu
+2024-03-29,go,21830,6,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-03-29,go,27704,8,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2024-03-29,go,5347,6,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2024-03-29,go,19147,10,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-03-29,go,45594,16,Official Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-03-29,go,5040,3,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2024-03-29,go,19726,9,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-03-29,go,7738,14,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2024-03-29,go,7207,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
