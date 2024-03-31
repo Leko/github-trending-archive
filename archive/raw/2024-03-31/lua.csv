@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-03-31,lua,4530,39,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2024-03-31,lua,12604,12,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-03-31,lua,3546,6,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2024-03-31,lua,5034,9,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-03-31,lua,37321,10,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-03-31,lua,2624,3,Service eggs for the pterodactyl panel,parkervcp,eggs,https://github.com/parkervcp/eggs
+2024-03-31,lua,3700,9,Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-03-31,lua,9330,8,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-03-31,lua,325,8,a simple lua neovim configuration for newbs,cpow,neovim-for-newbs,https://github.com/cpow/neovim-for-newbs
+2024-03-31,lua,6299,7,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2024-03-31,lua,2165,6,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2024-03-31,lua,13613,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-03-31,lua,1000,7,nvim-cmp source for neovim builtin LSP client,hrsh7th,cmp-nvim-lsp,https://github.com/hrsh7th/cmp-nvim-lsp
+2024-03-31,lua,4251,6,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2024-03-31,lua,1027,4,⚡ TypeScript integration NeoVim deserves ⚡,pmizio,typescript-tools.nvim,https://github.com/pmizio/typescript-tools.nvim
+2024-03-31,lua,14976,7,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-03-31,lua,4329,5,💥 Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2024-03-31,lua,873,3,ssr passwall bypass依赖,kenzok8,small,https://github.com/kenzok8/small
+2024-03-31,lua,1806,7,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2024-03-31,lua,2882,8,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2024-03-31,lua,126,2,"Standalone ""third-eye"" targeting resource.",overextended,ox_target,https://github.com/overextended/ox_target
+2024-03-31,lua,304,2,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-03-31,lua,2689,2,"A fancy, configurable, notification manager for NeoVim",rcarriga,nvim-notify,https://github.com/rcarriga/nvim-notify
+2024-03-31,lua,11023,17,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-03-31,lua,1478,1,File Browser extension for telescope.nvim,nvim-telescope,telescope-file-browser.nvim,https://github.com/nvim-telescope/telescope-file-browser.nvim
