@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-03,go,1403,34,A CLI tool for building Go applications.,go-nunu,nunu,https://github.com/go-nunu/nunu
+2024-04-03,go,31765,24,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2024-04-03,go,17140,12,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2024-04-03,go,2822,5,"Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.",determined-ai,determined,https://github.com/determined-ai/determined
+2024-04-03,go,52274,252,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-04-03,go,78855,45,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-04-03,go,4929,5,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2024-04-03,go,21190,37,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2024-04-03,go,11394,13,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",tinode,chat,https://github.com/tinode/chat
+2024-04-03,go,10914,5,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2024-04-03,go,15403,12,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-04-03,go,26537,36,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2024-04-03,go,9240,7,Simple HTTP and REST client library for Go,go-resty,resty,https://github.com/go-resty/resty
+2024-04-03,go,225,30,An AI coding engine for complex tasks,plandex-ai,plandex,https://github.com/plandex-ai/plandex
+2024-04-03,go,20090,12,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2024-04-03,go,34176,34,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2024-04-03,go,6715,10,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,projectdiscovery,httpx,https://github.com/projectdiscovery/httpx
+2024-04-03,go,9836,10,"The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.",bytebase,bytebase,https://github.com/bytebase/bytebase
+2024-04-03,go,2509,4,A PostgreSQL metric exporter for Prometheus,prometheus-community,postgres_exporter,https://github.com/prometheus-community/postgres_exporter
+2024-04-03,go,21013,4,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-04-03,go,9669,8,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2024-04-03,go,4059,8,OpenSSF Scorecard - Security health metrics for Open Source,ossf,scorecard,https://github.com/ossf/scorecard
+2024-04-03,go,20806,10,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-04-03,go,4842,3,"An interactive web UI for gRPC, along the lines of postman",fullstorydev,grpcui,https://github.com/fullstorydev/grpcui
+2024-04-03,go,6009,4,The Modern Application Platform.,kubevela,kubevela,https://github.com/kubevela/kubevela
