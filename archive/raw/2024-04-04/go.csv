@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-04,go,2474,504,"notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)",amlweems,xzbot,https://github.com/amlweems/xzbot
+2024-04-04,go,2999,28,SQL-first Golang ORM,uptrace,bun,https://github.com/uptrace/bun
+2024-04-04,go,7585,5,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-04-04,go,11386,4,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-04-04,go,4930,6,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2024-04-04,go,4307,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2024-04-04,go,3732,192,Wireguard client that exposes itself as a socks5 proxy,pufferffish,wireproxy,https://github.com/pufferffish/wireproxy
+2024-04-04,go,16229,3,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2024-04-04,go,31856,111,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2024-04-04,go,52463,22,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-04-04,go,14320,8,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2024-04-04,go,4072,10,OpenSSF Scorecard - Security health metrics for Open Source,ossf,scorecard,https://github.com/ossf/scorecard
+2024-04-04,go,10036,4,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2024-04-04,go,1545,178,A CLI tool for building Go applications.,go-nunu,nunu,https://github.com/go-nunu/nunu
+2024-04-04,go,16489,22,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2024-04-04,go,5091,1,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2024-04-04,go,5761,10,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-04-04,go,59057,30,🌸 A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2024-04-04,go,43847,29,The Object Store for AI Data Infrastructure,minio,minio,https://github.com/minio/minio
+2024-04-04,go,8560,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-04-04,go,15344,3,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2024-04-04,go,6241,3,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2024-04-04,go,22015,14,Elegant Scraper and Crawler Framework for Golang,gocolly,colly,https://github.com/gocolly/colly
+2024-04-04,go,15955,10,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-04-04,go,21925,11,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
