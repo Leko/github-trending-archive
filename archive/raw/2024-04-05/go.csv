@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-05,go,2988,1186,"notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)",amlweems,xzbot,https://github.com/amlweems/xzbot
+2024-04-05,go,8628,24,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2024-04-05,go,3054,103,SQL-first Golang ORM,uptrace,bun,https://github.com/uptrace/bun
+2024-04-05,go,1561,14,A CLI tool for building Go applications.,go-nunu,nunu,https://github.com/go-nunu/nunu
+2024-04-05,go,5053,2,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2024-04-05,go,4377,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2024-04-05,go,665,27,"OpenP2P is a lightweight P2P sharing network. Support Cone,Symmetric(NAT1-NAT4),UPNP,IPv6,both UDP&TCP punch. You can build you private sharing network, or uses the public sharing network",openp2p-cn,openp2p,https://github.com/openp2p-cn/openp2p
+2024-04-05,go,24615,18,🐶 Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2024-04-05,go,31861,11,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2024-04-05,go,28946,7,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2024-04-05,go,1063,728,An AI coding engine for complex tasks,plandex-ai,plandex,https://github.com/plandex-ai/plandex
+2024-04-05,go,5776,14,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-04-05,go,43866,20,The Object Store for AI Data Infrastructure,minio,minio,https://github.com/minio/minio
+2024-04-05,go,2983,3,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",testcontainers,testcontainers-go,https://github.com/testcontainers/testcontainers-go
+2024-04-05,go,20100,7,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2024-04-05,go,19756,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-04-05,go,19280,45,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu
+2024-04-05,go,2209,1609,LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.,nilsherzig,LLocalSearch,https://github.com/nilsherzig/LLocalSearch
+2024-04-05,go,2725,4,"Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.",gardener,gardener,https://github.com/gardener/gardener
+2024-04-05,go,6794,33,"ZITADEL - Identity infrastructure, simplified for you.",zitadel,zitadel,https://github.com/zitadel/zitadel
+2024-04-05,go,5430,12,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2024-04-05,go,10319,4,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2024-04-05,go,43318,23,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2024-04-05,go,10426,10,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2024-04-05,go,29555,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
