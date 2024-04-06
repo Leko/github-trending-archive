@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-06,go,2215,318,An AI coding engine for complex tasks,plandex-ai,plandex,https://github.com/plandex-ai/plandex
+2024-04-06,go,2921,1304,LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.,nilsherzig,LLocalSearch,https://github.com/nilsherzig/LLocalSearch
+2024-04-06,go,764,144,free,aurora-develop,aurora,https://github.com/aurora-develop/aurora
+2024-04-06,go,8945,10,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2024-04-06,go,4379,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2024-04-06,go,29563,11,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-04-06,go,19320,48,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu
+2024-04-06,go,10093,15,Application Delivery as Code that Runs Anywhere,dagger,dagger,https://github.com/dagger/dagger
+2024-04-06,go,3681,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2024-04-06,go,4159,2,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-04-06,go,1785,15,Kubernetes Control Plane Virtual IP and Load-Balancer,kube-vip,kube-vip,https://github.com/kube-vip/kube-vip
+2024-04-06,go,19760,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-04-06,go,1721,10,Design patterns in Golang,AlexanderGrom,go-patterns,https://github.com/AlexanderGrom/go-patterns
+2024-04-06,go,33037,21,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2024-04-06,go,16586,8,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2024-04-06,go,1889,12,Powerful system container and virtual machine manager,lxc,incus,https://github.com/lxc/incus
+2024-04-06,go,5782,10,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-04-06,go,13774,6,Find and verify credentials,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-04-06,go,14335,6,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2024-04-06,go,14437,2,Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.,Netflix,chaosmonkey,https://github.com/Netflix/chaosmonkey
+2024-04-06,go,2485,2,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-04-06,go,119118,25,The Go programming language,golang,go,https://github.com/golang/go
+2024-04-06,go,8336,9,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2024-04-06,go,1437,1,Deploy workloads from Git to large fleets of Kubernetes clusters,rancher,fleet,https://github.com/rancher/fleet
+2024-04-06,go,5059,3,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno

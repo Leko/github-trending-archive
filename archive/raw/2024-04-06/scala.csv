@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-06,scala,38191,5,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-04-06,scala,14507,4,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2024-04-06,scala,12488,0,The Community Maintained High Velocity Web Framework For Java and Scala.,playframework,playframework,https://github.com/playframework/playframework
+2024-04-06,scala,4747,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2024-04-06,scala,12914,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2024-04-06,scala,4276,2,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2024-04-06,scala,3685,0,Chisel: A Modern Hardware Design Language,chipsalliance,chisel,https://github.com/chipsalliance/chisel
+2024-04-06,scala,10605,3,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2024-04-06,scala,22,1,Prevents leaking sensitive fields defined inside `case class`,polentino,redacted,https://github.com/polentino/redacted
+2024-04-06,scala,6825,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-04-06,scala,671,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-04-06,scala,113,1,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2024-04-06,scala,784,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2024-04-06,scala,6242,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2024-04-06,scala,14269,2,Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,scala,scala,https://github.com/scala/scala
+2024-04-06,scala,370,2,Sharding and location transparency for Scala,devsisters,shardcake,https://github.com/devsisters/shardcake
+2024-04-06,scala,481,0,XML data source for Spark SQL and DataFrames,databricks,spark-xml,https://github.com/databricks/spark-xml
+2024-04-06,scala,3107,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2024-04-06,scala,261,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2024-04-06,scala,1908,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2024-04-06,scala,433,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2024-04-06,scala,9055,1,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2024-04-06,scala,849,0,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2024-04-06,scala,196,0,The batteries-included testing and formal verification library for Chisel-based RTL designs.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2024-04-06,scala,1395,0,Code formatter for Scala,scalameta,scalafmt,https://github.com/scalameta/scalafmt

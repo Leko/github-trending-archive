@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-06,python,6254,1556,"SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4. It solves 12.29% of bugs in the SWE-bench evaluation set (comparable to Devin) and take just 1.5 minutes to run (7x faster than Devin).",princeton-nlp,SWE-agent,https://github.com/princeton-nlp/SWE-agent
+2024-04-06,python,2289,441,RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.,infiniflow,ragflow,https://github.com/infiniflow/ragflow
+2024-04-06,python,4634,13,"Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.",iam-veeramalla,Jenkins-Zero-To-Hero,https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero
+2024-04-06,python,8784,9,dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.,dbt-labs,dbt-core,https://github.com/dbt-labs/dbt-core
+2024-04-06,python,51049,58,"Interact with your documents using the power of GPT, 100% privately, no data leaks",zylon-ai,private-gpt,https://github.com/zylon-ai/private-gpt
+2024-04-06,python,51909,26,💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline,localstack,localstack,https://github.com/localstack/localstack
+2024-04-06,python,4765,32,A True Instrumentable Binary Emulation Framework,qilingframework,qiling,https://github.com/qilingframework/qiling
+2024-04-06,python,797,1,"""Zero-Knowledge"" Proof Implementation with HMAC Communication in Python",zk-Call,zkp-hmac-communication-python,https://github.com/zk-Call/zkp-hmac-communication-python
+2024-04-06,python,1551,62,基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.,YaoFANGUK,video-subtitle-remover,https://github.com/YaoFANGUK/video-subtitle-remover
+2024-04-06,python,148,11,微信朋友圈导出工具-技术爬爬虾,tech-shrimp,WechatMoments,https://github.com/tech-shrimp/WechatMoments
+2024-04-06,python,6989,77,SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.,searxng,searxng,https://github.com/searxng/searxng
+2024-04-06,python,4086,28,Panel: The powerful data exploration & web app framework for Python,holoviz,panel,https://github.com/holoviz/panel
+2024-04-06,python,6437,147,Question and Answer based on Anything.,netease-youdao,QAnything,https://github.com/netease-youdao/QAnything
+2024-04-06,python,141,8,💬 基于 LLM 大语言模型的知识库问答系统，1Panel 官方出品。开箱即用，支持快速嵌入到第三方业务系统。,1Panel-dev,MaxKB,https://github.com/1Panel-dev/MaxKB
+2024-04-06,python,1063,1,Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!,demisto,content,https://github.com/demisto/content
+2024-04-06,python,5615,178,"Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.",intel-analytics,ipex-llm,https://github.com/intel-analytics/ipex-llm
+2024-04-06,python,1270,13,Generative models for conditional audio generation,Stability-AI,stable-audio-tools,https://github.com/Stability-AI/stable-audio-tools
+2024-04-06,python,968,28,[ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?,princeton-nlp,SWE-bench,https://github.com/princeton-nlp/SWE-bench
+2024-04-06,python,60939,11,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",ansible,ansible,https://github.com/ansible/ansible
+2024-04-06,python,111,9,The Universe of Evaluation. All about the evaluation for LLMs.,UpstageAI,evalverse,https://github.com/UpstageAI/evalverse
+2024-04-06,python,4526,22,[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting,sczhou,ProPainter,https://github.com/sczhou/ProPainter
+2024-04-06,python,289402,358,A collective list of free APIs,public-apis,public-apis,https://github.com/public-apis/public-apis
+2024-04-06,python,7313,54,aider is AI pair programming in your terminal,paul-gauthier,aider,https://github.com/paul-gauthier/aider
+2024-04-06,python,6671,28,,LargeWorldModel,LWM,https://github.com/LargeWorldModel/LWM
+2024-04-06,python,1728,66,,AlexanderKoch-Koch,low_cost_robot,https://github.com/AlexanderKoch-Koch/low_cost_robot
