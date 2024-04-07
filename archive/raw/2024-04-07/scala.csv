@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-07,scala,38196,6,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-04-07,scala,12914,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2024-04-07,scala,5616,0,"The Scala 3 compiler, also known as Dotty.",scala,scala3,https://github.com/scala/scala3
+2024-04-07,scala,2982,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2024-04-07,scala,14512,6,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2024-04-07,scala,12491,4,The Community Maintained High Velocity Web Framework For Java and Scala.,playframework,playframework,https://github.com/playframework/playframework
+2024-04-07,scala,2019,1,Scala language server with rich IDE features 🚀,scalameta,metals,https://github.com/scalameta/metals
+2024-04-07,scala,10604,0,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2024-04-07,scala,252,0,,databricks,sjsonnet,https://github.com/databricks/sjsonnet
+2024-04-07,scala,655,0,Spark reference applications,databricks,reference-apps,https://github.com/databricks/reference-apps
+2024-04-07,scala,37,0,,databricks,devbox,https://github.com/databricks/devbox
+2024-04-07,scala,71,0,An sbt plugin for deploying code to Databricks Cloud,databricks,sbt-databricks,https://github.com/databricks/sbt-databricks
+2024-04-07,scala,68,0,Integration tests for Spark,databricks,spark-integration-tests,https://github.com/databricks/spark-integration-tests
+2024-04-07,scala,564,0,,databricks,spark-sql-perf,https://github.com/databricks/spark-sql-perf
+2024-04-07,scala,1048,0,CSV Data Source for Apache Spark 1.x,databricks,spark-csv,https://github.com/databricks/spark-csv
+2024-04-07,scala,12,0,,databricks,tableau-connector,https://github.com/databricks/tableau-connector
+2024-04-07,scala,4959,2,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2024-04-07,scala,671,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-04-07,scala,2,0,Lift Java Transaction API integration,liftmodules,jta,https://github.com/liftmodules/jta
+2024-04-07,scala,849,0,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2024-04-07,scala,6828,3,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-04-07,scala,261,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2024-04-07,scala,433,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2024-04-07,scala,3977,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2024-04-07,scala,3655,0,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp

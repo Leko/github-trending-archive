@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-07,go,3513,1640,An AI coding engine for complex tasks,plandex-ai,plandex,https://github.com/plandex-ai/plandex
+2024-04-07,go,3299,543,LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.,nilsherzig,LLocalSearch,https://github.com/nilsherzig/LLocalSearch
+2024-04-07,go,41017,12,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-04-07,go,6070,325,An alternative full node bitcoin implementation written in Go (golang),btcsuite,btcd,https://github.com/btcsuite/btcd
+2024-04-07,go,24642,22,👾 Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2024-04-07,go,15129,8,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-04-07,go,4737,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-04-07,go,1790,4,Kubernetes Control Plane Virtual IP and Load-Balancer,kube-vip,kube-vip,https://github.com/kube-vip/kube-vip
+2024-04-07,go,13782,3,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2024-04-07,go,6765,9,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-04-07,go,2457,3,Elastic Cloud on Kubernetes,elastic,cloud-on-k8s,https://github.com/elastic/cloud-on-k8s
+2024-04-07,go,22375,13,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-04-07,go,7221,1,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-04-07,go,7592,1,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-04-07,go,5271,3,Full-featured BitTorrent client package and utilities,anacrolix,torrent,https://github.com/anacrolix/torrent
+2024-04-07,go,53039,177,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-04-07,go,17,2,A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer),RiemaLabs,modular-indexer-light,https://github.com/RiemaLabs/modular-indexer-light
+2024-04-07,go,5495,5,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2024-04-07,go,10732,4,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-04-07,go,119723,64,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-04-07,go,20964,10,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2024-04-07,go,1660,0,The SPIFFE Runtime Environment,spiffe,spire,https://github.com/spiffe/spire
+2024-04-07,go,2730,1,"Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.",gardener,gardener,https://github.com/gardener/gardener
+2024-04-07,go,8947,6,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2024-04-07,go,11694,11,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
