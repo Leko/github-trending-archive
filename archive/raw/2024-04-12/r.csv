@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-12,r,2104,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2024-04-12,r,17,0,wrapper for the yhat API,yhat,yhatr,https://github.com/yhat/yhatr
+2024-04-12,r,22,0,R implementation of GeneTrajectory,KlugerLab,GeneTrajectory,https://github.com/KlugerLab/GeneTrajectory
+2024-04-12,r,550,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2024-04-12,r,5648,3,Friends don't let friends make certain types of data visualization - What are they and why are they bad.,cxli233,FriendsDontLetFriends,https://github.com/cxli233/FriendsDontLetFriends
+2024-04-12,r,142,1,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",jinworks,CellChat,https://github.com/jinworks/CellChat
+2024-04-12,r,1000,0,"RStan, the R interface to Stan",stan-dev,rstan,https://github.com/stan-dev/rstan
+2024-04-12,r,4645,0,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2024-04-12,r,172,2,"A drop-in replacement for dplyr, powered by DuckDB for performance.",duckdblabs,duckplyr,https://github.com/duckdblabs/duckplyr
+2024-04-12,r,580,1,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2024-04-12,r,1079,0,'ggplot2' Based Publication Ready Plots,kassambara,ggpubr,https://github.com/kassambara/ggpubr
+2024-04-12,r,130,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2024-04-12,r,288,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2024-04-12,r,328,0,Estimated marginal means,rvlenth,emmeans,https://github.com/rvlenth/emmeans
+2024-04-12,r,5235,0,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2024-04-12,r,17,0,CDISC Analysis Results Data,insightsengineering,cards,https://github.com/insightsengineering/cards
+2024-04-12,r,18,0,,satijalab,seurat-object,https://github.com/satijalab/seurat-object
+2024-04-12,r,342,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2024-04-12,r,308,1,,cole-trapnell-lab,monocle3,https://github.com/cole-trapnell-lab/monocle3
+2024-04-12,r,351,2,R package for performing 2-sample MR using MR-Base database,MRCIEU,TwoSampleMR,https://github.com/MRCIEU/TwoSampleMR
+2024-04-12,r,277,0,Community-provided extensions to Seurat,satijalab,seurat-wrappers,https://github.com/satijalab/seurat-wrappers
+2024-04-12,r,1885,1,"Easily generate information-rich, publication-quality tables from R",rstudio,gt,https://github.com/rstudio/gt
+2024-04-12,r,505,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2024-04-12,r,112,0,Dataset distribution for Seurat,satijalab,seurat-data,https://github.com/satijalab/seurat-data
+2024-04-12,r,519,0,igraph R package,igraph,rigraph,https://github.com/igraph/rigraph

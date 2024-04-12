@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-12,haskell,9661,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-04-12,haskell,34860,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-04-12,haskell,32225,15,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-04-12,haskell,22071,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-04-12,haskell,10,0,This is scrive's common collection of function import we use the most.,scrive,scrive-prelude,https://github.com/scrive/scrive-prelude
+2024-04-12,haskell,758,0,Command line client for Nix binary cache hosting:,cachix,cachix,https://github.com/cachix/cachix
+2024-04-12,haskell,2749,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-04-12,haskell,202,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-04-12,haskell,3235,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-04-12,haskell,3,0,Aeson types for UUID instances.,necrobious,uuid-aeson,https://github.com/necrobious/uuid-aeson
+2024-04-12,haskell,2565,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-04-12,haskell,1561,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-04-12,haskell,2102,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-04-12,haskell,3019,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-04-12,haskell,3944,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-04-12,haskell,7,0,Slack backlink bot,MercuryTechnologies,slacklinker,https://github.com/MercuryTechnologies/slacklinker
+2024-04-12,haskell,26,0,An llvm pretty printer inspired by the haskell llvm binding,elliottt,llvm-pretty,https://github.com/elliottt/llvm-pretty
+2024-04-12,haskell,3503,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-04-12,haskell,1,0,,imsut,starthaskell,https://github.com/imsut/starthaskell
+2024-04-12,haskell,570,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
