@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-13,go,464,46,OpenTelemetry Collector distribution with programmable pipelines,grafana,alloy,https://github.com/grafana/alloy
+2024-04-13,go,17393,55,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-04-13,go,5893,1,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-04-13,go,54423,241,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-04-13,go,7594,7,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-04-13,go,22031,17,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-04-13,go,5097,13,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2024-04-13,go,3877,3,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2024-04-13,go,79235,43,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-04-13,go,28291,9,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2024-04-13,go,13721,8,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-04-13,go,19801,8,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-04-13,go,9669,8,Code AI platform with Code Search & Cody,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2024-04-13,go,2509,7,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-04-13,go,16035,13,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-04-13,go,47645,20,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2024-04-13,go,21936,13,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-04-13,go,25972,7,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-04-13,go,2549,13,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
+2024-04-13,go,16254,10,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-04-13,go,7584,8,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-04-13,go,25698,11,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-04-13,go,26524,33,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-04-13,go,4038,8,Code signing and transparency for containers and binaries,sigstore,cosign,https://github.com/sigstore/cosign
+2024-04-13,go,8599,7,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-13,lua,14268,44,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-04-13,lua,37416,7,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-04-13,lua,13619,7,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2024-04-13,lua,15100,11,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-04-13,lua,2703,4,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2024-04-13,lua,1891,3,Soho vibes for Neovim,rose-pine,neovim,https://github.com/rose-pine/neovim
+2024-04-13,lua,7132,16,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-04-13,lua,970,1,86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案。Chinese wubi input method schema,KyleBing,rime-wubi86-jidian,https://github.com/KyleBing/rime-wubi86-jidian
+2024-04-13,lua,2621,2,vim-be-good is a nvim plugin designed to make you better at Vim Movements.,ThePrimeagen,vim-be-good,https://github.com/ThePrimeagen/vim-be-good
+2024-04-13,lua,1874,4,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2024-04-13,lua,2653,3,Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.,kylechui,nvim-surround,https://github.com/kylechui/nvim-surround
+2024-04-13,lua,888,2,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-04-13,lua,576,0,📦 An official xmake package repository,xmake-io,xmake-repo,https://github.com/xmake-io/xmake-repo
+2024-04-13,lua,937,1,,xiaorouji,openwrt-passwall2,https://github.com/xiaorouji/openwrt-passwall2
+2024-04-13,lua,9433,10,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-04-13,lua,923,2,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-04-13,lua,1640,4,Set of preconfigured snippets for different languages.,rafamadriz,friendly-snippets,https://github.com/rafamadriz/friendly-snippets
+2024-04-13,lua,308,0,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-04-13,lua,2811,2,Ant game engine,ejoy,ant,https://github.com/ejoy/ant
+2024-04-13,lua,778,3,My personal macOS configuration,FelixKratz,dotfiles,https://github.com/FelixKratz/dotfiles
+2024-04-13,lua,1724,2,"A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.",ray-x,go.nvim,https://github.com/ray-x/go.nvim
+2024-04-13,lua,2940,3,Jitsi Meet on Docker,jitsi,docker-jitsi-meet,https://github.com/jitsi/docker-jitsi-meet
+2024-04-13,lua,5316,7,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2024-04-13,lua,184,3,Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.,echasnovski,mini.indentscope,https://github.com/echasnovski/mini.indentscope
+2024-04-13,lua,442,1,"An extension for nvim-dap, providing default configurations for python and methods to debug individual test methods or classes.",mfussenegger,nvim-dap-python,https://github.com/mfussenegger/nvim-dap-python
