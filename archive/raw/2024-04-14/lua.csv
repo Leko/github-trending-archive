@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-14,lua,14303,38,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-04-14,lua,751,11,Chat with GitHub Copilot in Neovim,CopilotC-Nvim,CopilotChat.nvim,https://github.com/CopilotC-Nvim/CopilotChat.nvim
+2024-04-14,lua,3237,4,"An interactive and powerful Git interface for Neovim, inspired by Magit",NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2024-04-14,lua,13625,4,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2024-04-14,lua,320,5,A multi cursor plugin for Neovim.,smoka7,multicursors.nvim,https://github.com/smoka7/multicursors.nvim
+2024-04-14,lua,13802,9,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-04-14,lua,3484,2,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2024-04-14,lua,1726,0,"A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.",ray-x,go.nvim,https://github.com/ray-x/go.nvim
+2024-04-14,lua,1918,7,"💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2024-04-14,lua,37419,3,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-04-14,lua,5104,5,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-04-14,lua,1959,1,Github's Neovim themes,projekt0n,github-nvim-theme,https://github.com/projekt0n/github-nvim-theme
+2024-04-14,lua,777,0,My personal macOS configuration,FelixKratz,dotfiles,https://github.com/FelixKratz/dotfiles
+2024-04-14,lua,642,1,"🎈 Floating statuslines for Neovim, winbar alternative",b0o,incline.nvim,https://github.com/b0o/incline.nvim
+2024-04-14,lua,4311,7,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2024-04-14,lua,2716,3,Orgmode clone written in Lua for Neovim 0.9+.,nvim-orgmode,orgmode,https://github.com/nvim-orgmode/orgmode
+2024-04-14,lua,3663,2,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2024-04-14,lua,932,9,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-04-14,lua,11290,15,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-04-14,lua,3326,2,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-04-14,lua,8677,6,🔥 A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2024-04-14,lua,2847,2,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-04-14,lua,3153,1,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2024-04-14,lua,2568,15,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2024-04-14,lua,2228,1,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim

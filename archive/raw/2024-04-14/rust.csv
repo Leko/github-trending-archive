@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-14,rust,26099,30,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2024-04-14,rust,30639,113,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
+2024-04-14,rust,1385,1,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-04-14,rust,7285,10,A fast Rust-based web bundler 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2024-04-14,rust,3300,20,👁‍🗨 Rare and exotic sats,ordinals,ord,https://github.com/ordinals/ord
+2024-04-14,rust,2628,9,"All-in-one chat and copilot CLI that integrates 10+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen, Moonshot...",sigoden,aichat,https://github.com/sigoden/aichat
+2024-04-14,rust,3125,8,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2024-04-14,rust,92570,35,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2024-04-14,rust,3726,14,Postgres for Search and Analytics,paradedb,paradedb,https://github.com/paradedb/paradedb
+2024-04-14,rust,4820,9,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-04-14,rust,4900,6,Apache Arrow DataFusion SQL Query Engine,apache,arrow-datafusion,https://github.com/apache/arrow-datafusion
+2024-04-14,rust,3495,5,Incomplete Redis client and server implementation using Tokio - for learning purposes only,tokio-rs,mini-redis,https://github.com/tokio-rs/mini-redis
+2024-04-14,rust,10957,10,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2024-04-14,rust,12001,11,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2024-04-14,rust,92816,11,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2024-04-14,rust,5756,2,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-04-14,rust,2935,48,"Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)",stalwartlabs,mail-server,https://github.com/stalwartlabs/mail-server
+2024-04-14,rust,443,11,The simplest and most extensible ZK VM. Fast and fully open source from a16z crypto. ⚡ 💌,a16z,jolt,https://github.com/a16z/jolt
+2024-04-14,rust,11175,17,a Hassle-Free Python Experience,astral-sh,rye,https://github.com/astral-sh/rye
+2024-04-14,rust,16375,8,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-04-14,rust,2245,1,Reference client for NEAR Protocol,near,nearcore,https://github.com/near/nearcore
+2024-04-14,rust,14456,2,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-04-14,rust,10924,7,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2024-04-14,rust,110,26,Inject into processes specialized from Zygote,Mufanc,z-loader,https://github.com/Mufanc/z-loader
+2024-04-14,rust,122,17,A compile-time pattern matching library that reverses the interpolation process of `format!`.,mathematic-inc,unfmt,https://github.com/mathematic-inc/unfmt
