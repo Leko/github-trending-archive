@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-16,go,479,34,"一款适用于 qBittorrent/Transmission (Beta) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷 (XunLei/XL0012) 等客户端. A client blocker compatible with qBittorrent/Transmission (Beta) which is prohibited to include but not limited to clients such as Xunlei.",Simple-Tracker,qBittorrent-ClientBlocker,https://github.com/Simple-Tracker/qBittorrent-ClientBlocker
+2024-04-16,go,7584,19,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",loft-sh,devpod,https://github.com/loft-sh/devpod
+2024-04-16,go,13676,6,"A scalable overlay networking tool with a focus on performance, simplicity and security",slackhq,nebula,https://github.com/slackhq/nebula
+2024-04-16,go,2160,14,A CNI meta-plugin for multi-homed pods in Kubernetes,k8snetworkplumbingwg,multus-cni,https://github.com/k8snetworkplumbingwg/multus-cni
+2024-04-16,go,14431,7,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2024-04-16,go,7313,16,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2024-04-16,go,12987,14,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",apernet,hysteria,https://github.com/apernet/hysteria
+2024-04-16,go,43624,14,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2024-04-16,go,16446,12,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy
+2024-04-16,go,59303,34,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2024-04-16,go,5496,21,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,loft-sh,vcluster,https://github.com/loft-sh/vcluster
+2024-04-16,go,59370,50,🌸 A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2024-04-16,go,14102,9,The most customisable and low-latency cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2024-04-16,go,7781,2,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",uber,cadence,https://github.com/uber/cadence
+2024-04-16,go,13514,27,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-04-16,go,72355,28,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2024-04-16,go,2521,3,Sonne tanken ☀️🚘,evcc-io,evcc,https://github.com/evcc-io/evcc
+2024-04-16,go,899,5,Garbage Youtube livestream downloader,Kethsar,ytarchive,https://github.com/Kethsar/ytarchive
+2024-04-16,go,3267,6,📥 A Telegram tookit written in Golang,iyear,tdl,https://github.com/iyear/tdl
+2024-04-16,go,5308,28,A self hosted virtual browser that runs in docker and uses WebRTC.,m1k1o,neko,https://github.com/m1k1o/neko
+2024-04-16,go,22505,16,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-04-16,go,12961,10,Deliver Go binaries as fast and easily as possible,goreleaser,goreleaser,https://github.com/goreleaser/goreleaser
+2024-04-16,go,2578,18,代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。,deanxv,coze-discord-proxy,https://github.com/deanxv/coze-discord-proxy
+2024-04-16,go,5110,1,syzkaller is an unsupervised coverage-guided kernel fuzzer,google,syzkaller,https://github.com/google/syzkaller
+2024-04-16,go,44,13,"LLM-And-More is a professional, plug-and-play, llm trainer and application builder that guides you through the complete LLM workflow from data to evaluation, from training to deployment, from idea to sevice. / LLM-And-More 是一个专业、开箱即用的大模型训练及应用构建一站式解决方案，包含从数据到评估、从训练到部署、从想法到服务的全流程最佳实践。",IceBearAI,LLM-And-More,https://github.com/IceBearAI/LLM-And-More

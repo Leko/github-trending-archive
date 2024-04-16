@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-16,lua,14392,52,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-04-16,lua,938,1,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-04-16,lua,2971,4,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2024-04-16,lua,13845,20,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-04-16,lua,9462,11,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-04-16,lua,2609,15,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2024-04-16,lua,109,9,❴🦋❵ Fly through your JSON files with ease. Search ✨ blazingly fast ✨ for keys via Telescope.,Myzel394,jsonfly.nvim,https://github.com/Myzel394/jsonfly.nvim
+2024-04-16,lua,895,5,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-04-16,lua,7151,13,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-04-16,lua,11338,25,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-04-16,lua,4607,6,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2024-04-16,lua,3490,3,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2024-04-16,lua,2665,0,Service eggs for the pterodactyl panel,pelican-eggs,eggs,https://github.com/pelican-eggs/eggs
+2024-04-16,lua,6715,11,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2024-04-16,lua,3482,4,"🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",numToStr,Comment.nvim,https://github.com/numToStr/Comment.nvim
+2024-04-16,lua,12797,16,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-04-16,lua,2117,1,Show code context,nvim-treesitter,nvim-treesitter-context,https://github.com/nvim-treesitter/nvim-treesitter-context
+2024-04-16,lua,2858,9,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-04-16,lua,1028,0,nvim-cmp source for neovim builtin LSP client,hrsh7th,cmp-nvim-lsp,https://github.com/hrsh7th/cmp-nvim-lsp
+2024-04-16,lua,6358,5,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2024-04-16,lua,1936,15,"Navigate your code with search labels, enhanced character motions and Treesitter integration",folke,flash.nvim,https://github.com/folke/flash.nvim
+2024-04-16,lua,2146,6,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-04-16,lua,5111,7,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-04-16,lua,1238,4,A fast Neovim http client written in Lua,rest-nvim,rest.nvim,https://github.com/rest-nvim/rest.nvim
+2024-04-16,lua,1891,6,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
