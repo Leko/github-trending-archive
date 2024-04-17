@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-17,go,22224,43,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-04-17,go,5077,4,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2024-04-17,go,41078,8,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-04-17,go,4200,8,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-04-17,go,1462,387,Redis re-implemented with SQLite,nalgeon,redka,https://github.com/nalgeon/redka
+2024-04-17,go,13734,6,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-04-17,go,17327,12,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-04-17,go,15769,11,An IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
+2024-04-17,go,21106,7,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-04-17,go,75338,25,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-04-17,go,16678,21,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2024-04-17,go,26598,28,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-04-17,go,5506,13,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,loft-sh,vcluster,https://github.com/loft-sh/vcluster
+2024-04-17,go,5114,5,syzkaller is an unsupervised coverage-guided kernel fuzzer,google,syzkaller,https://github.com/google/syzkaller
+2024-04-17,go,35366,18,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-04-17,go,4395,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2024-04-17,go,13900,3,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-04-17,go,6030,6,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2024-04-17,go,2371,11,NVIDIA device plugin for Kubernetes,NVIDIA,k8s-device-plugin,https://github.com/NVIDIA/k8s-device-plugin
+2024-04-17,go,12968,12,Deliver Go binaries as fast and easily as possible,goreleaser,goreleaser,https://github.com/goreleaser/goreleaser
+2024-04-17,go,52608,16,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-04-17,go,22086,18,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-04-17,go,8778,20,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2024-04-17,go,12250,7,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2024-04-17,go,32293,13,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
