@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-18,haskell,1564,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-04-18,haskell,34912,14,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-04-18,haskell,22100,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-04-18,haskell,5537,3,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-04-18,haskell,5259,3,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-04-18,haskell,202,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-04-18,haskell,32306,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-04-18,haskell,25,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-04-18,haskell,2368,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-04-18,haskell,9677,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-04-18,haskell,3020,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-04-18,haskell,2,0,Faggruppe for haskell,kaaveland,praktisk-haskell,https://github.com/kaaveland/praktisk-haskell
+2024-04-18,haskell,3,0,Aeson types for UUID instances.,necrobious,uuid-aeson,https://github.com/necrobious/uuid-aeson
+2024-04-18,haskell,239,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-04-18,haskell,58,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2024-04-18,haskell,3518,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-04-18,haskell,2563,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-04-18,haskell,7,0,Slack backlink bot,MercuryTechnologies,slacklinker,https://github.com/MercuryTechnologies/slacklinker
+2024-04-18,haskell,3236,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-04-18,haskell,26,0,An llvm pretty printer inspired by the haskell llvm binding,elliottt,llvm-pretty,https://github.com/elliottt/llvm-pretty

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-18,go,598,96,The production-scale datacenter profiler,elastic,otel-profiling-agent,https://github.com/elastic/otel-profiling-agent
+2024-04-18,go,1763,303,Redis re-implemented with SQLite,nalgeon,redka,https://github.com/nalgeon/redka
+2024-04-18,go,22308,116,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-04-18,go,17642,92,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-04-18,go,55649,483,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-04-18,go,5367,26,A self hosted virtual browser that runs in docker and uses WebRTC.,m1k1o,neko,https://github.com/m1k1o/neko
+2024-04-18,go,35372,10,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-04-18,go,21273,25,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-04-18,go,5080,6,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2024-04-18,go,15366,6,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2024-04-18,go,20983,8,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-04-18,go,28319,6,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2024-04-18,go,17335,9,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-04-18,go,28456,11,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo
+2024-04-18,go,5899,16,Arbitrary-precision fixed-point decimal numbers in Go,shopspring,decimal,https://github.com/shopspring/decimal
+2024-04-18,go,18473,12,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-04-18,go,7341,5,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2024-04-18,go,3367,15,GO Simple Tunnel - a simple tunnel written in golang,go-gost,gost,https://github.com/go-gost/gost
+2024-04-18,go,4331,4,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2024-04-18,go,75354,22,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-04-18,go,32302,14,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-04-18,go,19251,6,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-04-18,go,16707,33,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2024-04-18,go,4204,6,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-04-18,go,5090,2,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
