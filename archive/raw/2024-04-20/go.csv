@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-20,go,1544,299,The production-scale datacenter profiler,elastic,otel-profiling-agent,https://github.com/elastic/otel-profiling-agent
+2024-04-20,go,56532,493,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-04-20,go,120450,66,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-04-20,go,9800,11,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2024-04-20,go,5919,8,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-04-20,go,10256,6,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-04-20,go,41109,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-04-20,go,5099,3,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-04-20,go,10831,56,Generate type-safe code from SQL,sqlc-dev,sqlc,https://github.com/sqlc-dev/sqlc
+2024-04-20,go,5845,9,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-04-20,go,13882,7,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2024-04-20,go,5118,4,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2024-04-20,go,12438,11,Git extension for versioning large files,git-lfs,git-lfs,https://github.com/git-lfs/git-lfs
+2024-04-20,go,29036,9,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2024-04-20,go,13926,14,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-04-20,go,11990,4,🐠 Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2024-04-20,go,14405,11,Fast linters Runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2024-04-20,go,7618,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-04-20,go,4758,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-04-20,go,16753,27,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2024-04-20,go,12487,8,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2024-04-20,go,2391,7,eBPF distributed networking observability tool for Kubernetes,microsoft,retina,https://github.com/microsoft/retina
+2024-04-20,go,10837,10,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2024-04-20,go,5554,18,Expression language and expression evaluation for Go,expr-lang,expr,https://github.com/expr-lang/expr

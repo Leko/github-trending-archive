@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-20,python,1874,588,A Native-PyTorch Library for LLM Fine-tuning,pytorch,torchtune,https://github.com/pytorch/torchtune
+2024-04-20,python,819,106,Set of tools to assess and improve LLM security.,meta-llama,PurpleLlama,https://github.com/meta-llama/PurpleLlama
+2024-04-20,python,55364,335,"为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",binary-husky,gpt_academic,https://github.com/binary-husky/gpt_academic
+2024-04-20,python,3062,61,"Build AI Assistants with memory, knowledge and tools.",phidatahq,phidata,https://github.com/phidatahq/phidata
+2024-04-20,python,14413,59,Inference code for CodeLlama models,meta-llama,codellama,https://github.com/meta-llama/codellama
+2024-04-20,python,3769,12,大麦网抢票脚本,MakiNaruto,Automatic_ticket_purchase,https://github.com/MakiNaruto/Automatic_ticket_purchase
+2024-04-20,python,2642,210,Official implementation for Mini-Gemini,dvlab-research,MiniGemini,https://github.com/dvlab-research/MiniGemini
+2024-04-20,python,416,66,"LLM Transparency Tool (LLM-TT), an open-source interactive toolkit for analyzing internal workings of Transformer-based language models. *Check out demo at* https://huggingface.co/spaces/facebook/llm-transparency-tool-demo",facebookresearch,llm-transparency-tool,https://github.com/facebookresearch/llm-transparency-tool
+2024-04-20,python,2915,279,💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。,1Panel-dev,MaxKB,https://github.com/1Panel-dev/MaxKB
+2024-04-20,python,1000,117,InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models,TencentARC,InstantMesh,https://github.com/TencentARC/InstantMesh
+2024-04-20,python,1201,3,"Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.",microsoft,sample-app-aoai-chatGPT,https://github.com/microsoft/sample-app-aoai-chatGPT
+2024-04-20,python,299,38,"Cognita by TrueFoundry - Framework for building modular, open source RAG applications for production.",truefoundry,cognita,https://github.com/truefoundry/cognita
+2024-04-20,python,258,42,,mistralai,mistral-common,https://github.com/mistralai/mistral-common
+2024-04-20,python,128,26,Binary Risk Intelligence,binarly-io,binary-risk-intelligence,https://github.com/binarly-io/binary-risk-intelligence
+2024-04-20,python,52573,131,Inference code for Llama models,meta-llama,llama,https://github.com/meta-llama/llama
+2024-04-20,python,3411,1,Ethereum Proof-of-Stake Consensus Specifications,ethereum,consensus-specs,https://github.com/ethereum/consensus-specs
+2024-04-20,python,4019,7,"[NeurIPS 2023] Official implementation of the paper ""Segment Everything Everywhere All at Once""",UX-Decoder,Segment-Everything-Everywhere-All-At-Once,https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once
+2024-04-20,python,30787,47,LlamaIndex is a data framework for your LLM applications,run-llama,llama_index,https://github.com/run-llama/llama_index
+2024-04-20,python,63463,18,"A curated list of awesome Machine Learning frameworks, libraries and software.",josephmisiti,awesome-machine-learning,https://github.com/josephmisiti/awesome-machine-learning
+2024-04-20,python,16078,92,🕸️ Web apps in pure Python 🐍,reflex-dev,reflex,https://github.com/reflex-dev/reflex
+2024-04-20,python,650,16,"Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.",PhonePe,mantis,https://github.com/PhonePe/mantis
+2024-04-20,python,716,61,Official implementation of Magic Clothing: Controllable Garment-Driven Image Synthesis,ShineChen1024,MagicClothing,https://github.com/ShineChen1024/MagicClothing
+2024-04-20,python,56,22,,jimbosimbo,howstheweather,https://github.com/jimbosimbo/howstheweather
+2024-04-20,python,48973,199,Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue),abi,screenshot-to-code,https://github.com/abi/screenshot-to-code
+2024-04-20,python,8050,45,"Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)",BerriAI,litellm,https://github.com/BerriAI/litellm
