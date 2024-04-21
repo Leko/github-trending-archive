@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-21,python,7418,1605,The official Meta Llama 3 GitHub site,meta-llama,llama3,https://github.com/meta-llama/llama3
+2024-04-21,python,2150,337,A Native-PyTorch Library for LLM Fine-tuning,pytorch,torchtune,https://github.com/pytorch/torchtune
+2024-04-21,python,911,112,Set of tools to assess and improve LLM security.,meta-llama,PurpleLlama,https://github.com/meta-llama/PurpleLlama
+2024-04-21,python,14499,103,Inference code for CodeLlama models,meta-llama,codellama,https://github.com/meta-llama/codellama
+2024-04-21,python,52662,85,Inference code for Llama models,meta-llama,llama,https://github.com/meta-llama/llama
+2024-04-21,python,55475,102,"为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",binary-husky,gpt_academic,https://github.com/binary-husky/gpt_academic
+2024-04-21,python,264,21,Super simple MLX (apple silicon) CLIP based photo similarity web app,harperreed,photo-similarity-search,https://github.com/harperreed/photo-similarity-search
+2024-04-21,python,16895,68,Unify Efficient Fine-Tuning of 100+ LLMs,hiyouga,LLaMA-Factory,https://github.com/hiyouga/LLaMA-Factory
+2024-04-21,python,3176,169,"Build AI Assistants with memory, knowledge and tools.",phidatahq,phidata,https://github.com/phidatahq/phidata
+2024-04-21,python,825,23,"StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text",Picsart-AI-Research,StreamingT2V,https://github.com/Picsart-AI-Research/StreamingT2V
+2024-04-21,python,1575,107,Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.,mouredev,roadmap-retos-programacion,https://github.com/mouredev/roadmap-retos-programacion
+2024-04-21,python,9431,56,Llama中文社区，最好的中文Llama大模型，完全开源可商用,LlamaFamily,Llama-Chinese,https://github.com/LlamaFamily/Llama-Chinese
+2024-04-21,python,14630,56,NVR with realtime local object detection for IP cameras,blakeblackshear,frigate,https://github.com/blakeblackshear/frigate
+2024-04-21,python,10200,20,[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation,OpenTalker,SadTalker,https://github.com/OpenTalker/SadTalker
+2024-04-21,python,5898,63,2-5X faster 80% less memory LLM finetuning,unslothai,unsloth,https://github.com/unslothai/unsloth
+2024-04-21,python,128,17,Neuralink for your AI Agents - LangChain - Autogen - CrewAI,Upsonic,Tiger,https://github.com/Upsonic/Tiger
+2024-04-21,python,13917,41,"The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.",airbytehq,airbyte,https://github.com/airbytehq/airbyte
+2024-04-21,python,105,12,"Repository hosting code used to reproduce results in ""Actions Speak Louder than Words Trillion-Parameter Sequential Transducers for Generative Recommendations"" (https://arxiv.org/abs/2402.17152).",facebookresearch,generative-recommenders,https://github.com/facebookresearch/generative-recommenders
+2024-04-21,python,157,6,"CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.",QwenLM,CodeQwen1.5,https://github.com/QwenLM/CodeQwen1.5
+2024-04-21,python,19752,52,"🍰 Desktop utility to download images/videos/music/text from various websites, and more.",KurtBestor,Hitomi-Downloader,https://github.com/KurtBestor/Hitomi-Downloader
+2024-04-21,python,49034,48,Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue),abi,screenshot-to-code,https://github.com/abi/screenshot-to-code
+2024-04-21,python,264,22,"Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.",theowni,Damn-Vulnerable-RESTaurant-API-Game,https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game
+2024-04-21,python,2392,6,[EMNLP 2023 Demo] Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding,DAMO-NLP-SG,Video-LLaMA,https://github.com/DAMO-NLP-SG/Video-LLaMA
+2024-04-21,python,33700,33,"An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",lm-sys,FastChat,https://github.com/lm-sys/FastChat
+2024-04-21,python,1486,29,"Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed",mahdibland,V2RayAggregator,https://github.com/mahdibland/V2RayAggregator

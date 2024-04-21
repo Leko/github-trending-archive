@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-21,haskell,2156,25,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-04-21,haskell,34947,12,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-04-21,haskell,23,0,This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.,IntersectMBO,cardano-cli,https://github.com/IntersectMBO/cardano-cli
+2024-04-21,haskell,8457,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2024-04-21,haskell,2565,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-04-21,haskell,32333,8,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-04-21,haskell,3022,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-04-21,haskell,9687,7,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-04-21,haskell,58,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2024-04-21,haskell,1386,0,"This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",input-output-hk,plutus-pioneer-program,https://github.com/input-output-hk/plutus-pioneer-program
+2024-04-21,haskell,3528,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-04-21,haskell,26,0,An llvm pretty printer inspired by the haskell llvm binding,elliottt,llvm-pretty,https://github.com/elliottt/llvm-pretty
+2024-04-21,haskell,8860,2,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2024-04-21,haskell,5271,2,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-04-21,haskell,0,0,Just some odd bits of code I leave thrown about the place.,Jiggins,Odd-bits-of-code,https://github.com/Jiggins/Odd-bits-of-code
+2024-04-21,haskell,1563,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-04-21,haskell,1531,0,The Plutus language implementation and tools,IntersectMBO,plutus,https://github.com/IntersectMBO/plutus
+2024-04-21,haskell,25,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-04-21,haskell,652,1,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor

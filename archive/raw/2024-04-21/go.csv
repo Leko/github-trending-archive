@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-21,go,1724,364,"The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...)",elastic,otel-profiling-agent,https://github.com/elastic/otel-profiling-agent
+2024-04-21,go,13931,8,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-04-21,go,17815,55,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-04-21,go,106682,25,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-04-21,go,56974,491,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-04-21,go,258,31,PasteBomb C2-less RAT,marco-liberale,PasteBomb,https://github.com/marco-liberale/PasteBomb
+2024-04-21,go,22441,12,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-04-21,go,41118,12,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-04-21,go,19845,3,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-04-21,go,8375,0,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2024-04-21,go,120520,71,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-04-21,go,8729,3,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2024-04-21,go,3600,5,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-04-21,go,532,76,Self-hosted file converter server,danvergara,morphos,https://github.com/danvergara/morphos
+2024-04-21,go,26720,17,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-04-21,go,67699,12,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-04-21,go,5470,6,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2024-04-21,go,4734,2,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",flyteorg,flyte,https://github.com/flyteorg/flyte
+2024-04-21,go,15525,9,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-04-21,go,119487,31,The Go programming language,golang,go,https://github.com/golang/go
+2024-04-21,go,29619,5,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-04-21,go,5171,5,Generate Go client and server boilerplate from OpenAPI 3 specifications,deepmap,oapi-codegen,https://github.com/deepmap/oapi-codegen
+2024-04-21,go,3865,2,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-04-21,go,34954,13,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2024-04-21,go,10265,8,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
