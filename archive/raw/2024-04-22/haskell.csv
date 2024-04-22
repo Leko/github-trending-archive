@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-22,haskell,3531,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-04-22,haskell,34951,5,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-04-22,haskell,5548,4,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-04-22,haskell,2565,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-04-22,haskell,9689,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-04-22,haskell,1563,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-04-22,haskell,32350,19,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-04-22,haskell,8860,0,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2024-04-22,haskell,165,0,,github,deli,https://github.com/github/deli
+2024-04-22,haskell,22114,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-04-22,haskell,5,0,GHC plugin to add eventlog tracing for foreign function calls,well-typed,trace-foreign-calls,https://github.com/well-typed/trace-foreign-calls
+2024-04-22,haskell,2161,6,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-04-22,haskell,5275,4,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-04-22,haskell,2368,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-04-22,haskell,655,4,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-04-22,haskell,25,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-04-22,haskell,3948,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-04-22,haskell,3022,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
