@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-25,lua,2264,5,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2024-04-25,lua,7208,15,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-04-25,lua,9512,7,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-04-25,lua,909,2,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-04-25,lua,12906,15,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-04-25,lua,37506,9,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-04-25,lua,13669,4,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2024-04-25,lua,265,5,Debugging in NeoVim the print() way!,andrewferrier,debugprint.nvim,https://github.com/andrewferrier/debugprint.nvim
+2024-04-25,lua,11878,11,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2024-04-25,lua,3129,6,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2024-04-25,lua,7078,7,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-04-25,lua,1615,19,The Simple Config Template Of Rime By Mintimate. QQ Chat-Group: 703260572,Mintimate,oh-my-rime,https://github.com/Mintimate/oh-my-rime
+2024-04-25,lua,1580,2,Neovim plugin to improve the default vim.ui interfaces,stevearc,dressing.nvim,https://github.com/stevearc/dressing.nvim
+2024-04-25,lua,710,1,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2024-04-25,lua,3709,2,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2024-04-25,lua,6412,9,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2024-04-25,lua,12,1,A Poster system for FiveM using DUIs,Xilophinum,posters,https://github.com/Xilophinum/posters
+2024-04-25,lua,5147,7,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-04-25,lua,1672,3,Set of preconfigured snippets for different languages.,rafamadriz,friendly-snippets,https://github.com/rafamadriz/friendly-snippets
+2024-04-25,lua,312,1,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-04-25,lua,1760,3,"A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.",ray-x,go.nvim,https://github.com/ray-x/go.nvim
+2024-04-25,lua,1935,8,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2024-04-25,lua,360,0,User Interface replacement AddOn for World of Warcraft.,tukui-org,ElvUI,https://github.com/tukui-org/ElvUI
+2024-04-25,lua,2367,5,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2024-04-25,lua,115,0,Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.,echasnovski,mini.ai,https://github.com/echasnovski/mini.ai

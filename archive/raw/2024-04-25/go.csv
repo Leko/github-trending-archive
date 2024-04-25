@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-25,go,59638,722,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-04-25,go,3951,5,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2024-04-25,go,5076,14,HCL is the HashiCorp configuration language.,hashicorp,hcl,https://github.com/hashicorp/hcl
+2024-04-25,go,11923,8,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2024-04-25,go,7120,5,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2024-04-25,go,119579,34,The Go programming language,golang,go,https://github.com/golang/go
+2024-04-25,go,22532,7,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-04-25,go,15365,12,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2024-04-25,go,10982,7,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2024-04-25,go,3676,100,"Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.",coroot,coroot,https://github.com/coroot/coroot
+2024-04-25,go,19864,2,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-04-25,go,21689,16,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-04-25,go,13966,7,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-04-25,go,8821,17,"🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",panjf2000,gnet,https://github.com/panjf2000/gnet
+2024-04-25,go,34605,34,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2024-04-25,go,3354,2,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2024-04-25,go,20943,17,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-04-25,go,4356,20,A simple and zero-dependencies library to parse environment variables into structs,caarlos0,env,https://github.com/caarlos0/env
+2024-04-25,go,28344,7,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2024-04-25,go,5940,9,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-04-25,go,9711,9,Code AI platform with Code Search & Cody,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2024-04-25,go,14750,14,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2024-04-25,go,14887,5,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2024-04-25,go,3716,1,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2024-04-25,go,26448,19,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
