@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-26,rust,7969,35,"💥 Blazing fast terminal file manager written in Rust, based on async I/O.",sxyazi,yazi,https://github.com/sxyazi/yazi
+2024-04-26,rust,8413,5,💥 Fast State-of-the-Art Tokenizers optimized for Research and Production,huggingface,tokenizers,https://github.com/huggingface/tokenizers
+2024-04-26,rust,9886,16,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2024-04-26,rust,73,10,A private blockDAG using Homomorphic Encryption with Smart Contract support,xelis-project,xelis-blockchain,https://github.com/xelis-project/xelis-blockchain
+2024-04-26,rust,16176,19,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2024-04-26,rust,26553,52,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2024-04-26,rust,11060,13,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2024-04-26,rust,5984,38,Sketch and take handwritten notes.,flxzt,rnote,https://github.com/flxzt/rnote
+2024-04-26,rust,17581,36,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2024-04-26,rust,1823,5,"A native Rust library for Delta Lake, with bindings into Python",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2024-04-26,rust,24920,11,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2024-04-26,rust,2447,9,Rust bindings for Godot 4,godot-rust,gdext,https://github.com/godot-rust/gdext
+2024-04-26,rust,7362,9,A fast Rust-based web bundler 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2024-04-26,rust,10419,51,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",biomejs,biome,https://github.com/biomejs/biome
+2024-04-26,rust,1438,11,Roll your own tracker!,IgnisDa,ryot,https://github.com/IgnisDa/ryot
+2024-04-26,rust,4883,4,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-04-26,rust,4944,3,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2024-04-26,rust,17898,22,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-04-26,rust,1739,6,A Solution to your Wayland Wallpaper Woes,LGFae,swww,https://github.com/LGFae/swww
+2024-04-26,rust,7932,7,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2024-04-26,rust,84,8,"HERRO is a highly-accurate, haplotype-aware, deep-learning tool for error correction of Nanopore R10.4.1 or R9.4.1 reads (read length of >= 10 kbps is recommended).",lbcb-sci,herro,https://github.com/lbcb-sci/herro
+2024-04-26,rust,16671,10,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2024-04-26,rust,3176,4,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2024-04-26,rust,49226,37,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2024-04-26,rust,945,1,A Virtual Machine for Zero-Knowledge Executions,AleoHQ,snarkVM,https://github.com/AleoHQ/snarkVM

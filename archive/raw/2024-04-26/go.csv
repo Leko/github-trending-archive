@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-26,go,8893,19,"🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",panjf2000,gnet,https://github.com/panjf2000/gnet
+2024-04-26,go,60291,689,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-04-26,go,10301,7,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-04-26,go,22450,6,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-04-26,go,3723,73,"Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.",coroot,coroot,https://github.com/coroot/coroot
+2024-04-26,go,10846,8,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-04-26,go,9454,2,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-04-26,go,6618,27,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2024-04-26,go,6735,13,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2024-04-26,go,41156,16,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-04-26,go,3633,4,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",grafana,tempo,https://github.com/grafana/tempo
+2024-04-26,go,52750,23,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-04-26,go,27799,5,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2024-04-26,go,20023,109,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu
+2024-04-26,go,16660,3,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2024-04-26,go,2774,2,"Reference implementation of the Filecoin protocol, written in Go",filecoin-project,lotus,https://github.com/filecoin-project/lotus
+2024-04-26,go,1915,85,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",openbao,openbao,https://github.com/openbao/openbao
+2024-04-26,go,13973,13,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-04-26,go,822,32,An opinionated Go framework for accelerated microservice development,gofr-dev,gofr,https://github.com/gofr-dev/gofr
+2024-04-26,go,12967,13,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-04-26,go,5086,9,HCL is the HashiCorp configuration language.,hashicorp,hcl,https://github.com/hashicorp/hcl
+2024-04-26,go,7620,4,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-04-26,go,11769,8,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2024-04-26,go,7460,6,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-04-26,go,10232,6,Application Delivery as Code that Runs Anywhere,dagger,dagger,https://github.com/dagger/dagger
