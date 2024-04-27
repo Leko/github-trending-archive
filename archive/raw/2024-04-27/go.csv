@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-04-27,go,60820,577,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-04-27,go,52767,15,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-04-27,go,16156,15,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-04-27,go,12976,10,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-04-27,go,41171,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-04-27,go,14893,3,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2024-04-27,go,899,263,"""Zero-Knowledge"" Proof Implementation with HMAC Communication in Go",zk-Call,zkp-hmac-communication-go,https://github.com/zk-Call/zkp-hmac-communication-go
+2024-04-27,go,7624,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-04-27,go,9024,170,"🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",panjf2000,gnet,https://github.com/panjf2000/gnet
+2024-04-27,go,2049,134,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",openbao,openbao,https://github.com/openbao/openbao
+2024-04-27,go,29653,14,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-04-27,go,7755,10,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-04-27,go,4230,2,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-04-27,go,303,43,"Super fast drop-in replacement of the in memory key-value store Redis, made in Golang",Dhravya,radish,https://github.com/Dhravya/radish
+2024-04-27,go,20181,171,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu
+2024-04-27,go,15376,17,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2024-04-27,go,7944,11,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2024-04-27,go,4063,4,Descheduler for Kubernetes,kubernetes-sigs,descheduler,https://github.com/kubernetes-sigs/descheduler
+2024-04-27,go,8610,4,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-04-27,go,15122,15,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
+2024-04-27,go,47825,19,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2024-04-27,go,33183,48,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-04-27,go,14186,2,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2024-04-27,go,7461,9,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-04-27,go,11471,9,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
