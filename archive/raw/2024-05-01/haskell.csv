@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-01,haskell,35047,12,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-05-01,haskell,1564,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-05-01,haskell,32447,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-05-01,haskell,3020,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-05-01,haskell,6,0,Makes Ascii art,DiegoNolan,Asciify,https://github.com/DiegoNolan/Asciify
+2024-05-01,haskell,3,0,Aeson types for UUID instances.,necrobious,uuid-aeson,https://github.com/necrobious/uuid-aeson
+2024-05-01,haskell,1529,0,The Plutus language implementation and tools,IntersectMBO,plutus,https://github.com/IntersectMBO/plutus
+2024-05-01,haskell,3764,0,Cryptographic currency implementing Ouroboros PoS protocol,input-output-hk,cardano-sl,https://github.com/input-output-hk/cardano-sl
+2024-05-01,haskell,2571,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-05-01,haskell,1219,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-05-01,haskell,3547,0,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-05-01,haskell,473,0,SystemVerilog to Verilog conversion,zachjs,sv2v,https://github.com/zachjs/sv2v
+2024-05-01,haskell,14,0,Fast serialization in haskell,vincenthz,hs-packer,https://github.com/vincenthz/hs-packer
+2024-05-01,haskell,10,0,Curry–Howard Correspondence for fun,banacorn,formal-language,https://github.com/banacorn/formal-language
+2024-05-01,haskell,3060,1,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2024-05-01,haskell,0,0,A multi-language syntax highlighter.,isturdy,tint,https://github.com/isturdy/tint
+2024-05-01,haskell,9727,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-05-01,haskell,1772,1,"Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!",haskell-servant,servant,https://github.com/haskell-servant/servant
+2024-05-01,haskell,3241,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-05-01,haskell,571,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-05-01,haskell,0,0,,pdepjm,2024-f-jujutsu-haskell,https://github.com/pdepjm/2024-f-jujutsu-haskell

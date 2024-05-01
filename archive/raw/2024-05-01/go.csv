@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-01,go,15266,11,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-05-01,go,29676,8,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-05-01,go,14912,5,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2024-05-01,go,21187,9,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-05-01,go,7939,5,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2024-05-01,go,8971,29,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,netbirdio,netbird,https://github.com/netbirdio/netbird
+2024-05-01,go,46399,15,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-05-01,go,1566,3,开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt,assimon,epusdt,https://github.com/assimon/epusdt
+2024-05-01,go,12333,9,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2024-05-01,go,41210,15,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-05-01,go,2410,33,Generate images of code and terminal output 📸,charmbracelet,freeze,https://github.com/charmbracelet/freeze
+2024-05-01,go,9991,13,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,navidrome,navidrome,https://github.com/navidrome/navidrome
+2024-05-01,go,21646,4,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2024-05-01,go,5153,4,"Golang client for NATS, the cloud native messaging system.",nats-io,nats.go,https://github.com/nats-io/nats.go
+2024-05-01,go,67760,16,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-05-01,go,8402,5,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2024-05-01,go,35502,19,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-05-01,go,9818,7,"Terminal UI library with rich, interactive widgets — written in Golang",rivo,tview,https://github.com/rivo/tview
+2024-05-01,go,7676,2,Go library for decoding generic map values into native Go structures and vice versa.,mitchellh,mapstructure,https://github.com/mitchellh/mapstructure
+2024-05-01,go,9800,13,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2024-05-01,go,13769,4,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-05-01,go,23321,8,Cross platform GUI toolkit in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne
+2024-05-01,go,19313,8,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-05-01,go,15556,1,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2024-05-01,go,737,2,Go Implementation of the Spacemesh protocol full node. 💾⏰💪,spacemeshos,go-spacemesh,https://github.com/spacemeshos/go-spacemesh
