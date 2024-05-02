@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-02,go,416,223,"Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.",talostrading,sonic,https://github.com/talostrading/sonic
+2024-05-02,go,106913,21,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-05-02,go,15284,23,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-05-02,go,41217,8,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-05-02,go,13737,2,"A scalable overlay networking tool with a focus on performance, simplicity and security",slackhq,nebula,https://github.com/slackhq/nebula
+2024-05-02,go,8760,3,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2024-05-02,go,10572,2,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2024-05-02,go,5888,2,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-05-02,go,3782,0,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-05-02,go,25850,7,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-05-02,go,7669,35,A push notification server written in Go (Golang).,appleboy,gorush,https://github.com/appleboy/gorush
+2024-05-02,go,2492,0,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2024-05-02,go,366,69,"The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need.",kaytu-io,kaytu,https://github.com/kaytu-io/kaytu
+2024-05-02,go,22554,3,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-05-02,go,19649,23,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2024-05-02,go,3932,3,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2024-05-02,go,22066,11,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-05-02,go,21107,9,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-05-02,go,9807,11,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2024-05-02,go,7811,4,CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.,crowdsecurity,crowdsec,https://github.com/crowdsecurity/crowdsec
+2024-05-02,go,742,9,OpenTelemetry Collector distribution with programmable pipelines,grafana,alloy,https://github.com/grafana/alloy
+2024-05-02,go,35018,9,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2024-05-02,go,6292,14,A PDF processor written in Go.,pdfcpu,pdfcpu,https://github.com/pdfcpu/pdfcpu
+2024-05-02,go,22246,36,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2024-05-02,go,7635,6,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt

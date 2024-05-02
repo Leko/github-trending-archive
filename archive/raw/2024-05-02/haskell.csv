@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-02,haskell,3020,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-05-02,haskell,9728,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-05-02,haskell,674,2,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-05-02,haskell,0,0,Check mails in a maildir.,QLyine,MailChecker,https://github.com/QLyine/MailChecker
+2024-05-02,haskell,2571,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-05-02,haskell,0,0,A REPL program that uses the State monad transformer and some higher order functions.,ardamose123,haskell-repl,https://github.com/ardamose123/haskell-repl
+2024-05-02,haskell,3,0,Haskell implementation of Robin Hood Hashing,kolmodin,robinhood,https://github.com/kolmodin/robinhood
+2024-05-02,haskell,48,0,A logical authorization system,Simspace,avaleryar,https://github.com/Simspace/avaleryar
+2024-05-02,haskell,5,0,Formats haskell import lists,Simspace,simformat,https://github.com/Simspace/simformat
+2024-05-02,haskell,8,0,Experimenting with coeffect and comonadic semantics embedded in Haskell,dorchard,coeffects-experiments,https://github.com/dorchard/coeffects-experiments
+2024-05-02,haskell,22339,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-05-02,haskell,35053,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-05-02,haskell,571,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-05-02,haskell,1220,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-05-02,haskell,3242,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-05-02,haskell,3950,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
