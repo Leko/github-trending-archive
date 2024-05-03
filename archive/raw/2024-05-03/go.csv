@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-03,go,480,81,"Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.",talostrading,sonic,https://github.com/talostrading/sonic
+2024-05-03,go,14037,11,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-05-03,go,27359,34,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2024-05-03,go,22075,16,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-05-03,go,9892,8,Ebitengine - A dead simple 2D game engine for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2024-05-03,go,2493,6,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2024-05-03,go,2568,7,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-05-03,go,22274,39,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2024-05-03,go,16615,18,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2024-05-03,go,4623,0,The Docker CLI,docker,cli,https://github.com/docker/cli
+2024-05-03,go,50350,27,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2024-05-03,go,5434,2,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
+2024-05-03,go,6172,11,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",qdm12,gluetun,https://github.com/qdm12/gluetun
+2024-05-03,go,14007,8,"Linux virtual machines, with a focus on running containers",lima-vm,lima,https://github.com/lima-vm/lima
+2024-05-03,go,59927,37,🌸 A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2024-05-03,go,11738,8,"Manage your dotfiles across multiple diverse machines, securely.",twpayne,chezmoi,https://github.com/twpayne/chezmoi
+2024-05-03,go,21658,6,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2024-05-03,go,5019,9,Manage your database schema as code,ariga,atlas,https://github.com/ariga/atlas
+2024-05-03,go,13939,10,Find and verify secrets,trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-05-03,go,9813,9,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2024-05-03,go,20983,4,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-05-03,go,33407,45,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-05-03,go,2148,3,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",fleetdm,fleet,https://github.com/fleetdm/fleet
+2024-05-03,go,53902,29,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2024-05-03,go,7671,3,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
