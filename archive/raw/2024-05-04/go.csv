@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-04,go,2158,12,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",fleetdm,fleet,https://github.com/fleetdm/fleet
+2024-05-04,go,942,1,"""Zero-Knowledge"" Proof Implementation with HMAC Communication in Go",zk-Call,zkp-hmac-communication-go,https://github.com/zk-Call/zkp-hmac-communication-go
+2024-05-04,go,21427,11,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-05-04,go,2575,7,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-05-04,go,5897,3,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-05-04,go,50406,54,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2024-05-04,go,5133,5,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-05-04,go,13775,1,The plugin-driven server agent for collecting & reporting metrics.,influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-05-04,go,8789,9,The Cloud Native Control Plane,crossplane,crossplane,https://github.com/crossplane/crossplane
+2024-05-04,go,7641,1,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-05-04,go,22083,6,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-05-04,go,23451,11,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-05-04,go,15303,6,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-05-04,go,19904,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-05-04,go,5103,3,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2024-05-04,go,21795,8,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-05-04,go,5961,2,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-05-04,go,52852,10,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-05-04,go,16588,5,"The easiest, and most secure way to access and protect all of your infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2024-05-04,go,10579,1,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2024-05-04,go,5489,3,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2024-05-04,go,3561,9,Wireguard web interface,ngoduykhanh,wireguard-ui,https://github.com/ngoduykhanh/wireguard-ui
+2024-05-04,go,3414,6,"CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2024-05-04,go,119781,30,The Go programming language,golang,go,https://github.com/golang/go
+2024-05-04,go,41230,10,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-04,lua,2740,12,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2024-05-04,lua,3190,3,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2024-05-04,lua,3523,3,A starting point to setup some lsp related features in neovim.,VonHeikemen,lsp-zero.nvim,https://github.com/VonHeikemen/lsp-zero.nvim
+2024-05-04,lua,3907,8,Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-05-04,lua,975,0,Questie: The WoW Classic quest helper,Questie,Questie,https://github.com/Questie/Questie
+2024-05-04,lua,928,5,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-05-04,lua,316,0,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-05-04,lua,2952,0,Jitsi Meet on Docker,jitsi,docker-jitsi-meet,https://github.com/jitsi/docker-jitsi-meet
+2024-05-04,lua,1714,8,Improved fzf.vim written in lua,ibhagwan,fzf-lua,https://github.com/ibhagwan/fzf-lua
+2024-05-04,lua,2299,6,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-05-04,lua,2717,3,Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.,kylechui,nvim-surround,https://github.com/kylechui/nvim-surround
+2024-05-04,lua,876,12,Chat with GitHub Copilot in Neovim,CopilotC-Nvim,CopilotChat.nvim,https://github.com/CopilotC-Nvim/CopilotChat.nvim
+2024-05-04,lua,2299,5,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2024-05-04,lua,5869,3,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2024-05-04,lua,3543,4,"🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",numToStr,Comment.nvim,https://github.com/numToStr/Comment.nvim
+2024-05-04,lua,6543,7,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2024-05-04,lua,15076,24,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-05-04,lua,200,0,A library for asynchronous IO in Neovim,nvim-neotest,nvim-nio,https://github.com/nvim-neotest/nvim-nio
+2024-05-04,lua,14077,15,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-05-04,lua,2716,4,Service eggs for the pterodactyl panel,pelican-eggs,eggs,https://github.com/pelican-eggs/eggs
+2024-05-04,lua,359,2,Code outline sidebar powered by LSP. Significantly enhanced & refactored fork of symbols-outline.nvim.,hedyhli,outline.nvim,https://github.com/hedyhli/outline.nvim
+2024-05-04,lua,402,23,"Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",wojciech-kulik,xcodebuild.nvim,https://github.com/wojciech-kulik/xcodebuild.nvim
+2024-05-04,lua,116,14,💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.,tris203,precognition.nvim,https://github.com/tris203/precognition.nvim
+2024-05-04,lua,382,0,An extension for nvim-dap providing configurations for launching go debugger (delve) and debugging individual tests,leoluz,nvim-dap-go,https://github.com/leoluz/nvim-dap-go
+2024-05-04,lua,1985,5,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest
