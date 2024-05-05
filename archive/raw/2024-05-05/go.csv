@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-05,go,6965,13,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-05-05,go,5746,34,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2024-05-05,go,35471,16,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2024-05-05,go,4627,1,The Docker CLI,docker,cli,https://github.com/docker/cli
+2024-05-05,go,13933,12,Your CLI home video recorder 📼,charmbracelet,vhs,https://github.com/charmbracelet/vhs
+2024-05-05,go,22087,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-05-05,go,2578,3,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-05-05,go,3037,28,"Make SSH apps, just like that! 💫",charmbracelet,wish,https://github.com/charmbracelet/wish
+2024-05-05,go,13902,20,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-05-05,go,11022,11,Generate type-safe code from SQL,sqlc-dev,sqlc,https://github.com/sqlc-dev/sqlc
+2024-05-05,go,52866,16,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-05-05,go,26080,7,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-05-05,go,5635,8,A mock code autogenerator for Go,vektra,mockery,https://github.com/vektra/mockery
+2024-05-05,go,10879,6,"Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.",earthly,earthly,https://github.com/earthly/earthly
+2024-05-05,go,22264,8,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-05-05,go,18628,6,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-05-05,go,14274,16,The most customisable and low-latency cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2024-05-05,go,9826,8,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2024-05-05,go,3247,5,Docker CLI plugin for extended build capabilities with BuildKit,docker,buildx,https://github.com/docker/buildx
+2024-05-05,go,9474,0,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-05-05,go,5146,0,Go microservice template for Kubernetes,stefanprodan,podinfo,https://github.com/stefanprodan/podinfo
+2024-05-05,go,4789,2,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",flyteorg,flyte,https://github.com/flyteorg/flyte
+2024-05-05,go,13753,8,"A scalable overlay networking tool with a focus on performance, simplicity and security",slackhq,nebula,https://github.com/slackhq/nebula
+2024-05-05,go,7270,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-05-05,go,19911,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go

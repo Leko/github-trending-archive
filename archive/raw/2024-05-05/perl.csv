@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-05,perl,2922,11,These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.),jimsalterjrs,sanoid,https://github.com/jimsalterjrs/sanoid
+2024-05-05,perl,2780,3,,ThePrimeagen,.dotfiles,https://github.com/ThePrimeagen/.dotfiles
+2024-05-05,perl,2497,0,Client for PPP+TLS VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
+2024-05-05,perl,18522,4,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2024-05-05,perl,7907,5,Nikto web server scanner,sullo,nikto,https://github.com/sullo/nikto
+2024-05-05,perl,758,2,⚡ ♒ Rapid prokaryotic genome annotation,tseemann,prokka,https://github.com/tseemann/prokka
+2024-05-05,perl,2103,3,Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.,ddclient,ddclient,https://github.com/ddclient/ddclient
+2024-05-05,perl,10,0,a tiny template engine for embedded HTML,kazuho,picotemplate,https://github.com/kazuho/picotemplate
+2024-05-05,perl,44,0,a superdaemon for hot-deploying server programs,kazuho,p5-Server-Starter,https://github.com/kazuho/p5-Server-Starter
+2024-05-05,perl,304,0,"openQA web-frontend, scheduler and tools.",os-autoinst,openQA,https://github.com/os-autoinst/openQA
+2024-05-05,perl,3385,0,A fast PostgreSQL Log Analyzer,darold,pgbadger,https://github.com/darold/pgbadger
+2024-05-05,perl,196,1,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2024-05-05,perl,6,0,Term::Vspark Package,kablamo,Term-Vspark,https://github.com/kablamo/Term-Vspark
+2024-05-05,perl,413,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2024-05-05,perl,0,0,identidad visual de firefox,inaes-tic,pkg-firefox,https://github.com/inaes-tic/pkg-firefox
+2024-05-05,perl,306,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2024-05-05,perl,529,1,Extended information (especially license and layer details) about the published Official Images,docker-library,repo-info,https://github.com/docker-library/repo-info
+2024-05-05,perl,960,0,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2024-05-05,perl,17098,5,Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉,so-fancy,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy
+2024-05-05,perl,251,0,FusionInventory Agent,fusioninventory,fusioninventory-agent,https://github.com/fusioninventory/fusioninventory-agent
+2024-05-05,perl,437,0,✂️ ⚡ Rapid haploid variant calling and core genome alignment,tseemann,snippy,https://github.com/tseemann/snippy
+2024-05-05,perl,845,1,LCOV,linux-test-project,lcov,https://github.com/linux-test-project/lcov
+2024-05-05,perl,435,0,"A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",FelixKrueger,TrimGalore,https://github.com/FelixKrueger/TrimGalore
+2024-05-05,perl,803,0,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2024-05-05,perl,1238,0,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
