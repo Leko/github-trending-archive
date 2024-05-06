@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-06,python,405,81,An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).,Blealtan,efficient-kan,https://github.com/Blealtan/efficient-kan
+2024-05-06,python,804,83,Uncomplicated Observability for Python and beyond! 🪵🔥,pydantic,logfire,https://github.com/pydantic/logfire
+2024-05-06,python,9347,57,Create LLM agents with long-term memory and custom tools 📚🦙,cpacker,MemGPT,https://github.com/cpacker/MemGPT
+2024-05-06,python,19210,12,Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.,PromtEngineer,localGPT,https://github.com/PromtEngineer/localGPT
+2024-05-06,python,5303,9,Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor,mealie-recipes,mealie,https://github.com/mealie-recipes/mealie
+2024-05-06,python,13298,47,"小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",NanmiCoder,MediaCrawler,https://github.com/NanmiCoder/MediaCrawler
+2024-05-06,python,71277,72,A feature-rich command-line audio/video downloader,yt-dlp,yt-dlp,https://github.com/yt-dlp/yt-dlp
+2024-05-06,python,23739,98,1 min voice data can also be used to train a good TTS model! (few shot voice cloning),RVC-Boss,GPT-SoVITS,https://github.com/RVC-Boss/GPT-SoVITS
+2024-05-06,python,319,32,,GistNoesis,FourierKAN,https://github.com/GistNoesis/FourierKAN
+2024-05-06,python,291,63,,eureka-research,DrEureka,https://github.com/eureka-research/DrEureka
+2024-05-06,python,16219,22,Stable Diffusion with Core ML on Apple Silicon,apple,ml-stable-diffusion,https://github.com/apple/ml-stable-diffusion
+2024-05-06,python,25537,16,"🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",StevenBlack,hosts,https://github.com/StevenBlack/hosts
+2024-05-06,python,2093,5,An autoregressive character-level language model for making more things,karpathy,makemore,https://github.com/karpathy/makemore
+2024-05-06,python,12522,54,"A graph-relational database with declarative schema, built-in migration system, and a next-generation query language",edgedb,edgedb,https://github.com/edgedb/edgedb
+2024-05-06,python,395,14,"PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.",MervinPraison,PraisonAI,https://github.com/MervinPraison/PraisonAI
+2024-05-06,python,8800,16,Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname,Datalux,Osintgram,https://github.com/Datalux/Osintgram
+2024-05-06,python,194,45,Evaluate your LLM's response with Prometheus 💯,prometheus-eval,prometheus-eval,https://github.com/prometheus-eval/prometheus-eval
+2024-05-06,python,79,18,,PSGO,PPPwnGo,https://github.com/PSGO/PPPwnGo
+2024-05-06,python,952,16,Brand new TTS solution,fishaudio,fish-speech,https://github.com/fishaudio/fish-speech
+2024-05-06,python,3278,24,🤗 AutoTrain Advanced,huggingface,autotrain-advanced,https://github.com/huggingface/autotrain-advanced
+2024-05-06,python,105,8,[ICML2024] Official PyTorch implementation of DoRA: Weight-Decomposed Low-Rank Adaptation,NVlabs,DoRA,https://github.com/NVlabs/DoRA
+2024-05-06,python,25059,35,基于大模型搭建的聊天机器人，同时支持 企业微信、微信 公众号、飞书、钉钉 等接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。,zhayujie,chatgpt-on-wechat,https://github.com/zhayujie/chatgpt-on-wechat
+2024-05-06,python,273,16,A comprehensive benchmark of deepfake detection,SCLBD,DeepfakeBench,https://github.com/SCLBD/DeepfakeBench
+2024-05-06,python,2880,24,"Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!",lancedb,lancedb,https://github.com/lancedb/lancedb
+2024-05-06,python,6401,9,"该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",vvbbnn00,WARP-Clash-API,https://github.com/vvbbnn00/WARP-Clash-API

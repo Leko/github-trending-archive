@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-06,haskell,5315,0,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-05-06,haskell,32474,9,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-05-06,haskell,22353,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-05-06,haskell,2575,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-05-06,haskell,5572,4,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-05-06,haskell,3558,5,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-05-06,haskell,1,0,,imsut,starthaskell,https://github.com/imsut/starthaskell
+2024-05-06,haskell,3070,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2024-05-06,haskell,253,0,,haskell,ghcup-hs,https://github.com/haskell/ghcup-hs
+2024-05-06,haskell,571,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-05-06,haskell,3243,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-05-06,haskell,202,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-05-06,haskell,8468,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2024-05-06,haskell,745,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2024-05-06,haskell,2380,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-05-06,haskell,3021,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-05-06,haskell,1466,1,Easy dependency management for Nix projects,nmattia,niv,https://github.com/nmattia/niv
+2024-05-06,haskell,8863,0,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2024-05-06,haskell,165,0,,github,deli,https://github.com/github/deli
+2024-05-06,haskell,681,1,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-05-06,haskell,294,1,❇️ A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
