@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-07,haskell,2578,3,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-05-07,haskell,9756,12,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-05-07,haskell,5573,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-05-07,haskell,3560,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-05-07,haskell,3242,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-05-07,haskell,5319,4,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-05-07,haskell,32491,16,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-05-07,haskell,3,0,Persistent server version of ghc to speed up parallel compiles.,elaforge,ghc-server,https://github.com/elaforge/ghc-server
+2024-05-07,haskell,8468,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2024-05-07,haskell,3022,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-05-07,haskell,475,0,SystemVerilog to Verilog conversion,zachjs,sv2v,https://github.com/zachjs/sv2v
+2024-05-07,haskell,2379,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-05-07,haskell,294,0,❇️ A WebSocket JSON/RPC bridge for Cardano,CardanoSolutions,ogmios,https://github.com/CardanoSolutions/ogmios
+2024-05-07,haskell,589,0,A comprehensive Amazon Web Services SDK for Haskell.,brendanhay,amazonka,https://github.com/brendanhay/amazonka
+2024-05-07,haskell,202,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-05-07,haskell,1468,2,Easy dependency management for Nix projects,nmattia,niv,https://github.com/nmattia/niv
