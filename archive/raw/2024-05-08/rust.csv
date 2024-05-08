@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-08,rust,47194,131,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2024-05-08,rust,18068,25,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-05-08,rust,12353,53,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2024-05-08,rust,5126,18,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-05-08,rust,13703,21,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-05-08,rust,7167,23,"Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.",tracel-ai,burn,https://github.com/tracel-ai/burn
+2024-05-08,rust,745,2,,availproject,avail,https://github.com/availproject/avail
+2024-05-08,rust,16451,14,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2024-05-08,rust,12583,59,🤖 The Modern Port Scanner 🤖,RustScan,RustScan,https://github.com/RustScan/RustScan
+2024-05-08,rust,213,30,"A simple, decentralized mesh VPN with WireGuard support.",KKRainbow,EasyTier,https://github.com/KKRainbow/EasyTier
+2024-05-08,rust,77711,58,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-05-08,rust,10462,13,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-05-08,rust,6342,6,"SQL stream processing, analytics, and management. We decouple storage and compute to offer speedy bootstrapping, dynamic scaling, time-travel queries, and efficient joins.",risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2024-05-08,rust,31730,15,"A simple, fast and user-friendly alternative to 'find'",sharkdp,fd,https://github.com/sharkdp/fd
+2024-05-08,rust,22961,29,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用,tw93,Pake,https://github.com/tw93/Pake
+2024-05-08,rust,1611,8,The Rust OpenTelemetry implementation,open-telemetry,opentelemetry-rust,https://github.com/open-telemetry/opentelemetry-rust
+2024-05-08,rust,8969,12,⚓ A collection of JavaScript tools written in Rust.,oxc-project,oxc,https://github.com/oxc-project/oxc
+2024-05-08,rust,4625,16,Encoding and decoding images in Rust,image-rs,image,https://github.com/image-rs/image
+2024-05-08,rust,518,24,Open source single-machine version of the Convex backend,get-convex,convex-backend,https://github.com/get-convex/convex-backend
+2024-05-08,rust,2202,3,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2024-05-08,rust,430,5,Making parsing a breeze,winnow-rs,winnow,https://github.com/winnow-rs/winnow
+2024-05-08,rust,43496,17,"A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2024-05-08,rust,2810,7,An experimental Rust native UI framework,linebender,xilem,https://github.com/linebender/xilem
+2024-05-08,rust,16595,7,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-05-08,rust,23134,26,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
