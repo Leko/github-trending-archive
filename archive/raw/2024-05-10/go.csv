@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-10,go,7648,4,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-05-10,go,65223,353,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-05-10,go,4819,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-05-10,go,12756,7,Pure Go implementation of the WebRTC API,pion,webrtc,https://github.com/pion/webrtc
+2024-05-10,go,9068,6,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2024-05-10,go,8861,11,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2024-05-10,go,10354,3,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-05-10,go,22578,8,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-05-10,go,35573,17,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-05-10,go,80210,35,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-05-10,go,8429,4,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2024-05-10,go,16029,9,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",lionsoul2014,ip2region,https://github.com/lionsoul2014/ip2region
+2024-05-10,go,46278,17,Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-05-10,go,12818,6,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
+2024-05-10,go,1020,9,An opinionated Go framework for accelerated microservice development,gofr-dev,gofr,https://github.com/gofr-dev/gofr
+2024-05-10,go,13054,15,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-05-10,go,15653,13,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-05-10,go,21861,15,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-05-10,go,8028,10,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2024-05-10,go,119944,30,The Go programming language,golang,go,https://github.com/golang/go
+2024-05-10,go,11519,6,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-05-10,go,1829,5,基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！,Calcium-Ion,new-api,https://github.com/Calcium-Ion/new-api
+2024-05-10,go,790,4,OpenTelemetry Collector distribution with programmable pipelines,grafana,alloy,https://github.com/grafana/alloy
+2024-05-10,go,10334,4,⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing,Shopify,toxiproxy,https://github.com/Shopify/toxiproxy
+2024-05-10,go,5460,2,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,kubernetes-sigs,metrics-server,https://github.com/kubernetes-sigs/metrics-server
