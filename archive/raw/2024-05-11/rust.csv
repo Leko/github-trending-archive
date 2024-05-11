@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-11,rust,606,242,,sophiajt,june,https://github.com/sophiajt/june
+2024-05-11,rust,64310,312,"An open-source remote desktop, and alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-05-11,rust,33742,163,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
+2024-05-11,rust,93027,16,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2024-05-11,rust,2900,24,An experimental Rust native UI framework,linebender,xilem,https://github.com/linebender/xilem
+2024-05-11,rust,681,2,"A performant, 100% open-source, contributor-friendly zkVM.",succinctlabs,sp1,https://github.com/succinctlabs/sp1
+2024-05-11,rust,6363,4,"SQL stream processing, analytics, and management. We decouple storage and compute to offer speedy bootstrapping, dynamic scaling, time-travel queries, and efficient joins.",risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2024-05-11,rust,523,6,,HardhatChad,ore,https://github.com/HardhatChad/ore
+2024-05-11,rust,2938,6,zkSync era,matter-labs,zksync-era,https://github.com/matter-labs/zksync-era
+2024-05-11,rust,23086,50,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用,tw93,Pake,https://github.com/tw93/Pake
+2024-05-11,rust,8204,15,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2024-05-11,rust,12403,35,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",neondatabase,neon,https://github.com/neondatabase/neon
+2024-05-11,rust,15206,24,"Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",slint-ui,slint,https://github.com/slint-ui/slint
+2024-05-11,rust,14557,3,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-05-11,rust,3635,16,"A fast, friendly, functional language. Work in progress!",roc-lang,roc,https://github.com/roc-lang/roc
+2024-05-11,rust,5668,10,RustDesk Server Program,rustdesk,rustdesk-server,https://github.com/rustdesk/rustdesk-server
+2024-05-11,rust,23209,33,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2024-05-11,rust,25054,11,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2024-05-11,rust,5497,8,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2024-05-11,rust,2269,1,Reference client for NEAR Protocol,near,nearcore,https://github.com/near/nearcore
+2024-05-11,rust,4051,2,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2024-05-11,rust,6677,19,Educational blog posts for Rust beginners,pretzelhammer,rust-blog,https://github.com/pretzelhammer/rust-blog
+2024-05-11,rust,77810,42,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-05-11,rust,13890,10,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2024-05-11,rust,149,15,"A small utility for tracing execve{,at} and pre-exec behavior.",kxxt,tracexec,https://github.com/kxxt/tracexec

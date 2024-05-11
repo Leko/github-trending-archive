@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-11,go,13066,13,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-05-11,go,65508,305,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-05-11,go,52952,16,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-05-11,go,159,32,Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!,intigriti,misconfig-mapper,https://github.com/intigriti/misconfig-mapper
+2024-05-11,go,19364,6,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-05-11,go,4825,10,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-05-11,go,15657,13,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-05-11,go,2634,3,Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.,kubeflow,spark-operator,https://github.com/kubeflow/spark-operator
+2024-05-11,go,4005,5,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2024-05-11,go,337,31,"mactop - Apple Silicon Monitor Top written in pure Go Lang! Under 1,000 lines of code.",context-labs,mactop,https://github.com/context-labs/mactop
+2024-05-11,go,8872,16,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2024-05-11,go,20148,12,🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2024-05-11,go,75695,20,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-05-11,go,17370,16,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-05-11,go,2595,2,A BNB Smart Chain client based on the go-ethereum fork,bnb-chain,bsc,https://github.com/bnb-chain/bsc
+2024-05-11,go,7652,5,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-05-11,go,22123,9,Delve is a debugger for the Go programming language.,go-delve,delve,https://github.com/go-delve/delve
+2024-05-11,go,245,14,,aurora-develop,Duck2api,https://github.com/aurora-develop/Duck2api
+2024-05-11,go,6470,7,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2024-05-11,go,22782,5,HTTP load testing tool and library. It's over 9000!,tsenart,vegeta,https://github.com/tsenart/vegeta
+2024-05-11,go,7168,8,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-05-11,go,1507,5,"franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.",twmb,franz-go,https://github.com/twmb/franz-go
+2024-05-11,go,1987,7,free,aurora-develop,aurora,https://github.com/aurora-develop/aurora
+2024-05-11,go,6078,2,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2024-05-11,go,9183,4,Cross-platform filesystem notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
