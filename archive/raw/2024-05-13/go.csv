@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-13,go,1660,372,A self-hosted dashboard that puts all your feeds in one place,glanceapp,glance,https://github.com/glanceapp/glance
+2024-05-13,go,2353,381,Pretty fancy and modern terminal file manager,MHNightCat,superfile,https://github.com/MHNightCat/superfile
+2024-05-13,go,9723,18,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",jeessy2,ddns-go,https://github.com/jeessy2/ddns-go
+2024-05-13,go,23995,50,📂 Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2024-05-13,go,65984,216,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-05-13,go,36227,1,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
+2024-05-13,go,8067,12,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2024-05-13,go,7811,50,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-05-13,go,14086,23,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-05-13,go,29287,10,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2024-05-13,go,80323,26,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-05-13,go,8890,9,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2024-05-13,go,41296,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-05-13,go,4019,2,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2024-05-13,go,13255,9,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",apernet,hysteria,https://github.com/apernet/hysteria
+2024-05-13,go,6358,42,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",qdm12,gluetun,https://github.com/qdm12/gluetun
+2024-05-13,go,15227,4,"🔥 Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",snail007,goproxy,https://github.com/snail007/goproxy
+2024-05-13,go,22890,20,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-05-13,go,18671,53,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-05-13,go,7199,20,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-05-13,go,2816,5,代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。,deanxv,coze-discord-proxy,https://github.com/deanxv/coze-discord-proxy
+2024-05-13,go,27128,12,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-05-13,go,27617,24,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2024-05-13,go,19871,28,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2024-05-13,go,59822,26,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
