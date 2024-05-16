@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-16,go,3868,994,A self-hosted dashboard that puts all your feeds in one place,glanceapp,glance,https://github.com/glanceapp/glance
+2024-05-16,go,4131,11,A based rollup. 🥁,taikoxyz,taiko-mono,https://github.com/taikoxyz/taiko-mono
+2024-05-16,go,7504,92,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-05-16,go,8302,21,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2024-05-16,go,14703,5,Easy and Repeatable Kubernetes Development,GoogleContainerTools,skaffold,https://github.com/GoogleContainerTools/skaffold
+2024-05-16,go,7362,8,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2024-05-16,go,7660,2,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-05-16,go,8298,6,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2024-05-16,go,25557,31,👾 Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2024-05-16,go,2094,82,free,aurora-develop,aurora,https://github.com/aurora-develop/aurora
+2024-05-16,go,2433,37,Static checker for GitHub Actions workflow files,rhysd,actionlint,https://github.com/rhysd/actionlint
+2024-05-16,go,2664,6,Main repository for Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2024-05-16,go,14016,5,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2024-05-16,go,14373,6,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2024-05-16,go,3928,3,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-05-16,go,7662,19,Adversary Emulation Framework,BishopFox,sliver,https://github.com/BishopFox/sliver
+2024-05-16,go,10951,11,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-05-16,go,10110,7,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2024-05-16,go,35070,8,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2024-05-16,go,16305,10,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-05-16,go,3617,1,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-05-16,go,19384,7,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-05-16,go,19961,7,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-05-16,go,2612,4,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-05-16,go,267,1,"Links to Camunda Platform 8 resources, releases, and local development config",camunda,camunda-platform,https://github.com/camunda/camunda-platform
