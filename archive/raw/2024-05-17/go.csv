@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-17,go,4443,661,A self-hosted dashboard that puts all your feeds in one place,glanceapp,glance,https://github.com/glanceapp/glance
+2024-05-17,go,1008,240,"An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)",andydunstall,piko,https://github.com/andydunstall/piko
+2024-05-17,go,5978,33,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-05-17,go,2114,23,free,aurora-develop,aurora,https://github.com/aurora-develop/aurora
+2024-05-17,go,20926,46,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu
+2024-05-17,go,19968,8,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-05-17,go,14468,1,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2024-05-17,go,22646,8,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-05-17,go,10111,37,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2024-05-17,go,32540,17,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-05-17,go,216,41,Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it will support http and grpc protocols.,chapar-rest,chapar,https://github.com/chapar-rest/chapar
+2024-05-17,go,2419,3,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2024-05-17,go,9505,5,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-05-17,go,2871,28,k0s - The Zero Friction Kubernetes,k0sproject,k0s,https://github.com/k0sproject/k0s
+2024-05-17,go,53054,17,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-05-17,go,12006,1,🐠 Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2024-05-17,go,42296,26,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-05-17,go,12634,1,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2024-05-17,go,1398,2,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway,envoyproxy,gateway,https://github.com/envoyproxy/gateway
+2024-05-17,go,9672,3,go generate based graphql server library,99designs,gqlgen,https://github.com/99designs/gqlgen
+2024-05-17,go,8315,20,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2024-05-17,go,10393,3,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2024-05-17,go,17074,7,Dolt – Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2024-05-17,go,7052,3,A tool that facilitates building OCI images.,containers,buildah,https://github.com/containers/buildah
+2024-05-17,go,16812,15,Send push notifications to your phone or desktop using PUT/POST,binwiederhier,ntfy,https://github.com/binwiederhier/ntfy

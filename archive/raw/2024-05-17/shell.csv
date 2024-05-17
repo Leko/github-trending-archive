@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-17,shell,253,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2024-05-17,shell,23431,23,Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration),OpenBMB,ChatDev,https://github.com/OpenBMB/ChatDev
+2024-05-17,shell,695,1,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,aquasecurity,trivy-action,https://github.com/aquasecurity/trivy-action
+2024-05-17,shell,8936,1,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.,docker,docker-bench-security,https://github.com/docker/docker-bench-security
+2024-05-17,shell,18431,4,"OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",Nyr,openvpn-install,https://github.com/Nyr/openvpn-install
+2024-05-17,shell,21,1,A method of executing PPPwn through rooted LGTV's.,zauceee,PPLGPwn,https://github.com/zauceee/PPLGPwn
+2024-05-17,shell,2304,13,,yeahwu,v2ray-wss,https://github.com/yeahwu/v2ray-wss
+2024-05-17,shell,162,13,Exploit to root webOS TVs using DejaVuln and set up Homebrew Channel,throwaway96,dejavuln-autoroot,https://github.com/throwaway96/dejavuln-autoroot
+2024-05-17,shell,8406,3,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2024-05-17,shell,3521,2,Guia rápido do WSL2 + Docker,codeedu,wsl2-docker-quickstart,https://github.com/codeedu/wsl2-docker-quickstart
+2024-05-17,shell,4343,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-05-17,shell,76151,30,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-05-17,shell,169,0,,SonarSource,sonarqube-scan-action,https://github.com/SonarSource/sonarqube-scan-action
+2024-05-17,shell,1333,2,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2024-05-17,shell,20661,8,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-05-17,shell,7437,2,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-05-17,shell,2217,3,Official Zabbix Dockerfiles,zabbix,zabbix-docker,https://github.com/zabbix/zabbix-docker
+2024-05-17,shell,1255,2,Collection of Alacritty color schemes,alacritty,alacritty-theme,https://github.com/alacritty/alacritty-theme
+2024-05-17,shell,865,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2024-05-17,shell,36831,25,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2024-05-17,shell,2894,0,"Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.",Security-Onion-Solutions,securityonion,https://github.com/Security-Onion-Solutions/securityonion
+2024-05-17,shell,979,0,Installation script to deploy standard software on Macs,Installomator,Installomator,https://github.com/Installomator/Installomator
+2024-05-17,shell,169367,36,"🙃 A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2024-05-17,shell,12588,6,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
+2024-05-17,shell,5281,0,reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities,six2dez,reconftw,https://github.com/six2dez/reconftw
