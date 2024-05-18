@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-18,scala,6959,6,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-05-18,scala,5692,3,"The Scala 3 compiler, also known as Dotty.",scala,scala3,https://github.com/scala/scala3
+2024-05-18,scala,12936,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2024-05-18,scala,4757,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2024-05-18,scala,3748,2,Chisel: A Modern Hardware Design Language,chipsalliance,chisel,https://github.com/chipsalliance/chisel
+2024-05-18,scala,61491,6,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2024-05-18,scala,38526,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-05-18,scala,14678,1,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2024-05-18,scala,631,6,Chronon is a data platform for serving for AI/ML applications.,airbnb,chronon,https://github.com/airbnb/chronon
+2024-05-18,scala,6751,0,"The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",snowplow,snowplow,https://github.com/snowplow/snowplow
+2024-05-18,scala,739,0,"A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",zio,zio-http,https://github.com/zio/zio-http
+2024-05-18,scala,441,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2024-05-18,scala,1014,2,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-05-18,scala,3995,2,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2024-05-18,scala,57,0,A Github Action to submit the dependency graph of an sbt build to the Dependency Submission API,scalacenter,sbt-dependency-submission,https://github.com/scalacenter/sbt-dependency-submission
+2024-05-18,scala,684,1,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-05-18,scala,1160,3,Scala plugin for IntelliJ IDEA,JetBrains,intellij-scala,https://github.com/JetBrains/intellij-scala
+2024-05-18,scala,4982,1,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2024-05-18,scala,1443,2,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",ucb-bar,chipyard,https://github.com/ucb-bar/chipyard
+2024-05-18,scala,3028,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2024-05-18,scala,728,1,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2024-05-18,scala,14,0,,rockthejvm,scalatags-htmx-demo,https://github.com/rockthejvm/scalatags-htmx-demo
+2024-05-18,scala,10715,2,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2024-05-18,scala,11678,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2024-05-18,scala,2026,0,Scala language server with rich IDE features 🚀,scalameta,metals,https://github.com/scalameta/metals

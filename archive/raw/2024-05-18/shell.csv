@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-18,shell,7441,3,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-05-18,shell,76174,26,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-05-18,shell,16661,3,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2024-05-18,shell,36851,23,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2024-05-18,shell,4665,2,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2024-05-18,shell,11472,7,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2024-05-18,shell,4941,16,"// Aesthetic, dynamic and minimal dots for Arch hyprland",prasanthrangan,hyprdots,https://github.com/prasanthrangan/hyprdots
+2024-05-18,shell,1664,2,🐳 Docker Image of NetBox,netbox-community,netbox-docker,https://github.com/netbox-community/netbox-docker
+2024-05-18,shell,1253,13,"Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwaresupport, Addons, guided (semi-automated) Installation and more. Multiple customization options are built-in. It is modified to run on different Hardware (Wiki for more Informations). Commercial use is not permitted and strictly forbidden!",AuxXxilium,arc,https://github.com/AuxXxilium/arc
+2024-05-18,shell,2406,62,🌻 Flexible and fast ZSH plugin manager,zdharma-continuum,zinit,https://github.com/zdharma-continuum/zinit
+2024-05-18,shell,10014,8,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2024-05-18,shell,2786,27,Replace zsh's default completion selection menu with fzf!,Aloxaf,fzf-tab,https://github.com/Aloxaf/fzf-tab
+2024-05-18,shell,166,5,Exploit to root webOS TVs using DejaVuln and set up Homebrew Channel,throwaway96,dejavuln-autoroot,https://github.com/throwaway96/dejavuln-autoroot
+2024-05-18,shell,2398,1,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2024-05-18,shell,24163,13,"Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",hwdsl2,setup-ipsec-vpn,https://github.com/hwdsl2/setup-ipsec-vpn
+2024-05-18,shell,169,0,,SonarSource,sonarqube-scan-action,https://github.com/SonarSource/sonarqube-scan-action
+2024-05-18,shell,12848,6,"Pretty, minimal and fast ZSH prompt",sindresorhus,pure,https://github.com/sindresorhus/pure
+2024-05-18,shell,1608,8,Ubuntu 22.04 and 24.04 for Rockchip RK35XX Devices,Joshua-Riek,ubuntu-rockchip,https://github.com/Joshua-Riek/ubuntu-rockchip
+2024-05-18,shell,11981,4,fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.,hq450,fancyss,https://github.com/hq450/fancyss
+2024-05-18,shell,6751,5,,BtbN,FFmpeg-Builds,https://github.com/BtbN/FFmpeg-Builds
+2024-05-18,shell,47773,18,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2024-05-18,shell,7347,7,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-05-18,shell,25400,1,Patched fonts for Powerline users.,powerline,fonts,https://github.com/powerline/fonts
+2024-05-18,shell,1333,1,A helm plugin that help manage secrets with Git workflow and store them anywhere,jkroepke,helm-secrets,https://github.com/jkroepke/helm-secrets
+2024-05-18,shell,12003,8,"Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.",angristan,openvpn-install,https://github.com/angristan/openvpn-install
