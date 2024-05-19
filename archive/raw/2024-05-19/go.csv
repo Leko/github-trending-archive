@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-19,go,122023,56,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-05-19,go,248,23,啥也不是,linux-do,override,https://github.com/linux-do/override
+2024-05-19,go,13909,5,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2024-05-19,go,17092,3,Dolt – Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2024-05-19,go,1474,4,Distributed ML Training and Fine-Tuning on Kubernetes,kubeflow,training-operator,https://github.com/kubeflow/training-operator
+2024-05-19,go,9209,2,Cross-platform filesystem notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2024-05-19,go,1229,56,"An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)",andydunstall,piko,https://github.com/andydunstall/piko
+2024-05-19,go,20244,6,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2024-05-19,go,1099,0,Firebase Admin Go SDK,firebase,firebase-admin-go,https://github.com/firebase/firebase-admin-go
+2024-05-19,go,14999,3,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2024-05-19,go,9558,8,A QUIC implementation in pure Go,quic-go,quic-go,https://github.com/quic-go/quic-go
+2024-05-19,go,11066,2,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2024-05-19,go,35642,8,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-05-19,go,3621,0,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-05-19,go,14968,7,"The lightweight, distributed relational database built on SQLite.",rqlite,rqlite,https://github.com/rqlite/rqlite
+2024-05-19,go,11873,6,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2024-05-19,go,5771,1,libp2p implementation in Go,libp2p,go-libp2p,https://github.com/libp2p/go-libp2p
+2024-05-19,go,22578,44,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2024-05-19,go,34225,1,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2024-05-19,go,7861,6,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-05-19,go,7303,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-05-19,go,5464,9,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-05-19,go,14935,1,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2024-05-19,go,37962,29,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-05-19,go,44,4,,initia-labs,initia,https://github.com/initia-labs/initia
