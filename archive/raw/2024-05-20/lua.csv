@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-20,lua,13358,109,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-05-20,lua,15508,28,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-05-20,lua,11939,24,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-05-20,lua,3186,5,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2024-05-20,lua,2950,2,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-05-20,lua,14247,16,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-05-20,lua,3424,8,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2024-05-20,lua,3819,7,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2024-05-20,lua,7206,8,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-05-20,lua,1064,4,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-05-20,lua,188,23,my nvim config,tjdevries,config.nvim,https://github.com/tjdevries/config.nvim
+2024-05-20,lua,3743,2,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-05-20,lua,9644,8,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-05-20,lua,3042,3,Snippet Engine for Neovim written in Lua.,L3MON4D3,LuaSnip,https://github.com/L3MON4D3/LuaSnip
+2024-05-20,lua,23165,14,"Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",NvChad,NvChad,https://github.com/NvChad/NvChad
+2024-05-20,lua,5913,2,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2024-05-20,lua,4820,7,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2024-05-20,lua,3395,7,"An interactive and powerful Git interface for Neovim, inspired by Magit",NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2024-05-20,lua,4886,6,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-05-20,lua,6010,2,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2024-05-20,lua,12001,14,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2024-05-20,lua,5271,11,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-05-20,lua,2045,6,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2024-05-20,lua,4532,4,💥 Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2024-05-20,lua,1238,0,The superior project management solution for neovim.,ahmedkhalf,project.nvim,https://github.com/ahmedkhalf/project.nvim
