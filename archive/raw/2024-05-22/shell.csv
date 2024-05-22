@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-22,shell,68,19,CVE-2024-32002 RCE PoC,safebuffer,CVE-2024-32002,https://github.com/safebuffer/CVE-2024-32002
+2024-05-22,shell,23514,16,Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration),OpenBMB,ChatDev,https://github.com/OpenBMB/ChatDev
+2024-05-22,shell,332,14,Script collection for linux,ggeorgovassilis,linuxscripts,https://github.com/ggeorgovassilis/linuxscripts
+2024-05-22,shell,25928,9,"This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2024-05-22,shell,1667,2,🐳 Docker Image of NetBox,netbox-community,netbox-docker,https://github.com/netbox-community/netbox-docker
+2024-05-22,shell,7364,5,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-05-22,shell,26129,4,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2024-05-22,shell,1628,6,Ubuntu 22.04 and 24.04 for Rockchip RK35XX Devices,Joshua-Riek,ubuntu-rockchip,https://github.com/Joshua-Riek/ubuntu-rockchip
+2024-05-22,shell,76233,20,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-05-22,shell,86,50,Exploit PoC for CVE-2024-32002,amalmurali47,git_rce,https://github.com/amalmurali47/git_rce
+2024-05-22,shell,780,155,[Experimental] Open-source GeForce NOW alternative with Stadia's social features,netrisdotme,netris,https://github.com/netrisdotme/netris
+2024-05-22,shell,5281,12,"Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",hiddify,Hiddify-Manager,https://github.com/hiddify/Hiddify-Manager
+2024-05-22,shell,10474,28,Proxmox VE Helper-Scripts,tteck,Proxmox,https://github.com/tteck/Proxmox
+2024-05-22,shell,11484,7,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2024-05-22,shell,30,1,,QUICK-GCP-LAB,2-Minutes-Labs-Solutions,https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions
+2024-05-22,shell,809,14,"An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",h4r5h1t,webcopilot,https://github.com/h4r5h1t/webcopilot
+2024-05-22,shell,251,9,密探渗透测试工具包含域名查询，搜索语法，资产测绘（FOFA，Hunter，quake），指纹识别，敏感信息采集，文件扫描、密码字典等功能,kkbo8005,mitan,https://github.com/kkbo8005/mitan
+2024-05-22,shell,15,1,"工具可以实现代理池的搭建利用手机可以一直切ip,把手机（使用流量，不是wifi）作为类似拨号服务器,可以在我们需要过ip风控(利用手机切ip)的时候使用",2833844911,IPserver,https://github.com/2833844911/IPserver
+2024-05-22,shell,84131,37,Papers from the computer science community to read and discuss.,papers-we-love,papers-we-love,https://github.com/papers-we-love/papers-we-love
+2024-05-22,shell,13484,6,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2024-05-22,shell,1385,5,💽 Soothing pastel theme for Tmux!,catppuccin,tmux,https://github.com/catppuccin/tmux
+2024-05-22,shell,7600,8,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-05-22,shell,287,2,"Call of Duty: Zombies demake, powered by various Quake sourceports. https://docs.nzp.gay/",nzp-team,nzportable,https://github.com/nzp-team/nzportable
+2024-05-22,shell,1225,3,🐦 Unofficial installation scripts for Pterodactyl Panel,pterodactyl-installer,pterodactyl-installer,https://github.com/pterodactyl-installer/pterodactyl-installer
+2024-05-22,shell,8509,8,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
