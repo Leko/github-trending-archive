@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-23,go,10412,10,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-05-23,go,68431,297,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-05-23,go,4864,7,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-05-23,go,3536,13,"CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2024-05-23,go,11596,8,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",apache,incubator-answer,https://github.com/apache/incubator-answer
+2024-05-23,go,8892,5,The Cloud Native Control Plane,crossplane,crossplane,https://github.com/crossplane/crossplane
+2024-05-23,go,35137,28,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2024-05-23,go,7542,4,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-05-23,go,43938,11,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2024-05-23,go,22206,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-05-23,go,28496,7,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2024-05-23,go,24149,9,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-05-23,go,2084,0,Go implementation of an Avalanche node.,ava-labs,avalanchego,https://github.com/ava-labs/avalanchego
+2024-05-23,go,2626,3,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-05-23,go,8680,5,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-05-23,go,6154,3,Provides packet processing capabilities for Go,google,gopacket,https://github.com/google/gopacket
+2024-05-23,go,7680,2,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-05-23,go,6513,7,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2024-05-23,go,17488,6,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-05-23,go,7720,3,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2024-05-23,go,7038,5,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2024-05-23,go,23600,13,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-05-23,go,4141,3,Code signing and transparency for containers and binaries,sigstore,cosign,https://github.com/sigstore/cosign
+2024-05-23,go,10609,5,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2024-05-23,go,29804,7,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
