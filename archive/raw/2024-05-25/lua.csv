@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-25,lua,202,27,Tiny plugin to enhance Neovim's native comments,folke,ts-comments.nvim,https://github.com/folke/ts-comments.nvim
+2024-05-25,lua,119,7,Snippet support using native neovim snippets,garymjr,nvim-snippets,https://github.com/garymjr/nvim-snippets
+2024-05-25,lua,37729,9,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-05-25,lua,13775,6,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2024-05-25,lua,3761,5,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-05-25,lua,2336,5,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-05-25,lua,971,9,A Neovim plugin helping you establish good command workflow and quit bad habit,m4xshen,hardtime.nvim,https://github.com/m4xshen/hardtime.nvim
+2024-05-25,lua,242,13,💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.,tris203,precognition.nvim,https://github.com/tris203/precognition.nvim
+2024-05-25,lua,238,3,Garbage collector that stops inactive LSP clients to free RAM,Zeioth,garbage-day.nvim,https://github.com/Zeioth/garbage-day.nvim
+2024-05-25,lua,5509,9,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2024-05-25,lua,15447,9,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-05-25,lua,3345,2,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-05-25,lua,4496,7,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2024-05-25,lua,14318,15,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-05-25,lua,2967,1,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-05-25,lua,1735,4,Set of preconfigured snippets for different languages.,rafamadriz,friendly-snippets,https://github.com/rafamadriz/friendly-snippets
+2024-05-25,lua,324,1,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-05-25,lua,418,4,"This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed",shellRaining,hlchunk.nvim,https://github.com/shellRaining/hlchunk.nvim
+2024-05-25,lua,2334,6,Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot,zbirenbaum,copilot.lua,https://github.com/zbirenbaum/copilot.lua
+2024-05-25,lua,276,0,Automagical editing and creation of snippets.,chrisgrieser,nvim-scissors,https://github.com/chrisgrieser/nvim-scissors
+2024-05-25,lua,3161,4,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2024-05-25,lua,1634,1,Neovim plugin to improve the default vim.ui interfaces,stevearc,dressing.nvim,https://github.com/stevearc/dressing.nvim
+2024-05-25,lua,13651,36,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-05-25,lua,2807,3,"✅ Highlight, list and search todo comments in your projects",folke,todo-comments.nvim,https://github.com/folke/todo-comments.nvim
+2024-05-25,lua,1659,6,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
