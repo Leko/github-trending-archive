@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-26,go,69109,186,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-05-26,go,19221,48,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-05-26,go,13845,6,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-05-26,go,3820,1,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-05-26,go,8948,59,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",casdoor,casdoor,https://github.com/casdoor/casdoor
+2024-05-26,go,3113,43,代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。,deanxv,coze-discord-proxy,https://github.com/deanxv/coze-discord-proxy
+2024-05-26,go,13191,11,Deliver Go binaries as fast and easily as possible,goreleaser,goreleaser,https://github.com/goreleaser/goreleaser
+2024-05-26,go,4189,3,Community managed domain list. Generate geosite.dat for V2Ray.,v2fly,domain-list-community,https://github.com/v2fly/domain-list-community
+2024-05-26,go,21655,7,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-05-26,go,281,4,Mirror of Quilibrium git repo: ceremonyclient,QuilibriumNetwork,ceremonyclient,https://github.com/QuilibriumNetwork/ceremonyclient
+2024-05-26,go,14214,7,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-05-26,go,19418,2,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-05-26,go,21160,9,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,valyala,fasthttp,https://github.com/valyala/fasthttp
+2024-05-26,go,10414,6,Application Delivery as Code that Runs Anywhere,dagger,dagger,https://github.com/dagger/dagger
+2024-05-26,go,13180,5,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-05-26,go,7075,1,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-05-26,go,9618,2,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-05-26,go,114,24,Deploy and manage confidential containers on Kubernetes,edgelesssys,contrast,https://github.com/edgelesssys/contrast
+2024-05-26,go,33058,21,AI-Powered Photos App for the Decentralized Web 🌈💎✨,photoprism,photoprism,https://github.com/photoprism/photoprism
+2024-05-26,go,1860,11,「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！,mao888,golang-guide,https://github.com/mao888/golang-guide
+2024-05-26,go,20007,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-05-26,go,21353,3,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-05-26,go,100,2,Game server backend and API for PokéRogue,pagefaultgames,rogueserver,https://github.com/pagefaultgames/rogueserver
+2024-05-26,go,16479,5,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-05-26,go,36298,4,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",pingcap,tidb,https://github.com/pingcap/tidb
