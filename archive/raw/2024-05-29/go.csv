@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-29,go,3273,23,SQL-first Golang ORM,uptrace,bun,https://github.com/uptrace/bun
+2024-05-29,go,75996,18,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-05-29,go,34425,92,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2024-05-29,go,344,7,Mirror of Quilibrium git repo: ceremonyclient,QuilibriumNetwork,ceremonyclient,https://github.com/QuilibriumNetwork/ceremonyclient
+2024-05-29,go,11049,13,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-05-29,go,15783,4,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-05-29,go,5941,18,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2024-05-29,go,24303,21,📂 Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2024-05-29,go,2725,1,Samples for Hyperledger Fabric,hyperledger,fabric-samples,https://github.com/hyperledger/fabric-samples
+2024-05-29,go,18836,31,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-05-29,go,44738,26,The Object Store for AI Data Infrastructure,minio,minio,https://github.com/minio/minio
+2024-05-29,go,1547,26,"An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)",andydunstall,piko,https://github.com/andydunstall/piko
+2024-05-29,go,6009,5,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-05-29,go,8335,2,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2024-05-29,go,8491,7,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2024-05-29,go,8516,11,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2024-05-29,go,22378,13,Elegant Scraper and Crawler Framework for Golang,gocolly,colly,https://github.com/gocolly/colly
+2024-05-29,go,2550,3,Open source authorization service inspired by Google Zanzibar to build fine-grained and scalable authorization systems.,Permify,permify,https://github.com/Permify/permify
+2024-05-29,go,17014,7,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",casbin,casbin,https://github.com/casbin/casbin
+2024-05-29,go,10774,6,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2024-05-29,go,6544,8,Community maintained clone of https://github.com/dgrijalva/jwt-go,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2024-05-29,go,8791,3,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,bxcodec,go-clean-arch,https://github.com/bxcodec/go-clean-arch
+2024-05-29,go,27851,11,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2024-05-29,go,16158,9,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",lionsoul2014,ip2region,https://github.com/lionsoul2014/ip2region
+2024-05-29,go,14238,12,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
