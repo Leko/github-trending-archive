@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-05-30,go,18880,12,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-05-30,go,10342,22,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-05-30,go,14420,3,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2024-05-30,go,8403,57,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2024-05-30,go,10264,16,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2024-05-30,go,44764,27,The Object Store for AI Data Infrastructure,minio,minio,https://github.com/minio/minio
+2024-05-30,go,9120,21,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2024-05-30,go,4052,107,Pretty fancy and modern terminal file manager,yorukot,superfile,https://github.com/yorukot/superfile
+2024-05-30,go,20022,1,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-05-30,go,26144,5,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-05-30,go,19438,8,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-05-30,go,5562,1,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2024-05-30,go,15464,4,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2024-05-30,go,5953,16,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2024-05-30,go,53254,26,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-05-30,go,60241,27,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2024-05-30,go,7643,11,"Instant, easy, and predictable development environments",jetify-com,devbox,https://github.com/jetify-com/devbox
+2024-05-30,go,107508,22,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-05-30,go,5200,2,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-05-30,go,2984,1,Ethereum implementation on the efficiency frontier,ledgerwatch,erigon,https://github.com/ledgerwatch/erigon
+2024-05-30,go,12669,6,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2024-05-30,go,23639,6,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-05-30,go,15331,6,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
+2024-05-30,go,11995,1,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2024-05-30,go,5580,10,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
