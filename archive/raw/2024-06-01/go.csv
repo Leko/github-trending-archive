@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-01,go,7815,30,Fancy stream processing made operationally mundane,redpanda-data,connect,https://github.com/redpanda-data/connect
+2024-06-01,go,2423,47,Go-blueprint allows users to spin up a quick Go project using a popular framework,Melkeydev,go-blueprint,https://github.com/Melkeydev/go-blueprint
+2024-06-01,go,26155,4,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-06-01,go,9528,2,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-06-01,go,2295,102,A Golang framework for web artisans. Tribute to Laravel.,goravel,goravel,https://github.com/goravel/goravel
+2024-06-01,go,3780,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2024-06-01,go,1701,9,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
+2024-06-01,go,5596,6,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2024-06-01,go,13951,4,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2024-06-01,go,41415,12,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-06-01,go,11934,5,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2024-06-01,go,7690,1,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-06-01,go,67896,8,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-06-01,go,22278,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-06-01,go,24131,23,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2024-06-01,go,22722,5,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-06-01,go,32655,8,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-06-01,go,22061,11,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-06-01,go,6137,65,🧟 The modern PHP app server,dunglas,frankenphp,https://github.com/dunglas/frankenphp
+2024-06-01,go,15433,8,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-06-01,go,21486,5,A Go microservices framework,go-micro,go-micro,https://github.com/go-micro/go-micro
+2024-06-01,go,12000,3,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2024-06-01,go,29305,4,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2024-06-01,go,80955,49,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-06-01,go,70513,241,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama

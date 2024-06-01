@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-01,python,948,337,"V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.",tencent-ailab,V-Express,https://github.com/tencent-ailab/V-Express
+2024-06-01,python,13540,780,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-06-01,python,7686,130,"OCR, layout analysis, reading order, line detection in 90+ languages",VikParuchuri,surya,https://github.com/VikParuchuri/surya
+2024-06-01,python,17565,22,Open source platform for the machine learning lifecycle,mlflow,mlflow,https://github.com/mlflow/mlflow
+2024-06-01,python,971,362,MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation,TMElyralab,MusePose,https://github.com/TMElyralab/MusePose
+2024-06-01,python,2214,50,"RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",truefoundry,cognita,https://github.com/truefoundry/cognita
+2024-06-01,python,6929,94,A modern Python package and dependency manager supporting the latest PEP standards,pdm-project,pdm,https://github.com/pdm-project/pdm
+2024-06-01,python,3645,28,GUI-focused roop,Hillobar,Rope,https://github.com/Hillobar/Rope
+2024-06-01,python,456,61,A SOTA vision model built on top of llama3 8B.,mustafaaljadery,llama3v,https://github.com/mustafaaljadery/llama3v
+2024-06-01,python,8580,85,RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.,infiniflow,ragflow,https://github.com/infiniflow/ragflow
+2024-06-01,python,18030,110,"🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",PostHog,posthog,https://github.com/PostHog/posthog
+2024-06-01,python,7438,14,The authentication glue you need.,goauthentik,authentik,https://github.com/goauthentik/authentik
+2024-06-01,python,7552,31,🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.,vanna-ai,vanna,https://github.com/vanna-ai/vanna
+2024-06-01,python,8395,7,🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.,wandb,wandb,https://github.com/wandb/wandb
+2024-06-01,python,1098,88,"Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",Shubhamsaboo,awesome-llm-apps,https://github.com/Shubhamsaboo/awesome-llm-apps
+2024-06-01,python,6227,46,Structured Text Generation,outlines-dev,outlines,https://github.com/outlines-dev/outlines
+2024-06-01,python,11378,27,"Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.",Sinaptik-AI,pandas-ai,https://github.com/Sinaptik-AI/pandas-ai
+2024-06-01,python,847,46,RAG AutoML Tool - Find optimal RAG pipeline for your own data.,Marker-Inc-Korea,AutoRAG,https://github.com/Marker-Inc-Korea/AutoRAG
+2024-06-01,python,6206,249,A curated list of practical financial machine learning tools and applications.,firmai,financial-machine-learning,https://github.com/firmai/financial-machine-learning
+2024-06-01,python,32251,50,LlamaIndex is a data framework for your LLM applications,run-llama,llama_index,https://github.com/run-llama/llama_index
+2024-06-01,python,234,75,We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.,bin123apple,AutoCoder,https://github.com/bin123apple/AutoCoder
+2024-06-01,python,15080,119,"Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines",PrefectHQ,prefect,https://github.com/PrefectHQ/prefect
+2024-06-01,python,9432,131,Convert PDF to markdown quickly with high accuracy,VikParuchuri,marker,https://github.com/VikParuchuri/marker
+2024-06-01,python,63,2,"微信sqlite解密 | 从内存中快速搜索指定数据。获取基址+偏移量与特征，从而达到微信版本每次更新不需要重新查找地址。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。解密微信sqlite数据库中存放的历史消息记录",adysec,wechat_sqlite,https://github.com/adysec/wechat_sqlite
+2024-06-01,python,597,34,⚡FlashRAG: A Python Toolkit for Efficient RAG Research,RUC-NLPIR,FlashRAG,https://github.com/RUC-NLPIR/FlashRAG
