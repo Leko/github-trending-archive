@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-04,lua,12282,33,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-06-04,lua,3067,13,Obsidian 🤝 Neovim,epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2024-06-04,lua,15964,27,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-06-04,lua,2392,10,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-06-04,lua,2504,2,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-06-04,lua,4951,19,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2024-06-04,lua,3125,5,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2024-06-04,lua,4209,11,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-06-04,lua,5275,3,📚 A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch
+2024-06-04,lua,7041,10,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2024-06-04,lua,13909,34,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-06-04,lua,7595,17,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-06-04,lua,2013,2,"💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",folke,neodev.nvim,https://github.com/folke/neodev.nvim
+2024-06-04,lua,9784,13,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-06-04,lua,1651,2,Neovim plugin to improve the default vim.ui interfaces,stevearc,dressing.nvim,https://github.com/stevearc/dressing.nvim
+2024-06-04,lua,1439,10,A code editor made with Godot. Code has never been more lit!,face-hh,griddycode,https://github.com/face-hh/griddycode
+2024-06-04,lua,15538,8,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-06-04,lua,153,15,The official Neovim plugin for Supermaven,supermaven-inc,supermaven-nvim,https://github.com/supermaven-inc/supermaven-nvim
+2024-06-04,lua,3299,0,improve neovim lsp experience,nvimdev,lspsaga.nvim,https://github.com/nvimdev/lspsaga.nvim
+2024-06-04,lua,941,3,A task runner and job management plugin for Neovim,stevearc,overseer.nvim,https://github.com/stevearc/overseer.nvim
+2024-06-04,lua,654,5,My dotfiles synced form localhost and remote machines,omerxx,dotfiles,https://github.com/omerxx/dotfiles
+2024-06-04,lua,1462,1,Use treesitter to auto close and auto rename html tag,windwp,nvim-ts-autotag,https://github.com/windwp/nvim-ts-autotag
+2024-06-04,lua,27243,5,Image Super-Resolution for Anime-Style Art,nagadomi,waifu2x,https://github.com/nagadomi/waifu2x
+2024-06-04,lua,4960,7,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-06-04,lua,128,6,Find And Replace plugin for neovim,MagicDuck,grug-far.nvim,https://github.com/MagicDuck/grug-far.nvim
