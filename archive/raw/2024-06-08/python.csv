@@ -1,0 +1,15 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-08,python,1724,73,Generative models for conditional audio generation,Stability-AI,stable-audio-tools,https://github.com/Stability-AI/stable-audio-tools
+2024-06-08,python,1123,345,,google,mesop,https://github.com/google/mesop
+2024-06-08,python,10862,111,Mamba SSM architecture,state-spaces,mamba,https://github.com/state-spaces/mamba
+2024-06-08,python,26916,65,基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。,zhayujie,chatgpt-on-wechat,https://github.com/zhayujie/chatgpt-on-wechat
+2024-06-08,python,7491,53,"Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",Lightning-AI,litgpt,https://github.com/Lightning-AI/litgpt
+2024-06-08,python,10507,8,"An orchestration platform for the development, production, and observation of data assets.",dagster-io,dagster,https://github.com/dagster-io/dagster
+2024-06-08,python,6656,269,MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone,OpenBMB,MiniCPM-V,https://github.com/OpenBMB/MiniCPM-V
+2024-06-08,python,29898,80,提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手,LC044,WeChatMsg,https://github.com/LC044/WeChatMsg
+2024-06-08,python,505,8,Build real-time multimodal AI applications 🤖🎙️📹,livekit,agents,https://github.com/livekit/agents
+2024-06-08,python,4961,1,Some out-of-the-box hooks for pre-commit,pre-commit,pre-commit-hooks,https://github.com/pre-commit/pre-commit-hooks
+2024-06-08,python,86779,90,🦜🔗 Build context-aware reasoning applications,langchain-ai,langchain,https://github.com/langchain-ai/langchain
+2024-06-08,python,1279,19,Unified framework for robot learning built on NVIDIA Isaac Sim,isaac-sim,IsaacLab,https://github.com/isaac-sim/IsaacLab
+2024-06-08,python,5575,42,Play ChatGPT and other LLM with Xiaomi AI Speaker,yihong0618,xiaogpt,https://github.com/yihong0618/xiaogpt
+2024-06-08,python,487,15,"Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.",mategol,PySilon-malware,https://github.com/mategol/PySilon-malware

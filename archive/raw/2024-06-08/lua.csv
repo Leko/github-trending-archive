@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-08,lua,14100,65,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-06-08,lua,2414,7,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-06-08,lua,38052,16,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-06-08,lua,4622,11,💥 Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.,folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2024-06-08,lua,3168,11,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2024-06-08,lua,7665,7,"A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",wbthomason,packer.nvim,https://github.com/wbthomason/packer.nvim
+2024-06-08,lua,2060,2,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest
+2024-06-08,lua,16068,31,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-06-08,lua,3129,2,LuaRocks is the package manager for the Lua programming language.,luarocks,luarocks,https://github.com/luarocks/luarocks
+2024-06-08,lua,1448,2,UI Component Library for Neovim.,MunifTanjim,nui.nvim,https://github.com/MunifTanjim/nui.nvim
+2024-06-08,lua,2095,1,"Not UFO in the sky, but an ultra fold in Neovim.",kevinhwang91,nvim-ufo,https://github.com/kevinhwang91/nvim-ufo
+2024-06-08,lua,3486,5,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2024-06-08,lua,1236,0,Plugin for calling lazygit from within neovim.,kdheepak,lazygit.nvim,https://github.com/kdheepak/lazygit.nvim
+2024-06-08,lua,3350,1,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-06-08,lua,13847,6,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2024-06-08,lua,2529,4,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-06-08,lua,785,1,A neovim plugin that helps managing crates.io dependencies,Saecki,crates.nvim,https://github.com/Saecki/crates.nvim
+2024-06-08,lua,75,1,Live Editor for FC 24,xAranaktu,FC-24-Live-Editor,https://github.com/xAranaktu/FC-24-Live-Editor
+2024-06-08,lua,1200,6,A better annotation generator. Supports multiple languages and annotation conventions.,danymat,neogen,https://github.com/danymat/neogen
+2024-06-08,lua,378,0,User Interface replacement AddOn for World of Warcraft.,tukui-org,ElvUI,https://github.com/tukui-org/ElvUI
