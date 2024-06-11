@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-11,rust,33107,24,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2024-06-11,rust,1965,44,Blazingly fast LLM inference.,EricLBuehler,mistral.rs,https://github.com/EricLBuehler/mistral.rs
+2024-06-11,rust,94150,28,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2024-06-11,rust,4709,15,"It's sudo, for Windows",microsoft,sudo,https://github.com/microsoft/sudo
+2024-06-11,rust,41752,31,"☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2024-06-11,rust,14687,8,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2024-06-11,rust,19944,9,"A library for building fast, reliable and evolvable network services.",cloudflare,pingora,https://github.com/cloudflare/pingora
+2024-06-11,rust,16945,12,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2024-06-11,rust,53986,56,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2024-06-11,rust,25873,11,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2024-06-11,rust,47231,19,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2024-06-11,rust,20389,8,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2024-06-11,rust,18008,24,Self-hosted AI coding assistant,TabbyML,tabby,https://github.com/TabbyML/tabby
+2024-06-11,rust,14570,19,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2024-06-11,rust,62983,7,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2024-06-11,rust,51232,35,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2024-06-11,rust,8157,28,"A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",rapiz1,rathole,https://github.com/rapiz1/rathole
+2024-06-11,rust,3440,22,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",lancedb,lance,https://github.com/lancedb/lance
+2024-06-11,rust,14567,16,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",0x192,universal-android-debloater,https://github.com/0x192/universal-android-debloater
+2024-06-11,rust,7974,5,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2024-06-11,rust,16967,13,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2024-06-11,rust,1919,9,A Solution to your Wayland Wallpaper Woes,LGFae,swww,https://github.com/LGFae/swww
