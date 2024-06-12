@@ -1,0 +1,16 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-12,haskell,32930,18,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-06-12,haskell,1574,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-06-12,haskell,3033,2,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-06-12,haskell,9984,6,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-06-12,haskell,22567,8,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-06-12,haskell,35341,13,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-06-12,haskell,3655,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-06-12,haskell,577,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-06-12,haskell,204,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-06-12,haskell,2593,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-06-12,haskell,716,0,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-06-12,haskell,3944,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-06-12,haskell,267,0,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
+2024-06-12,haskell,263,0,Implementation of the Hydra Head protocol,input-output-hk,hydra,https://github.com/input-output-hk/hydra
+2024-06-12,haskell,3274,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
