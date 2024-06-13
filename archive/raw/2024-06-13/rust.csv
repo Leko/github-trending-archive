@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-13,rust,10828,54,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-06-13,rust,2315,182,Blazingly fast LLM inference.,EricLBuehler,mistral.rs,https://github.com/EricLBuehler/mistral.rs
+2024-06-13,rust,8418,157,"A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",rapiz1,rathole,https://github.com/rapiz1/rathole
+2024-06-13,rust,3062,11,zkSync era,matter-labs,zksync-era,https://github.com/matter-labs/zksync-era
+2024-06-13,rust,5362,19,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-06-13,rust,5054,2,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-06-13,rust,18341,26,✨ Magical shell history,atuinsh,atuin,https://github.com/atuinsh/atuin
+2024-06-13,rust,598,2,Apache DataFusion Comet Spark Accelerator,apache,datafusion-comet,https://github.com/apache/datafusion-comet
+2024-06-13,rust,25900,14,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2024-06-13,rust,14090,14,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-06-13,rust,4673,18,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2024-06-13,rust,35995,77,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
+2024-06-13,rust,27114,37,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-06-13,rust,4462,17,Postgres for Search and Analytics,paradedb,paradedb,https://github.com/paradedb/paradedb
+2024-06-13,rust,10022,26,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2024-06-13,rust,62992,7,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2024-06-13,rust,424,79,The Nexus zkVM: The zero-knowledge virtual machine,nexus-xyz,nexus-zkvm,https://github.com/nexus-xyz/nexus-zkvm
+2024-06-13,rust,14718,7,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2024-06-13,rust,2159,9,A blazing fast inference solution for text embeddings models,huggingface,text-embeddings-inference,https://github.com/huggingface/text-embeddings-inference
+2024-06-13,rust,1914,3,"A native Rust library for Delta Lake, with bindings into Python",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2024-06-13,rust,5816,1,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2024-06-13,rust,12195,10,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",launchbadge,sqlx,https://github.com/launchbadge/sqlx

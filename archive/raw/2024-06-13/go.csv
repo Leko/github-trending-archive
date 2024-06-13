@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-13,go,2788,5,Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.,gardener,gardener,https://github.com/gardener/gardener
+2024-06-13,go,7967,16,Golang implementation of the Raft consensus protocol,hashicorp,raft,https://github.com/hashicorp/raft
+2024-06-13,go,22822,19,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-06-13,go,22690,10,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-06-13,go,6388,3,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2024-06-13,go,15440,15,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
+2024-06-13,go,110,21,CRProxy (Container Registry Proxy),wzshiming,crproxy,https://github.com/wzshiming/crproxy
+2024-06-13,go,13987,8,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2024-06-13,go,38855,40,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-06-13,go,13749,8,"A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다. Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.",xtaci,kcptun,https://github.com/xtaci/kcptun
+2024-06-13,go,3642,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-06-13,go,10483,14,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-06-13,go,7440,7,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2024-06-13,go,123440,64,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-06-13,go,8782,34,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2024-06-13,go,11135,3,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-06-13,go,21845,22,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-06-13,go,19722,7,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2024-06-13,go,36538,15,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-06-13,go,2459,3,Docker-based local PHP+Node.js web development environments,ddev,ddev,https://github.com/ddev/ddev
+2024-06-13,go,27740,31,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-06-13,go,8927,15,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2024-06-13,go,22586,7,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-06-13,go,11080,14,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
