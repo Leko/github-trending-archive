@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-14,go,10994,11,基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2024-06-14,go,4016,4,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-06-14,go,107843,33,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-06-14,go,9256,2,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2024-06-14,go,643,1,A virtual file system adapter for Azure Blob storage,Azure,azure-storage-fuse,https://github.com/Azure/azure-storage-fuse
+2024-06-14,go,134,25,CRProxy (Container Registry Proxy),wzshiming,crproxy,https://github.com/wzshiming/crproxy
+2024-06-14,go,22590,4,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-06-14,go,9964,5,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2024-06-14,go,22360,15,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-06-14,go,5807,5,libp2p implementation in Go,libp2p,go-libp2p,https://github.com/libp2p/go-libp2p
+2024-06-14,go,26220,7,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-06-14,go,32780,19,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-06-14,go,4392,20,"Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.",coroot,coroot,https://github.com/coroot/coroot
+2024-06-14,go,7977,14,Golang implementation of the Raft consensus protocol,hashicorp,raft,https://github.com/hashicorp/raft
+2024-06-14,go,20427,12,🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2024-06-14,go,35871,14,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-06-14,go,22696,7,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-06-14,go,15883,8,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-06-14,go,22835,17,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-06-14,go,27750,14,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-06-14,go,12686,2,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2024-06-14,go,15457,21,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
+2024-06-14,go,15723,15,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2024-06-14,go,5217,4,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2024-06-14,go,15863,6,An IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
