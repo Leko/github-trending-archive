@@ -1,0 +1,11 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-15,haskell,35358,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-06-15,haskell,22589,13,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-06-15,haskell,204,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-06-15,haskell,2597,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-06-15,haskell,5622,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-06-15,haskell,9991,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-06-15,haskell,246,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-06-15,haskell,3032,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-06-15,haskell,27,0,An llvm pretty printer inspired by the haskell llvm binding,GaloisInc,llvm-pretty,https://github.com/GaloisInc/llvm-pretty
+2024-06-15,haskell,3279,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad

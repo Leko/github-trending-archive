@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-15,r,2158,0,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2024-06-15,r,296,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2024-06-15,r,603,2,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2024-06-15,r,521,1,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2024-06-15,r,384,0,R package for performing 2-sample MR using MR-Base database,MRCIEU,TwoSampleMR,https://github.com/MRCIEU/TwoSampleMR
+2024-06-15,r,1247,0,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2024-06-15,r,929,0,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
+2024-06-15,r,958,0,📊 A universal enrichment tool for interpreting omics data,YuLab-SMU,clusterProfiler,https://github.com/YuLab-SMU/clusterProfiler
+2024-06-15,r,1246,1,brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan,paul-buerkner,brms,https://github.com/paul-buerkner/brms
+2024-06-15,r,315,0,,cole-trapnell-lab,monocle3,https://github.com/cole-trapnell-lab/monocle3
+2024-06-15,r,1092,1,'ggplot2' Based Publication Ready Plots,kassambara,ggpubr,https://github.com/kassambara/ggpubr
+2024-06-15,r,830,0,R Interface to Keras,rstudio,keras3,https://github.com/rstudio/keras3
+2024-06-15,r,1016,0,"RStan, the R interface to Stan",stan-dev,rstan,https://github.com/stan-dev/rstan
+2024-06-15,r,360,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2024-06-15,r,4683,4,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2024-06-15,r,114,0,Dataset distribution for Seurat,satijalab,seurat-data,https://github.com/satijalab/seurat-data
+2024-06-15,r,136,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2024-06-15,r,976,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2024-06-15,r,2828,0,Dynamic Documents for R,rstudio,rmarkdown,https://github.com/rstudio/rmarkdown
+2024-06-15,r,1288,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2024-06-15,r,362,0,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2024-06-15,r,95,0,,r-lib,tree-sitter-r,https://github.com/r-lib/tree-sitter-r
+2024-06-15,r,498,0,"Fast, sensitive and accurate integration of single-cell data with Harmony",immunogenomics,harmony,https://github.com/immunogenomics/harmony
+2024-06-15,r,567,1,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq

@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-15,go,2415,28,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",fleetdm,fleet,https://github.com/fleetdm/fleet
+2024-06-15,go,7022,5,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2024-06-15,go,910,0,"⚡ The official implementation of the MultiversX blockchain protocol, written in golang.",multiversx,mx-chain-go,https://github.com/multiversx/mx-chain-go
+2024-06-15,go,427,2,The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.,hashicorp,vault-secrets-operator,https://github.com/hashicorp/vault-secrets-operator
+2024-06-15,go,19502,2,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-06-15,go,15595,14,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-06-15,go,6390,1,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2024-06-15,go,22370,10,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-06-15,go,2554,1,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2024-06-15,go,14282,1,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2024-06-15,go,10536,8,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-06-15,go,20073,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-06-15,go,15893,10,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-06-15,go,3422,0,"Home for Cluster API, a subproject of sig-cluster-lifecycle",kubernetes-sigs,cluster-api,https://github.com/kubernetes-sigs/cluster-api
+2024-06-15,go,22847,13,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-06-15,go,5674,5,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2024-06-15,go,3679,5,Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2024-06-15,go,7636,6,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2024-06-15,go,36564,15,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-06-15,go,9612,2,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2024-06-15,go,13148,2,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go
+2024-06-15,go,9555,4,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-06-15,go,5177,1,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2024-06-15,go,3034,11,k0s - The Zero Friction Kubernetes,k0sproject,k0s,https://github.com/k0sproject/k0s

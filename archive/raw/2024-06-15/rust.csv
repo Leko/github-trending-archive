@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-15,rust,8239,31,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2024-06-15,rust,2543,157,Blazingly fast LLM inference.,EricLBuehler,mistral.rs,https://github.com/EricLBuehler/mistral.rs
+2024-06-15,rust,12566,57,"An extremely fast Python package installer and resolver, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-06-15,rust,3330,0,⚓ Solana Sealevel Framework,coral-xyz,anchor,https://github.com/coral-xyz/anchor
+2024-06-15,rust,93258,12,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2024-06-15,rust,11131,21,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2024-06-15,rust,5376,9,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-06-15,rust,1579,8,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-06-15,rust,487,30,The Nexus zkVM: The zero-knowledge virtual machine,nexus-xyz,nexus-zkvm,https://github.com/nexus-xyz/nexus-zkvm
+2024-06-15,rust,7989,4,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2024-06-15,rust,983,135,Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.,restatedev,restate,https://github.com/restatedev/restate
+2024-06-15,rust,5624,2,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2024-06-15,rust,7367,11,"𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com",datafuselabs,databend,https://github.com/datafuselabs/databend
+2024-06-15,rust,5061,3,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-06-15,rust,1445,4,An opinionated Lua code formatter,JohnnyMorganz,StyLua,https://github.com/JohnnyMorganz/StyLua
+2024-06-15,rust,10980,3,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2024-06-15,rust,3616,4,Light LDAP implementation,lldap,lldap,https://github.com/lldap/lldap
+2024-06-15,rust,8390,0,Substrate: The platform for blockchain innovators,paritytech,substrate,https://github.com/paritytech/substrate
+2024-06-15,rust,7774,7,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2024-06-15,rust,12986,10,🤖 The Modern Port Scanner 🤖,RustScan,RustScan,https://github.com/RustScan/RustScan
+2024-06-15,rust,14660,5,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-06-15,rust,5059,5,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
