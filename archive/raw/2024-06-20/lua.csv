@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-20,lua,1016,2,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-06-20,lua,2472,5,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-06-20,lua,9419,5,🔥 A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2024-06-20,lua,15624,3,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-06-20,lua,38176,16,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-06-20,lua,179,0,"墨奇音形，打造最强双拼辅助码rime输入方案。基于雾凇词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅），支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤|雾凇自然|墨奇码|墨奇音形",gaboolic,rime-shuangpin-fuzhuma,https://github.com/gaboolic/rime-shuangpin-fuzhuma
+2024-06-20,lua,604,0,LLM powered development for Neovim,huggingface,llm.nvim,https://github.com/huggingface/llm.nvim
+2024-06-20,lua,2175,2,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2024-06-20,lua,3895,7,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-06-20,lua,4614,7,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2024-06-20,lua,352,0,Enhanced f/t motions for Leap,ggandor,flit.nvim,https://github.com/ggandor/flit.nvim
+2024-06-20,lua,1233,5,⚡ TypeScript integration NeoVim deserves ⚡,pmizio,typescript-tools.nvim,https://github.com/pmizio/typescript-tools.nvim
+2024-06-20,lua,145,0,Tooling to run plugin tests with Kong and Kong Enterprise,Kong,kong-pongo,https://github.com/Kong/kong-pongo
+2024-06-20,lua,3354,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-06-20,lua,3252,2,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2024-06-20,lua,1067,7,A Neovim plugin helping you establish good command workflow and quit bad habit,m4xshen,hardtime.nvim,https://github.com/m4xshen/hardtime.nvim
+2024-06-20,lua,1133,5,nvim-cmp source for neovim builtin LSP client,hrsh7th,cmp-nvim-lsp,https://github.com/hrsh7th/cmp-nvim-lsp
+2024-06-20,lua,518,6,"Neovim plugin management inspired by Cargo, powered by luarocks",nvim-neorocks,rocks.nvim,https://github.com/nvim-neorocks/rocks.nvim
+2024-06-20,lua,13896,8,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2024-06-20,lua,292,0,Hekili Priority Helper for DPS and Tanks (WoW Retail),Hekili,hekili,https://github.com/Hekili/hekili
