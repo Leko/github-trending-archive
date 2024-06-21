@@ -1,0 +1,16 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-21,haskell,35404,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-06-21,haskell,5519,14,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-06-21,haskell,2603,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-06-21,haskell,10016,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-06-21,haskell,22618,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-06-21,haskell,730,4,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-06-21,haskell,1576,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-06-21,haskell,33040,23,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-06-21,haskell,3036,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-06-21,haskell,204,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-06-21,haskell,3682,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-06-21,haskell,3947,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-06-21,haskell,3143,1,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2024-06-21,haskell,392,0,Updating nixpkgs packages since 2018,nix-community,nixpkgs-update,https://github.com/nix-community/nixpkgs-update
+2024-06-21,haskell,2831,0,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
