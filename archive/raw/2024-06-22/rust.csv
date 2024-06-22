@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-22,rust,67048,258,"An open-source remote desktop, and alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-06-22,rust,44449,67,"A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",meilisearch,meilisearch,https://github.com/meilisearch/meilisearch
+2024-06-22,rust,6873,20,"Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",quickwit-oss,quickwit,https://github.com/quickwit-oss/quickwit
+2024-06-22,rust,34393,47,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2024-06-22,rust,6527,14,"SQL stream processing, analytics, and management. We decouple storage and compute to offer instant failover, dynamic scaling, speedy bootstrapping, and efficient joins.",risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2024-06-22,rust,45950,28,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2024-06-22,rust,5878,1,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-06-22,rust,17049,11,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2024-06-22,rust,17425,7,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2024-06-22,rust,30981,23,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2024-06-22,rust,21132,24,All Algorithms implemented in Rust,TheAlgorithms,Rust,https://github.com/TheAlgorithms/Rust
+2024-06-22,rust,7805,7,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2024-06-22,rust,14045,13,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2024-06-22,rust,3507,31,Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available,erebe,wstunnel,https://github.com/erebe/wstunnel
+2024-06-22,rust,5643,0,The data warehouse for operational workloads.,MaterializeInc,materialize,https://github.com/MaterializeInc/materialize
+2024-06-22,rust,14728,9,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2024-06-22,rust,28297,27,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2024-06-22,rust,18623,12,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-06-22,rust,30774,17,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2024-06-22,rust,15751,24,"Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",slint-ui,slint,https://github.com/slint-ui/slint
+2024-06-22,rust,63011,3,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2024-06-22,rust,18251,6,Relay is a JavaScript framework for building data-driven React applications.,facebook,relay,https://github.com/facebook/relay
+2024-06-22,rust,47444,24,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2024-06-22,rust,4220,2,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2024-06-22,rust,24440,18,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用,tw93,Pake,https://github.com/tw93/Pake

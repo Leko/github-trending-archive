@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-22,go,15943,57,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-06-22,go,120827,29,The Go programming language,golang,go,https://github.com/golang/go
+2024-06-22,go,53544,20,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-06-22,go,6189,134,The Open Source Dev Environment Manager.,daytonaio,daytona,https://github.com/daytonaio/daytona
+2024-06-22,go,5285,10,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-06-22,go,35644,18,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2024-06-22,go,74838,193,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-06-22,go,35497,55,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-06-22,go,32316,14,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",halfrost,LeetCode-Go,https://github.com/halfrost/LeetCode-Go
+2024-06-22,go,9627,5,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2024-06-22,go,26885,10,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2024-06-22,go,28040,18,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2024-06-22,go,10587,24,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-06-22,go,10686,4,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2024-06-22,go,41550,15,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-06-22,go,4949,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-06-22,go,27880,26,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-06-22,go,17497,7,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2024-06-22,go,7288,13,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-06-22,go,21939,19,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-06-22,go,13947,7,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-06-22,go,15032,5,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2024-06-22,go,19771,8,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
