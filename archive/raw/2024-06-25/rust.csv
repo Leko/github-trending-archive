@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-25,rust,17139,33,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2024-06-25,rust,10531,216,"💥 Blazing fast terminal file manager written in Rust, based on async I/O.",sxyazi,yazi,https://github.com/sxyazi/yazi
+2024-06-25,rust,3950,4,A Decentralized Operating System for ZK Applications,AleoNet,snarkOS,https://github.com/AleoNet/snarkOS
+2024-06-25,rust,3320,270,Extremely fast Vite-compatible web build tool written in Rust,farm-fe,farm,https://github.com/farm-fe/farm
+2024-06-25,rust,8614,39,Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀,ratatui-org,ratatui,https://github.com/ratatui-org/ratatui
+2024-06-25,rust,33353,28,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2024-06-25,rust,21429,135,All Algorithms implemented in Rust,TheAlgorithms,Rust,https://github.com/TheAlgorithms/Rust
+2024-06-25,rust,78,10,Elden Ring Save Editor. Compatible with PC and Playstation saves.,ClayAmore,ER-Save-Editor,https://github.com/ClayAmore/ER-Save-Editor
+2024-06-25,rust,1588,60,Run web applications on AWS Lambda,awslabs,aws-lambda-web-adapter,https://github.com/awslabs/aws-lambda-web-adapter
+2024-06-25,rust,18160,15,"🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten",wasmerio,wasmer,https://github.com/wasmerio/wasmer
+2024-06-25,rust,4532,9,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2024-06-25,rust,992,111,"Think tmux, then aim... lower",shell-pool,shpool,https://github.com/shell-pool/shpool
+2024-06-25,rust,50840,36,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2024-06-25,rust,2979,3,Apache OpenDAL: access data freely.,apache,opendal,https://github.com/apache/opendal
+2024-06-25,rust,7710,13,The fast Rust-based web bundler with webpack-compatible API 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2024-06-25,rust,5642,3,Safe interop between Rust and C++,dtolnay,cxx,https://github.com/dtolnay/cxx
+2024-06-25,rust,58362,0,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2024-06-25,rust,3717,7,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2024-06-25,rust,14773,6,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
