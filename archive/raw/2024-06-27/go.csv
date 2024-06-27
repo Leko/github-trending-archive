@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-27,go,1898,564,"🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.",glasskube,glasskube,https://github.com/glasskube/glasskube
+2024-06-27,go,3840,7,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",grafana,mimir,https://github.com/grafana/mimir
+2024-06-27,go,2725,4,Main repository for Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2024-06-27,go,19553,7,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-06-27,go,6158,8,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
+2024-06-27,go,15386,52,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-06-27,go,46639,13,Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-06-27,go,75640,203,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-06-27,go,27990,52,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-06-27,go,15057,15,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2024-06-27,go,26221,11,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-06-27,go,7595,7,"ZITADEL - Identity infrastructure, simplified for you.",zitadel,zitadel,https://github.com/zitadel/zitadel
+2024-06-27,go,45247,17,The Object Store for AI Data Infrastructure,minio,minio,https://github.com/minio/minio
+2024-06-27,go,3312,2,Docker CLI plugin for extended build capabilities with BuildKit,docker,buildx,https://github.com/docker/buildx
+2024-06-27,go,3885,2,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-06-27,go,2742,3,Prometheus exporter for Windows machines,prometheus-community,windows_exporter,https://github.com/prometheus-community/windows_exporter
+2024-06-27,go,18080,25,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-06-27,go,3328,1,Enhancements tracking repo for Kubernetes,kubernetes,enhancements,https://github.com/kubernetes/enhancements
+2024-06-27,go,20187,5,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-06-27,go,28090,16,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2024-06-27,go,2686,0,Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.,kubeflow,spark-operator,https://github.com/kubeflow/spark-operator
+2024-06-27,go,15581,46,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
