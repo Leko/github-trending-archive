@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-28,scala,7224,6,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-06-28,scala,4445,4,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2024-06-28,scala,14796,6,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2024-06-28,scala,61650,10,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2024-06-28,scala,38801,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-06-28,scala,5000,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2024-06-28,scala,1064,1,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-06-28,scala,3168,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2024-06-28,scala,5716,0,"The Scala 3 compiler, also known as Dotty.",scala,scala3,https://github.com/scala/scala3
+2024-06-28,scala,2001,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2024-06-28,scala,757,1,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2024-06-28,scala,717,2,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-06-28,scala,9083,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2024-06-28,scala,3755,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2024-06-28,scala,1273,1,Cortex: a Powerful Observable Analysis and Active Response Engine,TheHive-Project,Cortex,https://github.com/TheHive-Project/Cortex
+2024-06-28,scala,3076,2,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2024-06-28,scala,217,0,Renku provides a platform and tools for reproducible and collaborative data analysis.,SwissDataScienceCenter,renku,https://github.com/SwissDataScienceCenter/renku
+2024-06-28,scala,450,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2024-06-28,scala,6320,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2024-06-28,scala,5811,0,The Guardian DotCom.,guardian,frontend,https://github.com/guardian/frontend
+2024-06-28,scala,1484,1,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",ucb-bar,chipyard,https://github.com/ucb-bar/chipyard
+2024-06-28,scala,269,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2024-06-28,scala,10812,1,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner

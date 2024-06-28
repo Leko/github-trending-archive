@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-28,go,2043,210,"🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.",glasskube,glasskube,https://github.com/glasskube/glasskube
+2024-06-28,go,975,7,OpenTelemetry Collector distribution with programmable pipelines,grafana,alloy,https://github.com/grafana/alloy
+2024-06-28,go,6417,4,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2024-06-28,go,75815,180,"Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-06-28,go,8841,29,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-06-28,go,2726,5,Main repository for Datadog Agent,DataDog,datadog-agent,https://github.com/DataDog/datadog-agent
+2024-06-28,go,4964,5,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-06-28,go,7333,15,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-06-28,go,3042,104,"An open-source, cross-platform terminal for seamless workflows",wavetermdev,waveterm,https://github.com/wavetermdev/waveterm
+2024-06-28,go,6323,10,"🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",smallstep,certificates,https://github.com/smallstep/certificates
+2024-06-28,go,10061,11,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2024-06-28,go,18098,17,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-06-28,go,26227,13,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-06-28,go,17575,6,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2024-06-28,go,2576,2,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2024-06-28,go,2766,8,"Simple | Fast tool to manage MinIO clusters ☁️",minio,mc,https://github.com/minio/mc
+2024-06-28,go,8395,2,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2024-06-28,go,7724,3,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
+2024-06-28,go,10451,15,"The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.",bytebase,bytebase,https://github.com/bytebase/bytebase
+2024-06-28,go,20192,13,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-06-28,go,2911,21,Go-blueprint allows users to spin up a quick Go project using a popular framework,Melkeydev,go-blueprint,https://github.com/Melkeydev/go-blueprint
+2024-06-28,go,2708,4,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-06-28,go,81839,50,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
