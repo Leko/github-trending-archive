@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-29,rust,12995,74,"An extremely fast Python package installer and resolver, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-06-29,rust,2975,11,The Stacks blockchain implementation,stacks-network,stacks-core,https://github.com/stacks-network/stacks-core
+2024-06-29,rust,3463,9,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2024-06-29,rust,3981,13,A Decentralized Operating System for ZK Applications,AleoNet,snarkOS,https://github.com/AleoNet/snarkOS
+2024-06-29,rust,14536,11,The Rust Programming Language,rust-lang,book,https://github.com/rust-lang/book
+2024-06-29,rust,5888,2,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-06-29,rust,23914,20,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2024-06-29,rust,25321,14,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2024-06-29,rust,2228,2,A blazing fast inference solution for text embeddings models,huggingface,text-embeddings-inference,https://github.com/huggingface/text-embeddings-inference
+2024-06-29,rust,11456,13,"A cross-platform, safe, pure-Rust graphics API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2024-06-29,rust,15199,18,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2024-06-29,rust,17791,11,Blazing 💥 fast terminal-ui for git written in rust 🦀,extrawurst,gitui,https://github.com/extrawurst/gitui
+2024-06-29,rust,5465,6,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-06-29,rust,11007,4,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-06-29,rust,3248,7,A collection of Solana programs maintained by Solana Labs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2024-06-29,rust,5117,5,Application level tracing for Rust.,tokio-rs,tracing,https://github.com/tokio-rs/tracing
+2024-06-29,rust,8385,16,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2024-06-29,rust,9398,8,An easy and powerful Rust HTTP Client,seanmonstar,reqwest,https://github.com/seanmonstar/reqwest
+2024-06-29,rust,28474,46,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2024-06-29,rust,2060,5,Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.,Yamato-Security,hayabusa,https://github.com/Yamato-Security/hayabusa
+2024-06-29,rust,1969,2,"A native Rust library for Delta Lake, with bindings into Python",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2024-06-29,rust,615,5,A unified interface for reading and writing object file formats,gimli-rs,object,https://github.com/gimli-rs/object
+2024-06-29,rust,4677,21,Postgres for Search and Analytics,paradedb,paradedb,https://github.com/paradedb/paradedb
+2024-06-29,rust,16610,29,"A massively parallel, high-level programming language",HigherOrderCO,Bend,https://github.com/HigherOrderCO/Bend
