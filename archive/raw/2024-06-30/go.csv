@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-30,go,945,4,A toolkit to run Ray applications on Kubernetes,ray-project,kuberay,https://github.com/ray-project/kuberay
+2024-06-30,go,42963,25,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-06-30,go,35338,7,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2024-06-30,go,8396,285,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",loft-sh,devpod,https://github.com/loft-sh/devpod
+2024-06-30,go,16459,64,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-06-30,go,5732,12,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2024-06-30,go,7356,7,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-06-30,go,6947,12,Building event-driven applications the easy way in Go.,ThreeDotsLabs,watermill,https://github.com/ThreeDotsLabs/watermill
+2024-06-30,go,17646,10,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-06-30,go,4975,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-06-30,go,4506,6,算法竞赛模板库 by 灵茶山艾府 💭💡🎈,EndlessCheng,codeforces-go,https://github.com/EndlessCheng/codeforces-go
+2024-06-30,go,7659,2,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-06-30,go,10470,5,"The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.",bytebase,bytebase,https://github.com/bytebase/bytebase
+2024-06-30,go,20450,5,Pulumi - Infrastructure as Code in any programming language 🚀,pulumi,pulumi,https://github.com/pulumi/pulumi
+2024-06-30,go,2580,0,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2024-06-30,go,16691,5,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-06-30,go,6148,280,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,loft-sh,vcluster,https://github.com/loft-sh/vcluster
+2024-06-30,go,16677,8,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-06-30,go,7802,1,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-06-30,go,6011,4,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,google,osv-scanner,https://github.com/google/osv-scanner
+2024-06-30,go,1073,0,Collection of extensions for OpenTelemetry-Go.,open-telemetry,opentelemetry-go-contrib,https://github.com/open-telemetry/opentelemetry-go-contrib
+2024-06-30,go,3901,8,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-06-30,go,6829,4,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2024-06-30,go,609,0,"Datadog Go Library including APM tracing, profiling, and security monitoring.",DataDog,dd-trace-go,https://github.com/DataDog/dd-trace-go

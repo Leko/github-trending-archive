@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-06-30,r,2174,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2024-06-30,r,525,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2024-06-30,r,362,1,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2024-06-30,r,617,0,Equipment Loss Tracking,leedrake5,Russia-Ukraine,https://github.com/leedrake5/Russia-Ukraine
+2024-06-30,r,6386,2,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2024-06-30,r,1252,0,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2024-06-30,r,460,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2024-06-30,r,286,1,Community-provided extensions to Seurat,satijalab,seurat-wrappers,https://github.com/satijalab/seurat-wrappers
+2024-06-30,r,136,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2024-06-30,r,1298,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2024-06-30,r,606,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2024-06-30,r,322,0,"Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs",r-lib,remotes,https://github.com/r-lib/remotes
+2024-06-30,r,3514,0,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2024-06-30,r,1938,3,"Easily generate information-rich, publication-quality tables from R",rstudio,gt,https://github.com/rstudio/gt
+2024-06-30,r,316,0,,cole-trapnell-lab,monocle3,https://github.com/cole-trapnell-lab/monocle3
+2024-06-30,r,453,1,Advice on R Package Building,ropensci-review-tools,goodpractice,https://github.com/ropensci-review-tools/goodpractice
+2024-06-30,r,999,0,"Read flat files (csv, tsv, fwf) into R",tidyverse,readr,https://github.com/tidyverse/readr
+2024-06-30,r,369,1,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2024-06-30,r,567,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2024-06-30,r,431,0,"Summarize, Analyze and Visualize MAF files from TCGA or in-house studies.",PoisonAlien,maftools,https://github.com/PoisonAlien/maftools
