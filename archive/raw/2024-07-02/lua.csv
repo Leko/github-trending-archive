@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-02,lua,338,0,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-07-02,lua,9939,7,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-07-02,lua,1088,3,,xiaorouji,openwrt-passwall2,https://github.com/xiaorouji/openwrt-passwall2
+2024-07-02,lua,568,5,Highlight colors for neovim,brenoprata10,nvim-highlight-colors,https://github.com/brenoprata10/nvim-highlight-colors
+2024-07-02,lua,16651,30,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-07-02,lua,4412,7,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-07-02,lua,5683,7,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2024-07-02,lua,15274,28,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-07-02,lua,2851,5,Orgmode clone written in Lua for Neovim 0.9+.,nvim-orgmode,orgmode,https://github.com/nvim-orgmode/orgmode
+2024-07-02,lua,1894,1,"G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim",ray-x,go.nvim,https://github.com/ray-x/go.nvim
+2024-07-02,lua,1748,2,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2024-07-02,lua,6683,9,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2024-07-02,lua,7855,15,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-07-02,lua,3083,5,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-07-02,lua,717,3,My dotfiles synced form localhost and remote machines,omerxx,dotfiles,https://github.com/omerxx/dotfiles
+2024-07-02,lua,69,2,The standard for the Unified Naming Convention.,unified-naming-convention,NamingStandard,https://github.com/unified-naming-convention/NamingStandard
+2024-07-02,lua,14723,9,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-07-02,lua,178,0,Snippet support using native neovim snippets,garymjr,nvim-snippets,https://github.com/garymjr/nvim-snippets
+2024-07-02,lua,6101,2,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2024-07-02,lua,2219,9,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2024-07-02,lua,1717,3,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2024-07-02,lua,7208,8,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
