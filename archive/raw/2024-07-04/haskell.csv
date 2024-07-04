@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-04,haskell,10045,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-07-04,haskell,35512,17,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-07-04,haskell,22659,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-07-04,haskell,2610,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-07-04,haskell,2844,3,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-07-04,haskell,849,0,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly
+2024-07-04,haskell,28,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-07-04,haskell,249,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-07-04,haskell,267,0,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
+2024-07-04,haskell,21,1,Cardano API,IntersectMBO,cardano-api,https://github.com/IntersectMBO/cardano-api
+2024-07-04,haskell,31,0,This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.,IntersectMBO,cardano-cli,https://github.com/IntersectMBO/cardano-cli
+2024-07-04,haskell,145,0,Convert lambda expressions to CCC combinators,conal,lambda-ccc,https://github.com/conal/lambda-ccc
+2024-07-04,haskell,33169,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-07-04,haskell,284,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,IntersectMBO,cardano-db-sync,https://github.com/IntersectMBO/cardano-db-sync
+2024-07-04,haskell,142,0,Addresses and mnemonic manipulation & derivations,IntersectMBO,cardano-addresses,https://github.com/IntersectMBO/cardano-addresses
+2024-07-04,haskell,25,0,Library utilities for constructing and signing Cardano transactions.,IntersectMBO,cardano-transactions,https://github.com/IntersectMBO/cardano-transactions
+2024-07-04,haskell,3704,0,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
