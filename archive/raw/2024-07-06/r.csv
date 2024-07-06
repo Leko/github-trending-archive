@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-06,r,5877,0,"A curated list of awesome R packages, frameworks and software.",qinwf,awesome-R,https://github.com/qinwf/awesome-R
+2024-07-06,r,2182,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2024-07-06,r,567,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2024-07-06,r,460,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2024-07-06,r,3514,0,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2024-07-06,r,387,0,R package for performing 2-sample MR using MR-Base database,MRCIEU,TwoSampleMR,https://github.com/MRCIEU/TwoSampleMR
+2024-07-06,r,1301,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2024-07-06,r,363,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2024-07-06,r,323,0,"Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs",r-lib,remotes,https://github.com/r-lib/remotes
+2024-07-06,r,502,0,"Fast, sensitive and accurate integration of single-cell data with Harmony",immunogenomics,harmony,https://github.com/immunogenomics/harmony
+2024-07-06,r,371,0,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2024-07-06,r,68,0,tools for the analysis of color data in R,rmaia,pavo,https://github.com/rmaia/pavo
+2024-07-06,r,819,0,Repository for Programming Assignment 2 for R Programming on Coursera,rdpeng,ProgrammingAssignment2,https://github.com/rdpeng/ProgrammingAssignment2
+2024-07-06,r,1017,0,"RStan, the R interface to Stan",stan-dev,rstan,https://github.com/stan-dev/rstan
+2024-07-06,r,4439,1,R for data science: a book,hadley,r4ds,https://github.com/hadley/r4ds
+2024-07-06,r,487,0,Survival Analysis and Visualization,kassambara,survminer,https://github.com/kassambara/survminer
+2024-07-06,r,137,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
