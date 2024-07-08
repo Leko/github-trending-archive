@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-08,lua,16805,37,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-07-08,lua,15756,5,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-07-08,lua,15378,12,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-07-08,lua,3952,4,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-07-08,lua,5129,7,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2024-07-08,lua,4474,13,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-07-08,lua,3313,1,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2024-07-08,lua,996,9,A task runner and job management plugin for Neovim,stevearc,overseer.nvim,https://github.com/stevearc/overseer.nvim
+2024-07-08,lua,1279,3,一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT,linkease,istore,https://github.com/linkease/istore
+2024-07-08,lua,7972,11,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-07-08,lua,426,4,Remote development in Neovim 🔥,amitds1997,remote-nvim.nvim,https://github.com/amitds1997/remote-nvim.nvim
+2024-07-08,lua,3369,5,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2024-07-08,lua,463,3,Code outline sidebar powered by LSP. Significantly enhanced & refactored fork of symbols-outline.nvim.,hedyhli,outline.nvim,https://github.com/hedyhli/outline.nvim
+2024-07-08,lua,2658,2,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-07-08,lua,2913,2,"✅ Highlight, list and search todo comments in your projects",folke,todo-comments.nvim,https://github.com/folke/todo-comments.nvim
+2024-07-08,lua,1046,3,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-07-08,lua,5713,4,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2024-07-08,lua,5108,4,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-07-08,lua,2226,4,"Navigate your code with search labels, enhanced character motions and Treesitter integration",folke,flash.nvim,https://github.com/folke/flash.nvim
+2024-07-08,lua,2649,4,The Refactoring library based off the Refactoring book by Martin Fowler,ThePrimeagen,refactoring.nvim,https://github.com/ThePrimeagen/refactoring.nvim
+2024-07-08,lua,3316,10,Obsidian 🤝 Neovim,epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim

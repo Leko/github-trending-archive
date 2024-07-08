@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-08,go,61948,45,🌸 A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2024-07-08,go,10430,19,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",jeessy2,ddns-go,https://github.com/jeessy2/ddns-go
+2024-07-08,go,7176,17,A language for writing HTML user interfaces in Go.,a-h,templ,https://github.com/a-h/templ
+2024-07-08,go,33588,14,AI-Powered Photos App for the Decentralized Web 🌈💎✨,photoprism,photoprism,https://github.com/photoprism/photoprism
+2024-07-08,go,39592,37,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-07-08,go,17928,14,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2024-07-08,go,22814,8,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-07-08,go,11960,10,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",apache,incubator-answer,https://github.com/apache/incubator-answer
+2024-07-08,go,9252,15,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",casdoor,casdoor,https://github.com/casdoor/casdoor
+2024-07-08,go,17538,15,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2024-07-08,go,15808,32,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-07-08,go,3710,13,📥 A Telegram tookit written in Golang,iyear,tdl,https://github.com/iyear/tdl
+2024-07-08,go,14132,3,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-07-08,go,32118,12,⚡️ Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2024-07-08,go,4846,18,Realtime log viewer for docker containers.,amir20,dozzle,https://github.com/amir20/dozzle
+2024-07-08,go,25416,16,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-07-08,go,73619,31,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2024-07-08,go,4587,14,"Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.",coroot,coroot,https://github.com/coroot/coroot
+2024-07-08,go,2295,6,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。,Calcium-Ion,new-api,https://github.com/Calcium-Ion/new-api
+2024-07-08,go,13376,2,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-07-08,go,23583,14,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-07-08,go,11090,5,基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,go-admin-team,go-admin,https://github.com/go-admin-team/go-admin
+2024-07-08,go,2561,15,"✨ Zero-code distributed tracing and profiling, observability via eBPF 🚀",deepflowio,deepflow,https://github.com/deepflowio/deepflow
