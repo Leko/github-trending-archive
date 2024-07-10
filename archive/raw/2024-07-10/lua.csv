@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-10,lua,16864,28,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-07-10,lua,8088,45,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-07-10,lua,2905,22,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2024-07-10,lua,1568,2,🧘 Distraction-free coding for Neovim,folke,zen-mode.nvim,https://github.com/folke/zen-mode.nvim
+2024-07-10,lua,3018,6,autopairs for neovim written in lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2024-07-10,lua,3317,4,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2024-07-10,lua,5059,7,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2024-07-10,lua,15774,12,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-07-10,lua,1046,1,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-07-10,lua,7255,6,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2024-07-10,lua,2236,9,"Navigate your code with search labels, enhanced character motions and Treesitter integration",folke,flash.nvim,https://github.com/folke/flash.nvim
+2024-07-10,lua,3961,7,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-07-10,lua,2919,3,"✅ Highlight, list and search todo comments in your projects",folke,todo-comments.nvim,https://github.com/folke/todo-comments.nvim
+2024-07-10,lua,46,0,,Qbox-project,qbx_core,https://github.com/Qbox-project/qbx_core
+2024-07-10,lua,3915,8,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
+2024-07-10,lua,2540,0,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2024-07-10,lua,14801,10,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-07-10,lua,9982,6,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-07-10,lua,15402,15,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-07-10,lua,1534,1,Use treesitter to auto close and auto rename html tag,windwp,nvim-ts-autotag,https://github.com/windwp/nvim-ts-autotag
+2024-07-10,lua,1823,2,Set of preconfigured snippets for different languages.,rafamadriz,friendly-snippets,https://github.com/rafamadriz/friendly-snippets
+2024-07-10,lua,2667,3,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files

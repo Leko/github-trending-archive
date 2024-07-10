@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-10,go,4409,127,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2024-07-10,go,20273,17,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-07-10,go,5257,6,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2024-07-10,go,21676,7,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-07-10,go,15142,16,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2024-07-10,go,12774,5,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2024-07-10,go,9887,36,"AI driven development in your terminal. Designed for large, real-world tasks.",plandex-ai,plandex,https://github.com/plandex-ai/plandex
+2024-07-10,go,22779,4,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-07-10,go,15939,44,The most customisable and low-latency cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2024-07-10,go,36803,16,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-07-10,go,8788,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-07-10,go,52142,63,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2024-07-10,go,17710,11,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-07-10,go,5711,7,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2024-07-10,go,62052,52,🌸 A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2024-07-10,go,11625,18,Generate type-safe code from SQL,sqlc-dev,sqlc,https://github.com/sqlc-dev/sqlc
+2024-07-10,go,12139,6,GitHub's Online Schema-migration Tool for MySQL,github,gh-ost,https://github.com/github/gh-ost
+2024-07-10,go,13974,14,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2024-07-10,go,26317,10,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-07-10,go,14536,4,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-07-10,go,4130,5,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2024-07-10,go,24311,6,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-07-10,go,20886,26,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2024-07-10,go,6175,7,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-07-10,go,7559,1,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
