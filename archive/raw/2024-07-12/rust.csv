@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-12,rust,40494,512,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
+2024-07-12,rust,9376,21,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2024-07-12,rust,28936,34,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2024-07-12,rust,12539,53,a Hassle-Free Python Experience,astral-sh,rye,https://github.com/astral-sh/rye
+2024-07-12,rust,5538,3,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-07-12,rust,7158,48,"Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",quickwit-oss,quickwit,https://github.com/quickwit-oss/quickwit
+2024-07-12,rust,156,4,Rust implementation of the Albatross protocol,nimiq,core-rs-albatross,https://github.com/nimiq/core-rs-albatross
+2024-07-12,rust,11368,11,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2024-07-12,rust,6603,5,"SQL stream processing, analytics, and management. We decouple storage and compute to offer efficient joins, instant failover, dynamic scaling, speedy bootstrapping, and concurrent query serving.",risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2024-07-12,rust,93419,13,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2024-07-12,rust,5895,1,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-07-12,rust,3549,9,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2024-07-12,rust,7467,32,"𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com",datafuselabs,databend,https://github.com/datafuselabs/databend
+2024-07-12,rust,13571,28,the AI-native open-source embedding database,chroma-core,chroma,https://github.com/chroma-core/chroma
+2024-07-12,rust,1993,5,"A native Rust library for Delta Lake, with bindings into Python",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2024-07-12,rust,68306,50,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-07-12,rust,9447,4,An easy and powerful Rust HTTP Client,seanmonstar,reqwest,https://github.com/seanmonstar/reqwest
+2024-07-12,rust,18726,33,✨ Magical shell history,atuinsh,atuin,https://github.com/atuinsh/atuin
+2024-07-12,rust,1059,11,"A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",mufeedvh,code2prompt,https://github.com/mufeedvh/code2prompt
+2024-07-12,rust,8352,8,CUDA on AMD GPUs,vosen,ZLUDA,https://github.com/vosen/ZLUDA
+2024-07-12,rust,14589,10,The Rust Programming Language,rust-lang,book,https://github.com/rust-lang/book
+2024-07-12,rust,4777,11,Postgres for Search and Analytics,paradedb,paradedb,https://github.com/paradedb/paradedb
+2024-07-12,rust,25582,5,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2024-07-12,rust,2337,14,Package management made easy,prefix-dev,pixi,https://github.com/prefix-dev/pixi

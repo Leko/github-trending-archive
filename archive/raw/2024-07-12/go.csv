@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-12,go,20408,76,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-07-12,go,5381,71,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2024-07-12,go,4895,219,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2024-07-12,go,16313,33,"Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",GoogleCloudPlatform,microservices-demo,https://github.com/GoogleCloudPlatform/microservices-demo
+2024-07-12,go,78033,202,"Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-07-12,go,47279,229,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2024-07-12,go,2733,2,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-07-12,go,26336,8,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-07-12,go,26449,81,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-07-12,go,4090,5,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-07-12,go,9398,3,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",TykTechnologies,tyk,https://github.com/TykTechnologies/tyk
+2024-07-12,go,7923,19,An embedded key/value database for Go.,etcd-io,bbolt,https://github.com/etcd-io/bbolt
+2024-07-12,go,22807,15,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-07-12,go,15175,17,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2024-07-12,go,928,1,"Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels",nerdswords,yet-another-cloudwatch-exporter,https://github.com/nerdswords/yet-another-cloudwatch-exporter
+2024-07-12,go,14070,4,An embedded key/value database for Go.,boltdb,bolt,https://github.com/boltdb/bolt
+2024-07-12,go,8591,45,The best way of working with Protocol Buffers.,bufbuild,buf,https://github.com/bufbuild/buf
+2024-07-12,go,33035,14,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-07-12,go,14294,6,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2024-07-12,go,1272,3,⚛️ ownCloud Infinite Scale Stack,owncloud,ocis,https://github.com/owncloud/ocis
+2024-07-12,go,5221,0,Add-on agent to generate and expose cluster-level metrics.,kubernetes,kube-state-metrics,https://github.com/kubernetes/kube-state-metrics
+2024-07-12,go,5342,6,Kubernetes Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-07-12,go,13228,3,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",json-iterator,go,https://github.com/json-iterator/go

@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-12,r,2186,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2024-07-12,r,3450,1,A curated list of awesome network analysis resources.,briatte,awesome-network-analysis,https://github.com/briatte/awesome-network-analysis
+2024-07-12,r,1945,0,"Easily generate information-rich, publication-quality tables from R",rstudio,gt,https://github.com/rstudio/gt
+2024-07-12,r,6395,2,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2024-07-12,r,4700,1,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2024-07-12,r,569,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2024-07-12,r,5314,2,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2024-07-12,r,364,1,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2024-07-12,r,607,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2024-07-12,r,1262,2,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2024-07-12,r,305,2,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2024-07-12,r,1598,0,caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models,topepo,caret,https://github.com/topepo/caret
+2024-07-12,r,529,2,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2024-07-12,r,392,3,R package for performing 2-sample MR using MR-Base database,MRCIEU,TwoSampleMR,https://github.com/MRCIEU/TwoSampleMR
+2024-07-12,r,1303,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2024-07-12,r,373,1,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2024-07-12,r,271,0,,cole-trapnell-lab,monocle-release,https://github.com/cole-trapnell-lab/monocle-release
+2024-07-12,r,937,1,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
+2024-07-12,r,981,1,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2024-07-12,r,967,0,📊 A universal enrichment tool for interpreting omics data,YuLab-SMU,clusterProfiler,https://github.com/YuLab-SMU/clusterProfiler
+2024-07-12,r,3520,3,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
