@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-15,haskell,5634,3,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-07-15,haskell,2616,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-07-15,haskell,22729,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-07-15,haskell,3296,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-07-15,haskell,579,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-07-15,haskell,2862,2,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-07-15,haskell,33282,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-07-15,haskell,3039,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-07-15,haskell,483,1,Exercism exercises in Haskell.,exercism,haskell,https://github.com/exercism/haskell
+2024-07-15,haskell,35583,5,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-07-15,haskell,10077,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-07-15,haskell,852,0,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly
+2024-07-15,haskell,269,0,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
+2024-07-15,haskell,144,0,Haskell bindings for tree-sitter,tree-sitter,haskell-tree-sitter,https://github.com/tree-sitter/haskell-tree-sitter
+2024-07-15,haskell,757,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2024-07-15,haskell,4084,1,Functional Programming Course,system-f,fp-course,https://github.com/system-f/fp-course
+2024-07-15,haskell,36,0,The elf-edit library provides a datatype suitable for reading and writing Elf files.,GaloisInc,elf-edit,https://github.com/GaloisInc/elf-edit
+2024-07-15,haskell,190,1,Open source binary analysis tools.,GaloisInc,macaw,https://github.com/GaloisInc/macaw
+2024-07-15,haskell,37,0,A library for disassembling x86-64 binaries.,GaloisInc,flexdis86,https://github.com/GaloisInc/flexdis86
+2024-07-15,haskell,148,0,Symbolic formula representation and solver interaction library,GaloisInc,what4,https://github.com/GaloisInc/what4
+2024-07-15,haskell,59,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2024-07-15,haskell,27,0,An llvm pretty printer inspired by the haskell llvm binding,GaloisInc,llvm-pretty,https://github.com/GaloisInc/llvm-pretty
