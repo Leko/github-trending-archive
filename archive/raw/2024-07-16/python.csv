@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-16,python,2096,377,"Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",apify,crawlee-python,https://github.com/apify/crawlee-python
+2024-07-16,python,61931,108,"为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",binary-husky,gpt_academic,https://github.com/binary-husky/gpt_academic
+2024-07-16,python,164299,80,"AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",Significant-Gravitas,AutoGPT,https://github.com/Significant-Gravitas/AutoGPT
+2024-07-16,python,17693,196,We write your reusable computer vision tools. 💜,roboflow,supervision,https://github.com/roboflow/supervision
+2024-07-16,python,38370,55,Focus on prompting and generating,lllyasviel,Fooocus,https://github.com/lllyasviel/Fooocus
+2024-07-16,python,10894,65,"A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",pytube,pytube,https://github.com/pytube/pytube
+2024-07-16,python,1183,23,"PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.",MervinPraison,PraisonAI,https://github.com/MervinPraison/PraisonAI
+2024-07-16,python,12338,76,Fast and memory-efficient exact attention,Dao-AILab,flash-attention,https://github.com/Dao-AILab/flash-attention
+2024-07-16,python,38443,78,A Gradio web UI for Large Language Models.,oobabooga,text-generation-webui,https://github.com/oobabooga/text-generation-webui
+2024-07-16,python,12494,10,Download market data from Yahoo! Finance's API,ranaroussi,yfinance,https://github.com/ranaroussi/yfinance
+2024-07-16,python,69953,23,🏡 Open source home automation that puts local control and privacy first.,home-assistant,core,https://github.com/home-assistant/core
+2024-07-16,python,6292,348,An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.,stanford-oval,storm,https://github.com/stanford-oval/storm
+2024-07-16,python,15659,29,Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).,spotDL,spotify-downloader,https://github.com/spotDL/spotify-downloader
+2024-07-16,python,4944,210,🛡️ Make your web services secure by default !,bunkerity,bunkerweb,https://github.com/bunkerity/bunkerweb
+2024-07-16,python,3814,48,A Python framework for high performance GPU simulation and graphics,NVIDIA,warp,https://github.com/NVIDIA/warp
+2024-07-16,python,61131,97,The Python programming language,python,cpython,https://github.com/python/cpython
+2024-07-16,python,20042,16,A community-maintained Python framework for creating mathematical animations.,ManimCommunity,manim,https://github.com/ManimCommunity/manim
