@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-17,rust,19401,74,Self-hosted AI coding assistant,TabbyML,tabby,https://github.com/TabbyML/tabby
+2024-07-17,rust,13448,27,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",neondatabase,neon,https://github.com/neondatabase/neon
+2024-07-17,rust,31599,171,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2024-07-17,rust,13358,17,🤖 The Modern Port Scanner 🤖,RustScan,RustScan,https://github.com/RustScan/RustScan
+2024-07-17,rust,14534,29,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-07-17,rust,14523,25,Comfortably monitor your Internet traffic 🕵️‍♂️,GyulyVGC,sniffnet,https://github.com/GyulyVGC/sniffnet
+2024-07-17,rust,11630,41,"The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",gitbutlerapp,gitbutler,https://github.com/gitbutlerapp/gitbutler
+2024-07-17,rust,20520,29,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2024-07-17,rust,13723,8,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2024-07-17,rust,8301,25,"dev tools, env vars, task runner",jdx,mise,https://github.com/jdx/mise
+2024-07-17,rust,20425,24,"A library for building fast, reliable and evolvable network services.",cloudflare,pingora,https://github.com/cloudflare/pingora
+2024-07-17,rust,24603,8,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2024-07-17,rust,2884,23,🤖 An elegant Telegram bots framework for Rust,teloxide,teloxide,https://github.com/teloxide/teloxide
+2024-07-17,rust,18742,37,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2024-07-17,rust,158,5,Remix your Plex hubs,lostb1t,replex,https://github.com/lostb1t/replex
+2024-07-17,rust,14772,2,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-07-17,rust,5243,41,Friendly and fast tool for sending HTTP requests,ducaale,xh,https://github.com/ducaale/xh
+2024-07-17,rust,18886,10,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-07-17,rust,5748,9,"The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.",postgresml,postgresml,https://github.com/postgresml/postgresml
+2024-07-17,rust,20852,11,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2024-07-17,rust,29093,33,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff

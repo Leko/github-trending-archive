@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-17,python,13862,91,aider is AI pair programming in your terminal,paul-gauthier,aider,https://github.com/paul-gauthier/aider
+2024-07-17,python,2525,444,"Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",apify,crawlee-python,https://github.com/apify/crawlee-python
+2024-07-17,python,6478,106,An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.,stanford-oval,storm,https://github.com/stanford-oval/storm
+2024-07-17,python,26449,110,A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024),hiyouga,LLaMA-Factory,https://github.com/hiyouga/LLaMA-Factory
+2024-07-17,python,1290,54,"PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.",MervinPraison,PraisonAI,https://github.com/MervinPraison/PraisonAI
+2024-07-17,python,17848,193,We write your reusable computer vision tools. 💜,roboflow,supervision,https://github.com/roboflow/supervision
+2024-07-17,python,164474,233,"AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",Significant-Gravitas,AutoGPT,https://github.com/Significant-Gravitas/AutoGPT
+2024-07-17,python,62126,217,"为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",binary-husky,gpt_academic,https://github.com/binary-husky/gpt_academic
+2024-07-17,python,9203,171,The memory layer for Personalized AI,mem0ai,mem0,https://github.com/mem0ai/mem0
+2024-07-17,python,14470,65,DSPy: The framework for programming—not prompting—foundation models,stanfordnlp,dspy,https://github.com/stanfordnlp/dspy
+2024-07-17,python,26208,59,NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite,ultralytics,ultralytics,https://github.com/ultralytics/ultralytics
+2024-07-17,python,13203,35,GPT based autonomous agent that does online comprehensive research on any given topic,assafelovic,gpt-researcher,https://github.com/assafelovic/gpt-researcher
+2024-07-17,python,80460,43,Tensors and Dynamic neural networks in Python with strong GPU acceleration,pytorch,pytorch,https://github.com/pytorch/pytorch
+2024-07-17,python,89240,74,🦜🔗 Build context-aware reasoning applications,langchain-ai,langchain,https://github.com/langchain-ai/langchain
+2024-07-17,python,17293,11,Open standard for machine learning interoperability,onnx,onnx,https://github.com/onnx/onnx
+2024-07-17,python,4921,50,🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org,camel-ai,camel,https://github.com/camel-ai/camel
+2024-07-17,python,4884,21,An Open-source Framework for Autonomous Language Agents,aiwaves-cn,agents,https://github.com/aiwaves-cn/agents
+2024-07-17,python,23257,37,"OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",hiroi-sora,Umi-OCR,https://github.com/hiroi-sora/Umi-OCR

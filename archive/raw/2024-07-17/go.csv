@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-17,go,46779,25,Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-07-17,go,879,155,A drop-in replacement of Redis with SQL-based realtime reactivity.,DiceDB,dice,https://github.com/DiceDB/dice
+2024-07-17,go,19650,11,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-07-17,go,10218,10,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2024-07-17,go,18107,30,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2024-07-17,go,3165,18,"A Security Tool for Bug Bounty, Pentest and Red Teaming.",zan8in,afrog,https://github.com/zan8in/afrog
+2024-07-17,go,35415,5,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2024-07-17,go,7790,17,"ZITADEL - Identity infrastructure, simplified for you.",zitadel,zitadel,https://github.com/zitadel/zitadel
+2024-07-17,go,48492,55,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-07-17,go,14605,7,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2024-07-17,go,36876,27,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-07-17,go,16134,20,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2024-07-17,go,5112,2,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2024-07-17,go,2909,3,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,WireGuard,wireguard-go,https://github.com/WireGuard/wireguard-go
+2024-07-17,go,6259,7,The Modern Application Platform.,kubevela,kubevela,https://github.com/kubevela/kubevela
+2024-07-17,go,78757,158,"Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-07-17,go,10180,9,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2024-07-17,go,3905,3,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2024-07-17,go,26375,11,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-07-17,go,20703,8,🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2024-07-17,go,4104,4,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-07-17,go,14167,7,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-07-17,go,1625,5,"franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.",twmb,franz-go,https://github.com/twmb/franz-go
+2024-07-17,go,36395,49,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-07-17,go,108544,31,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
