@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-18,rust,25579,22,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2024-07-18,rust,31633,42,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2024-07-18,rust,13550,167,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",neondatabase,neon,https://github.com/neondatabase/neon
+2024-07-18,rust,1646,3,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-07-18,rust,19627,302,Self-hosted AI coding assistant,TabbyML,tabby,https://github.com/TabbyML/tabby
+2024-07-18,rust,5222,10,A secure embedded operating system for microcontrollers,tock,tock,https://github.com/tock/tock
+2024-07-18,rust,5915,4,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-07-18,rust,9423,16,Yet another cross-platform graphical process/system monitor.,ClementTsang,bottom,https://github.com/ClementTsang/bottom
+2024-07-18,rust,11112,11,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-07-18,rust,17891,7,Blazing 💥 fast terminal-ui for git written in rust 🦀,extrawurst,gitui,https://github.com/extrawurst/gitui
+2024-07-18,rust,8326,31,"dev tools, env vars, task runner",jdx,mise,https://github.com/jdx/mise
+2024-07-18,rust,1485,4,Cairo is the first Turing-complete language for creating provable programs for general computation.,starkware-libs,cairo,https://github.com/starkware-libs/cairo
+2024-07-18,rust,14564,21,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-07-18,rust,4875,6,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2024-07-18,rust,14553,42,Comfortably monitor your Internet traffic 🕵️‍♂️,GyulyVGC,sniffnet,https://github.com/GyulyVGC/sniffnet
+2024-07-18,rust,8411,17,CUDA on AMD GPUs,vosen,ZLUDA,https://github.com/vosen/ZLUDA
+2024-07-18,rust,3386,3,⚓ Solana Sealevel Framework,coral-xyz,anchor,https://github.com/coral-xyz/anchor
+2024-07-18,rust,1501,2,Internet Computer blockchain source: the client/replica software run by nodes,dfinity,ic,https://github.com/dfinity/ic
+2024-07-18,rust,11676,47,"The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",gitbutlerapp,gitbutler,https://github.com/gitbutlerapp/gitbutler
+2024-07-18,rust,1410,19,"An extremely fast, production-grade web bundler based on Rust.",umijs,mako,https://github.com/umijs/mako
+2024-07-18,rust,283,27,"NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.",TraceMachina,nativelink,https://github.com/TraceMachina/nativelink
+2024-07-18,rust,15391,26,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2024-07-18,rust,79914,41,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-07-18,rust,51374,34,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings

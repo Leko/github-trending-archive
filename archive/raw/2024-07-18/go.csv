@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-18,go,22820,15,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-07-18,go,10329,15,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2024-07-18,go,14173,6,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-07-18,go,7546,6,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2024-07-18,go,920,51,A drop-in replacement of Redis with SQL-based realtime reactivity.,DiceDB,dice,https://github.com/DiceDB/dice
+2024-07-18,go,16415,70,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-07-18,go,1640,14,"franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.",twmb,franz-go,https://github.com/twmb/franz-go
+2024-07-18,go,21360,8,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-07-18,go,16149,11,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2024-07-18,go,10366,8,"Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).",moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2024-07-18,go,27074,11,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2024-07-18,go,3188,23,"A Security Tool for Bug Bounty, Pentest and Red Teaming.",zan8in,afrog,https://github.com/zan8in/afrog
+2024-07-18,go,23099,6,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-07-18,go,5115,6,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2024-07-18,go,36895,22,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-07-18,go,22818,7,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-07-18,go,17033,9,"The easiest, and most secure way to access and protect all of your infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2024-07-18,go,5235,1,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2024-07-18,go,7459,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-07-18,go,712,1,Nitro goes vroom and fixes everything,OffchainLabs,nitro,https://github.com/OffchainLabs/nitro
+2024-07-18,go,41738,12,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-07-18,go,19651,5,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-07-18,go,9973,23,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",netbirdio,netbird,https://github.com/netbirdio/netbird
+2024-07-18,go,5019,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-07-18,go,6192,2,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",grpc-ecosystem,go-grpc-middleware,https://github.com/grpc-ecosystem/go-grpc-middleware
