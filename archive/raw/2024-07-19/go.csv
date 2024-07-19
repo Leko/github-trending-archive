@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-19,go,30209,21,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-07-19,go,68211,5,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-07-19,go,9995,21,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",netbirdio,netbird,https://github.com/netbirdio/netbird
+2024-07-19,go,7548,4,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2024-07-19,go,16150,10,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-07-19,go,14601,13,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-07-19,go,28373,58,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-07-19,go,22832,18,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-07-19,go,4255,2,Descheduler for Kubernetes,kubernetes-sigs,descheduler,https://github.com/kubernetes-sigs/descheduler
+2024-07-19,go,79118,175,"Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-07-19,go,4438,2,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-07-19,go,9632,2,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-07-19,go,8810,8,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-07-19,go,10422,8,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",fullstorydev,grpcurl,https://github.com/fullstorydev/grpcurl
+2024-07-19,go,1649,12,"franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.",twmb,franz-go,https://github.com/twmb/franz-go
+2024-07-19,go,10452,18,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2024-07-19,go,19908,8,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2024-07-19,go,5027,11,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-07-19,go,16684,5,Analyzes resource usage and performance characteristics of running containers.,google,cadvisor,https://github.com/google/cadvisor
+2024-07-19,go,23617,6,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2024-07-19,go,76951,29,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-07-19,go,121393,38,The Go programming language,golang,go,https://github.com/golang/go
+2024-07-19,go,3878,15,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",AlexxIT,go2rtc,https://github.com/AlexxIT/go2rtc
+2024-07-19,go,108589,27,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-07-19,go,18164,36,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
