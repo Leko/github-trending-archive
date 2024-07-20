@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-20,go,16275,35,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2024-07-20,go,30358,170,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-07-20,go,14182,2,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-07-20,go,7544,9,Let's Encrypt/ACME client and library written in Go,go-acme,lego,https://github.com/go-acme/lego
+2024-07-20,go,1666,11,"franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.",twmb,franz-go,https://github.com/twmb/franz-go
+2024-07-20,go,108610,30,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-07-20,go,121423,41,The Go programming language,golang,go,https://github.com/golang/go
+2024-07-20,go,16792,7,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-07-20,go,10887,8,"Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!",ory,kratos,https://github.com/ory/kratos
+2024-07-20,go,25653,51,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-07-20,go,9801,34,"Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.",semaphoreui,semaphore,https://github.com/semaphoreui/semaphore
+2024-07-20,go,4223,1,Sample apps and code written for Google Cloud in the Go programming language.,GoogleCloudPlatform,golang-samples,https://github.com/GoogleCloudPlatform/golang-samples
+2024-07-20,go,16162,13,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-07-20,go,79261,173,"Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-07-20,go,2597,5,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2024-07-20,go,36149,12,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2024-07-20,go,14604,4,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2024-07-20,go,5029,0,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-07-20,go,21378,9,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-07-20,go,8813,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-07-20,go,24350,4,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-07-20,go,7127,12,Golang实现的基于beego框架的接口在线文档管理系统,mindoc-org,mindoc,https://github.com/mindoc-org/mindoc
+2024-07-20,go,7461,1,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-07-20,go,16795,11,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-07-20,go,10150,9,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog

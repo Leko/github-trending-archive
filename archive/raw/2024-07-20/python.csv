@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-20,python,10423,765,The memory layer for Personalized AI,mem0ai,mem0,https://github.com/mem0ai/mem0
+2024-07-20,python,7346,263,An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.,stanford-oval,storm,https://github.com/stanford-oval/storm
+2024-07-20,python,27021,250,A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024),hiyouga,LLaMA-Factory,https://github.com/hiyouga/LLaMA-Factory
+2024-07-20,python,8824,25,"Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",microsoft,promptflow,https://github.com/microsoft/promptflow
+2024-07-20,python,42676,104,"The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",comfyanonymous,ComfyUI,https://github.com/comfyanonymous/ComfyUI
+2024-07-20,python,37638,22,Developer-first error tracking and performance monitoring,getsentry,sentry,https://github.com/getsentry/sentry
+2024-07-20,python,13715,8,"AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",ansible,awx,https://github.com/ansible/awx
+2024-07-20,python,9939,31,Turns Data and AI algorithms into production-ready web applications in no time.,Avaiga,taipy,https://github.com/Avaiga/taipy
+2024-07-20,python,14475,10,Multilingual Sentence & Image Embeddings with BERT,UKPLab,sentence-transformers,https://github.com/UKPLab/sentence-transformers
+2024-07-20,python,10249,199,"Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more",prowler-cloud,prowler,https://github.com/prowler-cloud/prowler
+2024-07-20,python,11196,18,tiktoken is a fast BPE tokeniser for use with OpenAI's models.,openai,tiktoken,https://github.com/openai/tiktoken
+2024-07-20,python,4183,6,"Collection of library stubs for Python, with static types",python,typeshed,https://github.com/python/typeshed
+2024-07-20,python,1642,188,"PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration. Chat with your ENTIRE Codebase.",MervinPraison,PraisonAI,https://github.com/MervinPraison/PraisonAI
+2024-07-20,python,30504,14,Python packaging and dependency management made easy,python-poetry,poetry,https://github.com/python-poetry/poetry
+2024-07-20,python,60785,93,Animation engine for explanatory math videos,3b1b,manim,https://github.com/3b1b/manim
+2024-07-20,python,12038,42,"SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",princeton-nlp,SWE-agent,https://github.com/princeton-nlp/SWE-agent

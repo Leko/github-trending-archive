@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-20,rust,25829,123,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2024-07-20,rust,459,151,"NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.",TraceMachina,nativelink,https://github.com/TraceMachina/nativelink
+2024-07-20,rust,14602,24,Comfortably monitor your Internet traffic 🕵️‍♂️,GyulyVGC,sniffnet,https://github.com/GyulyVGC/sniffnet
+2024-07-20,rust,26278,15,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2024-07-20,rust,95173,33,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2024-07-20,rust,28279,6,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2024-07-20,rust,25640,8,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.",vercel,turbo,https://github.com/vercel/turbo
+2024-07-20,rust,17540,9,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2024-07-20,rust,5602,6,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-07-20,rust,10396,8,Volta: JS Toolchains as Code. ⚡,volta-cli,volta,https://github.com/volta-cli/volta
+2024-07-20,rust,20894,16,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2024-07-20,rust,1138,13,"A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",mufeedvh,code2prompt,https://github.com/mufeedvh/code2prompt
+2024-07-20,rust,5242,11,A secure embedded operating system for microcontrollers,tock,tock,https://github.com/tock/tock
+2024-07-20,rust,19693,40,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2024-07-20,rust,47870,18,A cat(1) clone with wings.,sharkdp,bat,https://github.com/sharkdp/bat
+2024-07-20,rust,11623,32,"A cross-platform, safe, pure-Rust graphics API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2024-07-20,rust,20082,57,a structural diff that understands syntax 🟥🟩,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2024-07-20,rust,3121,24,A Spotify player in the terminal with full feature parity,aome510,spotify-player,https://github.com/aome510/spotify-player
+2024-07-20,rust,23870,5,A web framework for Rust.,rwf2,Rocket,https://github.com/rwf2/Rocket
+2024-07-20,rust,5932,8,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-07-20,rust,17064,8,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector

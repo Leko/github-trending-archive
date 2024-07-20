@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-20,scala,14309,0,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,scala,scala,https://github.com/scala/scala
+2024-07-20,scala,4501,7,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2024-07-20,scala,7294,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-07-20,scala,2019,3,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2024-07-20,scala,5017,0,Simple and Distributed Machine Learning,microsoft,SynapseML,https://github.com/microsoft/SynapseML
+2024-07-20,scala,5726,1,"The Scala 3 compiler, also known as Dotty.",scala,scala3,https://github.com/scala/scala3
+2024-07-20,scala,1082,0,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-07-20,scala,38972,13,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-07-20,scala,767,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2024-07-20,scala,3300,3,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2024-07-20,scala,12524,2,The Community Maintained High Velocity Web Framework For Java and Scala.,playframework,playframework,https://github.com/playframework/playframework
+2024-07-20,scala,10864,2,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2024-07-20,scala,6342,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2024-07-20,scala,1994,1,Your shiny new Java/Scala build tool!,com-lihaoyi,mill,https://github.com/com-lihaoyi/mill
+2024-07-20,scala,4772,1,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2024-07-20,scala,975,1,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2024-07-20,scala,2480,0,Yet another JSON library for Scala,circe,circe,https://github.com/circe/circe
+2024-07-20,scala,11750,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2024-07-20,scala,270,0,Apache Spark Connector for SQL Server and Azure SQL,microsoft,sql-spark-connector,https://github.com/microsoft/sql-spark-connector
+2024-07-20,scala,1892,1,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc,joernio,joern,https://github.com/joernio/joern
+2024-07-20,scala,12989,2,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2024-07-20,scala,43,0,Notebook service,DataBiosphere,leonardo,https://github.com/DataBiosphere/leonardo
