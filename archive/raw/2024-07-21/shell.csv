@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-21,shell,7767,7,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-07-21,shell,8148,15,a Docker + Kubernetes network trouble-shooting swiss-army container,nicolaka,netshoot,https://github.com/nicolaka/netshoot
+2024-07-21,shell,4359,31,AMD ROCm™ Software - GitHub Home,ROCm,ROCm,https://github.com/ROCm/ROCm
+2024-07-21,shell,10975,2,Persists tmux environment across system restarts.,tmux-plugins,tmux-resurrect,https://github.com/tmux-plugins/tmux-resurrect
+2024-07-21,shell,8640,2,Autoware - the world's leading open-source software project for autonomous driving,autowarefoundation,autoware,https://github.com/autowarefoundation/autoware
+2024-07-21,shell,13924,6,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2024-07-21,shell,1943,54,Type in Morse code by repeatedly slamming your laptop shut,veggiedefender,open-and-shut,https://github.com/veggiedefender/open-and-shut
+2024-07-21,shell,49221,26,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2024-07-21,shell,15863,16,Windows inside a Docker container.,dockur,windows,https://github.com/dockur/windows
+2024-07-21,shell,4793,2,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2024-07-21,shell,10937,0,📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！,fuzhengwei,CodeGuide,https://github.com/fuzhengwei/CodeGuide
+2024-07-21,shell,821,2,A collection of Dev Container Features managed by Dev Container spec maintainers. See https://github.com/devcontainers/feature-starter to publish your own,devcontainers,features,https://github.com/devcontainers/features
+2024-07-21,shell,30461,12,Fish-like autosuggestions for zsh,zsh-users,zsh-autosuggestions,https://github.com/zsh-users/zsh-autosuggestions
+2024-07-21,shell,7108,9,"A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",edoardottt,awesome-hacker-search-engines,https://github.com/edoardottt/awesome-hacker-search-engines
+2024-07-21,shell,6280,2,openwrt常用软件包,kenzok8,openwrt-packages,https://github.com/kenzok8/openwrt-packages
+2024-07-21,shell,3721,0,"Cloudflare WARP Installer | WARP 一键安装脚本",P3TERX,warp.sh,https://github.com/P3TERX/warp.sh
+2024-07-21,shell,1001,0,"An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",h4r5h1t,webcopilot,https://github.com/h4r5h1t/webcopilot
+2024-07-21,shell,2473,3,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner

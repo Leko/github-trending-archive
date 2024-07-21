@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-21,haskell,1585,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-07-21,haskell,35636,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-07-21,haskell,3959,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-07-21,haskell,579,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-07-21,haskell,2356,0,💥💻💥 A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2024-07-21,haskell,204,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-07-21,haskell,10091,0,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-07-21,haskell,3301,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-07-21,haskell,1122,0,Cryptol: The Language of Cryptography,GaloisInc,cryptol,https://github.com/GaloisInc/cryptol
+2024-07-21,haskell,137,0,Generate all the things (focusing on research software),JacquesCarette,Drasil,https://github.com/JacquesCarette/Drasil
+2024-07-21,haskell,763,1,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-07-21,haskell,5651,3,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-07-21,haskell,2307,5,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-07-21,haskell,272,1,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
+2024-07-21,haskell,3041,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-07-21,haskell,1704,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2024-07-21,haskell,21,0,Cardano API,IntersectMBO,cardano-api,https://github.com/IntersectMBO/cardano-api
+2024-07-21,haskell,22764,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-07-21,haskell,33352,8,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-07-21,haskell,2617,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server

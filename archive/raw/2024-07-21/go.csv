@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-21,go,16386,123,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2024-07-21,go,30447,123,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-07-21,go,33747,21,AI-Powered Photos App for the Decentralized Web 🌈💎✨,photoprism,photoprism,https://github.com/photoprism/photoprism
+2024-07-21,go,16172,10,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-07-21,go,2625,162,"The devs are over here at devzat, chat over SSH!",quackduck,devzat,https://github.com/quackduck/devzat
+2024-07-21,go,9827,30,"Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.",semaphoreui,semaphore,https://github.com/semaphoreui/semaphore
+2024-07-21,go,11149,4,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2024-07-21,go,2417,7,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。,Calcium-Ion,new-api,https://github.com/Calcium-Ion/new-api
+2024-07-21,go,21383,9,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-07-21,go,10194,7,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2024-07-21,go,4448,5,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-07-21,go,9367,6,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",casdoor,casdoor,https://github.com/casdoor/casdoor
+2024-07-21,go,2487,2,"OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)",getkin,kin-openapi,https://github.com/getkin/kin-openapi
+2024-07-21,go,23626,3,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2024-07-21,go,11134,38,"A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.",chaitin,SafeLine,https://github.com/chaitin/SafeLine
+2024-07-21,go,10730,6,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2024-07-21,go,15846,8,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",emirpasic,gods,https://github.com/emirpasic/gods
+2024-07-21,go,15574,1,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2024-07-21,go,14114,4,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2024-07-21,go,34385,5,《The Way to Go》中文译本，中文正式名《Go 入门指南》,unknwon,the-way-to-go_ZH_CN,https://github.com/unknwon/the-way-to-go_ZH_CN
+2024-07-21,go,3045,1,"Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x",oliver006,redis_exporter,https://github.com/oliver006/redis_exporter
+2024-07-21,go,1672,12,"franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.",twmb,franz-go,https://github.com/twmb/franz-go
+2024-07-21,go,43313,26,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-07-21,go,22856,7,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
