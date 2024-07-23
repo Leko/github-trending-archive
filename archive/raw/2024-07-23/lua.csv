@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-23,lua,15616,37,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-07-23,lua,3771,70,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2024-07-23,lua,15862,4,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-07-23,lua,655,68,Plugin to improve viewing Markdown files in Neovim,MeanderingProgrammer,markdown.nvim,https://github.com/MeanderingProgrammer/markdown.nvim
+2024-07-23,lua,17129,16,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-07-23,lua,14938,7,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-07-23,lua,6822,5,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2024-07-23,lua,1319,11,Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-07-23,lua,4028,4,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-07-23,lua,10054,4,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-07-23,lua,1154,31,A Neovim plugin helping you establish good command workflow and quit bad habit,m4xshen,hardtime.nvim,https://github.com/m4xshen/hardtime.nvim
+2024-07-23,lua,4562,7,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-07-23,lua,2560,1,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2024-07-23,lua,7537,5,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-07-23,lua,284,0,A FiveM resource and script library for Lua and JS.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2024-07-23,lua,196,0,Implementation of gx without the need of netrw,chrishrb,gx.nvim,https://github.com/chrishrb/gx.nvim
+2024-07-23,lua,3957,6,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
+2024-07-23,lua,6388,7,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2024-07-23,lua,5195,2,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
