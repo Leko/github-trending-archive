@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-24,rust,775,72,"NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.",TraceMachina,nativelink,https://github.com/TraceMachina/nativelink
+2024-07-24,rust,18978,18,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-07-24,rust,4230,8,A Decentralized Operating System for ZK Applications,AleoNet,snarkOS,https://github.com/AleoNet/snarkOS
+2024-07-24,rust,46575,34,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2024-07-24,rust,26820,14,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2024-07-24,rust,28199,24,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-07-24,rust,7050,10,Clash Nyanpasu～(∠・ω< )⌒☆​,LibNyanpasu,clash-nyanpasu,https://github.com/LibNyanpasu/clash-nyanpasu
+2024-07-24,rust,28299,7,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2024-07-24,rust,51779,20,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2024-07-24,rust,17339,11,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2024-07-24,rust,23900,11,A web framework for Rust.,rwf2,Rocket,https://github.com/rwf2/Rocket
+2024-07-24,rust,80082,41,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-07-24,rust,15130,33,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2024-07-24,rust,31344,257,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2024-07-24,rust,16298,17,"Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",slint-ui,slint,https://github.com/slint-ui/slint
+2024-07-24,rust,20922,19,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2024-07-24,rust,8503,9,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2024-07-24,rust,3049,19,Blazingly fast LLM inference.,EricLBuehler,mistral.rs,https://github.com/EricLBuehler/mistral.rs
+2024-07-24,rust,34274,27,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2024-07-24,rust,4195,5,An interpreter for Rust's mid-level intermediate representation,rust-lang,miri,https://github.com/rust-lang/miri
+2024-07-24,rust,23540,21,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2024-07-24,rust,23450,7,A modern replacement for ‘ls’.,ogham,exa,https://github.com/ogham/exa

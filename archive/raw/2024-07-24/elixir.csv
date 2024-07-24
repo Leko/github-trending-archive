@@ -1,0 +1,16 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-24,elixir,6011,1,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2024-07-24,elixir,3357,1,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2024-07-24,elixir,21017,7,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2024-07-24,elixir,152,0,"UI Dashboard for Exq, a job processing library for Elixir. Exq UI provides the UI dashboard to display stats on job processing.",akira,exq_ui,https://github.com/akira/exq_ui
+2024-07-24,elixir,6504,3,Enterprise-ready zero-trust access platform built on WireGuard®.,firezone,firezone,https://github.com/firezone/firezone
+2024-07-24,elixir,6077,1,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2024-07-24,elixir,19179,7,"Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2024-07-24,elixir,24077,6,"Elixir is a dynamic, functional language for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2024-07-24,elixir,1266,1,Platform for creating interactive courses.,zoonk,zoonk,https://github.com/zoonk/zoonk
+2024-07-24,elixir,4666,3,Automate code & data workflows with interactive Elixir notebooks,livebook-dev,livebook,https://github.com/livebook-dev/livebook
+2024-07-24,elixir,1255,3,The Standard Webhooks specification,standard-webhooks,standard-webhooks,https://github.com/standard-webhooks/standard-webhooks
+2024-07-24,elixir,142,0,OpenTelemetry instrumentation for Erlang & Elixir,open-telemetry,opentelemetry-erlang-contrib,https://github.com/open-telemetry/opentelemetry-erlang-contrib
+2024-07-24,elixir,724,0,[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please),valpackett,httpotion,https://github.com/valpackett/httpotion
+2024-07-24,elixir,278,1,🟪 AppSignal for Elixir package,appsignal,appsignal-elixir,https://github.com/appsignal/appsignal-elixir
+2024-07-24,elixir,1486,1,Job processing library for Elixir - compatible with Resque / Sidekiq,akira,exq,https://github.com/akira/exq
