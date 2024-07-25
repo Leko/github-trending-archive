@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-25,lua,15783,100,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-07-25,lua,819,67,Plugin to improve viewing Markdown files in Neovim,MeanderingProgrammer,markdown.nvim,https://github.com/MeanderingProgrammer/markdown.nvim
+2024-07-25,lua,3806,11,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2024-07-25,lua,2736,6,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-07-25,lua,2935,3,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2024-07-25,lua,17178,23,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-07-25,lua,2884,6,Orgmode clone written in Lua for Neovim 0.9+.,nvim-orgmode,orgmode,https://github.com/nvim-orgmode/orgmode
+2024-07-25,lua,1172,8,A Neovim plugin helping you establish good command workflow and quit bad habit,m4xshen,hardtime.nvim,https://github.com/m4xshen/hardtime.nvim
+2024-07-25,lua,1258,2,A better annotation generator. Supports multiple languages and annotation conventions.,danymat,neogen,https://github.com/danymat/neogen
+2024-07-25,lua,3620,5,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2024-07-25,lua,148,10,,tzachar,cmp-ai,https://github.com/tzachar/cmp-ai
+2024-07-25,lua,268,4,A Neovim Plugin for the yazi terminal file manager,mikavilpas,yazi.nvim,https://github.com/mikavilpas/yazi.nvim
+2024-07-25,lua,6144,3,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2024-07-25,lua,1000,2,Neovim plugin to generate text using LLMs with customizable prompts,David-Kunz,gen.nvim,https://github.com/David-Kunz/gen.nvim
+2024-07-25,lua,2296,4,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2024-07-25,lua,38450,9,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-07-25,lua,242,3,"墨奇音形，打造最强双拼辅助码rime输入方案。基于雾凇词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅），支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤|雾凇自然|墨奇码|墨奇音形",gaboolic,rime-shuangpin-fuzhuma,https://github.com/gaboolic/rime-shuangpin-fuzhuma
+2024-07-25,lua,3361,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-07-25,lua,2658,9,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim

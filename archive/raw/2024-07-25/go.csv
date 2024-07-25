@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-25,go,22690,64,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-07-25,go,16877,10,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-07-25,go,4462,4,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-07-25,go,8826,5,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-07-25,go,2390,2,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2024-07-25,go,1935,4,The Public Suffix List,publicsuffix,list,https://github.com/publicsuffix/list
+2024-07-25,go,2711,3,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",fleetdm,fleet,https://github.com/fleetdm/fleet
+2024-07-25,go,17791,11,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-07-25,go,12802,2,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2024-07-25,go,21902,13,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu
+2024-07-25,go,6236,8,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-07-25,go,22888,25,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-07-25,go,12141,6,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2024-07-25,go,5376,5,Cloud Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-07-25,go,3715,1,Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2024-07-25,go,4769,90,Native Mac APIs for Go. Previously known as MacDriver,progrium,darwinkit,https://github.com/progrium/darwinkit
+2024-07-25,go,6100,2,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-07-25,go,20515,8,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2024-07-25,go,108712,31,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-07-25,go,10189,4,Vulnerability Static Analysis for Containers,quay,clair,https://github.com/quay/clair
+2024-07-25,go,8101,5,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-07-25,go,6829,3,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
+2024-07-25,go,80142,322,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-07-25,go,10805,14,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal

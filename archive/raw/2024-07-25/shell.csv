@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-25,shell,1577,26,Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.,Shuffle,Shuffle,https://github.com/Shuffle/Shuffle
+2024-07-25,shell,5850,5,A conda-forge distribution.,conda-forge,miniforge,https://github.com/conda-forge/miniforge
+2024-07-25,shell,1479,2,"👾Scripts and samples to support Confluent Demos and Talks. ⚠️Might be rough around the edges ;-) 👉For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/",confluentinc,demo-scene,https://github.com/confluentinc/demo-scene
+2024-07-25,shell,7560,9,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-07-25,shell,1739,2,🐳 Docker Image of NetBox,netbox-community,netbox-docker,https://github.com/netbox-community/netbox-docker
+2024-07-25,shell,7339,3,Automated ACME SSL certificate generation for nginx-proxy,nginx-proxy,acme-companion,https://github.com/nginx-proxy/acme-companion
+2024-07-25,shell,4433,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-07-25,shell,739,1,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,aquasecurity,trivy-action,https://github.com/aquasecurity/trivy-action
+2024-07-25,shell,905,7,针对 LiteLoaderQQNT 的安装脚本,Mzdyl,LiteLoaderQQNT_Install,https://github.com/Mzdyl/LiteLoaderQQNT_Install
+2024-07-25,shell,4062,34,很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。,DaoCloud,public-image-mirror,https://github.com/DaoCloud/public-image-mirror
+2024-07-25,shell,2397,0,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2024-07-25,shell,15940,18,Windows inside a Docker container.,dockur,windows,https://github.com/dockur/windows
+2024-07-25,shell,3097,3,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-07-25,shell,30050,1,"🔧 .files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles
+2024-07-25,shell,77877,26,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-07-25,shell,642,1,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2024-07-25,shell,4799,2,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
