@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-26,shell,1339,5,"ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.",ONLYOFFICE,Docker-DocumentServer,https://github.com/ONLYOFFICE/Docker-DocumentServer
+2024-07-26,shell,7566,7,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-07-26,shell,77896,24,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-07-26,shell,3102,6,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-07-26,shell,1375,0,This project contains a Docker image meant to facilitate the deployment of Nacos .,nacos-group,nacos-docker,https://github.com/nacos-group/nacos-docker
+2024-07-26,shell,1106,4,A program almost identical to the 42 EXAMS for practice. (Pool EXAM & Stud EXAM),JCluzet,42_EXAM,https://github.com/JCluzet/42_EXAM
+2024-07-26,shell,1369,0,🐒 Docker distribution for Kong,Kong,docker-kong,https://github.com/Kong/docker-kong
+2024-07-26,shell,445,3,基于 lede 源码建构 x86 的 OpenWrt 固件。,DHDAXCW,OpenWRT_x86_x64,https://github.com/DHDAXCW/OpenWRT_x86_x64
+2024-07-26,shell,739,0,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,aquasecurity,trivy-action,https://github.com/aquasecurity/trivy-action
+2024-07-26,shell,21237,7,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-07-26,shell,5857,6,A conda-forge distribution.,conda-forge,miniforge,https://github.com/conda-forge/miniforge
+2024-07-26,shell,1600,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2024-07-26,shell,728,3,"""Randar"" is an exploit for Minecraft which uses LLL lattice reduction to crack the internal state of an incorrectly reused java.util.Random in the Minecraft server, then works backwards from that to locate other players currently loaded into the world.",spawnmason,randar-explanation,https://github.com/spawnmason/randar-explanation
+2024-07-26,shell,260,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2024-07-26,shell,642,1,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2024-07-26,shell,13977,4,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2024-07-26,shell,2222,3,Docker installation script,docker,docker-install,https://github.com/docker/docker-install
+2024-07-26,shell,1005,0,Eclipse Temurin™ build scripts - common across all releases/versions,adoptium,temurin-build,https://github.com/adoptium/temurin-build
+2024-07-26,shell,16904,3,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2024-07-26,shell,9977,16,"Quickly create and run optimised Windows, macOS and Linux virtual machines",quickemu-project,quickemu,https://github.com/quickemu-project/quickemu
