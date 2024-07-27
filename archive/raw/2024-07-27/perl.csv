@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-07-27,perl,8187,4,Nikto web server scanner,sullo,nikto,https://github.com/sullo/nikto
+2024-07-27,perl,19015,7,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2024-07-27,perl,32,0,Nginx C module to allow deeper control of Nginx behaviors by Kong Lua code,Kong,lua-kong-nginx-module,https://github.com/Kong/lua-kong-nginx-module
+2024-07-27,perl,224,0,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2024-07-27,perl,429,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2024-07-27,perl,980,0,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2024-07-27,perl,813,1,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2024-07-27,perl,442,0,The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants,Ensembl,ensembl-vep,https://github.com/Ensembl/ensembl-vep
+2024-07-27,perl,309,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2024-07-27,perl,452,0,✂️ ⚡ Rapid haploid variant calling and core genome alignment,tseemann,snippy,https://github.com/tseemann/snippy
+2024-07-27,perl,525,0,Linux Small Business Server,zentyal,zentyal,https://github.com/zentyal/zentyal
+2024-07-27,perl,873,1,LCOV,linux-test-project,lcov,https://github.com/linux-test-project/lcov
+2024-07-27,perl,3457,2,A fast PostgreSQL Log Analyzer,darold,pgbadger,https://github.com/darold/pgbadger
+2024-07-27,perl,2439,0,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),SpiderLabs,owasp-modsecurity-crs,https://github.com/SpiderLabs/owasp-modsecurity-crs
+2024-07-27,perl,3278,1,"Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is",imapsync,imapsync,https://github.com/imapsync/imapsync
+2024-07-27,perl,336,0,"Znuny/Znuny LTS is a fork of the ((OTRS)) Community Edition, one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management.",znuny,Znuny,https://github.com/znuny/Znuny
+2024-07-27,perl,16882,5,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2024-07-27,perl,178,0,"Comprehensive, language independent Test Suite for YAML",yaml,yaml-test-suite,https://github.com/yaml/yaml-test-suite
+2024-07-27,perl,2233,0,Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.,ddclient,ddclient,https://github.com/ddclient/ddclient
