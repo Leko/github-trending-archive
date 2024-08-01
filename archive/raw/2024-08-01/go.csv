@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-01,go,1616,207,A drop-in replacement of Redis with SQL-based realtime reactivity.,DiceDB,dice,https://github.com/DiceDB/dice
+2024-08-01,go,37023,111,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-08-01,go,18660,32,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-08-01,go,10345,11,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2024-08-01,go,26503,12,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-08-01,go,9267,19,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2024-08-01,go,41834,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-08-01,go,2190,575,Developer Friendly Kubernetes 👁️,cyclops-ui,cyclops,https://github.com/cyclops-ui/cyclops
+2024-08-01,go,22380,20,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-08-01,go,82691,361,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-08-01,go,28637,45,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-08-01,go,68277,9,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-08-01,go,7853,2,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-08-01,go,4607,19,An automated e-mail OSINT tool,alpkeskin,mosint,https://github.com/alpkeskin/mosint
+2024-08-01,go,8262,4,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-08-01,go,9658,4,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-08-01,go,37055,22,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-08-01,go,22635,9,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-08-01,go,16435,11,"Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",GoogleCloudPlatform,microservices-demo,https://github.com/GoogleCloudPlatform/microservices-demo
+2024-08-01,go,8719,2,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2024-08-01,go,9366,4,Cross-platform filesystem notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2024-08-01,go,29176,39,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",usememos,memos,https://github.com/usememos/memos
+2024-08-01,go,12708,22,Compile-time Dependency Injection for Go,google,wire,https://github.com/google/wire
+2024-08-01,go,10786,5,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
