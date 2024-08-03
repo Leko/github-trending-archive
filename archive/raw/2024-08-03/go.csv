@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-03,go,18823,36,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-08-03,go,37358,88,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-08-03,go,2349,243,A drop-in replacement of Redis with SQL-based realtime reactivity.,DiceDB,dice,https://github.com/DiceDB/dice
+2024-08-03,go,22928,14,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-08-03,go,8136,3,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-08-03,go,20626,10,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-08-03,go,26354,67,👾 Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2024-08-03,go,47138,157,Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-08-03,go,16880,5,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-08-03,go,36241,8,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-08-03,go,36670,10,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/",pingcap,tidb,https://github.com/pingcap/tidb
+2024-08-03,go,8792,19,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2024-08-03,go,9163,20,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2024-08-03,go,77243,30,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-08-03,go,4150,10,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-08-03,go,936,77,eBPF-based Cloud Native Monitoring Tool,KindlingProject,kindling,https://github.com/KindlingProject/kindling
+2024-08-03,go,17760,8,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2024-08-03,go,26560,8,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-08-03,go,5985,2,Sql mock driver for golang to test database interactions,DATA-DOG,go-sqlmock,https://github.com/DATA-DOG/go-sqlmock
+2024-08-03,go,7859,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-08-03,go,7739,5,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-08-03,go,22410,15,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-08-03,go,15293,9,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server

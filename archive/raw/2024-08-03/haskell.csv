@@ -1,0 +1,10 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-03,haskell,35769,21,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-08-03,haskell,22942,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-08-03,haskell,10134,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-08-03,haskell,3185,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2024-08-03,haskell,5725,2,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-08-03,haskell,30,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-08-03,haskell,1544,0,The Plutus language implementation and tools,IntersectMBO,plutus,https://github.com/IntersectMBO/plutus
+2024-08-03,haskell,34,0,This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.,IntersectMBO,cardano-cli,https://github.com/IntersectMBO/cardano-cli
+2024-08-03,haskell,2623,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
