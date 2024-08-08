@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-08,r,2210,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2024-08-08,r,368,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2024-08-08,r,1904,0,A Wes Anderson color palette for R,karthik,wesanderson,https://github.com/karthik/wesanderson
+2024-08-08,r,487,0,Survival Analysis and Visualization,kassambara,survminer,https://github.com/kassambara/survminer
+2024-08-08,r,141,1,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2024-08-08,r,539,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2024-08-08,r,981,1,📊 A universal enrichment tool for interpreting omics data,YuLab-SMU,clusterProfiler,https://github.com/YuLab-SMU/clusterProfiler
+2024-08-08,r,5335,2,Easy interactive web applications with R,rstudio,shiny,https://github.com/rstudio/shiny
+2024-08-08,r,1656,0,R Interface to Python,rstudio,reticulate,https://github.com/rstudio/reticulate
+2024-08-08,r,265,2,"A lightweight, modern and flexible, log4j and futile.logger inspired logging utility for R",daroczig,logger,https://github.com/daroczig/logger
+2024-08-08,r,1272,0,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2024-08-08,r,574,1,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2024-08-08,r,1316,1,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2024-08-08,r,614,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2024-08-08,r,987,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2024-08-08,r,459,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2024-08-08,r,2430,0,The Composer of ggplots,thomasp85,patchwork,https://github.com/thomasp85/patchwork
+2024-08-08,r,311,1,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2024-08-08,r,939,0,R interface for Apache Spark,sparklyr,sparklyr,https://github.com/sparklyr/sparklyr
+2024-08-08,r,1024,2,"RStan, the R interface to Stan",stan-dev,rstan,https://github.com/stan-dev/rstan
+2024-08-08,r,325,0,"Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs",r-lib,remotes,https://github.com/r-lib/remotes
+2024-08-08,r,574,1,An implementation of the Language Server Protocol for R,REditorSupport,languageserver,https://github.com/REditorSupport/languageserver
+2024-08-08,r,1015,0,Presentation-Ready Data Summary and Analytic Result Tables,ddsjoberg,gtsummary,https://github.com/ddsjoberg/gtsummary

@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-08,go,1868,241,A simple and fast anti-censorship tool written in Go,xvzc,SpoofDPI,https://github.com/xvzc/SpoofDPI
+2024-08-08,go,19737,4,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-08-08,go,36287,11,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-08-08,go,2627,6,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2024-08-08,go,10224,4,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2024-08-08,go,5643,81,Encore is the Backend Development Platform for building distributed systems and event-driven applications.,encoredev,encore,https://github.com/encoredev/encore
+2024-08-08,go,2831,34,Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.,taubyte,tau,https://github.com/taubyte/tau
+2024-08-08,go,8143,6,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2024-08-08,go,83168,65,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-08-08,go,17839,3,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-08-08,go,36293,29,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2024-08-08,go,3384,3,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",testcontainers,testcontainers-go,https://github.com/testcontainers/testcontainers-go
+2024-08-08,go,6128,2,An alternative full node bitcoin implementation written in Go (golang),btcsuite,btcd,https://github.com/btcsuite/btcd
+2024-08-08,go,8007,11,A Go port of Ruby's dotenv library (Loads environment variables from .env files),joho,godotenv,https://github.com/joho/godotenv
+2024-08-08,go,6606,6,Generate a Go ORM tailored to your database schema.,volatiletech,sqlboiler,https://github.com/volatiletech/sqlboiler
+2024-08-08,go,8850,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-08-08,go,7918,5,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2024-08-08,go,16277,7,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-08-08,go,11301,2,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2024-08-08,go,3672,0,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
