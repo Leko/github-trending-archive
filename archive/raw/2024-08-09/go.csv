@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-09,go,7622,5,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-08-09,go,24403,7,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-08-09,go,28758,11,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-08-09,go,28135,3,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2024-08-09,go,8041,5,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",uber,cadence,https://github.com/uber/cadence
+2024-08-09,go,6517,13,🧟 The modern PHP app server,dunglas,frankenphp,https://github.com/dunglas/frankenphp
+2024-08-09,go,5198,4,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,google,uuid,https://github.com/google/uuid
+2024-08-09,go,20655,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-08-09,go,10289,9,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2024-08-09,go,53076,37,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2024-08-09,go,7269,10,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2024-08-09,go,37170,19,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-08-09,go,36295,11,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-08-09,go,17849,10,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-08-09,go,8852,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-08-09,go,11804,3,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-08-09,go,26560,18,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-08-09,go,5056,1,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-08-09,go,44925,21,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2024-08-09,go,3921,1,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2024-08-09,go,1569,10,"A fast Golang library for media type and file extension detection, based on magic numbers",gabriel-vasile,mimetype,https://github.com/gabriel-vasile/mimetype
+2024-08-09,go,1120,2,OpenTelemetry Collector distribution with programmable pipelines,grafana,alloy,https://github.com/grafana/alloy
+2024-08-09,go,2634,5,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2024-08-09,go,10232,12,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
