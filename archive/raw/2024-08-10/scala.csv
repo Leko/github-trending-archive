@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-10,scala,39083,9,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-08-10,scala,7344,8,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-08-10,scala,4538,1,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2024-08-10,scala,61862,10,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2024-08-10,scala,1108,1,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-08-10,scala,1526,1,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",ucb-bar,chipyard,https://github.com/ucb-bar/chipyard
+2024-08-10,scala,3211,3,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2024-08-10,scala,3788,2,State of the Art Natural Language Processing,JohnSnowLabs,spark-nlp,https://github.com/JohnSnowLabs/spark-nlp
+2024-08-10,scala,14944,2,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2024-08-10,scala,14315,1,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,scala,scala,https://github.com/scala/scala
+2024-08-10,scala,4781,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2024-08-10,scala,2039,2,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2024-08-10,scala,874,0,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2024-08-10,scala,160,0,RISC-V Torture Test,ucb-bar,riscv-torture,https://github.com/ucb-bar/riscv-torture
+2024-08-10,scala,735,0,"Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.",softwaremill,bootzooka,https://github.com/softwaremill/bootzooka
+2024-08-10,scala,451,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel
+2024-08-10,scala,3124,2,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2024-08-10,scala,890,0,"Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",scalacenter,bloop,https://github.com/scalacenter/bloop
+2024-08-10,scala,3313,2,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive

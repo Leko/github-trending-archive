@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-10,go,2699,17,"🤖 AI Gateway | AI Native API Gateway",alibaba,higress,https://github.com/alibaba/higress
+2024-08-10,go,24408,12,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-08-10,go,17854,6,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-08-10,go,6589,7,A PDF processor written in Go.,pdfcpu,pdfcpu,https://github.com/pdfcpu/pdfcpu
+2024-08-10,go,54213,19,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-08-10,go,8808,8,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",sashabaranov,go-openai,https://github.com/sashabaranov/go-openai
+2024-08-10,go,5423,6,Cloud Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-08-10,go,47038,10,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-08-10,go,9414,9,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2024-08-10,go,2638,3,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2024-08-10,go,8187,9,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-08-10,go,10006,3,Code AI platform with Code Search & Cody,sourcegraph,sourcegraph,https://github.com/sourcegraph/sourcegraph
+2024-08-10,go,68307,11,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-08-10,go,6524,11,🧟 The modern PHP app server,dunglas,frankenphp,https://github.com/dunglas/frankenphp
+2024-08-10,go,11313,3,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2024-08-10,go,29654,9,"CockroachDB - the open source, cloud-native distributed SQL database.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2024-08-10,go,4201,1,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2024-08-10,go,15842,6,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2024-08-10,go,8150,2,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2024-08-10,go,23275,7,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-08-10,go,16287,5,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-08-10,go,2262,1,Terraform Provider for Google Cloud Platform,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google

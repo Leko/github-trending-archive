@@ -1,0 +1,15 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-10,haskell,10143,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-08-10,haskell,33546,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-08-10,haskell,22970,7,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-08-10,haskell,5748,5,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-08-10,haskell,2354,2,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-08-10,haskell,60,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2024-08-10,haskell,208,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-08-10,haskell,3041,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-08-10,haskell,266,0,Implementation of the Hydra Head protocol,cardano-scaling,hydra,https://github.com/cardano-scaling/hydra
+2024-08-10,haskell,3316,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-08-10,haskell,3195,2,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2024-08-10,haskell,272,0,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
+2024-08-10,haskell,35847,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-08-10,haskell,521,2,SystemVerilog to Verilog conversion,zachjs,sv2v,https://github.com/zachjs/sv2v
