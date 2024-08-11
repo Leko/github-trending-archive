@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-11,go,5065,4,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-08-11,go,7653,11,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-08-11,go,11815,6,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-08-11,go,12090,2,🐠 Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2024-08-11,go,2707,8,"🤖 AI Gateway | AI Native API Gateway",alibaba,higress,https://github.com/alibaba/higress
+2024-08-11,go,68308,6,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-08-11,go,10974,17,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2024-08-11,go,10756,8,An engine to run your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2024-08-11,go,2806,4,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-08-11,go,20981,13,🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-08-11,go,30041,9,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2024-08-11,go,62947,22,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2024-08-11,go,121890,22,The Go programming language,golang,go,https://github.com/golang/go
+2024-08-11,go,11632,3,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-08-11,go,20658,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-08-11,go,3991,10,"LangChain for Go, the easiest way to write LLM-based programs in Go",tmc,langchaingo,https://github.com/tmc/langchaingo
+2024-08-11,go,5247,0,syzkaller is an unsupervised coverage-guided kernel fuzzer,google,syzkaller,https://github.com/google/syzkaller
+2024-08-11,go,10114,6,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-08-11,go,41908,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-08-11,go,8056,2,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",uber,cadence,https://github.com/uber/cadence
