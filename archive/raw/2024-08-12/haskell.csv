@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-12,haskell,5755,3,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-08-12,haskell,2885,3,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-08-12,haskell,2626,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-08-12,haskell,3972,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-08-12,haskell,3316,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-08-12,haskell,208,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-08-12,haskell,1253,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-08-12,haskell,521,0,SystemVerilog to Verilog conversion,zachjs,sv2v,https://github.com/zachjs/sv2v
+2024-08-12,haskell,3197,1,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2024-08-12,haskell,1709,3,A multilingual package manager for Arch Linux and the AUR.,fosskers,aura,https://github.com/fosskers/aura
+2024-08-12,haskell,193,0,Open source binary analysis tools.,GaloisInc,macaw,https://github.com/GaloisInc/macaw
+2024-08-12,haskell,1798,0,"Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!",haskell-servant,servant,https://github.com/haskell-servant/servant
+2024-08-12,haskell,60,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2024-08-12,haskell,35852,5,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-08-12,haskell,1591,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-08-12,haskell,7492,3,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2024-08-12,haskell,287,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,IntersectMBO,cardano-db-sync,https://github.com/IntersectMBO/cardano-db-sync
+2024-08-12,haskell,33560,8,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
