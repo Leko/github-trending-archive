@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-15,elixir,6102,1,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2024-08-15,elixir,5781,50,"Postgres everywhere — your data, in sync, wherever you need it.",electric-sql,electric,https://github.com/electric-sql/electric
+2024-08-15,elixir,6644,9,"Broadcast, Presence, and Postgres Changes via WebSockets",supabase,realtime,https://github.com/supabase/realtime
+2024-08-15,elixir,19409,15,"Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2024-08-15,elixir,1503,8,"A declarative, extensible framework for building Elixir applications.",ash-project,ash,https://github.com/ash-project/ash
+2024-08-15,elixir,722,2,Cursor-based pagination for Elixir Ecto,duffelhq,paginator,https://github.com/duffelhq/paginator
+2024-08-15,elixir,1033,0,Event store using PostgreSQL for persistence,commanded,eventstore,https://github.com/commanded/eventstore
+2024-08-15,elixir,42,0,,OffchainLabs,blockscout,https://github.com/OffchainLabs/blockscout
+2024-08-15,elixir,1097,6,Svelte inside Phoenix LiveView with seamless end-to-end reactivity,woutdp,live_svelte,https://github.com/woutdp/live_svelte
+2024-08-15,elixir,145,0,OpenTelemetry instrumentation for Erlang & Elixir,open-telemetry,opentelemetry-erlang-contrib,https://github.com/open-telemetry/opentelemetry-erlang-contrib
+2024-08-15,elixir,140,0,Wrapper around the Erlang crypto module for Elixir.,ntrepid8,ex_crypto,https://github.com/ntrepid8/ex_crypto
+2024-08-15,elixir,43,0,A Redis backend for for the Hammer rate-limiter,ExHammer,hammer-backend-redis,https://github.com/ExHammer/hammer-backend-redis
+2024-08-15,elixir,3416,2,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,blockscout,blockscout,https://github.com/blockscout/blockscout
+2024-08-15,elixir,310,0,Polymorphic embeds in Ecto,mathieuprog,polymorphic_embed,https://github.com/mathieuprog/polymorphic_embed
+2024-08-15,elixir,1283,1,Platform for creating interactive courses.,zoonk,zoonk,https://github.com/zoonk/zoonk
+2024-08-15,elixir,24165,6,"Elixir is a dynamic, functional language for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2024-08-15,elixir,725,0,[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please),valpackett,httpotion,https://github.com/valpackett/httpotion
+2024-08-15,elixir,6046,0,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view

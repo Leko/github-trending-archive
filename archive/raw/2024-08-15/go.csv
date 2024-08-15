@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-15,go,15443,146,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2024-08-15,go,2816,4,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-08-15,go,8328,5,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-08-15,go,28995,9,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2024-08-15,go,12212,6,GitHub's Online Schema-migration Tool for MySQL,github,gh-ost,https://github.com/github/gh-ost
+2024-08-15,go,7876,1,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-08-15,go,33332,17,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-08-15,go,54278,21,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-08-15,go,37229,13,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-08-15,go,68323,8,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-08-15,go,84909,174,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-08-15,go,6670,29,📖 100 Go Mistakes and How to Avoid Them,teivah,100-go-mistakes,https://github.com/teivah/100-go-mistakes
+2024-08-15,go,5893,3,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
+2024-08-15,go,17409,7,Faster way to switch between clusters and namespaces in kubectl,ahmetb,kubectx,https://github.com/ahmetb/kubectx
+2024-08-15,go,30708,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-08-15,go,12091,1,🐠 Beats - Lightweight shippers for Elasticsearch & Logstash,elastic,beats,https://github.com/elastic/beats
+2024-08-15,go,15603,1,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2024-08-15,go,23308,11,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-08-15,go,14399,5,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2024-08-15,go,20670,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-08-15,go,5279,1,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2024-08-15,go,11673,18,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-08-15,go,25068,4,"The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio 🚀",kataras,iris,https://github.com/kataras/iris
+2024-08-15,go,11169,16,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
