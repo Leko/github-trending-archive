@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-16,python,969,255,Various AI scripts. Mostly Stable Diffusion stuff.,ostris,ai-toolkit,https://github.com/ostris/ai-toolkit
+2024-08-16,python,46614,247,"The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",comfyanonymous,ComfyUI,https://github.com/comfyanonymous/ComfyUI
+2024-08-16,python,675,53,No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents,Zipstack,unstract,https://github.com/Zipstack/unstract
+2024-08-16,python,11844,7,Pyodide is a Python distribution for the browser and Node.js based on WebAssembly,pyodide,pyodide,https://github.com/pyodide/pyodide
+2024-08-16,python,11388,30,"LLM Proxy to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq",BerriAI,litellm,https://github.com/BerriAI/litellm
+2024-08-16,python,4376,182,"Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.",xorbitsai,inference,https://github.com/xorbitsai/inference
+2024-08-16,python,130593,47,"🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",huggingface,transformers,https://github.com/huggingface/transformers
+2024-08-16,python,14787,58,A modular graph-based Retrieval-Augmented Generation (RAG) system,microsoft,graphrag,https://github.com/microsoft/graphrag
+2024-08-16,python,16614,74,python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等,wistbean,learn_python3_spider,https://github.com/wistbean/learn_python3_spider
+2024-08-16,python,38185,8,The uncompromising Python code formatter,psf,black,https://github.com/psf/black
+2024-08-16,python,8959,66,Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音,jianchang512,pyvideotrans,https://github.com/jianchang512/pyvideotrans
+2024-08-16,python,1037,53,Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton,sustcsonglin,flash-linear-attention,https://github.com/sustcsonglin/flash-linear-attention
+2024-08-16,python,13789,6,"AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",ansible,awx,https://github.com/ansible/awx
+2024-08-16,python,6523,18,Multi-Cloud Security Auditing Tool,nccgroup,ScoutSuite,https://github.com/nccgroup/ScoutSuite
+2024-08-16,python,17470,6,Open standard for machine learning interoperability,onnx,onnx,https://github.com/onnx/onnx
+2024-08-16,python,4384,9,,andrewyng,translation-agent,https://github.com/andrewyng/translation-agent
+2024-08-16,python,1608,10,[ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?,princeton-nlp,SWE-bench,https://github.com/princeton-nlp/SWE-bench
+2024-08-16,python,15147,14,"The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.",airbytehq,airbyte,https://github.com/airbytehq/airbyte
+2024-08-16,python,8567,7,Bayesian Modeling and Probabilistic Programming in Python,pymc-devs,pymc,https://github.com/pymc-devs/pymc
+2024-08-16,python,8400,7,A PyTorch-based Speech Toolkit,speechbrain,speechbrain,https://github.com/speechbrain/speechbrain

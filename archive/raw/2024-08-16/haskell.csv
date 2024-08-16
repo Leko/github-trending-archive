@@ -1,0 +1,14 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-16,haskell,35880,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-08-16,haskell,80,2,A rules-compliant browser based version of Arkham Horror: The Card Game.,halogenandtoast,ArkhamHorror,https://github.com/halogenandtoast/ArkhamHorror
+2024-08-16,haskell,33619,17,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-08-16,haskell,5771,6,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-08-16,haskell,22995,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-08-16,haskell,10153,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-08-16,haskell,1799,0,"Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!",haskell-servant,servant,https://github.com/haskell-servant/servant
+2024-08-16,haskell,3207,2,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2024-08-16,haskell,3323,2,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-08-16,haskell,523,0,SystemVerilog to Verilog conversion,zachjs,sv2v,https://github.com/zachjs/sv2v
+2024-08-16,haskell,272,0,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
+2024-08-16,haskell,266,0,Implementation of the Hydra Head protocol,cardano-scaling,hydra,https://github.com/cardano-scaling/hydra
+2024-08-16,haskell,288,0,A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL,IntersectMBO,cardano-db-sync,https://github.com/IntersectMBO/cardano-db-sync
