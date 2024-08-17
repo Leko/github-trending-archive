@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-17,python,12373,19,"SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",princeton-nlp,SWE-agent,https://github.com/princeton-nlp/SWE-agent
+2024-08-17,python,1123,164,Various AI scripts. Mostly Stable Diffusion stuff.,ostris,ai-toolkit,https://github.com/ostris/ai-toolkit
+2024-08-17,python,9679,18,"Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",kedro-org,kedro,https://github.com/kedro-org/kedro
+2024-08-17,python,18481,7,"💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",RasaHQ,rasa,https://github.com/RasaHQ/rasa
+2024-08-17,python,18312,26,"Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",crewAIInc,crewAI,https://github.com/crewAIInc/crewAI
+2024-08-17,python,14684,38,A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.,MetaCubeX,mihomo,https://github.com/MetaCubeX/mihomo
+2024-08-17,python,3461,76,IntelOwl: manage your Threat Intelligence at scale,intelowlproject,IntelOwl,https://github.com/intelowlproject/IntelOwl
+2024-08-17,python,17492,47,Open standard for machine learning interoperability,onnx,onnx,https://github.com/onnx/onnx
+2024-08-17,python,46864,269,"The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",comfyanonymous,ComfyUI,https://github.com/comfyanonymous/ComfyUI
+2024-08-17,python,31137,18,"The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",huggingface,pytorch-image-models,https://github.com/huggingface/pytorch-image-models
+2024-08-17,python,61391,24,Animation engine for explanatory math videos,3b1b,manim,https://github.com/3b1b/manim
+2024-08-17,python,8547,159,The authentication glue you need.,goauthentik,authentik,https://github.com/goauthentik/authentik
+2024-08-17,python,817,253,No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents,Zipstack,unstract,https://github.com/Zipstack/unstract
+2024-08-17,python,59680,19,"The official gpt4free repository | various collection of powerful language models",xtekky,gpt4free,https://github.com/xtekky/gpt4free
+2024-08-17,python,20973,17,Zulip server and web application. Open-source team chat that helps teams stay productive and focused.,zulip,zulip,https://github.com/zulip/zulip
+2024-08-17,python,20395,41,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-08-17,python,3678,25,Silero VAD: pre-trained enterprise-grade Voice Activity Detector,snakers4,silero-vad,https://github.com/snakers4/silero-vad
+2024-08-17,python,4849,48,获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。,xaoyaoo,PyWxDump,https://github.com/xaoyaoo/PyWxDump

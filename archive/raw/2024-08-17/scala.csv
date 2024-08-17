@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-17,scala,61919,8,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2024-08-17,scala,39143,17,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-08-17,scala,7362,1,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-08-17,scala,2039,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2024-08-17,scala,4050,3,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2024-08-17,scala,4551,4,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2024-08-17,scala,14317,1,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,scala,scala,https://github.com/scala/scala
+2024-08-17,scala,5772,2,"The Scala 3 compiler, also known as Dotty.",scala,scala3,https://github.com/scala/scala3
+2024-08-17,scala,1115,2,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-08-17,scala,14955,0,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2024-08-17,scala,10921,7,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2024-08-17,scala,3874,1,Chisel: A Modern Hardware Design Language,chipsalliance,chisel,https://github.com/chipsalliance/chisel
+2024-08-17,scala,281,0,,ucb-bar,berkeley-hardfloat,https://github.com/ucb-bar/berkeley-hardfloat
+2024-08-17,scala,1537,2,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",ucb-bar,chipyard,https://github.com/ucb-bar/chipyard
+2024-08-17,scala,4786,2,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2024-08-17,scala,3220,2,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2024-08-17,scala,1670,1,SonicBOOM: The Berkeley Out-of-Order Machine,riscv-boom,riscv-boom,https://github.com/riscv-boom/riscv-boom
+2024-08-17,scala,121,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2024-08-17,scala,13009,0,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
