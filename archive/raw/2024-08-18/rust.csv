@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-18,rust,3812,9,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2024-08-18,rust,14884,4,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-08-18,rust,70574,88,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-08-18,rust,5029,9,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2024-08-18,rust,21264,12,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2024-08-18,rust,29922,21,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2024-08-18,rust,1392,5,📦 shippable application packaging,axodotdev,cargo-dist,https://github.com/axodotdev/cargo-dist
+2024-08-18,rust,17274,11,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-08-18,rust,13428,15,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",biomejs,biome,https://github.com/biomejs/biome
+2024-08-18,rust,8513,13,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2024-08-18,rust,1701,2,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-08-18,rust,27146,27,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2024-08-18,rust,15990,24,"An extremely fast Python package installer and resolver, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-08-18,rust,5769,5,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-08-18,rust,4066,8,"Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",stalwartlabs,mail-server,https://github.com/stalwartlabs/mail-server
+2024-08-18,rust,2887,4,Rust bindings for Godot 4,godot-rust,gdext,https://github.com/godot-rust/gdext
+2024-08-18,rust,12457,13,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2024-08-18,rust,5947,1,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2024-08-18,rust,28666,23,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-08-18,rust,17614,3,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2024-08-18,rust,9385,24,Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀,ratatui-org,ratatui,https://github.com/ratatui-org/ratatui
+2024-08-18,rust,870,2,"A performant, 100% open-source, contributor-friendly zkVM.",succinctlabs,sp1,https://github.com/succinctlabs/sp1
+2024-08-18,rust,43955,48,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
