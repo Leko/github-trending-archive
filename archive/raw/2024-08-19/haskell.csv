@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-19,haskell,1723,3,A multilingual package manager for Arch Linux and the AUR.,fosskers,aura,https://github.com/fosskers/aura
+2024-08-19,haskell,5811,12,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-08-19,haskell,1254,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-08-19,haskell,583,1,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-08-19,haskell,33650,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-08-19,haskell,23010,4,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-08-19,haskell,35902,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-08-19,haskell,266,0,Implementation of the Hydra Head protocol,cardano-scaling,hydra,https://github.com/cardano-scaling/hydra
+2024-08-19,haskell,2632,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-08-19,haskell,1556,0,The Plutus language implementation and tools,IntersectMBO,plutus,https://github.com/IntersectMBO/plutus
+2024-08-19,haskell,3325,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-08-19,haskell,5701,3,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-08-19,haskell,3972,0,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-08-19,haskell,88,4,"An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced, endorsed, or supported by, or affiliated with Fantasy Flight Games.",halogenandtoast,ArkhamHorror,https://github.com/halogenandtoast/ArkhamHorror
+2024-08-19,haskell,142,0,Addresses and mnemonic manipulation & derivations,IntersectMBO,cardano-addresses,https://github.com/IntersectMBO/cardano-addresses
+2024-08-19,haskell,272,0,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
+2024-08-19,haskell,30,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-08-19,haskell,1594,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal

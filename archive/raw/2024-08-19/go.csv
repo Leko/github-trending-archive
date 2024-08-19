@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-19,go,20563,60,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-08-19,go,2816,18,A drop-in replacement of Redis with SQL-based realtime reactivity.,DiceDB,dice,https://github.com/DiceDB/dice
+2024-08-19,go,17638,57,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-08-19,go,14249,11,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",apernet,hysteria,https://github.com/apernet/hysteria
+2024-08-19,go,1264,208,"Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.",rusq,slackdump,https://github.com/rusq/slackdump
+2024-08-19,go,15271,31,"Find, verify, and analyze leaked credentials",trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-08-19,go,27283,79,Easily and securely send things from one computer to another 🐊 📦,schollz,croc,https://github.com/schollz/croc
+2024-08-19,go,14892,7,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2024-08-19,go,23723,26,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-08-19,go,1762,3,AI Chatbots in terminal without needing API keys,aandrew-me,tgpt,https://github.com/aandrew-me/tgpt
+2024-08-19,go,5171,2,,marcel-dempers,docker-development-youtube-series,https://github.com/marcel-dempers/docker-development-youtube-series
+2024-08-19,go,11343,8,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2024-08-19,go,18199,24,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2024-08-19,go,4965,6,(Golang) Go bindings for Discord,bwmarrin,discordgo,https://github.com/bwmarrin/discordgo
+2024-08-19,go,37830,6,An extremely fast bundler for the web,evanw,esbuild,https://github.com/evanw/esbuild
+2024-08-19,go,20844,12,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2024-08-19,go,13176,2,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
+2024-08-19,go,49540,34,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-08-19,go,20758,9,Pulumi - Infrastructure as Code in any programming language 🚀,pulumi,pulumi,https://github.com/pulumi/pulumi
+2024-08-19,go,56322,26,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2024-08-19,go,4499,2,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2024-08-19,go,1955,4,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",XrayR-project,XrayR,https://github.com/XrayR-project/XrayR
