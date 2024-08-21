@@ -1,0 +1,16 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-21,perl,8259,4,Nikto web server scanner,sullo,nikto,https://github.com/sullo/nikto
+2024-08-21,perl,19154,6,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2024-08-21,perl,436,1,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2024-08-21,perl,229,1,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2024-08-21,perl,2624,1,Client for PPP+TLS VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
+2024-08-21,perl,883,1,LCOV,linux-test-project,lcov,https://github.com/linux-test-project/lcov
+2024-08-21,perl,46,0,a superdaemon for hot-deploying server programs,kazuho,p5-Server-Starter,https://github.com/kazuho/p5-Server-Starter
+2024-08-21,perl,310,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2024-08-21,perl,817,0,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2024-08-21,perl,443,0,The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants,Ensembl,ensembl-vep,https://github.com/Ensembl/ensembl-vep
+2024-08-21,perl,889,0,lm-sensors repository,lm-sensors,lm-sensors,https://github.com/lm-sensors/lm-sensors
+2024-08-21,perl,1514,0,ModSecurity v3 Nginx Connector,owasp-modsecurity,ModSecurity-nginx,https://github.com/owasp-modsecurity/ModSecurity-nginx
+2024-08-21,perl,1300,0,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
+2024-08-21,perl,3294,0,"Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is",imapsync,imapsync,https://github.com/imapsync/imapsync
+2024-08-21,perl,991,1,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
