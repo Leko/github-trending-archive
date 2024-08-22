@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-22,shell,78368,22,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-08-22,shell,1603,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2024-08-22,shell,6021,9,A conda-forge distribution.,conda-forge,miniforge,https://github.com/conda-forge/miniforge
+2024-08-22,shell,38208,13,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2024-08-22,shell,4022,5,"redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here",remote-android,redroid-doc,https://github.com/remote-android/redroid-doc
+2024-08-22,shell,6225,2,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2024-08-22,shell,3134,2,pre-commit git hooks to take care of Terraform configurations 🇺🇦,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2024-08-22,shell,16446,30,Windows inside a Docker container.,dockur,windows,https://github.com/dockur/windows
+2024-08-22,shell,3187,2,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-08-22,shell,5510,4,Linux privilege escalation auditing tool,The-Z-Labs,linux-exploit-suggester,https://github.com/The-Z-Labs/linux-exploit-suggester
+2024-08-22,shell,4463,0,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-08-22,shell,6394,0,"Primary source of truth for the Docker ""Official Images"" program",docker-library,official-images,https://github.com/docker-library/official-images
+2024-08-22,shell,6494,1,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2024-08-22,shell,1034,1,"An Ansible playbook that sets up a Wireguard server with ad blocking, DNS-over-HTTPS, and a WebUI with 2FA",notthebee,ansible-easy-vpn,https://github.com/notthebee/ansible-easy-vpn
+2024-08-22,shell,6236,17,"// Aesthetic, dynamic and minimal dots for Arch hyprland",prasanthrangan,hyprdots,https://github.com/prasanthrangan/hyprdots
+2024-08-22,shell,2497,0,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
+2024-08-22,shell,21415,10,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-08-22,shell,649,1,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2024-08-22,shell,5896,8,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2024-08-22,shell,171853,38,"🙃 A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2024-08-22,shell,645,1,Wazuh - Docker containers,wazuh,wazuh-docker,https://github.com/wazuh/wazuh-docker

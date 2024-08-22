@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-22,go,21157,104,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-08-22,go,4507,5,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2024-08-22,go,10852,3,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-08-22,go,9564,9,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",casdoor,casdoor,https://github.com/casdoor/casdoor
+2024-08-22,go,10072,18,Code AI platform with Code Search & Cody,sourcegraph,sourcegraph-public-snapshot,https://github.com/sourcegraph/sourcegraph-public-snapshot
+2024-08-22,go,127378,80,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-08-22,go,4165,36,"A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",amitshekhariitbhu,go-backend-clean-architecture,https://github.com/amitshekhariitbhu/go-backend-clean-architecture
+2024-08-22,go,17144,10,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-08-22,go,16815,30,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2024-08-22,go,2983,17,Sonne tanken ☀️🚘,evcc-io,evcc,https://github.com/evcc-io/evcc
+2024-08-22,go,26168,37,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-08-22,go,86064,160,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-08-22,go,21553,13,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-08-22,go,9404,24,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2024-08-22,go,7628,4,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2024-08-22,go,10171,8,webhook is a lightweight incoming webhook server to run shell commands,adnanh,webhook,https://github.com/adnanh/webhook
+2024-08-22,go,5462,7,Cloud Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-08-22,go,11254,12,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-08-22,go,8883,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-08-22,go,10415,7,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2024-08-22,go,1714,5,"franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.7+. Producing, consuming, transacting, administrating, etc.",twmb,franz-go,https://github.com/twmb/franz-go
+2024-08-22,go,21691,26,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2024-08-22,go,9696,3,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-08-22,go,11098,15,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
