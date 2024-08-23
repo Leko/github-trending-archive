@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-23,perl,231,0,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2024-08-23,perl,46,0,a superdaemon for hot-deploying server programs,kazuho,p5-Server-Starter,https://github.com/kazuho/p5-Server-Starter
+2024-08-23,perl,310,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2024-08-23,perl,436,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2024-08-23,perl,19160,3,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2024-08-23,perl,2988,3,,ThePrimeagen,.dotfiles,https://github.com/ThePrimeagen/.dotfiles
+2024-08-23,perl,456,0,"A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",FelixKrueger,TrimGalore,https://github.com/FelixKrueger/TrimGalore
+2024-08-23,perl,991,0,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2024-08-23,perl,252,0,FusionInventory Agent,fusioninventory,fusioninventory-agent,https://github.com/fusioninventory/fusioninventory-agent
+2024-08-23,perl,2445,0,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),SpiderLabs,owasp-modsecurity-crs,https://github.com/SpiderLabs/owasp-modsecurity-crs
+2024-08-23,perl,884,1,LCOV,linux-test-project,lcov,https://github.com/linux-test-project/lcov
+2024-08-23,perl,801,0,⚡ ♒ Rapid prokaryotic genome annotation,tseemann,prokka,https://github.com/tseemann/prokka
+2024-08-23,perl,2288,2,Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.,ddclient,ddclient,https://github.com/ddclient/ddclient
+2024-08-23,perl,8812,1,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
+2024-08-23,perl,1300,0,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
+2024-08-23,perl,17238,2,Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉,so-fancy,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy
+2024-08-23,perl,443,0,The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants,Ensembl,ensembl-vep,https://github.com/Ensembl/ensembl-vep
+2024-08-23,perl,2628,1,Client for PPP+TLS VPN tunnel services,adrienverge,openfortivpn,https://github.com/adrienverge/openfortivpn
+2024-08-23,perl,1518,0,ModSecurity v3 Nginx Connector,owasp-modsecurity,ModSecurity-nginx,https://github.com/owasp-modsecurity/ModSecurity-nginx
+2024-08-23,perl,3296,1,"Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is",imapsync,imapsync,https://github.com/imapsync/imapsync
