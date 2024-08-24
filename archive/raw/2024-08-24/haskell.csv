@@ -1,0 +1,16 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-24,haskell,23045,6,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-08-24,haskell,10167,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-08-24,haskell,33720,15,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-08-24,haskell,35943,9,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-08-24,haskell,50,2,Extensible DNS libraries written purely in Haskell,kazu-yamamoto,dnsext,https://github.com/kazu-yamamoto/dnsext
+2024-08-24,haskell,3831,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-08-24,haskell,5709,1,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-08-24,haskell,60,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2024-08-24,haskell,269,2,Implementation of the Hydra Head protocol,cardano-scaling,hydra,https://github.com/cardano-scaling/hydra
+2024-08-24,haskell,99,0,"An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced, endorsed, or supported by, or affiliated with Fantasy Flight Games.",halogenandtoast,ArkhamHorror,https://github.com/halogenandtoast/ArkhamHorror
+2024-08-24,haskell,2634,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-08-24,haskell,1255,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-08-24,haskell,142,0,Addresses and mnemonic manipulation & derivations,IntersectMBO,cardano-addresses,https://github.com/IntersectMBO/cardano-addresses
+2024-08-24,haskell,1556,0,The Plutus language implementation and tools,IntersectMBO,plutus,https://github.com/IntersectMBO/plutus
+2024-08-24,haskell,5846,6,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat

@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-24,go,26248,22,🐶 Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2024-08-24,go,24516,154,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-08-24,go,23833,19,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-08-24,go,8776,6,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
+2024-08-24,go,3180,97,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",Permify,permify,https://github.com/Permify/permify
+2024-08-24,go,11748,15,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-08-24,go,109358,36,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-08-24,go,23390,8,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-08-24,go,20082,8,"CNCF Jaeger, a Distributed Tracing Platform",jaegertracing,jaeger,https://github.com/jaegertracing/jaeger
+2024-08-24,go,8199,6,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2024-08-24,go,48099,20,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2024-08-24,go,17171,15,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-08-24,go,35978,62,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2024-08-24,go,10545,2,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2024-08-24,go,5477,7,Cloud Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-08-24,go,15015,3,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,hashicorp,packer,https://github.com/hashicorp/packer
+2024-08-24,go,5380,4,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2024-08-24,go,22896,8,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-08-24,go,21350,62,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-08-24,go,15982,4,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",emirpasic,gods,https://github.com/emirpasic/gods
+2024-08-24,go,10865,9,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-08-24,go,5124,1,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,cri-o,cri-o,https://github.com/cri-o/cri-o
+2024-08-24,go,26669,8,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-08-24,go,2135,0,Dynamically provisioning persistent local storage with Kubernetes,rancher,local-path-provisioner,https://github.com/rancher/local-path-provisioner
+2024-08-24,go,9454,4,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
