@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-26,rust,45295,109,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
+2024-08-26,rust,19416,17,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2024-08-26,rust,7105,196,Sketch and take handwritten notes.,flxzt,rnote,https://github.com/flxzt/rnote
+2024-08-26,rust,268,22,"Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands.",beac0n,ruroco,https://github.com/beac0n/ruroco
+2024-08-26,rust,34818,24,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2024-08-26,rust,25289,12,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用,tw93,Pake,https://github.com/tw93/Pake
+2024-08-26,rust,12789,11,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2024-08-26,rust,14944,12,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-08-26,rust,4783,5,Strongly typed JSON library for Rust,serde-rs,json,https://github.com/serde-rs/json
+2024-08-26,rust,52243,33,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2024-08-26,rust,81185,27,"Build smaller, faster, and more secure desktop applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-08-26,rust,2918,4,Rust bindings for Godot 4,godot-rust,gdext,https://github.com/godot-rust/gdext
+2024-08-26,rust,20812,16,Self-hosted AI coding assistant,TabbyML,tabby,https://github.com/TabbyML/tabby
+2024-08-26,rust,17481,10,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2024-08-26,rust,15351,7,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2024-08-26,rust,4699,9,GlazeWM is a tiling window manager for Windows inspired by i3wm.,glzr-io,glazewm,https://github.com/glzr-io/glazewm
+2024-08-26,rust,19648,18,✨ Magical shell history,atuinsh,atuin,https://github.com/atuinsh/atuin
+2024-08-26,rust,18006,18,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2024-08-26,rust,18158,8,"Anki's shared backend and web components, and the Qt frontend",ankitects,anki,https://github.com/ankitects/anki
+2024-08-26,rust,6294,8,RustDesk Server Program,rustdesk,rustdesk-server,https://github.com/rustdesk/rustdesk-server
+2024-08-26,rust,71133,50,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-08-26,rust,8665,17,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide

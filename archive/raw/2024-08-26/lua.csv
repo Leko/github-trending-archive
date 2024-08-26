@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-26,lua,17913,27,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-08-26,lua,6102,10,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-08-26,lua,346,1,Hekili Priority Helper for DPS and Tanks (WoW Retail),Hekili,hekili,https://github.com/Hekili/hekili
+2024-08-26,lua,6933,6,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2024-08-26,lua,3933,1,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2024-08-26,lua,1826,2,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2024-08-26,lua,16151,11,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-08-26,lua,438,1,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2024-08-26,lua,352,0,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-08-26,lua,3192,5,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-08-26,lua,1638,5,Main game repository for Beyond All Reason.,beyond-all-reason,Beyond-All-Reason,https://github.com/beyond-all-reason/Beyond-All-Reason
+2024-08-26,lua,16245,14,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-08-26,lua,866,2,"🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of ""up/down/left/right"".",mrjones2014,smart-splits.nvim,https://github.com/mrjones2014/smart-splits.nvim
+2024-08-26,lua,1461,0,c-api for imgui (https://github.com/ocornut/imgui) Look at: https://github.com/cimgui for other widgets,cimgui,cimgui,https://github.com/cimgui/cimgui
+2024-08-26,lua,1441,4,A fast Neovim http client written in Lua,rest-nvim,rest.nvim,https://github.com/rest-nvim/rest.nvim
+2024-08-26,lua,1390,1,Smooth scrolling neovim plugin written in lua,karb94,neoscroll.nvim,https://github.com/karb94/neoscroll.nvim
+2024-08-26,lua,1116,0,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-08-26,lua,3224,1,A language server that offers Lua language support - programmed in Lua,LuaLS,lua-language-server,https://github.com/LuaLS/lua-language-server
+2024-08-26,lua,2377,3,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
