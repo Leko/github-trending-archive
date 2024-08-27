@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-27,lua,17941,28,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-08-27,lua,6104,11,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-08-27,lua,13757,31,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-08-27,lua,16163,12,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-08-27,lua,16262,15,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-08-27,lua,6939,8,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2024-08-27,lua,3194,3,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-08-27,lua,348,1,Hekili Priority Helper for DPS and Tanks (WoW Retail),Hekili,hekili,https://github.com/Hekili/hekili
+2024-08-27,lua,4856,5,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2024-08-27,lua,17983,3,🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.,LunarVim,LunarVim,https://github.com/LunarVim/LunarVim
+2024-08-27,lua,2861,6,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-08-27,lua,875,2,My dotfiles synced form localhost and remote machines,omerxx,dotfiles,https://github.com/omerxx/dotfiles
+2024-08-27,lua,2888,2,A well configured and structured Neovim.,ayamir,nvimdots,https://github.com/ayamir/nvimdots
+2024-08-27,lua,3211,2,LuaRocks is the package manager for the Lua programming language.,luarocks,luarocks,https://github.com/luarocks/luarocks
+2024-08-27,lua,4144,3,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-08-27,lua,962,1,A Neovim plugin enabling you to solve LeetCode problems.,kawre,leetcode.nvim,https://github.com/kawre/leetcode.nvim
+2024-08-27,lua,1235,2,World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.,WeakAuras,WeakAuras2,https://github.com/WeakAuras/WeakAuras2
+2024-08-27,lua,3723,5,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2024-08-27,lua,2238,2,"Not UFO in the sky, but an ultra fold in Neovim.",kevinhwang91,nvim-ufo,https://github.com/kevinhwang91/nvim-ufo
+2024-08-27,lua,2956,2,"A fancy, configurable, notification manager for NeoVim",rcarriga,nvim-notify,https://github.com/rcarriga/nvim-notify
