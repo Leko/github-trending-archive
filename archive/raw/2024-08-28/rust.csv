@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-28,rust,19613,51,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2024-08-28,rust,7549,186,Sketch and take handwritten notes.,flxzt,rnote,https://github.com/flxzt/rnote
+2024-08-28,rust,3288,53,Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.,signalapp,libsignal,https://github.com/signalapp/libsignal
+2024-08-28,rust,3419,19,An experimental Rust native UI framework,linebender,xilem,https://github.com/linebender/xilem
+2024-08-28,rust,1075,6,,TeamFlos,phira,https://github.com/TeamFlos/phira
+2024-08-28,rust,7021,4,Educational blog posts for Rust beginners,pretzelhammer,rust-blog,https://github.com/pretzelhammer/rust-blog
+2024-08-28,rust,45637,147,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
+2024-08-28,rust,5272,4,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-08-28,rust,5842,7,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2024-08-28,rust,2103,8,"A native Rust library for Delta Lake, with bindings into Python",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2024-08-28,rust,10773,57,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2024-08-28,rust,20867,22,"A library for building fast, reliable and evolvable network services.",cloudflare,pingora,https://github.com/cloudflare/pingora
+2024-08-28,rust,71298,110,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-08-28,rust,13932,11,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2024-08-28,rust,8689,9,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Byron,gitoxide,https://github.com/Byron/gitoxide
+2024-08-28,rust,31396,28,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2024-08-28,rust,6042,8,"Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.",rerun-io,rerun,https://github.com/rerun-io/rerun
+2024-08-28,rust,13996,7,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2024-08-28,rust,14280,7,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2024-08-28,rust,19618,17,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-08-28,rust,7612,5,"𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com",datafuselabs,databend,https://github.com/datafuselabs/databend

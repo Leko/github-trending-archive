@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-28,haskell,5920,18,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-08-28,haskell,451,0,⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.,simplex-chat,simplexmq,https://github.com/simplex-chat/simplexmq
+2024-08-28,haskell,35978,14,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-08-28,haskell,33748,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-08-28,haskell,79,0,See Reflex FRP in action with tinker-friendly code samples you can run yourself.,reflex-frp,reflex-examples,https://github.com/reflex-frp/reflex-examples
+2024-08-28,haskell,140,0,Build terminal applications using functional reactive programming (FRP) with Reflex FRP.,reflex-frp,reflex-vty,https://github.com/reflex-frp/reflex-vty
+2024-08-28,haskell,50,0,,reflex-frp,reflex-dom-contrib,https://github.com/reflex-frp/reflex-dom-contrib
+2024-08-28,haskell,60,0,"A set of utilities for using indexed types including containers, equality, and comparison.",GaloisInc,parameterized-utils,https://github.com/GaloisInc/parameterized-utils
+2024-08-28,haskell,1064,0,"Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse.",reflex-frp,reflex,https://github.com/reflex-frp/reflex
+2024-08-28,haskell,196,1,Open source binary analysis tools.,GaloisInc,macaw,https://github.com/GaloisInc/macaw
+2024-08-28,haskell,131,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2024-08-28,haskell,525,1,SystemVerilog to Verilog conversion,zachjs,sv2v,https://github.com/zachjs/sv2v
+2024-08-28,haskell,270,0,Implementation of the Hydra Head protocol,cardano-scaling,hydra,https://github.com/cardano-scaling/hydra
+2024-08-28,haskell,2691,3,Ethereum smart contract fuzzer,crytic,echidna,https://github.com/crytic/echidna
+2024-08-28,haskell,10173,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-08-28,haskell,104,0,A Haskell binding to the X11 graphics library.,xmonad,X11,https://github.com/xmonad/X11
+2024-08-28,haskell,35,0,Stratified synthesis for learning machine code instruction semantics,GaloisInc,semmc,https://github.com/GaloisInc/semmc
+2024-08-28,haskell,3975,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
