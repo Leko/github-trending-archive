@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-31,r,3554,0,R's data.table package extends data.frame:,Rdatatable,data.table,https://github.com/Rdatatable/data.table
+2024-08-31,r,2231,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2024-08-31,r,1281,1,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2024-08-31,r,576,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2024-08-31,r,324,0,,cole-trapnell-lab,monocle3,https://github.com/cole-trapnell-lab/monocle3
+2024-08-31,r,459,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2024-08-31,r,6450,1,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2024-08-31,r,2374,0,A general-purpose tool for dynamic report generation in R,yihui,knitr,https://github.com/yihui/knitr
+2024-08-31,r,620,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2024-08-31,r,1264,1,brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan,paul-buerkner,brms,https://github.com/paul-buerkner/brms
+2024-08-31,r,576,0,An implementation of the Language Server Protocol for R,REditorSupport,languageserver,https://github.com/REditorSupport/languageserver
+2024-08-31,r,371,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2024-08-31,r,1113,0,'ggplot2' Based Publication Ready Plots,kassambara,ggpubr,https://github.com/kassambara/ggpubr
+2024-08-31,r,548,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2024-08-31,r,511,1,"Fast, sensitive and accurate integration of single-cell data with Harmony",immunogenomics,harmony,https://github.com/immunogenomics/harmony
+2024-08-31,r,142,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2024-08-31,r,121,0,Dataset distribution for Seurat,satijalab,seurat-data,https://github.com/satijalab/seurat-data
+2024-08-31,r,968,1,"A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live",rstudio,tinytex,https://github.com/rstudio/tinytex
+2024-08-31,r,293,0,Community-provided extensions to Seurat,satijalab,seurat-wrappers,https://github.com/satijalab/seurat-wrappers
+2024-08-31,r,1001,0,"Read flat files (csv, tsv, fwf) into R",tidyverse,readr,https://github.com/tidyverse/readr
+2024-08-31,r,442,0,"R package for community ecologists: popular ordination methods, ecological null models & diversity analysis",vegandevs,vegan,https://github.com/vegandevs/vegan

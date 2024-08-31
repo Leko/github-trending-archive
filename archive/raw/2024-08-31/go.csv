@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-31,go,7859,125,The Open Source Dev Environment Manager.,daytonaio,daytona,https://github.com/daytonaio/daytona
+2024-08-31,go,4252,19,"A comprehensive, efficient, and reusable util function library of Go.",duke-git,lancet,https://github.com/duke-git/lancet
+2024-08-31,go,34341,28,AI-Powered Photos App for the Decentralized Web 🌈💎✨,photoprism,photoprism,https://github.com/photoprism/photoprism
+2024-08-31,go,15117,21,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",tinygo-org,tinygo,https://github.com/tinygo-org/tinygo
+2024-08-31,go,22309,24,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu
+2024-08-31,go,286,16,The all-new opentofu.org registry!,opentofu,registry,https://github.com/opentofu/registry
+2024-08-31,go,7649,1,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2024-08-31,go,7921,4,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-08-31,go,10795,13,A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui),gotify,server,https://github.com/gotify/server
+2024-08-31,go,5433,15,Giving Kubernetes Superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2024-08-31,go,38449,51,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-08-31,go,23159,2,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-08-31,go,37403,13,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-08-31,go,2848,7,Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.,gardener,gardener,https://github.com/gardener/gardener
+2024-08-31,go,7902,4,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-08-31,go,16429,17,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-08-31,go,28749,6,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2024-08-31,go,17652,15,Dolt – Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2024-08-31,go,9377,20,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-08-31,go,3057,23,Sonne tanken ☀️🚘,evcc-io,evcc,https://github.com/evcc-io/evcc
+2024-08-31,go,14774,4,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2024-08-31,go,29090,4,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2024-08-31,go,306,6,"A lightweight, fast, and secure code execution environment that supports multiple programming languages",langgenius,dify-sandbox,https://github.com/langgenius/dify-sandbox
+2024-08-31,go,13227,3,Kubernetes IN Docker - local clusters for testing Kubernetes,kubernetes-sigs,kind,https://github.com/kubernetes-sigs/kind
+2024-08-31,go,7344,4,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader

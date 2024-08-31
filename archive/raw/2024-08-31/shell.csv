@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-08-31,shell,41575,421,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2024-08-31,shell,27880,355,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2024-08-31,shell,3213,3,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-08-31,shell,78530,25,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-08-31,shell,14067,8,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2024-08-31,shell,7108,30,"Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.",QwenLM,Qwen2,https://github.com/QwenLM/Qwen2
+2024-08-31,shell,172087,32,"🙃 A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2024-08-31,shell,26357,7,"This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2024-08-31,shell,7852,6,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-08-31,shell,264,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2024-08-31,shell,18921,8,"OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",Nyr,openvpn-install,https://github.com/Nyr/openvpn-install
+2024-08-31,shell,21489,10,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-08-31,shell,12980,3,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
+2024-08-31,shell,1011,5,"The next generation Linux workstation, designed for reliability, performance, and sustainability.",ublue-os,bluefin,https://github.com/ublue-os/bluefin
+2024-08-31,shell,18742,2,Node version management,tj,n,https://github.com/tj/n
+2024-08-31,shell,2411,0,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2024-08-31,shell,471,1,Erlang plugin for asdf version manager,asdf-vm,asdf-erlang,https://github.com/asdf-vm/asdf-erlang
