@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-01,shell,42362,911,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2024-09-01,shell,28042,179,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2024-09-01,shell,4846,2,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2024-09-01,shell,7856,5,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-09-01,shell,18928,9,"OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",Nyr,openvpn-install,https://github.com/Nyr/openvpn-install
+2024-09-01,shell,78552,20,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-09-01,shell,7122,11,"Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.",QwenLM,Qwen2,https://github.com/QwenLM/Qwen2
+2024-09-01,shell,101,4,Enrollment progress manager,Jamf-Concepts,Setup-Manager,https://github.com/Jamf-Concepts/Setup-Manager
+2024-09-01,shell,21497,10,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-09-01,shell,3145,0,pre-commit git hooks to take care of Terraform configurations 🇺🇦,antonbabenko,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform
+2024-09-01,shell,1605,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2024-09-01,shell,14065,0,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2024-09-01,shell,4793,9,Install and run your own AI agent service,GaiaNet-AI,gaianet-node,https://github.com/GaiaNet-AI/gaianet-node
+2024-09-01,shell,3216,4,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-09-01,shell,6500,1,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2024-09-01,shell,1775,1,🐳 Docker Image of NetBox,netbox-community,netbox-docker,https://github.com/netbox-community/netbox-docker
+2024-09-01,shell,5999,2,"Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.",hiddify,Hiddify-Manager,https://github.com/hiddify/Hiddify-Manager
+2024-09-01,shell,6147,3,Kubernetes application example tutorials,kubernetes,examples,https://github.com/kubernetes/examples
+2024-09-01,shell,2683,2,"An open-source, next-generation ""runc"" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.",nestybox,sysbox,https://github.com/nestybox/sysbox
+2024-09-01,shell,571,2,The Ultimate Linux Toolbox,ChrisTitusTech,linutil,https://github.com/ChrisTitusTech/linutil
+2024-09-01,shell,2228,0,Provides network connectivity to WSL 2 when blocked by VPN,sakai135,wsl-vpnkit,https://github.com/sakai135/wsl-vpnkit
