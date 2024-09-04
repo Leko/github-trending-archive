@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-04,go,2870,487,Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history,aceberg,WatchYourLAN,https://github.com/aceberg/WatchYourLAN
+2024-09-04,go,17446,7,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",casbin,casbin,https://github.com/casbin/casbin
+2024-09-04,go,9079,35,🏔 Love Freedom - ❌ Block Mass Surveillance,safing,portmaster,https://github.com/safing/portmaster
+2024-09-04,go,16459,8,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-09-04,go,19835,6,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-09-04,go,6519,8,"🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",smallstep,certificates,https://github.com/smallstep/certificates
+2024-09-04,go,3266,10,A censorship circumvention tool to evade detection by authoritarian state adversaries,cbeuw,Cloak,https://github.com/cbeuw/Cloak
+2024-09-04,go,22179,6,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-09-04,go,2564,13,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2024-09-04,go,6670,22,A PDF processor written in Go.,pdfcpu,pdfcpu,https://github.com/pdfcpu/pdfcpu
+2024-09-04,go,45920,24,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2024-09-04,go,14798,8,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2024-09-04,go,16211,13,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
+2024-09-04,go,47068,13,Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-09-04,go,25573,25,📂 Web File Browser,filebrowser,filebrowser,https://github.com/filebrowser/filebrowser
+2024-09-04,go,16621,12,The most customisable and low-latency cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2024-09-04,go,87709,153,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-09-04,go,22047,192,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-09-04,go,2155,9,Build and run containers leveraging NVIDIA GPUs,NVIDIA,nvidia-container-toolkit,https://github.com/NVIDIA/nvidia-container-toolkit
+2024-09-04,go,4544,3,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-09-04,go,14436,16,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",apernet,hysteria,https://github.com/apernet/hysteria
+2024-09-04,go,12929,7,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2024-09-04,go,11425,5,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2024-09-04,go,9714,2,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-09-04,go,10284,5,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
