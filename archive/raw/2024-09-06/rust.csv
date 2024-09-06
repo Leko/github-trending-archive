@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-06,rust,1747,6,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-09-06,rust,4684,84,Open Source Spotify client library,librespot-org,librespot,https://github.com/librespot-org/librespot
+2024-09-06,rust,3425,5,A collection of Solana programs maintained by Solana Labs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2024-09-06,rust,13900,28,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",biomejs,biome,https://github.com/biomejs/biome
+2024-09-06,rust,2533,5,A blazing fast inference solution for text embeddings models,huggingface,text-embeddings-inference,https://github.com/huggingface/text-embeddings-inference
+2024-09-06,rust,3526,102,Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.,infinyon,fluvio,https://github.com/infinyon/fluvio
+2024-09-06,rust,3352,16,Blazingly fast LLM inference.,EricLBuehler,mistral.rs,https://github.com/EricLBuehler/mistral.rs
+2024-09-06,rust,14976,15,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-09-06,rust,52517,46,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2024-09-06,rust,96556,22,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2024-09-06,rust,12909,4,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2024-09-06,rust,22187,180,"A syntax-highlighting pager for git, diff, grep, and blame output",dandavison,delta,https://github.com/dandavison/delta
+2024-09-06,rust,12353,19,"The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",gitbutlerapp,gitbutler,https://github.com/gitbutlerapp/gitbutler
+2024-09-06,rust,903,4,"A performant, 100% open-source, contributor-friendly zkVM.",succinctlabs,sp1,https://github.com/succinctlabs/sp1
+2024-09-06,rust,889,14,AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.,AppFlowy-IO,AppFlowy-Cloud,https://github.com/AppFlowy-IO/AppFlowy-Cloud
+2024-09-06,rust,1117,38,The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.,eythaann,Seelen-UI,https://github.com/eythaann/Seelen-UI
+2024-09-06,rust,32541,22,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2024-09-06,rust,633,46,The Grammar Checker for Developers,elijah-potter,harper,https://github.com/elijah-potter/harper
+2024-09-06,rust,4858,20,The Mullvad VPN client app for desktop and mobile,mullvad,mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app
+2024-09-06,rust,587,19,✈️ Rust ADS-B decoder + tui radar application,rsadsb,adsb_deku,https://github.com/rsadsb/adsb_deku
+2024-09-06,rust,1792,6,Run web applications on AWS Lambda,awslabs,aws-lambda-web-adapter,https://github.com/awslabs/aws-lambda-web-adapter
+2024-09-06,rust,24785,23,"“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
