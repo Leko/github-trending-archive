@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-07,perl,17057,9,Stack trace visualizer,brendangregg,FlameGraph,https://github.com/brendangregg/FlameGraph
+2024-09-07,perl,19251,8,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",AlDanial,cloc,https://github.com/AlDanial/cloc
+2024-09-07,perl,8844,3,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,major,MySQLTuner-perl,https://github.com/major/MySQLTuner-perl
+2024-09-07,perl,2325,2,Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.,ddclient,ddclient,https://github.com/ddclient/ddclient
+2024-09-07,perl,1266,0,A free/open source client and automation tool for Ragnarok Online,OpenKore,openkore,https://github.com/OpenKore/openkore
+2024-09-07,perl,439,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",ocpi,ocpi,https://github.com/ocpi/ocpi
+2024-09-07,perl,235,0,GLPI Agent,glpi-project,glpi-agent,https://github.com/glpi-project/glpi-agent
+2024-09-07,perl,176,0,"zm-build for Zimbra Collaboration Suite, FOSS Edition",Zimbra,zm-build,https://github.com/Zimbra/zm-build
+2024-09-07,perl,17267,2,Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉,so-fancy,diff-so-fancy,https://github.com/so-fancy/diff-so-fancy
+2024-09-07,perl,2445,0,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),SpiderLabs,owasp-modsecurity-crs,https://github.com/SpiderLabs/owasp-modsecurity-crs
+2024-09-07,perl,821,0,Trinity RNA-Seq de novo transcriptome assembly,trinityrnaseq,trinityrnaseq,https://github.com/trinityrnaseq/trinityrnaseq
+2024-09-07,perl,84,0,Setup Perl environment Action,shogo82148,actions-setup-perl,https://github.com/shogo82148/actions-setup-perl
+2024-09-07,perl,1121,1,Percona Toolkit: a collection of advanced open source command-line tools.,percona,percona-toolkit,https://github.com/percona/percona-toolkit
+2024-09-07,perl,1300,0,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",inverse-inc,packetfence,https://github.com/inverse-inc/packetfence
+2024-09-07,perl,1004,1,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",darold,ora2pg,https://github.com/darold/ora2pg
+2024-09-07,perl,310,0,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,centreon,centreon-plugins,https://github.com/centreon/centreon-plugins
+2024-09-07,perl,888,0,LCOV,linux-test-project,lcov,https://github.com/linux-test-project/lcov
+2024-09-07,perl,3311,2,"Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is",imapsync,imapsync,https://github.com/imapsync/imapsync
+2024-09-07,perl,1142,2,Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.,LMS-Community,slimserver,https://github.com/LMS-Community/slimserver

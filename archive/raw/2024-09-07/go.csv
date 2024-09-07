@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-07,go,17202,158,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2024-09-07,go,5315,0,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2024-09-07,go,17320,14,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-09-07,go,17958,6,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-09-07,go,29135,11,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2024-09-07,go,23593,84,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-09-07,go,22971,9,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-09-07,go,6136,71,Development Platform for building robust type-safe distributed systems with declarative infrastructure,encoredev,encore,https://github.com/encoredev/encore
+2024-09-07,go,7940,11,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-09-07,go,43986,23,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-09-07,go,20809,43,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-09-07,go,11257,16,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2024-09-07,go,26754,9,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-09-07,go,9379,5,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2024-09-07,go,26762,14,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-09-07,go,22976,6,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-09-07,go,11846,9,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-09-07,go,17327,17,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-09-07,go,24921,19,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-09-07,go,22779,26,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-09-07,go,1512,8,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway,envoyproxy,gateway,https://github.com/envoyproxy/gateway
+2024-09-07,go,3427,6,OCI Image Format,opencontainers,image-spec,https://github.com/opencontainers/image-spec
+2024-09-07,go,29271,34,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-09-07,go,45397,21,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2024-09-07,go,9713,4,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
