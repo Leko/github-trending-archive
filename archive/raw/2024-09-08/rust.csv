@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-08,rust,14341,10,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2024-09-08,rust,8160,24,A Git-compatible VCS that is both simple and powerful,martinvonz,jj,https://github.com/martinvonz/jj
+2024-09-08,rust,15808,15,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
+2024-09-08,rust,3698,40,Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.,infinyon,fluvio,https://github.com/infinyon/fluvio
+2024-09-08,rust,1761,0,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-09-08,rust,22322,55,"A syntax-highlighting pager for git, diff, grep, and blame output",dandavison,delta,https://github.com/dandavison/delta
+2024-09-08,rust,19295,68,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-09-08,rust,2140,2,"A native Rust library for Delta Lake, with bindings into Python",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2024-09-08,rust,5971,2,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2024-09-08,rust,910,0,"A performant, 100% open-source, contributor-friendly zkVM.",succinctlabs,sp1,https://github.com/succinctlabs/sp1
+2024-09-08,rust,29121,24,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-09-08,rust,19922,35,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2024-09-08,rust,14986,4,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-09-08,rust,96618,33,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2024-09-08,rust,25040,8,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2024-09-08,rust,18186,24,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2024-09-08,rust,11919,19,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2024-09-08,rust,4348,4,Automatically generates Rust FFI bindings to C (and some C++) libraries.,rust-lang,rust-bindgen,https://github.com/rust-lang/rust-bindgen
+2024-09-08,rust,17702,7,📊 Cube — The Semantic Layer for Building Data Applications,cube-js,cube,https://github.com/cube-js/cube
+2024-09-08,rust,2847,25,"PostgreSQL pooler with sharding, load balancing and failover support.",postgresml,pgcat,https://github.com/postgresml/pgcat
+2024-09-08,rust,8574,5,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2024-09-08,rust,3666,13,"Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages",PyO3,maturin,https://github.com/PyO3/maturin
+2024-09-08,rust,71857,110,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-09-08,rust,5170,13,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
