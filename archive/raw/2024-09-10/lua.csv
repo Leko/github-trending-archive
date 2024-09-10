@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-10,lua,2673,4,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2024-09-10,lua,18284,34,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-09-10,lua,3798,9,Obsidian 🤝 Neovim,epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2024-09-10,lua,919,5,My dotfiles synced form localhost and remote machines,omerxx,dotfiles,https://github.com/omerxx/dotfiles
+2024-09-10,lua,882,3,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2024-09-10,lua,7762,3,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-09-10,lua,3613,3,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2024-09-10,lua,3031,3,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2024-09-10,lua,6257,1,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2024-09-10,lua,6985,3,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2024-09-10,lua,7574,8,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2024-09-10,lua,3682,1,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2024-09-10,lua,2428,3,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2024-09-10,lua,2990,2,"A fancy, configurable, notification manager for NeoVim",rcarriga,nvim-notify,https://github.com/rcarriga/nvim-notify
+2024-09-10,lua,5928,5,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2024-09-10,lua,5352,5,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-09-10,lua,16443,12,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-09-10,lua,2914,4,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-09-10,lua,4830,5,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-09-10,lua,4193,5,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-09-10,lua,3243,3,A language server that offers Lua language support - programmed in Lua,LuaLS,lua-language-server,https://github.com/LuaLS/lua-language-server
+2024-09-10,lua,298,0,A FiveM resource and script library for Lua and JS.,overextended,ox_lib,https://github.com/overextended/ox_lib
