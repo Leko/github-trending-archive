@@ -6,8 +6,8 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "16"
           cache: "npm"
@@ -15,7 +15,7 @@ jobs:
       - run: npm --workspace=collector run start $(pwd)/archive/raw/$(date +'%Y-%m-%d')
       - run: git status
         if: always()
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: screenshots

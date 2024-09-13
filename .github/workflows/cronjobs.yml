@@ -13,8 +13,8 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "16"
           cache: "npm"
@@ -28,7 +28,7 @@ jobs:
           git add archive
           git commit -m "chore: update $(date +'%Y-%m-%d')"
           git push origin main
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: screenshots
