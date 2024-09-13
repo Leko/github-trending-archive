@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-13,go,54839,20,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-09-13,go,10953,8,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-09-13,go,11862,25,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2024-09-13,go,3963,128,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,DiceDB,dice,https://github.com/DiceDB/dice
+2024-09-13,go,3978,11,Auto-generated Google APIs for Go.,googleapis,google-api-go-client,https://github.com/googleapis/google-api-go-client
+2024-09-13,go,42290,107,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-09-13,go,14983,9,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-09-13,go,14482,5,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-09-13,go,19755,18,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-09-13,go,9512,11,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-09-13,go,18596,20,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2024-09-13,go,10528,28,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2024-09-13,go,88926,154,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-09-13,go,15318,11,Fast linters runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2024-09-13,go,84360,48,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-09-13,go,6182,2,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-09-13,go,5329,6,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2024-09-13,go,16019,9,An IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
+2024-09-13,go,5534,0,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2024-09-13,go,30867,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-09-13,go,8454,5,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-09-13,go,4838,2,The Docker CLI,docker,cli,https://github.com/docker/cli
+2024-09-13,go,5447,5,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2024-09-13,go,37559,16,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
