@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-14,r,6470,2,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2024-09-14,r,2241,0,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2024-09-14,r,554,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2024-09-14,r,398,1,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2024-09-14,r,1292,1,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2024-09-14,r,579,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2024-09-14,r,376,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2024-09-14,r,493,0,Survival Analysis and Visualization,kassambara,survminer,https://github.com/kassambara/survminer
+2024-09-14,r,997,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2024-09-14,r,1915,1,A Wes Anderson color palette for R,karthik,wesanderson,https://github.com/karthik/wesanderson
+2024-09-14,r,4744,1,dplyr: A grammar of data manipulation,tidyverse,dplyr,https://github.com/tidyverse/dplyr
+2024-09-14,r,621,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2024-09-14,r,1326,2,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2024-09-14,r,1029,0,"RStan, the R interface to Stan",stan-dev,rstan,https://github.com/stan-dev/rstan
+2024-09-14,r,1116,0,'ggplot2' Based Publication Ready Plots,kassambara,ggpubr,https://github.com/kassambara/ggpubr
+2024-09-14,r,416,1,R package for performing 2-sample MR using MR-Base database,MRCIEU,TwoSampleMR,https://github.com/MRCIEU/TwoSampleMR
+2024-09-14,r,460,0,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2024-09-14,r,2445,2,The Composer of ggplots,thomasp85,patchwork,https://github.com/thomasp85/patchwork
+2024-09-14,r,331,0,"Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs",r-lib,remotes,https://github.com/r-lib/remotes

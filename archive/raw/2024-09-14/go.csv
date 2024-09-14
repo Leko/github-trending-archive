@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-14,go,4021,82,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,DiceDB,dice,https://github.com/DiceDB/dice
+2024-09-14,go,42295,9,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-09-14,go,36959,23,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2024-09-14,go,10543,19,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2024-09-14,go,17403,17,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-09-14,go,5547,2,Cloud Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-09-14,go,24546,7,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-09-14,go,19769,23,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-09-14,go,5137,2,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-09-14,go,4539,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2024-09-14,go,2897,5,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-09-14,go,21684,10,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-09-14,go,77915,16,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-09-14,go,6816,10,A self hosted virtual browser that runs in docker and uses WebRTC.,m1k1o,neko,https://github.com/m1k1o/neko
+2024-09-14,go,4577,2,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2024-09-14,go,26501,18,🐶 Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2024-09-14,go,12951,3,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2024-09-14,go,12958,3,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
+2024-09-14,go,3694,38,Go-blueprint allows users to spin up a quick Go project using a popular framework,Melkeydev,go-blueprint,https://github.com/Melkeydev/go-blueprint
+2024-09-14,go,5664,7,A dependency injection based application framework for Go.,uber-go,fx,https://github.com/uber-go/fx
+2024-09-14,go,23043,12,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-09-14,go,6009,10,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,anchore,syft,https://github.com/anchore/syft
