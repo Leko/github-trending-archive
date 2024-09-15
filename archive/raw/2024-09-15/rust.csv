@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-15,rust,1263,159,Analyze ELF binaries like a boss 😼🕵️‍♂️,orhun,binsider,https://github.com/orhun/binsider
+2024-09-15,rust,26632,21,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2024-09-15,rust,14143,40,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",biomejs,biome,https://github.com/biomejs/biome
+2024-09-15,rust,25675,20,The user-friendly command line shell.,fish-shell,fish-shell,https://github.com/fish-shell/fish-shell
+2024-09-15,rust,15072,9,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-09-15,rust,25779,32,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用,tw93,Pake,https://github.com/tw93/Pake
+2024-09-15,rust,14536,34,the AI-native open-source embedding database,chroma-core,chroma,https://github.com/chroma-core/chroma
+2024-09-15,rust,21655,13,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2024-09-15,rust,3800,3,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2024-09-15,rust,15013,5,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-09-15,rust,28610,12,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2024-09-15,rust,52712,29,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2024-09-15,rust,5772,18,Postgres for Search and Analytics,paradedb,paradedb,https://github.com/paradedb/paradedb
+2024-09-15,rust,21070,8,Self-hosted AI coding assistant,TabbyML,tabby,https://github.com/TabbyML/tabby
+2024-09-15,rust,15436,19,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2024-09-15,rust,5354,9,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-09-15,rust,18314,20,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2024-09-15,rust,25079,10,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2024-09-15,rust,13408,3,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,getzola,zola,https://github.com/getzola/zola
+2024-09-15,rust,14156,15,🤖 The Modern Port Scanner 🤖,RustScan,RustScan,https://github.com/RustScan/RustScan
+2024-09-15,rust,24133,5,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2024-09-15,rust,9083,15,"dev tools, env vars, task runner",jdx,mise,https://github.com/jdx/mise
+2024-09-15,rust,4442,26,A web browser that plays old world blues to build new world hope,versotile-org,verso,https://github.com/versotile-org/verso
+2024-09-15,rust,9184,7,The fast Rust-based web bundler with webpack-compatible API 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
