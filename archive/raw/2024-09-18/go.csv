@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-18,go,12422,7,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2024-09-18,go,42027,59,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-09-18,go,6936,3,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
+2024-09-18,go,25046,15,"Curated list of Go design patterns, recipes and idioms",tmrts,go-patterns,https://github.com/tmrts/go-patterns
+2024-09-18,go,7897,2,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-09-18,go,22829,26,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-09-18,go,10297,3,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2024-09-18,go,50690,60,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-09-18,go,4273,8,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",AlexxIT,go2rtc,https://github.com/AlexxIT/go2rtc
+2024-09-18,go,2584,4,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2024-09-18,go,8584,6,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2024-09-18,go,8940,5,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-09-18,go,15019,12,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-09-18,go,25003,24,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2024-09-18,go,7935,3,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-09-18,go,23045,6,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-09-18,go,7799,5,🐶 Automated code review tool integrated with any code analysis tools regardless of programming language,reviewdog,reviewdog,https://github.com/reviewdog/reviewdog
+2024-09-18,go,11808,7,In-depth attack surface mapping and asset discovery,owasp-amass,amass,https://github.com/owasp-amass/amass
+2024-09-18,go,14502,3,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-09-18,go,7964,6,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-09-18,go,9019,5,Pure Go Postgres driver for database/sql,lib,pq,https://github.com/lib/pq
+2024-09-18,go,42325,9,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-09-18,go,5147,2,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-09-18,go,37942,8,An extremely fast bundler for the web,evanw,esbuild,https://github.com/evanw/esbuild
+2024-09-18,go,26786,6,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm

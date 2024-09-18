@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-18,shell,3051,26,"1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",HariSekhon,DevOps-Bash-tools,https://github.com/HariSekhon/DevOps-Bash-tools
+2024-09-18,shell,172501,31,"🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2024-09-18,shell,68222,1,Everything required to run your own Base node,base-org,node,https://github.com/base-org/node
+2024-09-18,shell,21629,8,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-09-18,shell,26452,11,"This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2024-09-18,shell,1830,5,Homelab Goodies,JamesTurland,JimsGarage,https://github.com/JamesTurland/JimsGarage
+2024-09-18,shell,79010,29,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-09-18,shell,17077,4,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2024-09-18,shell,108452,5,"Bring data to life with SVG, Canvas and HTML. 📊📈🎉",d3,d3,https://github.com/d3/d3
+2024-09-18,shell,12254,2,fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.,hq450,fancyss,https://github.com/hq450/fancyss
+2024-09-18,shell,48502,10,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2024-09-18,shell,9166,6,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2024-09-18,shell,882,1,A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI,Steam-Headless,docker-steam-headless,https://github.com/Steam-Headless/docker-steam-headless
+2024-09-18,shell,4498,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-09-18,shell,7462,5,"一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P, 树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由",kiddin9,Kwrt,https://github.com/kiddin9/Kwrt
+2024-09-18,shell,139,1,A production ready Dockered MISP,MISP,misp-docker,https://github.com/MISP/misp-docker
+2024-09-18,shell,666,1,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
