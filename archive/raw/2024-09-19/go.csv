@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-19,go,50269,31,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2024-09-19,go,42066,53,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-09-19,go,6619,8,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-09-19,go,2691,4,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2024-09-19,go,63910,32,🌸 A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2024-09-19,go,23373,8,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-09-19,go,7588,6,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-09-19,go,7906,12,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-09-19,go,36710,10,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2024-09-19,go,4589,5,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-09-19,go,10362,8,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-09-19,go,26574,20,🐶 Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2024-09-19,go,8306,6,"Instant, easy, and predictable development environments",jetify-com,devbox,https://github.com/jetify-com/devbox
+2024-09-19,go,15999,8,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2024-09-19,go,2412,16,Zep: Long-Term Memory for ‍AI Assistants.,getzep,zep,https://github.com/getzep/zep
+2024-09-19,go,6463,5,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-09-19,go,8588,6,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2024-09-19,go,758,0,Cloudflare Terraform Provider,cloudflare,terraform-provider-cloudflare,https://github.com/cloudflare/terraform-provider-cloudflare
+2024-09-19,go,8943,6,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-09-19,go,68480,11,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-09-19,go,6374,4,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2024-09-19,go,18136,9,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2024-09-19,go,2879,3,Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.,gardener,gardener,https://github.com/gardener/gardener
+2024-09-19,go,7969,5,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
