@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-20,scala,39324,8,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-09-20,scala,62079,11,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2024-09-20,scala,3372,1,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2024-09-20,scala,4717,3,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2024-09-20,scala,1982,1,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc,joernio,joern,https://github.com/joernio/joern
+2024-09-20,scala,2074,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2024-09-20,scala,1146,0,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-09-20,scala,7449,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-09-20,scala,748,1,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-09-20,scala,3168,1,Rocket Chip Generator,chipsalliance,rocket-chip,https://github.com/chipsalliance/rocket-chip
+2024-09-20,scala,988,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2024-09-20,scala,3252,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2024-09-20,scala,11805,1,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2024-09-20,scala,4073,3,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2024-09-20,scala,787,2,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2024-09-20,scala,120,0,FEEL parser and interpreter written in Scala,camunda,feel-scala,https://github.com/camunda/feel-scala
+2024-09-20,scala,42,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2024-09-20,scala,943,0,Functional GraphQL library for Scala,ghostdogpr,caliban,https://github.com/ghostdogpr/caliban
+2024-09-20,scala,796,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2024-09-20,scala,9137,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
+2024-09-20,scala,1573,1,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",ucb-bar,chipyard,https://github.com/ucb-bar/chipyard
+2024-09-20,scala,461,0,A Spark plugin for reading and writing Excel files,crealytics,spark-excel,https://github.com/crealytics/spark-excel

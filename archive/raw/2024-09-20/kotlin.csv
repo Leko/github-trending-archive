@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-20,kotlin,44336,7,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,android,architecture-samples,https://github.com/android/architecture-samples
+2024-09-20,kotlin,17326,24,短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正,pppscn,SmsForwarder,https://github.com/pppscn/SmsForwarder
+2024-09-20,kotlin,6176,3,An anti-bikeshedding Kotlin linter with built-in formatter,pinterest,ktlint,https://github.com/pinterest/ktlint
+2024-09-20,kotlin,1625,12,電視網絡視頻播放軟件，可以自定義視頻源,lizongying,my-tv-0,https://github.com/lizongying/my-tv-0
+2024-09-20,kotlin,5276,0,Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.,androidx,androidx,https://github.com/androidx/androidx
+2024-09-20,kotlin,5857,12,An open-source keyboard for Android which respects your privacy. Currently in early-beta.,florisboard,florisboard,https://github.com/florisboard/florisboard
+2024-09-20,kotlin,2267,9,自动跳过APP开屏广告,GuoXiCheng,SKIP,https://github.com/GuoXiCheng/SKIP
+2024-09-20,kotlin,2204,2,A Mapbox react native module for creating custom maps,rnmapbox,maps,https://github.com/rnmapbox/maps
+2024-09-20,kotlin,10920,17,NekoBox for Android / sing-box / universal proxy toolchain for Android,MatsuriDayo,NekoBoxForAndroid,https://github.com/MatsuriDayo/NekoBoxForAndroid
+2024-09-20,kotlin,48867,8,The Kotlin Programming Language.,JetBrains,kotlin,https://github.com/JetBrains/kotlin
+2024-09-20,kotlin,34553,35,"A V2Ray client for Android, support Xray core and v2fly core",2dust,v2rayNG,https://github.com/2dust/v2rayNG
+2024-09-20,kotlin,8952,3,Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform,InsertKoinIO,koin,https://github.com/InsertKoinIO/koin
+2024-09-20,kotlin,4299,6,An app to view libraries used in apps in your device.,LibChecker,LibChecker,https://github.com/LibChecker/LibChecker
+2024-09-20,kotlin,19736,26,"基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",gkd-kit,gkd,https://github.com/gkd-kit/gkd
+2024-09-20,kotlin,3684,2,📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.,skydoves,chatgpt-android,https://github.com/skydoves/chatgpt-android
+2024-09-20,kotlin,4404,0,"Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.",kotest,kotest,https://github.com/kotest/kotest
+2024-09-20,kotlin,9156,4,IdeaVim – A Vim engine for JetBrains IDEs,JetBrains,ideavim,https://github.com/JetBrains/ideavim
+2024-09-20,kotlin,19867,8,Official Jetpack Compose samples.,android,compose-samples,https://github.com/android/compose-samples
+2024-09-20,kotlin,10662,5,Image loading for Android and Compose Multiplatform.,coil-kt,coil,https://github.com/coil-kt/coil
+2024-09-20,kotlin,23403,3,Samples for Android Architecture Components.,android,architecture-components-samples,https://github.com/android/architecture-components-samples
+2024-09-20,kotlin,2629,0,"VLC for Android, Android TV and ChromeOS",videolan,vlc-android,https://github.com/videolan/vlc-android
