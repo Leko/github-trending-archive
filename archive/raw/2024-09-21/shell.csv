@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-21,shell,4160,292,"1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",HariSekhon,DevOps-Bash-tools,https://github.com/HariSekhon/DevOps-Bash-tools
+2024-09-21,shell,45881,198,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2024-09-21,shell,7940,183,"Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.",QwenLM,Qwen2.5,https://github.com/QwenLM/Qwen2.5
+2024-09-21,shell,4486,42,Opinionated Ubuntu Setup,basecamp,omakub,https://github.com/basecamp/omakub
+2024-09-21,shell,17226,50,Windows inside a Docker container.,dockur,windows,https://github.com/dockur/windows
+2024-09-21,shell,9409,5,Combination of multiple linters to run as a GitHub Action or standalone,super-linter,super-linter,https://github.com/super-linter/super-linter
+2024-09-21,shell,2339,0,Official Zabbix Dockerfiles,zabbix,zabbix-docker,https://github.com/zabbix/zabbix-docker
+2024-09-21,shell,7901,5,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-09-21,shell,7890,3,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2024-09-21,shell,8496,7,Run sing-box/mihomo as client in shell,juewuy,ShellCrash,https://github.com/juewuy/ShellCrash
+2024-09-21,shell,14139,5,kaldi-asr/kaldi is the official location of the Kaldi project.,kaldi-asr,kaldi,https://github.com/kaldi-asr/kaldi
+2024-09-21,shell,1889,2,winutils.exe hadoop.dll and hdfs.dll binaries for hadoop windows,cdarlint,winutils,https://github.com/cdarlint/winutils
+2024-09-21,shell,4008,2,"Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf",armbian,build,https://github.com/armbian/build
+2024-09-21,shell,24198,6,最好用的 V2Ray 一键安装脚本 & 管理脚本,233boy,v2ray,https://github.com/233boy/v2ray
+2024-09-21,shell,1575,4,Docker container for Firefox,jlesage,docker-firefox,https://github.com/jlesage/docker-firefox
+2024-09-21,shell,7806,42,A cli tool to browse and play anime,pystardust,ani-cli,https://github.com/pystardust/ani-cli
+2024-09-21,shell,5516,32,很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。,DaoCloud,public-image-mirror,https://github.com/DaoCloud/public-image-mirror
+2024-09-21,shell,79081,37,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-09-21,shell,4882,3,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core

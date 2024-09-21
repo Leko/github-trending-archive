@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-21,rust,1485,397,🐸 a database management tui for postgres,achristmascarl,rainfrog,https://github.com/achristmascarl/rainfrog
+2024-09-21,rust,15144,14,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2024-09-21,rust,6067,0,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-09-21,rust,15174,24,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-09-21,rust,94040,17,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2024-09-21,rust,13035,13,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2024-09-21,rust,20325,40,"Fullstack app framework for web, desktop, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2024-09-21,rust,5992,4,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2024-09-21,rust,26883,63,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2024-09-21,rust,18734,9,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2024-09-21,rust,1537,1,Cairo is the first Turing-complete language for creating provable programs for general computation.,starkware-libs,cairo,https://github.com/starkware-libs/cairo
+2024-09-21,rust,47273,80,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
+2024-09-21,rust,1026,13,"A complement to pgvector for high performance, cost efficient vector search on large workloads.",timescale,pgvectorscale,https://github.com/timescale/pgvectorscale
+2024-09-21,rust,20460,121,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-09-21,rust,31723,12,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2024-09-21,rust,26474,17,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2024-09-21,rust,72956,73,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-09-21,rust,8480,18,"Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.",tracel-ai,burn,https://github.com/tracel-ai/burn
+2024-09-21,rust,5931,3,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-09-21,rust,4294,10,A Decentralized Operating System for ZK Applications,AleoNet,snarkOS,https://github.com/AleoNet/snarkOS
+2024-09-21,rust,9260,17,The fast Rust-based web bundler with webpack-compatible API 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2024-09-21,rust,2611,10,A blazing fast inference solution for text embeddings models,huggingface,text-embeddings-inference,https://github.com/huggingface/text-embeddings-inference

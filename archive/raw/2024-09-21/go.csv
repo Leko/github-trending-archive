@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-21,go,4265,14,"CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg
+2024-09-21,go,11067,10,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
+2024-09-21,go,50344,40,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2024-09-21,go,11936,6,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-09-21,go,21219,15,🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2024-09-21,go,2711,9,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2024-09-21,go,26890,43,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-09-21,go,23391,11,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-09-21,go,109940,28,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-09-21,go,22925,11,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-09-21,go,30369,28,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2024-09-21,go,26849,13,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-09-21,go,4409,4,OpenSSF Scorecard - Security health metrics for Open Source,ossf,scorecard,https://github.com/ossf/scorecard
+2024-09-21,go,27680,10,Easily and securely send things from one computer to another 🐊 📦,schollz,croc,https://github.com/schollz/croc
+2024-09-21,go,9746,3,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-09-21,go,4528,3,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2024-09-21,go,4449,94,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,DiceDB,dice,https://github.com/DiceDB/dice
+2024-09-21,go,8949,1,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-09-21,go,20897,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-09-21,go,42199,90,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-09-21,go,5892,2,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2024-09-21,go,68496,13,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-09-21,go,14632,8,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
