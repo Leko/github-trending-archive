@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-22,shell,8092,93,"Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.",QwenLM,Qwen2.5,https://github.com/QwenLM/Qwen2.5
+2024-09-22,shell,45939,68,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2024-09-22,shell,7905,4,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-09-22,shell,4568,1,Command-line tools for working with Architecture Decision Records,npryce,adr-tools,https://github.com/npryce/adr-tools
+2024-09-22,shell,4488,3,Opinionated Ubuntu Setup,basecamp,omakub,https://github.com/basecamp/omakub
+2024-09-22,shell,7688,10,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2024-09-22,shell,7819,12,A cli tool to browse and play anime,pystardust,ani-cli,https://github.com/pystardust/ani-cli
+2024-09-22,shell,9186,6,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2024-09-22,shell,5533,17,很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。,DaoCloud,public-image-mirror,https://github.com/DaoCloud/public-image-mirror
+2024-09-22,shell,28815,12,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2024-09-22,shell,4887,5,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2024-09-22,shell,2168,6,we want to create a repo to illustrate usage of transformers in chinese,datawhalechina,learn-nlp-with-transformers,https://github.com/datawhalechina/learn-nlp-with-transformers
+2024-09-22,shell,4763,1,"ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.",ONLYOFFICE,DocumentServer,https://github.com/ONLYOFFICE/DocumentServer
+2024-09-22,shell,7891,1,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2024-09-22,shell,17256,30,Windows inside a Docker container.,dockur,windows,https://github.com/dockur/windows
+2024-09-22,shell,774,0,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,aquasecurity,trivy-action,https://github.com/aquasecurity/trivy-action
+2024-09-22,shell,1538,3,💡使用 Docker Compose 以更优雅的方式来部署小雅服务，支持一键部署 Alist + Emby + Jellyfin，全平台支持，Linux/Windows/Mac/群晖，X86/Arm架构,monlor,docker-xiaoya,https://github.com/monlor/docker-xiaoya
+2024-09-22,shell,30172,4,"🔧 .files, including ~/.macos — sensible hacker defaults for macOS",mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles
