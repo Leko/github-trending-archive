@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-24,rust,21763,30,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,emilk,egui,https://github.com/emilk/egui
+2024-09-24,rust,17581,12,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2024-09-24,rust,8391,5,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust
+2024-09-24,rust,4716,45,"Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",stalwartlabs,mail-server,https://github.com/stalwartlabs/mail-server
+2024-09-24,rust,18136,17,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2024-09-24,rust,14809,57,"💥 Blazing fast terminal file manager written in Rust, based on async I/O.",sxyazi,yazi,https://github.com/sxyazi/yazi
+2024-09-24,rust,1458,28,IRC application written in Rust,squidowl,halloy,https://github.com/squidowl/halloy
+2024-09-24,rust,16957,18,"Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",slint-ui,slint,https://github.com/slint-ui/slint
+2024-09-24,rust,35278,22,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
+2024-09-24,rust,73106,73,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-09-24,rust,12227,7,"A cross-platform, safe, pure-Rust graphics API.",gfx-rs,wgpu,https://github.com/gfx-rs/wgpu
+2024-09-24,rust,1540,22,"Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",mediar-ai,screenpipe,https://github.com/mediar-ai/screenpipe
+2024-09-24,rust,12043,8,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2024-09-24,rust,13088,28,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2024-09-24,rust,1499,3,"Code for Command-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/",kyclark,command-line-rust,https://github.com/kyclark/command-line-rust
+2024-09-24,rust,5953,14,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-09-24,rust,24256,10,A web framework for Rust.,rwf2,Rocket,https://github.com/rwf2/Rocket
+2024-09-24,rust,16806,19,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2024-09-24,rust,1609,30,"A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",mufeedvh,code2prompt,https://github.com/mufeedvh/code2prompt
+2024-09-24,rust,15490,7,A Flash Player emulator written in Rust,ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle
+2024-09-24,rust,20754,124,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-09-24,rust,1554,5,Cairo is the first Turing-complete language for creating provable programs for general computation.,starkware-libs,cairo,https://github.com/starkware-libs/cairo
+2024-09-24,rust,6994,13,🐚 An async & dynamic ORM for Rust,SeaQL,sea-orm,https://github.com/SeaQL/sea-orm
+2024-09-24,rust,839,3,All of the official Tauri plugins in one place!,tauri-apps,plugins-workspace,https://github.com/tauri-apps/plugins-workspace
