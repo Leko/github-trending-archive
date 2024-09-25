@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-25,go,4102,6,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-09-25,go,23267,7,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-09-25,go,33668,12,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-09-25,go,5222,11,Backend master class: build a simple bank service in Go,techschool,simplebank,https://github.com/techschool/simplebank
+2024-09-25,go,27149,41,👾 Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2024-09-25,go,10401,7,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-09-25,go,6579,2,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2024-09-25,go,11760,6,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2024-09-25,go,21809,47,🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-09-25,go,6501,12,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-09-25,go,10503,4,psutil for golang,shirou,gopsutil,https://github.com/shirou/gopsutil
+2024-09-25,go,15717,14,"Find, verify, and analyze leaked credentials",trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-09-25,go,7779,7,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
+2024-09-25,go,10130,15,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",kubescape,kubescape,https://github.com/kubescape/kubescape
+2024-09-25,go,8959,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-09-25,go,7538,7,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2024-09-25,go,4608,24,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",Permify,permify,https://github.com/Permify/permify
+2024-09-25,go,18034,11,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-09-25,go,16572,6,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-09-25,go,2878,5,"🤖 AI Gateway | AI Native API Gateway",alibaba,higress,https://github.com/alibaba/higress
+2024-09-25,go,19934,7,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-09-25,go,26874,8,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-09-25,go,47461,9,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-09-25,go,23427,9,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-09-25,go,20016,13,Fast and customizable vulnerability scanner based on simple YAML based DSL.,projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
