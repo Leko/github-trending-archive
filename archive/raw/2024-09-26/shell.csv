@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-26,shell,79178,16,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-09-26,shell,21698,10,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-09-26,shell,3291,2,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-09-26,shell,108489,9,"Bring data to life with SVG, Canvas and HTML. 📊📈🎉",d3,d3,https://github.com/d3/d3
+2024-09-26,shell,4507,3,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-09-26,shell,670,0,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2024-09-26,shell,7920,0,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-09-26,shell,783,3,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,aquasecurity,trivy-action,https://github.com/aquasecurity/trivy-action
+2024-09-26,shell,840,0,This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.,MicrosoftDocs,azure-devops-docs,https://github.com/MicrosoftDocs/azure-devops-docs
+2024-09-26,shell,68215,6,Everything required to run your own Base node,base-org,node,https://github.com/base-org/node
+2024-09-26,shell,5648,43,很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。,DaoCloud,public-image-mirror,https://github.com/DaoCloud/public-image-mirror
+2024-09-26,shell,2183,6,we want to create a repo to illustrate usage of transformers in chinese,datawhalechina,learn-nlp-with-transformers,https://github.com/datawhalechina/learn-nlp-with-transformers
+2024-09-26,shell,7400,8,,BtbN,FFmpeg-Builds,https://github.com/BtbN/FFmpeg-Builds
+2024-09-26,shell,4890,0,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2024-09-26,shell,8452,5,a Docker + Kubernetes network trouble-shooting swiss-army container,nicolaka,netshoot,https://github.com/nicolaka/netshoot
+2024-09-26,shell,12010,5,Tmux Plugin Manager,tmux-plugins,tpm,https://github.com/tmux-plugins/tpm
+2024-09-26,shell,5209,9,"Fast, light, simple Docker containers & Linux machines",orbstack,orbstack,https://github.com/orbstack/orbstack

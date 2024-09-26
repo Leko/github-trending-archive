@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-26,go,18043,7,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-09-26,go,20921,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-09-26,go,9491,8,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2024-09-26,go,5596,6,Giving Kubernetes Superpowers to everyone,k8sgpt-ai,k8sgpt,https://github.com/k8sgpt-ai/k8sgpt
+2024-09-26,go,55011,21,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-09-26,go,22148,13,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-09-26,go,11788,21,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-09-26,go,8319,41,The Open Source Dev Environment Manager.,daytonaio,daytona,https://github.com/daytonaio/daytona
+2024-09-26,go,9927,4,Continuous Profiling Platform. Debug performance issues down to a single line of code,grafana,pyroscope,https://github.com/grafana/pyroscope
+2024-09-26,go,14898,3,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2024-09-26,go,21833,37,🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-09-26,go,23760,17,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-09-26,go,90736,137,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-09-26,go,7549,16,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2024-09-26,go,17508,10,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-09-26,go,23099,11,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-09-26,go,123103,30,The Go programming language,golang,go,https://github.com/golang/go
+2024-09-26,go,23438,16,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-09-26,go,1146,3,Collection of extensions for OpenTelemetry-Go.,open-telemetry,opentelemetry-go-contrib,https://github.com/open-telemetry/opentelemetry-go-contrib
+2024-09-26,go,10281,6,Vulnerability Static Analysis for Containers,quay,clair,https://github.com/quay/clair
+2024-09-26,go,39142,44,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-09-26,go,10410,9,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-09-26,go,16063,5,An IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
+2024-09-26,go,6751,46,Development Platform for building robust type-safe distributed systems with declarative infrastructure,encoredev,encore,https://github.com/encoredev/encore
+2024-09-26,go,10423,9,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
