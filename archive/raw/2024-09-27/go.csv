@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-27,go,8968,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-09-27,go,8359,41,The Open Source Dev Environment Manager.,daytonaio,daytona,https://github.com/daytonaio/daytona
+2024-09-27,go,6206,7,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-09-27,go,6665,17,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-09-27,go,2935,5,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-09-27,go,16471,24,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
+2024-09-27,go,4757,149,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,DiceDB,dice,https://github.com/DiceDB/dice
+2024-09-27,go,23109,14,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-09-27,go,3795,23,Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history,aceberg,WatchYourLAN,https://github.com/aceberg/WatchYourLAN
+2024-09-27,go,4310,5,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-09-27,go,23774,12,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-09-27,go,44287,27,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-09-27,go,17520,16,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-09-27,go,37170,20,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2024-09-27,go,6515,7,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-09-27,go,9949,28,Continuous Profiling Platform. Debug performance issues down to a single line of code,grafana,pyroscope,https://github.com/grafana/pyroscope
+2024-09-27,go,25138,12,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-09-27,go,110072,21,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-09-27,go,44,2,The hemi network core daemons.,hemilabs,heminetwork,https://github.com/hemilabs/heminetwork
+2024-09-27,go,11015,10,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-09-27,go,16067,8,An IPFS implementation in Go,ipfs,kubo,https://github.com/ipfs/kubo
+2024-09-27,go,29943,12,"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2024-09-27,go,11810,32,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-09-27,go,10419,8,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-09-27,go,13002,4,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,thanos-io,thanos,https://github.com/thanos-io/thanos
