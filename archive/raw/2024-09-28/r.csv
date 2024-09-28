@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-28,r,1130,0,"🌀 Learn R, in R.",swirldev,swirl,https://github.com/swirldev/swirl
+2024-09-28,r,2258,1,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2024-09-28,r,466,1,Accurate sample inference from amplicon data with single nucleotide resolution,benjjneb,dada2,https://github.com/benjjneb/dada2
+2024-09-28,r,6480,1,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2024-09-28,r,321,0,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2024-09-28,r,626,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2024-09-28,r,1332,0,Simple Features for R,r-spatial,sf,https://github.com/r-spatial/sf
+2024-09-28,r,402,0,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2024-09-28,r,378,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2024-09-28,r,1294,0,Make Complex Heatmaps,jokergoo,ComplexHeatmap,https://github.com/jokergoo/ComplexHeatmap
+2024-09-28,r,1006,0,📊 A universal enrichment tool for interpreting omics data,YuLab-SMU,clusterProfiler,https://github.com/YuLab-SMU/clusterProfiler
+2024-09-28,r,31,2,Educational Evaluation and Policy Tools for R,jknowles,eeptools,https://github.com/jknowles/eeptools
+2024-09-28,r,143,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2024-09-28,r,1003,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2024-09-28,r,1008,0,"Read flat files (csv, tsv, fwf) into R",tidyverse,readr,https://github.com/tidyverse/readr
+2024-09-28,r,1381,0,Tidy Messy Data,tidyverse,tidyr,https://github.com/tidyverse/tidyr
+2024-09-28,r,581,1,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2024-09-28,r,1671,2,R Interface to Python,rstudio,reticulate,https://github.com/rstudio/reticulate
+2024-09-28,r,557,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2024-09-28,r,1035,0,"RStan, the R interface to Stan",stan-dev,rstan,https://github.com/stan-dev/rstan

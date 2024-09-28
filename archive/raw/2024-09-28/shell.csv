@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-28,shell,8403,3,Some setup scripts for security research tools.,zardus,ctf-tools,https://github.com/zardus/ctf-tools
+2024-09-28,shell,21715,7,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-09-28,shell,79202,13,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-09-28,shell,1211,1,Convenience shortname repository for asdf community plugins,asdf-vm,asdf-plugins,https://github.com/asdf-vm/asdf-plugins
+2024-09-28,shell,891,0,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2024-09-28,shell,7903,2,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2024-09-28,shell,787,1,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,aquasecurity,trivy-action,https://github.com/aquasecurity/trivy-action
+2024-09-28,shell,10366,13,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2024-09-28,shell,1612,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2024-09-28,shell,6530,1,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2024-09-28,shell,4509,1,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-09-28,shell,5994,4,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2024-09-28,shell,7924,2,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-09-28,shell,3169,1,"Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.",Security-Onion-Solutions,securityonion,https://github.com/Security-Onion-Solutions/securityonion
+2024-09-28,shell,3295,3,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-09-28,shell,4519,3,AMD ROCm™ Software - GitHub Home,ROCm,ROCm,https://github.com/ROCm/ROCm
+2024-09-28,shell,1597,4,Docker container for Firefox,jlesage,docker-firefox,https://github.com/jlesage/docker-firefox
+2024-09-28,shell,7764,6,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-09-28,shell,2531,3,Mark Shust's Docker Configuration for Magento,markshust,docker-magento,https://github.com/markshust/docker-magento
+2024-09-28,shell,190,0,"Microsoft Defender for macOS/Linux - config samples, auxiliary tools",microsoft,mdatp-xplat,https://github.com/microsoft/mdatp-xplat
