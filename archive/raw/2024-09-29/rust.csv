@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-09-29,rust,27932,423,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用,tw93,Pake,https://github.com/tw93/Pake
+2024-09-29,rust,1903,100,24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.,mediar-ai,screenpipe,https://github.com/mediar-ai/screenpipe
+2024-09-29,rust,1273,120,The System Initiative software,systeminit,si,https://github.com/systeminit/si
+2024-09-29,rust,15074,5,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-09-29,rust,11945,6,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-09-29,rust,14118,5,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2024-09-29,rust,5399,10,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-09-29,rust,3918,11,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2024-09-29,rust,73374,45,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-09-29,rust,6113,6,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-09-29,rust,1219,14,,google,zerocopy,https://github.com/google/zerocopy
+2024-09-29,rust,1825,8,"An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.",face-hh,webx,https://github.com/face-hh/webx
+2024-09-29,rust,21263,18,Self-hosted AI coding assistant,TabbyML,tabby,https://github.com/TabbyML/tabby
+2024-09-29,rust,21948,24,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2024-09-29,rust,1471,4,"Space and Time | Proof of SQL",spaceandtimelabs,sxt-proof-of-sql,https://github.com/spaceandtimelabs/sxt-proof-of-sql
+2024-09-29,rust,5301,3,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2024-09-29,rust,26545,11,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2024-09-29,rust,11863,6,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2024-09-29,rust,21296,113,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-09-29,rust,3472,3,Blazingly fast LLM inference.,EricLBuehler,mistral.rs,https://github.com/EricLBuehler/mistral.rs
+2024-09-29,rust,18442,14,"Anki's shared backend and web components, and the Qt frontend",ankitects,anki,https://github.com/ankitects/anki
+2024-09-29,rust,8949,26,A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️,orhun,git-cliff,https://github.com/orhun/git-cliff
+2024-09-29,rust,5904,9,Postgres for Search and Analytics,paradedb,paradedb,https://github.com/paradedb/paradedb
+2024-09-29,rust,18985,13,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
