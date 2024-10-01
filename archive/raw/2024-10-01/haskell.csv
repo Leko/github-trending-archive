@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-01,haskell,36200,11,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-10-01,haskell,1611,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-10-01,haskell,134,1,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2024-10-01,haskell,722,0,Interactively browse dependency graphs of Nix derivations.,utdemir,nix-tree,https://github.com/utdemir/nix-tree
+2024-10-01,haskell,3342,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-10-01,haskell,2656,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-10-01,haskell,2965,11,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-10-01,haskell,5749,2,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-10-01,haskell,2602,1,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2024-10-01,haskell,763,0,HTTP server & command-line for managing UTxOs and HD wallets in Cardano.,cardano-foundation,cardano-wallet,https://github.com/cardano-foundation/cardano-wallet
+2024-10-01,haskell,256,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-10-01,haskell,2478,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-10-01,haskell,3928,6,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-10-01,haskell,1183,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2024-10-01,haskell,23272,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-10-01,haskell,276,0,Implementation of the Hydra Head protocol,cardano-scaling,hydra,https://github.com/cardano-scaling/hydra

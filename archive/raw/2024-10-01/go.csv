@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-01,go,64236,112,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2024-10-01,go,5321,159,"DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.",DiceDB,dice,https://github.com/DiceDB/dice
+2024-10-01,go,24810,41,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-10-01,go,21321,8,🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2024-10-01,go,2530,23,"Zep | The Memory Foundation For Your AI Stack",getzep,zep,https://github.com/getzep/zep
+2024-10-01,go,4601,41,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",AlexxIT,go2rtc,https://github.com/AlexxIT/go2rtc
+2024-10-01,go,2809,142,An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.,gofr-dev,gofr,https://github.com/gofr-dev/gofr
+2024-10-01,go,15872,5,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",kubernetes,kops,https://github.com/kubernetes/kops
+2024-10-01,go,91556,165,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-10-01,go,7507,49,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",kopia,kopia,https://github.com/kopia/kopia
+2024-10-01,go,9739,27,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-10-01,go,7993,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-10-01,go,36985,6,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/",pingcap,tidb,https://github.com/pingcap/tidb
+2024-10-01,go,13885,9,IM Chat,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-10-01,go,28990,11,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2024-10-01,go,22430,6,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-10-01,go,16615,16,D2 is a modern diagram scripting language that turns text to diagrams.,terrastruct,d2,https://github.com/terrastruct/d2
+2024-10-01,go,46412,33,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",rclone,rclone,https://github.com/rclone/rclone
+2024-10-01,go,3058,10,eBPF-based Linux high-performance transparent proxy solution.,daeuniverse,dae,https://github.com/daeuniverse/dae
+2024-10-01,go,4129,118,Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!,keploy,keploy,https://github.com/keploy/keploy
+2024-10-01,go,21274,12,The Single Sign-On Multi-Factor portal for web apps,authelia,authelia,https://github.com/authelia/authelia
+2024-10-01,go,8878,6,"The toolkit to pack, ship, store, and deliver container content",distribution,distribution,https://github.com/distribution/distribution
