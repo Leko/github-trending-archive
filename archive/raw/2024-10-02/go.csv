@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-02,go,4552,145,Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!,keploy,keploy,https://github.com/keploy/keploy
+2024-10-02,go,1992,109,"Rapid, easy full-stack web development starter kit in Go",mikestefanello,pagoda,https://github.com/mikestefanello/pagoda
+2024-10-02,go,2551,23,"Zep | The Memory Foundation For Your AI Stack",getzep,zep,https://github.com/getzep/zep
+2024-10-02,go,15486,5,An entity framework for Go,ent,ent,https://github.com/ent/ent
+2024-10-02,go,20708,9,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,gorilla,mux,https://github.com/gorilla/mux
+2024-10-02,go,4081,2,Automatically set GOMAXPROCS to match Linux container CPU quota.,uber-go,automaxprocs,https://github.com/uber-go/automaxprocs
+2024-10-02,go,17599,15,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2024-10-02,go,64265,41,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2024-10-02,go,91684,151,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-10-02,go,6008,0,A mock code autogenerator for Go,vektra,mockery,https://github.com/vektra/mockery
+2024-10-02,go,23132,10,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-10-02,go,17321,6,Ingress-NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2024-10-02,go,8619,6,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2024-10-02,go,1775,4,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,kubernetes-sigs,gateway-api,https://github.com/kubernetes-sigs/gateway-api
+2024-10-02,go,10745,5,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",netbirdio,netbird,https://github.com/netbirdio/netbird
+2024-10-02,go,2678,3,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2024-10-02,go,7468,2,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2024-10-02,go,14533,2,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-10-02,go,6757,11,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2024-10-02,go,16629,9,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-10-02,go,7059,8,Go implementation of JSON Web Tokens (JWT).,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2024-10-02,go,6874,6,Fluent SQL generation for golang,Masterminds,squirrel,https://github.com/Masterminds/squirrel
+2024-10-02,go,12486,10,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer

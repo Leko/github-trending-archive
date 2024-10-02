@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-02,shell,4823,24,Opinionated Ubuntu Setup,basecamp,omakub,https://github.com/basecamp/omakub
+2024-10-02,shell,26784,21,"This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2024-10-02,shell,4596,4,Command-line tools for working with Architecture Decision Records,npryce,adr-tools,https://github.com/npryce/adr-tools
+2024-10-02,shell,13095,2,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
+2024-10-02,shell,4028,1,"Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf",armbian,build,https://github.com/armbian/build
+2024-10-02,shell,10513,13,"Quickly create and run optimised Windows, macOS and Linux virtual machines",quickemu-project,quickemu,https://github.com/quickemu-project/quickemu
+2024-10-02,shell,789,1,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,aquasecurity,trivy-action,https://github.com/aquasecurity/trivy-action
+2024-10-02,shell,7914,4,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2024-10-02,shell,1917,7,Homelab Goodies,JamesTurland,JimsGarage,https://github.com/JamesTurland/JimsGarage
+2024-10-02,shell,172835,31,"🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2024-10-02,shell,25044,7,binary releases of VS Code without MS branding/telemetry/licensing,VSCodium,vscodium,https://github.com/VSCodium/vscodium
+2024-10-02,shell,14235,2,A community Bash framework.,Bash-it,bash-it,https://github.com/Bash-it/bash-it
+2024-10-02,shell,451,0,For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.,jenkins-docs,simple-java-maven-app,https://github.com/jenkins-docs/simple-java-maven-app
+2024-10-02,shell,894,1,"Repository for publishing OpenConfig models, documentation, and other material for the community.",openconfig,public,https://github.com/openconfig/public
+2024-10-02,shell,1801,3,💽 Soothing pastel theme for Tmux!,catppuccin,tmux,https://github.com/catppuccin/tmux
+2024-10-02,shell,3306,1,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-10-02,shell,2408,21,Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.,ChrisTitusTech,linutil,https://github.com/ChrisTitusTech/linutil
+2024-10-02,shell,8479,8,a Docker + Kubernetes network trouble-shooting swiss-army container,nicolaka,netshoot,https://github.com/nicolaka/netshoot
