@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-03,shell,79281,21,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-10-03,shell,172859,38,"🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2024-10-03,shell,789,0,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,aquasecurity,trivy-action,https://github.com/aquasecurity/trivy-action
+2024-10-03,shell,7915,1,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2024-10-03,shell,16060,1,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2024-10-03,shell,158,3,Base16 for Shells,chriskempson,base16-shell,https://github.com/chriskempson/base16-shell
+2024-10-03,shell,12307,11,fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.,hq450,fancyss,https://github.com/hq450/fancyss
+2024-10-03,shell,21998,4,🖼️ A command-line system information tool written in bash 3.2+,dylanaraps,neofetch,https://github.com/dylanaraps/neofetch
+2024-10-03,shell,18796,6,Node version management,tj,n,https://github.com/tj/n
+2024-10-03,shell,1506,0,"YANG modules from standards organizations such as the IETF, The IEEE, The Metro Ethernet Forum, open source such as Open Daylight or vendor specific modules",YangModels,yang,https://github.com/YangModels/yang
+2024-10-03,shell,4515,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-10-03,shell,6239,5,A conda-forge distribution.,conda-forge,miniforge,https://github.com/conda-forge/miniforge
+2024-10-03,shell,17134,8,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2024-10-03,shell,2228,0,Manage multiple NodeJS versions.,nodenv,nodenv,https://github.com/nodenv/nodenv
+2024-10-03,shell,48661,16,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2024-10-03,shell,673,0,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2024-10-03,shell,10535,19,"Quickly create and run optimised Windows, macOS and Linux virtual machines",quickemu-project,quickemu,https://github.com/quickemu-project/quickemu
+2024-10-03,shell,1613,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2024-10-03,shell,6301,0,a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv),pyenv,pyenv-virtualenv,https://github.com/pyenv/pyenv-virtualenv
+2024-10-03,shell,4034,6,"Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf",armbian,build,https://github.com/armbian/build

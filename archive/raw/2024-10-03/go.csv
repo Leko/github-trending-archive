@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-03,go,1639,33,Group peer to peer video calls for everyone written in Go and TypeScript,peer-calls,peer-calls,https://github.com/peer-calls/peer-calls
+2024-10-03,go,23325,25,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-10-03,go,57433,49,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2024-10-03,go,25217,40,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-10-03,go,15803,8,"Find, verify, and analyze leaked credentials",trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-10-03,go,8628,9,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2024-10-03,go,4775,414,Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!,keploy,keploy,https://github.com/keploy/keploy
+2024-10-03,go,26745,20,🐶 Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2024-10-03,go,3553,9,k0s - The Zero Friction Kubernetes,k0sproject,k0s,https://github.com/k0sproject/k0s
+2024-10-03,go,5206,1,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-10-03,go,3727,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-10-03,go,25283,29,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2024-10-03,go,10463,10,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-10-03,go,7966,3,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-10-03,go,9812,36,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-10-03,go,12499,10,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2024-10-03,go,25963,16,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2024-10-03,go,7564,23,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",kopia,kopia,https://github.com/kopia/kopia
+2024-10-03,go,12003,9,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2024-10-03,go,4406,4,Code signing and transparency for containers and binaries,sigstore,cosign,https://github.com/sigstore/cosign
+2024-10-03,go,10332,2,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2024-10-03,go,1152,0,Collection of extensions for OpenTelemetry-Go.,open-telemetry,opentelemetry-go-contrib,https://github.com/open-telemetry/opentelemetry-go-contrib
+2024-10-03,go,2573,3,"OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)",getkin,kin-openapi,https://github.com/getkin/kin-openapi
+2024-10-03,go,20947,3,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-10-03,go,3032,48,"🔍 gowitness - a golang, web screenshot utility using Chrome Headless",sensepost,gowitness,https://github.com/sensepost/gowitness
