@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-04,shell,4120,12,"Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf",armbian,build,https://github.com/armbian/build
+2024-10-04,shell,79295,14,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-10-04,shell,7782,5,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-10-04,shell,10544,9,"Quickly create and run optimised Windows, macOS and Linux virtual machines",quickemu-project,quickemu,https://github.com/quickemu-project/quickemu
+2024-10-04,shell,172896,44,"🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2024-10-04,shell,4514,0,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-10-04,shell,17138,5,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2024-10-04,shell,21755,6,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-10-04,shell,4899,1,Bash Automated Testing System,bats-core,bats-core,https://github.com/bats-core/bats-core
+2024-10-04,shell,1806,2,💽 Soothing pastel theme for Tmux!,catppuccin,tmux,https://github.com/catppuccin/tmux
+2024-10-04,shell,1613,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2024-10-04,shell,18797,1,Node version management,tj,n,https://github.com/tj/n
+2024-10-04,shell,269,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2024-10-04,shell,805,0,Multi-platform nightly builds of open source digital design and verification tools,YosysHQ,oss-cad-suite-build,https://github.com/YosysHQ/oss-cad-suite-build
+2024-10-04,shell,14404,8,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2024-10-04,shell,46356,91,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,sickcodes,Docker-OSX,https://github.com/sickcodes/Docker-OSX
+2024-10-04,shell,28968,12,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2024-10-04,shell,789,0,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,aquasecurity,trivy-action,https://github.com/aquasecurity/trivy-action
+2024-10-04,shell,3311,2,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-10-04,shell,1898,0,Apache Kafka and Confluent Platform examples and demos,confluentinc,examples,https://github.com/confluentinc/examples
+2024-10-04,shell,19446,2,"🚀⭐ Minimalistic, powerful and extremely customizable Zsh prompt",spaceship-prompt,spaceship-prompt,https://github.com/spaceship-prompt/spaceship-prompt
+2024-10-04,shell,1109,0,Official Zigbee2MQTT Home Assistant add-on,zigbee2mqtt,hassio-zigbee2mqtt,https://github.com/zigbee2mqtt/hassio-zigbee2mqtt

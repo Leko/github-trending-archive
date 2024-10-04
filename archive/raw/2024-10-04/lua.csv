@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-04,lua,16790,21,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-10-04,lua,6256,7,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-10-04,lua,5242,10,"💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2024-10-04,lua,10462,14,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-10-04,lua,1617,2,🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-10-04,lua,18862,24,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-10-04,lua,3056,2,Jitsi Meet on Docker,jitsi,docker-jitsi-meet,https://github.com/jitsi/docker-jitsi-meet
+2024-10-04,lua,4130,8,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2024-10-04,lua,16482,8,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-10-04,lua,6359,3,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2024-10-04,lua,2594,1,A UI for nvim-dap,rcarriga,nvim-dap-ui,https://github.com/rcarriga/nvim-dap-ui
+2024-10-04,lua,5459,5,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-10-04,lua,1874,0,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2024-10-04,lua,3013,9,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-10-04,lua,213,9,Lightweight & high performance UI plugin for nvchad,NvChad,ui,https://github.com/NvChad/ui
+2024-10-04,lua,7883,9,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-10-04,lua,3396,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-10-04,lua,38986,9,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-10-04,lua,3833,8,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2024-10-04,lua,499,17,白霜词库：蒹葭苍苍，白露为霜。基于雾凇拼音重制的，更纯净、词频准确、智能的词库。使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化。白霜词库是目前rime方案下最好的词库，在不使用智能模型的情况下可以超越使用智能模型的词库方案。目前使用白霜词库的方案有：墨奇音形（双拼辅）https://github.com/gaboolic/rime-shuangpin-fuzhuma 、墨奇五笔整句https://github.com/gaboolic/rime-wubi-sentence,gaboolic,rime-frost,https://github.com/gaboolic/rime-frost

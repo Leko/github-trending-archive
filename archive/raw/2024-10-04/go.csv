@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-04,go,25313,31,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-10-04,go,22572,30,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2024-10-04,go,9832,24,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-10-04,go,6797,19,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2024-10-04,go,4798,61,Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!,keploy,keploy,https://github.com/keploy/keploy
+2024-10-04,go,15510,5,"The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.",ory,hydra,https://github.com/ory/hydra
+2024-10-04,go,48651,47,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2024-10-04,go,14544,5,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-10-04,go,6960,2,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2024-10-04,go,57452,29,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2024-10-04,go,36883,18,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2024-10-04,go,23078,12,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-10-04,go,10768,16,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",netbirdio,netbird,https://github.com/netbirdio/netbird
+2024-10-04,go,11312,12,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2024-10-04,go,4111,7,"A distributed, fault-tolerant task queue",hatchet-dev,hatchet,https://github.com/hatchet-dev/hatchet
+2024-10-04,go,18277,11,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2024-10-04,go,17577,11,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-10-04,go,1327,5,OpenTelemetry Collector distribution with programmable pipelines,grafana,alloy,https://github.com/grafana/alloy
+2024-10-04,go,8565,9,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-10-04,go,7971,8,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-10-04,go,4621,4,Blackbox prober exporter,prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter
+2024-10-04,go,6022,15,A mock code autogenerator for Go,vektra,mockery,https://github.com/vektra/mockery
+2024-10-04,go,3568,14,k0s - The Zero Friction Kubernetes,k0sproject,k0s,https://github.com/k0sproject/k0s
