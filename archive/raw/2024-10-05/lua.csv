@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-05,lua,620,8,"This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed",shellRaining,hlchunk.nvim,https://github.com/shellRaining/hlchunk.nvim
+2024-10-05,lua,228,16,Lightweight & high performance UI plugin for nvchad,NvChad,ui,https://github.com/NvChad/ui
+2024-10-05,lua,10472,10,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-10-05,lua,3056,0,Jitsi Meet on Docker,jitsi,docker-jitsi-meet,https://github.com/jitsi/docker-jitsi-meet
+2024-10-05,lua,4299,6,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-10-05,lua,16805,19,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-10-05,lua,1280,2,,xiaorouji,openwrt-passwall2,https://github.com/xiaorouji/openwrt-passwall2
+2024-10-05,lua,1467,2,Plugin for calling lazygit from within neovim.,kdheepak,lazygit.nvim,https://github.com/kdheepak/lazygit.nvim
+2024-10-05,lua,7086,5,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2024-10-05,lua,4134,5,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2024-10-05,lua,14317,14,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-10-05,lua,6261,9,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-10-05,lua,1940,2,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2024-10-05,lua,6360,1,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2024-10-05,lua,3925,3,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2024-10-05,lua,1876,2,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2024-10-05,lua,27488,3,Image Super-Resolution for Anime-Style Art,nagadomi,waifu2x,https://github.com/nagadomi/waifu2x
+2024-10-05,lua,5248,7,"💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2024-10-05,lua,5448,4,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2024-10-05,lua,2297,5,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest

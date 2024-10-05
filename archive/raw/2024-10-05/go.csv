@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-05,go,25464,157,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-10-05,go,23157,10,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-10-05,go,22458,12,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-10-05,go,3398,5,Sonne tanken ☀️🚘,evcc-io,evcc,https://github.com/evcc-io/evcc
+2024-10-05,go,51521,65,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-10-05,go,24751,22,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2024-10-05,go,8577,9,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-10-05,go,8846,14,CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.,crowdsecurity,crowdsec,https://github.com/crowdsecurity/crowdsec
+2024-10-05,go,15457,6,Fast linters runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2024-10-05,go,25193,21,"Curated list of Go design patterns, recipes and idioms",tmrts,go-patterns,https://github.com/tmrts/go-patterns
+2024-10-05,go,5494,9,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",flyteorg,flyte,https://github.com/flyteorg/flyte
+2024-10-05,go,12017,8,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2024-10-05,go,24873,23,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-10-05,go,7978,9,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-10-05,go,24644,17,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-10-05,go,6109,11,Generate Go client and server boilerplate from OpenAPI 3 specifications,oapi-codegen,oapi-codegen,https://github.com/oapi-codegen/oapi-codegen
+2024-10-05,go,7324,16,Building event-driven applications the easy way in Go.,ThreeDotsLabs,watermill,https://github.com/ThreeDotsLabs/watermill
+2024-10-05,go,23351,15,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-10-05,go,6985,7,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
+2024-10-05,go,6584,12,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-10-05,go,37279,26,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2024-10-05,go,2787,3,A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar,openfga,openfga,https://github.com/openfga/openfga
+2024-10-05,go,6036,13,A mock code autogenerator for Go,vektra,mockery,https://github.com/vektra/mockery
+2024-10-05,go,1327,1,OpenTelemetry Collector distribution with programmable pipelines,grafana,alloy,https://github.com/grafana/alloy
