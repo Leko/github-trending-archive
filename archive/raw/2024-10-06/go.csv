@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-06,go,23183,19,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-10-06,go,2793,8,A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar,openfga,openfga,https://github.com/openfga/openfga
+2024-10-06,go,5214,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-10-06,go,17056,20,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",FiloSottile,age,https://github.com/FiloSottile/age
+2024-10-06,go,25525,106,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-10-06,go,35811,8,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2024-10-06,go,51566,56,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-10-06,go,20954,5,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-10-06,go,8582,12,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-10-06,go,4895,3,A Pluggable Terraform Linter,terraform-linters,tflint,https://github.com/terraform-linters/tflint
+2024-10-06,go,68561,14,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-10-06,go,7985,2,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-10-06,go,25206,17,"Curated list of Go design patterns, recipes and idioms",tmrts,go-patterns,https://github.com/tmrts/go-patterns
+2024-10-06,go,26938,7,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-10-06,go,2133,5,GoMock is a mocking framework for the Go programming language.,uber-go,mock,https://github.com/uber-go/mock
+2024-10-06,go,18917,10,Container runtimes on macOS (and Linux) with minimal setup,abiosoft,colima,https://github.com/abiosoft/colima
+2024-10-06,go,2997,3,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",fleetdm,fleet,https://github.com/fleetdm/fleet
+2024-10-06,go,11980,3,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-10-06,go,4640,3,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-10-06,go,129954,55,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-10-06,go,6114,6,Generate Go client and server boilerplate from OpenAPI 3 specifications,oapi-codegen,oapi-codegen,https://github.com/oapi-codegen/oapi-codegen
+2024-10-06,go,7737,2,Terraform Pull Request Automation,runatlantis,atlantis,https://github.com/runatlantis/atlantis
+2024-10-06,go,7619,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-10-06,go,24602,7,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
