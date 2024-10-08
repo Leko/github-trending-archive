@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-08,lua,18964,31,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-10-08,lua,10489,9,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-10-08,lua,1634,8,🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-10-08,lua,6044,4,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2024-10-08,lua,7904,3,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-10-08,lua,1153,3,Neovim plugin to generate text using LLMs with customizable prompts,David-Kunz,gen.nvim,https://github.com/David-Kunz/gen.nvim
+2024-10-08,lua,3294,6,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-10-08,lua,6872,10,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2024-10-08,lua,2060,2,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2024-10-08,lua,15645,12,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-10-08,lua,4147,4,Indent guides for Neovim,lukas-reineke,indent-blankline.nvim,https://github.com/lukas-reineke/indent-blankline.nvim
+2024-10-08,lua,3164,4,Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.,kylechui,nvim-surround,https://github.com/kylechui/nvim-surround
+2024-10-08,lua,3938,3,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2024-10-08,lua,7067,9,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2024-10-08,lua,16507,5,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-10-08,lua,3032,7,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-10-08,lua,367,1,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-10-08,lua,241,3,An experimental true coop multiplayer mod for Noita.,IntQuant,noita_entangled_worlds,https://github.com/IntQuant/noita_entangled_worlds
