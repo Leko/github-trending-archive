@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-09,go,5367,4,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2024-10-09,go,10496,8,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-10-09,go,1315,33,[WIP]: Repo for learning observability,iam-veeramalla,observability-zero-to-hero,https://github.com/iam-veeramalla/observability-zero-to-hero
+2024-10-09,go,16039,34,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2024-10-09,go,5588,24,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",flyteorg,flyte,https://github.com/flyteorg/flyte
+2024-10-09,go,19031,31,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-10-09,go,23309,4,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-10-09,go,4888,1,The Docker CLI,docker,cli,https://github.com/docker/cli
+2024-10-09,go,22490,12,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-10-09,go,23203,10,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-10-09,go,14343,4,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2024-10-09,go,20967,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-10-09,go,5622,6,Cloud Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-10-09,go,44466,18,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-10-09,go,23521,30,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-10-09,go,16785,8,"Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",GoogleCloudPlatform,microservices-demo,https://github.com/GoogleCloudPlatform/microservices-demo
+2024-10-09,go,7210,1,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",operator-framework,operator-sdk,https://github.com/operator-framework/operator-sdk
+2024-10-09,go,37825,11,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-10-09,go,3029,73,An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.,gofr-dev,gofr,https://github.com/gofr-dev/gofr
+2024-10-09,go,4774,10,Community managed domain list. Generate geosite.dat for V2Ray.,v2fly,domain-list-community,https://github.com/v2fly/domain-list-community
+2024-10-09,go,1159,3,Collection of extensions for OpenTelemetry-Go.,open-telemetry,opentelemetry-go-contrib,https://github.com/open-telemetry/opentelemetry-go-contrib
+2024-10-09,go,14711,6,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2024-10-09,go,15665,7,Application Kernel for Containers,google,gvisor,https://github.com/google/gvisor
+2024-10-09,go,4549,6,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2024-10-09,go,9047,4,Pure Go Postgres driver for database/sql,lib,pq,https://github.com/lib/pq
