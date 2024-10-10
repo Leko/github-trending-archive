@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-10,go,4564,4,Terraform provider for Azure Resource Manager,hashicorp,terraform-provider-azurerm,https://github.com/hashicorp/terraform-provider-azurerm
+2024-10-10,go,16059,20,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",TheAlgorithms,Go,https://github.com/TheAlgorithms/Go
+2024-10-10,go,24756,31,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-10-10,go,1338,25,[WIP]: Repo for learning observability,iam-veeramalla,observability-zero-to-hero,https://github.com/iam-veeramalla/observability-zero-to-hero
+2024-10-10,go,11063,14,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2024-10-10,go,21366,13,🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2024-10-10,go,44482,28,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-10-10,go,1176,2,A toolkit to run Ray applications on Kubernetes,ray-project,kuberay,https://github.com/ray-project/kuberay
+2024-10-10,go,78327,17,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-10-10,go,23213,13,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-10-10,go,6179,14,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,google,osv-scanner,https://github.com/google/osv-scanner
+2024-10-10,go,9046,1,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2024-10-10,go,30506,7,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",ehang-io,nps,https://github.com/ehang-io/nps
+2024-10-10,go,3569,18,A simple and fast anti-censorship tool written in Go,xvzc,SpoofDPI,https://github.com/xvzc/SpoofDPI
+2024-10-10,go,68578,12,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-10-10,go,3199,190,An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.,gofr-dev,gofr,https://github.com/gofr-dev/gofr
+2024-10-10,go,55188,14,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-10-10,go,44931,9,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2024-10-10,go,37839,14,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-10-10,go,47565,13,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-10-10,go,17258,8,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-10-10,go,23318,11,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-10-10,go,20971,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go

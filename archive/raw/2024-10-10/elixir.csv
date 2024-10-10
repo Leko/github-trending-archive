@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-10,elixir,21293,6,Peace of mind from prototype to production,phoenixframework,phoenix,https://github.com/phoenixframework/phoenix
+2024-10-10,elixir,6229,3,Sync little subsets of your Postgres data into local apps and services.,electric-sql,electric,https://github.com/electric-sql/electric
+2024-10-10,elixir,19983,24,"Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",plausible,analytics,https://github.com/plausible/analytics
+2024-10-10,elixir,1471,0,"A frontend-independent IDE ""smartness"" server for Elixir. Implements the ""Language Server Protocol"" standard and provides debugger support via the ""Debug Adapter Protocol""",elixir-lsp,elixir-ls,https://github.com/elixir-lsp/elixir-ls
+2024-10-10,elixir,299,0,"Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",elixir-lsp,elixir_sense,https://github.com/elixir-lsp/elixir_sense
+2024-10-10,elixir,6150,3,"Rich, real-time user experiences with server-rendered HTML",phoenixframework,phoenix_live_view,https://github.com/phoenixframework/phoenix_live_view
+2024-10-10,elixir,2854,0,Compose web applications with functions,elixir-plug,plug,https://github.com/elixir-plug/plug
+2024-10-10,elixir,24365,3,"Elixir is a dynamic, functional language for building scalable and maintainable applications",elixir-lang,elixir,https://github.com/elixir-lang/elixir
+2024-10-10,elixir,1595,2,"A declarative, extensible framework for building Elixir applications.",ash-project,ash,https://github.com/ash-project/ash
+2024-10-10,elixir,896,8,"Open-source content management system (CMS) built with Phoenix LiveView. Faster render times to boost SEO performance, even for the most content-heavy pages.",BeaconCMS,beacon,https://github.com/BeaconCMS/beacon
+2024-10-10,elixir,148,0,Wrapper around the Erlang crypto module for Elixir.,ntrepid8,ex_crypto,https://github.com/ntrepid8/ex_crypto
+2024-10-10,elixir,6158,1,A toolkit for data mapping and language integrated query.,elixir-ecto,ecto,https://github.com/elixir-ecto/ecto
+2024-10-10,elixir,156,1,OpenTelemetry instrumentation for Erlang & Elixir,open-telemetry,opentelemetry-erlang-contrib,https://github.com/open-telemetry/opentelemetry-erlang-contrib
+2024-10-10,elixir,164,0,An implementation of GitHub's Primer Design System using Phoenix LiveView,ArthurClemens,primer_live,https://github.com/ArthurClemens/primer_live
+2024-10-10,elixir,232,0,A Broadway connector for Kafka,dashbitco,broadway_kafka,https://github.com/dashbitco/broadway_kafka
+2024-10-10,elixir,725,0,[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please),valpackett,httpotion,https://github.com/valpackett/httpotion
