@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-11,go,11075,4,An engine to run your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2024-10-11,go,24793,39,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-10-11,go,42501,10,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-10-11,go,85179,44,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-10-11,go,2649,209,不只是即时通讯(IM),WuKongIM,WuKongIM,https://github.com/WuKongIM/WuKongIM
+2024-10-11,go,33790,20,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-10-11,go,3215,19,An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.,gofr-dev,gofr,https://github.com/gofr-dev/gofr
+2024-10-11,go,1360,28,[WIP]: Repo for learning observability,iam-veeramalla,observability-zero-to-hero,https://github.com/iam-veeramalla/observability-zero-to-hero
+2024-10-11,go,8024,6,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-10-11,go,11629,26,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
+2024-10-11,go,3666,16,🐊 Gatekeeper - Policy Controller for Kubernetes,open-policy-agent,gatekeeper,https://github.com/open-policy-agent/gatekeeper
+2024-10-11,go,11080,20,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2024-10-11,go,11550,5,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2024-10-11,go,50768,33,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2024-10-11,go,3085,2,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,WireGuard,wireguard-go,https://github.com/WireGuard/wireguard-go
+2024-10-11,go,23225,14,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-10-11,go,21375,10,🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2024-10-11,go,5520,2,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2024-10-11,go,47201,25,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",minio,minio,https://github.com/minio/minio
+2024-10-11,go,10520,13,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-10-11,go,29313,9,Run Kubernetes locally,kubernetes,minikube,https://github.com/kubernetes/minikube
+2024-10-11,go,1561,5,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway,envoyproxy,gateway,https://github.com/envoyproxy/gateway
+2024-10-11,go,19103,43,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box

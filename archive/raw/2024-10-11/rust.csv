@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-11,rust,21567,34,"A library for building fast, reliable and evolvable network services.",cloudflare,pingora,https://github.com/cloudflare/pingora
+2024-10-11,rust,94925,199,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2024-10-11,rust,1431,29,,google,zerocopy,https://github.com/google/zerocopy
+2024-10-11,rust,26684,35,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2024-10-11,rust,30257,89,🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用,tw93,Pake,https://github.com/tw93/Pake
+2024-10-11,rust,52552,25,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2024-10-11,rust,4501,7,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2024-10-11,rust,1546,5,"Space and Time | Proof of SQL",spaceandtimelabs,sxt-proof-of-sql,https://github.com/spaceandtimelabs/sxt-proof-of-sql
+2024-10-11,rust,9462,19,"dev tools, env vars, task runner",jdx,mise,https://github.com/jdx/mise
+2024-10-11,rust,12643,4,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2024-10-11,rust,4310,12,"Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!",lancedb,lancedb,https://github.com/lancedb/lancedb
+2024-10-11,rust,13684,13,a Hassle-Free Python Experience,astral-sh,rye,https://github.com/astral-sh/rye
+2024-10-11,rust,8667,8,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2024-10-11,rust,21430,21,Self-hosted AI coding assistant,TabbyML,tabby,https://github.com/TabbyML/tabby
+2024-10-11,rust,12657,14,"The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",gitbutlerapp,gitbutler,https://github.com/gitbutlerapp/gitbutler
+2024-10-11,rust,97535,56,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2024-10-11,rust,27704,7,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.,google,comprehensive-rust,https://github.com/google/comprehensive-rust
+2024-10-11,rust,22827,29,"A syntax-highlighting pager for git, diff, grep, and blame output",dandavison,delta,https://github.com/dandavison/delta
+2024-10-11,rust,4723,6,A Rust library for the Discord API.,serenity-rs,serenity,https://github.com/serenity-rs/serenity
+2024-10-11,rust,9378,11,🥧 Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2024-10-11,rust,1180,11,Monorepo for Revolt backend services.,revoltchat,backend,https://github.com/revoltchat/backend
+2024-10-11,rust,73929,75,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk

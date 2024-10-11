@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-11,haskell,10349,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-10-11,haskell,36253,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-10-11,haskell,34249,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-10-11,haskell,862,0,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly
+2024-10-11,haskell,1189,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2024-10-11,haskell,136,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2024-10-11,haskell,2604,1,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2024-10-11,haskell,210,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-10-11,haskell,2490,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-10-11,haskell,2393,3,💥💻💥 A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2024-10-11,haskell,3042,3,Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).,ghc,ghc,https://github.com/ghc/ghc
+2024-10-11,haskell,2986,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-10-11,haskell,2662,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-10-11,haskell,3965,6,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-10-11,haskell,23309,2,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-10-11,haskell,3987,2,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
+2024-10-11,haskell,347,1,Haskell implemented with combinators,augustss,MicroHs,https://github.com/augustss/MicroHs
+2024-10-11,haskell,1619,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
