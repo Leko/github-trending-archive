@@ -1,0 +1,15 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-12,haskell,3058,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-10-12,haskell,2664,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-10-12,haskell,138,2,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2024-10-12,haskell,3042,0,Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).,ghc,ghc,https://github.com/ghc/ghc
+2024-10-12,haskell,737,1,Interactively browse dependency graphs of Nix derivations.,utdemir,nix-tree,https://github.com/utdemir/nix-tree
+2024-10-12,haskell,2471,3,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-10-12,haskell,36257,6,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-10-12,haskell,1190,1,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2024-10-12,haskell,2393,0,💥💻💥 A data-parallel functional programming language,diku-dk,futhark,https://github.com/diku-dk/futhark
+2024-10-12,haskell,10354,5,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-10-12,haskell,461,0,API for protocol buffers using modern Haskell language and library patterns.,google,proto-lens,https://github.com/google/proto-lens
+2024-10-12,haskell,3969,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-10-12,haskell,23314,5,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-10-12,haskell,1619,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal

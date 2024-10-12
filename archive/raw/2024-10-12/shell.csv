@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-12,shell,862,165,Huly for Self Hosting,hcengineering,huly-selfhost,https://github.com/hcengineering/huly-selfhost
+2024-10-12,shell,79461,28,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-10-12,shell,38882,17,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2024-10-12,shell,9444,3,Combination of multiple linters to run as a GitHub Action or standalone,super-linter,super-linter,https://github.com/super-linter/super-linter
+2024-10-12,shell,1634,4,💡使用 Docker Compose 以更优雅的方式来部署小雅服务，支持一键部署 Alist + Emby + Jellyfin，全平台支持，Linux/Windows/Mac/群晖，X86/Arm架构,monlor,docker-xiaoya,https://github.com/monlor/docker-xiaoya
+2024-10-12,shell,1162,1,,taigaio,taiga-docker,https://github.com/taigaio/taiga-docker
+2024-10-12,shell,6292,5,A conda-forge distribution.,conda-forge,miniforge,https://github.com/conda-forge/miniforge
+2024-10-12,shell,269,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2024-10-12,shell,5935,22,很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。,DaoCloud,public-image-mirror,https://github.com/DaoCloud/public-image-mirror
+2024-10-12,shell,13157,7,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
+2024-10-12,shell,8796,30,"Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.",QwenLM,Qwen2.5,https://github.com/QwenLM/Qwen2.5
+2024-10-12,shell,21813,10,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-10-12,shell,2429,5,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2024-10-12,shell,4398,4,To fix the Docker and UFW security flaw without disabling iptables,chaifeng,ufw-docker,https://github.com/chaifeng/ufw-docker
+2024-10-12,shell,39,2,Example scenario workflows for Confluent for Kubernetes,confluentinc,confluent-kubernetes-examples,https://github.com/confluentinc/confluent-kubernetes-examples
+2024-10-12,shell,51105,36,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
