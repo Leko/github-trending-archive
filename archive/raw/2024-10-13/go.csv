@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-13,go,6009,48,The complete Authentication and User Management solution for developers.,teamhanko,hanko,https://github.com/teamhanko/hanko
+2024-10-13,go,11249,28,An engine to run your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
+2024-10-13,go,29884,28,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-10-13,go,37888,17,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-10-13,go,23649,37,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-10-13,go,6143,62,"DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",DiceDB,dice,https://github.com/DiceDB/dice
+2024-10-13,go,8904,158,The Open Source Dev Environment Manager.,daytonaio,daytona,https://github.com/daytonaio/daytona
+2024-10-13,go,10697,12,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,juicedata,juicefs,https://github.com/juicedata/juicefs
+2024-10-13,go,16693,10,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-10-13,go,9064,3,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2024-10-13,go,9534,1,Cross-platform filesystem notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2024-10-13,go,11464,2,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2024-10-13,go,5532,6,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,kubevirt,kubevirt,https://github.com/kubevirt/kubevirt
+2024-10-13,go,17455,6,"The easiest, and most secure way to access and protect all of your infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2024-10-13,go,8116,4,Fancy stream processing made operationally mundane,redpanda-data,connect,https://github.com/redpanda-data/connect
+2024-10-13,go,6448,3,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2024-10-13,go,2991,4,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-10-13,go,21843,10,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-10-13,go,9426,3,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2024-10-13,go,2790,44,不只是即时通讯(IM),WuKongIM,WuKongIM,https://github.com/WuKongIM/WuKongIM
+2024-10-13,go,26876,6,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-10-13,go,42791,33,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",alist-org,alist,https://github.com/alist-org/alist
+2024-10-13,go,13587,17,Pure Go implementation of the WebRTC API,pion,webrtc,https://github.com/pion/webrtc
+2024-10-13,go,24859,14,Cross platform GUI toolkit in Go inspired by Material Design,fyne-io,fyne,https://github.com/fyne-io/fyne

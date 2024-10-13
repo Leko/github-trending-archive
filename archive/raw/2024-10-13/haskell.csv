@@ -1,0 +1,14 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-13,haskell,2666,2,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-10-13,haskell,3058,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-10-13,haskell,138,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2024-10-13,haskell,1271,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-10-13,haskell,863,1,"High performance, concurrent functional programming abstractions",composewell,streamly,https://github.com/composewell/streamly
+2024-10-13,haskell,23317,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-10-13,haskell,1191,1,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2024-10-13,haskell,2471,0,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-10-13,haskell,34273,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-10-13,haskell,1619,1,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-10-13,haskell,3973,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-10-13,haskell,10355,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-10-13,haskell,585,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
