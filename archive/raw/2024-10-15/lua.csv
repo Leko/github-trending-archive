@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-15,lua,5118,18,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-10-15,lua,16556,6,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-10-15,lua,19173,26,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-10-15,lua,823,23,💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.,tris203,precognition.nvim,https://github.com/tris203/precognition.nvim
+2024-10-15,lua,290,1,,Ramilito,kubectl.nvim,https://github.com/Ramilito/kubectl.nvim
+2024-10-15,lua,1445,4,Establish good command workflow and quit bad habit,m4xshen,hardtime.nvim,https://github.com/m4xshen/hardtime.nvim
+2024-10-15,lua,3030,4,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-10-15,lua,3315,4,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-10-15,lua,1183,1,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-10-15,lua,6393,2,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2024-10-15,lua,4324,2,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2024-10-15,lua,2755,0,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2024-10-15,lua,1267,2,nvim-cmp source for neovim builtin LSP client,hrsh7th,cmp-nvim-lsp,https://github.com/hrsh7th/cmp-nvim-lsp
+2024-10-15,lua,7942,7,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-10-15,lua,2519,3,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2024-10-15,lua,10552,8,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-10-15,lua,14451,13,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-10-15,lua,7095,4,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2024-10-15,lua,2070,4,lua `fork` of vim-web-devicons for neovim,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
