@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-16,go,2484,3,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2024-10-16,go,6696,241,Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.,teamhanko,hanko,https://github.com/teamhanko/hanko
+2024-10-16,go,7112,10,Go implementation of JSON Web Tokens (JWT).,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2024-10-16,go,23468,14,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-10-16,go,4585,6,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2024-10-16,go,15243,17,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-10-16,go,78425,26,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-10-16,go,768,15,Heterogeneous AI Computing Virtualization Middleware,Project-HAMi,HAMi,https://github.com/Project-HAMi/HAMi
+2024-10-16,go,130616,86,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-10-16,go,9782,3,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-10-16,go,20987,2,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-10-16,go,18101,17,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,qax-os,excelize,https://github.com/qax-os/excelize
+2024-10-16,go,10382,6,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2024-10-16,go,1216,1,MongoDB Community Kubernetes Operator,mongodb,mongodb-kubernetes-operator,https://github.com/mongodb/mongodb-kubernetes-operator
+2024-10-16,go,5906,5,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2024-10-16,go,24641,7,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-10-16,go,7548,4,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2024-10-16,go,75316,37,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2024-10-16,go,7668,4,Lightning Network Daemon ⚡️,lightningnetwork,lnd,https://github.com/lightningnetwork/lnd
+2024-10-16,go,13026,5,a cron library for go,robfig,cron,https://github.com/robfig/cron
+2024-10-16,go,24924,25,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2024-10-16,go,26897,10,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-10-16,go,22268,8,"A simple, fast, and fun package for building command line apps in Go",urfave,cli,https://github.com/urfave/cli
+2024-10-16,go,7004,4,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
