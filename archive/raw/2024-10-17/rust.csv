@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-17,rust,33770,70,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2024-10-17,rust,2799,145,Our main browser engine repository.,gosub-io,gosub-engine,https://github.com/gosub-io/gosub-engine
+2024-10-17,rust,2339,19,"Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust",juhaku,utoipa,https://github.com/juhaku/utoipa
+2024-10-17,rust,10908,26,Firmware Analysis Tool,ReFirmLabs,binwalk,https://github.com/ReFirmLabs/binwalk
+2024-10-17,rust,4360,9,"A fast, friendly, functional language.",roc-lang,roc,https://github.com/roc-lang/roc
+2024-10-17,rust,29767,21,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-10-17,rust,28804,11,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2024-10-17,rust,1895,1,Run web applications on AWS Lambda,awslabs,aws-lambda-web-adapter,https://github.com/awslabs/aws-lambda-web-adapter
+2024-10-17,rust,97743,38,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2024-10-17,rust,8543,44,A Git-compatible VCS that is both simple and powerful,martinvonz,jj,https://github.com/martinvonz/jj
+2024-10-17,rust,442,14,Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems.,golemcloud,golem,https://github.com/golemcloud/golem
+2024-10-17,rust,1822,86,The Fully Customizable Desktop Environment for Windows 10/11.,eythaann,Seelen-UI,https://github.com/eythaann/Seelen-UI
+2024-10-17,rust,37800,45,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2024-10-17,rust,6635,6,“Zero setup” cross compilation and “cross testing” of Rust crates,cross-rs,cross,https://github.com/cross-rs/cross
+2024-10-17,rust,5456,2,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-10-17,rust,12235,15,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-10-17,rust,12675,7,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2024-10-17,rust,4824,13,Open Source Spotify client library,librespot-org,librespot,https://github.com/librespot-org/librespot
+2024-10-17,rust,9404,2,🥧 Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2024-10-17,rust,25526,22,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2024-10-17,rust,12204,10,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2024-10-17,rust,3645,9,Cross-platform WebView library in Rust for Tauri.,tauri-apps,wry,https://github.com/tauri-apps/wry
+2024-10-17,rust,750,95,"An extensible, state-of-the-art columnar file format, with associated tools for working with compressed Apache Arrow arrays in-memory, on-disk, and over-the-wire.",spiraldb,vortex,https://github.com/spiraldb/vortex
