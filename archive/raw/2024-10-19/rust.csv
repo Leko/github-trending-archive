@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-19,rust,1088,647,Home of OpenVMM and OpenHCL.,microsoft,openvmm,https://github.com/microsoft/openvmm
+2024-10-19,rust,321,73,"Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.",katanemo,arch,https://github.com/katanemo/arch
+2024-10-19,rust,6139,9,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-10-19,rust,12271,22,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-10-19,rust,14753,19,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",neondatabase,neon,https://github.com/neondatabase/neon
+2024-10-19,rust,74329,49,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-10-19,rust,29824,31,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-10-19,rust,2125,199,The Fully Customizable Desktop Environment for Windows 10/11.,eythaann,Seelen-UI,https://github.com/eythaann/Seelen-UI
+2024-10-19,rust,12240,18,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2024-10-19,rust,17681,14,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-10-19,rust,32012,18,A new type of shell,nushell,nushell,https://github.com/nushell/nushell
+2024-10-19,rust,21514,13,Self-hosted AI coding assistant,TabbyML,tabby,https://github.com/TabbyML/tabby
+2024-10-19,rust,5776,53,GlazeWM is a tiling window manager for Windows inspired by i3wm.,glzr-io,glazewm,https://github.com/glzr-io/glazewm
+2024-10-19,rust,37861,34,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2024-10-19,rust,2728,11,A blazing fast inference solution for text embeddings models,huggingface,text-embeddings-inference,https://github.com/huggingface/text-embeddings-inference
+2024-10-19,rust,3511,5,A collection of Solana programs maintained by Solana Labs,solana-labs,solana-program-library,https://github.com/solana-labs/solana-program-library
+2024-10-19,rust,4384,12,"Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!",lancedb,lancedb,https://github.com/lancedb/lancedb
+2024-10-19,rust,1842,7,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-10-19,rust,14956,31,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",biomejs,biome,https://github.com/biomejs/biome
+2024-10-19,rust,12148,4,"Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",sunface,rust-by-practice,https://github.com/sunface/rust-by-practice
+2024-10-19,rust,2251,1,"A native Rust library for Delta Lake, with bindings into Python",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2024-10-19,rust,2633,43,🐸 a database management tui for postgres,achristmascarl,rainfrog,https://github.com/achristmascarl/rainfrog
+2024-10-19,rust,25750,178,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2024-10-19,rust,3821,4,"Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages",PyO3,maturin,https://github.com/PyO3/maturin
+2024-10-19,rust,8533,7,A Rust port of shadowsocks,shadowsocks,shadowsocks-rust,https://github.com/shadowsocks/shadowsocks-rust

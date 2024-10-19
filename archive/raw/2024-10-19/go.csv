@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-19,go,23300,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-10-19,go,5962,17,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2024-10-19,go,93799,133,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-10-19,go,4207,35,Go-blueprint allows users to spin up a quick Go project using a popular framework,Melkeydev,go-blueprint,https://github.com/Melkeydev/go-blueprint
+2024-10-19,go,17659,15,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-10-19,go,10579,15,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-10-19,go,9798,13,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-10-19,go,17310,10,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-10-19,go,8422,5,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-10-19,go,17711,19,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-10-19,go,3739,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-10-19,go,962,53,PostgreSQL database anonymization and synthetic data generation tool,GreenmaskIO,greenmask,https://github.com/GreenmaskIO/greenmask
+2024-10-19,go,6671,9,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-10-19,go,1358,4,OpenTelemetry Collector distribution with programmable pipelines,grafana,alloy,https://github.com/grafana/alloy
+2024-10-19,go,26928,14,🐶 Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2024-10-19,go,19997,6,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-10-19,go,30004,30,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-10-19,go,47493,51,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",minio,minio,https://github.com/minio/minio
+2024-10-19,go,14756,5,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2024-10-19,go,3107,124,"🤖 AI Gateway | AI Native API Gateway",alibaba,higress,https://github.com/alibaba/higress
+2024-10-19,go,37495,13,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2024-10-19,go,20999,5,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-10-19,go,8012,1,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
