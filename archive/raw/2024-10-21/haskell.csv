@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-21,haskell,2480,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-10-21,haskell,4000,7,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-10-21,haskell,7059,10,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-10-21,haskell,23353,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-10-21,haskell,1621,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-10-21,haskell,36302,5,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-10-21,haskell,3001,1,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-10-21,haskell,2491,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-10-21,haskell,3352,1,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2024-10-21,haskell,586,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2024-10-21,haskell,30,0,"mobile type (currently Swift, Kotlin) generation from Haskell types",MercuryTechnologies,moat,https://github.com/MercuryTechnologies/moat
+2024-10-21,haskell,34372,12,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-10-21,haskell,2670,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-10-21,haskell,2609,1,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2024-10-21,haskell,1825,1,"Servat is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!",haskell-servant,servant,https://github.com/haskell-servant/servant
+2024-10-21,haskell,515,0,⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.,simplex-chat,simplexmq,https://github.com/simplex-chat/simplexmq
+2024-10-21,haskell,125,0,A package index for the Haskell ecosystem,flora-pm,flora-server,https://github.com/flora-pm/flora-server
