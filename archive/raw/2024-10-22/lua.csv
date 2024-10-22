@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-22,lua,5513,7,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2024-10-22,lua,19340,23,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-10-22,lua,1676,8,🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-10-22,lua,5331,8,"💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2024-10-22,lua,7988,10,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-10-22,lua,3974,7,"An interactive and powerful Git interface for Neovim, inspired by Magit",NeogitOrg,neogit,https://github.com/NeogitOrg/neogit
+2024-10-22,lua,1062,6,🖼️ Bringing images to Neovim.,3rd,image.nvim,https://github.com/3rd/image.nvim
+2024-10-22,lua,6374,3,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2024-10-22,lua,17055,19,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-10-22,lua,3095,7,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-10-22,lua,311,0,A FiveM resource and script library for Lua and JS.,overextended,ox_lib,https://github.com/overextended/ox_lib
+2024-10-22,lua,3208,3,vim-be-good is a nvim plugin designed to make you better at Vim Movements.,ThePrimeagen,vim-be-good,https://github.com/ThePrimeagen/vim-be-good
+2024-10-22,lua,373,0,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-10-22,lua,7806,8,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2024-10-22,lua,16633,9,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-10-22,lua,2775,6,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2024-10-22,lua,4245,8,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
+2024-10-22,lua,6966,11,,ThePrimeagen,harpoon,https://github.com/ThePrimeagen/harpoon
+2024-10-22,lua,5527,5,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-10-22,lua,5065,8,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2024-10-22,lua,3203,3,"✅ Highlight, list and search todo comments in your projects",folke,todo-comments.nvim,https://github.com/folke/todo-comments.nvim
+2024-10-22,lua,686,5,Faster LuaLS setup for Neovim,folke,lazydev.nvim,https://github.com/folke/lazydev.nvim
