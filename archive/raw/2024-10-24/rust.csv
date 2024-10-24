@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-24,rust,20262,22,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-10-24,rust,23946,256,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-10-24,rust,4271,94,Blazingly fast LLM inference.,EricLBuehler,mistral.rs,https://github.com/EricLBuehler/mistral.rs
+2024-10-24,rust,2808,6,Rapidly Search and Hunt through Windows Forensic Artefacts,WithSecureLabs,chainsaw,https://github.com/WithSecureLabs/chainsaw
+2024-10-24,rust,9711,28,"dev tools, env vars, task runner",jdx,mise,https://github.com/jdx/mise
+2024-10-24,rust,74512,37,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-10-24,rust,8959,9,"An idiomatic, lean, fast & safe pure Rust implementation of Git",GitoxideLabs,gitoxide,https://github.com/GitoxideLabs/gitoxide
+2024-10-24,rust,12304,7,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-10-24,rust,10465,27,A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs,ratatui,ratatui,https://github.com/ratatui/ratatui
+2024-10-24,rust,26805,21,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2024-10-24,rust,2555,3,Official Rust implementation of Apache Arrow,apache,arrow-rs,https://github.com/apache/arrow-rs
+2024-10-24,rust,6174,1,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-10-24,rust,15666,12,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-10-24,rust,620,3,"Transports, Middleware, and Networks for the Alloy project",alloy-rs,alloy,https://github.com/alloy-rs/alloy
+2024-10-24,rust,26249,24,"Build system optimized for JavaScript and TypeScript, written in Rust",vercel,turborepo,https://github.com/vercel/turborepo
+2024-10-24,rust,6035,61,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2024-10-24,rust,2110,5,Rust Bitcoin library,rust-bitcoin,rust-bitcoin,https://github.com/rust-bitcoin/rust-bitcoin
+2024-10-24,rust,18666,12,"🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten",wasmerio,wasmer,https://github.com/wasmerio/wasmer
+2024-10-24,rust,3888,17,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",lancedb,lance,https://github.com/lancedb/lance
+2024-10-24,rust,325,1,"The home for Hyperlane core contracts, sdk packages, and other infrastructure",hyperlane-xyz,hyperlane-monorepo,https://github.com/hyperlane-xyz/hyperlane-monorepo
+2024-10-24,rust,299,104,NES emulator in rust with egui and TUI,Amjad50,plastic,https://github.com/Amjad50/plastic

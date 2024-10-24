@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-24,go,23336,17,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-10-24,go,5605,2,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2024-10-24,go,42583,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-10-24,go,15705,3,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,hyperledger,fabric,https://github.com/hyperledger/fabric
+2024-10-24,go,12105,11,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-10-24,go,7670,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-10-24,go,94589,241,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-10-24,go,11122,6,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-10-24,go,4391,2,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2024-10-24,go,51007,32,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2024-10-24,go,10643,6,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2024-10-24,go,596,2,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",kubernetes-sigs,karpenter,https://github.com/kubernetes-sigs/karpenter
+2024-10-24,go,8448,5,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-10-24,go,6953,22,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2024-10-24,go,3596,7,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",testcontainers,testcontainers-go,https://github.com/testcontainers/testcontainers-go
+2024-10-24,go,15982,10,"Find, verify, and analyze leaked credentials",trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-10-24,go,3750,4,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-10-24,go,49001,33,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2024-10-24,go,2204,13,GoMock is a mocking framework for the Go programming language.,uber-go,mock,https://github.com/uber-go/mock
+2024-10-24,go,8033,5,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-10-24,go,23493,11,HTTP load testing tool and library. It's over 9000!,tsenart,vegeta,https://github.com/tsenart/vegeta
+2024-10-24,go,11778,16,Temporal service,temporalio,temporal,https://github.com/temporalio/temporal
