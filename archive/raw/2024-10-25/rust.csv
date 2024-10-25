@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-25,rust,1210,94,Main repository for the Linera protocol,linera-io,linera-protocol,https://github.com/linera-io/linera-protocol
+2024-10-25,rust,24095,136,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-10-25,rust,12495,168,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",openobserve,openobserve,https://github.com/openobserve/openobserve
+2024-10-25,rust,12871,43,"The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",gitbutlerapp,gitbutler,https://github.com/gitbutlerapp/gitbutler
+2024-10-25,rust,5025,20,The Mullvad VPN client app for desktop and mobile,mullvad,mullvadvpn-app,https://github.com/mullvad/mullvadvpn-app
+2024-10-25,rust,9741,33,"dev tools, env vars, task runner",jdx,mise,https://github.com/jdx/mise
+2024-10-25,rust,20297,35,"Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-10-25,rust,337,47,NES emulator in rust with egui and TUI,Amjad50,plastic,https://github.com/Amjad50/plastic
+2024-10-25,rust,8708,9,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2024-10-25,rust,8974,27,"An idiomatic, lean, fast & safe pure Rust implementation of Git",GitoxideLabs,gitoxide,https://github.com/GitoxideLabs/gitoxide
+2024-10-25,rust,623,5,"Transports, Middleware, and Networks for the Alloy project",alloy-rs,alloy,https://github.com/alloy-rs/alloy
+2024-10-25,rust,6070,37,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2024-10-25,rust,26817,14,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2024-10-25,rust,6170,3,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-10-25,rust,34406,9,Lightning-fast and Powerful Code Editor written in Rust,lapce,lapce,https://github.com/lapce/lapce
+2024-10-25,rust,17348,16,"Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",slint-ui,slint,https://github.com/slint-ui/slint
+2024-10-25,rust,26262,17,"Build system optimized for JavaScript and TypeScript, written in Rust",vercel,turborepo,https://github.com/vercel/turborepo
+2024-10-25,rust,8249,1,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2024-10-25,rust,2813,9,Rapidly Search and Hunt through Windows Forensic Artefacts,WithSecureLabs,chainsaw,https://github.com/WithSecureLabs/chainsaw
+2024-10-25,rust,4298,30,Blazingly fast LLM inference.,EricLBuehler,mistral.rs,https://github.com/EricLBuehler/mistral.rs
+2024-10-25,rust,3030,7,"PostgreSQL pooler with sharding, load balancing and failover support.",postgresml,pgcat,https://github.com/postgresml/pgcat
+2024-10-25,rust,20759,36,a structural diff that understands syntax 🟥🟩,Wilfred,difftastic,https://github.com/Wilfred/difftastic
+2024-10-25,rust,3898,12,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",lancedb,lance,https://github.com/lancedb/lance

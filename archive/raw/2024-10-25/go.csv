@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-25,go,94753,165,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-10-25,go,10645,8,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",linkerd,linkerd2,https://github.com/linkerd/linkerd2
+2024-10-25,go,23988,16,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-10-25,go,7858,6,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
+2024-10-25,go,25733,12,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-10-25,go,110646,35,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-10-25,go,6747,8,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-10-25,go,4385,8,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-10-25,go,23281,9,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-10-25,go,20086,19,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-10-25,go,6489,4,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2024-10-25,go,9116,32,The Open Source Dev Environment Manager.,daytonaio,daytona,https://github.com/daytonaio/daytona
+2024-10-25,go,3750,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-10-25,go,9933,18,"Directory/File, DNS and VHost busting tool written in Go",OJ,gobuster,https://github.com/OJ/gobuster
+2024-10-25,go,11133,13,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-10-25,go,14982,40,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",knadh,listmonk,https://github.com/knadh/listmonk
+2024-10-25,go,8037,6,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-10-25,go,7569,11,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2024-10-25,go,5060,12,"Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data",authzed,spicedb,https://github.com/authzed/spicedb
+2024-10-25,go,39884,58,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-10-25,go,42592,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-10-25,go,6966,17,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2024-10-25,go,22982,16,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu

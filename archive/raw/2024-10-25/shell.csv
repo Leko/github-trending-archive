@@ -1,0 +1,15 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-25,shell,1637,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2024-10-25,shell,27080,37,"This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2024-10-25,shell,7947,2,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-10-25,shell,271,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2024-10-25,shell,2258,3,we want to create a repo to illustrate usage of transformers in chinese,datawhalechina,learn-nlp-with-transformers,https://github.com/datawhalechina/learn-nlp-with-transformers
+2024-10-25,shell,29152,16,A docker-powered PaaS that helps you build and manage the lifecycle of applications,dokku,dokku,https://github.com/dokku/dokku
+2024-10-25,shell,21911,13,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-10-25,shell,79720,26,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-10-25,shell,12400,4,Prevents you from committing secrets and credentials into git repositories,awslabs,git-secrets,https://github.com/awslabs/git-secrets
+2024-10-25,shell,2648,2,EMBA - The firmware security analyzer,e-m-b-a,emba,https://github.com/e-m-b-a/emba
+2024-10-25,shell,6366,5,A conda-forge distribution.,conda-forge,miniforge,https://github.com/conda-forge/miniforge
+2024-10-25,shell,4534,0,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-10-25,shell,243,0,OpenTelemetry Collector Official Releases,open-telemetry,opentelemetry-collector-releases,https://github.com/open-telemetry/opentelemetry-collector-releases
+2024-10-25,shell,173469,41,"🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
