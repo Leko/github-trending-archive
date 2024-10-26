@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-26,haskell,374,8,Compiler for the Gren programming language,gren-lang,compiler,https://github.com/gren-lang/compiler
+2024-10-26,haskell,7537,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2024-10-26,haskell,1622,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-10-26,haskell,10395,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-10-26,haskell,36323,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-10-26,haskell,896,1,The official (but not yet stable) formatter for Nix code,NixOS,nixfmt,https://github.com/NixOS/nixfmt
+2024-10-26,haskell,23371,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-10-26,haskell,1275,3,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-10-26,haskell,3060,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-10-26,haskell,34441,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-10-26,haskell,1006,0,👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests,kowainik,learn4haskell,https://github.com/kowainik/learn4haskell
+2024-10-26,haskell,2708,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-10-26,haskell,3295,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
+2024-10-26,haskell,203,0,Test monadic programs using state machine based models,advancedtelematic,quickcheck-state-machine,https://github.com/advancedtelematic/quickcheck-state-machine
+2024-10-26,haskell,524,2,⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.,simplex-chat,simplexmq,https://github.com/simplex-chat/simplexmq
+2024-10-26,haskell,2490,6,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-10-26,haskell,1606,2,Easy dependency management for Nix projects,nmattia,niv,https://github.com/nmattia/niv
+2024-10-26,haskell,280,0,Implementation of the Hydra Head protocol,cardano-scaling,hydra,https://github.com/cardano-scaling/hydra
+2024-10-26,haskell,1193,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2024-10-26,haskell,7136,10,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
