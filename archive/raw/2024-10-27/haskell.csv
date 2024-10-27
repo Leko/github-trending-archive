@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-27,haskell,36326,4,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-10-27,haskell,377,3,Compiler for the Gren programming language,gren-lang,compiler,https://github.com/gren-lang/compiler
+2024-10-27,haskell,2498,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-10-27,haskell,889,6,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-10-27,haskell,7148,11,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-10-27,haskell,5775,4,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-10-27,haskell,1622,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-10-27,haskell,1275,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-10-27,haskell,3563,0,A modern proof language,HigherOrderCO,Kind,https://github.com/HigherOrderCO/Kind
+2024-10-27,haskell,10394,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-10-27,haskell,2708,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-10-27,haskell,2737,2,Ethereum smart contract fuzzer,crytic,echidna,https://github.com/crytic/echidna
+2024-10-27,haskell,2612,0,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2024-10-27,haskell,1606,1,Easy dependency management for Nix projects,nmattia,niv,https://github.com/nmattia/niv
+2024-10-27,haskell,1194,1,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2024-10-27,haskell,34447,10,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
