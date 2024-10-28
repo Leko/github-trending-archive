@@ -1,0 +1,13 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-28,shell,48979,9,A black hole for Internet advertisements,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole
+2024-10-28,shell,9417,12,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2024-10-28,shell,5261,18,Opinionated Ubuntu Setup,basecamp,omakub,https://github.com/basecamp/omakub
+2024-10-28,shell,39115,12,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2024-10-28,shell,1143,1,Official Zigbee2MQTT Home Assistant add-on,zigbee2mqtt,hassio-zigbee2mqtt,https://github.com/zigbee2mqtt/hassio-zigbee2mqtt
+2024-10-28,shell,7657,7,"一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P, 树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由",kiddin9,Kwrt,https://github.com/kiddin9/Kwrt
+2024-10-28,shell,13260,3,"Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",CISOfy,lynis,https://github.com/CISOfy/lynis
+2024-10-28,shell,10484,1,OSS-Fuzz - continuous fuzzing for open source software.,google,oss-fuzz,https://github.com/google/oss-fuzz
+2024-10-28,shell,1860,2,"Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",ophub,amlogic-s9xxx-openwrt,https://github.com/ophub/amlogic-s9xxx-openwrt
+2024-10-28,shell,13220,7,A package build system for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2024-10-28,shell,2867,1,"Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt",anandslab,docker-traefik,https://github.com/anandslab/docker-traefik
+2024-10-28,shell,1726,10,💡使用 Docker Compose 以更优雅的方式来部署小雅服务，支持一键部署 Alist + Emby + Jellyfin，全平台支持，Linux/Windows/Mac/群晖，X86/Arm架构,monlor,docker-xiaoya,https://github.com/monlor/docker-xiaoya
