@@ -1,0 +1,19 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-29,haskell,4017,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-10-29,haskell,905,4,The official (but not yet stable) formatter for Nix code,NixOS,nixfmt,https://github.com/NixOS/nixfmt
+2024-10-29,haskell,3013,0,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-10-29,haskell,3061,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-10-29,haskell,2708,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-10-29,haskell,34476,19,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-10-29,haskell,5778,3,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-10-29,haskell,8563,1,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2024-10-29,haskell,23381,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-10-29,haskell,7160,6,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-10-29,haskell,34,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-10-29,haskell,2500,1,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-10-29,haskell,1622,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-10-29,haskell,281,0,Implementation of the Hydra Head protocol,cardano-scaling,hydra,https://github.com/cardano-scaling/hydra
+2024-10-29,haskell,10399,3,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-10-29,haskell,893,3,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,maralorn,nix-output-monitor,https://github.com/maralorn/nix-output-monitor
+2024-10-29,haskell,36331,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-10-29,haskell,3995,1,The Haskell Tool Stack,commercialhaskell,stack,https://github.com/commercialhaskell/stack
