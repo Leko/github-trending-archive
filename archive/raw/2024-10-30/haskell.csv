@@ -1,0 +1,14 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-30,haskell,36337,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-10-30,haskell,2708,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-10-30,haskell,1621,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-10-30,haskell,5777,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-10-30,haskell,34479,6,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-10-30,haskell,905,0,The official (but not yet stable) formatter for Nix code,NixOS,nixfmt,https://github.com/NixOS/nixfmt
+2024-10-30,haskell,3061,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-10-30,haskell,7541,1,"Compiler for Elm, a functional language for reliable webapps.",elm,compiler,https://github.com/elm/compiler
+2024-10-30,haskell,4021,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-10-30,haskell,10405,6,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-10-30,haskell,34,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-10-30,haskell,281,0,Implementation of the Hydra Head protocol,cardano-scaling,hydra,https://github.com/cardano-scaling/hydra
+2024-10-30,haskell,358,0,Haskell implemented with combinators,augustss,MicroHs,https://github.com/augustss/MicroHs

@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-30,scala,1186,0,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-10-30,scala,7553,4,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-10-30,scala,2115,16,"Mill is a fast JVM build tool that supports Java and Scala. 2-4x faster than Gradle and 5-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",com-lihaoyi,mill,https://github.com/com-lihaoyi/mill
+2024-10-30,scala,13047,1,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",akka,akka,https://github.com/akka/akka
+2024-10-30,scala,2064,4,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc,joernio,joern,https://github.com/joernio/joern
+2024-10-30,scala,1628,3,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",ucb-bar,chipyard,https://github.com/ucb-bar/chipyard
+2024-10-30,scala,39591,17,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-10-30,scala,14345,1,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,scala,scala,https://github.com/scala/scala
+2024-10-30,scala,5868,3,"The Scala 3 compiler, also known as Dotty.",scala,scala3,https://github.com/scala/scala3
+2024-10-30,scala,805,2,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2024-10-30,scala,2275,0,"Fast, testable, Scala services built on TwitterServer and Finagle",twitter,finatra,https://github.com/twitter/finatra
+2024-10-30,scala,466,0,A Spark plugin for reading and writing Excel files,nightscape,spark-excel,https://github.com/nightscape/spark-excel
+2024-10-30,scala,993,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2024-10-30,scala,11104,7,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2024-10-30,scala,6528,1,Apache OpenWhisk is an open source serverless cloud platform,apache,openwhisk,https://github.com/apache/openwhisk
+2024-10-30,scala,4814,2,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2024-10-30,scala,764,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-10-30,scala,4809,1,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2024-10-30,scala,6459,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2024-10-30,scala,15575,3,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila

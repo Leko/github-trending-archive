@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-30,go,31707,387,"An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",usememos,memos,https://github.com/usememos/memos
+2024-10-30,go,78678,19,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-10-30,go,23061,22,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu
+2024-10-30,go,1923,81,"Lightweight server monitoring hub with historical data, docker stats, and alerts.",henrygd,beszel,https://github.com/henrygd/beszel
+2024-10-30,go,14804,5,Build Container Images In Kubernetes,GoogleContainerTools,kaniko,https://github.com/GoogleContainerTools/kaniko
+2024-10-30,go,17445,6,Ingress NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2024-10-30,go,52553,73,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-10-30,go,123778,30,The Go programming language,golang,go,https://github.com/golang/go
+2024-10-30,go,3512,8,Sonne tanken ☀️🚘,evcc-io,evcc,https://github.com/evcc-io/evcc
+2024-10-30,go,11486,27,Open-Source Phishing Toolkit,gophish,gophish,https://github.com/gophish/gophish
+2024-10-30,go,10068,5,Simple HTTP and REST client library for Go,go-resty,resty,https://github.com/go-resty/resty
+2024-10-30,go,5263,3,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-10-30,go,458,12,Securely share and store AI/ML projects as OCI artifacts in your container registry.,jozu-ai,kitops,https://github.com/jozu-ai/kitops
+2024-10-30,go,38060,9,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-10-30,go,6906,7,A PDF processor written in Go.,pdfcpu,pdfcpu,https://github.com/pdfcpu/pdfcpu
+2024-10-30,go,7598,5,"Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",gonum,gonum,https://github.com/gonum/gonum
+2024-10-30,go,37171,6,"TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",pingcap,tidb,https://github.com/pingcap/tidb
+2024-10-30,go,3731,4,SQL-first Golang ORM,uptrace,bun,https://github.com/uptrace/bun
+2024-10-30,go,11860,9,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
+2024-10-30,go,26356,36,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2024-10-30,go,6636,1,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2024-10-30,go,9573,4,Cross-platform filesystem notifications for Go.,fsnotify,fsnotify,https://github.com/fsnotify/fsnotify
+2024-10-30,go,21041,5,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-10-30,go,1185,2,Collection of extensions for OpenTelemetry-Go.,open-telemetry,opentelemetry-go-contrib,https://github.com/open-telemetry/opentelemetry-go-contrib
