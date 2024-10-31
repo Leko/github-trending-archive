@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-10-31,shell,3384,3,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-10-31,shell,809,0,Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities,aquasecurity,trivy-action,https://github.com/aquasecurity/trivy-action
+2024-10-31,shell,6565,1,"Official source of container configurations, images, and examples for Oracle products and projects",oracle,docker-images,https://github.com/oracle/docker-images
+2024-10-31,shell,272,1,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2024-10-31,shell,79824,30,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-10-31,shell,5350,18,Opinionated Ubuntu Setup,basecamp,omakub,https://github.com/basecamp/omakub
+2024-10-31,shell,1644,1,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2024-10-31,shell,1074,1,Installation script to deploy standard software on Macs,Installomator,Installomator,https://github.com/Installomator/Installomator
+2024-10-31,shell,3235,4,"Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.",Security-Onion-Solutions,securityonion,https://github.com/Security-Onion-Solutions/securityonion
+2024-10-31,shell,2376,1,Official Zabbix Dockerfiles,zabbix,zabbix-docker,https://github.com/zabbix/zabbix-docker
+2024-10-31,shell,4540,2,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-10-31,shell,18051,25,Windows inside a Docker container.,dockur,windows,https://github.com/dockur/windows
+2024-10-31,shell,182,5,Open-source firmware for Ingenic SoC IP cameras,themactep,thingino-firmware,https://github.com/themactep/thingino-firmware
+2024-10-31,shell,51585,29,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master
+2024-10-31,shell,7955,2,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-10-31,shell,9120,4,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.,docker,docker-bench-security,https://github.com/docker/docker-bench-security
+2024-10-31,shell,689,0,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
