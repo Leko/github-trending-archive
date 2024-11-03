@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-03,lua,976,46,"Performant, batteries-included completion plugin for Neovim",Saghen,blink.cmp,https://github.com/Saghen/blink.cmp
+2024-11-03,lua,14699,21,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-11-03,lua,9464,12,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-11-03,lua,39218,8,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-11-03,lua,4401,5,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-11-03,lua,6170,4,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2024-11-03,lua,1339,1,,xiaorouji,openwrt-passwall2,https://github.com/xiaorouji/openwrt-passwall2
+2024-11-03,lua,1119,4,Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls,mfussenegger,nvim-jdtls,https://github.com/mfussenegger/nvim-jdtls
+2024-11-03,lua,2114,3,"G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim",ray-x,go.nvim,https://github.com/ray-x/go.nvim
+2024-11-03,lua,10061,8,🔥 A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2024-11-03,lua,4372,4,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim
+2024-11-03,lua,5373,0,"💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2024-11-03,lua,376,1,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-11-03,lua,5568,5,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2024-11-03,lua,721,30,白霜词库：蒹葭苍苍，白露为霜。基于雾凇拼音重制的，更纯净、词频准确、智能的词库。使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化。白霜词库是目前rime方案下最好的词库，在不使用智能模型的情况下可以超越使用智能模型的词库方案。目前使用白霜词库的方案有：墨奇音形（双拼辅）https://github.com/gaboolic/rime-shuangpin-fuzhuma 、墨奇五笔整句https://github.com/gaboolic/rime-wubi-sentence,gaboolic,rime-frost,https://github.com/gaboolic/rime-frost
+2024-11-03,lua,5560,3,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-11-03,lua,3413,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-11-03,lua,3149,4,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-11-03,lua,669,2,Remote development in Neovim 🔥,amitds1997,remote-nvim.nvim,https://github.com/amitds1997/remote-nvim.nvim
+2024-11-03,lua,10671,9,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-11-03,lua,3544,1,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2024-11-03,lua,4751,3,A lightweight text editor written in Lua,lite-xl,lite-xl,https://github.com/lite-xl/lite-xl
