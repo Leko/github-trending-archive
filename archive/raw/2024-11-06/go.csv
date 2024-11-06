@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-06,go,24089,11,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-11-06,go,14647,7,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-11-06,go,10061,61,The Open Source Dev Environment Manager.,daytonaio,daytona,https://github.com/daytonaio/daytona
+2024-11-06,go,38164,15,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-11-06,go,23208,17,"An open source, self-hosted implementation of the Tailscale control server",juanfont,headscale,https://github.com/juanfont/headscale
+2024-11-06,go,24563,99,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-11-06,go,5483,331,Bare metal to production ready in mins; your own fly server on your VPS.,MightyMoud,sidekick,https://github.com/MightyMoud/sidekick
+2024-11-06,go,6269,2,Generate Go client and server boilerplate from OpenAPI 3 specifications,oapi-codegen,oapi-codegen,https://github.com/oapi-codegen/oapi-codegen
+2024-11-06,go,6532,6,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2024-11-06,go,2886,4,A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar,openfga,openfga,https://github.com/openfga/openfga
+2024-11-06,go,18189,6,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-11-06,go,30305,24,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-11-06,go,96389,168,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-11-06,go,24718,9,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-11-06,go,16220,6,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2024-11-06,go,4433,5,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,external-secrets,external-secrets,https://github.com/external-secrets/external-secrets
+2024-11-06,go,17924,6,Dolt – Git for Data,dolthub,dolt,https://github.com/dolthub/dolt
+2024-11-06,go,9059,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-11-06,go,3423,6,An OOB interaction gathering server and client library,projectdiscovery,interactsh,https://github.com/projectdiscovery/interactsh
+2024-11-06,go,7965,5,pprof is a tool for visualization and analysis of profiling data,google,pprof,https://github.com/google/pprof
+2024-11-06,go,16920,16,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
+2024-11-06,go,17336,25,The most customisable and low-latency cross platform/shell prompt renderer,JanDeDobbeleer,oh-my-posh,https://github.com/JanDeDobbeleer/oh-my-posh
+2024-11-06,go,1237,3,A toolkit to run Ray applications on Kubernetes,ray-project,kuberay,https://github.com/ray-project/kuberay
+2024-11-06,go,4369,201,Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history,aceberg,WatchYourLAN,https://github.com/aceberg/WatchYourLAN

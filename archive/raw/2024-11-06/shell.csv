@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-06,shell,17271,7,The Elastic stack (ELK) powered by Docker and Compose.,deviantony,docker-elk,https://github.com/deviantony/docker-elk
+2024-11-06,shell,39241,18,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2024-11-06,shell,79928,22,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-11-06,shell,4609,2,AMD ROCm™ Software - GitHub Home,ROCm,ROCm,https://github.com/ROCm/ROCm
+2024-11-06,shell,13716,7,"Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.",angristan,openvpn-install,https://github.com/angristan/openvpn-install
+2024-11-06,shell,4796,19,GitHub Actions for executing remote ssh commands.,appleboy,ssh-action,https://github.com/appleboy/ssh-action
+2024-11-06,shell,25351,14,binary releases of VS Code without MS branding/telemetry/licensing,VSCodium,vscodium,https://github.com/VSCodium/vscodium
+2024-11-06,shell,18165,27,Windows inside a Docker container.,dockur,windows,https://github.com/dockur/windows
+2024-11-06,shell,7874,5,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-11-06,shell,2575,2,Dynamic sub-dir volume provisioner on a remote NFS server.,kubernetes-sigs,nfs-subdir-external-provisioner,https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner
+2024-11-06,shell,14647,8,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",docker-mailserver,docker-mailserver,https://github.com/docker-mailserver/docker-mailserver
+2024-11-06,shell,11657,1,"A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",ansible,ansible-examples,https://github.com/ansible/ansible-examples
+2024-11-06,shell,173751,29,"🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2024-11-06,shell,6095,1,Cloud-Native distributed storage built on and for Kubernetes,longhorn,longhorn,https://github.com/longhorn/longhorn
+2024-11-06,shell,2445,0,Packer configuration for building a custom EKS AMI,awslabs,amazon-eks-ami,https://github.com/awslabs/amazon-eks-ami
+2024-11-06,shell,272,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2024-11-06,shell,7937,8,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2024-11-06,shell,13267,9,A package build system for Termux.,termux,termux-packages,https://github.com/termux/termux-packages
+2024-11-06,shell,7965,2,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium

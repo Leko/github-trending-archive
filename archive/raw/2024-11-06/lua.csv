@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-06,lua,1094,36,"Performant, batteries-included completion plugin for Neovim",Saghen,blink.cmp,https://github.com/Saghen/blink.cmp
+2024-11-06,lua,17238,14,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-11-06,lua,829,31,白霜词库：蒹葭苍苍，白露为霜。基于雾凇拼音重制的，更纯净、词频准确、智能的词库。使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化。白霜词库是目前rime方案下最好的词库，在不使用智能模型的情况下可以超越使用智能模型的词库方案。目前使用白霜词库的方案有：墨奇音形（双拼辅）https://github.com/gaboolic/rime-shuangpin-fuzhuma 、墨奇五笔整句https://github.com/gaboolic/rime-wubi-sentence,gaboolic,rime-frost,https://github.com/gaboolic/rime-frost
+2024-11-06,lua,3262,11,vim-be-good is a nvim plugin designed to make you better at Vim Movements.,ThePrimeagen,vim-be-good,https://github.com/ThePrimeagen/vim-be-good
+2024-11-06,lua,9529,29,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-11-06,lua,14484,3,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2024-11-06,lua,8049,6,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-11-06,lua,3355,3,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-11-06,lua,4417,7,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-11-06,lua,5578,6,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-11-06,lua,11618,2,"Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",karpathy,char-rnn,https://github.com/karpathy/char-rnn
+2024-11-06,lua,7168,4,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2024-11-06,lua,6259,6,Web-based Traffic and Security Network Traffic Monitoring,ntop,ntopng,https://github.com/ntop/ntopng
+2024-11-06,lua,39220,7,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-11-06,lua,15919,12,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-11-06,lua,10685,9,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-11-06,lua,3836,5,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2024-11-06,lua,6179,3,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2024-11-06,lua,14741,16,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-11-06,lua,10077,7,🔥 A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2024-11-06,lua,27560,2,Image Super-Resolution for Anime-Style Art,nagadomi,waifu2x,https://github.com/nagadomi/waifu2x
+2024-11-06,lua,2375,0,vim dashboard,nvimdev,dashboard-nvim,https://github.com/nvimdev/dashboard-nvim
