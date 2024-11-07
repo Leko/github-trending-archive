@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-07,go,14657,7,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-11-07,go,55580,20,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-11-07,go,17568,2,"The easiest, and most secure way to access and protect all of your infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2024-11-07,go,9064,5,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-11-07,go,96530,147,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-11-07,go,38147,7,An extremely fast bundler for the web,evanw,esbuild,https://github.com/evanw/esbuild
+2024-11-07,go,110882,24,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-11-07,go,15813,4,Application Kernel for Containers,google,gvisor,https://github.com/google/gvisor
+2024-11-07,go,4407,50,Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history,aceberg,WatchYourLAN,https://github.com/aceberg/WatchYourLAN
+2024-11-07,go,24651,92,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-11-07,go,8342,9,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2024-11-07,go,75707,21,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2024-11-07,go,6652,0,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2024-11-07,go,11676,8,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",gogf,gf,https://github.com/gogf/gf
+2024-11-07,go,7201,8,Go implementation of JSON Web Tokens (JWT).,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2024-11-07,go,4204,2,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-11-07,go,21070,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-11-07,go,3069,5,Fast JSON encoder/decoder compatible with encoding/json for Go,goccy,go-json,https://github.com/goccy/go-json
+2024-11-07,go,5284,3,HCL is the HashiCorp configuration language.,hashicorp,hcl,https://github.com/hashicorp/hcl
+2024-11-07,go,2730,1,A helm plugin that shows a diff explaining what a helm upgrade would change,databus23,helm-diff,https://github.com/databus23/helm-diff
+2024-11-07,go,15423,11,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-11-07,go,1408,8,OpenTelemetry Collector distribution with programmable pipelines,grafana,alloy,https://github.com/grafana/alloy
+2024-11-07,go,27140,14,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper

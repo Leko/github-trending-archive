@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-07,shell,2384,1,Official Zabbix Dockerfiles,zabbix,zabbix-docker,https://github.com/zabbix/zabbix-docker
+2024-11-07,shell,79941,15,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-11-07,shell,691,1,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2024-11-07,shell,272,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2024-11-07,shell,7937,2,Certified Kubernetes Administrator - CKA Course,kodekloudhub,certified-kubernetes-administrator-course,https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+2024-11-07,shell,27200,6,"This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps
+2024-11-07,shell,7966,2,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-11-07,shell,16113,5,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2024-11-07,shell,1642,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2024-11-07,shell,7876,3,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",getsentry,self-hosted,https://github.com/getsentry/self-hosted
+2024-11-07,shell,7973,6,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2024-11-07,shell,9347,42,"Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.",QwenLM,Qwen2.5,https://github.com/QwenLM/Qwen2.5
+2024-11-07,shell,21994,13,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-11-07,shell,4539,0,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-11-07,shell,1433,4,"ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.",ONLYOFFICE,Docker-DocumentServer,https://github.com/ONLYOFFICE/Docker-DocumentServer
+2024-11-07,shell,819,1,Main package repository for production Wolfi images,wolfi-dev,os,https://github.com/wolfi-dev/os
