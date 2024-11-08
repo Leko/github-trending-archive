@@ -1,0 +1,14 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-08,haskell,10440,9,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-11-08,haskell,34585,7,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-11-08,haskell,36370,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-11-08,haskell,1284,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-11-08,haskell,210,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-11-08,haskell,23411,3,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-11-08,haskell,4049,7,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-11-08,haskell,141,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
+2024-11-08,haskell,1195,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2024-11-08,haskell,557,1,SystemVerilog to Verilog conversion,zachjs,sv2v,https://github.com/zachjs/sv2v
+2024-11-08,haskell,7229,6,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",simplex-chat,simplex-chat,https://github.com/simplex-chat/simplex-chat
+2024-11-08,haskell,2712,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-11-08,haskell,1622,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal

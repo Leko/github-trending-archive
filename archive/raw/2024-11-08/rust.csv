@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-08,rust,30210,21,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-11-08,rust,8758,16,Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.,rolldown,rolldown,https://github.com/rolldown/rolldown
+2024-11-08,rust,98264,39,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2024-11-08,rust,4594,16,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2024-11-08,rust,75607,54,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-11-08,rust,21273,27,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2024-11-08,rust,8256,10,Sketch and take handwritten notes.,flxzt,rnote,https://github.com/flxzt/rnote
+2024-11-08,rust,960,65,"Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.",glzr-io,zebar,https://github.com/glzr-io/zebar
+2024-11-08,rust,18454,94,Comfortably monitor your Internet traffic 🕵️‍♂️,GyulyVGC,sniffnet,https://github.com/GyulyVGC/sniffnet
+2024-11-08,rust,4569,3,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2024-11-08,rust,38695,42,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2024-11-08,rust,4670,12,"Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!",lancedb,lancedb,https://github.com/lancedb/lancedb
+2024-11-08,rust,17848,19,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-11-08,rust,537,20,"Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.",katanemo,arch,https://github.com/katanemo/arch
+2024-11-08,rust,84549,43,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-11-08,rust,25498,100,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-11-08,rust,10196,33,Yet another cross-platform graphical process/system monitor.,ClementTsang,bottom,https://github.com/ClementTsang/bottom
+2024-11-08,rust,14970,30,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",neondatabase,neon,https://github.com/neondatabase/neon
+2024-11-08,rust,4320,9,"An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.",GreptimeTeam,greptimedb,https://github.com/GreptimeTeam/greptimedb
+2024-11-08,rust,3258,14,Package management made easy,prefix-dev,pixi,https://github.com/prefix-dev/pixi
+2024-11-08,rust,2311,3,"A native Rust library for Delta Lake, with bindings into Python",delta-io,delta-rs,https://github.com/delta-io/delta-rs
+2024-11-08,rust,23171,15,"A syntax-highlighting pager for git, diff, grep, and blame output",dandavison,delta,https://github.com/dandavison/delta
+2024-11-08,rust,54043,42,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
