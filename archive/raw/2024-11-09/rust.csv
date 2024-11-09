@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-09,rust,17944,19,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-11-09,rust,18124,8,Create book from markdown files. Like Gitbook but implemented in Rust,rust-lang,mdBook,https://github.com/rust-lang/mdBook
+2024-11-09,rust,18478,42,Comfortably monitor your Internet traffic 🕵️‍♂️,GyulyVGC,sniffnet,https://github.com/GyulyVGC/sniffnet
+2024-11-09,rust,8768,14,Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.,rolldown,rolldown,https://github.com/rolldown/rolldown
+2024-11-09,rust,14986,16,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",neondatabase,neon,https://github.com/neondatabase/neon
+2024-11-09,rust,1295,15,"BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground",BoundaryML,baml,https://github.com/BoundaryML/baml
+2024-11-09,rust,4574,8,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2024-11-09,rust,9776,17,The fast Rust-based web bundler with webpack-compatible API 🦀️,web-infra-dev,rspack,https://github.com/web-infra-dev/rspack
+2024-11-09,rust,5797,5,"The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.",MaterializeInc,materialize,https://github.com/MaterializeInc/materialize
+2024-11-09,rust,30234,33,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-11-09,rust,3276,20,Package management made easy,prefix-dev,pixi,https://github.com/prefix-dev/pixi
+2024-11-09,rust,3403,14,Apache OpenDAL: access data freely.,apache,opendal,https://github.com/apache/opendal
+2024-11-09,rust,21296,17,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2024-11-09,rust,1876,5,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-11-09,rust,8757,7,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2024-11-09,rust,9053,16,A Git-compatible VCS that is both simple and powerful,martinvonz,jj,https://github.com/martinvonz/jj
+2024-11-09,rust,4495,15,derive(Error) for struct and enum error types,dtolnay,thiserror,https://github.com/dtolnay/thiserror
+2024-11-09,rust,4601,5,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2024-11-09,rust,2566,7,A native debugger extension for VSCode based on LLDB,vadimcn,codelldb,https://github.com/vadimcn/codelldb
+2024-11-09,rust,4563,17,An interpreter for Rust's mid-level intermediate representation,rust-lang,miri,https://github.com/rust-lang/miri
+2024-11-09,rust,12348,4,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-11-09,rust,98302,33,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
