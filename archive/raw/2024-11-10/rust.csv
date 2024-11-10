@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-10,rust,84667,47,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-11-10,rust,18026,123,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-11-10,rust,25724,116,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-11-10,rust,32594,35,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2024-11-10,rust,4580,4,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2024-11-10,rust,3416,10,Apache OpenDAL: access data freely.,apache,opendal,https://github.com/apache/opendal
+2024-11-10,rust,15370,2,A fast and secure runtime for WebAssembly,bytecodealliance,wasmtime,https://github.com/bytecodealliance/wasmtime
+2024-11-10,rust,98338,42,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2024-11-10,rust,3710,19,A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.,raphamorim,rio,https://github.com/raphamorim/rio
+2024-11-10,rust,12380,6,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-11-10,rust,97440,46,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2024-11-10,rust,21309,17,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2024-11-10,rust,1880,3,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-11-10,rust,12092,4,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
+2024-11-10,rust,3890,6,A scrollable-tiling Wayland compositor.,YaLTeR,niri,https://github.com/YaLTeR/niri
+2024-11-10,rust,22127,45,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2024-11-10,rust,13216,10,"The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",gitbutlerapp,gitbutler,https://github.com/gitbutlerapp/gitbutler
+2024-11-10,rust,6282,21,"Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.",hatoo,oha,https://github.com/hatoo/oha
+2024-11-10,rust,4604,6,Statistics-driven benchmarking library for Rust,bheisler,criterion.rs,https://github.com/bheisler/criterion.rs
+2024-11-10,rust,5535,4,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-11-10,rust,1310,17,"BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground",BoundaryML,baml,https://github.com/BoundaryML/baml
+2024-11-10,rust,8770,21,An operating system designed for hosting containers,bottlerocket-os,bottlerocket,https://github.com/bottlerocket-os/bottlerocket
+2024-11-10,rust,36149,10,A refreshingly simple data-driven game engine built in Rust,bevyengine,bevy,https://github.com/bevyengine/bevy
