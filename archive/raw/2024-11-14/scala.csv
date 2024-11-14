@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-14,scala,7587,3,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-11-14,scala,39893,14,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-11-14,scala,3991,2,Chisel: A Modern Hardware Design Language,chipsalliance,chisel,https://github.com/chipsalliance/chisel
+2024-11-14,scala,1207,1,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-11-14,scala,11139,5,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",rtyley,bfg-repo-cleaner,https://github.com/rtyley/bfg-repo-cleaner
+2024-11-14,scala,12554,0,The Community Maintained High Velocity Web Framework For Java and Scala.,playframework,playframework,https://github.com/playframework/playframework
+2024-11-14,scala,41,0,Cross-compiler and Data Reconciler into Databricks Lakehouse,databrickslabs,remorph,https://github.com/databrickslabs/remorph
+2024-11-14,scala,2689,0,Wonderful reusable code from Twitter,twitter,util,https://github.com/twitter/util
+2024-11-14,scala,2101,1,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2024-11-14,scala,5877,0,"The Scala 3 compiler, also known as Dotty.",scala,scala3,https://github.com/scala/scala3
+2024-11-14,scala,6475,2,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2024-11-14,scala,887,0,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2024-11-14,scala,802,0,The Daml smart contract language,digital-asset,daml,https://github.com/digital-asset/daml
+2024-11-14,scala,770,1,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-11-14,scala,15646,4,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2024-11-14,scala,4806,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2024-11-14,scala,42,0,workbench identity and access management,broadinstitute,sam,https://github.com/broadinstitute/sam
+2024-11-14,scala,3440,0,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2024-11-14,scala,4835,2,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2024-11-14,scala,799,1,"A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",zio,zio-http,https://github.com/zio/zio-http
+2024-11-14,scala,807,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2024-11-14,scala,3307,0,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ

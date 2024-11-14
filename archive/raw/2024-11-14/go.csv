@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-14,go,6573,209,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",AlexxIT,go2rtc,https://github.com/AlexxIT/go2rtc
+2024-11-14,go,21090,3,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-11-14,go,49652,112,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2024-11-14,go,8789,18,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-11-14,go,7716,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-11-14,go,6849,410,Pretty fancy and modern terminal file manager,yorukot,superfile,https://github.com/yorukot/superfile
+2024-11-14,go,37923,23,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2024-11-14,go,17473,12,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-11-14,go,9833,4,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-11-14,go,14931,4,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2024-11-14,go,16874,10,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-11-14,go,10527,23,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-11-14,go,23769,14,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-11-14,go,23481,8,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-11-14,go,7956,9,🐶 Automated code review tool integrated with any code analysis tools regardless of programming language,reviewdog,reviewdog,https://github.com/reviewdog/reviewdog
+2024-11-14,go,4221,8,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-11-14,go,42753,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-11-14,go,3774,0,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-11-14,go,124042,24,The Go programming language,golang,go,https://github.com/golang/go
+2024-11-14,go,24148,6,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-11-14,go,18224,7,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2024-11-14,go,8743,4,Backup and migrate Kubernetes applications and their persistent volumes,vmware-tanzu,velero,https://github.com/vmware-tanzu/velero
+2024-11-14,go,7728,10,Building event-driven applications the easy way in Go.,ThreeDotsLabs,watermill,https://github.com/ThreeDotsLabs/watermill
+2024-11-14,go,4735,7,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
+2024-11-14,go,15047,5,Easy and Repeatable Kubernetes Development,GoogleContainerTools,skaffold,https://github.com/GoogleContainerTools/skaffold
