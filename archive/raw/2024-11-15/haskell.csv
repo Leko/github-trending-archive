@@ -1,0 +1,13 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-15,haskell,34677,19,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-11-15,haskell,23433,1,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-11-15,haskell,3047,4,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-11-15,haskell,249,0,Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput,kadena-io,chainweb-node,https://github.com/kadena-io/chainweb-node
+2024-11-15,haskell,36426,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-11-15,haskell,10452,4,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-11-15,haskell,1289,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-11-15,haskell,561,1,SystemVerilog to Verilog conversion,zachjs,sv2v,https://github.com/zachjs/sv2v
+2024-11-15,haskell,4072,4,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-11-15,haskell,1572,1,The Plutus language implementation and tools,IntersectMBO,plutus,https://github.com/IntersectMBO/plutus
+2024-11-15,haskell,2523,2,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2024-11-15,haskell,2716,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
