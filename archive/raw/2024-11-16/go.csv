@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-16,go,50006,117,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2024-11-16,go,30593,45,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-11-16,go,926,9,Heterogeneous AI Computing Virtualization Middleware,Project-HAMi,HAMi,https://github.com/Project-HAMi/HAMi
+2024-11-16,go,3652,10,eBPF-based Security Observability and Runtime Enforcement,cilium,tetragon,https://github.com/cilium/tetragon
+2024-11-16,go,11561,5,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2024-11-16,go,5745,7,Cloud Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-11-16,go,29308,6,A cloud-native Go microservices framework with cli tool for productivity.,zeromicro,go-zero,https://github.com/zeromicro/go-zero
+2024-11-16,go,6929,14,🧟 The modern PHP app server,dunglas,frankenphp,https://github.com/dunglas/frankenphp
+2024-11-16,go,9708,10,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2024-11-16,go,12158,5,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-11-16,go,25720,87,"🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",mudler,LocalAI,https://github.com/mudler/LocalAI
+2024-11-16,go,47844,7,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-11-16,go,31211,5,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-11-16,go,24117,21,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",dapr,dapr,https://github.com/dapr/dapr
+2024-11-16,go,364,11,The official Go library for the OpenAI API,openai,openai-go,https://github.com/openai/openai-go
+2024-11-16,go,37361,58,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2024-11-16,go,97989,168,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-11-16,go,4460,3,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-11-16,go,8521,4,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-11-16,go,20229,7,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-11-16,go,3088,4,Contrib repository for the OpenTelemetry Collector,open-telemetry,opentelemetry-collector-contrib,https://github.com/open-telemetry/opentelemetry-collector-contrib
+2024-11-16,go,6586,2,Local development against a remote Kubernetes or OpenShift cluster,telepresenceio,telepresence,https://github.com/telepresenceio/telepresence
+2024-11-16,go,17620,5,"The easiest, and most secure way to access and protect all of your infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2024-11-16,go,8286,19,"Work with remote images registries - retrieving information, images, signing content",containers,skopeo,https://github.com/containers/skopeo
