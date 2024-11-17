@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-17,scala,2206,3,"Mill is a fast JVM build tool that supports Java and Scala. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",com-lihaoyi,mill,https://github.com/com-lihaoyi/mill
+2024-11-17,scala,62380,9,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2024-11-17,scala,7594,2,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-11-17,scala,4845,2,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2024-11-17,scala,7378,0,Enso Analytics is a self-service data prep and analysis platform designed for data teams.,enso-org,enso,https://github.com/enso-org/enso
+2024-11-17,scala,1209,1,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-11-17,scala,997,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell
+2024-11-17,scala,5879,0,"The Scala 3 compiler, also known as Dotty.",scala,scala3,https://github.com/scala/scala3
+2024-11-17,scala,1650,1,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",ucb-bar,chipyard,https://github.com/ucb-bar/chipyard
+2024-11-17,scala,13056,1,"A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",akka,akka,https://github.com/akka/akka
+2024-11-17,scala,2099,1,Scala language server with rich IDE features 🚀,scalameta,metals,https://github.com/scalameta/metals
+2024-11-17,scala,14351,0,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,scala,scala,https://github.com/scala/scala
+2024-11-17,scala,2105,0,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2024-11-17,scala,770,0,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-11-17,scala,1338,0,The Streaming-first HTTP server/module of Akka,akka,akka-http,https://github.com/akka/akka-http
+2024-11-17,scala,6477,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2024-11-17,scala,4806,0,"sbt, the interactive build tool",sbt,sbt,https://github.com/sbt/sbt
+2024-11-17,scala,887,0,FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility,firesim,firesim,https://github.com/firesim/firesim
+2024-11-17,scala,2875,1,Spark: The Definitive Guide's Code Repository,databricks,Spark-The-Definitive-Guide,https://github.com/databricks/Spark-The-Definitive-Guide
+2024-11-17,scala,467,0,A Spark plugin for reading and writing Excel files,nightscape,spark-excel,https://github.com/nightscape/spark-excel
+2024-11-17,scala,15661,6,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2024-11-17,scala,1222,1,"Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",apache,pekko,https://github.com/apache/pekko
