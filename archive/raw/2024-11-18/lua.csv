@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-18,lua,17414,53,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-11-18,lua,2861,3,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2024-11-18,lua,19904,26,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-11-18,lua,3131,8,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-11-18,lua,9678,14,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-11-18,lua,1478,3,一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT,linkease,istore,https://github.com/linkease/istore
+2024-11-18,lua,10745,3,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-11-18,lua,1030,16,白霜词库：蒹葭苍苍，白露为霜。基于雾凇拼音重制的，更纯净、词频准确、智能的词库。使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化。白霜词库是目前rime方案下最好的词库，在不使用智能模型的情况下可以超越使用智能模型的词库方案。目前使用白霜词库的方案有：墨奇音形（双拼辅）https://github.com/gaboolic/rime-shuangpin-fuzhuma 、墨奇五笔整句https://github.com/gaboolic/rime-wubi-sentence,gaboolic,rime-frost,https://github.com/gaboolic/rime-frost
+2024-11-18,lua,7100,28,Use your Neovim like using Cursor AI IDE!,yetone,avante.nvim,https://github.com/yetone/avante.nvim
+2024-11-18,lua,376,0,True coop multiplayer mod for Noita.,IntQuant,noita_entangled_worlds,https://github.com/IntQuant/noita_entangled_worlds
+2024-11-18,lua,3368,3,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-11-18,lua,39306,11,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-11-18,lua,7925,4,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2024-11-18,lua,377,0,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-11-18,lua,2785,3,plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.,nvim-lua,plenary.nvim,https://github.com/nvim-lua/plenary.nvim
+2024-11-18,lua,8097,4,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-11-18,lua,5624,7,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-11-18,lua,3361,2,A language server that offers Lua language support - programmed in Lua,LuaLS,lua-language-server,https://github.com/LuaLS/lua-language-server
+2024-11-18,lua,14891,14,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-11-18,lua,16862,13,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-11-18,lua,3570,1,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",jdhao,nvim-config,https://github.com/jdhao/nvim-config
+2024-11-18,lua,1703,0,Use treesitter to auto close and auto rename html tag,windwp,nvim-ts-autotag,https://github.com/windwp/nvim-ts-autotag
+2024-11-18,lua,3956,5,"🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more",numToStr,Comment.nvim,https://github.com/numToStr/Comment.nvim
