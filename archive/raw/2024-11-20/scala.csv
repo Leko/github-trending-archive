@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-20,scala,1212,1,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-11-20,scala,2107,2,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc,joernio,joern,https://github.com/joernio/joern
+2024-11-20,scala,62407,9,Source code for Twitter's Recommendation Algorithm,twitter,the-algorithm,https://github.com/twitter/the-algorithm
+2024-11-20,scala,1654,1,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",ucb-bar,chipyard,https://github.com/ucb-bar/chipyard
+2024-11-20,scala,7607,7,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-11-20,scala,15681,8,"♞ lichess.org: the forever free, adless and open source chess server ♞",lichess-org,lila,https://github.com/lichess-org/lila
+2024-11-20,scala,39965,16,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-11-20,scala,223,1,The batteries-included testing and formal verification library for Chisel-based RTL designs.,ucb-bar,chiseltest,https://github.com/ucb-bar/chiseltest
+2024-11-20,scala,13058,1,"A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",akka,akka,https://github.com/akka/akka
+2024-11-20,scala,889,0,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,apache,incubator-livy,https://github.com/apache/incubator-livy
+2024-11-20,scala,3310,1,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",awslabs,deequ,https://github.com/awslabs/deequ
+2024-11-20,scala,468,1,A Spark plugin for reading and writing Excel files,nightscape,spark-excel,https://github.com/nightscape/spark-excel
+2024-11-20,scala,2211,0,"Mill is a fast JVM build tool that supports Java and Scala. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",com-lihaoyi,mill,https://github.com/com-lihaoyi/mill
+2024-11-20,scala,800,0,"A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",zio,zio-http,https://github.com/zio/zio-http
+2024-11-20,scala,5879,0,"The Scala 3 compiler, also known as Dotty.",scala,scala3,https://github.com/scala/scala3
+2024-11-20,scala,11836,0,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2024-11-20,scala,3447,0,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",TheHive-Project,TheHive,https://github.com/TheHive-Project/TheHive
+2024-11-20,scala,4851,4,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2024-11-20,scala,771,1,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-11-20,scala,997,0,Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments,broadinstitute,cromwell,https://github.com/broadinstitute/cromwell

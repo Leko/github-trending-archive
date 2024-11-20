@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-20,go,11934,171,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2024-11-20,go,14760,7,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-11-20,go,7684,12,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",stakater,Reloader,https://github.com/stakater/Reloader
+2024-11-20,go,23516,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-11-20,go,5768,9,Cloud Native Policy Management,kyverno,kyverno,https://github.com/kyverno/kyverno
+2024-11-20,go,7686,63,A self hosted virtual browser that runs in docker and uses WebRTC.,m1k1o,neko,https://github.com/m1k1o/neko
+2024-11-20,go,8537,7,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-11-20,go,12432,19,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-11-20,go,53,7,The official Go client for Elasticsearch,elastic,go-elasticsearch,https://github.com/elastic/go-elasticsearch
+2024-11-20,go,7042,4,"node of the decentralized oracle network, bridging on and off-chain computation",smartcontractkit,chainlink,https://github.com/smartcontractkit/chainlink
+2024-11-20,go,38320,17,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-11-20,go,17508,6,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-11-20,go,9101,3,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-11-20,go,17031,10,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
+2024-11-20,go,53254,36,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-11-20,go,11215,16,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",netbirdio,netbird,https://github.com/netbirdio/netbird
+2024-11-20,go,3813,7,SQL-first Golang ORM,uptrace,bun,https://github.com/uptrace/bun
+2024-11-20,go,5656,2,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2024-11-20,go,36996,12,"The fantastic ORM library for Golang, aims to be developer friendly",go-gorm,gorm,https://github.com/go-gorm/gorm
+2024-11-20,go,11263,9,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-11-20,go,4952,5,The Docker CLI,docker,cli,https://github.com/docker/cli
+2024-11-20,go,9148,3,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2024-11-20,go,45187,32,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-11-20,go,7625,1,Kafka library in Go,segmentio,kafka-go,https://github.com/segmentio/kafka-go
+2024-11-20,go,8178,5,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",patrickmn,go-cache,https://github.com/patrickmn/go-cache

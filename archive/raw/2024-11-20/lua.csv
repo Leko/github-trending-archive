@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-20,lua,9714,10,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-11-20,lua,996,7,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2024-11-20,lua,1086,24,白霜词库：蒹葭苍苍，白露为霜。基于雾凇拼音重制的，更纯净、词频准确、智能的词库。使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化。白霜词库是目前rime方案下最好的词库，在不使用智能模型的情况下可以超越使用智能模型的词库方案。目前使用白霜词库的方案有：墨奇音形（双拼辅）https://github.com/gaboolic/rime-shuangpin-fuzhuma 、墨奇五笔整句https://github.com/gaboolic/rime-wubi-sentence,gaboolic,rime-frost,https://github.com/gaboolic/rime-frost
+2024-11-20,lua,6479,3,Modernity meets insane extensibility. The future of organizing your life in Neovim.,nvim-neorg,neorg,https://github.com/nvim-neorg/neorg
+2024-11-20,lua,7178,39,Use your Neovim like using Cursor AI IDE!,yetone,avante.nvim,https://github.com/yetone/avante.nvim
+2024-11-20,lua,17479,15,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-11-20,lua,11648,5,"Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",karpathy,char-rnn,https://github.com/karpathy/char-rnn
+2024-11-20,lua,7220,4,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2024-11-20,lua,6421,3,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2024-11-20,lua,19941,24,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-11-20,lua,3375,4,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-11-20,lua,12763,2,AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins,AstroNvim,AstroNvim,https://github.com/AstroNvim/AstroNvim
+2024-11-20,lua,10754,3,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-11-20,lua,39318,11,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-11-20,lua,845,0,Courseplay for Farming Simulator 2022,Courseplay,Courseplay_FS22,https://github.com/Courseplay/Courseplay_FS22
+2024-11-20,lua,804,3,NoVR mod for Half-Life: Alyx,gb2dev,HLA-NoVR,https://github.com/gb2dev/HLA-NoVR
+2024-11-20,lua,2026,2,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2024-11-20,lua,2709,10,The Simple Config Template Of Rime By Mintimate. QQ Chat-Group: 703260572,Mintimate,oh-my-rime,https://github.com/Mintimate/oh-my-rime
+2024-11-20,lua,374,0,Official Repo For core resources for esx-legacy,esx-framework,esx_core,https://github.com/esx-framework/esx_core
+2024-11-20,lua,6286,2,Web-based Traffic and Security Network Traffic Monitoring,ntop,ntopng,https://github.com/ntop/ntopng
