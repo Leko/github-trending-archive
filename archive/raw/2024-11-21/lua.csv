@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-21,lua,7203,33,Use your Neovim like using Cursor AI IDE!,yetone,avante.nvim,https://github.com/yetone/avante.nvim
+2024-11-21,lua,17496,21,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-11-21,lua,16890,5,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-11-21,lua,39322,9,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-11-21,lua,11649,1,"Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",karpathy,char-rnn,https://github.com/karpathy/char-rnn
+2024-11-21,lua,1306,13,"Performant, batteries-included completion plugin for Neovim",Saghen,blink.cmp,https://github.com/Saghen/blink.cmp
+2024-11-21,lua,8106,5,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-11-21,lua,7224,5,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2024-11-21,lua,1766,3,🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-11-21,lua,5292,13,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-11-21,lua,2395,1,vim dashboard,nvimdev,dashboard-nvim,https://github.com/nvimdev/dashboard-nvim
+2024-11-21,lua,10158,6,🔥 A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2024-11-21,lua,1303,1,A small automated session manager for Neovim,rmagatti,auto-session,https://github.com/rmagatti/auto-session
+2024-11-21,lua,4459,3,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-11-21,lua,5177,21,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2024-11-21,lua,1944,2,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2024-11-21,lua,4074,8,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2024-11-21,lua,1540,6,⚡ TypeScript integration NeoVim deserves ⚡,pmizio,typescript-tools.nvim,https://github.com/pmizio/typescript-tools.nvim
+2024-11-21,lua,2026,1,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2024-11-21,lua,1119,39,白霜词库：蒹葭苍苍，白露为霜。基于雾凇拼音重制的，更纯净、词频准确、智能的词库。使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化。白霜词库是目前rime方案下最好的词库，在不使用智能模型的情况下可以超越使用智能模型的词库方案。目前使用白霜词库的方案有：墨奇音形（双拼辅）https://github.com/gaboolic/rime-shuangpin-fuzhuma 、墨奇五笔整句https://github.com/gaboolic/rime-wubi-sentence,gaboolic,rime-frost,https://github.com/gaboolic/rime-frost
+2024-11-21,lua,14530,8,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix

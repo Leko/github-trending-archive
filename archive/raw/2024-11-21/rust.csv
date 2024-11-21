@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-21,rust,22732,235,A command-line benchmarking tool,sharkdp,hyperfine,https://github.com/sharkdp/hyperfine
+2024-11-21,rust,14129,30,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,getzola,zola,https://github.com/getzola/zola
+2024-11-21,rust,26939,128,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-11-21,rust,28987,8,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2024-11-21,rust,18044,13,"⭐️ A friendly language for building type-safe, scalable systems!",gleam-lang,gleam,https://github.com/gleam-lang/gleam
+2024-11-21,rust,2364,60,"Space and Time | Proof of SQL",spaceandtimelabs,sxt-proof-of-sql,https://github.com/spaceandtimelabs/sxt-proof-of-sql
+2024-11-21,rust,6248,4,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",MystenLabs,sui,https://github.com/MystenLabs/sui
+2024-11-21,rust,13332,21,"The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",gitbutlerapp,gitbutler,https://github.com/gitbutlerapp/gitbutler
+2024-11-21,rust,668,5,Apache Iceberg,apache,iceberg-rust,https://github.com/apache/iceberg-rust
+2024-11-21,rust,5387,14,🚂 🦀 The one-person framework for Rust for side-projects and startups,loco-rs,loco,https://github.com/loco-rs/loco
+2024-11-21,rust,5984,8,"A fast, simple, recursive content discovery tool written in Rust.",epi052,feroxbuster,https://github.com/epi052/feroxbuster
+2024-11-21,rust,1907,3,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-11-21,rust,50363,66,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
+2024-11-21,rust,54342,27,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2024-11-21,rust,3980,2,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",paradigmxyz,reth,https://github.com/paradigmxyz/reth
+2024-11-21,rust,690,4,"🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage.",mxsm,rocketmq-rust,https://github.com/mxsm/rocketmq-rust
+2024-11-21,rust,813,44,JS engine lolz,trynova,nova,https://github.com/trynova/nova
+2024-11-21,rust,17946,34,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2024-11-21,rust,14699,14,🤖 The Modern Port Scanner 🤖,RustScan,RustScan,https://github.com/RustScan/RustScan
+2024-11-21,rust,15294,5,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-11-21,rust,7868,4,"𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com",databendlabs,databend,https://github.com/databendlabs/databend
+2024-11-21,rust,33908,26,A post-modern modal text editor.,helix-editor,helix,https://github.com/helix-editor/helix
+2024-11-21,rust,14594,8,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2024-11-21,rust,2669,3,Rust friendly bindings to *nix APIs,nix-rust,nix,https://github.com/nix-rust/nix
+2024-11-21,rust,13324,38,"🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",openobserve,openobserve,https://github.com/openobserve/openobserve
