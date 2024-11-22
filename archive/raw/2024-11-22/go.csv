@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-22,go,4975,102,Go-blueprint allows users to spin up a quick Go project using a popular framework,Melkeydev,go-blueprint,https://github.com/Melkeydev/go-blueprint
+2024-11-22,go,4745,25,"LangChain for Go, the easiest way to write LLM-based programs in Go",tmc,langchaingo,https://github.com/tmc/langchaingo
+2024-11-22,go,14867,24,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-11-22,go,2320,3,GoMock is a mocking framework for the Go programming language.,uber-go,mock,https://github.com/uber-go/mock
+2024-11-22,go,12188,43,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2024-11-22,go,20271,6,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-11-22,go,51474,13,The Cloud Native Application Proxy,traefik,traefik,https://github.com/traefik/traefik
+2024-11-22,go,5320,5,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-11-22,go,55553,65,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2024-11-22,go,3495,9,"A Security Tool for Bug Bounty, Pentest and Red Teaming.",zan8in,afrog,https://github.com/zan8in/afrog
+2024-11-22,go,45230,18,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-11-22,go,20167,5,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-11-22,go,9822,12,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",ccfos,nightingale,https://github.com/ccfos/nightingale
+2024-11-22,go,13067,57,serve as a reverse proxy to protect your web services from attacks and exploits.,chaitin,SafeLine,https://github.com/chaitin/SafeLine
+2024-11-22,go,31255,7,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-11-22,go,4448,26,Build terminal forms and prompts 🤷🏻‍♀️,charmbracelet,huh,https://github.com/charmbracelet/huh
+2024-11-22,go,11062,6,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2024-11-22,go,53364,57,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-11-22,go,3141,7,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",fleetdm,fleet,https://github.com/fleetdm/fleet
+2024-11-22,go,10825,2,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-11-22,go,21880,9,Pulumi - Infrastructure as Code in any programming language 🚀,pulumi,pulumi,https://github.com/pulumi/pulumi
+2024-11-22,go,5338,8,Cost monitoring for Kubernetes workloads and cloud costs,opencost,opencost,https://github.com/opencost/opencost
+2024-11-22,go,6036,1,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
