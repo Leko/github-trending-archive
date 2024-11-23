@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-23,scala,40007,17,Apache Spark - A unified analytics engine for large-scale data processing,apache,spark,https://github.com/apache/spark
+2024-11-23,scala,7621,6,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",delta-io,delta,https://github.com/delta-io/delta
+2024-11-23,scala,6479,1,Modern Load Testing as Code,gatling,gatling,https://github.com/gatling/gatling
+2024-11-23,scala,2219,1,"Mill is a fast JVM build tool that supports Java and Scala. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible",com-lihaoyi,mill,https://github.com/com-lihaoyi/mill
+2024-11-23,scala,5880,0,"The Scala 3 compiler, also known as Dotty.",scala,scala3,https://github.com/scala/scala3
+2024-11-23,scala,4859,6,Open-source high-performance RISC-V processor,OpenXiangShan,XiangShan,https://github.com/OpenXiangShan/XiangShan
+2024-11-23,scala,1216,0,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,apache,incubator-gluten,https://github.com/apache/incubator-gluten
+2024-11-23,scala,2114,2,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc,joernio,joern,https://github.com/joernio/joern
+2024-11-23,scala,468,0,A Spark plugin for reading and writing Excel files,nightscape,spark-excel,https://github.com/nightscape/spark-excel
+2024-11-23,scala,2106,2,Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.,apache,kyuubi,https://github.com/apache/kyuubi
+2024-11-23,scala,2100,0,Scala language server with rich IDE features 🚀,scalameta,metals,https://github.com/scalameta/metals
+2024-11-23,scala,822,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,NVIDIA,spark-rapids,https://github.com/NVIDIA/spark-rapids
+2024-11-23,scala,1549,0,"An open source RESTful API platform for banks that supports Open Banking, XS2A and PSD2 through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs.",OpenBankProject,OBP-API,https://github.com/OpenBankProject/OBP-API
+2024-11-23,scala,773,1,An open protocol for secure data sharing,delta-io,delta-sharing,https://github.com/delta-io/delta-sharing
+2024-11-23,scala,4104,1,"ZIO — A type-safe, composable library for async and concurrent programming in Scala",zio,zio,https://github.com/zio/zio
+2024-11-23,scala,11838,2,CMAK is a tool for managing Apache Kafka clusters,yahoo,CMAK,https://github.com/yahoo/CMAK
+2024-11-23,scala,9165,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",gitbucket,gitbucket,https://github.com/gitbucket/gitbucket
