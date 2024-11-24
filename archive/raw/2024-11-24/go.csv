@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-24,go,4500,10,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-11-24,go,46647,23,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2024-11-24,go,5329,186,Go-blueprint allows users to spin up a quick Go project using a popular framework,Melkeydev,go-blueprint,https://github.com/Melkeydev/go-blueprint
+2024-11-24,go,21131,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-11-24,go,3517,48,"🤖 AI Gateway | AI Native API Gateway",alibaba,higress,https://github.com/alibaba/higress
+2024-11-24,go,99057,120,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-11-24,go,7587,44,Pretty fancy and modern terminal file manager,yorukot,superfile,https://github.com/yorukot/superfile
+2024-11-24,go,8503,3,A cloud-native Pipeline resource.,tektoncd,pipeline,https://github.com/tektoncd/pipeline
+2024-11-24,go,11132,20,"Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).",moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2024-11-24,go,2846,3,NVIDIA device plugin for Kubernetes,NVIDIA,k8s-device-plugin,https://github.com/NVIDIA/k8s-device-plugin
+2024-11-24,go,8096,4,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-11-24,go,8097,3,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2024-11-24,go,6778,4,A Chaos Engineering Platform for Kubernetes.,chaos-mesh,chaos-mesh,https://github.com/chaos-mesh/chaos-mesh
+2024-11-24,go,27796,10,👾 Fast and simple video download library and CLI tool written in Go,iawia002,lux,https://github.com/iawia002/lux
+2024-11-24,go,10302,20,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",casdoor,casdoor,https://github.com/casdoor/casdoor
+2024-11-24,go,23068,21,🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。,1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-11-24,go,22233,3,Learn Go with test-driven development,quii,learn-go-with-tests,https://github.com/quii/learn-go-with-tests
+2024-11-24,go,11584,15,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2024-11-24,go,7746,2,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-11-24,go,79117,18,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-11-24,go,23909,13,Podman: A tool for managing OCI containers and pods.,containers,podman,https://github.com/containers/podman
+2024-11-24,go,6345,7,Generate Go client and server boilerplate from OpenAPI 3 specifications,oapi-codegen,oapi-codegen,https://github.com/oapi-codegen/oapi-codegen
+2024-11-24,go,10676,2,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
