@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-27,lua,3924,6,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2024-11-27,lua,1360,12,"Performant, batteries-included completion plugin for Neovim",Saghen,blink.cmp,https://github.com/Saghen/blink.cmp
+2024-11-27,lua,362,3,Debugging in NeoVim the print() way!,andrewferrier,debugprint.nvim,https://github.com/andrewferrier/debugprint.nvim
+2024-11-27,lua,3420,0,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-11-27,lua,5656,4,🍨 Soothing pastel theme for (Neo)vim,catppuccin,nvim,https://github.com/catppuccin/nvim
+2024-11-27,lua,4011,4,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2024-11-27,lua,1956,5,Lua port of the most famous vim colorscheme,ellisonleao,gruvbox.nvim,https://github.com/ellisonleao/gruvbox.nvim
+2024-11-27,lua,2434,2,An extensible framework for interacting with tests within NeoVim.,nvim-neotest,neotest,https://github.com/nvim-neotest/neotest
+2024-11-27,lua,3176,2,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2024-11-27,lua,8141,7,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-11-27,lua,1469,2,☄️ Highly customisable markdown(latex & inline html) previewer for Neovim,OXY2DEV,markview.nvim,https://github.com/OXY2DEV/markview.nvim
+2024-11-27,lua,660,1,"This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed",shellRaining,hlchunk.nvim,https://github.com/shellRaining/hlchunk.nvim
+2024-11-27,lua,1246,2,A task runner and job management plugin for Neovim,stevearc,overseer.nvim,https://github.com/stevearc/overseer.nvim
+2024-11-27,lua,3551,2,A snazzy bufferline for Neovim,akinsho,bufferline.nvim,https://github.com/akinsho/bufferline.nvim
+2024-11-27,lua,1536,13,Smooth scrolling neovim plugin written in lua,karb94,neoscroll.nvim,https://github.com/karb94/neoscroll.nvim
+2024-11-27,lua,4073,4,Single tabpage interface for easily cycling through diffs for all modified files for any git rev.,sindrets,diffview.nvim,https://github.com/sindrets/diffview.nvim
+2024-11-27,lua,735,3,"A pretty window for previewing, navigating and editing your LSP locations",DNLHC,glance.nvim,https://github.com/DNLHC/glance.nvim

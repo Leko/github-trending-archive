@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-27,go,9254,114,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2024-11-27,go,4510,1,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-11-27,go,4997,16,"LangChain for Go, the easiest way to write LLM-based programs in Go",tmc,langchaingo,https://github.com/tmc/langchaingo
+2024-11-27,go,10874,6,⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing,Shopify,toxiproxy,https://github.com/Shopify/toxiproxy
+2024-11-27,go,7957,10,Kubebuilder - SDK for building Kubernetes APIs using CRDs,kubernetes-sigs,kubebuilder,https://github.com/kubernetes-sigs/kubebuilder
+2024-11-27,go,38288,454,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2024-11-27,go,47136,210,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2024-11-27,go,10710,7,"Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.",semaphoreui,semaphore,https://github.com/semaphoreui/semaphore
+2024-11-27,go,41021,49,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-11-27,go,55935,24,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-11-27,go,79168,20,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-11-27,go,12777,22,"Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",sqshq,sampler,https://github.com/sqshq/sampler
+2024-11-27,go,11081,3,Customization of kubernetes YAML configurations,kubernetes-sigs,kustomize,https://github.com/kubernetes-sigs/kustomize
+2024-11-27,go,2362,1,Terraform Provider for Google Cloud Platform,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2024-11-27,go,6282,3,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-11-27,go,23051,35,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-11-27,go,1634,3,Repo for learning observability,iam-veeramalla,observability-zero-to-hero,https://github.com/iam-veeramalla/observability-zero-to-hero
+2024-11-27,go,22496,11,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-11-27,go,14491,5,General-purpose web UI for Kubernetes clusters,kubernetes,dashboard,https://github.com/kubernetes/dashboard
+2024-11-27,go,20325,8,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-11-27,go,1782,18,Application lifecycle orchestration,akuity,kargo,https://github.com/akuity/kargo
+2024-11-27,go,9088,11,"ZITADEL - Identity infrastructure, simplified for you.",zitadel,zitadel,https://github.com/zitadel/zitadel
+2024-11-27,go,5432,5,A Chrome DevTools Protocol driver for web automation and scraping.,go-rod,rod,https://github.com/go-rod/rod
+2024-11-27,go,10866,8,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-11-27,go,29974,16,"High performance, minimalist Go web framework",labstack,echo,https://github.com/labstack/echo

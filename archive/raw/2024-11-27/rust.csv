@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-27,rust,27965,25,"A scalable, distributed, collaborative, document-graph database, for the realtime web",surrealdb,surrealdb,https://github.com/surrealdb/surrealdb
+2024-11-27,rust,16878,49,"💥 Blazing fast terminal file manager written in Rust, based on async I/O.",sxyazi,yazi,https://github.com/sxyazi/yazi
+2024-11-27,rust,20724,11,"Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-11-27,rust,6239,26,"A self-paced course to learn Rust, one exercise at a time.",mainmatter,100-exercises-to-learn-rust,https://github.com/mainmatter/100-exercises-to-learn-rust
+2024-11-27,rust,10244,21,"dev tools, env vars, task runner",jdx,mise,https://github.com/jdx/mise
+2024-11-27,rust,10979,20,A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs,ratatui,ratatui,https://github.com/ratatui/ratatui
+2024-11-27,rust,6388,9,Metal I/O library for Rust.,tokio-rs,mio,https://github.com/tokio-rs/mio
+2024-11-27,rust,5604,2,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",kata-containers,kata-containers,https://github.com/kata-containers/kata-containers
+2024-11-27,rust,18802,13,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2024-11-27,rust,230,13,Unreal Engine .pak file library and CLI in rust,trumank,repak,https://github.com/trumank/repak
+2024-11-27,rust,6372,8,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-11-27,rust,17995,13,"📊 Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics",cube-js,cube,https://github.com/cube-js/cube
+2024-11-27,rust,19058,6,🚀 The leading Wasm Runtime supporting WASIX and WASI,wasmerio,wasmer,https://github.com/wasmerio/wasmer
+2024-11-27,rust,23065,29,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2024-11-27,rust,1967,6,Run web applications on AWS Lambda,awslabs,aws-lambda-web-adapter,https://github.com/awslabs/aws-lambda-web-adapter
+2024-11-27,rust,2946,3,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2024-11-27,rust,4085,17,A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.,raphamorim,rio,https://github.com/raphamorim/rio
+2024-11-27,rust,6825,10,RustDesk Server Program,rustdesk,rustdesk-server,https://github.com/rustdesk/rustdesk-server
+2024-11-27,rust,9157,14,"An idiomatic, lean, fast & safe pure Rust implementation of Git",GitoxideLabs,gitoxide,https://github.com/GitoxideLabs/gitoxide
+2024-11-27,rust,24869,9,"A cross-platform GUI library for Rust, inspired by Elm",iced-rs,iced,https://github.com/iced-rs/iced
+2024-11-27,rust,14364,9,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
