@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-28,go,47469,300,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2024-11-28,go,38533,150,The lazier way to manage everything docker,jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker
+2024-11-28,go,9297,52,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2024-11-28,go,3557,100,More than just IM 不只是即时通讯( IM ),WuKongIM,WuKongIM,https://github.com/WuKongIM/WuKongIM
+2024-11-28,go,6928,11,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-11-28,go,12543,21,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-11-28,go,23066,18,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-11-28,go,9163,2,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2024-11-28,go,25637,28,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-11-28,go,8897,12,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-11-28,go,1161,6,Six Degrees of Domain Admin,SpecterOps,BloodHound,https://github.com/SpecterOps/BloodHound
+2024-11-28,go,9862,2,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-11-28,go,13035,7,Git extension for versioning large files,git-lfs,git-lfs,https://github.com/git-lfs/git-lfs
+2024-11-28,go,7317,5,Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.,teamhanko,hanko,https://github.com/teamhanko/hanko
+2024-11-28,go,20201,5,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-11-28,go,55958,18,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-11-28,go,8107,7,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-11-28,go,10164,2,A QUIC implementation in pure Go,quic-go,quic-go,https://github.com/quic-go/quic-go
+2024-11-28,go,25522,23,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2024-11-28,go,5443,9,A Chrome DevTools Protocol driver for web automation and scraping.,go-rod,rod,https://github.com/go-rod/rod
+2024-11-28,go,19637,25,Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),slimtoolkit,slim,https://github.com/slimtoolkit/slim
+2024-11-28,go,4514,3,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-11-28,go,10873,6,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
