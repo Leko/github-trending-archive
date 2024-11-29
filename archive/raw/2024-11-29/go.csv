@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-29,go,47796,404,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2024-11-29,go,42949,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-11-29,go,47738,15,Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-11-29,go,6301,16,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-11-29,go,38239,9,An extremely fast bundler for the web,evanw,esbuild,https://github.com/evanw/esbuild
+2024-11-29,go,3796,239,More than just IM 不只是即时通讯( IM ),WuKongIM,WuKongIM,https://github.com/WuKongIM/WuKongIM
+2024-11-29,go,9344,51,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2024-11-29,go,15121,3,Workflow Engine for Kubernetes,argoproj,argo-workflows,https://github.com/argoproj/argo-workflows
+2024-11-29,go,8907,14,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2024-11-29,go,990,8,Heterogeneous AI Computing Virtualization Middleware,Project-HAMi,HAMi,https://github.com/Project-HAMi/HAMi
+2024-11-29,go,7805,6,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,projectdiscovery,httpx,https://github.com/projectdiscovery/httpx
+2024-11-29,go,6893,7,The Havoc Framework,HavocFramework,Havoc,https://github.com/HavocFramework/Havoc
+2024-11-29,go,6226,6,Staticcheck - The advanced Go linter,dominikh,go-tools,https://github.com/dominikh/go-tools
+2024-11-29,go,20848,13,"Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-11-29,go,2363,0,Terraform Provider for Google Cloud Platform,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2024-11-29,go,8112,3,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-11-29,go,1644,3,Repo for learning observability,iam-veeramalla,observability-zero-to-hero,https://github.com/iam-veeramalla/observability-zero-to-hero
+2024-11-29,go,23414,15,OpenTofu lets you declaratively manage your cloud infrastructure.,opentofu,opentofu,https://github.com/opentofu/opentofu
+2024-11-29,go,24787,4,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-11-29,go,7216,16,A database migration tool. Supports SQL migrations and Go functions.,pressly,goose,https://github.com/pressly/goose
+2024-11-29,go,27324,12,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-11-29,go,13583,13,Generate type-safe code from SQL,sqlc-dev,sqlc,https://github.com/sqlc-dev/sqlc

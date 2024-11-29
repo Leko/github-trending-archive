@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-29,rust,54586,55,🦀 Small exercises to get you used to reading and writing Rust code!,rust-lang,rustlings,https://github.com/rust-lang/rustlings
+2024-11-29,rust,35575,53,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2024-11-29,rust,299,6,solana geyser grpc service,rpcpool,yellowstone-grpc,https://github.com/rpcpool/yellowstone-grpc
+2024-11-29,rust,76657,81,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-11-29,rust,27929,131,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-11-29,rust,14381,9,"A full featured, fast Command Line Argument Parser for Rust",clap-rs,clap,https://github.com/clap-rs/clap
+2024-11-29,rust,18823,15,An incremental parsing system for programming tools,tree-sitter,tree-sitter,https://github.com/tree-sitter/tree-sitter
+2024-11-29,rust,15934,11,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-11-29,rust,4137,19,A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.,raphamorim,rio,https://github.com/raphamorim/rio
+2024-11-29,rust,8925,14,Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.,rolldown,rolldown,https://github.com/rolldown/rolldown
+2024-11-29,rust,15368,14,A retro game engine for Python,kitao,pyxel,https://github.com/kitao/pyxel
+2024-11-29,rust,18012,8,"📊 Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics",cube-js,cube,https://github.com/cube-js/cube
+2024-11-29,rust,10318,32,"dev tools, env vars, task runner",jdx,mise,https://github.com/jdx/mise
+2024-11-29,rust,12563,16,⚓ A collection of JavaScript tools written in Rust.,oxc-project,oxc,https://github.com/oxc-project/oxc
+2024-11-29,rust,1567,1,Internet Computer blockchain source: the client/replica software run by nodes,dfinity,ic,https://github.com/dfinity/ic
+2024-11-29,rust,25884,22,"“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book",sunface,rust-course,https://github.com/sunface/rust-course
+2024-11-29,rust,6196,2,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-11-29,rust,827,37,"TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",tensorzero,tensorzero,https://github.com/tensorzero/tensorzero
+2024-11-29,rust,17679,66,"A massively parallel, high-level programming language",HigherOrderCO,Bend,https://github.com/HigherOrderCO/Bend
+2024-11-29,rust,12655,2,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-11-29,rust,3668,10,Redis library for rust,redis-rs,redis-rs,https://github.com/redis-rs/redis-rs
+2024-11-29,rust,4114,3,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",cloud-hypervisor,cloud-hypervisor,https://github.com/cloud-hypervisor/cloud-hypervisor
+2024-11-29,rust,2955,3,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2024-11-29,rust,13527,6,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
