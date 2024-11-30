@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-30,lua,1420,36,"Performant, batteries-included completion plugin for Neovim",Saghen,blink.cmp,https://github.com/Saghen/blink.cmp
+2024-11-30,lua,5478,2,"💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2024-11-30,lua,5677,4,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-11-30,lua,3384,1,A language server that offers Lua language support - programmed in Lua,LuaLS,lua-language-server,https://github.com/LuaLS/lua-language-server
+2024-11-30,lua,2881,6,Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.,williamboman,mason-lspconfig.nvim,https://github.com/williamboman/mason-lspconfig.nvim
+2024-11-30,lua,1796,5,🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-11-30,lua,39377,4,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-11-30,lua,3423,2,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-11-30,lua,9981,19,"Rime 配置：雾凇拼音 | 长期维护的简体词库",iDvel,rime-ice,https://github.com/iDvel/rime-ice
+2024-11-30,lua,10798,5,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-11-30,lua,5374,8,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-11-30,lua,7287,9,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2024-11-30,lua,14568,5,The Cloud-Native API Gateway,apache,apisix,https://github.com/apache/apisix
+2024-11-30,lua,7452,26,Use your Neovim like using Cursor AI IDE!,yetone,avante.nvim,https://github.com/yetone/avante.nvim
+2024-11-30,lua,5639,2,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",folke,trouble.nvim,https://github.com/folke/trouble.nvim
+2024-11-30,lua,10177,1,Image-to-image translation with conditional adversarial nets,phillipi,pix2pix,https://github.com/phillipi/pix2pix
+2024-11-30,lua,6446,2,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2024-11-30,lua,471,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2024-11-30,lua,5209,2,Git integration for buffers,lewis6991,gitsigns.nvim,https://github.com/lewis6991/gitsigns.nvim
+2024-11-30,lua,3312,2,vim-be-good is a nvim plugin designed to make you better at Vim Movements.,ThePrimeagen,vim-be-good,https://github.com/ThePrimeagen/vim-be-good
+2024-11-30,lua,384,0,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-11-30,lua,4436,4,A neovim lua plugin to help easily manage multiple terminal windows,akinsho,toggleterm.nvim,https://github.com/akinsho/toggleterm.nvim

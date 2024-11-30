@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-11-30,go,43065,165,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-11-30,go,14130,5,IM Chat ChatGPT,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-11-30,go,9362,26,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2024-11-30,go,3834,42,More than just IM 不只是即时通讯( IM ),WuKongIM,WuKongIM,https://github.com/WuKongIM/WuKongIM
+2024-11-30,go,20322,28,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-11-30,go,23857,14,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-11-30,go,100044,198,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-11-30,go,4684,5,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2024-11-30,go,12590,19,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-11-30,go,7754,7,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-11-30,go,76185,25,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2024-11-30,go,7860,20,A self hosted virtual browser that runs in docker and uses WebRTC.,m1k1o,neko,https://github.com/m1k1o/neko
+2024-11-30,go,28202,20,Lightweight Kubernetes,k3s-io,k3s,https://github.com/k3s-io/k3s
+2024-11-30,go,6876,6,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-11-30,go,8115,5,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-11-30,go,24791,6,"Structured, pluggable logging for Go.",sirupsen,logrus,https://github.com/sirupsen/logrus
+2024-11-30,go,18049,10,Protect and discover secrets using Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2024-11-30,go,5938,5,A dependency injection based application framework for Go.,uber-go,fx,https://github.com/uber-go/fx
+2024-11-30,go,6233,9,Staticcheck - The advanced Go linter,dominikh,go-tools,https://github.com/dominikh/go-tools
+2024-11-30,go,1019,31,Heterogeneous AI Computing Virtualization Middleware,Project-HAMi,HAMi,https://github.com/Project-HAMi/HAMi
+2024-11-30,go,47926,198,A tool for exploring each layer in a docker image,wagoodman,dive,https://github.com/wagoodman/dive
+2024-11-30,go,7101,5,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
+2024-11-30,go,38204,15,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
