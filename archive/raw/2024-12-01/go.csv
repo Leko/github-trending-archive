@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-01,go,100175,139,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-12-01,go,2131,14,The Public Suffix List,publicsuffix,list,https://github.com/publicsuffix/list
+2024-12-01,go,56020,26,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-12-01,go,1025,3,Heterogeneous AI Computing Virtualization Middleware,Project-HAMi,HAMi,https://github.com/Project-HAMi/HAMi
+2024-12-01,go,43127,98,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-12-01,go,7433,32,"Self-hosted, lightweight server and website monitoring and O&M tool",nezhahq,nezha,https://github.com/nezhahq/nezha
+2024-12-01,go,7102,1,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
+2024-12-01,go,45374,19,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-12-01,go,3807,0,Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate,bufbuild,protoc-gen-validate,https://github.com/bufbuild/protoc-gen-validate
+2024-12-01,go,1655,4,Repo for learning observability,iam-veeramalla,observability-zero-to-hero,https://github.com/iam-veeramalla/observability-zero-to-hero
+2024-12-01,go,76199,25,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2024-12-01,go,47958,5,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-12-01,go,4686,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2024-12-01,go,24047,7,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-12-01,go,87049,24,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-12-01,go,34136,15,⚡️ Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2024-12-01,go,1472,3,OpenTelemetry Collector distribution with programmable pipelines,grafana,alloy,https://github.com/grafana/alloy
+2024-12-01,go,15184,15,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",apernet,hysteria,https://github.com/apernet/hysteria
+2024-12-01,go,1485,5,Kubernetes-native Job Queueing,kubernetes-sigs,kueue,https://github.com/kubernetes-sigs/kueue
+2024-12-01,go,8579,1,KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes,kedacore,keda,https://github.com/kedacore/keda
+2024-12-01,go,27343,7,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-12-01,go,8117,1,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-12-01,go,5945,8,A dependency injection based application framework for Go.,uber-go,fx,https://github.com/uber-go/fx

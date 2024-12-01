@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-01,rust,76797,67,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-12-01,rust,12810,4,"A safe, extensible ORM and Query Builder for Rust",diesel-rs,diesel,https://github.com/diesel-rs/diesel
+2024-12-01,rust,8700,35,Fast and multi-platform Spotify client with native GUI,jpochyla,psst,https://github.com/jpochyla/psst
+2024-12-01,rust,99052,39,Empowering everyone to build reliable and efficient software.,rust-lang,rust,https://github.com/rust-lang/rust
+2024-12-01,rust,3631,64,The Fully Customizable Desktop Environment for Windows 10/11.,eythaann,Seelen-UI,https://github.com/eythaann/Seelen-UI
+2024-12-01,rust,30626,28,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-12-01,rust,29053,7,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2024-12-01,rust,15956,15,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-12-01,rust,12858,10,The Rust package manager,rust-lang,cargo,https://github.com/rust-lang/cargo
+2024-12-01,rust,1013,12,3D Reconstruction for all,ArthurBrussee,brush,https://github.com/ArthurBrussee/brush
+2024-12-01,rust,13546,5,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2024-12-01,rust,2669,7,⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).,rust-cli,config-rs,https://github.com/rust-cli/config-rs
+2024-12-01,rust,26494,14,"Build system optimized for JavaScript and TypeScript, written in Rust",vercel,turborepo,https://github.com/vercel/turborepo
+2024-12-01,rust,19081,18,"Anki's shared backend and web components, and the Qt frontend",ankitects,anki,https://github.com/ankitects/anki
+2024-12-01,rust,20789,13,"Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-12-01,rust,1933,4,The Parity Polkadot Blockchain SDK,paritytech,polkadot-sdk,https://github.com/paritytech/polkadot-sdk
+2024-12-01,rust,35655,34,A new markup-based typesetting system that is powerful and easy to learn.,typst,typst,https://github.com/typst/typst
+2024-12-01,rust,12480,15,Rust bindings for the Python interpreter,PyO3,pyo3,https://github.com/PyO3/pyo3
+2024-12-01,rust,85774,35,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-12-01,rust,9050,14,"Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.",tracel-ai,burn,https://github.com/tracel-ai/burn
+2024-12-01,rust,5574,2,Stream VR games from your PC to your headset via Wi-Fi,alvr-org,ALVR,https://github.com/alvr-org/ALVR
+2024-12-01,rust,21699,10,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2024-12-01,rust,4377,4,"An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.",GreptimeTeam,greptimedb,https://github.com/GreptimeTeam/greptimedb
+2024-12-01,rust,7854,2,Facilitating high-level interactions between Wasm modules and JavaScript,rustwasm,wasm-bindgen,https://github.com/rustwasm/wasm-bindgen
+2024-12-01,rust,9669,31,"2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",GraphiteEditor,Graphite,https://github.com/GraphiteEditor/Graphite
