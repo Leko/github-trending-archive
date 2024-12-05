@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-05,shell,30402,80,Windows inside a Docker container.,dockur,windows,https://github.com/dockur/windows
+2024-12-05,shell,8027,15,"Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",SeleniumHQ,docker-selenium,https://github.com/SeleniumHQ/docker-selenium
+2024-12-05,shell,6827,3,Easy Docker setup for Stable Diffusion with user-friendly UI,AbdBarho,stable-diffusion-webui-docker,https://github.com/AbdBarho/stable-diffusion-webui-docker
+2024-12-05,shell,80779,28,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,nvm-sh,nvm,https://github.com/nvm-sh/nvm
+2024-12-05,shell,1196,3,Official Zigbee2MQTT Home Assistant add-on,zigbee2mqtt,hassio-zigbee2mqtt,https://github.com/zigbee2mqtt/hassio-zigbee2mqtt
+2024-12-05,shell,6636,13,A conda-forge distribution.,conda-forge,miniforge,https://github.com/conda-forge/miniforge
+2024-12-05,shell,39866,171,A pure Unix shell script implementing ACME client protocol,acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh
+2024-12-05,shell,16164,2,Manage your app's Ruby environment,rbenv,rbenv,https://github.com/rbenv/rbenv
+2024-12-05,shell,283,0,Release tooling for OpenShift,openshift,release,https://github.com/openshift/release
+2024-12-05,shell,9936,132,Docker image that provides a Minecraft Server that will automatically download selected version at startup,itzg,docker-minecraft-server,https://github.com/itzg/docker-minecraft-server
+2024-12-05,shell,174399,31,"🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2024-12-05,shell,2242,10,Homelab Goodies,JamesTurland,JimsGarage,https://github.com/JamesTurland/JimsGarage
+2024-12-05,shell,7123,26,很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。,DaoCloud,public-image-mirror,https://github.com/DaoCloud/public-image-mirror
+2024-12-05,shell,22162,7,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2024-12-05,shell,8023,5,Testing TLS/SSL encryption anywhere on any port,drwetter,testssl.sh,https://github.com/drwetter/testssl.sh
+2024-12-05,shell,822,39,,IceWhaleTech,ZimaOS,https://github.com/IceWhaleTech/ZimaOS
+2024-12-05,shell,6125,5,⛴ Docker image of Nextcloud,nextcloud,docker,https://github.com/nextcloud/docker
+2024-12-05,shell,654,4,,overleaf,toolkit,https://github.com/overleaf/toolkit
+2024-12-05,shell,1649,0,Conda recipes for the bioconda channel.,bioconda,bioconda-recipes,https://github.com/bioconda/bioconda-recipes
+2024-12-05,shell,4569,0,Terraform version manager,tfutils,tfenv,https://github.com/tfutils/tfenv
+2024-12-05,shell,3470,1,Bitnami container images,bitnami,containers,https://github.com/bitnami/containers
+2024-12-05,shell,704,0,This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.,aws,aws-mwaa-local-runner,https://github.com/aws/aws-mwaa-local-runner
+2024-12-05,shell,841,9,"Olares: Your Sovereign Cloud, An Open-Source, Self-Hosted Alternative to Public Clouds",beclab,Olares,https://github.com/beclab/Olares
+2024-12-05,shell,6513,0,"Primary source of truth for the Docker ""Official Images"" program",docker-library,official-images,https://github.com/docker-library/official-images
