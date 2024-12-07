@@ -1,0 +1,26 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-07,go,9942,52,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2024-12-07,go,2634,13,Elastic Cloud on Kubernetes,elastic,cloud-on-k8s,https://github.com/elastic/cloud-on-k8s
+2024-12-07,go,6064,4,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2024-12-07,go,8289,4,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2024-12-07,go,6617,6,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,fluxcd,flux2,https://github.com/fluxcd/flux2
+2024-12-07,go,51070,50,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,FiloSottile,mkcert,https://github.com/FiloSottile/mkcert
+2024-12-07,go,13622,66,serve as a reverse proxy to protect your web services from attacks and exploits.,chaitin,SafeLine,https://github.com/chaitin/SafeLine
+2024-12-07,go,2963,14,Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.,gardener,gardener,https://github.com/gardener/gardener
+2024-12-07,go,1251,10,Kubernetes Operator for OpenTelemetry Collector,open-telemetry,opentelemetry-operator,https://github.com/open-telemetry/opentelemetry-operator
+2024-12-07,go,68871,11,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-12-07,go,3833,15,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。,Calcium-Ion,new-api,https://github.com/Calcium-Ion/new-api
+2024-12-07,go,5690,2,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2024-12-07,go,101094,144,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-12-07,go,23603,7,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-12-07,go,24120,14,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-12-07,go,23447,6,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-12-07,go,17043,9,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",go-playground,validator,https://github.com/go-playground/validator
+2024-12-07,go,20410,10,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-12-07,go,9809,1,Go support for Google's protocol buffers,golang,protobuf,https://github.com/golang/protobuf
+2024-12-07,go,31355,9,"A tool for secrets management, encryption as a service, and privileged access management",hashicorp,vault,https://github.com/hashicorp/vault
+2024-12-07,go,15660,5,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-12-07,go,5370,2,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-12-07,go,9549,8,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2024-12-07,go,14425,13,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2024-12-07,go,6296,6,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,google,osv-scanner,https://github.com/google/osv-scanner

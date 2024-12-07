@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-07,rust,86111,63,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-12-07,rust,3143,137,"Space and Time | Proof of SQL",spaceandtimelabs,sxt-proof-of-sql,https://github.com/spaceandtimelabs/sxt-proof-of-sql
+2024-12-07,rust,5471,37,"Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",stalwartlabs,mail-server,https://github.com/stalwartlabs/mail-server
+2024-12-07,rust,77184,75,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",rustdesk,rustdesk,https://github.com/rustdesk/rustdesk
+2024-12-07,rust,21736,18,"Fullstack app framework for web, desktop, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2024-12-07,rust,739,3,"🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage.",mxsm,rocketmq-rust,https://github.com/mxsm/rocketmq-rust
+2024-12-07,rust,29091,4,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2024-12-07,rust,12674,21,⚓ A collection of JavaScript tools written in Rust.,oxc-project,oxc,https://github.com/oxc-project/oxc
+2024-12-07,rust,15361,8,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-12-07,rust,28706,113,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-12-07,rust,2069,36,A GPU-accelerated 2D graphics environment for Node.js,samizdatco,skia-canvas,https://github.com/samizdatco/skia-canvas
+2024-12-07,rust,33447,30,"An extremely fast Python linter and code formatter, written in Rust.",astral-sh,ruff,https://github.com/astral-sh/ruff
+2024-12-07,rust,18333,22,A high-performance observability data pipeline.,vectordotdev,vector,https://github.com/vectordotdev/vector
+2024-12-07,rust,1410,21,"A complement to pgvector for high performance, cost efficient vector search on large workloads.",timescale,pgvectorscale,https://github.com/timescale/pgvectorscale
+2024-12-07,rust,1534,5,"zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.",eclipse-zenoh,zenoh,https://github.com/eclipse-zenoh/zenoh
+2024-12-07,rust,12679,7,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-12-07,rust,13259,10,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2024-12-07,rust,21909,26,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2024-12-07,rust,6887,7,RustDesk Server Program,rustdesk,rustdesk-server,https://github.com/rustdesk/rustdesk-server
+2024-12-07,rust,30764,26,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-12-07,rust,28629,12,"Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",servo,servo,https://github.com/servo/servo
+2024-12-07,rust,16920,32,Build fast web applications with Rust.,leptos-rs,leptos,https://github.com/leptos-rs/leptos
