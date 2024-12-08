@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-08,go,21183,4,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-12-08,go,13840,63,serve as a reverse proxy to protect your web services from attacks and exploits.,chaitin,SafeLine,https://github.com/chaitin/SafeLine
+2024-12-08,go,41424,36,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-12-08,go,68876,6,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-12-08,go,16095,7,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2024-12-08,go,25840,25,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-12-08,go,27413,10,Go configuration with fangs,spf13,viper,https://github.com/spf13/viper
+2024-12-08,go,9184,10,"ZITADEL - Identity infrastructure, simplified for you.",zitadel,zitadel,https://github.com/zitadel/zitadel
+2024-12-08,go,26225,9,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-12-08,go,5691,4,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2024-12-08,go,8298,9,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",moby,buildkit,https://github.com/moby/buildkit
+2024-12-08,go,10851,23,"Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.",semaphoreui,semaphore,https://github.com/semaphoreui/semaphore
+2024-12-08,go,12761,24,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2024-12-08,go,10836,7,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2024-12-08,go,28480,8,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",hashicorp,consul,https://github.com/hashicorp/consul
+2024-12-08,go,20234,3,Redis Go client,redis,go-redis,https://github.com/redis/go-redis
+2024-12-08,go,21972,2,Pulumi - Infrastructure as Code in any programming language 🚀,pulumi,pulumi,https://github.com/pulumi/pulumi
+2024-12-08,go,27160,5,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-12-08,go,34205,9,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2024-12-08,go,15670,12,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-12-08,go,9552,4,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,dexidp,dex,https://github.com/dexidp/dex
+2024-12-08,go,12558,9,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-12-08,go,2640,4,Elastic Cloud on Kubernetes,elastic,cloud-on-k8s,https://github.com/elastic/cloud-on-k8s
