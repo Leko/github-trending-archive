@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-09,lua,15212,22,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-12-09,lua,4518,8,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-12-09,lua,17056,17,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-12-09,lua,5458,8,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-12-09,lua,1575,4,Plugin for calling lazygit from within neovim.,kdheepak,lazygit.nvim,https://github.com/kdheepak/lazygit.nvim
+2024-12-09,lua,1945,2,a lua powered greeter like vim-startify / dashboard-nvim,goolord,alpha-nvim,https://github.com/goolord/alpha-nvim
+2024-12-09,lua,1538,13,"Performant, batteries-included completion plugin for Neovim",Saghen,blink.cmp,https://github.com/Saghen/blink.cmp
+2024-12-09,lua,4058,5,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2024-12-09,lua,20344,26,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-12-09,lua,5717,5,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-12-09,lua,1615,18,☄️ Highly customisable markdown(latex & inline html) previewer for Neovim,OXY2DEV,markview.nvim,https://github.com/OXY2DEV/markview.nvim
+2024-12-09,lua,2419,1,vim dashboard,nvimdev,dashboard-nvim,https://github.com/nvimdev/dashboard-nvim
+2024-12-09,lua,10843,7,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-12-09,lua,386,1,Canary Server 13.x for OpenTibia community.,opentibiabr,canary,https://github.com/opentibiabr/canary
+2024-12-09,lua,379,0,Official Repo For core resources for esx-legacy,esx-framework,esx_core,https://github.com/esx-framework/esx_core
+2024-12-09,lua,1419,1,,xiaorouji,openwrt-passwall2,https://github.com/xiaorouji/openwrt-passwall2
+2024-12-09,lua,2133,1,Provides Nerd Font icons (glyphs) for use by neovim plugins,nvim-tree,nvim-web-devicons,https://github.com/nvim-tree/nvim-web-devicons
+2024-12-09,lua,1261,4,Neovim plugin to generate text using LLMs with customizable prompts,David-Kunz,gen.nvim,https://github.com/David-Kunz/gen.nvim
+2024-12-09,lua,7301,0,A file explorer tree for neovim written in lua,nvim-tree,nvim-tree.lua,https://github.com/nvim-tree/nvim-tree.lua
+2024-12-09,lua,418,1,True coop multiplayer mod for Noita.,IntQuant,noita_entangled_worlds,https://github.com/IntQuant/noita_entangled_worlds

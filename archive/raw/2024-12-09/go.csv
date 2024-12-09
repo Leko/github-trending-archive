@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-09,go,101446,153,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-12-09,go,12835,50,The Open Source Dev Environment Manager.,daytonaio,daytona,https://github.com/daytonaio/daytona
+2024-12-09,go,41620,194,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-12-09,go,26844,41,"🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",mudler,LocalAI,https://github.com/mudler/LocalAI
+2024-12-09,go,1719,37,OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用. Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.,fruitbars,simple-one-api,https://github.com/fruitbars/simple-one-api
+2024-12-09,go,13959,222,serve as a reverse proxy to protect your web services from attacks and exploits.,chaitin,SafeLine,https://github.com/chaitin/SafeLine
+2024-12-09,go,58879,30,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,caddyserver,caddy,https://github.com/caddyserver/caddy
+2024-12-09,go,26022,25,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-12-09,go,34976,21,"An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",usememos,memos,https://github.com/usememos/memos
+2024-12-09,go,13266,8,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2024-12-09,go,66053,15,Open Source Continuous File Synchronization,syncthing,syncthing,https://github.com/syncthing/syncthing
+2024-12-09,go,3454,35,"Lightweight server monitoring hub with historical data, docker stats, and alerts.",henrygd,beszel,https://github.com/henrygd/beszel
+2024-12-09,go,3694,6,Solar Charging ☀️🚘,evcc-io,evcc,https://github.com/evcc-io/evcc
+2024-12-09,go,11162,7,Ebitengine - A dead simple 2D game engine for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2024-12-09,go,9421,5,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2024-12-09,go,25862,31,Network-wide ads & trackers blocking DNS server,AdguardTeam,AdGuardHome,https://github.com/AdguardTeam/AdGuardHome
+2024-12-09,go,4325,6,微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】,go-pay,gopay,https://github.com/go-pay/gopay
+2024-12-09,go,87377,51,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-12-09,go,12776,19,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
