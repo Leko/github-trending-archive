@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-10,rust,30349,434,"An extremely fast Python package and project manager, written in Rust.",astral-sh,uv,https://github.com/astral-sh/uv
+2024-12-10,rust,859,17,The Nexus zkVM: The zero-knowledge virtual machine,nexus-xyz,nexus-zkvm,https://github.com/nexus-xyz/nexus-zkvm
+2024-12-10,rust,11433,534,"dev tools, env vars, task runner",jdx,mise,https://github.com/jdx/mise
+2024-12-10,rust,22421,139,🤖 Just a command runner,casey,just,https://github.com/casey/just
+2024-12-10,rust,17324,100,"💥 Blazing fast terminal file manager written in Rust, based on async I/O.",sxyazi,yazi,https://github.com/sxyazi/yazi
+2024-12-10,rust,692,101,A static analysis tool for GitHub Actions,woodruffw,zizmor,https://github.com/woodruffw/zizmor
+2024-12-10,rust,5655,26,🚂 🦀 The one-person framework for Rust for side-projects and startups,loco-rs,loco,https://github.com/loco-rs/loco
+2024-12-10,rust,86378,134,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-12-10,rust,4911,4,Window handling library in pure Rust,rust-windowing,winit,https://github.com/rust-windowing/winit
+2024-12-10,rust,13387,8,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",solana-labs,solana,https://github.com/solana-labs/solana
+2024-12-10,rust,2017,13,Run web applications on AWS Lambda,awslabs,aws-lambda-web-adapter,https://github.com/awslabs/aws-lambda-web-adapter
+2024-12-10,rust,4231,21,A scrollable-tiling Wayland compositor.,YaLTeR,niri,https://github.com/YaLTeR/niri
+2024-12-10,rust,19520,9,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2024-12-10,rust,20575,13,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2024-12-10,rust,22967,8,All Algorithms implemented in Rust,TheAlgorithms,Rust,https://github.com/TheAlgorithms/Rust
+2024-12-10,rust,18254,19,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2024-12-10,rust,3702,6,A Spotify player in the terminal with full feature parity,aome510,spotify-player,https://github.com/aome510/spotify-player
+2024-12-10,rust,5617,6,Stream VR games from your PC to your headset via Wi-Fi,alvr-org,ALVR,https://github.com/alvr-org/ALVR
+2024-12-10,rust,13346,47,"Hurl, run and test HTTP requests with plain text.",Orange-OpenSource,hurl,https://github.com/Orange-OpenSource/hurl
+2024-12-10,rust,9750,20,A tiling window manager for Windows 🍉,LGUG2Z,komorebi,https://github.com/LGUG2Z/komorebi
+2024-12-10,rust,5959,14,Safe interop between Rust and C++,dtolnay,cxx,https://github.com/dtolnay/cxx
+2024-12-10,rust,1084,29,"TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",tensorzero,tensorzero,https://github.com/tensorzero/tensorzero
+2024-12-10,rust,935,16,"Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.",katanemo,archgw,https://github.com/katanemo/archgw

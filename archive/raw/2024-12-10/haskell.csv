@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-10,haskell,24030,24,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-12-10,haskell,34992,21,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-12-10,haskell,36573,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-12-10,haskell,1581,0,The Plutus language implementation and tools,IntersectMBO,plutus,https://github.com/IntersectMBO/plutus
+2024-12-10,haskell,3078,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-12-10,haskell,2729,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-12-10,haskell,1301,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-12-10,haskell,8600,0,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2024-12-10,haskell,373,0,Haskell implemented with combinators,augustss,MicroHs,https://github.com/augustss/MicroHs
+2024-12-10,haskell,4144,3,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-12-10,haskell,551,2,⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.,simplex-chat,simplexmq,https://github.com/simplex-chat/simplexmq
+2024-12-10,haskell,1630,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-12-10,haskell,212,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-12-10,haskell,2628,1,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2024-12-10,haskell,277,0,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
+2024-12-10,haskell,1202,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2024-12-10,haskell,240,1,"Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]",nix-community,nix-vscode-extensions,https://github.com/nix-community/nix-vscode-extensions
+2024-12-10,haskell,5829,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-12-10,haskell,36,0,Implementation of a Consensus Layer for the Ouroboros family of protocols,IntersectMBO,ouroboros-consensus,https://github.com/IntersectMBO/ouroboros-consensus
+2024-12-10,haskell,458,0,A language for intent-centric and declarative decentralised applications,anoma,juvix,https://github.com/anoma/juvix

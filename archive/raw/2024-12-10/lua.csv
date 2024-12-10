@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-10,lua,17149,47,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-12-10,lua,20367,24,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-12-10,lua,10851,6,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-12-10,lua,15229,18,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-12-10,lua,4520,2,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",folke,noice.nvim,https://github.com/folke/noice.nvim
+2024-12-10,lua,6511,3,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-12-10,lua,5464,2,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2024-12-10,lua,3424,2,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-12-10,lua,16209,20,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-12-10,lua,5719,2,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-12-10,lua,3194,5,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-12-10,lua,7346,28,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2024-12-10,lua,3410,9,A language server that offers Lua language support - programmed in Lua,LuaLS,lua-language-server,https://github.com/LuaLS/lua-language-server
+2024-12-10,lua,8036,6,"Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",williamboman,mason.nvim,https://github.com/williamboman/mason.nvim
+2024-12-10,lua,8188,7,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-12-10,lua,4330,6,Obsidian 🤝 Neovim,epwalsh,obsidian.nvim,https://github.com/epwalsh/obsidian.nvim
+2024-12-10,lua,1836,3,🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
