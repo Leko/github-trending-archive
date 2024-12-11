@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-11,go,102095,335,"Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-12-11,go,12808,17,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+2024-12-11,go,14475,30,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2024-12-11,go,13142,151,The Open Source Dev Environment Manager.,daytonaio,daytona,https://github.com/daytonaio/daytona
+2024-12-11,go,22566,14,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-12-11,go,41998,198,Open Source realtime backend in 1 file,pocketbase,pocketbase,https://github.com/pocketbase/pocketbase
+2024-12-11,go,10403,6,Fast passive subdomain enumeration tool.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2024-12-11,go,23971,19,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-12-11,go,11354,9,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-12-11,go,17746,18,"The easiest, and most secure way to access and protect all of your infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2024-12-11,go,56200,7,The Prometheus monitoring system and time series database.,prometheus,prometheus,https://github.com/prometheus/prometheus
+2024-12-11,go,12733,11,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-12-11,go,38541,17,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-12-11,go,5728,4,Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron,go-co-op,gocron,https://github.com/go-co-op/gocron
+2024-12-11,go,12459,9,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2024-12-11,go,10730,9,Zero Allocation JSON Logger,rs,zerolog,https://github.com/rs/zerolog
+2024-12-11,go,12722,14,unclutter your .profile,direnv,direnv,https://github.com/direnv/direnv
+2024-12-11,go,20972,15,"Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",projectdiscovery,nuclei,https://github.com/projectdiscovery/nuclei
+2024-12-11,go,12602,16,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-12-11,go,21829,18,🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。,flipped-aurora,gin-vue-admin,https://github.com/flipped-aurora/gin-vue-admin
+2024-12-11,go,6716,5,Prometheus Alertmanager,prometheus,alertmanager,https://github.com/prometheus/alertmanager
+2024-12-11,go,6054,4,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2024-12-11,go,10484,1,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
