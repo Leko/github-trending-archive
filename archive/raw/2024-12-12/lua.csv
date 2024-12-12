@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-12,lua,39473,17,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-12-12,lua,17277,17,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-12-12,lua,1755,70,☄️ Highly customisable markdown(latex & inline html) previewer for Neovim,OXY2DEV,markview.nvim,https://github.com/OXY2DEV/markview.nvim
+2024-12-12,lua,3969,2,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2024-12-12,lua,7744,23,Use your Neovim like using Cursor AI IDE!,yetone,avante.nvim,https://github.com/yetone/avante.nvim
+2024-12-12,lua,8202,8,A completion plugin for neovim coded in Lua.,hrsh7th,nvim-cmp,https://github.com/hrsh7th/nvim-cmp
+2024-12-12,lua,16239,16,"Find, Filter, Preview, Pick. All lua, all the time.",nvim-telescope,telescope.nvim,https://github.com/nvim-telescope/telescope.nvim
+2024-12-12,lua,10870,7,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-12-12,lua,1323,0,nvim-cmp source for neovim builtin LSP client,hrsh7th,cmp-nvim-lsp,https://github.com/hrsh7th/cmp-nvim-lsp
+2024-12-12,lua,20416,25,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-12-12,lua,472,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2024-12-12,lua,6328,5,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,nvim-lualine,lualine.nvim,https://github.com/nvim-lualine/lualine.nvim
+2024-12-12,lua,1683,1,UI Component Library for Neovim.,MunifTanjim,nui.nvim,https://github.com/MunifTanjim/nui.nvim
+2024-12-12,lua,4162,9,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2024-12-12,lua,2647,3,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2024-12-12,lua,3436,1,Get your data in RAM. Get compute close to data. Enjoy the performance.,tarantool,tarantool,https://github.com/tarantool/tarantool
+2024-12-12,lua,12430,3,"Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.",junyanz,CycleGAN,https://github.com/junyanz/CycleGAN
+2024-12-12,lua,271,0,"An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",mehah,otclient,https://github.com/mehah/otclient
+2024-12-12,lua,3324,2,autopairs for neovim written in lua,windwp,nvim-autopairs,https://github.com/windwp/nvim-autopairs
+2024-12-12,lua,1241,2,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-12-12,lua,5444,2,📚 A Neovim config designed from scratch to be understandable,LunarVim,Neovim-from-scratch,https://github.com/LunarVim/Neovim-from-scratch

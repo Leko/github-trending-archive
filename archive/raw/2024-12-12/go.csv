@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-12,go,18773,14,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2024-12-12,go,9443,13,Cloudflare Tunnel client (formerly Argo Tunnel),cloudflare,cloudflared,https://github.com/cloudflare/cloudflared
+2024-12-12,go,3090,4,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",openbao,openbao,https://github.com/openbao/openbao
+2024-12-12,go,17630,5,Ingress NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2024-12-12,go,13167,41,The Open Source Dev Environment Manager.,daytonaio,daytona,https://github.com/daytonaio/daytona
+2024-12-12,go,47874,10,Go implementation of the Ethereum protocol,ethereum,go-ethereum,https://github.com/ethereum/go-ethereum
+2024-12-12,go,7020,12,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-12-12,go,22159,4,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-12-12,go,7779,2,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",kubernetes-sigs,external-dns,https://github.com/kubernetes-sigs/external-dns
+2024-12-12,go,17756,10,"The easiest, and most secure way to access and protect all of your infrastructure.",gravitational,teleport,https://github.com/gravitational/teleport
+2024-12-12,go,17540,20,"Find, verify, and analyze leaked credentials",trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-12-12,go,6069,3,Cloud native networking and network security,projectcalico,calico,https://github.com/projectcalico/calico
+2024-12-12,go,20087,31,Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),slimtoolkit,slim,https://github.com/slimtoolkit/slim
+2024-12-12,go,25900,25,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-12-12,go,1896,3,"NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",NVIDIA,gpu-operator,https://github.com/NVIDIA/gpu-operator
+2024-12-12,go,10182,17,"Simple, reliable, and efficient distributed task queue in Go",hibiken,asynq,https://github.com/hibiken/asynq
+2024-12-12,go,6662,24,⛑ Automated developer-oriented status page,TwiN,gatus,https://github.com/TwiN/gatus
+2024-12-12,go,45592,38,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-12-12,go,23989,17,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy
+2024-12-12,go,37582,32,GitHub’s official command line tool,cli,cli,https://github.com/cli/cli
+2024-12-12,go,7126,4,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,aquasecurity,kube-bench,https://github.com/aquasecurity/kube-bench
+2024-12-12,go,20438,9,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
