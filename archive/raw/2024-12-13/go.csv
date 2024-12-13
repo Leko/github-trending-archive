@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-13,go,8148,12,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-12-13,go,22008,10,Pulumi - Infrastructure as Code in any programming language 🚀,pulumi,pulumi,https://github.com/pulumi/pulumi
+2024-12-13,go,28490,13,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-12-13,go,26694,56,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2024-12-13,go,5708,9,"Optimism is Ethereum, scaled.",ethereum-optimism,optimism,https://github.com/ethereum-optimism/optimism
+2024-12-13,go,4522,18,微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】,go-pay,gopay,https://github.com/go-pay/gopay
+2024-12-13,go,19804,23,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale
+2024-12-13,go,17559,20,"Find, verify, and analyze leaked credentials",trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-12-13,go,12767,12,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics
+2024-12-13,go,3809,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-12-13,go,36226,7,"Connect, secure, control, and observe services.",istio,istio,https://github.com/istio/istio
+2024-12-13,go,1904,10,"NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",NVIDIA,gpu-operator,https://github.com/NVIDIA/gpu-operator
+2024-12-13,go,43219,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-12-13,go,11366,2,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-12-13,go,2809,3,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2024-12-13,go,6091,24,Manage your database schema as code,ariga,atlas,https://github.com/ariga/atlas
+2024-12-13,go,7030,13,Talos Linux is a modern Linux distribution built for Kubernetes.,siderolabs,talos,https://github.com/siderolabs/talos
+2024-12-13,go,1507,1,Kubernetes-native Job Queueing,kubernetes-sigs,kueue,https://github.com/kubernetes-sigs/kueue
+2024-12-13,go,24368,12,"An open source trusted cloud native registry project that stores, signs, and scans content.",goharbor,harbor,https://github.com/goharbor/harbor
+2024-12-13,go,4548,3,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-12-13,go,24002,15,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",aquasecurity,trivy,https://github.com/aquasecurity/trivy

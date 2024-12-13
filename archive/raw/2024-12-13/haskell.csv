@@ -1,0 +1,14 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-13,haskell,212,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-12-13,haskell,27,4,"An intuitive, dynamically-typed DataFrame library.",mchav,dataframe,https://github.com/mchav/dataframe
+2024-12-13,haskell,36589,9,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-12-13,haskell,194,0,"Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer",haskell-suite,haskell-src-exts,https://github.com/haskell-suite/haskell-src-exts
+2024-12-13,haskell,1203,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2024-12-13,haskell,1629,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-12-13,haskell,10520,1,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-12-13,haskell,5835,3,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-12-13,haskell,35022,11,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-12-13,haskell,3079,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-12-13,haskell,2728,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-12-13,haskell,1302,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2024-12-13,haskell,277,1,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
