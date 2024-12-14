@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-14,rust,22721,151,"Fullstack app framework for web, desktop, mobile, and more.",DioxusLabs,dioxus,https://github.com/DioxusLabs/dioxus
+2024-12-14,rust,4755,1236,"Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",tursodatabase,limbo,https://github.com/tursodatabase/limbo
+2024-12-14,rust,216,14,High-performance interface for supplying compute to the Nexus network.,nexus-xyz,network-api,https://github.com/nexus-xyz/network-api
+2024-12-14,rust,53216,22,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",lencx,ChatGPT,https://github.com/lencx/ChatGPT
+2024-12-14,rust,834,190,"⚙️🦀 Build portable, modular & lightweight Fullstack Agents",0xPlaygrounds,rig,https://github.com/0xPlaygrounds/rig
+2024-12-14,rust,1978,146,The Nexus zkVM: The zero-knowledge virtual machine,nexus-xyz,nexus-zkvm,https://github.com/nexus-xyz/nexus-zkvm
+2024-12-14,rust,9698,39,A Git-compatible VCS that is both simple and powerful,martinvonz,jj,https://github.com/martinvonz/jj
+2024-12-14,rust,39855,39,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",dani-garcia,vaultwarden,https://github.com/dani-garcia/vaultwarden
+2024-12-14,rust,8397,2,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",foundry-rs,foundry,https://github.com/foundry-rs/foundry
+2024-12-14,rust,10539,9,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2024-12-14,rust,1109,276,A static analysis tool for GitHub Actions,woodruffw,zizmor,https://github.com/woodruffw/zizmor
+2024-12-14,rust,4953,9,"Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!",lancedb,lancedb,https://github.com/lancedb/lancedb
+2024-12-14,rust,20680,38,"Multi functional app to find duplicates, empty folders, similar images etc.",qarmin,czkawka,https://github.com/qarmin/czkawka
+2024-12-14,rust,57965,4,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2024-12-14,rust,343,4,solana geyser grpc service,rpcpool,yellowstone-grpc,https://github.com/rpcpool/yellowstone-grpc
+2024-12-14,rust,19569,13,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper",tokio-rs,axum,https://github.com/tokio-rs/axum
+2024-12-14,rust,15387,5,"Distributed transactional key-value database, originally created to complement TiDB",tikv,tikv,https://github.com/tikv/tikv
+2024-12-14,rust,20974,15,"Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",qdrant,qdrant,https://github.com/qdrant/qdrant
+2024-12-14,rust,15802,20,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",biomejs,biome,https://github.com/biomejs/biome
+2024-12-14,rust,6306,6,A modern TLS library in Rust,rustls,rustls,https://github.com/rustls/rustls
+2024-12-14,rust,4704,3,"A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",awslabs,mountpoint-s3,https://github.com/awslabs/mountpoint-s3
+2024-12-14,rust,12711,5,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-12-14,rust,701,11,📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim,mistricky,codesnap.nvim,https://github.com/mistricky/codesnap.nvim

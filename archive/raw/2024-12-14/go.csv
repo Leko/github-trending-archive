@@ -1,0 +1,22 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-14,go,8209,11,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-12-14,go,26751,73,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2024-12-14,go,9474,9,Better structured concurrency for go,sourcegraph,conc,https://github.com/sourcegraph/conc
+2024-12-14,go,6918,7,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",aws,karpenter-provider-aws,https://github.com/aws/karpenter-provider-aws
+2024-12-14,go,6699,8,⛑ Automated developer-oriented status page,TwiN,gatus,https://github.com/TwiN/gatus
+2024-12-14,go,79434,23,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-12-14,go,3111,4,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",openbao,openbao,https://github.com/openbao/openbao
+2024-12-14,go,48053,8,Distributed reliable key-value store for the most critical data of a distributed system,etcd-io,etcd,https://github.com/etcd-io/etcd
+2024-12-14,go,87645,48,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-12-14,go,20468,9,"eBPF-based Networking, Security, and Observability",cilium,cilium,https://github.com/cilium/cilium
+2024-12-14,go,11784,8,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2024-12-14,go,134346,72,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-12-14,go,111688,29,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-12-14,go,17656,10,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-12-14,go,4299,2,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-12-14,go,6126,36,Manage your database schema as code,ariga,atlas,https://github.com/ariga/atlas
+2024-12-14,go,27182,8,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-12-14,go,10016,6,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",oauth2-proxy,oauth2-proxy,https://github.com/oauth2-proxy/oauth2-proxy
+2024-12-14,go,38482,33,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2024-12-14,go,17577,16,"Find, verify, and analyze leaked credentials",trufflesecurity,trufflehog,https://github.com/trufflesecurity/trufflehog
+2024-12-14,go,11629,4,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
