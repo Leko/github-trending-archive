@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-15,go,45770,45,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-12-15,go,31293,18,"A cloud-native vector database, storage for next generation AI applications",milvus-io,milvus,https://github.com/milvus-io/milvus
+2024-12-15,go,18654,65,D2 is a modern diagram scripting language that turns text to diagrams.,terrastruct,d2,https://github.com/terrastruct/d2
+2024-12-15,go,12255,12,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-12-15,go,34321,16,⚡️ Express inspired web framework written in Go,gofiber,fiber,https://github.com/gofiber/fiber
+2024-12-15,go,111702,20,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-12-15,go,17204,6,Simple and flexible tool for managing secrets,getsops,sops,https://github.com/getsops/sops
+2024-12-15,go,26784,42,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2024-12-15,go,8251,70,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-12-15,go,3944,17,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.,Calcium-Ion,new-api,https://github.com/Calcium-Ion/new-api
+2024-12-15,go,11716,19,A task runner / simpler Make alternative written in Go,go-task,task,https://github.com/go-task/task
+2024-12-15,go,5719,3,TUI components for Bubble Tea 🫧,charmbracelet,bubbles,https://github.com/charmbracelet/bubbles
+2024-12-15,go,20270,22,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2024-12-15,go,28527,15,A powerful little TUI framework 🏗,charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea
+2024-12-15,go,6139,19,Manage your database schema as code,ariga,atlas,https://github.com/ariga/atlas
+2024-12-15,go,22031,9,Pulumi - Infrastructure as Code in any programming language 🚀,pulumi,pulumi,https://github.com/pulumi/pulumi
+2024-12-15,go,87685,46,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-12-15,go,27182,3,The Kubernetes Package Manager,helm,helm,https://github.com/helm/helm
+2024-12-15,go,11794,11,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2024-12-15,go,15413,49,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",apernet,hysteria,https://github.com/apernet/hysteria
+2024-12-15,go,5389,2,OpenTelemetry Go API and SDK,open-telemetry,opentelemetry-go,https://github.com/open-telemetry/opentelemetry-go
+2024-12-15,go,16131,2,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2024-12-15,go,11585,4,An engine to run your pipelines in containers,dagger,dagger,https://github.com/dagger/dagger
