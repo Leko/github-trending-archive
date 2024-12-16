@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-16,go,3980,39,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.,Calcium-Ion,new-api,https://github.com/Calcium-Ion/new-api
+2024-12-16,go,29878,13,A platform for building proxies to bypass network restrictions.,v2fly,v2ray-core,https://github.com/v2fly/v2ray-core
+2024-12-16,go,8256,7,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,gruntwork-io,terragrunt,https://github.com/gruntwork-io/terragrunt
+2024-12-16,go,45847,149,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",go-gitea,gitea,https://github.com/go-gitea/gitea
+2024-12-16,go,22042,15,Pulumi - Infrastructure as Code in any programming language 🚀,pulumi,pulumi,https://github.com/pulumi/pulumi
+2024-12-16,go,18690,49,D2 is a modern diagram scripting language that turns text to diagrams.,terrastruct,d2,https://github.com/terrastruct/d2
+2024-12-16,go,2146,1,Go implementation of an Avalanche node.,ava-labs,avalanchego,https://github.com/ava-labs/avalanchego
+2024-12-16,go,3165,3,Ethereum implementation on the efficiency frontier https://erigon.gitbook.io,erigontech,erigon,https://github.com/erigontech/erigon
+2024-12-16,go,5167,11,Community managed domain list. Generate geosite.dat for V2Ray.,v2fly,domain-list-community,https://github.com/v2fly/domain-list-community
+2024-12-16,go,20281,15,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,XIU2,CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest
+2024-12-16,go,26128,20,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-12-16,go,11207,11,Ebitengine - A dead simple 2D game engine for Go,hajimehoshi,ebiten,https://github.com/hajimehoshi/ebiten
+2024-12-16,go,124594,16,The Go programming language,golang,go,https://github.com/golang/go
+2024-12-16,go,12258,2,Automatically provision and manage TLS certificates in Kubernetes,cert-manager,cert-manager,https://github.com/cert-manager/cert-manager
+2024-12-16,go,26811,39,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",IceWhaleTech,CasaOS,https://github.com/IceWhaleTech/CasaOS
+2024-12-16,go,20737,19,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-12-16,go,11634,0,Sarama is a Go library for Apache Kafka.,IBM,sarama,https://github.com/IBM/sarama
+2024-12-16,go,134446,72,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-12-16,go,7020,46,"DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",DiceDB,dice,https://github.com/DiceDB/dice
+2024-12-16,go,19841,9,"The easiest, most secure way to use WireGuard and 2FA.",tailscale,tailscale,https://github.com/tailscale/tailscale

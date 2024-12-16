@@ -1,0 +1,16 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-16,haskell,35050,9,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-12-16,haskell,4154,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-12-16,haskell,2533,0,Agda is a dependently typed programming language / interactive theorem prover.,agda,agda,https://github.com/agda/agda
+2024-12-16,haskell,212,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-12-16,haskell,1204,0,Liquid Types For Haskell,ucsd-progsys,liquidhaskell,https://github.com/ucsd-progsys/liquidhaskell
+2024-12-16,haskell,1580,0,The Plutus language implementation and tools,IntersectMBO,plutus,https://github.com/IntersectMBO/plutus
+2024-12-16,haskell,263,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-12-16,haskell,557,2,⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.,simplex-chat,simplexmq,https://github.com/simplex-chat/simplexmq
+2024-12-16,haskell,3081,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-12-16,haskell,36604,7,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-12-16,haskell,305,0,flashcard TUI with markdown cards,Yvee1,hascard,https://github.com/Yvee1/hascard
+2024-12-16,haskell,1630,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-12-16,haskell,2729,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-12-16,haskell,277,0,Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.,IntersectMBO,ouroboros-network,https://github.com/IntersectMBO/ouroboros-network
+2024-12-16,haskell,3091,2,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
