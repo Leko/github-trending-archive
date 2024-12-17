@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-17,lua,1931,138,"Performant, batteries-included completion plugin for Neovim",Saghen,blink.cmp,https://github.com/Saghen/blink.cmp
+2024-12-17,lua,18101,135,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-12-17,lua,10357,47,🔥 A cross-platform build utility based on Lua,xmake-io,xmake,https://github.com/xmake-io/xmake
+2024-12-17,lua,5555,8,"💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",folke,which-key.nvim,https://github.com/folke/which-key.nvim
+2024-12-17,lua,10899,8,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-12-17,lua,4080,4,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2024-12-17,lua,39548,30,🦍 The Cloud-Native API Gateway and AI Gateway.,Kong,kong,https://github.com/Kong/kong
+2024-12-17,lua,1862,5,🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim,mrcjkb,rustaceanvim,https://github.com/mrcjkb/rustaceanvim
+2024-12-17,lua,390,3,Debugging in NeoVim the print() way!,andrewferrier,debugprint.nvim,https://github.com/andrewferrier/debugprint.nvim
+2024-12-17,lua,379,0,Official Repo For core resources for esx-legacy,esx-framework,esx_core,https://github.com/esx-framework/esx_core
+2024-12-17,lua,1189,2,A Neovim plugin enabling you to solve LeetCode problems.,kawre,leetcode.nvim,https://github.com/kawre/leetcode.nvim
+2024-12-17,lua,6533,4,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",folke,tokyonight.nvim,https://github.com/folke/tokyonight.nvim
+2024-12-17,lua,17331,11,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-12-17,lua,863,3,Interactive database client for neovim,kndndrj,nvim-dbee,https://github.com/kndndrj/nvim-dbee
+2024-12-17,lua,6471,3,My personal dotfiles,craftzdog,dotfiles-public,https://github.com/craftzdog/dotfiles-public
+2024-12-17,lua,474,0,Slot-based inventory with metadata.,overextended,ox_inventory,https://github.com/overextended/ox_inventory
+2024-12-17,lua,15354,27,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2024-12-17,lua,1033,4,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2024-12-17,lua,5753,3,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
