@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-18,go,87910,75,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-12-18,go,22678,17,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-12-18,go,4612,12,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-12-18,go,18203,21,"💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",samber,lo,https://github.com/samber/lo
+2024-12-18,go,14001,23,"Release engineering, simplified",goreleaser,goreleaser,https://github.com/goreleaser/goreleaser
+2024-12-18,go,7279,165,"DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",DiceDB,dice,https://github.com/DiceDB/dice
+2024-12-18,go,14261,32,IM Chat ChatGPT,openimsdk,open-im-server,https://github.com/openimsdk/open-im-server
+2024-12-18,go,3041,0,[mirror] Go supplementary cryptography libraries,golang,crypto,https://github.com/golang/crypto
+2024-12-18,go,2383,1,GoMock is a mocking framework for the Go programming language.,uber-go,mock,https://github.com/uber-go/mock
+2024-12-18,go,26165,23,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-12-18,go,1090,3,Heterogeneous AI Computing Virtualization Middleware,Project-HAMi,HAMi,https://github.com/Project-HAMi/HAMi
+2024-12-18,go,9789,4,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",open-policy-agent,opa,https://github.com/open-policy-agent/opa
+2024-12-18,go,124638,24,The Go programming language,golang,go,https://github.com/golang/go
+2024-12-18,go,23669,7,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-12-18,go,23261,11,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",seaweedfs,seaweedfs,https://github.com/seaweedfs/seaweedfs
+2024-12-18,go,10882,14,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-12-18,go,10507,5,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2024-12-18,go,16422,4,general purpose extensions to golang's database/sql,jmoiron,sqlx,https://github.com/jmoiron/sqlx
+2024-12-18,go,5456,2,Prometheus instrumentation library for Go applications,prometheus,client_golang,https://github.com/prometheus/client_golang
+2024-12-18,go,18782,4,"lightweight, idiomatic and composable router for building Go HTTP services",go-chi,chi,https://github.com/go-chi/chi
+2024-12-18,go,9162,1,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2024-12-18,go,15740,6,Database migrations. CLI and Golang library.,golang-migrate,migrate,https://github.com/golang-migrate/migrate
+2024-12-18,go,22191,7,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-12-18,go,6340,1,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
