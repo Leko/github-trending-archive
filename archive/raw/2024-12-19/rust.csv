@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-19,rust,14710,36,An HTTP library for Rust,hyperium,hyper,https://github.com/hyperium/hyper
+2024-12-19,rust,16077,10,Minimalist ML framework for Rust,huggingface,candle,https://github.com/huggingface/candle
+2024-12-19,rust,6352,20,"A self-paced course to learn Rust, one exercise at a time.",mainmatter,100-exercises-to-learn-rust,https://github.com/mainmatter/100-exercises-to-learn-rust
+2024-12-19,rust,57978,2,Rust full node implementation of the Fuel v2 protocol.,FuelLabs,fuel-core,https://github.com/FuelLabs/fuel-core
+2024-12-19,rust,7146,3,"Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch. PostgreSQL compatible.",risingwavelabs,risingwave,https://github.com/risingwavelabs/risingwave
+2024-12-19,rust,2575,14,"Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust",juhaku,utoipa,https://github.com/juhaku/utoipa
+2024-12-19,rust,2992,0,Ethereum consensus client in Rust,sigp,lighthouse,https://github.com/sigp/lighthouse
+2024-12-19,rust,4022,5,"Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",lancedb,lance,https://github.com/lancedb/lance
+2024-12-19,rust,12740,14,"An open source payments switch written in Rust to make payments fast, reliable and affordable",juspay,hyperswitch,https://github.com/juspay/hyperswitch
+2024-12-19,rust,18719,15,"🚀 Fast and simple Node.js version manager, built in Rust",Schniz,fnm,https://github.com/Schniz/fnm
+2024-12-19,rust,4669,3,The Rust Implementation of the libp2p networking stack.,libp2p,rust-libp2p,https://github.com/libp2p/rust-libp2p
+2024-12-19,rust,30971,26,"Dataframes powered by a multithreaded, vectorized query engine, written in Rust",pola-rs,polars,https://github.com/pola-rs/polars
+2024-12-19,rust,15481,20,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",neondatabase,neon,https://github.com/neondatabase/neon
+2024-12-19,rust,3951,24,A network diagnostic tool,fujiapple852,trippy,https://github.com/fujiapple852/trippy
+2024-12-19,rust,11564,6,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/,rust-lang,rust-clippy,https://github.com/rust-lang/rust-clippy
+2024-12-19,rust,10805,7,Rust for Windows,microsoft,windows-rs,https://github.com/microsoft/windows-rs
+2024-12-19,rust,487,12,Play chess from your terminal 🦀,thomas-mauran,chess-tui,https://github.com/thomas-mauran/chess-tui
+2024-12-19,rust,26504,37,The user-friendly command line shell.,fish-shell,fish-shell,https://github.com/fish-shell/fish-shell
+2024-12-19,rust,3366,15,Improve keyboard comfort and usability with advanced customization,jtroo,kanata,https://github.com/jtroo/kanata
+2024-12-19,rust,6482,4,Apache DataFusion SQL Query Engine,apache,datafusion,https://github.com/apache/datafusion
+2024-12-19,rust,29160,10,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2024-12-19,rust,453,15,"A fast, simple TUI for interacting with systemd services and their logs",rgwood,systemctl-tui,https://github.com/rgwood/systemctl-tui

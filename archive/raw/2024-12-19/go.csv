@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-19,go,10944,8,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2024-12-19,go,88060,194,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-12-19,go,2405,0,Terraform Provider for Google Cloud Platform,hashicorp,terraform-provider-google,https://github.com/hashicorp/terraform-provider-google
+2024-12-19,go,3044,6,[mirror] Go supplementary cryptography libraries,golang,crypto,https://github.com/golang/crypto
+2024-12-19,go,76533,26,The world’s fastest framework for building websites.,gohugoio,hugo,https://github.com/gohugoio/hugo
+2024-12-19,go,5521,1,A Chrome DevTools Protocol driver for web automation and scraping.,go-rod,rod,https://github.com/go-rod/rod
+2024-12-19,go,14589,5,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,go-sql-driver,mysql,https://github.com/go-sql-driver/mysql
+2024-12-19,go,23559,3,Complete container management platform,rancher,rancher,https://github.com/rancher/rancher
+2024-12-19,go,6341,1,⛓️ A Framework for Building High Value Public Blockchains ✨,cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk
+2024-12-19,go,22747,105,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-12-19,go,24189,9,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2024-12-19,go,4646,58,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-12-19,go,4718,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",trustwallet,assets,https://github.com/trustwallet/assets
+2024-12-19,go,7308,35,"DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",DiceDB,dice,https://github.com/DiceDB/dice
+2024-12-19,go,68903,6,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-12-19,go,22193,7,"Blazing fast, structured, leveled logging in Go.",uber-go,zap,https://github.com/uber-go/zap
+2024-12-19,go,9184,0,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,prometheus-operator,prometheus-operator,https://github.com/prometheus-operator/prometheus-operator
+2024-12-19,go,11207,9,"A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",chromedp,chromedp,https://github.com/chromedp/chromedp
+2024-12-19,go,7777,4,A Kubernetes controller and tool for one-way encrypted Secrets,bitnami-labs,sealed-secrets,https://github.com/bitnami-labs/sealed-secrets
+2024-12-19,go,66357,39,🌸 A command-line fuzzy finder,junegunn,fzf,https://github.com/junegunn/fzf
+2024-12-19,go,12703,10,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",bluenviron,mediamtx,https://github.com/bluenviron/mediamtx
+2024-12-19,go,4577,5,Code signing and transparency for containers and binaries,sigstore,cosign,https://github.com/sigstore/cosign
+2024-12-19,go,25880,29,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
