@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-20,r,2324,4,R toolkit for single cell genomics,satijalab,seurat,https://github.com/satijalab/seurat
+2024-12-20,r,580,0,Inferring CNV from Single-Cell RNA-Seq,broadinstitute,infercnv,https://github.com/broadinstitute/infercnv
+2024-12-20,r,649,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",sqjin,CellChat,https://github.com/sqjin/CellChat
+2024-12-20,r,536,0,"Fast, sensitive and accurate integration of single-cell data with Harmony",immunogenomics,harmony,https://github.com/immunogenomics/harmony
+2024-12-20,r,312,1,Community-provided extensions to Seurat,satijalab,seurat-wrappers,https://github.com/satijalab/seurat-wrappers
+2024-12-20,r,1023,0,renv: Project environments for R.,rstudio,renv,https://github.com/rstudio/renv
+2024-12-20,r,390,0,ArchR : Analysis of Regulatory Chromatin in R (www.ArchRProject.com),GreenleafLab,ArchR,https://github.com/GreenleafLab/ArchR
+2024-12-20,r,6566,2,An implementation of the Grammar of Graphics in R,tidyverse,ggplot2,https://github.com/tidyverse/ggplot2
+2024-12-20,r,329,2,Tidy Plots for Scientific Papers,jbengler,tidyplots,https://github.com/jbengler/tidyplots
+2024-12-20,r,425,1,R package for detecting doublets in single-cell RNA sequencing data,chris-mcginnis-ucsf,DoubletFinder,https://github.com/chris-mcginnis-ucsf/DoubletFinder
+2024-12-20,r,155,0,Interfaces for HDF5-based Single Cell File Formats,mojaveazure,seurat-disk,https://github.com/mojaveazure/seurat-disk
+2024-12-20,r,1147,0,'ggplot2' Based Publication Ready Plots,kassambara,ggpubr,https://github.com/kassambara/ggpubr
+2024-12-20,r,589,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",joey711,phyloseq,https://github.com/joey711/phyloseq
+2024-12-20,r,499,1,NicheNet: predict active ligand-target links between interacting cells,saeyslab,nichenetr,https://github.com/saeyslab/nichenetr
+2024-12-20,r,341,1,R toolkit for the analysis of single-cell chromatin data,stuart-lab,signac,https://github.com/stuart-lab/signac
+2024-12-20,r,338,0,"Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs",r-lib,remotes,https://github.com/r-lib/remotes

@@ -1,0 +1,25 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-20,go,88189,79,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-12-20,go,23559,27,"🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.",1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-12-20,go,11016,117,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2024-12-20,go,43272,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2024-12-20,go,25907,42,Create beautiful applications using Go,wailsapp,wails,https://github.com/wailsapp/wails
+2024-12-20,go,17690,9,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2024-12-20,go,8507,7,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-12-20,go,23682,9,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-12-20,go,4654,6,OpenTelemetry Collector,open-telemetry,opentelemetry-collector,https://github.com/open-telemetry/opentelemetry-collector
+2024-12-20,go,22762,14,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",gorilla,websocket,https://github.com/gorilla/websocket
+2024-12-20,go,54321,32,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-12-20,go,38625,12,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2024-12-20,go,26321,10,"A modern load testing tool, using Go and JavaScript - https://k6.io",grafana,k6,https://github.com/grafana/k6
+2024-12-20,go,12511,12,"yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",mikefarah,yq,https://github.com/mikefarah/yq
+2024-12-20,go,17665,4,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",FiloSottile,age,https://github.com/FiloSottile/age
+2024-12-20,go,1533,6,OpenTelemetry Collector distribution with programmable pipelines,grafana,alloy,https://github.com/grafana/alloy
+2024-12-20,go,10902,10,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-12-20,go,4524,7,Fast JSON serializer for golang.,mailru,easyjson,https://github.com/mailru/easyjson
+2024-12-20,go,906,1,The AMM Laboratory,osmosis-labs,osmosis,https://github.com/osmosis-labs/osmosis
+2024-12-20,go,111833,32,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2024-12-20,go,3816,0,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2024-12-20,go,12481,7,Storage Orchestration for Kubernetes,rook,rook,https://github.com/rook/rook
+2024-12-20,go,26210,26,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-12-20,go,4813,4,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller
