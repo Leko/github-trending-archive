@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-22,go,23828,75,"🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.",1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2024-12-22,go,88365,43,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,fatedier,frp,https://github.com/fatedier/frp
+2024-12-22,go,21236,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-12-22,go,11023,15,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2024-12-22,go,18218,10,Declarative Continuous Deployment for Kubernetes,argoproj,argo-cd,https://github.com/argoproj/argo-cd
+2024-12-22,go,103788,109,"Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-12-22,go,30288,4,"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",cockroachdb,cockroach,https://github.com/cockroachdb/cockroach
+2024-12-22,go,7240,1,🧟 The modern PHP app server,dunglas,frankenphp,https://github.com/dunglas/frankenphp
+2024-12-22,go,23494,5,Your ultimate Go microservices framework for the cloud-native era.,go-kratos,kratos,https://github.com/go-kratos/kratos
+2024-12-22,go,11567,16,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",netbirdio,netbird,https://github.com/netbirdio/netbird
+2024-12-22,go,8346,8,Style definitions for nice terminal layouts 👄,charmbracelet,lipgloss,https://github.com/charmbracelet/lipgloss
+2024-12-22,go,10936,18,End-to-end stack for WebRTC. SFU media server and SDKs.,livekit,livekit,https://github.com/livekit/livekit
+2024-12-22,go,1638,36,A JWT based API for managing users and issuing JWT tokens,supabase,auth,https://github.com/supabase/auth
+2024-12-22,go,2595,1,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),kubernetes-sigs,controller-runtime,https://github.com/kubernetes-sigs/controller-runtime
+2024-12-22,go,4310,0,A Cloud Native Batch System (Project under CNCF),volcano-sh,volcano,https://github.com/volcano-sh/volcano
+2024-12-22,go,10264,3,A QUIC implementation in pure Go,quic-go,quic-go,https://github.com/quic-go/quic-go
+2024-12-22,go,79534,7,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-12-22,go,15044,3,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",hashicorp,nomad,https://github.com/hashicorp/nomad
+2024-12-22,go,2821,0,Progressive Delivery for Kubernetes,argoproj,argo-rollouts,https://github.com/argoproj/argo-rollouts
+2024-12-22,go,23693,6,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2024-12-22,go,8529,5,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2024-12-22,go,3735,3,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",testcontainers,testcontainers-go,https://github.com/testcontainers/testcontainers-go
+2024-12-22,go,12491,18,🎧☁️ Your Personal Streaming Service,navidrome,navidrome,https://github.com/navidrome/navidrome
