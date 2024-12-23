@@ -1,0 +1,21 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-23,lua,3229,2,,josean-dev,dev-environment-files,https://github.com/josean-dev/dev-environment-files
+2024-12-23,lua,3450,4,,ThePrimeagen,init.lua,https://github.com/ThePrimeagen/init.lua
+2024-12-23,lua,20658,23,A launch point for your personal nvim configuration,nvim-lua,kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim
+2024-12-23,lua,1518,22,"✨ AI-powered coding, seamlessly in Neovim",olimorris,codecompanion.nvim,https://github.com/olimorris/codecompanion.nvim
+2024-12-23,lua,3441,2,A language server that offers Lua language support - programmed in Lua,LuaLS,lua-language-server,https://github.com/LuaLS/lua-language-server
+2024-12-23,lua,1046,4,Starter template for LazyVim,LazyVim,starter,https://github.com/LazyVim/starter
+2024-12-23,lua,3377,2,Lightweight yet powerful formatter plugin for Neovim,stevearc,conform.nvim,https://github.com/stevearc/conform.nvim
+2024-12-23,lua,2077,2,An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.,mfussenegger,nvim-lint,https://github.com/mfussenegger/nvim-lint
+2024-12-23,lua,18383,43,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2024-12-23,lua,10938,9,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2024-12-23,lua,8041,27,Use your Neovim like using Cursor AI IDE!,yetone,avante.nvim,https://github.com/yetone/avante.nvim
+2024-12-23,lua,102,13,An unbalanced Balatro mod,MathIsFun0,Cryptid,https://github.com/MathIsFun0/Cryptid
+2024-12-23,lua,4008,2,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2024-12-23,lua,5771,6,Debug Adapter Protocol client implementation for Neovim,mfussenegger,nvim-dap,https://github.com/mfussenegger/nvim-dap
+2024-12-23,lua,3512,1,improve neovim lsp experience,nvimdev,lspsaga.nvim,https://github.com/nvimdev/lspsaga.nvim
+2024-12-23,lua,1259,1,A community repository of common plugin specifications,AstroNvim,astrocommunity,https://github.com/AstroNvim/astrocommunity
+2024-12-23,lua,2435,53,"Performant, batteries-included completion plugin for Neovim",Saghen,blink.cmp,https://github.com/Saghen/blink.cmp
+2024-12-23,lua,648,4,A Neovim Plugin for the yazi terminal file manager,mikavilpas,yazi.nvim,https://github.com/mikavilpas/yazi.nvim
+2024-12-23,lua,17400,12,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2024-12-23,lua,1763,2,"Better quickfix window in Neovim, polish old quickfix window.",kevinhwang91,nvim-bqf,https://github.com/kevinhwang91/nvim-bqf
