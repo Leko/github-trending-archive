@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-25,go,79571,18,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",gin-gonic,gin,https://github.com/gin-gonic/gin
+2024-12-25,go,11235,72,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",kgretzky,evilginx2,https://github.com/kgretzky/evilginx2
+2024-12-25,go,6230,0,A mock code autogenerator for Go,vektra,mockery,https://github.com/vektra/mockery
+2024-12-25,go,11423,6,Exporter for machine metrics,prometheus,node_exporter,https://github.com/prometheus/node_exporter
+2024-12-25,go,11515,25,"Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).",moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData
+2024-12-25,go,11136,29,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,shadow1ng,fscan,https://github.com/shadow1ng/fscan
+2024-12-25,go,45252,19,Gogs is a painless self-hosted Git service,gogs,gogs,https://github.com/gogs/gogs
+2024-12-25,go,12535,18,🎧☁️ Your Personal Streaming Service,navidrome,navidrome,https://github.com/navidrome/navidrome
+2024-12-25,go,134964,49,"A curated list of awesome Go frameworks, libraries and software",avelino,awesome-go,https://github.com/avelino/awesome-go
+2024-12-25,go,2238,8,Kong is a command-line parser for Go,alecthomas,kong,https://github.com/alecthomas/kong
+2024-12-25,go,18862,8,Vitess is a database clustering system for horizontal scaling of MySQL.,vitessio,vitess,https://github.com/vitessio/vitess
+2024-12-25,go,7717,4,"Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",gonum,gonum,https://github.com/gonum/gonum
+2024-12-25,go,5224,7,"LangChain for Go, the easiest way to write LLM-based programs in Go",tmc,langchaingo,https://github.com/tmc/langchaingo
+2024-12-25,go,21244,6,The Go language implementation of gRPC. HTTP/2 based RPC,grpc,grpc-go,https://github.com/grpc/grpc-go
+2024-12-25,go,68917,5,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2024-12-25,go,7074,2,Fluent SQL generation for golang,Masterminds,squirrel,https://github.com/Masterminds/squirrel
+2024-12-25,go,11004,9,PostgreSQL driver and toolkit for Go,jackc,pgx,https://github.com/jackc/pgx
+2024-12-25,go,493,3,"A lightweight, fast, and secure code execution environment that supports multiple programming languages",langgenius,dify-sandbox,https://github.com/langgenius/dify-sandbox
+2024-12-25,go,1371,4,Algorand's official implementation in Go.,algorand,go-algorand,https://github.com/algorand/go-algorand
+2024-12-25,go,3230,3,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,WireGuard,wireguard-go,https://github.com/WireGuard/wireguard-go
+2024-12-25,go,3901,3,SQL-first Golang ORM,uptrace,bun,https://github.com/uptrace/bun
+2024-12-25,go,14528,5,Get JSON values quickly - JSON parser for Go,tidwall,gjson,https://github.com/tidwall/gjson
+2024-12-25,go,12017,7,CLI tool for spawning and running containers according to the OCI specification,opencontainers,runc,https://github.com/opencontainers/runc
