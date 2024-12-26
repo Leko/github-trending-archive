@@ -1,0 +1,15 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-26,haskell,2734,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-12-26,haskell,4172,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2024-12-26,haskell,24127,2,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2024-12-26,haskell,10557,0,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2024-12-26,haskell,36651,10,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-12-26,haskell,155,0,Symbolic formula representation and solver interaction library,GaloisInc,what4,https://github.com/GaloisInc/what4
+2024-12-26,haskell,210,0,Open source binary analysis tools.,GaloisInc,macaw,https://github.com/GaloisInc/macaw
+2024-12-26,haskell,1139,0,Cryptol: The Language of Cryptography,GaloisInc,cryptol,https://github.com/GaloisInc/cryptol
+2024-12-26,haskell,214,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-12-26,haskell,134,1,Haskell interactive serverside web framework inspired by HTMX,seanhess,hyperbole,https://github.com/seanhess/hyperbole
+2024-12-26,haskell,964,4,The official (but not yet stable) formatter for Nix code,NixOS,nixfmt,https://github.com/NixOS/nixfmt
+2024-12-26,haskell,35177,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-12-26,haskell,3086,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-12-26,haskell,3349,0,Koka language compiler and interpreter,koka-lang,koka,https://github.com/koka-lang/koka
