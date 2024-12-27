@@ -1,0 +1,17 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-27,haskell,36658,8,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2024-12-27,haskell,3104,2,"Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",simonmichael,hledger,https://github.com/simonmichael/hledger
+2024-12-27,haskell,35198,20,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2024-12-27,haskell,214,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2024-12-27,haskell,964,0,The official (but not yet stable) formatter for Nix code,NixOS,nixfmt,https://github.com/NixOS/nixfmt
+2024-12-27,haskell,2734,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2024-12-27,haskell,469,1,A language for intent-centric and declarative decentralised applications,anoma,juvix,https://github.com/anoma/juvix
+2024-12-27,haskell,4138,0,Functional Programming Course,system-f,fp-course,https://github.com/system-f/fp-course
+2024-12-27,haskell,3087,1,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2024-12-27,haskell,560,1,⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.,simplex-chat,simplexmq,https://github.com/simplex-chat/simplexmq
+2024-12-27,haskell,27,0,Cardano API,IntersectMBO,cardano-api,https://github.com/IntersectMBO/cardano-api
+2024-12-27,haskell,1633,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2024-12-27,haskell,5860,0,A friendly programming language from the future,unisonweb,unison,https://github.com/unisonweb/unison
+2024-12-27,haskell,138,4,"Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView",seanhess,hyperbole,https://github.com/seanhess/hyperbole
+2024-12-27,haskell,264,0,The ledger implementation and specifications of the Cardano blockchain.,IntersectMBO,cardano-ledger,https://github.com/IntersectMBO/cardano-ledger
+2024-12-27,haskell,141,0,Horn Clause Constraint Solving for Liquid Types,ucsd-progsys,liquid-fixpoint,https://github.com/ucsd-progsys/liquid-fixpoint
