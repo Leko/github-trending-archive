@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-30,go,26234,18,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,danielmiessler,fabric,https://github.com/danielmiessler/fabric
+2024-12-30,go,21099,30,The universal proxy platform,SagerNet,sing-box,https://github.com/SagerNet/sing-box
+2024-12-30,go,8585,15,A language for writing HTML user interfaces in Go.,a-h,templ,https://github.com/a-h/templ
+2024-12-30,go,8394,5,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",cadence-workflow,cadence,https://github.com/cadence-workflow/cadence
+2024-12-30,go,17745,9,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",FiloSottile,age,https://github.com/FiloSottile/age
+2024-12-30,go,17230,8,"Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",GoogleCloudPlatform,microservices-demo,https://github.com/GoogleCloudPlatform/microservices-demo
+2024-12-30,go,12756,18,A next-generation crawling and spidering framework.,projectdiscovery,katana,https://github.com/projectdiscovery/katana
+2024-12-30,go,11916,10,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",weaviate,weaviate,https://github.com/weaviate/weaviate
+2024-12-30,go,3498,0,Go implementation of Ethereum proof of stake,prysmaticlabs,prysm,https://github.com/prysmaticlabs/prysm
+2024-12-30,go,8370,23,Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure,encoredev,encore,https://github.com/encoredev/encore
+2024-12-30,go,1709,3,Repo for learning observability,iam-veeramalla,observability-zero-to-hero,https://github.com/iam-veeramalla/observability-zero-to-hero
+2024-12-30,go,15015,5,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2024-12-30,go,54625,43,simple terminal UI for git commands,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+2024-12-30,go,10546,38,Fast passive subdomain enumeration tool.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2024-12-30,go,5878,7,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",flyteorg,flyte,https://github.com/flyteorg/flyte
+2024-12-30,go,26400,25,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",XTLS,Xray-core,https://github.com/XTLS/Xray-core
+2024-12-30,go,104791,110,"Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2024-12-30,go,13383,6,Information gathering framework for phone numbers,sundowndev,phoneinfoga,https://github.com/sundowndev/phoneinfoga
+2024-12-30,go,1543,13,"Modern, easy to use download automation for torrents and usenet.",autobrr,autobrr,https://github.com/autobrr/autobrr
+2024-12-30,go,17698,6,Ingress NGINX Controller for Kubernetes,kubernetes,ingress-nginx,https://github.com/kubernetes/ingress-nginx
+2024-12-30,go,5571,20,"Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds",AnalogJ,scrutiny,https://github.com/AnalogJ/scrutiny
+2024-12-30,go,1933,8,Container to update DNS records periodically with WebUI for many DNS providers,qdm12,ddns-updater,https://github.com/qdm12/ddns-updater
+2024-12-30,go,8416,12,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",qdm12,gluetun,https://github.com/qdm12/gluetun

@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2024-12-30,rust,18591,30,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust,wez,wezterm,https://github.com/wez/wezterm
+2024-12-30,rust,26616,33,Secure and fast microVMs for serverless computing.,firecracker-microvm,firecracker,https://github.com/firecracker-microvm/firecracker
+2024-12-30,rust,46148,38,"☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",starship,starship,https://github.com/starship/starship
+2024-12-30,rust,7768,9,"⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",ast-grep,ast-grep,https://github.com/ast-grep/ast-grep
+2024-12-30,rust,21645,37,✨ Magical shell history,atuinsh,atuin,https://github.com/atuinsh/atuin
+2024-12-30,rust,24895,16,"A syntax-highlighting pager for git, diff, grep, and blame output",dandavison,delta,https://github.com/dandavison/delta
+2024-12-30,rust,87708,87,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",tauri-apps,tauri,https://github.com/tauri-apps/tauri
+2024-12-30,rust,57122,25,"A cross-platform, OpenGL terminal emulator.",alacritty,alacritty,https://github.com/alacritty/alacritty
+2024-12-30,rust,9294,9,Serialization framework for Rust,serde-rs,serde,https://github.com/serde-rs/serde
+2024-12-30,rust,13743,9,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2024-12-30,rust,13189,30,A modern alternative to ls,eza-community,eza,https://github.com/eza-community/eza
+2024-12-30,rust,17925,8,Cross-platform Rust rewrite of the GNU coreutils,uutils,coreutils,https://github.com/uutils/coreutils
+2024-12-30,rust,9635,10,ElKowars wacky widgets,elkowar,eww,https://github.com/elkowar/eww
+2024-12-30,rust,2980,6,A blazing fast inference solution for text embeddings models,huggingface,text-embeddings-inference,https://github.com/huggingface/text-embeddings-inference
+2024-12-30,rust,23715,44,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2024-12-30,rust,5718,15,"Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",stalwartlabs,mail-server,https://github.com/stalwartlabs/mail-server
+2024-12-30,rust,6221,0,Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.,aptos-labs,aptos-core,https://github.com/aptos-labs/aptos-core
+2024-12-30,rust,22450,34,A terminal workspace with batteries included,zellij-org,zellij,https://github.com/zellij-org/zellij
+2024-12-30,rust,62494,3,🌴 Empowering everyone to build reliable and efficient smart contracts.,FuelLabs,sway,https://github.com/FuelLabs/sway
+2024-12-30,rust,10148,33,A Git-compatible VCS that is both simple and powerful,jj-vcs,jj,https://github.com/jj-vcs/jj
+2024-12-30,rust,1955,3,A smithy for rusty wayland compositors,Smithay,smithay,https://github.com/Smithay/smithay
+2024-12-30,rust,26840,75,The user-friendly command line shell.,fish-shell,fish-shell,https://github.com/fish-shell/fish-shell
+2024-12-30,rust,4960,3,Open Source Spotify client library,librespot-org,librespot,https://github.com/librespot-org/librespot
