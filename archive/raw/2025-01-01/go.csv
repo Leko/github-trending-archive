@@ -1,0 +1,23 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2025-01-01,go,3224,1,Ethereum implementation on the efficiency frontier https://docs.erigon.tech,erigontech,erigon,https://github.com/erigontech/erigon
+2025-01-01,go,17743,8,An open and reliable container runtime,containerd,containerd,https://github.com/containerd/containerd
+2025-01-01,go,13877,38,The Open Source Dev Environment Manager.,daytonaio,daytona,https://github.com/daytonaio/daytona
+2025-01-01,go,68941,6,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,moby,moby,https://github.com/moby/moby
+2025-01-01,go,16216,5,"High-Performance server for NATS.io, the cloud and edge native messaging system.",nats-io,nats-server,https://github.com/nats-io/nats-server
+2025-01-01,go,38724,20,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2025-01-01,go,9132,12,A vulnerability scanner for container images and filesystems,anchore,grype,https://github.com/anchore/grype
+2025-01-01,go,8580,4,Provision remote development environments via Terraform,coder,coder,https://github.com/coder/coder
+2025-01-01,go,27104,16,"Fast, secure, efficient backup program",restic,restic,https://github.com/restic/restic
+2025-01-01,go,11088,5,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,swaggo,swag,https://github.com/swaggo/swag
+2025-01-01,go,8157,1,Autoscaling components for Kubernetes,kubernetes,autoscaler,https://github.com/kubernetes/autoscaler
+2025-01-01,go,24268,7,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2025-01-01,go,6114,2,A highly extensible Git implementation in pure Go.,go-git,go-git,https://github.com/go-git/go-git
+2025-01-01,go,17248,7,"Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",GoogleCloudPlatform,microservices-demo,https://github.com/GoogleCloudPlatform/microservices-demo
+2025-01-01,go,17979,6,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",casbin,casbin,https://github.com/casbin/casbin
+2025-01-01,go,8441,4,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2025-01-01,go,7449,6,Go implementation of JSON Web Tokens (JWT).,golang-jwt,jwt,https://github.com/golang-jwt/jwt
+2025-01-01,go,23745,12,A toolkit with common assertions and mocks that plays nicely with the standard library,stretchr,testify,https://github.com/stretchr/testify
+2025-01-01,go,27412,38,"🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",mudler,LocalAI,https://github.com/mudler/LocalAI
+2025-01-01,go,10620,36,Fast passive subdomain enumeration tool.,projectdiscovery,subfinder,https://github.com/projectdiscovery/subfinder
+2025-01-01,go,9178,2,Go client for Kubernetes.,kubernetes,client-go,https://github.com/kubernetes/client-go
+2025-01-01,go,18258,7,Find secrets with Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks

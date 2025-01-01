@@ -1,0 +1,18 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2025-01-01,haskell,36685,5,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2025-01-01,haskell,10568,0,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2025-01-01,haskell,4175,1,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2025-01-01,haskell,2737,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2025-01-01,haskell,3088,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2025-01-01,haskell,35236,13,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2025-01-01,haskell,164,0,"Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",mtolly,onyx,https://github.com/mtolly/onyx
+2025-01-01,haskell,214,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2025-01-01,haskell,2638,0,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2025-01-01,haskell,471,1,A language for intent-centric and declarative decentralised applications,anoma,juvix,https://github.com/anoma/juvix
+2025-01-01,haskell,452,1,Updating nixpkgs packages since 2018,nix-community,nixpkgs-update,https://github.com/nix-community/nixpkgs-update
+2025-01-01,haskell,142,2,"Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView",seanhess,hyperbole,https://github.com/seanhess/hyperbole
+2025-01-01,haskell,8614,2,A strongly-typed language that compiles to JavaScript,purescript,purescript,https://github.com/purescript/purescript
+2025-01-01,haskell,563,0,⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.,simplex-chat,simplexmq,https://github.com/simplex-chat/simplexmq
+2025-01-01,haskell,2557,0,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2025-01-01,haskell,24149,2,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2025-01-01,haskell,3389,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
