@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2025-01-02,rust,2059,47,"⚙️🦀 Build portable, modular & lightweight Fullstack Agents",0xPlaygrounds,rig,https://github.com/0xPlaygrounds/rig
+2025-01-02,rust,23881,36,A smarter cd command. Supports all major shells.,ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide
+2025-01-02,rust,9689,26,🥧 Savoury implementation of the QUIC transport protocol and HTTP/3,cloudflare,quiche,https://github.com/cloudflare/quiche
+2025-01-02,rust,52226,98,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",zed-industries,zed,https://github.com/zed-industries/zed
+2025-01-02,rust,1591,733,Generate any location from the real world in Minecraft Java Edition with a high level of detail.,louis-e,arnis,https://github.com/louis-e/arnis
+2025-01-02,rust,5849,9,"Modern embedded framework, using Rust and async.",embassy-rs,embassy,https://github.com/embassy-rs/embassy
+2025-01-02,rust,49511,13,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+2025-01-02,rust,29244,2,"Scalable datastore for metrics, events, and real-time analytics",influxdata,influxdb,https://github.com/influxdata/influxdb
+2025-01-02,rust,13779,9,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",launchbadge,sqlx,https://github.com/launchbadge/sqlx
+2025-01-02,rust,27523,15,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",tokio-rs,tokio,https://github.com/tokio-rs/tokio
+2025-01-02,rust,100921,16,A modern runtime for JavaScript and TypeScript.,denoland,deno,https://github.com/denoland/deno
+2025-01-02,rust,1047,3,All of the official Tauri plugins in one place!,tauri-apps,plugins-workspace,https://github.com/tauri-apps/plugins-workspace
+2025-01-02,rust,24930,12,"A syntax-highlighting pager for git, diff, grep, and blame output",dandavison,delta,https://github.com/dandavison/delta
+2025-01-02,rust,9543,40,Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.,rolldown,rolldown,https://github.com/rolldown/rolldown
+2025-01-02,rust,2680,30,The Grammar Checker for Developers,Automattic,harper,https://github.com/Automattic/harper
+2025-01-02,rust,1927,23,A markdown terminal slideshow tool,mfontanini,presenterm,https://github.com/mfontanini/presenterm
+2025-01-02,rust,10151,116,CUDA on non-NVIDIA GPUs,vosen,ZLUDA,https://github.com/vosen/ZLUDA
+2025-01-02,rust,19413,7,A Python Interpreter written in Rust,RustPython,RustPython,https://github.com/RustPython/RustPython
+2025-01-02,rust,10931,7,A new way to see and navigate directory trees : https://dystroy.org/broot,Canop,broot,https://github.com/Canop/broot
+2025-01-02,rust,27118,40,The user-friendly command line shell.,fish-shell,fish-shell,https://github.com/fish-shell/fish-shell
+2025-01-02,rust,14494,4,A Rust compiler front-end for IDEs,rust-lang,rust-analyzer,https://github.com/rust-lang/rust-analyzer
+2025-01-02,rust,10258,8,A native gRPC client & server implementation with async/await support.,hyperium,tonic,https://github.com/hyperium/tonic
+2025-01-02,rust,12363,6,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,quickwit-oss,tantivy,https://github.com/quickwit-oss/tantivy
