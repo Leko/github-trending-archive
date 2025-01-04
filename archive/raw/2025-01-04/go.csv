@@ -1,0 +1,24 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2025-01-04,go,43436,9,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",hashicorp,terraform,https://github.com/hashicorp/terraform
+2025-01-04,go,24291,8,"Like Prometheus, but for logs.",grafana,loki,https://github.com/grafana/loki
+2025-01-04,go,6494,8,Generate Go client and server boilerplate from OpenAPI 3 specifications,oapi-codegen,oapi-codegen,https://github.com/oapi-codegen/oapi-codegen
+2025-01-04,go,34355,11,Define and run multi-container applications with Docker,docker,compose,https://github.com/docker/compose
+2025-01-04,go,15966,7,Fast linters runner for Go,golangci,golangci-lint,https://github.com/golangci/golangci-lint
+2025-01-04,go,10551,2,Go library for accessing the GitHub v3 API,google,go-github,https://github.com/google/go-github
+2025-01-04,go,38761,10,A Commander for modern Go CLI interactions,spf13,cobra,https://github.com/spf13/cobra
+2025-01-04,go,3836,2,Google Cloud Client Libraries for Go.,googleapis,google-cloud-go,https://github.com/googleapis/google-cloud-go
+2025-01-04,go,56528,32,Run your GitHub Actions locally 🚀,nektos,act,https://github.com/nektos/act
+2025-01-04,go,18367,6,gRPC to JSON proxy generator following the gRPC HTTP spec,grpc-ecosystem,grpc-gateway,https://github.com/grpc-ecosystem/grpc-gateway
+2025-01-04,go,15024,3,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",influxdata,telegraf,https://github.com/influxdata/telegraf
+2025-01-04,go,38772,24,A node.js version management utility for Windows. Ironically written in Go.,coreybutler,nvm-windows,https://github.com/coreybutler/nvm-windows
+2025-01-04,go,10003,2,The AWS Provider enables Terraform to manage AWS resources.,hashicorp,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws
+2025-01-04,go,27912,16,🐶 Kubernetes CLI To Manage Your Clusters In Style!,derailed,k9s,https://github.com/derailed/k9s
+2025-01-04,go,18283,12,Find secrets with Gitleaks 🔑,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks
+2025-01-04,go,24696,71,"🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.",1Panel-dev,1Panel,https://github.com/1Panel-dev/1Panel
+2025-01-04,go,112111,36,Production-Grade Container Scheduling and Management,kubernetes,kubernetes,https://github.com/kubernetes/kubernetes
+2025-01-04,go,22380,8,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",asdf-vm,asdf,https://github.com/asdf-vm/asdf
+2025-01-04,go,105618,240,"Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",ollama,ollama,https://github.com/ollama/ollama
+2025-01-04,go,2736,3,AWS SDK for the Go programming language.,aws,aws-sdk-go-v2,https://github.com/aws/aws-sdk-go-v2
+2025-01-04,go,8455,9,A Modern Testing Framework for Go,onsi,ginkgo,https://github.com/onsi/ginkgo
+2025-01-04,go,11711,18,"World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",bytebase,bytebase,https://github.com/bytebase/bytebase
+2025-01-04,go,4847,3,Kubernetes controller for GitHub Actions self-hosted runners,actions,actions-runner-controller,https://github.com/actions/actions-runner-controller

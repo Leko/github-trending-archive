@@ -1,0 +1,13 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2025-01-04,haskell,35262,18,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2025-01-04,haskell,24164,8,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2025-01-04,haskell,10572,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2025-01-04,haskell,36692,3,"ShellCheck, a static analysis tool for shell scripts",koalaman,shellcheck,https://github.com/koalaman/shellcheck
+2025-01-04,haskell,214,0,The symbolic execution engine powering the K Framework,runtimeverification,haskell-backend,https://github.com/runtimeverification/haskell-backend
+2025-01-04,haskell,1315,1,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2025-01-04,haskell,1725,0,Informative git prompt for zsh,olivierverdier,zsh-git-prompt,https://github.com/olivierverdier/zsh-git-prompt
+2025-01-04,haskell,2639,1,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2025-01-04,haskell,145,0,"Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView",seanhess,hyperbole,https://github.com/seanhess/hyperbole
+2025-01-04,haskell,3088,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2025-01-04,haskell,2738,0,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2025-01-04,haskell,1637,2,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
