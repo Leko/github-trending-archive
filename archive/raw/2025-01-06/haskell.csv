@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2025-01-06,haskell,1639,0,Official upstream development repository for Cabal and cabal-install,haskell,cabal,https://github.com/haskell/cabal
+2025-01-06,haskell,1316,0,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",fossas,fossa-cli,https://github.com/fossas/fossa-cli
+2025-01-06,haskell,108,0,POSIX functionality,haskell,unix,https://github.com/haskell/unix
+2025-01-06,haskell,291,0,Implementation of the Hydra Head protocol,cardano-scaling,hydra,https://github.com/cardano-scaling/hydra
+2025-01-06,haskell,2561,1,A shell script which checks your $HOME for unwanted files and directories.,b3nj5m1n,xdg-ninja,https://github.com/b3nj5m1n/xdg-ninja
+2025-01-06,haskell,592,0,Contributed modules for xmonad,xmonad,xmonad-contrib,https://github.com/xmonad/xmonad-contrib
+2025-01-06,haskell,3393,0,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",xmonad,xmonad,https://github.com/xmonad/xmonad
+2025-01-06,haskell,35281,14,Universal markup converter,jgm,pandoc,https://github.com/jgm/pandoc
+2025-01-06,haskell,2791,0,Ethereum smart contract fuzzer,crytic,echidna,https://github.com/crytic/echidna
+2025-01-06,haskell,2741,1,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,haskell,haskell-language-server,https://github.com/haskell/haskell-language-server
+2025-01-06,haskell,975,1,The official (but not yet stable) formatter for Nix code,NixOS,nixfmt,https://github.com/NixOS/nixfmt
+2025-01-06,haskell,8995,1,"Parsing, analyzing, and comparing source code across many languages",github,semantic,https://github.com/github/semantic
+2025-01-06,haskell,4189,2,An advanced keyboard manager,kmonad,kmonad,https://github.com/kmonad/kmonad
+2025-01-06,haskell,2640,0,🇪🇺 Wire back-end services,wireapp,wire-server,https://github.com/wireapp/wire-server
+2025-01-06,haskell,497,1,Exercism exercises in Haskell.,exercism,haskell,https://github.com/exercism/haskell
+2025-01-06,haskell,10576,2,"Dockerfile linter, validate inline bash, written in Haskell",hadolint,hadolint,https://github.com/hadolint/hadolint
+2025-01-06,haskell,24167,0,REST API for any Postgres database,PostgREST,postgrest,https://github.com/PostgREST/postgrest
+2025-01-06,haskell,3088,0,The core component that is used to participate in a Cardano decentralised blockchain.,IntersectMBO,cardano-node,https://github.com/IntersectMBO/cardano-node
+2025-01-06,haskell,165,1,"Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",mtolly,onyx,https://github.com/mtolly/onyx

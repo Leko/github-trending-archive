@@ -1,0 +1,20 @@
+date,language,stargazers,starsToday,description,owner,name,url
+2025-01-06,lua,2836,37,"Performant, batteries-included completion plugin for Neovim",Saghen,blink.cmp,https://github.com/Saghen/blink.cmp
+2025-01-06,lua,17583,19,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",koreader,koreader,https://github.com/koreader/koreader
+2025-01-06,lua,4364,0,Neovim file explorer: edit your filesystem like a buffer,stevearc,oil.nvim,https://github.com/stevearc/oil.nvim
+2025-01-06,lua,1581,10,白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，立志于打造不输于商业输入法的输入体验。,gaboolic,rime-frost,https://github.com/gaboolic/rime-frost
+2025-01-06,lua,11016,10,Quickstart configs for Nvim LSP,neovim,nvim-lspconfig,https://github.com/neovim/nvim-lspconfig
+2025-01-06,lua,1654,3,"One dark and light colorscheme for neovim >= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles",navarasu,onedark.nvim,https://github.com/navarasu/onedark.nvim
+2025-01-06,lua,4057,6,Neovim plugin to manage the file system and other tree like structures.,nvim-neo-tree,neo-tree.nvim,https://github.com/nvim-neo-tree/neo-tree.nvim
+2025-01-06,lua,4508,13,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,rebelot,kanagawa.nvim,https://github.com/rebelot/kanagawa.nvim
+2025-01-06,lua,4136,1,Offline build planner for Path of Exile.,PathOfBuildingCommunity,PathOfBuilding,https://github.com/PathOfBuildingCommunity/PathOfBuilding
+2025-01-06,lua,5696,5,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,echasnovski,mini.nvim,https://github.com/echasnovski/mini.nvim
+2025-01-06,lua,312,0,⛵ LandSandBoat - a server emulator for Final Fantasy XI,LandSandBoat,server,https://github.com/LandSandBoat/server
+2025-01-06,lua,136,8,Nmap script that scans for probable vulnerabilities based on services discovered in open ports.,scmanjarrez,CVEScannerV2,https://github.com/scmanjarrez/CVEScannerV2
+2025-01-06,lua,2702,4,"null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",nvimtools,none-ls.nvim,https://github.com/nvimtools/none-ls.nvim
+2025-01-06,lua,3253,5,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",EdenEast,nightfox.nvim,https://github.com/EdenEast/nightfox.nvim
+2025-01-06,lua,15690,22,💤 A modern plugin manager for Neovim,folke,lazy.nvim,https://github.com/folke/lazy.nvim
+2025-01-06,lua,7492,7,,xiaorouji,openwrt-passwall,https://github.com/xiaorouji/openwrt-passwall
+2025-01-06,lua,774,3,"🌒 Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.",AlexvZyl,nordic.nvim,https://github.com/AlexvZyl/nordic.nvim
+2025-01-06,lua,18666,17,Neovim config for the lazy,LazyVim,LazyVim,https://github.com/LazyVim/LazyVim
+2025-01-06,lua,1294,2,A task runner and job management plugin for Neovim,stevearc,overseer.nvim,https://github.com/stevearc/overseer.nvim
